@@ -1,0 +1,33 @@
+name: Build and publish
+
+on: 
+  push:
+  workflow_dispatch:
+
+jobs:
+  fetch_and_process:
+    name: Fetch from working-data and process
+    runs-on: ubuntu-latest
+    env:
+      ANT_OPTS: -Xmx5g
+      TYPESENSE_SEARCH_KEY: ${{secrets.TYPESENSE_SEARCH_KEY}}
+      TYPESENSE_API_KEY: ${{secrets.TYPESENSE_API_KEY}}
+      TYPESENSE_HOST: ${{secrets.TYPESENSE_HOST}}
+      TYPESENSE_PORT: ${{vars.TYPESENSE_PORT}}
+      TYPESENSE_PROTOCOL: ${{vars.TYPESENSE_PROTOCOL}}
+    steps:
+    - name: Perform Checkout
+      uses: actions/checkout@v3
+    - name: Install Saxon, Ant and Python
+      run: |
+        apt-get update
+        ./shellscripts/dl_saxon.sh
+    - name: fetch data
+      run: | 
+        ./shellscripts/fetch_editions.sh
+    - name: add navigation anchors
+      run: |
+        ./shellscripts/add_navigation_layer.sh
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: fetched and processed data from working-data
