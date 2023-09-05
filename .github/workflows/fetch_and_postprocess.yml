@@ -3,6 +3,7 @@ name: Fetch from working-data and process
 on: 
   push:
   workflow_dispatch:
+  repository_dispatch:
 
 jobs:
   fetch_and_process:
