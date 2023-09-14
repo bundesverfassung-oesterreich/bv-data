@@ -14,24 +14,24 @@
         <!-- determine if article or section -->
         <xsl:variable name="item_class">
             <xsl:choose>
-                <xsl:when test="ancestor::tei:div[1][@ana ='article']">
+                <xsl:when test="ancestor::tei:div[1][@type ='article']">
                     <xsl:value-of select="concat($anchor_prefix, 'article')"/>
                 </xsl:when>
                 <xsl:otherwise>
-                    <xsl:value-of select="concat($anchor_prefix, ancestor::tei:div[1]/@ana)"/>
+                    <xsl:value-of select="concat($anchor_prefix, ancestor::tei:div[1]/@type)"/>
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:variable>
         <!-- create id for ref-->
         <xsl:variable name="anchor_id">
             <xsl:choose>
-                <xsl:when test="ancestor::tei:div[1][@ana = 'article']">
+                <xsl:when test="ancestor::tei:div[1][@type = 'article']">
                     <xsl:value-of select="concat($anchor_prefix, 'article_')"/>
-                    <xsl:number count="tei:div[@ana = 'article']" format="1" level="any"/>
+                    <xsl:number count="tei:div[@type = 'article']" format="1" level="any"/>
                 </xsl:when>
                 <xsl:otherwise>
                     <xsl:value-of select="concat($anchor_prefix, 'section_')"/>
-                    <xsl:number count="tei:div[@ana = 'section' or @ana = 'sub_section' or @ana = 'sub_sub_section']" level="any"/>
+                    <xsl:number count="tei:div[@type = 'section']" level="any"/>
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:variable>
