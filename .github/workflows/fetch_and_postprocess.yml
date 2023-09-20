@@ -24,7 +24,7 @@ jobs:
         apt-get update && apt-get install openjdk-11-jre-headless -y --no-install-recommend
         source ./shellscripts/dl_saxon.sh
     - name: fetch data
-      run: | 
+      run: |  
         ./shellscripts/fetch_editions.sh
     - name: add navigation anchors
       run: |
@@ -32,3 +32,11 @@ jobs:
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: fetched and processed data from working-data
+    - name: trigger fetch-wf in bv-static
+      run: |
+        status=$(curl --request POST \
+        --url 'https://api.github.com/repos/bundesverfassung-oesterreich/bv-static/dispatches' \
+        --header "authorization: token $GITHUB_USER_TOKEN" \
+        --data '{"event_type": "fetch worflow triggerd by push in data"}')
+        if [ -n "$status" ]; then  exit 1; fi
+        echo "workflwo seems to be running"
