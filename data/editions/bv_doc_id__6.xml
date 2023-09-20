@@ -8,7 +8,7 @@
                <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
             </principal>
             <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
+               <orgName>FWF - Der Wissenschaftsfonds</orgName>
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Wien</postCode>
@@ -53,6 +53,7 @@
             </availability>
             <idno type="transkribus_doc">1529204</idno>
             <idno type="transkribus_collection">195363</idno>
+            <idno type="goobi">14507</idno>
          </publicationStmt>
          <sourceDesc>
             <msDesc type="invetory">
@@ -65,15 +66,14 @@
                   <msItem>
                      <author role="acdh:hasAuthor">Kelsen, Hans</author>
                      <title>Kelsen Entwurf VI</title>
+                     <note type="editor">Kelsen VI (Titel des Dokuments "Entwurf VI"), Zustand gut, keine Ergänzungen, Artikel teils nicht nummeriert</note>
                   </msItem>
                </msContents>
                <physDesc>
-                  <objectDesc form="">
-                     <ab>Kelsen VI (Titel des Dokuments "Entwurf VI"), Zustand gut, keine Ergänzungen, Artikel teils nicht nummeriert</ab>
-                  </objectDesc>
+                  <objectDesc form="bv_manifestation_type_id__2">
+                        </objectDesc>
                   <handDesc>
-                     <ab/>
-                  </handDesc>
+                        </handDesc>
                </physDesc>
                <history>
                   <origin from="1919-05-01" to="1919-11-30">Zwischen Mai und November 1919</origin>
@@ -83,10 +83,12 @@
       </fileDesc>
       <profileDesc>
          <abstract>
-            <ab/>
+            <p/>
          </abstract>
          <creation>
-            <date from="1919-05-01" to="1919-11-30">Zwischen Mai und November 1919</date>
+            <date notBefore-iso="1919-05-01" notAfter-iso="1919-11-30">
+                Zwischen Mai und November 1919
+            </date>
          </creation>
       </profileDesc>
    </teiHeader>
@@ -357,9 +359,9 @@
                   height="4964px"/>
       </surface>
    </facsimile>
-   <text type="">
+   <text type="bv_doctype_id__1">
       <body>
-         <div>
+         <div type="main">
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <p>- 1 -</p>
