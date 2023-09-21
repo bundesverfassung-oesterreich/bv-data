@@ -16,6 +16,7 @@ jobs:
       TYPESENSE_HOST: ${{secrets.TYPESENSE_HOST}}
       TYPESENSE_PORT: ${{vars.TYPESENSE_PORT}}
       TYPESENSE_PROTOCOL: ${{vars.TYPESENSE_PROTOCOL}}
+      GITHUB_USER_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
     steps:
     - name: Perform Checkout
       uses: actions/checkout@v3
@@ -39,4 +40,4 @@ jobs:
         --header "authorization: token $GITHUB_USER_TOKEN" \
         --data '{"event_type": "fetch worflow triggerd by push in data"}')
         if [ -n "$status" ]; then  exit 1; fi
-        echo "workflwo seems to be running"
+        echo "workflow seems to be running"
