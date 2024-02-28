@@ -2,7 +2,7 @@
 # # def vars
 temp_path="./tmp_tmp/"
 zip_file="${temp_path}main.zip"
-fetched_transkribus_export_editions_path="${temp_path}bv-transkribus-export-main/editions/"
+fetched_transkribus_export_editions_path="${temp_path}bv-transkribus-export-main/editions_source/"
 fetched_working_data_path="${temp_path}bv-working-data-main/data/editions/"
 target_editions_path="./data/editions/"
 bv_transkribus_export_url="https://github.com/bundesverfassung-oesterreich/bv-transkribus-export/archive/refs/heads/main.zip"
