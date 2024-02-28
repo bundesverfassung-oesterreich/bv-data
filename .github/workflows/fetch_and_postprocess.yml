@@ -32,7 +32,7 @@ jobs:
         ./shellscripts/add_navigation_layer.sh
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: fetched and processed data from working-data
+        commit_message: fetched and processed data from working-data & transkribus-export
     - name: trigger fetch-wf in bv-static
       run: |
         status=$(curl --request POST \
