@@ -6,9 +6,7 @@
             <xsl:apply-templates select="node()|@*"/>
         </xsl:copy>
     </xsl:template>
-    <!--<xsl:template match="tei:head[not(preceding-sibling::tei:head)]">-->
-    <!-- I dont see any reason to not do it less strict, every heading could be for navigation I guess-->
-    <xsl:template match="//tei:body//tei:head">
+    <xsl:template match="//tei:body//tei:head[not(preceding-sibling::tei:head)]">
         <xsl:variable name="anchor_prefix">navigation_</xsl:variable>
         <!-- add anchor for navigation if it is head of article or section -->
         <!-- determine if article or section -->
