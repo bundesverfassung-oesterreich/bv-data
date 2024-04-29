@@ -19,7 +19,7 @@ jobs:
       GITHUB_USER_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
     steps:
     - name: Perform Checkout
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
     - name: Install Saxon and Updates
       run: |
         apt-get update && apt-get install openjdk-11-jre-headless -y --no-install-recommend
