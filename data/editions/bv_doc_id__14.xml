@@ -101,7 +101,7 @@
       <change when="2024-02-27" who="#cfh">document automatically created</change>
       <change when="2024-04-12" who="#m_huber">all div for articles and sections generated</change>
       <change when="2024-06-06" who="#m_huber">formatting completed</change>
-      <change when="2024-07-16" who="#s_kury">Gegengelesen bis Art. 9</change>
+      <change when="2024-08-22" who="#s_kury">Gegenlesen bis Art. 25</change>
     </revisionDesc>
   </teiHeader>
   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -259,9 +259,10 @@
             </div>
             <div type="article">
               <head>Artikel 9. </head>
-              <p type="legal_section"><label>(1)</label> Der Bundestag wird auf Grund des gleichen direkten, geheimen und persönlichen Wahlrechtes aller erwachsenen Männer und Frauen nach den Grundsätzen der
-                Verhältniswahl vom ganzen Bundesvolk gewählt. (2)
-                Seine Wahlperiode beträgt fünf Jahre. </p>
+              <p type="legal_section"><label>(1)</label> Der Bundestag wird auf Grund des gleichen
+                direkten, geheimen und persönlichen Wahlrechtes aller erwachsenen Männer und Frauen
+                nach den Grundsätzen der Verhältniswahl vom ganzen Bundesvolk gewählt.</p>
+              <p type="legal_section"><label>(2)</label> Seine Wahlperiode beträgt fünf Jahre.</p>
             </div>
             <div type="article">
               <head>Artikel 10.</head>
@@ -275,7 +276,11 @@
               <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
               <fw type="pageNum">5 </fw>
               <head>Artikel 11. </head>
-              <p type="legal_section"><label>(1)</label> Die Bundesversamlung entscheidet über Krieg und Frieden und verfügt über die bewaffnete Macht der Republik. </p>
+              <p type="legal_section"><label>(1)</label> Die Bundesversam<choice>
+                  <sic/>
+                  <corr>m</corr>
+                </choice>lung entscheidet über Krieg und Frieden und verfügt über die bewaffnete
+                Macht der Republik. </p>
               <p type="legal_section"><label>(2)</label> Ihr obliegt auch die Wahl der obersten Funktionäre des Bundes. </p>
             </div>
             <div type="article">
@@ -293,15 +298,17 @@
             <div type="article">
               <head>Artikel 14.</head>
               <p type="legal_section"><label>(1)</label> Jeder Gesetzesbeschluß des Bundestages
-                bedars. grundsätzlich der Zustimmung des Bundesrates. </p>
+                bedarf grundsätzlich der Zustimmung des Bundesrates. </p>
               <p type="legal_section"><label>(2)</label> Versagt der Bundesrat die Zustimmung, so gelangt der Gesetzesbeschluß neuerlich vor den Bundestag; wird der erste Beschluß vom Bundestag bei Anwesenheit
                 der Hälfte der Mitglieder mit Zweidrittelmehrheit wiederholt, so
                 ist er ohne weiteres Verfahren als Gesetz kundzumachen. </p>
-              <p type="legal_section"><label>(3)  </label>Verfassungsänderungen, Änderüngen des Wehrgesetzes und Staatsverträge können jedoch auf Grund der Beschlüsse des Bundestages allein ohne Zustimmung des Bundesrates niemals Gesetz werden. Versagt der
-                Bundesrat auch dann seine Zustimmung nachdem der Bundestag zum
-                zweitenmale über den Gegenstand Beschluß gefaßt hat, so kann bei
-                Verfassungsänderungen und Änderunges des Wehrgesetzes eine endgültige Entscheidung durch Volksabstimmung herbeigeführt werden, wenn diese vom Bundestag oder vom Bundesrat
-                mit Mehrheit verlangt wird.</p>
+              <p type="legal_section"><label>(3) </label>Verfassungsänderungen, Änderungen des
+                Wehrgesetzes und Staatsverträge können jedoch auf Grund der Beschlüsse des
+                Bundestages allein ohne Zustimmung des Bundesrates niemals Gesetz werden. Versagt
+                der Bundesrat auch dann seine Zustimmung nachdem der Bundestag zum zweitenmale über
+                den Gegenstand Beschluß gefaßt hat, so kann bei Verfassungsänderungen und Änderungen
+                des Wehrgesetzes eine endgültige Entscheidung durch Volksabstimmung herbeigeführt
+                werden, wenn diese vom Bundestag oder vom Bundesrat mit Mehrheit verlangt wird.</p>
               <p type="legal_section">
                 <label>(4)</label> Eine Gesamtänderung der Verfassung muß auch im
                 Falle der Zustimmung des Bundesrates noch einer Volksabstimmung
@@ -327,7 +334,10 @@
                 vollendet hat; der Bundespräsident darf während seiner Amtstätigkeit keiner politischen Körperschaft angehören und keinen anderen Beruf ausüben; die Bundesregierung
                 besteht aus dem Bundeskanzler, seinem Stellvertreter (Vizekanzler)
                 und den Bundesministern. </p>
-              <p type="legal_section"><label>(3)  </label>Dit Bundesämter werden durch Bundesgesetz eingerichtet.</p>
+              <p type="legal_section"><label>(3) </label>Di<choice>
+                  <sic>t</sic>
+                  <corr>e</corr>
+                </choice> Bundesämter werden durch Bundesgesetz eingerichtet.</p>
             </div>
             <div type="article">
               <head>Artikel 17. </head>
@@ -363,80 +373,81 @@
               <head>Artikel 21. </head>
               <p type="legal_section">Bundessache sind hinsichtlich Gesetzgebung und Vollziehung: <list>
                   <label>1.</label>
-                  <item>Die Bundesversassung und die Verfassungsgerichtsbarkeit;
-                    die Organisation der Bundesbehörden und das Dienstrecht der
-                    Bundesangestellten einschließlich der Regelung des im
-                    Einvernehmen mit dem in Betracht kommenden Land zu
-                    vollziehenden Wechsels zwischen Bundes= und Landesdienst; das
-                    Volkszählungswesen sowie die sonstige Statistik, soweit sie
-                    nicht nur den Interessen eines einzelnen Landes dient; die
-                    Regelung des wissenschaftlichen und sachtechnischen Archiv- und
+                  <item>Die Bundesverfassung und die Verfassungsgerichtsbarkeit; die Organisation
+                    der Bundesbehörden und das Dienstrecht der Bundesangestellten einschließlich der
+                    Regelung des im Einvernehmen mit dem in Betracht kommenden Land zu vollziehenden
+                    Wechsels zwischen Bundes- und Landesdienst; das Volkszählungswesen sowie die
+                    sonstige Statistik, soweit sie nicht nur den Interessen eines einzelnen Landes
+                    dient; die Regelung des wissenschaftlichen und sachtechnischen Archiv- und
                     Bibliotheksdienstes; </item>
                   <label>2.</label>
-                  <item> die auswärtigen Angelegenheiten mit Einschluß der
-                    politischen und wirtschaftlichen Vertretung gegenüber dem
-                    Auslande, insbesondere der Abschluß aller Staatsverträge; die
-                    Grenzvermarkung; die Regelung des Waren= und Viehverkehres mit dem Auslande; das Zollwesen;  </item>
+                  <item>die auswärtigen Angelegenheiten mit Einschluß der politischen und
+                    wirtschaftlichen Vertretung gegenüber dem Auslande, insbesondere der Abschluß
+                    aller Staatsverträge; die Grenzvermarkung; die Regelung des Waren- und
+                    Viehverkehres mit dem Auslande; das Zollwesen; </item>
                   <label>3.  </label>
                   <item>die militärischen Angelegenheiten mit Einschluß der
                     Kriegsschadenangelegenheiten;  </item>
                   <label>4. </label>
-                  <item> Die Bundesfinanzen, insbesondere die öffentlichen Abgaben,
-                    die ausschließlich oder teilweise für den Bund einzuheben sind;
-                    das Monopolwesen. Die Regelung, welche Abgaben dem Bunde und
-                    den Ländern zustehen; die Regelung der Anteilnahme<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">8</fw> der Länder an den Einnahmen des Bundes und die
-                    Regelung der Beiträge und Zuschüsse aus Bundesmitteln zu den
-                    Ausgaben der Länder erfolgt durch Bundesgesetz.  </item>
+                  <item>Die Bundesfinanzen, insbesondere die öffentlichen Abgaben, die
+                    ausschließlich oder teilweise für den Bund einzuheben sind; das Monopolwesen.
+                    Die Regelung, welche Abgaben dem Bunde und den Ländern zustehen; die Regelung
+                    der Anteilnahme<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw
+                      type="pageNum">8</fw> der Länder an den Einnahmen des Bundes und die Regelung
+                    der Beiträge und Zuschüsse aus Bundesmitteln zu den Ausgaben der Länder erfolgt
+                    durch Bundesgesetz. </item>
                   <label>5.</label>
-                  <item>Die innere Einrichtung, Ausrüstung und Ausbildung der
-                    Gendarmerie, einschließlich der Dienstvorschriften, das
-                    Verfügungsrecht über die Gendarmerie, jedoch nur insoweit, als
-                    es sich bei Notstand und Unruhen um die zeitweilige Verwendung von Teilen der Gendarmerie außerhalb des
-                    Landesbereiches handelt; die Sicherheitspolizei in der
-                    Bundeshauptstadt Wien und in den Landeshauptstädten; die
-                    Regelung und Überwachung des Eintrittes in das Bundesgebiet und
-                    des Austrüttes aus diesem; das Ein= und Auswanderungswesen, die Abschiebung, Abschaffung, Ausweisung und Auslieferung aus dem Bundesgebiet, sowie die Durchlieferung; das
-                    Stiftungs= und Fondswesen, soweit es sich um Stiftungen und
-                    Fonds handelt, die nach ihren Zwecken über den
-                    Interessenbereich eines Landes hinausgehen und nicht schon
-                    bisher von den Ländern autonom verwaltet wurden; </item>
+                  <item>Die innere Einrichtung, Ausrüstung und Ausbildung der Gendarmerie,
+                    einschließlich der Dienstvorschriften, das Verfügungsrecht über die Gendarmerie,
+                    jedoch nur insoweit, als es sich bei Notstand und Unruhen um die zeitweilige
+                    Verwendung von Teilen der Gendarmerie außerhalb des Landesbereiches handelt; die
+                    Sicherheitspolizei in der Bundeshauptstadt Wien und in den Landeshauptstädten;
+                    die Regelung und Überwachung des Eintrittes in das Bundesgebiet und des
+                    Austrittes aus diesem; das Ein- und Auswanderungswesen, die Abschiebung,
+                    Abschaffung, Ausweisung und Auslieferung aus dem Bundesgebiet, sowie die
+                    Durchlieferung; das Stiftungs- und Fondswesen, soweit es sich um Stiftungen und
+                    Fonds handelt, die nach ihren Zwecken über den Interessenbereich eines Landes
+                    hinausgehen und nicht schon bisher von den Ländern autonom verwaltet wurden; </item>
                   <label>6.</label>
-                  <item> das Zivil= und Strafrechtswesen einschließlich des
-                    Verwaltungsstrafrechtes in Angelegenheiten, deren Vollziehung
-                    dem Bunde zusteht; die Verwaltungsgerichtsbarkeit; die
-                    Enteignung, soweit sie nicht Angelegenheiten betrifft, die in
-                    den Wirkungskreis der Länder fallen; die Angelegenheiten der Notare, der Rechtsanwälte und verwandter Berufe;  </item>
+                  <item>das Zivil- und Strafrechtswesen einschließlich des Verwaltungsstrafrechtes
+                    in Angelegenheiten, deren Vollziehung dem Bunde zusteht; die
+                    Verwaltungsgerichtsbarkeit; die Enteignung, soweit sie nicht Angelegenheiten
+                    betrifft, die in den Wirkungskreis der Länder fallen; die Angelegenheiten der
+                    Notare, der Rechtsanwälte und verwandter Berufe; </item>
                   <label>7.</label>
-                  <item>das Hochschulwesen; die fachlichen Zentrallebranstalten;
-                    die Angelegenheiten der künstlerischen und wissenschaftlichen
-                    Sammlungen und Einrichtungen; den Denkmalschutz; die
-                    Angelegenheiten des Kultus;  </item>
+                  <item>das Hochschulwesen; die fachlichen Zentrallehranstalten; die Angelegenheiten
+                    der künstlerischen und wissenschaftlichen Sammlungen und Einrichtungen; den
+                    Denkmalschutz; die Angelegenheiten des Kultus; </item>
                   <label>8.</label>
-                  <item>das Bergwesen; die Ausführung der Regulierung und die
-                    Instandhaltung der schiffbaren und flößbaren Gewässer, dann
-                    solcher Gewisser, welche die Grenze gegen das Ausland oder
-                    zwischen Ländern bilden oder die zwei oder mehrere Länder durchfließen, den Bau derjenigen Wasserstraßen die das Inland mit dem Ausland oder die mehrere Länder verbinden; die Bekämpfung übertragbarer Krankheiten
-                    von Tieren; </item>
+                  <item>das Bergwesen; die Ausführung der Regulierung und die Instandhaltung der
+                    schiffbaren und flößbaren Gewässer, dann solcher Gewässer, welche die Grenze
+                    gegen das Ausland oder zwischen Ländern bilden oder die zwei oder mehrere Länder
+                    durchfließen, den Bau derjenigen Wasserstraßen, die das Inland mit dem Ausland
+                    oder die mehrere Länder verbinden; die Bekämpfung übertragbarer Krankheiten von
+                    Tieren; </item>
                   <label>9.</label>
                   <item>das Gewerbewesen, die öffentlichen Agentien und die
-                    Privatgeschäftsvermittlung; das Dampfkessel= und
-                    Kraftmaschinenwesen; das Vermessungswesen; das Ingenieur= und
-                    Ziviltechnikerwesin; dass Maß=, Gewichts=, Normen= und
-                    Punzierungswesen; das Urheberrecht; die Bekämpfung des
-                    unlauteren Wettbewerbes; das Patentwesen, sowie den Marken- und Musterschutz; das wirtschaftliche Assoziationwesen; die Handels= und Gewerbekammern; das Vertragsversicherungswesen; das Geld=, Kredit= Börse= und
-                    Bankwesen;  </item>
+                    Privatgeschäftsvermittlung; das Dampfkessel- und Kraftmaschinenwesen; das
+                    Vermessungswesen; das Ingenieur- und Ziviltechnikerwesen; dass Maß-, Gewichts-,
+                    Normen- und Punzierungswesen; das Urheberrecht; die Bekämpfung des unlauteren
+                    Wettbewerbes; das Patentwesen, sowie den Marken- und Musterschutz; das
+                    wirtschaftliche Assoziationwesen; die Handels- und Gewerbekammern; das
+                    Vertragsversicherungswesen; das Geld-, Kredit- Börse und Bankwesen; </item>
                   <label>10.</label>
-                  <item>das Verkehrswesen bezüglich der Eisenbahnen, der Schiffahrt
-                    und der Luftschiffahrt; die<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><fw type="pageNum">9</fw> Angelegenheiten der wegen ihrer Bedeutung für den Durchzugsverkehr durch Bundesgesetz als Bundesstraßen erklärten Straßenzüge; die Strom= und Schiffahrtspolizei; das Post-, Telegraphen- und Fernsprechwesen;  </item>
+                  <item>das Verkehrswesen bezüglich der Eisenbahnen, der Schiffahrt und der
+                    Luftschiffahrt; die<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><fw
+                      type="pageNum">9</fw> Angelegenheiten der wegen ihrer Bedeutung für den
+                    Durchzugsverkehr durch Bundesgesetz als Bundesstraßen erklärten Straßenzüge; die
+                    Strom- und Schiffahrtspolizei; das Post-, Telegraphen- und Fernsprechwesen; </item>
                   <label>11.</label>
-                  <item> die Bekämpfung übertragbarer Krankheiten von Menschen;  </item>
+                  <item>die Bekämpfung übertragbarer Krankheiten von Menschen; </item>
                   <label>12.</label>
-                  <item> das gesamte Arbeiterrecht und den Arbeiter= und
-                    Angestelltenschutz sowie das Sozialversicherungswesen, soweit
-                    es sich nicht um land- und forstwirtschaftliche Arbeiter und
-                    Angestellte handelt; die Fürsorge für Kriegsteilnehmer und deren Hinterbliebene; das Kriegsgräberwesen; die aus Anlaß eines Krieges oder im Gefolge eines solchen zur
-                    Sicherung der einheitlichen Führung der Wirtschaft notwendig
-                    erscheinenden Maßnahmen. </item>
+                  <item>das gesamte Arbeiterrecht und den Arbeiter- und Angestelltenschutz sowie das
+                    Sozialversicherungswesen, soweit es sich nicht um land- und forstwirtschaftliche
+                    Arbeiter und Angestellte handelt; die Fürsorge für Kriegsteilnehmer und deren
+                    Hinterbliebene; das Kriegsgräberwesen; die aus Anlaß eines Krieges oder im
+                    Gefolge eines solchen zur Sicherung der einheitlichen Führung der Wirtschaft
+                    notwendig erscheinenden Maßnahmen. </item>
                 </list></p>
             </div>
             <div type="article">
@@ -450,65 +461,66 @@
                     den Ländern und Landesteilen, zur Verhinderung der übermäßigen
                     oder verkehrserschwerenden Belastung der Benutzung öffentlicher Verkehrswege und Einrichtungen mit Gebühren und zur Verhinderung der Schädigung der Bundesfinanzen;  </item>
                   <label>2.</label>
-                  <item> die Staatsbürgerschaft und das Heimatrecht: das Vereins=
-                    und Versammlungsrecht; die Angelegenheiten der Presse; die
-                    Personenstandsangelegenheiten einschließlich des Matrikenwesens und der Namensänderung; das Paßwesen und die Fremdenpolizei;  </item>
+                  <item>die Staatsbürgerschaft und das Heimatrecht: das Vereins- und
+                    Versammlungsrecht; die Angelegenheiten der Presse; die
+                    Personenstandsangelegenheiten einschließlich des Matrikenwesens und der
+                    Namensänderung; das Paßwesen und die Fremdenpolizei; </item>
                   <label>3.</label>
-                  <item> das Verwaltungs= und Verwattungsstrafverfahren einschließlich der
+                  <item>das Verwaltungs- und Verwaltungsstrafverfahren einschließlich der
                     Zwangsvollstreckung sowie die allgemeinen Bestimmungen des
-                    Verwaltungsstrafrechtes in Angelegenheiten, deren Vollziehung den Ländern zusteht;  </item>
+                    Verwaltungsstrafrechtes in Angelegenheiten, deren Vollziehung den Ländern
+                    zusteht; </item>
                   <label>4.</label>
-                  <item> die Festsetzung des Lehrzieles bei den mittleren und
-                    niederen Schulen;  </item>
+                  <item>die Festsetzung des Lehrzieles bei den mittleren und niederen Schulen; </item>
                   <label>5.</label>
                   <item>das Veterinärwesen;  </item>
                   <label>6.</label>
-                  <item> das Munitions=, Schieß= und Sprengmittelwesen, soweit es
-                    nicht dem Monopol unterliegt, sowie das Waffenwesen:  </item>
+                  <item>das Munitions-, Schieß- und Sprengmittelwesen, soweit es nicht dem Monopol
+                    unterliegt, sowie das Waffenwesen: </item>
                   <label>7.</label>
-                  <item> die betriebstechnischen Vorschriften bezüglich des
-                    Kraftfahrwesens;  </item>
+                  <item>die betriebstechnischen Vorschriften bezüglich des Kraftfahrwesens; </item>
                   <label>8.</label>
-                  <item> die Ausbildung, Fort bildung und Berufsausübung von
-                    Heilpersonen; das Heilmittelwesen;<pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><fw type="pageNum">10 </fw>das Gesundheitswesen
-                    mit Ausnahme der Heil= und Pflegeanstalten und Ambularien, des
-                    Kurorte-, Leichen= und Begräbniswesens sowie des Gemeindesanitätsdienstes und Reitungswesens;  </item>
+                  <item>die Ausbildung, Fortbildung und Berufsausübung von Heilpersonen; das
+                      Heilmittelwesen;<pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><fw
+                      type="pageNum">10 </fw>das Gesundheitswesen mit Ausnahme der Heil- und
+                    Pflegeanstalten und Ambularien, des Kurorte-, Leichen- und Begräbniswesens sowie
+                    des Gemeindesanitätsdienstes und Rettungswesens; </item>
                   <label>9.</label>
-                  <item> das Volkswohnungs= und Volkspflegestättenwesen; </item>
+                  <item>das Volkswohnungs- und Volkspflegestättenwesen; </item>
                   <label>10. </label>
-                  <item> die beruflichen Vertretungen mit Ausnahme jener auf land=
-                    und forstwirtschaftlichem Gebiete.  </item>
+                  <item>die beruflichen Vertretungen mit Ausnahme jener auf land- und
+                    forstwirtschaftlichem Gebiete. </item>
                 </list></p>
             </div>
             <div type="article">
               <head>Artikel 23. </head>
               <p type="legal_section">Bundessache sind hinsichtlich der grundsätzlichen Gesetzgebung, Landessache hinsichtlich der Durchführungsgesetzgebung und der Vollziehung: <list>
                   <label>1.</label>
-                  <item> Die Organisation der Verwaltung in den Ländern; das
-                    Dienstrecht der Lehrpersonen an mittleren Unterrichtsanstalten
-                    und jener Angestellten des Landes, die behördliche Aufgaben zu
-                    besorgen haben, einschließlich der Regelung des im Einvernehmen der in Betracht kommenden Länder zu vollziehenden Dienstwechsels von Land zu Land; </item>
+                  <item>Die Organisation der Verwaltung in den Ländern; das Dienstrecht der
+                    Lehrpersonen an mittleren Unterrichtsanstalten und jener Angestellten des
+                    Landes, die behördliche Aufgaben zu besorgen haben, einschließlich der Regelung
+                    des im Einvernehmen der in Betracht kommenden Länder zu vollziehenden
+                    Dienstwechsels von Land zu Land; </item>
                   <label>2.</label>
-                  <item>die Einrichtungen zum Schutze der Gesellschaft gegen
-                    verbrecherische, verwahrloste oder sonst gefährliche Personen,
-                    wie Zwangsarbeits= und ähnliche Anstalten; die Abschiebung und
-                    Abschaffung aus einem in ein anderes Land;  </item>
+                  <item>die Einrichtungen zum Schutze der Gesellschaft gegen verbrecherische,
+                    verwahrloste oder sonst gefährliche Personen, wie Zwangsarbeits- und ähnliche
+                    Anstalten; die Abschiebung und Abschaffung aus einem in ein anderes Land; </item>
                   <label>3.</label>
-                  <item>das Wasserrecht und das Elektrizitätswesen; die Bodenreform
-                    (agrarische Operationen, Wiederbesiedelung usw.); und die
-                    Bodenentschuldung; das Forstwesen, einschließlich des
-                    Triftwesens, jedoch mit Ausnahme der Forst= und
+                  <item>das Wasserrecht und das Elektrizitätswesen; die Bodenreform (agrarische
+                    Operationen, Wiederbesiedelung usw.); und die Bodenentschuldung; das Forstwesen,
+                    einschließlich des Triftwesens, jedoch mit Ausnahme der Forst- und
                     Weideservituten: den Schutz der Pflanzen gegen Krankheiten und Schädlinge; </item>
                   <label>4.</label>
-                  <item> das Heil= und Pflegeanstaltenwesen einschließlich der
-                    Ambularien; die Ausgrabung und Überführung von Leichen;  </item>
+                  <item>das Heil- und Pflegeanstaltenwesen einschließlich der Ambularien; die
+                    Ausgrabung und Überführung von Leichen; </item>
                   <label>5.</label>
-                  <item> dasArbeiterrecht und den Arbeiter= und Angestelltenschutz
-                    sowie das Sozialversicherungswesen, soweit es sich um land= und
-                    forstwirtschaftliche Arbeiter und Angestellte handelt; das
-                    Armenwesen; die Bevölkerungspolitik; die Mutterschafts-, Säuglings= und Jugendfürsorge; die öffentlichen Einrichtungen zur außergerichtlichen Vermittlung von Streitigkeiten; </item>
+                  <item>das Arbeiterrecht und den Arbeiter- und Angestelltenschutz sowie das
+                    Sozialversicherungswesen, soweit es sich um land- und forstwirtschaftliche
+                    Arbeiter und Angestellte handelt; das Armenwesen; die Bevölkerungspolitik; die
+                    Mutterschafts-, Säuglings- und Jugendfürsorge; die öffentlichen Einrichtungen
+                    zur außergerichtlichen Vermittlung von Streitigkeiten; </item>
                   <label>6.</label>
-                  <item>die beruflichen Vertretungen aus land= und forstwirtschaftlichem Gebiete.  </item>
+                  <item>die beruflichen Vertretungen aus land- und forstwirtschaftlichem Gebiete. </item>
                 </list></p>
             </div>
             <div type="article">
