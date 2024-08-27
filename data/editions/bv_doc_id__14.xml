@@ -97,11 +97,12 @@
         <date notBefore-iso="1920-06-25" notAfter-iso="1929-06-25"> 25. Juni 1920 </date>
       </creation>
     </profileDesc>
-    <revisionDesc status="created">
+    <revisionDesc status="text_correct">
       <change when="2024-02-27" who="#cfh">document automatically created</change>
       <change when="2024-04-12" who="#m_huber">all div for articles and sections generated</change>
       <change when="2024-06-06" who="#m_huber">formatting completed</change>
-      <change when="2024-08-22" who="#s_kury">Gegenlesen bis Art. 25</change>
+      <change when="2024-08-22" who="#s_kury">Gegengelesen bis Art. 25</change>
+      <change when="2024-08-27" who="#s_kury">Gegenlesen beendet</change>
     </revisionDesc>
   </teiHeader>
   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -559,30 +560,36 @@
                 Bundesbehörden (unmittelbare Bundesverwaltung) oder durch die
                 Landesregierungen und die ihnen unterstellten Landesbehörden im
                 Bundesauftrag (mittelbare Bundesverwaltung) ausgeübt.   </p>
-              <p type="legal_section"><label>(2)</label> Eigene Bundesbehörden können für folgende Angelegenheiten errichtet werden: Regelung des Waren= und Viehverkehres mit dem Ausland, Zollwesen,
-                Bundessinanzen und Regelung der Finanzangelegenheiten zwischen Bund
-                und Bundesländern,<pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><fw type="pageNum"> 12 </fw>Monopolwesen, Maß=, Gewichts=, Normen=
-                und Punzierungswesen, Justizpflege, Verkehrswesen bezüglich der Eisenbahnen, der Schiffahrt und der Luftschiffahrt,
-                Strom= und Schiffahrtspolizei, Post=, Telegraphen= und
-                Fernsprechwesen, Bergwesin, militärische Angelegenheiten, innere
-                Einrichtung, Ausrüstung und Ausbildung der Gendarmerie, Sicherheitspolizei in der Bundeshauptstadt Wien und in den
-                Landeshauptstädten. Dem Bunde bleibt es vorbehalten, auch in diesen
-                Angelegenheiten die Landesregierungen mit der Ausübung der
-                vollziehenden Gewalt des Bundes zu beauftragen. </p>
-              <p type="legal_section"><label>(3)</label> Soweit die Landesregierungen Bundesangelegenheiten durchzuführen haben, sind sie an die Weisungen der Bundesregierung sowie der einzelnen Bundesämter
-                gebunden und ist für die Durchführung der Landeshauptmann der
-                Bundesregierung verantwortlich</p>
+              <p type="legal_section"><label>(2)</label> Eigene Bundesbehörden können für folgende
+                Angelegenheiten errichtet werden: Regelung des Waren- und Viehverkehres mit dem
+                Ausland, Zollwesen, Bundesfinanzen und Regelung der Finanzangelegenheiten zwischen
+                Bund und Bundesländern,<pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><fw
+                  type="pageNum"> 12 </fw>Monopolwesen, Maß-, Gewichts-, Normen- und
+                Punzierungswesen, Justizpflege, Verkehrswesen bezüglich der Eisenbahnen, der
+                Schiffahrt und der Luftschiffahrt, Strom- und Schiffahrtspolizei, Post-,
+                Telegraphen- und Fernsprechwesen, Bergwesen, militärische Angelegenheiten, innere
+                Einrichtung, Ausrüstung und Ausbildung der Gendarmerie, Sicherheitspolizei in der
+                Bundeshauptstadt Wien und in den Landeshauptstädten. Dem Bunde bleibt es
+                vorbehalten, auch in diesen Angelegenheiten die Landesregierungen mit der Ausübung
+                der vollziehenden Gewalt des Bundes zu beauftragen. </p>
+              <p type="legal_section"><label>(3)</label> Soweit die Landesregierungen
+                Bundesangelegenheiten durchzuführen haben, sind sie an die Weisungen der
+                Bundesregierung sowie der einzelnen Bundesämter gebunden und ist für die
+                Durchführung der Landeshauptmann der Bundesregierung verantwortlich.</p>
             </div>
             <div type="article">
               <head>Artikel 27. </head>
               <p type="legal_section"><label>(1)</label> Alle Gesetzesbeschlüsse der Landtage sind
                 unmittelbar nach erfolgter Beschlußfassung des Landtages und vor ihrer Kundmachung vom Landeshauptmann der
                 Bundesregierung bekanntzugeben. </p>
-              <p type="legal_section"><label>(2)</label> Wegen Gefährdung von Bundesinteressen kann die Bundesregierung unter gleichzeitiger Mitteilung an den Bundesrat binnen vier Wochen vom Tage der
-                eingelangten Beganntmachung an gegen den Gesetzesbeschluß des
-                Landtages Einspruch erheben. In diesem Falle sind der Beschluß samt
-                dem Einspruch der Bundesregierung und der etwaigen Äußerung des Bundesrates im Landtage neuerlich zur Verhandlung zu
-                stellen. </p>
+              <p type="legal_section"><label>(2)</label> Wegen Gefährdung von Bundesinteressen kann
+                die Bundesregierung unter gleichzeitiger Mitteilung an den Bundesrat binnen vier
+                Wochen vom Tage der eingelangten Be<choice>
+                  <sic>g</sic>
+                  <corr>k</corr>
+                </choice>anntmachung an gegen den Gesetzesbeschluß des Landtages Einspruch erheben.
+                In diesem Falle sind der Beschluß samt dem Einspruch der Bundesregierung und der
+                etwaigen Äußerung des Bundesrates im Landtage neuerlich zur Verhandlung zu stellen. </p>
               <p type="legal_section"><label>(3)</label> Wiederholt der Landtag seinen Gesetzesbeschluß, so ist dieser kundzumachen. Hat jedoch der Einspruch der Bundesregierung die Zustimmung des Bundesrates
                 erhalten, so kann ein solcher Gesetzesbeschluß nur kundgemacht
                 werden, wenn er bei Anwesenheit der Hälfte aller Mitglieder des
@@ -594,59 +601,65 @@
             <head>Die dem Bunde und den Bundesländern gemein samen Einrichtungen. </head>
             <div type="article">
               <head>Artikel 28. </head>
-              <p type="legal_section"><label>(1)</label> Zur Überprüfung der Gebarung in der gesamten Staatswirtschaft des Bundes und der Länder,
-                ferner die Gebarung der von Organen des Bundes oder der Länder
-                verwalteten Stiftungen. Fonds und Anstalten ist der Rechnungshof
-                  berufen.<pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>
-                <fw type="pageNum">13 </fw>Er kann auch die Gebarung von
-                Unternehmungen überprüfen, an denen der Bund finanziell be teiligt ist. </p>
+              <p type="legal_section"><label>(1)</label> Zur Überprüfung der Gebarung in der
+                gesamten Staatswirtschaft des Bundes und der Länder, ferner die Gebarung der von
+                Organen des Bundes oder der Länder verwalteten Stiftungen, Fonds und Anstalten ist
+                der Rechnungshof berufen.<pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>
+                <fw type="pageNum">13 </fw>Er kann auch die Gebarung von Unternehmungen überprüfen,
+                an denen der Bund finanziell be teiligt ist. </p>
               <p type="legal_section"><label>(2)</label> Der Rechnungshof untersteht unmittelbar der Bundesversammlung. </p>
               <p type="legal_section"><label>(3)</label> Der Präsident des Rechnungshofes wird von der Bundesversammlung gewählt und ist in bezug auf Verantwortlichkeit den Mitgliedern der Bundesregierung gleichgestellt. </p>
             </div>
             <div type="article">
               <head>Artikel 29. </head>
-              <p type="legal_section">Alle Urkunden über Staatsschulden (Finanz- und Verwaltungsschulden), insoweit sie eine Verpflichtung des
-                Bundes beinhalten, sind vom Präsidenten des Rechnungshofes
-                gegenzuzeichnen; durch diese Gegenzeichnung wird lediglich die
-                Gesetzmäßigkeit und rechnungsmäßige Richtigkelt der Gebarung bekräftigt.</p>
+              <p type="legal_section">Alle Urkunden über Staatsschulden (Finanz- und
+                Verwaltungsschulden), insoweit sie eine Verpflichtung des Bundes beinhalten, sind
+                vom Präsidenten des Rechnungshofes gegenzuzeichnen; durch diese Gegenzeichnung wird
+                lediglich die Gesetzmäßigkeit und rechnungsmäßige Richtigkeit der Gebarung
+                bekräftigt.</p>
             </div>
             <div type="article">
               <head>Artikel 30. </head>
               <p type="legal_section"><label>(1)</label> Wegen Rechtsverletzung durch die
                 Entscheidung oder Verfügung einer Verwaltungsbehörde des Bundes oder eines Bundeslandes entscheidet nach Erschöpfung des administrativen Instanzenzuges der Verwaltungsgerichtshof in Wien. </p>
-              <p type="legal_section"><label>(2)</label> Der Präsident und die eine Hälfte der Mitglieder werden auf Vorschlag der Bundesregierung, der Vizepräsident und die andere Hälfte der Mitglieder auf
-                Vorschlag des Bundesrates vom Bundes präsidenten ernannt. </p>
+              <p type="legal_section"><label>(2)</label> Der Präsident und die eine Hälfte der
+                Mitglieder werden auf Vorschlag der Bundesregierung, der Vizepräsident und die
+                andere Hälfte der Mitglieder auf Vorschlag des Bundesrates vom Bundespräsidenten
+                ernannt. </p>
               <p type="legal_section"><label>(3)</label> Wenigstens die Hälfte der Mitglieder muß die Eignung zum Richteramte haben.</p>
             </div>
             <div type="article">
               <head>Artikel 31. </head>
               <p type="legal_section"><label>(1)</label> Als oberster Hüter der Verfassung und Schiedsrichter zwischen dem Bunde und den Bundesländern fungiert der Verfassungsgerichtshof in Wien.   </p>
-              <p type="legal_section"><label>(2)</label> Dem Verfassungsgerichtshof obliegt die Enterscheidung über <list>
-                  <label>a)  </label>
+              <p type="legal_section"><label>(2)</label> Dem Verfassungsgerichtshof obliegt die
+                Entscheidung über <list>
+                  <label>a) </label>
                   <item>Verfassungswidrigkeit von Gesetzen; </item>
-                  <label>b)  </label>
-                  <item>Gesetzwidrigkeit von Verordnungen;  </item>
-                  <label>c)  </label>
-                  <item>Rechtsstreitigkeiten zwischen dem Bunde und den
-                    Bundesländern oder zwischen diesen untereinander;  </item>
-                  <label>d)  </label>
-                  <item>Kompetenzkonflikte zwischen den ordentlichen Gerichten und
-                    den Verwaltungsbehörden oder dem Verwaltungsgerichtshofe,
-                    ferner zwischen der Bundesregierung und den Landesregierungen oder zwischen diesen untereinander;  </item>
-                  <label>e)  </label>
-                  <item>Gesetzwidrigkeit von Wahlen zu den allgemeinen Vertretungskörpern;<pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><fw type="pageNum">14 </fw>
+                  <label>b) </label>
+                  <item>Gesetzwidrigkeit von Verordnungen; </item>
+                  <label>c) </label>
+                  <item>Rechtsstreitigkeiten zwischen dem Bunde und den Bundesländern oder zwischen
+                    diesen untereinander; </item>
+                  <label>d) </label>
+                  <item>Kompetenzkonflikte zwischen den ordentlichen Gerichten und den
+                    Verwaltungsbehörden oder dem Verwaltungsgerichtshofe, ferner zwischen der
+                    Bundesregierung und den Landesregierungen oder zwischen diesen untereinander; </item>
+                  <label>e) </label>
+                  <item>Gesetzwidrigkeit von Wahlen zu den allgemeinen Vertretungskörpern;<pb
+                      facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><fw type="pageNum">14
+                    </fw>
                   </item>
-                  <label>f)  </label>
-                  <item>Verantwortlichkeit des Bundespräsidenten, der Mitglieder
-                    der Bundesregierung, des Präsidenten des Rechnungshofes und der
-                    Mitglieder der Landesregierungen, insbesondere auch der Landeshauptmänner; </item>
-                  <label>g)  </label>
-                  <item>Verletzung der verfassungsmäßig gewährleisteten Rechte.
-                  </item>
+                  <label>f) </label>
+                  <item>Verantwortlichkeit des Bundespräsidenten, der Mitglieder der
+                    Bundesregierung, des Präsidenten des Rechnungshofes und der Mitglieder der
+                    Landesregierungen, insbesondere auch der Landeshauptmänner; </item>
+                  <label>g) </label>
+                  <item>Verletzung der verfassungsmäßig gewährleisteten Rechte. </item>
                 </list>
               </p>
-              <p type="legal_section"><label>(3) </label> Der Präsident und der Vizepräsideut des Verfassungsgerichtshofes werden von der Bundesversammlung, je die Hälfte der Mitglieder vom Bundestag und vom
-                Bundesrat gewählt.</p>
+              <p type="legal_section"><label>(3) </label> Der Präsident und der Vizepräsident des
+                Verfassungsgerichtshofes werden von der Bundesversammlung, je die Hälfte der
+                Mitglieder vom Bundestag und vom Bundesrat gewählt.</p>
             </div>
           </div>
           <div type="section">
