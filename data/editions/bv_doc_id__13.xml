@@ -204,14 +204,17 @@
             <div type="article">
               <head>Art. 1. </head>
               <p type="legal_section"><label>(1)</label> Oesterreich ist eine demokratische Republik </p>
-              <p type="legal_section"><label>(2)</label> Alle Öffentliche Gewalt geht vom Volke aus
+              <p type="legal_section"><label>(2)</label> Alle öffentliche Gewalt geht vom Volke aus
                 und wird in dessen Namen ausgeübt </p>
               <note type="comment">Art. 1</note>
             </div>
             <div type="article">
               <head>Art. 2. </head>
               <p type="legal_section">Die Republik Oesterreich ist ein freier Bundesstaat. <note type="comment">Art. 2, Al. 1 </note></p>
-              <p type="legal_section">Der Bund wird gebildet durch den Zusammenschluß der Länder Burgenland, Kärnten, Niederösterreich, Oberöstereich, Salzburg, Steiermark, Tirol, Vorarlberg und Wien (Bundesländer) <note type="comment">Al. 2 wird Art. 5</note></p>
+              <p type="legal_section">Der Bund wird gebildet durch den Zusammenschluß der Länder
+                Burgenland, Kärnten, Niederösterreich, Oberösterreich, Salzburg, Steiermark, Tirol,
+                Vorarlberg und Wien (Bundesländer). <note type="comment">Al. 2 wird Art.
+                5</note></p>
             </div>
             <div type="article">
               <head>Art. 3. </head>
@@ -219,9 +222,12 @@
                 Bundesgebiet. Es steht unter dem Schutze des Bundes. </p>
               <p type="legal_section"><label>(2)</label> Aenderungen der Bundesgrenze erfolgen
                 soweit sie nicht durch Staatsverträge herbeigeführt werden, durch Bundesverfassungsgesetz. </p>
-              <p type="legal_section"><label>(3)</label> Aenderungen der Landesgrenzen innerhalb des Bundesgebietes können entweder durch Bundesverfassungs gesetze oder durch übereinstimmende einfache Gesetze  <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
-                <fw type="pageNum">- 2 </fw>des Bundes und derjenigen Bundesländer,
-                deren Gebiet eine Aenderung erfahren soll, vorgenommen werden. </p>
+              <p type="legal_section"><label>(3)</label> Aenderungen der Landesgrenzen innerhalb des
+                Bundesgebietes können entweder durch Bundesverfassungsgesetze oder durch
+                übereinstimmende einfache Gesetze <pb facs="#facs_3" n="3" xml:id="img_0003"
+                  break="yes"/>
+                <fw type="pageNum">- 2 -</fw>des Bundes und derjenigen Bundesländer, deren Gebiet
+                eine Aenderung erfahren soll, vorgenommen werden. </p>
               <p type="legal_section"><label>(4)</label> Wächst der Republik ein Gebiet zu, das geschichtlich zu einem Bundeslande gehört hat, so wird es diesem Lande einverleibt. </p>
               <note type="comment">Art. 3</note>
             </div>
@@ -240,7 +246,7 @@
             <div type="article">
               <head>Art. 5. </head>
               <p type="legal_section"><label>(1)</label> Das Bundesgebiet bildet ein einheitliches
-                Währungs-, Wirtschafts und Zollgebiet. </p>
+                Währungs-, Wirtschafts- und Zollgebiet. </p>
               <p type="legal_section">
                 <label>(2)</label> Innerhalb der Grenzen des Bundes dürfen keinerlei Zwischenzollinien oder sonstigen Verkehrsbeschränkungen
                 errichtet werden. </p>
