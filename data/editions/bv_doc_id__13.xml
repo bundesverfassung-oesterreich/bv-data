@@ -107,6 +107,7 @@
         with second column)</change>
       <change when="2024-05-31" who="#m_huber">formatting completed</change>
       <change when="2024-04-18" who="#m_huber">note tag for comments created</change>
+      <change when="2024-09-02" who="#s_kury">Gegengelesen bis Art. 17</change>
     </revisionDesc>
   </teiHeader>
   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -206,15 +207,16 @@
               <p type="legal_section"><label>(1)</label> Oesterreich ist eine demokratische Republik </p>
               <p type="legal_section"><label>(2)</label> Alle öffentliche Gewalt geht vom Volke aus
                 und wird in dessen Namen ausgeübt </p>
-              <note type="comment">Art. 1</note>
+              <note type="comment">Art. 1.</note>
             </div>
             <div type="article">
               <head>Art. 2. </head>
-              <p type="legal_section">Die Republik Oesterreich ist ein freier Bundesstaat. <note type="comment">Art. 2, Al. 1 </note></p>
+              <p type="legal_section">Die Republik Oesterreich ist ein freier Bundesstaat. <note
+                  type="comment">Art. 2, Al. 1. </note></p>
               <p type="legal_section">Der Bund wird gebildet durch den Zusammenschluß der Länder
                 Burgenland, Kärnten, Niederösterreich, Oberösterreich, Salzburg, Steiermark, Tirol,
                 Vorarlberg und Wien (Bundesländer). <note type="comment">Al. 2 wird Art.
-                5</note></p>
+                5.</note></p>
             </div>
             <div type="article">
               <head>Art. 3. </head>
@@ -229,7 +231,7 @@
                 <fw type="pageNum">- 2 -</fw>des Bundes und derjenigen Bundesländer, deren Gebiet
                 eine Aenderung erfahren soll, vorgenommen werden. </p>
               <p type="legal_section"><label>(4)</label> Wächst der Republik ein Gebiet zu, das geschichtlich zu einem Bundeslande gehört hat, so wird es diesem Lande einverleibt. </p>
-              <note type="comment">Art. 3</note>
+              <note type="comment">Art. 3.</note>
             </div>
             <div type="article">
               <head>Art. 4. </head>
@@ -241,7 +243,7 @@
                 Bundesgesetz eingerichtet. </p>
               <p type="legal_section"><label>(3)</label> Ueber Streitigkeiten, die aus der
                 Auseinandersetzung zwischen Bundesländern über Gebietsänderungen entstehen, entscheidet der Verfassungsgerichtshof. </p>
-              <note type="comment">Vacat</note>
+              <note type="comment">Vacat.</note>
             </div>
             <div type="article">
               <head>Art. 5. </head>
@@ -250,7 +252,7 @@
               <p type="legal_section">
                 <label>(2)</label> Innerhalb der Grenzen des Bundes dürfen keinerlei Zwischenzollinien oder sonstigen Verkehrsbeschränkungen
                 errichtet werden. </p>
-              <note type="comment">Art. 2, Al. 2</note>
+              <note type="comment">Art. 2, Al. 2.</note>
             </div>
             <div type="article">
               <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
@@ -262,12 +264,13 @@
                 Gemeinde des Landes das Heimatsrecht besitzt. </p>
               <p type="legal_section"><label>(3)</label> Jeder Landesbürger ist Angehöriger des
                 Bundes. </p>
-              <note type="comment">Art. 4</note>
+              <note type="comment">Art. 4.</note>
             </div>
             <div type="article">
               <head>Art. 7. </head>
-              <p type="legal_section">Jeder Bundesangehörige hat in jedem Lande des Bundes die gleichen Rechte und Pflichten wie die Bürger des Landes selbst </p>
-              <note type="comment">Art. 5</note>
+              <p type="legal_section">Jeder Bundesangehörige hat in jedem Lande des Bundes die
+                gleichen Rechte und Pflichten wie die Bürger des Landes selbst. </p>
+              <note type="comment">Art. 5.</note>
             </div>
             <div type="article">
               <head>Art 8. </head>
@@ -278,8 +281,9 @@
             </div>
             <div type="article">
               <head>Art. 9 </head>
-              <p type="legal_section">Die deutsche Sprache ist, unbeschadet der den sprachlichen Minderheiten gesetzlich eingeräumten Rechte, die
-                Staatssprache der Republik <note type="comment">Art. 6</note></p>
+              <p type="legal_section">Die deutsche Sprache ist, unbeschadet der den sprachlichen
+                Minderheiten gesetzlich eingeräumten Rechte, die Staatssprache der Republik <note
+                  type="comment">Art. 6.</note></p>
             </div>
           </div>
           <div type="section">
@@ -289,69 +293,87 @@
               <head>Art. 10. </head>
               <p type="legal_section">Das Volk überträgt die öffentliche Gewalt gemäß den Bestimmungen dieser Verfassung auf den Bund oder die Bundesländer oder nach Maßgabe der Bundes- und Landesgesetze
                 auf die Gemeinden </p>
-              <note type="comment">Alinaa 1 von Art. 10, 11, 12</note>
+              <note type="comment">Alinea 1 von Art. 10, 11, 12.</note>
             </div>
             <div type="article">
-              <head>Art. 11. </head>
+              <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
+              <fw type="pageNum">4.</fw><head>Art. 11. </head>
               <p type="legal_section"><label>(1)</label> Der Oberste Träger der öffentlichen Gewalt
-                der Republik ist die Bundesversammlung die nach aussen durch den von ihr gewählten Bundespräsidenten vertreten und verkörpert wird. <note type="comment">Vacat</note></p>
+                der Republik ist die Bundesversammlung die nach aussen durch den von ihr gewählten
+                Bundespräsidenten vertreten und verkörpert wird. <note type="comment"
+                >Vacat.</note></p>
               <p type="legal_section"><label>(2)</label> Die Bundesversammlung besteht aus einem
-                Volkshaus, dem Bundestag, und aus einem Länderhaus dem Bundesrat. Die zwei Häuser der Bundesversammlung tagen mit Ausnahme der in der Verfassung ausdrücklich vorgesehenen Fälle abgesondert von einander. <note type="comment">Vacat</note></p>
+                Volkshaus, dem Bundestag, und aus einem Länderhaus, dem Bundesrat. Die zwei Häuser
+                der Bundesversammlung tagen mit Ausnahme der in der Verfassung ausdrücklich
+                vorgesehenen Fälle abgesondert von einander. <note type="comment">Vacat.</note></p>
             </div>
             <div type="article">
               <head>Art. 12. </head>
               <p type="legal_section"><label>(1)</label> Die gesetzgebende Gewalt wird durch
-                Vertretungen des Volkes ausgeübt, welche auf Grund des gleichen und geheimen Stimmrechtes im Verhältniswahlverfahren von allen erwachsenen Männern und Frauen gewählt werden.<note type="comment">Siehe Art. 19, 26, 86 </note>
+                Vertretungen des Volkes ausgeübt, welche auf Grund des gleichen und geheimen
+                Stimmrechtes im Verhältniswahlverfahren von allen erwachsenen Männern und Frauen
+                gewählt werden.<note type="comment">Siehe Art. 19, 26, 86.</note>
               </p>
               <p type="legal_section"><label>(2)</label> Die Volksvertreter sind auf Zeit gewählt
-                und in Ausübung ihres Berufes den Behörden des Bundes und der Länder nicht verantwortlich. <note type="comment">Siehe Art. 43,
-                  44, 86</note></p>
+                und in Ausübung ihres Berufes den Behörden des Bundes und der Länder nicht
+                verantwortlich. <note type="comment">Siehe Art. 43, 44, 86.</note></p>
               <p type="legal_section"><label>(3)</label> Die gesetzgebende Gewalt ist zum Teile dem
-                Bunde zum Teil den Bundesländern übertragen. </p>
+                Bunde, zum Teil den Bundesländern übertragen. </p>
             </div>
             <div type="article">
               <head>Art. 13. </head>
-              <p type="legal_section"><label>(1)</label> Das gesetzgebende Organ des Bundes ist der Bundestag, den das ganze Bundesvolk direkt wählt, in Gemeinschaft mit dem Bundesrate, dessen Mitglieder von den Landtagen gewählt werden. <note type="comment">Siehe Art. 15 und 26
-                </note></p>
-              <p type="legal_section"><label>(2)</label> Das gesetzgebende Organ der Länder sind die vom Volke direkt gewählten Landtage. <note type="comment">Siehe
-                  Art. 65</note></p>
+              <p type="legal_section"><label>(1)</label> Das gesetzgebende Organ des Bundes ist der
+                Bundestag, den das ganze Bundesvolk direkt wählt, in Gemeinschaft mit dem
+                Bundesrate, dessen Mitglieder von den Landtagen gewählt werden. <note type="comment"
+                  >Siehe Art. 15 und 26.</note></p>
+              <p type="legal_section"><label>(2)</label> Das gesetzgebende Organ der Länder sind die
+                vom Volke direkt gewählten Landtage. <note type="comment">Siehe Art. 65.</note></p>
             </div>
             <div type="article">
               <head>Art. 14. </head>
               <p type="legal_section"><label>(1)</label> Mit dem Vollzuge der Gesetze sind
-                Volksbeauftragte betraut die von den Volksvertretungen auf
-                jederzeitigen Widerruf bestellt und diesen unmittelbar und vor
-                  dem<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
-                <fw type="pageNum">5</fw> Verfassungsgerichtshof verantwortlich sind. Der Geltendmachung dieser Verantwortung steht die Nichtverantwort lichkeit des Volksvertreters (Art. 12, Al 2) nicht im Wege.<note type="comment">Vacat</note></p>
+                Volksbeauftragte betraut, die von den Volksvertretungen auf jederzeitigen Widerruf
+                bestellt und diesen unmittelbar und vor dem<pb facs="#facs_6" n="6"
+                  xml:id="img_0006" break="yes"/>
+                <fw type="pageNum">5.</fw> Verfassungsgerichtshof verantwortlich sind. Der
+                Geltendmachung dieser Verantwortung steht die Nichtverantwortlichkeit des
+                Volksvertreters (Art. 12, Al. 2) nicht im Wege.<note type="comment"
+                >Vacat.</note></p>
               <p type="legal_section"><label>(2)</label> An der Vollzugsgewalt nehmen nach Maßgabe
-                dieser Verfassung der Bund und die Bundesländer und auf Grund der Bundes- und Landesgesetze die Gemeinden teil. <note type="comment">Vacat</note></p>
+                dieser Verfassung der Bund und die Bundesländer und auf Grund der Bundes- und
+                Landesgesetze die Gemeinden teil. <note type="comment">Vacat.</note></p>
             </div>
             <div type="article">
               <head>Art. 15. </head>
               <p type="legal_section"><label>(1)</label> Die vom Bunde oder den Bundesländern
-                bestellten, an dem Vollzuge der Gesetze mitwirkenden Beamten der Republik leisten den Eid auf die Verfassung sind die Weisungen der Volksbeauftragten zu erfüllen gehalten und diesen verantwortlich. (Diensthoheit) <note type="comment">Vacat </note></p>
+                bestellten, an dem Vollzuge der Gesetze mitwirkenden Beamten der Republik leisten
+                den Eid auf die Verfassung, sind die Weisungen der Volksbeauftragten zu erfüllen
+                gehalten und diesen verantwortlich. (Diensthoheit) <note type="comment">Vacat.
+                </note></p>
               <p type="legal_section"><label>(2)</label> Die Beamten der Republik sind grundsätzlich
-                auf Lebenszeit bestellt. Ihr Dienstverhältnis zum Bund oder zu den Bundesländern (Dienstrecht Dienstordnung) und ihre Besoldung (Besoldungsordnung) sind gesetzlich geregelt
-                Streitigkeiten aus dem Dienstverhältnis werden durch ein besonderes
-                Schiedsverfahren erledigt. <note type="comment">Vacat</note></p>
+                auf Lebenszeit bestellt. Ihr Dienstverhältnis zum Bund oder zu den Bundesländern
+                (Dienstrecht, Dienstordnung) und ihre Besoldung (Besoldungsordnung) sind gesetzlich
+                geregelt. Streitigkeiten aus dem Dienstverhältnis werden durch ein besonderes
+                Schiedsverfahren erledigt. <note type="comment">Vacat.</note></p>
               <p type="legal_section"><label>(3)</label> Sonst herangezogene Hilfskräfte unterstehen
-                dem bürgerlichen Rechte und den bürgerleichen Gerichten. </p>
+                dem bürgerlichen Rechte und den bürgerlichen Gerichten. </p>
             </div>
             <div type="article">
               <head>Art. 16. </head>
               <p type="legal_section"><label>(1)</label> Das vollziehende Organ des Bundes sind der
-                Bundespräsident und die Bundesregierung. <note type="comment">Siehe
-                  Art. 49, 58 </note></p>
-              <p type="legal_section"><label>(2)</label> Der Bundespräsident wird von der
-                Bundesversammlung auf Zeit bestellt und ist der oberste
-                Volksbeauftragte der Republik. <note type="comment">Siehe Art. 49
+                Bundespräsident und die Bundesregierung. <note type="comment">Siehe Art. 49, 58.
                 </note></p>
+              <p type="legal_section"><label>(2)</label> Der Bundespräsident wird von der
+                Bundesversammlung auf Zeit bestellt und ist der oberste Volksbeauftragte der
+                Republik. <note type="comment">Siehe Art. 49. </note></p>
               <p type="legal_section"><label>(3)</label> Die Bundesregierung wird vom Bundestag
-                gewählt und besteht aus dem Bundeskanzler seinem Stellwertreter (Vizekanzler) und den Bundesministern. <note type="comment">Siehe
-                  Art. 60 </note></p>
-              <p type="legal_section"><label>(4)  </label>Die den Mitgliedern der Bundesregierung
-                zustehen den Aufträge und Vollmachten werden durch Verfassungsge-<note type="comment">Siehe Art. 64, Al. 2</note><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
-                <fw type="pageNum">6</fw>setz des Bundes bestimmt und abgegrenzt. </p>
+                gewählt und besteht aus dem Bundeskanzler, seinem Stellvertreter (Vizekanzler) und
+                den Bundesministern. <note type="comment">Siehe Art. 60. </note></p>
+              <p type="legal_section"><label>(4) </label>Die den Mitgliedern der Bundesregierung
+                zustehenden Aufträge und Vollmachten werden durch Verfassungsge-<note type="comment"
+                  >Siehe Art. 64, al. 2.</note><pb facs="#facs_7" n="7" xml:id="img_0007"
+                  break="yes"/>
+                <fw type="pageNum">6.</fw>setz des Bundes bestimmt und abgegrenzt. </p>
             </div>
             <div type="article">
               <head>Art. 17. </head>
@@ -372,7 +394,7 @@
                 Angelegenheiten, welche ihnen wegen ihrer örtlichen Natur
                 vorbehalten sind, selbstständig. (Vorbehaltene Gemeindesachen) </p>
               <p type="legal_section"><label>(2)</label> Sie haben die Bundes und Landesgesetze nach den Weisungen ihrer Landesregierung zu vollziehen und unterstehen deren Aufsicht (Gemeindeverwaltung im Auftrag des Bundes oder Landes). </p>
-              <note type="comment">Vacat</note>
+              <note type="comment">Vacat.</note>
             </div>
             <div type="article">
               <head>Art. 20. </head>
@@ -387,10 +409,12 @@
               <p type="legal_section"><label>(1)</label> Die Bundesversammlung entscheidet über
                 Krieg und Frieden, sie verfügt in gleicher Weise über die bewaffnete Macht der Republik. <note type="comment">Vacat, Siehe Art. 17, Al. 1 Siehe Art. 70 </note></p>
               <p type="legal_section"><label>(2)</label> Jeder wehrfähige Bundesangehörige ist
-                verpflichtet nach den Anordnungen der Bundesversammlung an der Verteidigung der Republik wider den angreifenden Feind teilzunehmen. <note type="comment">Vacat</note></p>
+                verpflichtet nach den Anordnungen der Bundesversammlung an der Verteidigung der
+                Republik wider den angreifenden Feind teilzunehmen. <note type="comment"
+                  >Vacat.</note></p>
               <p type="legal_section"><label>(3)</label> Auf dem Bundesgebiete und unter dem
-                Bundesvolke ist ausser den zuständigen Bundesbehörden niemand
-                befugt eine bewaffnete Macht zu werben, zu halten oder zu verwenden. <note type="comment">Vacat</note></p>
+                Bundesvolke ist ausser den zuständigen Bundesbehörden niemand befugt eine bewaffnete
+                Macht zu werben, zu halten oder zu verwenden. <note type="comment">Vacat.</note></p>
             </div>
             <div type="article">
               <head>Art. 22. </head>
@@ -402,7 +426,7 @@
                 Völkerbunde als freies Mitglied beizutreten und sich den von ihm geschaffenen Einrichtungen zu unterstellen. </p>
               <p type="legal_section"><label>(2)</label> Die Vertretung der Republik vor dem
                 Völkerbunde und gegenüber den anderen Staaten und der Abschluß von Staatsanträgen ist ausschließlich Sache des Bundes. </p>
-              <note type="comment">Vacat</note>
+              <note type="comment">Vacat.</note>
             </div>
           </div>
           <div type="section">
@@ -961,7 +985,7 @@
               politischen Bezirke und die Einteilung eines Landes in Kreise
               bedürfen übereinstimmender Bundes- und Landesgesetze. </p>
             <note type="comment">Neu</note>
-            <note type="comment">Vacat</note>
+            <note type="comment">Vacat.</note>
           </div>
           <div type="article">
             <head>Art. 117. </head>
