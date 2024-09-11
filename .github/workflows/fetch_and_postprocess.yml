@@ -22,7 +22,7 @@ jobs:
       uses: actions/checkout@v4
     - name: fetch data
       run: |  
-        ./shellscripts/fetch_editions.sh
+        ./shellscripts/fetch_tei_data.sh
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: fetched data from working-data & transkribus-export
