@@ -101,13 +101,14 @@
           8. Juli 1920 </date>
       </creation>
     </profileDesc>
-    <revisionDesc status="created">
+    <revisionDesc status="text_correct">
       <change when="2024-02-27" who="#cfh">document automatically created</change>
       <change when="2024-04-12" who="#m_huber">all div for articles and sections generated (problem
         with second column)</change>
       <change when="2024-05-31" who="#m_huber">formatting completed</change>
       <change when="2024-04-18" who="#m_huber">note tag for comments created</change>
       <change when="2024-09-24" who="#s_kury">Gegengelesen bis Art. 30</change>
+      <change when="2024-10-06" who="#s_kury">Gegenlesen beendet</change>
     </revisionDesc>
   </teiHeader>
   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -504,10 +505,15 @@
             <div type="article">
               <head>Art. 31. </head>
               <p type="legal_section"><label>(1)</label> Der Bund kann jedoch unbeschadet der
-                gleichen Befugnisse der Länder und Gemeinden zur Förderung des wirtschaftlichen und kulturellen Lebens im ganzen Bundesgebiete Bundesanstalten und Bundeseinrichtungen schaffen und erhalten, Veranstaltungen treffen und finanzielle Mit tel zur Verfügung stellen. </p>
+                gleichen Befugnisse der Länder und Gemeinden zur Förderung des wirtschaftlichen und
+                kulturellen Lebens im ganzen Bundesgebiete Bundesanstalten und Bundeseinrichtungen
+                schaffen und erhalten, Veranstaltungen treffen und finanzielle Mittel zur Verfügung
+                stellen. </p>
               <p type="legal_section"><label>(2) </label> Der Bund darf in allen diesen
-                Rechtsbeziehungen durch die Landesgesetzgebund niemals ungünstiger
-                gestellt werden als das betreffende Land selbst. </p>
+                Rechtsbeziehungen durch die Landesgesetzgebun<choice>
+                  <sic>d</sic>
+                  <corr>g</corr>
+                </choice> niemals ungünstiger gestellt werden als das betreffende Land selbst. </p>
               <note type="comment">Art. 14</note>
             </div>
             <div type="article">
@@ -520,11 +526,14 @@
             <head>Die Embleme der Republik. </head>
             <div type="article">
               <head>Art. 33. </head>
-              <p type="legal_section">Das Staatswappen der Republik stellt einen freischwebenden einköpfigen, schwarzen golden bewaffneten und rot
-                bezungten Adler dar dessen Brust mit einem roten, von einem
-                silbernen Querbalken durchzogenen Schildchen belegt ist. Der Adler
-                trägt auf dem Haupte eine goldene <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><fw type="pageNum">10</fw> Mauerkrone mit drei sichtbaren Zinnen, im rechten Fange eine goldene Sichel mit einwärts gekehrter Schneide im linken Fange einen goldenen Hammer. </p>
-              <note type="comment">Art. 7 u. 6</note>
+              <p type="legal_section">Das Staatswappen der Republik stellt einen freischwebenden
+                einköpfigen, schwarzen, golden bewaffneten und rot bezungten Adler dar, dessen Brust
+                mit einem roten, von einem silbernen Querbalken durchzogenen Schildchen belegt ist.
+                Der Adler trägt auf dem Haupte eine goldene <pb facs="#facs_11" n="11"
+                  xml:id="img_0011" break="yes"/><fw type="pageNum">10</fw> Mauerkrone mit drei
+                sichtbaren Zinnen, im rechten Fange eine goldene Sichel mit einwärts gekehrter
+                Schneide, im linken Fange einen goldenen Hammer. </p>
+              <note type="comment">Art. 7 u. 6.</note>
             </div>
             <div type="article">
               <head>Art. 34. </head>
@@ -532,25 +541,26 @@
             </div>
             <div type="article">
               <head>Art. 35. </head>
-              <p type="legal_section">In grosser Ausführung als Bundeswappen trägt das Staatswappen der Republik um das Mittelschild neun Nebenschilde auf dem Gefieder des Adlers und zwar zur Rechten Seite
-                absteigend die Wappen von Niederösterreich Oberösterreich
-                Steiermark und Burgenland zur linken Seite absteigend die Wappen
-                von Kärnten Salzburg, Tirol und Vorarlberg und in der Mitte oben
-                das Wappen der Stadt Wien </p>
+              <p type="legal_section">In grosser Ausführung als Bundeswappen trägt das Staatswappen
+                der Republik um das Mittelschild neun Nebenschilde auf dem Gefieder des Adlers, und
+                zwar zur Rechten Seite absteigend die Wappen von Niederösterreich Oberösterreich,
+                Steiermark und Burgenland, zur linken Seite absteigend die Wappen von Kärnten,
+                Salzburg, Tirol und Vorarlberg und in der Mitte oben das Wappen der Stadt Wien. </p>
             </div>
             <div type="article">
               <head>Art. 36. </head>
               <p type="legal_section"><label>(1)</label> Das Staatssiegel weist das Staatswappen mit
                 der Umschrift "Republik Oesterreich" auf. </p>
               <p type="legal_section"><label>(2)</label> Die Flagge der Republik besteht aus drei
-                gleichbreiten wagrechten Streifen von denen der mittlere weiss, der obere und untere rot ist.</p>
+                gleichbreiten wagrechten Streifen, von denen der mittlere weiss, der obere und
+                untere rot ist.</p>
             </div>
           </div>
         </div>
         <div type="section">
           <pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>
-          <fw type="pageNum">11</fw>
-          <note type="comment">Linzer Entwurf. Neuer Text</note>
+          <fw type="pageNum">11.</fw>
+          <note type="comment">Linzer Entwurf. Neuer Text.</note>
           <head>Zweites Hauptstück.</head>
           <head>Von der Bundesgesetzgebung.</head>
           <div type="section">
@@ -558,17 +568,18 @@
             <note type="comment">Art. 15 deleatur, siehe neu Artikel 11 und Art. 13, Al. 1. </note>
             <div type="article">
               <head>Art. 37. </head>
-              <p type="legal_section"><label>(1)</label> Der Sitz des Bundestages ist die Bundeshauptstadt Wien. </p>
-              <p type="legal_section"><label>(2)</label> Für die Dauer außerordentlicher Verhältnisse kann der Bundespräsident auf Antrag der
-                Bundesregierung den Bundestag in einen andern Ort des
-                Bundesgebietes berufen. </p>
-              <note type="comment">Art. 16</note>
+              <p type="legal_section"><label>(1)</label> Der Sitz des Bundestages ist die
+                Bundeshauptstadt Wien. </p>
+              <p type="legal_section"><label>(2)</label> Für die Dauer außerordentlicher
+                Verhältnisse kann der Bundespräsident auf Antrag der Bundesregierung den Bundestag
+                in einen andern Ort des Bundesgebietes berufen. </p>
+              <note type="comment">Art. 16.</note>
             </div>
             <note type="comment">Art. 17 und Art. 18 (gehören zum "Weg der Gesetzgebung")</note>
             <div type="article">
               <head>Art. 38</head>
               <p type="legal_section">jedoch Al. 4 gestrichen</p>
-              <note type="comment">Art. 19</note>
+              <note type="comment">Art. 19.</note>
             </div>
             <div type="article">
               <head>Art. 39 - 44</head>
@@ -580,14 +591,17 @@
             <head>2. Abschnitt: Der Bundesrat.</head>
             <div type="article">
               <head>Art. 46 </head>
-              <p type="legal_section"><label>(1)</label> Jeder Landtag wählt seine Vertreter in den Bundesrat nach dem Grundsatz der Verhältniswahl aus seiner Mitte. </p>
-              <p type="legal_section"><label>(2)  </label>Jedes Bundesland im Bundesrat mindestens durch drei Mitglieder vertreten. Bei den
-                Bundesländern mit mehr als 360.000 Einwohnern erhöht sich die Zahl
-                für je volle 120.000 Einwohner um ein Mitglied. </p>
-              <p type="legal_section"><label>(3)</label> Die Zahl der Mitglieder wird nach jeder allgemeinen Volkszählung durch den Bundesrat
-                festgesetzt.    </p>
+              <p type="legal_section"><label>(1)</label> Jeder Landtag wählt seine Vertreter in den
+                Bundesrat nach dem Grundsatz der Verhältniswahl aus seiner Mitte. </p>
+              <p type="legal_section"><label>(2) </label>Jedes Bundesland ist im Bundesrat
+                mindestens durch drei Mitglieder vertreten. Bei den Bundesländern mit mehr als
+                360.000 Einwohnern erhöht sich die Zahl für je volle 120.000 Einwohner um ein
+                Mitglied. </p>
+              <p type="legal_section"><label>(3)</label> Die Zahl der Mitglieder wird nach jeder
+                allgemeinen Volkszählung durch den Bundesrat festgesetzt. </p>
               <note type="comment">Art. 26</note>
-              <p type="legal_section"><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><fw type="pageNum">12</fw><label>(4)</label> Für jedes Mitgleid wird ein Ersatzmann
+              <p type="legal_section"><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><fw
+                  type="pageNum">12</fw><label>(4)</label> Für jedes Mitglied wird ein Ersatzmann
                 bestellt.</p>
               <p type="legal_section"><label>(5)</label> Bei der Ausübung ihres Mandates sind die
                 Mitglieder des Bundesrates an keinen Auftrag gebunden.<note type="comment">Al. 6
@@ -595,111 +609,125 @@
             </div>
             <div type="article">
               <head>Art. 46</head>
-              <p type="legal_section">unverändert</p>
+              <p type="legal_section">unverändert.</p>
               <note type="comment">Art. 27</note>
             </div>
             <div type="article">
               <head>Art. 47</head>
-              <p type="legal_section">Die Sitzungen des Bunderates sind nicht öffentlich. Die von
-                seinen Vorsitzenden ausgegebenen Mitteliungenüber den Verlauf der Beratungen und
+              <p type="legal_section">Die Sitzungen des Bundesrates sind nicht öffentlich. Die von
+                seinen Vorsitzenden ausgegebenen Mitteilungen über den Verlauf der Beratungen und
                 über die gefaßten Beschlüsse bleiben von jeder Verantwortung frei.</p>
               <note type="comment">Art. 28</note>
             </div>
             <div type="article">
-              <head>Art. 48</head>
+              <head>Art. 48.</head>
               <note type="comment">Art. 29 etwas umzustilisieren.</note>
             </div>
           </div>
           <div type="section">
-            <head>III. Abschnitt: Der Gang der Bundesgesetzgebung</head>
+            <head>III. Abschnitt: Der Gang der Bundesgesetzgebung.</head>
             <div type="article">
-              <head>Art. 49.</head>
-              <p type="legal_section"><label>(1)</label> Gesetzesvorschläge werden im Bundestage eingebracht. </p>
-              <p type="legal_section"><label>(2)</label> Sie gelangen an den Bundestag entweder als Vorlage der Bundesregierung oder als Anträge
-                seiner Mitglieder. </p>
-              <p type="legal_section"><label>(3)</label> Außerdem kann der Bundesrat im Wege der Bundesregierung Gesetzesanträge an den Bundestag
-                stellen. </p>
-              <p type="legal_section"><label>(4)</label> Endlich ist jeder von 300.000 Stimmberechtigten gestellte Antrag von der Bundesregierung
-                dem Bundestag zur geschäftsordnungsmässigen Behandlung vorzulegen. </p>
-              <note type="comment">Art. 30</note>
+              <head>Art. 49</head>
+              <p type="legal_section"><label>(1)</label> Gesetzesvorschläge werden im Bundestage
+                eingebracht. </p>
+              <p type="legal_section"><label>(2)</label> Sie gelangen an den Bundestag entweder als
+                Vorlage der Bundesregierung oder als Anträge seiner Mitglieder. </p>
+              <p type="legal_section"><label>(3)</label> Außerdem kann der Bundesrat im Wege der
+                Bundesregierung Gesetzesanträge an den Bundestag stellen. </p>
+              <p type="legal_section"><label>(4)</label> Endlich ist jeder von 300.000
+                Stimmberechtigten gestellte Antrag von der Bundesregierung dem Bundestag zur
+                geschäftsordnungsmässigen Behandlung vorzulegen. </p>
+              <note type="comment">Art. 30.</note>
             </div>
             <div type="article">
               <pb facs="#facs_14" n="14" xml:id="img_0015" break="yes"/>
               <fw type="pageNum">13.</fw>
               <head>Art. 50. </head>
-              <p type="legal_section"><label>(1)</label> Uebereinstimmende Beschlüsse des Bundestages und des Bundesrates sind erforderlich <list>
+              <p type="legal_section"><label>(1)</label> Uebereinstimmende Beschlüsse des
+                Bundestages und des Bundesrates sind erforderlich <list>
                   <label>1.</label>
-                  <item>bei Gesetzen, welche eine Aenderung der Verfassung
-                    bewirken,  </item>
+                  <item>bei Gesetzen, welche eine Aenderung der Verfassung bewirken, </item>
                   <label>2.</label>
-                  <item>bei Aenderungen des Wehrgesetzes,  </item>
+                  <item>bei Aenderungen des Wehrgesetzes, </item>
                   <label>3.</label>
-                  <item>bei Staatsverträgen, die sich auf Gegenstände beziehen,
-                    welche der Gesetzgebung vorbehalten sind.  </item>
+                  <item>bei Staatsverträgen, die sich auf Gegenstände beziehen, welche der
+                    Gesetzgebung vorbehalten sind. </item>
                 </list></p>
-              <p type="legal_section"><label>(2)</label> Bedarf es zur Durchführung solcher Staatsverträge gesetzlicher Maßnahmen der Länder, so
-                haben diese die betreffenden Gesetze zu erlassen; kommt ein Land
-                dieser Verpflichtung nicht rechtzeitig nach, so erläßt der Bund das Gesetz. </p>
-              <p type="legal_section"><label>(3)</label> Die Bundesregierung hat in Durchführung von Verträgen und Uebereinkommen mit fremden
-                Staaten das Ueberwachungsrecht auch in Landessachen. Hiebei stehen
-                dem Bunde die gleichen Rechte gegenüber den Ländern zu wie bei aller Angelegenheiten der Landesverwaltung in
-                Bundesauftrag. </p>
-              <note type="comment">Art. 17</note>
+              <p type="legal_section"><label>(2)</label> Bedarf es zur Durchführung solcher
+                Staatsverträge gesetzlicher Maßnahmen der Länder, so haben diese die betreffenden
+                Gesetze zu erlassen; kommt ein Land dieser Verpflichtung nicht rechtzeitig nach, so
+                erläßt der Bund das Gesetz. </p>
+              <p type="legal_section"><label>(3)</label> Die Bundesregierung hat in Durchführung von
+                Verträgen und Uebereinkommen mit fremden Staaten das Ueberwachungsrecht auch in
+                Landessachen. Hiebei stehen dem Bunde die gleichen Rechte gegenüber den Ländern zu
+                wie bei aller Angelegenheiten der Landesverwaltung in Bundesauftrag. </p>
+              <note type="comment">Art. 17.</note>
             </div>
             <div type="article">
-              <head>Art. 51</head>
+              <head>Art. 51.</head>
               <p type="legal_section">wörtlich </p>
-              <note type="comment">Art. 18</note>
+              <note type="comment">Art. 18.</note>
             </div>
             <div type="article">
-              <head>Art. 52</head>
-              <p type="legal_section"><label>(1)</label> Jeder Gesetzesbeschluß des Bundestages ist durch dessen Präsidenten im Wege des
-                Bundeskanzlers dem Bundesrat ohne Verzug zu übermitteln. </p>
-              <p type="legal_section"><label>(2)</label> Der Bundesrat erstattet dem Bundestag zu Gesetzesbeschlüssen, die nicht nach Art. 50
-                und 51 gefaßt sind, im Wege der Bundesregierung zu den
-                übermittelten Beschlüssen seine Aeußerung. </p>
-              <p type="legal_section"><pb break="yes" xml:id="vmc_lp5_4bc" facs="#facs_15" n=""/><label>(3)</label> Stimmt diese Aeußerung ohne Vorbehalt dem
-                Beschlüsse zu, so kann er sofort beurkundet und als Gesetz
-                kundgemacht werden. </p>
-              <p type="legal_section"><label>(4)</label> Enthält die Aeußerung einen Vorbehalt oder Einspruch, so legt die Bundesregierung den
-                Beschluß samt Aeußerung und Begründung dem Bundestag unverzüglich
-                zur nachmaligen Beschlubfassung vor. Diese ist endgültig. </p>
-              <note type="comment">Art. 38, 39</note>
+              <head>Art. 52.</head>
+              <p type="legal_section"><label>(1)</label> Jeder Gesetzesbeschluß des Bundestages ist
+                durch dessen Präsidenten im Wege des Bundeskanzlers dem Bundesrat ohne Verzug zu
+                übermitteln. </p>
+              <p type="legal_section"><label>(2)</label> Der Bundesrat erstattet dem Bundestag zu
+                Gesetzesbeschlüssen, die nicht nach Art. 50 und 51 gefaßt sind, im Wege der
+                Bundesregierung zu den übermittelten Beschlüssen seine Aeußerung. </p>
+              <p type="legal_section"><pb break="yes" xml:id="vmc_lp5_4bc" facs="#facs_15" n=""
+                  /><label>(3)</label> Stimmt diese Aeußerung ohne Vorbehalt dem Beschlusse zu, so
+                kann er sofort beurkundet und als Gesetz kundgemacht werden. </p>
+              <p type="legal_section"><label>(4)</label> Enthält die Aeußerung einen Vorbehalt oder
+                Einspruch, so legt die Bundesregierung den Beschluß samt Aeußerung und Begründung
+                dem Bundestag unverzüglich zur nachmaligen Beschlußfassung vor. Diese ist endgültig. </p>
+              <note type="comment">Art. 38, 39.</note>
             </div>
             <div type="article">
-              <head>Art. 53</head>
-              <p type="legal_section"><label>(1)</label> Gesetzesbeschlüsse des Bundestages über Verfassungsänderungen, Aenderungen des Wehrgesetzes und über Staatsverträge hat der Bundesrat sofort in
-                Verhandlung zu nehmen und binnen vierzehn Tagen zu erledigen. </p>
-              <p type="legal_section"><label>(2)</label> Erteilt er ihnen seine Zustimmung, so wird der Beschluß dem Bundeskanzler übermittelt und
-                durch diesen dem Bundespräsidenten zur Beurkundung unterbreitet.
-                  <note type="comment">Volksabstimmung fällt weg.</note>
+              <head>Art. 53.</head>
+              <p type="legal_section"><label>(1)</label> Gesetzesbeschlüsse des Bundestages über
+                Verfassungsänderungen, Aenderungen des Wehrgesetzes und über Staatsverträge hat der
+                Bundesrat sofort in Verhandlung zu nehmen und binnen vierzehn Tagen zu erledigen. </p>
+              <p type="legal_section"><label>(2)</label> Erteilt er ihnen seine Zustimmung, so wird
+                der Beschluß dem Bundeskanzler übermittelt und durch diesen dem Bundespräsidenten
+                zur Beurkundung unterbreitet. <note type="comment">Volksabstimmung fällt weg.</note>
               </p>
-              <p type="legal_section"><label>(3)</label> Verweigert der Bundesrat seine Zustimmung oder beschließt er Abänderungen und Ergänzungen, so wird der Beschluß des Bundesrates im Wege des
-                Bundeskanzlers an den Bundestag geleitet, der ihn ohne Verzug in
-                Verhandlung nimmt, einen neuerlichen Gesetzesbe schluß faßt und dem Bundesrat zumittelt. <note type="comment">Das Recht auf
-                  Abänderung in diesem sehr nötig.</note></p>
-              <p type="legal_section"><label>(4)</label> Kommt nach zweimaligen Austausch der Beschlüsse eine Uebereinstimmung nicht zustande, so
-                gilt die Vorlage, - unbeschadet der Bestimmung des Art. 55, Abs. 3
-                als gescheitert. </p>
-              <note type="comment">Art. 38, 39</note>
+              <p type="legal_section"><label>(3)</label> Verweigert der Bundesrat seine Zustimmung
+                oder beschließt er Abänderungen und Ergänzungen, so wird der Beschluß des
+                Bundesrates im Wege des Bundeskanzlers an den Bundestag geleitet, der ihn ohne
+                Verzug in Verhandlung nimmt, einen neuerlichen Gesetzesbeschluß faßt und dem
+                Bundesrat zumittelt. <note type="comment">Das Recht auf Abänderung in diesen Punkten
+                  sehr nötig.</note></p>
+              <p type="legal_section"><label>(4)</label> Kommt nach zweimaligem Austausch der
+                Beschlüsse eine Uebereinstimmung nicht zustande, so gilt die Vorlage, - unbeschadet
+                der Bestimmung des Art. 55, Abs. 3 als gescheitert. </p>
+              <note type="comment">Art. 38, 39.</note>
             </div>
             <div type="article">
               <head>Art. 54</head>
-              <p type="legal_section"><label>(1)</label> Zu einem Beschlüsse ist im Bundestag die Anwesenheit von mindestens einem Viertel, <pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/><fw type="pageNum">13</fw> im Bundesrat von mindestens der Hälfte aller Mitglieder und die absolute Mehrheit der abgegebenen Stimmen
-                erforderlich. </p>
-              <p type="legal_section"><label>(2)</label> Eine Abänderung der Bundesverfassung kann jedoch in beiden Häusern nur bei Anwesenheit der Hälfte der Mitglieder mit Zweidrittelmehrheit beschlossen werden. </p>
+              <p type="legal_section"><label>(1)</label> Zu einem Beschlusse ist im Bundestag die
+                Anwesenheit von mindestens einem Viertel, <pb facs="#facs_16" n="16"
+                  xml:id="img_0016" break="yes"/><fw type="pageNum">13</fw> im Bundesrat von
+                mindestens der Hälfte aller Mitglieder und die absolute Mehrheit der abgegebenen
+                Stimmen erforderlich. </p>
+              <p type="legal_section"><label>(2)</label> Eine Abänderung der Bundesverfassung kann
+                jedoch in beiden Häusern nur bei Anwesenheit der Hälfte der Mitglieder mit
+                Zweidrittelmehrheit beschlossen werden. </p>
               <note type="comment">Art. 31</note>
             </div>
             <div type="article">
               <head>Art. 55.</head>
-              <p type="legal_section"><label>(1)</label> Jede Gesamtänderung der Verfassung hat der Bundespräsident, nachdem beide Häuser übereinstimmende Beschlüsse gefast haben, vor deren Beurkundung,
-                einer Abstimmung des ganzen Bundesvolkes zu unterziehen. </p>
-              <p type="legal_section"><label>(2)</label> Eine solche Abstimmung verfügt der Bundespräsident auch bei einer von beiden Häusern beschlossenen teilweisen Verfassungsänderung, wenn die Mehrheit
-                eines Hauses es verlangt. </p>
-              <p type="legal_section"><label>(3)</label> Ist ein Gesetzesvorschlag, der eine teilweise Verfassungsänderung oder eine Aenderung des
-                Wehrgesetzes bewirken soll, gescheitert (Art. </p>
-              <p type="legal_section"><label>53.</label>Abs.4), so kann der Bundestag mit
-                Zweidrittelmehrheit die Volksabstimmung über diesen Beschluß fordern. </p>
+              <p type="legal_section"><label>(1)</label> Jede Gesamtänderung der Verfassung hat der
+                Bundespräsident, nachdem beide Häuser übereinstimmende Beschlüsse gefaßt haben, vor
+                deren Beurkundung, einer Abstimmung des ganzen Bundesvolkes zu unterziehen. </p>
+              <p type="legal_section"><label>(2)</label> Eine solche Abstimmung verfügt der
+                Bundespräsident auch bei einer von beiden Häusern beschlossenen teilweisen
+                Verfassungsänderung, wenn die Mehrheit eines Hauses es verlangt. </p>
+              <p type="legal_section"><label>(3)</label> Ist ein Gesetzesvorschlag, der eine
+                teilweise Verfassungsänderung oder eine Aenderung des Wehrgesetzes bewirken soll,
+                gescheitert (Art. 53 Abs. 4), so kann der Bundestag mit Zweidrittelmehrheit die
+                Volksabstimmung über diesen Beschluß fordern. </p>
               <note type="comment">Art. 32</note>
               <note type="comment">Art. 38 deleatur</note>
             </div>
@@ -715,45 +743,53 @@
               <head>Art. 58, 59</head>
               <note type="comment">Art. 36, 37</note>
               <note type="comment">Art. 38, 39 schon früher erledigt.</note>
-              <note type="comment">Art. 39 Al. 4 später</note>
+              <note type="comment">Art. 39 Al. 4 später.</note>
             </div>
             <div type="article">
               <head>Art. 60</head>
-              <p type="legal_section"><label>(1)</label> Das verfassungsmässige Zustandekommen der Bundesgesetze wird durch die Unterschrift des Bundespräsidenten beurkundet. </p>
-              <p type="legal_section"><pb break="yes" facs="#facs_17" n="17" xml:id="img_0017"/><fw type="pageNum">16 </fw><label>(2)</label> Die Beurkundung ist vom Bundeskanzler
+              <p type="legal_section"><label>(1)</label> Das verfassungsmässige Zustandekommen der
+                Bundesgesetze wird durch die Unterschrift des Bundespräsidenten beurkundet. </p>
+              <p type="legal_section"><pb break="yes" facs="#facs_17" n="17" xml:id="img_0017"/><fw
+                  type="pageNum">16. </fw><label>(2)</label> Die Beurkundung ist vom Bundeskanzler
                 und von den zuständigen Bundesministern gegenzuzeichnen. </p>
-              <note type="comment">Art. 40</note>
+              <note type="comment">Art. 40.</note>
             </div>
             <div type="article">
               <head>Art. 61</head>
-              <p type="legal_section"><label>(1)</label> Der Bundeskanzler macht die beurkundeten Bundesgesetze im Bundesgesetzblatt kund. </p>
-              <p type="legal_section"><label>(2)</label> Die Kundmachung erfolgt bei Staatsverträgen, bei Aenderungen der Verfassung oder des
-                Wehrgesetzes unter Berufung auf die übereinstimmenden Beschlüsse des Bundestages und Bundesrates im Falle einer
-                Volksabstimmung lediglich mit Berufung auf deren Ergebnis, bei allen anderen Gesetzen mit Berufung auf die Zustimmung des Bundestages. </p>
-              <p type="legal_section"><label>(3)</label> Ohne ausdrückliche Zustimmung des Bundesrates ist ein Gesetzesbeschluß des Bundestages über Staatsverträge oder Aenderungen der Verfassung oder des
-                Wahrgesetzes auch dann vom Bundespräsidenten unter bloßer Berufung
-                auf die Zustimmung des Bundestages zu beurkunden und vom Bundeskanzler kundzumachen, wenn der Bundesrat diesen Gesetzesbeschluss in der vorgeschriebenen Zeit nicht erledigt
-                hat. </p>
-              <p type="legal_section"><label>(4)</label> Bundesgesetze erlangen erst nach der Kundmachung im Bundesgesetzblatt verbindende Kraft. </p>
-              <note type="comment">Art. 41</note>
+              <p type="legal_section"><label>(1)</label> Der Bundeskanzler macht die beurkundeten
+                Bundesgesetze im Bundesgesetzblatt kund. </p>
+              <p type="legal_section"><label>(2)</label> Die Kundmachung erfolgt bei
+                Staatsverträgen, bei Aenderungen der Verfassung oder des Wehrgesetzes unter Berufung
+                auf die übereinstimmenden Beschlüsse des Bundestages und Bundesrates im Falle einer
+                Volksabstimmung lediglich mit Berufung auf deren Ergebnis, bei allen anderen
+                Gesetzen mit Berufung auf die Zustimmung des Bundestages. </p>
+              <p type="legal_section"><label>(3)</label> Ohne ausdrückliche Zustimmung des
+                Bundesrates ist ein Gesetzesbeschluß des Bundestages über Staatsverträge oder
+                Aenderungen der Verfassung oder des Wahrgesetzes auch dann vom Bundespräsidenten
+                unter bloßer Berufung auf die Zustimmung des Bundestages zu beurkunden und vom
+                Bundeskanzler kundzumachen, wenn der Bundesrat diesen Gesetzesbeschluss in der
+                vorgeschriebenen Zeit nicht erledigt hat. </p>
+              <p type="legal_section"><label>(4)</label> Bundesgesetze erlangen erst nach der
+                Kundmachung im Bundesgesetzblatt verbindende Kraft. </p>
+              <note type="comment">Art. 41.</note>
             </div>
             <div type="article">
               <head>Art. 62 </head>
-              <note type="comment">Art. 42</note>
+              <note type="comment">Art. 42.</note>
             </div>
           </div>
           <div type="section">
-            <head>IV. Abschnitt</head>
+            <head>IV. Abschnitt.</head>
             <div type="article">
               <head>Art. 63-68 </head>
-              <p type="legal_section">unverändert</p>
+              <p type="legal_section">unverändert.</p>
               <note type="comment">Art. 43 - 48 </note>
             </div>
           </div>
         </div>
         <div type="section">
           <pb break="yes" facs="#facs_18" n="18" xml:id="img_0018"/>
-          <fw type="pageNum">17</fw>
+          <fw type="pageNum">17.</fw>
           <head>Drittes Hauptstück. </head>
           <head>Von der Bundesvollziehung. </head>
           <div type="section">
@@ -766,119 +802,137 @@
                 <p type="legal_section"><label> (1)</label> Bundestag und Bundesrat treten als
                   Bundesversammlung zu gemeinsamer Sitzung an dem Sitze des Bundestages zusammen <list>
                     <label>1.</label>
-                    <item>zur Wahl des Bundespräsidenten und zu dessen Angelobung.  </item>
+                    <item>zur Wahl des Bundespräsidenten und zu dessen Angelobung. </item>
                     <label>2.</label>
-                    <item>zur Wahl des obersten Bundesrichters, zur Wahl des
-                      Präsidenten des Rechnungshofes und zu deren Angelobung.  </item>
+                    <item>zur Wahl des obersten Bundesrichters, zur Wahl des Präsidenten des
+                      Rechnungshofes und zu deren Angelobung. </item>
                     <label>3.</label>
-                    <item> zur Beschlußfassung über Anträge auf behördliche
-                      Verfolgung oder auf Abberufung des Bundespräsidenten, des
-                      obersten Fundesrichters oder des Präsidenten des
-                      Rechnungshofes.  </item>
+                    <item> zur Beschlußfassung über Anträge auf behördliche Verfolgung oder auf
+                      Abberufung des Bundespräsidenten, des obersten Bundesrichters oder des
+                      Präsidenten des Rechnungshofes. </item>
                     <label>4.</label>
-                    <item> zur Entscheidung über Krieg und Frieden zum Aufruf aller
-                      wehrfähigen Bürger zur Verteidigung des Landes wider den
-                      angreifenden Feind. (Art. 21).  </item>
+                    <item> zur Entscheidung über Krieg und Frieden zum Aufruf aller wehrfähigen
+                      Bürger zur Verteidigung des Landes wider den angreifenden Feind. (Art. 21).
+                    </item>
                   </list>
                 </p>
-                <p type="legal_section"><pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/><label>(2)</label> Die Sitzungen der Bundesversammlung sind nicht öffentlich. Der Bundesrat und der Bundestag beraten die zu entscheidenden Gegenstände gesondert und treten bloß zum
-                  Zwecke der Abstimmung zusammen. Das Ergebnis der Abstimmung wird
-                  beiden Häusern durch deren Vorsitzenden mitgeteilt. </p>
-                <p type="legal_section"><label>(3)  </label>Die näheren Vorschriften über das
-                  Verfahren der Bundesversammlung (Geschäftsordnung) enthält ein
-                  besonderes Bundesgesetz. </p>
-                <note type="comment">Art. 49</note>
+                <p type="legal_section"><pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"
+                    /><label>(2)</label> Die Sitzungen der Bundesversammlung sind nicht öffentlich.
+                  Der Bundesrat und der Bundestag beraten die zu entscheidenden Gegenstände
+                  gesondert und treten bloß zum Zwecke der Abstimmung zusammen. Das Ergebnis der
+                  Abstimmung wird beiden Häusern durch deren Vorsitzenden mitgeteilt. </p>
+                <p type="legal_section"><label>(3) </label>Die näheren Vorschriften über das
+                  Verfahren der Bundesversammlung (Geschäftsordnung) enthält ein besonderes
+                  Bundesgesetz. </p>
+                <note type="comment">Art. 49.</note>
               </div>
               <div type="article">
                 <head>Art. 70. </head>
                 <p type="legal_section"><label>(1)</label> Die Wahl des Bundespräsidenten findet
-                  frühestens einen Monat und längstens zwei Monate nach den allgemeinen Wahlen statt. Er tritt sein Amt am achten Tage seiner Wahl an und bleibt bis zum Amtsantritte seines Nachfolgers im Amte. Wiederwahl ist zulässig. </p>
+                  frühestens einen Monat und längstens zwei Monate nach den allgemeinen Wahlen
+                  statt. Er tritt sein Amt am achten Tage seiner Wahl an und bleibt bis zum
+                  Amtsantritte seines Nachfolgers im Amte. Wiederwahl ist zulässig. </p>
                 <p type="legal_section"><label>(2)</label> Zum Bundespräsidenten kann nur ein
-                  Mitglied des Bundestages oder des Bundesrates gewählt werden, das am 1. Jänner des Jahres, in welchem die Wahl stattfindet, das 35. Lebenejahr vollendet hat. </p>
+                  Mitglied des Bundestages oder des Bundesrates gewählt werden, das am 1. Jänner des
+                  Jahres, in welchem die Wahl stattfindet, das 35. Lebensjahr vollendet hat. </p>
                 <p type="legal_section"><label>(3)</label> Den Wahlvorgang regelt die
-                  Geschäftsordnung der Bundesversammlung.  </p>
-                <note type="comment">Art. 49</note>
+                  Geschäftsordnung der Bundesversammlung. </p>
+                <note type="comment">Art. 49.</note>
               </div>
               <div type="article">
-                <head>Art. 71, 72</head>
-                <note type="comment">Art. 50, 51</note>
+                <head>Art. 71. 72.</head>
+                <note type="comment">Art. 50. 51.</note>
               </div>
               <div type="article">
                 <head>Art. 73. </head>
-                <p type="legal_section"><label>(1)</label> Eine behördliche Verfolgung oder Abberufung des Bundespräsidenten darf nur mit Zustimmung der Bundesversammlung erfolgen. </p>
-                <p type="legal_section"><label>(2)</label> Zu einem solchen Beschlüsse ist die Anwesenheit der Hälfte der Mitglieder jedes Hauses und die Zustimmung von zwei Dritteln der abgegebenen Stim men erforderlich. </p>
-                <note type="comment">Art. 52</note>
+                <p type="legal_section"><label>(1)</label> Eine behördliche Verfolgung oder
+                  Abberufung des Bundespräsidenten darf nur mit Zustimmung der Bundesversammlung
+                  erfolgen. </p>
+                <p type="legal_section"><label>(2)</label> Zu einem solchen Beschlusse ist die
+                  Anwesenheit der Hälfte der Mitglieder jedes Hauses und die Zustimmung von zwei
+                  Dritteln der abgegebenen Stimmen erforderlich. </p>
+                <note type="comment">Art. 52.</note>
               </div>
               <div type="article">
                 <head>Art. 74 - 77</head>
-                <note type="comment">Art. 53 - 56</note>
+                <note type="comment">Art. 53 - 56.</note>
               </div>
               <div type="article">
                 <head>Art. 78. </head>
-                <p type="legal_section">Der Bundespräsident ist für die Ausübung der ihm zustehenden Regierungs und Vollzugsgewalt der Bundesversammlung gemäß Art. 152 der Bundesverfassung
-                  verantwortlich. </p>
-                <note type="comment">Art. 57</note>
+                <p type="legal_section">Der Bundespräsident ist für die Ausübung der ihm zustehenden
+                  Regierungs und Vollzugsgewalt der Bundesversammlung gemäß Art. 152 der
+                  Bundesverfassung verantwortlich. </p>
+                <note type="comment">Art. 57.</note>
               </div>
             </div>
             <div type="section">
               <pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/>
               <fw type="pageNum">19</fw>
-              <head>2. Die Bundesregierung</head>
+              <head>2. Die Bundesregierung.</head>
               <div type="article">
                 <head>Art. 79. </head>
-                <p type="legal_section"><label>(1)</label> Die mit der Ausübung der Regierungs- und Vollzugsgewalt betrauten Bundesminister bilden in ihrer Gesamtheit unter dem Vorsitze des Bundeskanzlers die Bundesregierung.</p>
+                <p type="legal_section"><label>(1)</label> Die mit der Ausübung der Regierungs- und
+                  Vollzugsgewalt betrauten Bundesminister bilden in ihrer Gesamtheit unter dem
+                  Vorsitze des Bundeskanzlers die Bundesregierung.</p>
                 <p type="legal_section"><label>(2)</label> Der Vizekanzler ist zur Vertretung des
-                  Bundeskanzlers in dessen gesamten Befugnisse berufen. </p>
-                <p type="legal_section"><label>(3)</label> Die Regierungs und Vollzugsgewalt des Bundes darf nur auf Grund der Bundesverfassung und der Bundesgesetze sowie der vom Bundestag gefaßten Beschlüsse ausgeübt werden. <note type="comment">Art. 59</note></p>
-                <note type="comment">Art. 58</note>
+                  Bundeskanzlers in dessen gesamten Befugnisse berufen </p>
+                <p type="legal_section"><label>(3)</label> Die Regierungs- und Vollzugsgewalt des
+                  Bundes darf nur auf Grund der Bundesverfassung und der Bundesgesetze sowie der vom
+                  Bundestag gefaßten Beschlüsse ausgeübt werden. <note type="comment">Art.
+                    59.</note></p>
+                <note type="comment">Art. 58.</note>
               </div>
               <div type="article">
-                <head>Art. 80 - 83</head>
-                <p type="legal_section"><label>(1)</label> Zur Besorgung der Geschäfte der Bundesverwaltung sind die Bundeskanzlei und die jedem Bundesminister unterstellten Bundesministerien sowie die denselben unterstellten Behörden, Aemter und Anstalten barufen </p>
-                <p type="legal_section"><label>(2)</label> Die Zahl der Bundesministerien und deren Aufträge und vollmachten werden durch Bundesgesetz bestimmt. </p>
-                <note type="comment">Art. 60 - 63</note>
+                <head>Art. 80 - 83.</head>
+                <p type="legal_section"><label>(1)</label> Zur Besorgung der Geschäfte der
+                  Bundesverwaltung sind die Bundeskanzlei und die jedem Bundesminister unterstellten
+                  Bundesministerien sowie die denselben unterstellten Behörden, Aemter und Anstalten
+                  berufen. </p>
+                <p type="legal_section"><label>(2)</label> Die Zahl der Bundesministerien und deren
+                  Aufträge und vollmachten werden durch Bundesgesetz bestimmt. </p>
+                <note type="comment">Art. 60 - 63.</note>
               </div>
               <div type="article">
                 <head>Art. 84 - 87</head>
-                <note type="comment">Art. 64 - 67</note>
+                <note type="comment">Art. 64 - 67.</note>
               </div>
             </div>
             <div type="section">
-              <head>3. Das Bundesheer </head>
+              <head>3. Das Bundesheer. </head>
               <div type="article">
                 <head>Art. 88. </head>
                 <p type="legal_section"><label>(1)</label> Das Bundesheer ist ein Berufsheer; es
-                  wird auf dem Wege freiwilliger Verpflichtungen aufgestellt und ergänzt </p>
+                  wird auf dem Wege freiwilliger Verpflichtungen aufgestellt und ergänzt. </p>
                 <p type="legal_section"><label>(2)</label> Im Falle eines feindlichen Angriffes auf
                     <pb facs="#facs_21" n="21" xml:id="img_0021" break="yes"/>
-                  <fw type="pageNum">20 </fw>das Bundesgebiet kann die
-                  Bundesversammlung im ganzen Bundesgebiet oder in einem Teile
-                  desselben sämtliche wehrfähigen Bundesbürger oder einzelne
-                  Jahrgänge zur Verteidigung des Landes aufbieten. </p>
+                  <fw type="pageNum">20 </fw>das Bundesgebiet kann die Bundesversammlung im ganzen
+                  Bundesgebiet oder in einem Teile desselben sämtliche wehrfähigen Bundesbürger oder
+                  einzelne Jahrgänge zur Verteidigung des Landes aufbieten. </p>
                 <p type="legal_section"><label>(3)</label> Das Nähere bestimmt das Wehrgesetz. </p>
-                <note type="comment">Art. 68</note>
+                <note type="comment">Art. 68.</note>
               </div>
               <div type="article">
                 <head>Art. 89. </head>
-                <note type="comment">Art. 69</note>
+                <note type="comment">Art. 69.</note>
               </div>
               <div type="article">
                 <head>Art. 90. </head>
                 <p type="legal_section"><label>(1)</label> Insoweit durch die Verfassung und durch
-                  das Wehrgesetz die unmittelbare Verfügung über das Bundesheer der Bundesversammlung vorbehalten ist wird mit der Verfügung der Bundesregierung oder innerhalb der von
-                  dieser erteilten Ermächtigung der zuständige Bundesminister
+                  das Wehrgesetz die unmittelbare Verfügung über das Bundesheer der
+                  Bundesversammlung vorbehalten ist wird mit der Verfügung der Bundesregierung oder
+                  innerhalb der von dieser erteilten Ermächtigung der zuständige Bundesminister
                   betraut. </p>
                 <p type="legal_section"><label>(2)</label> gleichlautend. </p>
-                <note type="comment">Art. 70</note>
+                <note type="comment">Art. 70.</note>
               </div>
               <div type="article">
                 <head>Art. 91. </head>
-                <note type="comment">Art. 71</note>
+                <note type="comment">Art. 71.</note>
               </div>
             </div>
           </div>
           <div type="section">
-            <head>Zweiter Abschnitt </head>
+            <head>Zweiter Abschnitt. </head>
             <head>Von der Gerichtsbarkeit des Bundes. </head>
             <note type="comment">Art. 72 deleatur</note>
             <div type="article">
@@ -889,96 +943,105 @@
             </div>
             <div type="article">
               <head>Art. 93. </head>
-              <p type="legal_section">Alinea 1- 3<note type="comment">Art. 73 Al. 2-4</note></p>
+              <p type="legal_section">Alinea 1- 3.<note type="comment">Art. 73 Al. 2-4</note></p>
             </div>
             <div type="article">
-              <head>Art. 94, 95</head>
-              <note type="comment">Art. 74, 75</note>
-              <p type="legal_section"><label>(1)</label> Die Richter werden, sofern diese Verfassung oder die Gerichtsverfassungsgesetze nichts angederes bestimmen, auf Antrag der Bundesregierung vom Bundespräsidenten oder auf Grund seiner Ermächtigung vom
-                zuständigen Bundesminister ernannt. ./.<note type="comment">Art. 76
-                  Al. 1</note>
+              <head>Art. 94, 95.</head>
+              <note type="comment">Art. 74, 75.</note>
+              <p type="legal_section"><label>(1)</label> Die Richter werden, sofern diese Verfassung
+                oder die Gerichtsverfassungsgesetze nichts anderes bestimmen, auf Antrag der
+                Bundesregierung vom Bundespräsidenten oder auf Grund seiner Ermächtigung vom
+                zuständigen Bundesminister ernannt. <note type="comment">Art. 76, Al. 1</note>
               </p>
-              <p type="legal_section"><pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/><fw type="pageNum">21</fw><label>(2)</label> Die Bundesregierung stellt ihre Anträge
-                auf Grund von Besetzungsvorschlägen von Kollegien, die durch das Gerichtsverfassungsgesetz eingerichtet werden. </p>
-              <p type="legal_section"><label>(3) </label> In diese Kollegien entsenden die durch das Gerichtsverfassungsgesetz bezeichneten richterlichen Senate zwei Drittel der Mitglieder. Das letzte Drittel wird, wenn es sich um Richter der ersten oder zweiten Instanz
-                handelt, von dem Landtage, wenn es sich um Richter der dritten
-                Instanz handelt, vom Bundestage entsendet. </p>
+              <p type="legal_section"><pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/><fw
+                  type="pageNum">21.</fw><label>(2)</label> Die Bundesregierung stellt ihre Anträge
+                auf Grund von Besetzungsvorschlägen von Kollegien, die durch das
+                Gerichtsverfassungsgesetz eingerichtet werden. </p>
+              <p type="legal_section"><label>(3) </label> In diese Kollegien entsenden die durch das
+                Gerichtsverfassungsgesetz bezeichneten richterlichen Senate zwei Drittel der
+                Mitglieder. Das letzte Drittel wird, wenn es sich um Richter der ersten oder zweiten
+                Instanz handelt, von dem Landtage, wenn es sich um Richter der dritten Instanz
+                handelt, vom Bundestage entsendet. </p>
               <p type="legal_section"><label>(4)</label> Gleichlautend mit Al. 2 des Art. 76 alt.
-                  <note type="comment">Al. 2</note>
+                  <note type="comment">Al. 2.</note>
               </p>
-              <p type="legal_section"><label>(6)</label> Auf die Dauer von zwei Jahren nach Inkrafttreten dieser Verfassung kann der Bundestag die Bundesregierung ermächtigen, in Bezug auf die Ernennung der Richter
-                der dritten Instanz von der Bestimmung des zweiten und dritten
-                Absatzes abzugehen. </p>
+              <p type="legal_section"><label>(6)</label> Auf die Dauer von zwei Jahren nach
+                Inkrafttreten dieser Verfassung kann der Bundestag die Bundesregierung ermächtigen,
+                in Bezug auf die Ernennung der Richter der dritten Instanz von der Bestimmung des
+                zweiten und dritten Absatzes abzugehen. </p>
             </div>
             <div type="article">
-              <head>Art. 97 - 104</head>
-              <note type="comment">Art. 77 - 84</note>
+              <head>Art. 97 - 104.</head>
+              <note type="comment">Art. 77 - 84.</note>
             </div>
           </div>
         </div>
         <div type="section">
           <pb break="yes" facs="#facs_23" n="23" xml:id="img_0023"/>
-          <fw type="pageNum">22</fw>
+          <fw type="pageNum">22.</fw>
           <head>Viertes Hauptstück.</head>
           <head>Von der Gesetzgebung und Vollziehung in den Ländern.</head>
           <div type="article">
             <head>Art. 105.</head>
             <p type="legal_section"><label>(1)</label> Jedes Bundesland gibt sich im Rahmen dieser
-              Bundesverfassung in seiner Landesordnung selbst seine Verfasung. </p>
+              Bundesverfassung in seiner Landesordnung selbst seine Verfassung. </p>
             <p type="legal_section"><label>(2)</label> Die Landesordnung bestimmt die
-              Zusammensetzung des Landtages und der Landesregierung. Der
-              Landtagspräsident, der Landeshauptmann und sein Stellvertreter
-              leisten in die Hand des Bundespräsidenten die Angelobung auf die
-              Republik Oesterreich und auf die Bundesverfassung. </p>
+              Zusammensetzung des Landtages und der Landesregierung. Der Landtagspräsident, der
+              Landeshauptmann und sein Stellvertreter leisten in die Hand des Bundespräsidenten die
+              Angelobung auf die Republik Oesterreich und auf die Bundesverfassung. </p>
             <p type="legal_section"><label>(3)</label> Die Landtagswahlordnungen dürfen wie die
-              Wahlordnung für alle öffentlichen Körperschaften die Bedingungen des
-              passiven und aktiven Wahlrechtes nicht enger ziehen als dies in der Wahlordnung zum Bundestag der Fall ist. </p>
+              Wahlordnung für alle öffentlichen Körperschaften die Bedingungen des passiven und
+              aktiven Wahlrechtes nicht enger ziehen als dies in der Wahlordnung zum Bundestag der
+              Fall ist. </p>
             <note type="comment">Art. 85</note>
           </div>
           <div type="article">
             <head>Art. 106 </head>
-            <note type="comment">Art. 86</note>
+            <note type="comment">Art. 86.</note>
           </div>
           <div type="article">
             <head>Art. 107 </head>
             <p type="legal_section"><label>(2)</label> Insoweit ein Landesgesetz bei der Vollziehung
-              die Mitwirkung von Bundesorganen vorsieht, muß zu dieser Mitwerkung
-              die Vorgenehmigung der Bundesregierung eingeholt werden. Ohne diese Vorgenehmigung kann das Gesetz nicht kundgemacht werden. </p>
-            <note type="comment">Art. 87</note>
+              die Mitwirkung von Bundesorganen vorsieht, muß zu dieser Mitwirkung die Vorgenehmigung
+              der Bundesregierung eingeholt werden. Ohne diese Vorgenehmigung kann das Gesetz nicht
+              kundgemacht werden. </p>
+            <note type="comment">Art. 87.</note>
           </div>
           <div type="article">
             <head>Art. 108 </head>
             <p type="legal_section"><label>(2)</label> Wegen Gefährdung von Bundesinteressen kann
-              die Bundesregierung binnen vierzehn Tagen vom Tage der eingelangten
-              Bekanntmachung an gegen den Gesetzesbeschluß des Landtages Einspruch erheben. In diesem Falle sind Beschluß und Einspruch im Landtage neuerlich zur Verhandlung zu stellen. </p>
-            <note type="comment">Art. 88</note>
+              die Bundesregierung binnen vierzehn Tagen vom Tage der eingelangten Bekanntmachung an
+              gegen den Gesetzesbeschluß des Landtages Einspruch erheben. In diesem Falle sind
+              Beschluß und Einspruch im Landtage neuerlich zur Verhandlung zu stellen. </p>
+            <note type="comment">Art. 88.</note>
           </div>
           <div type="article">
             <head>Art. 109, 110.</head>
             <note type="comment">Art. 89, 90.</note>
-            <note type="comment">Art. 91, 92 deleatur</note>
+            <note type="comment">Art. 91, 92 deleatur.</note>
           </div>
           <div type="article">
-            <fw type="pageNum">23</fw>
+            <fw type="pageNum">23.</fw>
             <pb facs="#facs_24" n="24" xml:id="img_0024" break="yes"/>
             <head>Art. 111. </head>
             <p type="legal_section"><label>(1)</label> Der Landeshauptmann oder sein Stellvertreter
-              vertritt des Land. </p>
+              vertritt das Land. </p>
             <p type="legal_section"><label>(2)</label> Er trägt in den Angelegenheiten der
-              mittelbaren Bundesverwaltung gemäß Art. 152 die Verantwortung
-              gegenüber der Bundesregierung. <note type="comment">Der letzte Satz
-                wird gestrichen (vgl. neu Art. 14, Ab. 1)</note></p>
+              mittelbaren Bundesverwaltung gemäß Art. 152 die Verantwortung gegenüber der
+              Bundesregierung. <note type="comment">Der letzte Satz wird gestrichen (vgl. neu Art.
+                14, Ab. 1)</note></p>
             <p type="legal_section"><label>(3)</label> Dem Landtage gegenüber sind die Mitglieder
-              der Landesregierung gemäß Art. 152 verantwortlich.  </p>
-            <note type="comment">Art. 93</note>
+              der Landesregierung gemäß Art. 152 verantwortlich. </p>
+            <note type="comment">Art. 93.</note>
           </div>
           <div type="article">
             <head>Art. 112 - 114.</head>
-            <note type="comment">Art. 94 - 96</note>
+            <note type="comment">Art. 94 - 96.</note>
           </div>
           <div type="article">
             <head>Art. 115 </head>
-            <p type="legal_section">Die Länder können untereinander in Landessachen Vereinbarungen treffen. Diese sind der Bundesregierung ohne Verzug anzuzeigen. </p>
+            <p type="legal_section">Die Länder können untereinander in Landessachen Vereinbarungen
+              treffen. Diese sind der Bundesregierung ohne Verzug anzuzeigen. </p>
             <note type="comment">Art. 97</note>
           </div>
         </div>
@@ -988,18 +1051,18 @@
           <div type="article">
             <head>Art. 116. </head>
             <p type="legal_section"><label>(1)</label> Jedes Land ordnet im Rahmen dieser Verfassung
-              die Rechte und Einrichtungen der Geneinden in einer besonderen Gemeindeordnung selbständig. </p>
+              die Rechte und Einrichtungen der Gemeinden in einer besonderen Gemeindeordnung
+              selbständig. </p>
             <p type="legal_section"><label>(2)</label> Gemeinden im Sinne dieser Verfassung sind
               nicht bloß die Ortsgemeinden, sondern auch die Gerichtsbezirke und
               die politischen Bezirke (Gebietsgemeinden). Diese sind als öffentlich rechtliche Körperschaften und zugleich als juristische Personen des Privatrechtes mit eigenen gewählten Vertretungen (Art. 105, Ab. 3 ) einzurichten. Die Nichtverantwortlichkeit der Volksvertreter (Art. 14, Ab. 1) kommt den Gemeindevertretern nicht zu. </p>
             <p type="legal_section"><label>(3)</label> Zu diesem Behufe sind die politischen Bezirke
-              unter Berücksichtigung der geschichtlichen Landeseinteilung tunlichst
-                <pb facs="#facs_25" n="25" xml:id="img_0025" break="yes"/>
-              <fw type="pageNum">24 </fw>zu Kreisen (Gauen, Vierteln) zu
-              vereinigen. Aenderungen in der Abgrenzung der Gerichts- und
-              politischen Bezirke und die Einteilung eines Landes in Kreise
-              bedürfen übereinstimmender Bundes- und Landesgesetze. </p>
-            <note type="comment">Neu</note>
+              unter Berücksichtigung der geschichtlichen Landeseinteilung tunlichst <pb
+                facs="#facs_25" n="25" xml:id="img_0025" break="yes"/>
+              <fw type="pageNum">24. </fw>zu Kreisen (Gauen, Vierteln) zu vereinigen. Aenderungen in
+              der Abgrenzung der Gerichts- und politischen Bezirke und die Einteilung eines Landes
+              in Kreise bedürfen übereinstimmender Bundes- und Landesgesetze. </p>
+            <note type="comment">Neu.</note>
             <note type="comment">Vacat.</note>
           </div>
           <div type="article">
@@ -1031,10 +1094,10 @@
           <div type="article">
             <head>Art. 120. </head>
             <p type="legal_section"><label>(1)</label> Die Bezirks- und Kreisvertretungen haben alle
-              bisher durch besondere Ausschüsse, Konkurrenzen und sonstigen Sonder
-                <pb facs="#facs_26" n="26" xml:id="img_0026" break="yes"/>
-              <fw type="pageNum">25 </fw>vertretungen besorgten Geschäfte ihres
-              Gebietes zu übernehmen. </p>
+              bisher durch besondere Ausschüsse, Konkurrenzen und sonstigen Sonder- <pb
+                facs="#facs_26" n="26" xml:id="img_0026" break="yes"/>
+              <fw type="pageNum">25 </fw>vertretungen besorgten Geschäfte ihres Gebietes zu
+              übernehmen. </p>
             <p type="legal_section"><label>(2)</label> Die Amtsgeschäfte der bisherigen
               landesfürstlichen politischen Bezirksbehörden gehen auf die
               Kreisgemeinden über. </p>
@@ -1092,17 +1155,17 @@
           <head>Von der Rechnungskontrolle im Bunde. </head>
           <div type="article">
             <head>124.</head>
-            <note type="comment">Art. 98</note>
+            <note type="comment">Art. 98.</note>
           </div>
           <div type="article">
-            <head>125</head>
+            <head>125.</head>
             <p type="legal_section"><label>(1)</label> Der Rechnungshof untersteht unmittelbar der
               Bundesversammlung. </p>
             <p type="legal_section"><label>(2)</label> unverändert. </p>
             <p type="legal_section"><label>(3)</label> Der Präsident des Rechnungshofes wird von der
               Bundesversammlung gewählt. </p>
             <p type="legal_section"><label>(4)</label> unverändert. </p>
-            <note type="comment">Art. 99</note>
+            <note type="comment">Art. 99.</note>
           </div>
           <div type="article">
             <head>126. </head>
@@ -1110,7 +1173,7 @@
             <p type="legal_section"><label>(2)</label> Er kann durch Beschluß der Bundesversammlung
               abberufen werden. </p>
             <p type="legal_section">126 - 132.</p>
-            <note type="comment">Art. 100</note>
+            <note type="comment">Art. 100.</note>
           </div>
         </div>
       </div>
