@@ -97,11 +97,12 @@
                 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="created">
-            <change when="2024-09-17" who="#cfh">document automatically created</change>
+        <revisionDesc status="structured">
+                  <change when="2024-09-17" who="#cfh">document automatically created</change>
                   <change when="2024-09-19" who="#m_huber">div created and partly formatted</change>
                   <change when="2024-10-04" who="#s_kury">Test</change>
-        </revisionDesc>
+                  <change when="2024-10-10" who="#m_huber">formatting completed</change>
+            </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3233" lry="4586" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0010/full/full/0/default.jpg" width="3233px" height="4586px"/></surface><surface ulx="0" uly="0" lrx="3171" lry="4633" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0011/full/full/0/default.jpg" width="3171px" height="4633px"/></surface><surface ulx="0" uly="0" lrx="3152" lry="4535" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0012/full/full/0/default.jpg" width="3152px" height="4535px"/></surface><surface ulx="0" uly="0" lrx="3149" lry="4543" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0013/full/full/0/default.jpg" width="3149px" height="4543px"/></surface><surface ulx="0" uly="0" lrx="3059" lry="4589" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0014/full/full/0/default.jpg" width="3059px" height="4589px"/></surface><surface ulx="0" uly="0" lrx="3147" lry="4607" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0015/full/full/0/default.jpg" width="3147px" height="4607px"/></surface><surface ulx="0" uly="0" lrx="3022" lry="4576" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0016/full/full/0/default.jpg" width="3022px" height="4576px"/></surface></facsimile>
     <text type="Verfassungsentwurf">
@@ -334,74 +335,98 @@
                                           </list></p>
                               </div>
                               <div type="article">
-                                    <head>Artikel 11.  </head>
-                                    <p type="legal_section"><label>(1)</label> Bundesjache ist die
+                                    <head>Artikel 11. </head>
+                                    <p type="legal_section"><label>(1)</label> Bundessache ist die
                                           Gesetzgebung, Landessache die Vollziehung in folgenden
-                                          Angelegenheiten: Staatsbürgerschaft und Heimarrecht;
-                                                <label>2.</label> Bereins- und Versammlungerecht:
-                                                <label>3.</label> nicht im Artitel 10 angeführte
-                                          berufliche Vertretungen. <label>4.</label>
-                                          Personenstandsangelegenheiten einschließlich des
-                                          Mairitenwesens und der Namenhänderung; <label>5.</label>
-                                          Vaßwesen und Iremdenpolizei; <label>6.</label> öffentliche
-                                          Agentien und Brivatgeschäftsvermittlung; <label>7.</label>
-                                          hinsichtlich der öffentlichen Abgaben, die nicht
-                                          ausschließlich oder teilweise für den Bund eingehoben
-                                          werden: die Anordnungen zur Verhinderung von
-                                          Coppelbesteuerungen oder sonstigen übermäßigen
-                                          Belastungen, zur Verhinderung von brschwerungen des
-                                          Vertehres oder der wirtschaftlichen Beziehungen im
-                                          Berhälinis zum Ausland oder zwischen den Ländern uns
-                                          Landesteilen, zur Verhinderung der übermäßigen oder
-                                          vertehrgerschwerenden Belastung der Benütung öffentlicher
-                                          Verlehrswege und Einrichtungen mit Gebühren und zur
-                                          Verhinderung der Schädigung der Bundesfinanzen.
-                                                <label>8.</label> Munitions-, Schieß- und
-                                          Sprengmittelwesen, soweit es nicht dem Monopol unterliegt,
-                                          sowie Waffen wesen; betriebstechnische Vorschriften beim
-                                          Kraftfahrwesen: <label>9.</label> Glettrizitätsweien;
-                                                <label>10.</label> Boltzwohnungs- und
-                                          Volkspflegestättenwesen; Leichen und Bestättungswesen;
-                                          ﻿11. Verwaltungs- und Verwaltungsstrafverfahren
-                                          einschliehlich der zwangsvollstredung sowie allgemeine
-                                          Bestimmungen des verwaltungsstrafrechtes in
-                                          Angelegenheiten, deren Vollziehung den Ländern zu steht.
-                                                <label>(2)</label> Die Durchführungsverordnungen zu
-                                          den nach dem Absat iergehenden Gesegen sind, soweit in
-                                          diesen Gesetzen nichts anderes bestimmt ist, vom Bunde zu
-                                          erlassen.</p>
+                                          Angelegenheiten: <list>
+                                                <label>1. </label>
+                                                <item>Staatsbürgerschaft und Heimarrecht; </item>
+                                                <label>2.</label>
+                                                <item>Vereins- und Versammlungerecht; </item>
+                                                <label>3.</label>
+                                                <item>nicht im Artitel 10 angeführte berufliche
+                                                  Vertretungen;  </item>
+                                                <label>4.</label>
+                                                <item> Personenstandsangelegenheiten einschließlich
+                                                  des Mairitenwesens und der Namenhänderung; </item>
+                                                <label>5.</label>
+                                                <item>Vaßwesen und Iremdenpolizei;  </item>
+                                                <label>6.</label>
+                                                <item> öffentliche Agentien und
+                                                  Brivatgeschäftsvermittlung; </item>
+                                                <label>7.</label>
+                                                <item> hinsichtlich der öffentlichen Abgaben, die
+                                                  nicht ausschließlich oder teilweise für den Bund
+                                                  eingehoben werden: die Anordnungen zur
+                                                  Verhinderung von Coppelbesteuerungen oder
+                                                  sonstigen übermäßigen Belastungen, zur
+                                                  Verhinderung von brschwerungen des Vertehres oder
+                                                  der wirtschaftlichen Beziehungen im Berhälinis zum
+                                                  Ausland oder zwischen den Ländern uns
+                                                  Landesteilen, zur Verhinderung der übermäßigen
+                                                  oder vertehrgerschwerenden Belastung der Benütung
+                                                  öffentlicher Verlehrswege und Einrichtungen mit
+                                                  Gebühren und zur Verhinderung der Schädigung der
+                                                  Bundesfinanzen. </item>
+                                                <label>8.</label>
+                                                <item>Munitions-, Schieß- und Sprengmittelwesen,
+                                                  soweit es nicht dem Monopol unterliegt, sowie
+                                                  Waffen wesen; betriebstechnische Vorschriften beim
+                                                  Kraftfahrwesen </item>
+                                                <label>9.</label>
+                                                <item>Glettrizitätsweien;  </item>
+                                                <label>10.</label>
+                                                <item> Boltzwohnungs- und Volkspflegestättenwesen;
+                                                  Leichen und Bestättungswesen;  </item>
+                                                <label>﻿11.  </label>
+                                                <item>Verwaltungs- und Verwaltungsstrafverfahren
+                                                  einschliehlich der zwangsvollstredung sowie
+                                                  allgemeine Bestimmungen des
+                                                  verwaltungsstrafrechtes in Angelegenheiten, deren
+                                                  Vollziehung den Ländern zu steht.  </item>
+                                          </list></p>
+                                    <p type="legal_section"><label>(2)</label> Die
+                                          Durchführungsverordnungen zu den nach dem Absat
+                                          iergehenden Gesegen sind, soweit in diesen Gesetzen nichts
+                                          anderes bestimmt ist, vom Bunde zu erlassen.</p>
                               </div>
                               <div type="article">
                                     <head>Artitel 12. </head>
                                     <p type="legal_section"> Bundessache ist die grundsätzliche
                                           Gesetzgebung, Landessache die Erlassung von
                                           Ausführungsgesehen und die Vollziehung in folgenden
-                                          Angelegenheiten: </p>
-                                    <p type="legal_section"><label>1.</label> Organisation der
-                                          Verwaltung in den Ländern; </p>
-                                    <p type="legal_section"><label>2.</label> Armenwesen;
-                                          Bevöllerungspolitit; Mutterschafts, Säuglings- und
-                                          Jugenöfürsorge; Heil- und Pflegeanstaltenwesen
-                                          einschlieglich der Umbulatorien; </p>
-                                    <p type="legal_section"><label>3</label> Einrichtungen zum
-                                          Schuhe der Gesellschaft gegen verbrecherische,
-                                          verwahrloste oder sonst gefährliche Personen, wie
-                                          zwongsarbeits- und ähnliche Anstalten; Abschiebung und
-                                          Abschaffung aus einem in ein anderes Land; </p>
-                                    <p type="legal_section"><label>4.</label> öffentliche
-                                          Einrichtungen zur außergerichtlichen Vermittlung von
-                                          Streitigleiten; </p>
-                                    <p type="legal_section"><label>5.</label> Arbeuerrecht sowie
-                                          Arbeiter- und Angestelltenschuß, soweit es sich um land-
-                                          und forstwirtschaftliche Arbeiter und Ungestellte händelt; </p>
-                                    <p type="legal_section"><label>6.</label> Forstwesen
-                                          einschließlich des Triftwesens; Schutz der Pflanzen gegen
-                                          Krantheiten und Schädlinge; Wasserrecht </p>
-                                    <p type="legal_section"><label>7.</label> Regelung des
-                                          Bauwesens; </p>
-                                    <p type="legal_section"><label>8.</label> Dienstrecht der Organe
-                                          der Länder, die behördliche Aufgaben zu besorgen haben.
-                                    </p>
+                                          Angelegenheiten: <list>
+                                                <label>1.</label>
+                                                <item> Organisation der Verwaltung in den Ländern;  </item>
+                                                <label>2.</label>
+                                                <item>Armenwesen; Bevöllerungspolitit;
+                                                  Mutterschafts, Säuglings- und Jugenöfürsorge;
+                                                  Heil- und Pflegeanstaltenwesen einschlieglich der
+                                                  Umbulatorien; </item>
+                                                <label>3.</label>
+                                                <item> Einrichtungen zum Schuhe der Gesellschaft
+                                                  gegen verbrecherische, verwahrloste oder sonst
+                                                  gefährliche Personen, wie zwongsarbeits- und
+                                                  ähnliche Anstalten; Abschiebung und Abschaffung
+                                                  aus einem in ein anderes Land;  </item>
+                                                <label>4.</label>
+                                                <item> öffentliche Einrichtungen zur
+                                                  außergerichtlichen Vermittlung von Streitigleiten; </item>
+                                                <label>5.</label>
+                                                <item> Arbeuerrecht sowie Arbeiter- und
+                                                  Angestelltenschuß, soweit es sich um land- und
+                                                  forstwirtschaftliche Arbeiter und Ungestellte
+                                                  händelt;  </item>
+                                                <label>6.</label>
+                                                <item> Forstwesen einschließlich des Triftwesens;
+                                                  Schutz der Pflanzen gegen Krantheiten und
+                                                  Schädlinge; Wasserrecht  </item>
+                                                <label>7.</label>
+                                                <item> Regelung des Bauwesens;  </item>
+                                                <label>8.</label>
+                                                <item> Dienstrecht der Organe der Länder, die
+                                                  behördliche Aufgaben zu besorgen haben.  </item>
+                                          </list></p>
                               </div>
                               <div type="article">
                                     <head>Artikel 13. </head>
@@ -451,13 +476,13 @@
                                           ein lans dieser Verpflichtung nicht rechtzeitig nach, so
                                           geht die Zuständigkeit zur Erlassung des Gesetes auf den
                                           Buns über. </p>
-                                    <p type="legal_section"><label>(2)</label> Gbenso hat der Bund
+                                    <p type="legal_section"><label>(2)</label> Ebenso hat der Bund
                                           in Durchführung von Verträgen und Übereinkommen mit
                                           fremden staaten das Überwachungsrecht auch in solchen
                                           Angelegen. heiten, die zum seibständigen Wirkungstreis der
                                           Länder gehören Hiebei stehen dem Bunde die gleichen Rechte
                                           gegenüber den Landesverwaltungen zu, wie bei den
-                                          Angelegenheiten der mittelbaren Bundesverwaltung Artitel
+                                          Angelegenheiten der mittelbaren Bundesverwaltung (Artitel
                                           92).</p>
                               </div>
                               <div type="article">
@@ -466,10 +491,11 @@
                                           Bestimmungen der Artikel 10 bis 13 über die Zuständigkeit
                                           in Gesehgebung und Vollziehung wird die Stellung des
                                           Bundes als Träger von Privatrechten (Eigentümer,
-                                          Unternehmer, Pächter, usw.) in seiner Weise berührt. Der
-                                          Buns kann in allen diesen Rechtsbeziehungen durch die
-                                          Landesgesehgebung niemals ungünstiger gestellt werden als
-                                          das betreffende Lans selbst.</p>
+                                          Unternehmer, Pächter, usw.) in seiner Weise berührt. </p>
+                                    <p type="legal_section"><label>(2) </label>Der Buns kann in
+                                          allen diesen Rechtsbeziehungen durch die Landesgesehgebung
+                                          niemals ungünstiger gestellt werden als das betreffende
+                                          Lans selbst.</p>
                               </div>
                               <div type="article">
                                     <head>Artitel 14 a. </head>
@@ -572,7 +598,8 @@
                                     <p type="legal_section"><label>(5)</label> Die Gerichte und
                                           Staatsanwaltschaften sind berechtigt, die Dienstleistung
                                           der Gendarmerie für Zwecle der Strafrechtspflege
-                                          unmittelbar in Anspruch zu nehmen. F) Das Mähere über das
+                                          unmittelbar in Anspruch zu nehmen. </p>
+                                    <p type="legal_section"><label>(6) </label> Das Mähere über das
                                           Gendarmeriewesen, insbesondere auch über die Dienst und
                                           Rechtsverhältnisse der. Gendarmerie regelt ein besonderes
                                           Bundesgesetz. </p>
@@ -675,13 +702,13 @@
                                                 Gesehgebungsperiode zusammentreten kann. </p>
                                           <p type="legal_section"><label>(2)</label> Der neugewählte
                                                 Mationalrat ist vom Bundespräsidenten innerhalb 30
-                                                Tage nach der Wahl einzuberusen. Der Nationatrat
+                                                Tage nach der Wahl einzuberusen. </p>
+                                          <p type="legal_section"><label>(3) </label>Der Nationatrat
                                                 kann nur durch seinen Beschluß verlagt werden. Die
                                                 Wiedereinberufung erfolgt durch seinen Präsidenten.
                                                 Dieser ist verpflichtet, den Nationalrat sofort
                                                 einzuberusen, wenn wenigstens ein Wiertel seiner
-                                                Mitglieder oder die Bundesregierung es verlangt.
-                                          </p>
+                                                Mitglieder oder die Bundesregierung es verlangt. </p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 21. </head>
@@ -792,10 +819,12 @@
                                                 Nationairates einberüsen. Der Vorsitende ist
                                                 verpflichtet, den Bundestat sofort einzuberufen,
                                                 wenn wenigstens ein Biertel seiner Mitglieder oder
-                                                die Bundesregierung es verlangt der Bundeorat gibr
-                                                sich seine Geschaftsoronung durch einen Geschluß,
-                                                der nur bei Anwesenheit der Hälfte der Mitglieder
-                                                mit Zweidrittelmehrheit gefaßt werden kann. </p>
+                                                die Bundesregierung es verlangt.</p>
+                                          <p type="legal_section">
+                                                <label>(4) </label>Der Bundesrat gibr sich seine
+                                                Geschaftsoronung durch einen Geschluß, der nur bei
+                                                Anwesenheit der Hälfte der Mitglieder mit
+                                                Zweidrittelmehrheit gefaßt werden kann. </p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 28. </head>
@@ -846,7 +875,7 @@
                                                 der Bundesversammlung werden von ihrem Vorfihenden
                                                 beurkundet und vom BundesKänzler gegengezeichnet. </p>
                                           <p type="legal_section"><label>(2) </label>Die amtliche
-                                                Kundmachung liegt dem BundesCanzler ob.</p>
+                                                Kundmachung liegt dem Bundeskanzler ob.</p>
                                     </div>
                               </div>
                               <div type="section">
@@ -1014,7 +1043,7 @@
                                                 politischen Staatsverträge, andere nur, hofern sie
                                                 gesehändernden Inhalt haben, bedürfen zu ihrer
                                                 Gültigkeit der Genehmigung durch den Mationalrat. </p>
-                                          <p type="legal_section"><label>2)</label> Auf Beschlüsse
+                                          <p type="legal_section"><label>(2)</label> Auf Beschlüsse
                                                 des Nationalrates über die Genehmigung von
                                                 Staatsvertägen finden die Bestimmurgen des Artitels
                                                 38. Albsah 1 bis 1, und wenn durch den Stoatsverttag
@@ -1060,7 +1089,7 @@
                                                 Ergreifung auf frischer Tat hat die Behörde dem
                                                 Präsidensen des Nationalrates sogleich die
                                                 geschehene Berhäftung bekanntzugeben. </p>
-                                          <p type="legal_section"><label>4)</label> Wenn es der
+                                          <p type="legal_section"><label>(4)</label> Wenn es der
                                                 Nationaltat verlangt, muß der Berhaft aufgehoben
                                                 oder die Verfolgung auf die Dauer der
                                                 Gesehgebungsperiode aufgeschoben werden. </p>
@@ -1183,7 +1212,7 @@
                                                 <p type="legal_section">Der Bundespräsident leistet
                                                   bei Antritt seines Amtes vor der Bundesversammlung
                                                   das Gelöbnis: </p>
-                                                <p type="legal_section">Ich gelobe, daß ich die
+                                                <p type="legal_section">"Ich gelobe, daß ich die
                                                   Verfassung und alle Gesege der Republik getreulich
                                                   beobachten und meine Pflicht nach bestem Wissen
                                                   und Gewissen erfüllen weir. </p>
@@ -1223,22 +1252,29 @@
                                                   die Bestellung der fremden Konsuln, bestellt die
                                                   konsularischen Vertreter der Republik im Ausland
                                                   und schließt die Staatsverträge ab. </p>
-                                                <p type="legal_section"><label>12)</label> Weiter
+                                                <p type="legal_section"><label>(2)</label> Weiter
                                                   stehen ihm außer den ihm nach anderen Bestimmungen
-                                                  dieser Verfassung übertragenen Befugnissen - zu:
-                                                  a. die Ernennung der Bundesangestellten
+                                                  dieser Verfassung übertragenen Befugnissen - zu: <list>
+                                                  <label>a. </label>
+                                                  <item>die Ernennung der Bundesangestellten
                                                   (einschließsich der Offiziere) und der sonstigen
                                                   Bundessunttionäre, die Verleihung von Amtzuieln an
-                                                  solche; die Schaffung von Umts- und Verusstiteln,
-                                                  die Verleihung der Beruistitel; c. die Begnädigung
-                                                  der von den Gerichten rechtskräftig Berurteilten,
-                                                  die Müderung und Umwandlung der von den Gerichten
-                                                  ausgesprochenen Stafen, die Nachsicht von
-                                                  Rechtsfolgen und die Filgung von Berurteilungen,
-                                                  serner die Abolition von strafgerichtlichen
-                                                  Verfahren: d. die Erklärung unehelicher Kinder zu
-                                                  ehelichen auf Ansuchen der Eliern. </p>
-                                                <p type="legal_section"><label>3)</label> Inwieweit
+                                                  solche; </item>
+                                                  <label>b. </label>
+                                                  <item>die Schaffung von Umts- und Verusstiteln,
+                                                  die Verleihung der Beruistitel; </item>
+                                                  <label> c. </label>
+                                                  <item> die Begnädigung der von den Gerichten
+                                                  rechtskräftig Berurteilten, die Müderung und
+                                                  Umwandlung der von den Gerichten ausgesprochenen
+                                                  Stafen, die Nachsicht von Rechtsfolgen und die
+                                                  Filgung von Berurteilungen, serner die Abolition
+                                                  von strafgerichtlichen Verfahren:  </item>
+                                                  <label>d.  </label>
+                                                  <item>die Erklärung unehelicher Kinder zu
+                                                  ehelichen auf Ansuchen der Eliern.  </item>
+                                                  </list></p>
+                                                <p type="legal_section"><label>(3)</label> Inwieweit
                                                   dem Bundespräsidenten außerdem noch Befugnisse
                                                   hinsichtlich Gewährung von Ehrenrechten,
                                                   außerordentlichen Zuwendungen, Zulagen und
@@ -1289,7 +1325,7 @@
                                                   Bundesminister betraut. Sie bilden in ihrer
                                                   Gesamtheit die Bundesregierung unter dem Vorsige
                                                   des Bundestanzlers. </p>
-                                                <p type="legal_section"><label>2)</label> Der
+                                                <p type="legal_section"><label>(2)</label> Der
                                                   Vizekanzler ist zur Vertretung des Bundestanzlers
                                                   in dessen gesamtem Wirtungstreis berusen. </p>
                                           </div>
@@ -1299,7 +1335,7 @@
                                                   Regierungsgewalt des Bundes darf nur auf Grund der
                                                   Bundesverfassung und der Bundesgesehe ausgeübt
                                                   werden. </p>
-                                                <p type="legal_section"><label>2)</label> Jede
+                                                <p type="legal_section"><label>(2)</label> Jede
                                                   Behörde kann im Nahmen der Gesetze nnerhalb ihres
                                                   Wirtungstreises Verordnungen erlassen. </p>
                                           </div>
@@ -1320,7 +1356,7 @@
                                                   Nationalrät nimmt die Wahl der Bundesregierung
                                                   durch namentliche Abstimmung über den
                                                   Gesamtvorschlag des Houptausschusses vor </p>
-                                                <p type="legal_section"><label>14)</label> Ist der
+                                                <p type="legal_section"><label>(4)</label> Ist der
                                                   Nationalrat nicht versammelt, so wird die
                                                   Bundesregierung bis zum Zusammentritte des
                                                   Nationalrates und Hauptausschusse bestellt.</p>
@@ -1383,7 +1419,7 @@
                                                   den zweitnächsten Berttag zu vertagen. Eine
                                                   neuerliche Vertagung der abstimmung kann nur auf
                                                   Beschluß des Nationalrates erfolgen. </p>
-                                                <p type="legal_section"><label>3)</label> Die
+                                                <p type="legal_section"><label>(3)</label> Die
                                                   gesamte Bundesregierung und ihre einzelnen
                                                   Mitglieder werden in den gesetzlich bestimmten
                                                   Fällen oder auf ihren Bunsch vom Bundespräsidenten
@@ -1466,7 +1502,7 @@
                                                   die Bundesregierung oder innerhält der von dieser
                                                   erteilten Ermächtigung der zuständige
                                                   Bundesminister betraut. </p>
-                                                <p type="legal_section"><label>3)</label>Zunieweit
+                                                <p type="legal_section"><label>(2)</label>Inwieweit
                                                   auch die Behörden der Länder und Gemäinden die
                                                   Mitwirtung des Bundecheeres zu den im Arüitel 69
                                                   Absas 2, erwähnten Zwecken unmittelbar in Anspruch
@@ -1488,8 +1524,8 @@
                                           <head>Artikel 72.</head>
                                           <p type="legal_section"><label>(1)</label> Alle
                                                 Gerichtsbarheit geht vom Bunde aus. </p>
-                                          <p type="legal_section"><label>(3)</label> Die Urteile und
-                                                Erkeuntnisse werden im Namen der Repubiik verkündet
+                                          <p type="legal_section"><label>(2)</label> Die Urteile und
+                                                Erkeuntnisse werden im Namen der Republik verkündet
                                                 und ausgefertigt. </p>
                                     </div>
                                     <div type="article">
@@ -1510,7 +1546,7 @@
                                                 Nationalrat uns dem Bündesrat vorzulegen und auf
                                                 Beschluß einer der beiden Körperschaften sofort
                                                 außer Kraft zu seten. </p>
-                                          <p type="legal_section"><label>14)</label> Das Verfahren
+                                          <p type="legal_section"><label>(4)</label> Das Verfahren
                                                 wegen Verletzungen des Bölkerrechtes wirs dem
                                                 verfaffungsgerichtohof übertragen </p>
                                     </div>
@@ -1740,7 +1776,7 @@
                                     <p type="legal_section"><label>(1)</label> Die vollziehende
                                           Gewalt jedes Landes wird durch eine vom Lanstag zu
                                           wählende Candesregierung ausgeübt. </p>
-                                    <p type="legal_section"><label>(3)</label> Die Mitglieder der
+                                    <p type="legal_section"><label>(2)</label> Die Mitglieder der
                                           Landesregierung müssen nicht dem Landtag angehören.Jedoch
                                           kann in die Landesregierung nur gewählt werden, wer zum
                                           Lanstag wählbar ist </p>
@@ -1761,10 +1797,10 @@
                                           Landesverwaltung) ausgeübt. </p>
                                     <p type="legal_section"><label>(2)</label> Eigene Bundesbehörden
                                           können bis auf weiteres für folgende Angelegenheiten
-                                          errichtet werden: Aufzählung folgt nach Dem Bunde bleibt
-                                          es vorbehalten, auch in diesen Angelegenheiten die
-                                          Landesregierungen mit der Ausübung der vollziehenden
-                                          Gewalt des Bundes zu beauftragen. </p>
+                                          errichtet werden: …....Aufzählung folgt nach …... Dem
+                                          Bunde bleibt es vorbehalten, auch in diesen
+                                          Angelegenheiten die Landesregierungen mit der Ausübung der
+                                          vollziehenden Gewalt des Bundes zu beauftragen. </p>
                                     <p type="legal_section"><label>(3)</label> Die Grrichtung von
                                           eigenen Bundesbehörden für andere als die im Absahe 2
                                           bezeichneten Ungelegenheiten kann nur mit Zustimmung der
@@ -1788,7 +1824,7 @@
                                           Verantwortung gegenüber der Bundesregierung gemäß Artikel
                                           152. Der Geltendmachung dieser Verantwortung steht die
                                           Immunitat nicht im Bege. </p>
-                                    <p type="legal_section"><label>2)</label> Dem Landtage sind die
+                                    <p type="legal_section"><label>(2)</label> Dem Landtage sind die
                                           Mitglieder der Landesregierung gemäß Artitel 152
                                           verantwortlich. </p>
                               </div>
@@ -1992,12 +2028,12 @@
                                     <p type="legal_section">Rein Mitglied des Rechnungshofes darf an
                                           der Leitung uns Verwaltung von Unternehmungen, die dent
                                           Bund oder den Ländern Rechnung zu legen haben oder zum
-                                          Bund oder einem Land in einem</p>
-                                    <p type="legal_section">Subventions- oder Vertragsverhältnisse
-                                          stehen, beteiligt sein. Ausgenommen sind unternehmungen,
-                                          die ausschließlich die Forderung humanitärer Bestrebungen
-                                          oder der wirtschaftlichen Berhälinisse von öffentlichen
-                                          Ungestellten oder deren Angehörigen zum Zwecke haben. </p>
+                                          Bund oder einem Land in einem Subventions- oder
+                                          Vertragsverhältnisse stehen, beteiligt sein. Ausgenommen
+                                          sind unternehmungen, die ausschließlich die Forderung
+                                          humanitärer Bestrebungen oder der wirtschaftlichen
+                                          Berhälinisse von öffentlichen Ungestellten oder deren
+                                          Angehörigen zum Zwecke haben. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 104,  105 und 106.</head>
@@ -2054,15 +2090,22 @@
                                           <head>Artikel 140.</head>
                                           <p type="legal_section">Von der Zuständigkeit des
                                                 Verwaltungsgerichtshofes sind ausgeschlossen die
-                                                Angelegenheiten a d etafungsgerichis hofes gehören: </p>
-                                          <p type="legal_section"><label>2.</label> über die den
-                                                ordentlichen Gerichten die Entscheidung zusteht; </p>
-                                          <p type="legal_section"><label>3.</label> überdie eine
-                                                Kollegialbehörde zu entscheiden oder zu verfügen
-                                                hat, der wenigstens ein Richter angehört. </p>
-                                          <p type="legal_section"><label>4.</label> in denen und
-                                                insoweit die Verwaltungsbehörden nach freiem
-                                                Ermessen vorzugehen haben.</p>
+                                                Angelegenheiten: <list>
+                                                  <label>1. </label>
+                                                  <item>die zur Kompetenz des
+                                                  Verfassungsgerichtshofes gehören;  </item>
+                                                  <label>2.</label>
+                                                  <item>über die den ordentlichen Gerichten die
+                                                  Entscheidung zusteht;  </item>
+                                                  <label>3.</label>
+                                                  <item>überdie eine Kollegialbehörde zu entscheiden
+                                                  oder zu verfügen hat, der wenigstens ein Richter
+                                                  angehört.  </item>
+                                                  <label>4.</label>
+                                                  <item> in denen und insoweit die
+                                                  Verwaltungsbehörden nach freiem Ermessen
+                                                  vorzugehen haben. </item>
+                                                </list></p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 141.</head>
@@ -2084,13 +2127,13 @@
                                                 stattgebende Erkenntnis des Verwaltungsgerichtshofes
                                                 bewirtt die Aufhebung der rechtswiörigen
                                                 Entscheidung oder verfügung. </p>
-                                          <p type="legal_section"><label>12)</label> Die
+                                          <p type="legal_section"><label>(2)</label> Die
                                                 Verwaltungsbehorde ist bei der neu zu treffenden
                                                 entscheibung oder verfügung an die Rechtsanschauung
                                                 des verwaltungsgerichtshofes gebunden. </p>
-                                          <p type="legal_section"><label>3)</label> Der
+                                          <p type="legal_section"><label>(3)</label> Der
                                                 Verwaltungsgerichtehof kann in der Sache selbst
-                                                entscheiden.   </p>
+                                                entscheiden. </p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 144.</head>
@@ -2139,12 +2182,18 @@
                                     <div type="article">
                                           <head>Artikel 148. </head>
                                           <p type="legal_section">Der Verfassungsgerichtshof
-                                                entscheidet ferner: Kompetenztonftitie a. zwischen
-                                                Gerichten und Verwaltungsbehörden deg Bundes oder
-                                                der Länder: b. zwischen dem Verwaltungsgerichtshof
-                                                und den ordentlichen Gerichten. zwischen
-                                                Landesregierungen untereinander sowie zwischen einer
-                                                Landesregierung und der Bundesregierung. </p>
+                                                entscheidet ferner: Kompetenzkonflikte: <list>
+                                                  <label>a.  </label>
+                                                  <item>zwischen Gerichten und Verwaltungsbehörden
+                                                  deg Bundes oder der Länder:  </item>
+                                                  <label>b. </label>
+                                                  <item> zwischen dem Verwaltungsgerichtshof und den
+                                                  ordentlichen Gerichten.  </item>
+                                                  <label>c. </label>
+                                                  <item> zwischen Landesregierungen untereinander
+                                                  sowie zwischen einer Landesregierung und der
+                                                  Bundesregierung. </item>
+                                                </list></p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 149. </head>
@@ -2197,34 +2246,43 @@
                                     </div>
                                     <div type="article">
                                           <head>Artikel 152. </head>
-                                          <p type="legal_section"><label>1)</label> Der
+                                          <p type="legal_section"><label>(1)</label> Der
                                                 Verfassungsgerichtshof entscheidet über die
-                                                Veranwortlichkeit: a. des Bundespräsidenten: b. der
-                                                Mitglieder der Bundesregierung und der hnen
-                                                hinsichtlich der Verantwortlichkeit gleichgestellten
-                                                Organe. c. der Mitglieder der Landesregierungen und
-                                                der ihnen hinsichtlich der Verantwortlichkeit
-                                                gleichgestellten Sigane, und zwar. </p>
-                                          <p type="legal_section"><label>1.</label> wegen
-                                                vorsätzlicher oder grobfahrlässiger Verletzung der
-                                                Bundesverfassung durch den Bundespräfidenten auf
-                                                einen Antrag der Bundesversammlung: </p>
-                                          <p type="legal_section"><label>2.</label> wegen
-                                                vorsätzlicher oder grobfahrlässiger
-                                                Gesetzesverletzung der unter b genannten Personen
-                                                durch ihre Amtstätigkeit auf einen Antrag des
-                                                Nationalrates uns wegen vorsäblicher oder
-                                                grobfahrlässiger Gesehesverlehung der unter e
-                                                genannten personen durch ihre Amtstätigkeit auf
-                                                Antrag des zuständigen Landtages. </p>
-                                          <p type="legal_section"><label>3.</label> über die
-                                                Verantwortlichkeit des Landeshauptmannes wegen
-                                                vorsäplicher oder grobfahrlässiger eehesverletung
-                                                sowie wegen Nichtbefolgung der Verordungen oder
-                                                sonstigen anordnungen der Bundesregierung in
-                                                Angelegenheiten der mittelbaren Bündesverwallung
-                                                durch seine Amtstätigkeit auf Antrag der
-                                                Bundesregierung. </p>
+                                                Veranwortlichkeit: <list>
+                                                  <label>a. </label>
+                                                  <item>des Bundespräsidenten: </item>
+                                                  <label> b. </label>
+                                                  <item>der Mitglieder der Bundesregierung und der
+                                                  hnen hinsichtlich der Verantwortlichkeit
+                                                  gleichgestellten Organe.  </item>
+                                                  <label>c.  </label>
+                                                  <item>der Mitglieder der Landesregierungen und der
+                                                  ihnen hinsichtlich der Verantwortlichkeit
+                                                  gleichgestellten Sigane, und zwar: <list>
+                                                  <label>1.</label>
+                                                  <item>wegen vorsätzlicher oder grobfahrlässiger
+                                                  Verletzung der Bundesverfassung durch den
+                                                  Bundespräfidenten auf einen Antrag der
+                                                  Bundesversammlung:  </item>
+                                                  <label>2.</label>
+                                                  <item>wegen vorsätzlicher oder grobfahrlässiger
+                                                  Gesetzesverletzung der unter b genannten Personen
+                                                  durch ihre Amtstätigkeit auf einen Antrag des
+                                                  Nationalrates uns wegen vorsäblicher oder
+                                                  grobfahrlässiger Gesehesverlehung der unter e
+                                                  genannten personen durch ihre Amtstätigkeit auf
+                                                  Antrag des zuständigen Landtages.  </item>
+                                                  <label>3.</label>
+                                                  <item>über die Verantwortlichkeit des
+                                                  Landeshauptmannes wegen vorsäplicher oder
+                                                  grobfahrlässiger eehesverletung sowie wegen
+                                                  Nichtbefolgung der Verordungen oder sonstigen
+                                                  anordnungen der Bundesregierung in Angelegenheiten
+                                                  der mittelbaren Bündesverwallung durch seine
+                                                  Amtstätigkeit auf Antrag der Bundesregierung.
+                                                  </item>
+                                                  </list></item>
+                                                </list></p>
                                           <p type="legal_section"><label>(2)</label> Das
                                                 verurteilende Erkenntnis des
                                                 Verfassungsgerichtshofes hat auf Verlust des Amtes,
@@ -2276,7 +2334,7 @@
                                                 des Verfassungsgerichtshofes steht m Range des
                                                 Bundestanglers, der Dizepräsident im Mange eines
                                                 Bundesministers. </p>
-                                          <p type="legal_section"><label>3</label>, das Amt der
+                                          <p type="legal_section"><label>(2)</label>Das Amt der
                                                 Mitglieder des Verfassungsgerichtshofes ist, soweit
                                                 nicht Miglieder als ständige Referenten ungieren.
                                                 ein Ehrenamt. die ständigen Referenten werden in
