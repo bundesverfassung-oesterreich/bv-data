@@ -109,6 +109,7 @@
       <change when="2024-04-18" who="#m_huber">note tag for comments created</change>
       <change when="2024-09-24" who="#s_kury">Gegengelesen bis Art. 30</change>
       <change when="2024-10-06" who="#s_kury">Gegenlesen beendet</change>
+      <change when="2024-10-24" who="#t_voegtlin">Silbentrennung</change>
     </revisionDesc>
   </teiHeader>
   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -701,7 +702,7 @@
                   sehr nötig.</note></p>
               <p type="legal_section"><label>(4)</label> Kommt nach zweimaligem Austausch der
                 Beschlüsse eine Uebereinstimmung nicht zustande, so gilt die Vorlage, - unbeschadet
-                der Bestimmung des Art. 55, Abs. 3 als gescheitert. </p>
+                der Bestimmung des Art. 55, Abs. 3 - als gescheitert. </p>
               <note type="comment">Art. 38, 39.</note>
             </div>
             <div type="article">
