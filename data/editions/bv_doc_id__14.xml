@@ -103,6 +103,7 @@
       <change when="2024-06-06" who="#m_huber">formatting completed</change>
       <change when="2024-08-22" who="#s_kury">Gegengelesen bis Art. 25</change>
       <change when="2024-08-27" who="#s_kury">Gegenlesen beendet</change>
+      <change when="2024-10-24" who="#t_voegtlin">Silbentrennung</change>
     </revisionDesc>
   </teiHeader>
   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -433,7 +434,7 @@
                     Normen- und Punzierungswesen; das Urheberrecht; die Bekämpfung des unlauteren
                     Wettbewerbes; das Patentwesen, sowie den Marken- und Musterschutz; das
                     wirtschaftliche Assoziationwesen; die Handels- und Gewerbekammern; das
-                    Vertragsversicherungswesen; das Geld-, Kredit- Börse und Bankwesen; </item>
+                    Vertragsversicherungswesen; das Geld-, Kredit-, Börse und Bankwesen; </item>
                   <label>10.</label>
                   <item>das Verkehrswesen bezüglich der Eisenbahnen, der Schiffahrt und der
                     Luftschiffahrt; die<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><fw
