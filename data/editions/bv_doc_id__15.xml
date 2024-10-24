@@ -107,6 +107,7 @@
       <change when="2024-06-06" who="#m_huber">formatting completed</change>
       <change when="2024-09-20" who="#n_zügel">Tanja Vögtlin: Korrekturen komplett
         eingetragen</change>
+      <change when="2024-10-24" who="#t_voegtlin">Silbentrennung</change>
     </revisionDesc>
   </teiHeader>
   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -347,7 +348,7 @@
                     Regelung der Beiträge und Zuschüsse aus Bundesmitteln zu den
                     Ausgaben der Länder;  </item>
                   <label>5.</label>
-                  <item> das Geld-, Kredit-. Börse- und Bankwesen; das Maß-, Gewichts-, Normen- und
+                  <item> das Geld-, Kredit-, Börse- und Bankwesen; das Maß-, Gewichts-, Normen- und
                     Punzierungswesen; </item>
                   <label>6.</label>
                   <item> das Zivil- und Strafrechtswesen einschließlich des wirtschaftlichen
@@ -494,7 +495,7 @@
                 Zuständigkeit zur Erlassung des Durchführungsgesetzes auf Bund über. </p>
               <p type="legal_section"><label>(3)</label> Die Länder sind im Bereiche ihres
                 Gesetzgebungsrechtes befugt, die zur Regelung des Gegenstandes erforderlichen
-                Bestimmungen auch auf dem Gebiete des Straf-und Zivilrechtes zu treffen. </p>
+                Bestimmungen auch auf dem Gebiete des Straf- und Zivilrechtes zu treffen. </p>
             </div>
             <div type="article">
               <head>Artikel 14. </head>
@@ -1158,7 +1159,7 @@
             <div type="article">
               <head>Artikel 85. </head>
               <p type="legal_section"><label>(1)</label> Die durch Landesgesetz zu erlassende
-                Landesverfassung kann insoweit dadurch die Bundesverfassung nicht berührt wird -
+                Landesverfassung kann - insoweit dadurch die Bundesverfassung nicht berührt wird -
                 durch Landesgesetz abgeändert werden. </p>
               <p type="legal_section"><label>(2) </label> Ein Landesverfassungsgesetz kann nur bei Anwesenheit der Hälfte aller Mitglieder des Landtages mit einer Mehrheit von zwei Dritteln aller abgegebenen
                 Stimmen beschlossen werden. </p>
