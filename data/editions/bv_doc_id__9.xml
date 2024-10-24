@@ -103,6 +103,7 @@
       <change when="2024-04-19" who="#m_huber">fixed headings</change>
       <change when="2024-05-23" who="#m_huber">formatting completed</change>
       <change when="2024-06-17" who="#s_kury">Gegenlesen beendet</change>
+      <change when="2024-10-24" who="#t_voegtlin">Silbentrennung</change>
     </revisionDesc>
   </teiHeader>
   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -478,7 +479,7 @@
                   Länder zu vollziehenden Dienstwechsels von Land zu Land. </item>
               </list>
             </p>
-            <p type="legal_section"><label>(2)</label> Die Entscheidung- oberster Instanz in
+            <p type="legal_section"><label>(2)</label> Die Entscheidung oberster Instanz in
               Angelegenheiten der Bodenreform (erster Absatz, Punkt 8) wird einer vom Bunde
               eingesetzten, aus Richtern, Verwaltungsbeamten und Sachverständigen bestehenden
               Kommission übertragen. </p>
