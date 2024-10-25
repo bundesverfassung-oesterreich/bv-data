@@ -105,6 +105,7 @@
       <change when="2024-04-18" who="#m_huber">all div for articles, sections and sub-sections
         generated</change>
       <change when="2024-06-13" who="#m_huber">formatting completed</change>
+      <change when="2024-10-25" who="#t_voegtlin">Silbentrennung</change>
     </revisionDesc>
   </teiHeader>
   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -303,8 +304,8 @@
                   und daß Doppelbesteuerung zu vermeiden ist.  </item>
                 <label>12.</label>
                 <item> Das bürgerliche Recht, die Organisation der Gerichte, die Regelung der
-                  Verhältnisse der Advokaten und Notare, das Polizei-, Bundessteuer= und
-                  Gefällsstrafrecht, das gerichtliche Verfahren.  </item>
+                  Verhältnisse der Advokaten und Notare, das Polizei-, Bundessteuer- und
+                  Gefällsstrafrecht, das gerichtliche Verfahren. </item>
                 <label>13.</label>
                 <item>Arbeitsrecht, Arbeitsschutz, einschließlich der Gewerbeinspektion,
                   Arbeitsnachweis und Sozialversicherung (Art. 36).  </item>
@@ -361,7 +362,7 @@
                 <label>3.</label>
                 <item>Das Agrarwesen.  </item>
                 <label>4.</label>
-                <item> Das landwirtschaftliche Fach= und Fortbildungsschulwesen.  </item>
+                <item> Das landwirtschaftliche Fach- und Fortbildungsschulwesen. </item>
                 <label>5.</label>
                 <item> Das Bankwesen, soweit es nicht in den ausschließlichen Wirkungskreis fällt.  </item>
                 <label>6.</label>
@@ -460,7 +461,9 @@
             <div type="article">
               <head>Art. 15. </head>
               <head>Freiheit der Mitteilung.</head>
-              <p type="legal_section"> Das Briefgeheimnis, das Post=, Telegraphen= und Fernsprechgeheimnis ist unverletzlich. Eingriffe können durch Bundesgesetz für zulässig erklärt werden. </p>
+              <p type="legal_section"> Das Briefgeheimnis, das Post-, Telegraphen- und
+                Fernsprechgeheimnis ist unverletzlich. Eingriffe können durch Bundesgesetz für
+                zulässig erklärt werden. </p>
             </div>
             <div type="article">
               <head>Art. 16. </head>
@@ -543,8 +546,8 @@
             <div type="article">
               <head>Art. 24. </head>
               <head>Glaubensfreiheit.</head>
-              <p type="legal_section">Jeder Staatsbürger hat volle Glaubens= und GewissensfreiDie
-                Auskunftspflicht gegenüber der Behörde wird dadurch heit. nicht berührt. </p>
+              <p type="legal_section">Jeder Staatsbürger hat volle Glaubens- und Gewissensfreiheit.
+                Die Auskunftspflicht gegenüber der Behörde wird dadurch nicht berührt. </p>
               <p type="legal_section">Die gemeinsame häusliche und öffentliche Religionsübung ist
                 nicht beschränkt und steht gegen Störung unter staatlichem Schutz. Verbrechen und
                 Vergehen, welche bei Ausübung dieser Freiheit begangen werden, sind nach dem Gesetze
@@ -595,15 +598,15 @@
                 Dauer von mindestens 8 Jahren, für Fortbildungsschulen mindestens bis zum
                 vollendeten 16. Lebensjahre.</p>
               <p type="legal_section"> Die Erfüllung der Schulpflicht erfolgt grundsätzlich in
-                öffentlichen Volks= und Fortbildungsschulen. Privatschulen können nur auf Grund
+                öffentlichen Volks- und Fortbildungsschulen. Privatschulen können nur auf Grund
                 einer Bewilligung der Länder errichtet werden, wenn sie den Bedingungen der
                 öffentlichen Schulen entsprechen. </p>
-              <p type="legal_section">Der Unterricht an öffentlichen Volks= und Fortbildungsschulen
+              <p type="legal_section">Der Unterricht an öffentlichen Volks- und Fortbildungsschulen
                 ist unentgeltlich. </p>
             </div>
             <div type="article">
               <head>Art. 28. </head>
-              <p type="legal_section">Die Gesetzgebung und Verwaltung der Volks-, Mittel= und
+              <p type="legal_section">Die Gesetzgebung und Verwaltung der Volks-, Mittel- und
                 Hochschulen steht dem Bunde zu. </p>
               <p type="legal_section">Für den Besuch höherer Schulen durch Minderbemittelte sind
                 Erziehungsbeihilfen aus öffentlichen Mitteln beizustellen. </p>
@@ -708,7 +711,7 @@
                 nichtig. </p>
               <p type="legal_section">Die Arbeitnehmer einerseits, die Arbeitgeber anderseits sind
                 berufen, sich zu Verbänden zusammenzuschließen, welche in gemeinsamer Arbeit an der
-                Regelung der Lohn= und Arbeitsbedingungen mitzuwirken haben. </p>
+                Regelung der Lohn- und Arbeitsbedingungen mitzuwirken haben. </p>
               <p type="legal_section">Diese Verbände und ihre Vereinbarungen werden staatlich
                   anerkannt.<fw type="pageNum">- 8 -</fw></p>
             </div>
@@ -821,7 +824,7 @@
               <head>II. Die Bundesregierung.</head>
               <div type="article">
                 <head>Art. 44.</head>
-                <p type="legal_section">Die Ausübung der Regierungs= und Vollzugsgewalt steht,
+                <p type="legal_section">Die Ausübung der Regierungs- und Vollzugsgewalt steht,
                   soweit sie nicht dem Bundespräsidenten übertragen ist, dem Bundeskanzler und den
                   Bundesministern zu. Sie bilden in ihrer Gesamtheit die Bundesregierung. Den
                   Vorsitz führt der Bundeskanzler.</p>
@@ -1006,7 +1009,7 @@
                     <item> Das Recht, die Geschäftsführung der Regierung zu überprüfen, Anfragen zu
                       stellen, Auskünfte zu verlangen und über Antrag eines Fünftels der Mitglieder
                       Untersuchungsausschüsse einzusetzen, welchen die Befugnisse eines ordentlichen
-                      Untersuchungsgerichtes nach der St.=P.=O. zukommen. </item>
+                      Untersuchungsgerichtes nach der St.-P.-O. zukommen. </item>
                     <label>5.</label>
                     <item>Das Recht, den Bundespräsidenten, den Bundeskanzler und die Minister in
                       den Anklagezustand zu versetzen und einen Volksentscheid über die Absetzung
@@ -1354,7 +1357,10 @@
             </div>
             <div type="article">
               <head>Art. 87. </head>
-              <p type="legal_section">Niemand darf seinem ordentlichen Richter entzogen werden. Ausnahmsgerichte sind, abgesehen von den Fällen der St.=P.=O., nur unter den Voraussetzungen des Artikels 40 zulässig. Die Militärgerichtsbarkeit ist nur in Kriegszeiten statthaft. </p>
+              <p type="legal_section">Niemand darf seinem ordentlichen Richter entzogen werden.
+                Ausnahmsgerichte sind, abgesehen von den Fällen der St.-P.-O., nur unter den
+                Voraussetzungen des Artikels 40 zulässig. Die Militärgerichtsbarkeit ist nur in
+                Kriegszeiten statthaft. </p>
             </div>
             <div type="article">
               <head>Art. 88.</head>
@@ -1450,8 +1456,8 @@
                 <item> Über Kompetenzkonflikte zwischen der Bundesregierung und einer
                   Landesregierung oder zwischen Landesnegierungen untereinander. </item>
                 <label>3.</label>
-                <item>Über die Frage, ob Landesgesetze, Bundes= oder Landesverordnungen gesetzwidrig
-                  sind.  </item>
+                <item>Über die Frage, ob Landesgesetze, Bundes- oder Landesverordnungen gesetzwidrig
+                  sind. </item>
                 <label>4.</label>
                 <item>Über die Anfechtung von Wahlen und über die Frage des Mandatsverlustes bei
                   öffentlichen Vertretungskörpern.  </item>
@@ -1509,11 +1515,14 @@
           </div>
           <div type="article">
             <head>Art. 103. </head>
-            <p type="legal_section">über Meinungsverschiedenheiten zwischen dem Rechnungshof und der Bundesregierung, b###zw. den Landesregirungen entscheidet der Bundespräsident nach Anhörung des Bundesrates. </p>
+            <p type="legal_section">über Meinungsverschiedenheiten zwischen dem Rechnungshof und der
+              Bundesregierung, bzw. den Landesregierungen entscheidet der Bundespräsident nach
+              Anhörung des Bundesrates. </p>
           </div>
           <div type="article">
             <head>Art. 104. </head>
-            <p type="legal_section">Die näheren Bestimmungen über die Einrichtung des Rechnungshofes erfolgen durch Bundesgesetz. O. ö. Buchdr. u. Verlags=Gel., Lin=. 827 20. J.</p>
+            <p type="legal_section">Die näheren Bestimmungen über die Einrichtung des Rechnungshofes
+              erfolgen durch Bundesgesetz. O. ö. Buchdr. u. Verlags-Gel., Lin-. 827 20. J.</p>
           </div>
         </div>
       </div>
