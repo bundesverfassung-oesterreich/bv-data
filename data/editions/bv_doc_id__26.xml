@@ -110,6 +110,7 @@
                   <change when="2024-08-24" who="#m_huber">formatting completed</change>
                   <change when="2024-10-20" who="#s_kury">Gegengelesen bis Art. 20</change>
                   <change when="2024-10-26" who="#s_kury">Gegenlesen bis Art. 25</change>
+                  <change when="2024-10-27" who="#s_kury">Gegenlesen bis Art. 26, 2.</change>
             </revisionDesc>
       </teiHeader>
       <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -980,31 +981,31 @@
                                                   und Vollziehung in folgenden Angelegenheiten: </note><list>
                                                   <label>1. </label>
                                                   <item>Bundesverfassung und
-                                                  Verfassungsgerichtsbarkeit; die Organisation der
-                                                  Bundesbehörden und das Dienstrecht der
-                                                  Bundesangestellten einschließlich der Regelung des
-                                                  im Einvernehmen mit dem in Betracht kommenden Land
-                                                  zu vollziehenden Wechsels zwischen Bund- und
-                                                  Landesdienst; das Volkszählungswesen sowie die
-                                                  sonstige Statistik, soweit sie nicht nur den
-                                                  Interessen eines einzelnen Landes dient; die
-                                                  Regelung des wissenschaftlichen und
-                                                  fachtechnischen Archiv-und Bibliotheksdienstes.
-                                                  <note type="comment">Bundesverfassung und
-                                                  Verfasungsgerichtsbarkeit. — Einrichtung der
-                                                  Bundesgesetzgebung Gesamtorganisation der Behörden
-                                                  der Republik einschließlich des
+                                                  Verfassungsgerichtsbarkeit. — Einrichtung der
+                                                  Bundesgesetzgebung —  Gesamtorganisation der
+                                                  Behörden der Republik einschließlich des
                                                   Dienstverhältnisses der öffentlichen Bediensteten
                                                   und des Disziplinarrechtes (Pragmatik).
                                                   Einrichtung der Ämter und Anstalten des Bundes. —
-                                                  Die Verwaltungsgerichtsbarkeit.— Die Hilfsmittel
+                                                  Die Verwaltungsgerichtsbarkeit. — Die Hilfsmittel
                                                   der öffentlichen Verwaltung wie die Statistik,
                                                   soweit sie nicht den Interessen eines einzelnen
                                                   Bundeslandes dient, einschließlich der
                                                   Volkszählung, der Berufs- und Betriebsstatistik
                                                   und der Viehzählung; die Regelung des
                                                   wissenschaftlichen und fachtechnischen Archiv- und
-                                                  Bibliotheksdienstes. </note></item>
+                                                  Bibliotheksdienstes.  <note type="comment">die
+                                                  Bundesverfassung und Verfasungsgerichtsbarkeit;
+                                                  die Organisation der Bundesbehörden und das
+                                                  Dienstrecht der Bundesangestellten einschließlich
+                                                  der Regelung des im Einvernehmen mit dem in
+                                                  Betracht kommenden Land zu vollziehenden Wechsels
+                                                  zwischen Bund- und Landesdienst; das
+                                                  Volkszählungswesen sowie die sonstige Statistik,
+                                                  soweit sie nicht nur den Interessen eines
+                                                  einzelnen Landes dient; die Regelung des
+                                                  wissenschaftlichen und fachtechnischen Archiv-und
+                                                  Bibliotheksdienstes.  </note></item>
                                                   <pb facs="#facs_12" n="12" xml:id="img_0012"
                                                   break="yes"/>
                                                   <fw type="pageNum">7</fw>
@@ -1013,7 +1014,7 @@
                                                   Einschluß der politischen und wirtschaftlichen
                                                   Vertretung der Republik gegenüber dem Ausland,
                                                   insbesonders der Abschluß aller Staatsverträge.
-                                                  <note type="comment"> die auswärtigen
+                                                  <note type="comment">die auswärtigen
                                                   Angelegenheiten mit Einschluß der politischen und
                                                   wirtschaftlichen Vertretung gegenüber dem
                                                   Auslande, insbesondere der Abschluß aller
@@ -1047,10 +1048,10 @@
                                                   <label>5.</label>
                                                   <item>Staats- und Sicherheitspolizei mit Ausnahme
                                                   der Ortspolizei, Gendarmerie. — Staatsbürgerschaft
-                                                  und Heimatsrecht; Personenstandsangelegenheiten.
-                                                  Vereins- und Versammlungswesen, Presse. Fonds- und
-                                                  Stiftungswesen, soweit es sich um Stiftungen und
-                                                  Fonds handelt, die nach ihren Zwecken über den
+                                                  und Heimatsrecht; Personenstandsangelegenheiten. —
+                                                  Vereins- und Versammlungswesen, Presse. — Fonds-
+                                                  und Stiftungswesen, soweit es sich um Stiftungen
+                                                  und Fonds handelt, die nach ihren Zwecken über den
                                                   Interessenbereich eines Landes hinausgehen. <note
                                                   type="comment">die innere Einrichtung, Ausrüstung
                                                   und Ausbildung der Gendarmerie einschließlich der
@@ -1072,7 +1073,7 @@
                                                   nicht schon bisher von den Ländern autonom
                                                   verwaltet wurden; </note></item>
                                                   <label>6.</label>
-                                                  <item>Zivil= und Strafrecht, Zivil- und
+                                                  <item>Zivil- und Strafrecht, Zivil- und
                                                   Strafgerichtsbarkeit einschließlich des
                                                   Verwaltungsstrafrechtes, soweit dessen Anwendung
                                                   dem Bunde zusteht. Die Enteignung. Die
@@ -1085,19 +1086,21 @@
                                                   sie nicht Angelegenheiten betrifft, die in den
                                                   Wirkungskreis der Länder fallen; die
                                                   Angelegenheiten der Notare, der Rechtsanwälte und
-                                                  verwandter Berufe, </note></item>
+                                                  verwandter Berufe; </note></item>
                                                   <label>7.</label>
                                                   <item>Auf dem Gebiete der Erziehung und des
                                                   Unterrichts, des Kultus und der Kunstpflege: Die
                                                   allgemeinen und fachlichen Hoch- und
                                                   Mittelschulen, die Akademien; die Aufsicht über
-                                                  das gesamte Schul- und Erziehungswesen;
-                                                  künsterische und wissenschaftliche Sammlungen,
+                                                  das gesamte Schul- und Erziehungswesen; künst<choice>
+                                                  <sic/>
+                                                  <corr>l</corr>
+                                                  </choice>erische und wissenschaftliche Sammlungen,
                                                   sowie überhaupt die allgemeine Pflege von Kunst
                                                   und Wissenschaft; das Volksbildungswesen;
                                                   Denkmalschutz. Das Kultuswesen. <note
                                                   type="comment">das Hochschulwesen; die fachlichen
-                                                  Zentrallebranstalten; die Angelegenheiten der
+                                                  Zentrallehranstalten; die Angelegenheiten der
                                                   künstlerischen und wissenschaftlichen Sammlungen
                                                   und Einrichtungen; den Denkmalschutz; die
                                                   Angelegenheiten des Kultus ;</note></item>
@@ -1111,7 +1114,7 @@
                                                   Tierseuchenbekämpfung. Das Wasserrecht. <note
                                                   type="comment">das Bergwesen; die Ausführung der
                                                   Regulierung und die Instandhaltung der schiffbaren
-                                                  und flöübbaren Gewässer, dann solcher Gewasser,
+                                                  und flößbaren Gewässer, dann solcher Gewässer,
                                                   welche die Grenze gegen das Ausland oder zwischen
                                                   Ländern bilden oder die zwei oder mehrere Länder
                                                   durchfließen, den Bau derjenigen Wasserstraßen die
@@ -1120,31 +1123,31 @@
                                                   Krankheiten von Tieren; </note></item>
                                                   <label>9.</label>
                                                   <item>Auf dem Gebiete von Industrie und Gewerbe:
-                                                  Allgemeine Gewerbeordnung. - Die Industrie;
+                                                  Allgemeine Gewerbeordnung. — Die Industrie;
                                                   Dampfkessel- und Kraftmaschinen-,
                                                   Elektrizitätswesen und industrielle Verwertung der
-                                                  Gewässer. Gewerbliches und technisches
+                                                  Gewässer. — Gewerbliches und technisches
                                                   Versuchswesen: Waffen- und Munitions- und
-                                                  Sprengstoffwesen. Auf dem Gebiete des Handels:
+                                                  Sprengstoffwesen. — Auf dem Gebiete des Handels:
                                                   Maß- und Gewicht-, Eich- und Punzierungswesen;
                                                   gewerbliches, literarisches und künstlerisches
                                                   Urheberrecht, Patentwesen, Marken- und
                                                   Musterschutz, Bekämpfung des unlauteren
-                                                  Wettbewerbes. — Handels- und
-                                                  Gewerbekammern.-Geld-, Kredit-, Börsen-und
-                                                  Bankwesen. — Privatversicherungswesen. <note
-                                                  type="comment">das Gewerbewesen, die öffentlichen
-                                                  Agentien und die Privatgeschäftsvermittlung; das
-                                                  Dampfkessel- und Kraftmaschinenwesen; das
-                                                  Vermessungswesen; das Ingenieur- und
-                                                  Ziviltechnikerwesen; das Maß-, Gewichts-, Normen-
-                                                  und Punzierungswesen; das Urheberrecht; die
-                                                  Bekämpfung des unlauteren Wettbewerbes; das
-                                                  Patentwesen, sowie den Marken- und Musterschutz;
-                                                  das wirtschaftliche Assoziationswesen; die
-                                                  Handels- und Gewerbekammern; das
-                                                  Vertragsversicherungswesen; das Geld-, Kredit-,
-                                                  Börse- und Bankwesen. </note></item>
+                                                  Wettbewerbes. — Handels- und Gewerbekammern. —
+                                                  Geld-, Kredit-, Börsen-und Bankwesen. —
+                                                  Privatversicherungswesen. <note type="comment">das
+                                                  Gewerbewesen, die öffentlichen Agentien und die
+                                                  Privatgeschäftsvermittlung; das Dampfkessel- und
+                                                  Kraftmaschinenwesen; das Vermessungswesen; das
+                                                  Ingenieur- und Ziviltechnikerwesen; das Maß-,
+                                                  Gewichts-, Normen- und Punzierungswesen; das
+                                                  Urheberrecht; die Bekämpfung des unlauteren
+                                                  Wettbewerbes; das Patentwesen, sowie den Marken-
+                                                  und Musterschutz; das wirtschaftliche
+                                                  Assoziationswesen; die Handels- und
+                                                  Gewerbekammern; das Vertragsversicherungswesen;
+                                                  das Geld-, Kredit-, Börse- und Bankwesen.
+                                                  </note></item>
                                                   <label>10.</label>
                                                   <item>Auf dem Gebiete des Verkehrs:
                                                   Kraftfahrwesen, Eisenbahnen, Flößerei und
@@ -1161,22 +1164,22 @@
                                                   </item>
                                                   <label>11.</label>
                                                   <item>Auf dem Gebiete der sozialen Verwaltung:
-                                                  Ernährungswesen,
-                                                  NahrungsmittelkontrolleGesundheitswesen
-                                                  einschließlich von MutterschaftsSäuglings-,
-                                                  Jugend- und Altersfürsorge, jedoch mit Ausschluß
-                                                  des Leichenbestattungswesens, des
+                                                  Ernährungswesen, Nahrungsmittelkontrolle —
+                                                  Gesundheitswesen einschließlich von
+                                                  Mutterschafts-, Säuglings-, Jugend- und
+                                                  Altersfürsorge, jedoch mit Ausschluß des
+                                                  Leichenbestattungswesens, des
                                                   Gemeindesanitätsdienstes, des Hilfs- und
-                                                  Rettungswesens. Wohnungswesen. — Das gesamte
+                                                  Rettungswesens. — Wohnungswesen. — Das gesamte
                                                   Arbeiterrecht, Arbeiter- und Angestelltenschutz
                                                   einschließlich des Rechtes und Schutzes der
                                                   Hausgehilfen — Sozialversicherung,
-                                                  Invalidenfürsorge. Gewerbegerichte und
+                                                  Invalidenfürsorge. — Gewerbegerichte und
                                                   Einigungsämter. Arbeiter- und Angestelltenkammern.
                                                   <note type="comment">die Bekämpfung übertragbarer
                                                   Krankheiten von Menschen;</note></item>
                                                   <note type="comment">12. das gesamte Arbeiterrecht
-                                                  und den Arbeite- und Angestelltenschutz sowie das
+                                                  und den Arbeiter- und Angestelltenschutz sowie das
                                                   Sozialversicherungswesen, soweit es sich nicht um
                                                   land- und forstwirtschaftliche Arbeiter und
                                                   Angestellte handelt; die Fürsorge für
@@ -1198,10 +1201,10 @@
                                                   in folgenden Angelegenheiten: </note><list>
                                                   <label>1.</label>
                                                   <item>Das Verwaltungs- und das
-                                                  Verwattungsstrafverfahren einschließlich der
+                                                  Verwaltungsstrafverfahren einschließlich der
                                                   Zwangsvollstreckung, sowie die allgemeinen
                                                   Bestimmungen des Verwaltungsstrafrechtes in jenen
-                                                  Angelegenheiten. deren Vollzug den Ländern
+                                                  Angelegenheiten, deren Vollzug den Ländern
                                                   zusteht. <note type="comment">hinsichtlich der
                                                   öffentlichen Abgaben, die nicht ausschließlich
                                                   oder teilweise für den Bund eingehoben werden: die
