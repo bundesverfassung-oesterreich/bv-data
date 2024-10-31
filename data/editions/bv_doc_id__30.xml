@@ -85,6 +85,8 @@
                         <origin notBefore-iso="1920-04-24" notAfter-iso="1920-07-08">Zwischen 24. April 1920 und 8. Juli 1920</origin>
                     </history>
                 </msDesc>
+                <relatedItem type="source_for" target="bv_doc_id__84"/>
+                <relatedItem type="source_for" target="bv_doc_id__83"/>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
