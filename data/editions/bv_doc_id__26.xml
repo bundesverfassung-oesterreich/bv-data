@@ -113,6 +113,7 @@
                   <change when="2024-10-20" who="#s_kury">Gegengelesen bis Art. 20</change>
                   <change when="2024-10-26" who="#s_kury">Gegenlesen bis Art. 25</change>
                   <change when="2024-10-27" who="#s_kury">Gegenlesen bis Art. 26, 2.</change>
+                  <change when="2024-11-02" who="#s_kury">Gegenlesen bis Art. 63</change>
             </revisionDesc>
       </teiHeader>
       <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -1240,17 +1241,17 @@
                                                   <label>3.</label>
                                                   <item>Die pädagogisch-didaktische Einrichtung des
                                                   niederen Schulwesens. <note type="comment">das
-                                                  Verwaltungs- und Verwaldungsstrafverfahren
+                                                  Verwaltungs- und Verwaltungsstrafverfahren
                                                   einschließlich der Zwangsvollstreckung sowie die
                                                   allgemeinen Bestimmungen des
                                                   Verwaltungsstrafrechtes in Angelegenheiten, deren
                                                   Vollziehung den Ländern zusteht; </note>
                                                   </item>
                                                   <label>4.</label>
-                                                  <item>Die nicht im Art. 25 angeführten beruf
-                                                  lichen Vertretungen. <note type="comment">die
-                                                  Festsetzung des Lehrzieles bei den mittleren und
-                                                  niederen Schulen; </note></item>
+                                                  <item>Die nicht im Art. 25 angeführten beruflichen
+                                                  Vertretungen. <note type="comment">die Festsetzung
+                                                  des Lehrzieles bei den mittleren und niederen
+                                                  Schulen; </note></item>
                                                   <label>5.</label>
                                                   <item>Das Veterinärwesen. Das landwirtschaftliche
                                                   Genossenschaftswesen. <note type="comment">das
@@ -1260,12 +1261,13 @@
                                                   unterliegt, sowie das Waffenwesen; </note>
                                                   <note type="comment">7. die betriebstechnischen
                                                   Vorschriften bezüglich des Kraftfahrwesens;</note>
-                                                  <note type="comment">8. die Ausbildung, Fort
-                                                  bildung und Berufsausübung von Heilpersonen; das
-                                                  Heilmittelwesen; das Gesundheitswesen mit Ausnahme
-                                                  der Heil- und Pflegeanstalten und Ambularien, des
-                                                  Kurorte-, Leichen- und Begräbniswesens sowie des
-                                                  Gemeindesanitätsdienstes und Rettungswesens; </note>
+                                                  <note type="comment">8. die Ausbildung,
+                                                  Fortbildung und Berufsausübung von Heilpersonen;
+                                                  das Heilmittelwesen; das Gesundheitswesen mit
+                                                  Ausnahme der Heil- und Pflegeanstalten und
+                                                  Ambularien, des Kurorte-, Leichen- und
+                                                  Begräbniswesens sowie des Gemeindesanitätsdienstes
+                                                  und Rettungswesens; </note>
                                                   <note type="comment">9. das Volkswohnungs- und
                                                   Volkspflegestättenwesen; </note>
                                                   <note type="comment">10. die beruflichen
@@ -1282,7 +1284,7 @@
                                                 Erlassung von Ausführungsgesetzen und die
                                                 Vollziehung in folgenden Angelegenheiten: <note
                                                   type="comment">Bundessache ist die grundsätzliche
-                                                  Gesetz gebung, Landessache die Erlassung von
+                                                  Gesetzgebung, Landessache die Erlassung von
                                                   Ausführungsgesetzen und die Vollziehung in
                                                   folgenden Angelegenheiten: </note><list>
                                                   <label>1.</label>
@@ -1315,7 +1317,7 @@
                                                   Einrichtung und Erhaltung von mittleren und
                                                   niederen Unterrichtsanstalten; den
                                                   Privatunterricht und das Privatschulwesen; das
-                                                  Volksbildungswesen: </note></item>
+                                                  Volksbildungswesen; </note></item>
                                                   <label>4.</label>
                                                   <item>Die öffentlichen Einrichtungen zur
                                                   außergerichtlichen Vermittlung von Streitigkeiten.
@@ -1330,20 +1332,20 @@
                                                   <item>Die Bodenreform. Der Schutz der Pflanzen
                                                   gegen Krankheiten und Schädlinge. <note
                                                   type="comment">das Heil- und Pflegeanstaltenwesen
-                                                  einschließlich der Ambularien; die Ausgrabung und
-                                                  Überführung von Leichen; </note></item>
+                                                  einschließlich der Ambulatorien; die Ausgrabung
+                                                  und Überführung von Leichen; </note></item>
                                                   <label>6.</label>
                                                   <item>Die Gesetzgebung über die Wald- und
                                                   Weideservituten. <note type="comment">das
-                                                  Arbeiterrecht und den Arbeitei- und
+                                                  Arbeiterrecht und den Arbeiter- und
                                                   Angestelltenschutz sowie das
                                                   Sozialversicherungswesen, soweit es sich um land-
                                                   und forstwirtschaftliche Arbeiter und Angestellte
                                                   handelt; das Armenwesen; die Bevölkerungspolitik;
                                                   die Mutterschafts-, Säuglings- und Jugendfürsorge;
                                                   die öffentlichen Einrichtungen zur
-                                                  außergerichtlichen Vermittlung von Streitigkeiten
-                                                  ;</note></item>
+                                                  außergerichtlichen Vermittlung von
+                                                  Streitigkeiten;</note></item>
                                                   <label>7.</label>
                                                   <item>Armenwesen. <note type="comment">die
                                                   beruflichen Vertretungen auf land- und
@@ -1455,7 +1457,7 @@
                                                 Bundeswappen trägt das Staatswappen der Republik um
                                                 das Mittelschild neun Nebenschilde auf dem Gefieder
                                                 des Adlers, und zwar zur rechten Seite absteigend
-                                                die Wappen von Niederösterreich, Oberösterveich,
+                                                die Wappen von Niederösterreich, Oberösterreich,
                                                 Steiermark und Burgenland, zur linken Seite
                                                 absteigend die Wappen von Kärnten, Salzburg, Tirol
                                                 und Vorarlberg und in der Mitte oben das Wappen der
@@ -1467,7 +1469,7 @@
                                                 weist das Staatswappen mit der Umschrift „Republik
                                                 Österreich" auf. </p>
                                           <p type="legal_section"><label>2.</label> Die Flagge der
-                                                Republik besteht aus drej gleichbreiten wagrechten
+                                                Republik besteht aus drei gleichbreiten wagrechten
                                                 Streifen, von denen der mittlere weiß, der obere und
                                                 untere rot ist.</p>
                                     </div>
@@ -1650,7 +1652,7 @@
                                     <div type="article">
                                           <head>Art. 47. </head>
                                           <p type="legal_section"><label>1.</label> Der Vorsitz des
-                                                Bundesrates fällt in jeder ordentliehen oder
+                                                Bundesrates fällt in jeder ordentlichen oder
                                                 außerordentlichen Tagung abwechselnd auf ein anderes
                                                 Land nach alphabetischer Reihenfolge. </p>
                                           <p type="legal_section"><label>2.</label> Als Vorsitzender
@@ -1663,7 +1665,7 @@
                                                 Vorsitz zufällt. <note type="comment"> Als
                                                   Vorsitzender des Bundesrates und als dessen
                                                   Stellvertreter fingieren die bei der Wahl aus dem
-                                                  Landtag an erster und zweiter Stelle sendeten
+                                                  Landtag an erster und zweiter Stelle entsendeten
                                                   Vertreter des jeweils zum Vorsitz berufenenen
                                                   Landes.</note></p>
                                           <p type="legal_section"><label>3.</label> Der Bundesrat
@@ -1721,7 +1723,7 @@
                                                 Landtag im Wege des Bundesrates Gesetzanträge an den
                                                 Bundestag stellen. </p>
                                           <p type="legal_section"><label>4.</label> Endlich ist
-                                                jeder von 300.000 Stimmburechtigten oder von der
+                                                jeder von 300.000 Stimmberechtigten oder von der
                                                 Hälfte der Stimmberechtigten dreier Länder gestellte
                                                 Antrag von der Bundesregierung dem Bundestag zur
                                                 geschäftsordnungsmäßigen Behandlung vorzulegen. </p>
@@ -1780,7 +1782,7 @@
                                                 gerechnet, seine Zustimmung zu erteilen oder gegen
                                                 sie einen Vorhalt oder Einspruch zu richten. </p>
                                           <p type="legal_section"><label>3.</label> Hat der
-                                                Bundesrat einem Beschlüsse des Bundestages seine
+                                                Bundesrat einem Beschlusse des Bundestages seine
                                                 Zustimmung erteilt, so kann dieser Beschluß sofort
                                                 beurkundet und als Gesetz kundgemacht werden. Hat
                                                 der Bundesrat gegen einen Beschluß des Bundestages
@@ -1838,13 +1840,13 @@
                                                 übereinstimmende Beschlüsse gefaßt haben, vor deren
                                                 Beurkundung einer Abstimmung des ganzen Bundesvolkes
                                                 zu unterziehen. </p>
-                                          <p type="legal_section"><label>2.</label> Ist ein Gesetzes
-                                                Vorschlag, der eine teilweise Verfassungsänderung
-                                                oder eine Änderung des Wehrgesetzes bewirken soll,
-                                                gescheitert (Art. 54, Abs. 4), so kann der Bundestag
-                                                oder der Bundesrat mit Zweidrittelmehrheit die
-                                                Volksabstimmung über den Beschluß des Bundestages
-                                                fordern. </p>
+                                          <p type="legal_section"><label>2.</label> Ist ein
+                                                Gesetzesvorschlag, der eine teilweise
+                                                Verfassungsänderung oder eine Änderung des
+                                                Wehrgesetzes bewirken soll, gescheitert (Art. 54,
+                                                Abs. 4), so kann der Bundestag oder der Bundesrat
+                                                mit Zweidrittelmehrheit die Volksabstimmung über den
+                                                Beschluß des Bundestages fordern. </p>
                                     </div>
                                     <div type="article">
                                           <head>Art. 57. </head>
