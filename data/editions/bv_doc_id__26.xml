@@ -114,6 +114,7 @@
                   <change when="2024-10-26" who="#s_kury">Gegenlesen bis Art. 25</change>
                   <change when="2024-10-27" who="#s_kury">Gegenlesen bis Art. 26, 2.</change>
                   <change when="2024-11-02" who="#s_kury">Gegenlesen bis Art. 63</change>
+                  <change when="2024-11-07" who="#s_kury">Gegenlesen bis Art. 105</change>
             </revisionDesc>
       </teiHeader>
       <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -1998,7 +1999,7 @@
                                                 sowie die von ihnen entsendeten Vertreter sind
                                                 berechtigt, an allen Beratungen des Bundestages und
                                                 des Bundesrates sowie deren Ausschüsse teilzunehmen,
-                                                jedoch mit Ausnahme des im Art. vorgesehenen
+                                                jedoch mit Ausnahme des im Art.    vorgesehenen
                                                 besonderen Ausschusses, an dessen Beratungen sie nur
                                                 auf besondere Einladung teilnehmen können. Sie
                                                 müssen auf ihr Verlangen jedesmal gehört werden. Der
@@ -2069,19 +2070,18 @@
                                                   <label>4.</label>
                                                   <item>zur Entscheidung über Krieg und Frieden, zum
                                                   Aufruf aller wehrfähigen Bürger zur Verteidigung
-                                                  des Landes wider den ins Land fallenden Feind.
-                                                  </item>
+                                                  des Landes wider den ins Land fallenden Feind. </item>
+                                                  <label> 2. </label>
+                                                  <item> Die Sitzungen der Bundesversammlung sind
+                                                  nicht öffentlich. Der Bundestag und der Bundesrat
+                                                  beraten die zu entscheidenden Dinge gesondert und
+                                                  treten bloß zum Zwecke der Abstimmung zusammen. </item>
+                                                  <label>3. </label>
+                                                  <item> Die näheren Vorschriften über das Verfahren
+                                                  der Bundesversammlung (Geschäftsordnung) enthält
+                                                  ein besonderes Bundesverfassungsgesetz. </item>
                                                   </list>
                                                 </p>
-                                                <p type="legal_section"><label>2.</label> Die
-                                                  Sitzungen der Bundesversammlung sind nicht
-                                                  öffentlich. Der Bundestag und der Bundesrat
-                                                  beraten die zu entscheidenden Dinge gesondert und
-                                                  treten bloß zum Zwecke der Abstimmung zusammen. </p>
-                                                <p type="legal_section"><label>3.</label> Die
-                                                  näheren Vorschriften über das Verfahren der
-                                                  Bundesversammlung (Geschäftsordnung) enthält ein
-                                                  besonderes Bundesverfassungsgesetz. </p>
                                           </div>
                                           <div type="article">
                                                 <head>Art. 71. </head>
@@ -2107,7 +2107,7 @@
                                                 <head>Art. 72. </head>
                                                 <p type="legal_section"><label>1.</label> Eine
                                                   behördliche Verfolgung des Bundespräsidenten kann
-                                                  nur mit Zustimmung, seine Abberutung nur durch
+                                                  nur mit Zustimmung, seine Abberufung nur durch
                                                   einen Beschluß der Bundesversammlung erfolgen. </p>
                                                 <p type="legal_section"><label>2.</label> Zu diesen
                                                   Beschlüssen ist die Anwesenheit der Hälfte der
@@ -2172,7 +2172,7 @@
                                                   rechtskräftig Verurteilten, die Milderung und
                                                   Umwandlung der von den Gerichten ausgesprochenen
                                                   Strafen, die Nachsicht von Rechtsfolgen und die
-                                                  Tilgung von Verurteilungen, ferner die Abolution
+                                                  Tilgung von Verurteilungen, ferner die Abolition
                                                   von strafgerichtlichen Verfahren; </item>
                                                   <label>d) </label>
                                                   <item>die Erklärung unehelicher Kinder zu
@@ -2205,14 +2205,16 @@
                                           </div>
                                           <div type="article">
                                                 <head>Art. 78. </head>
-                                                <p type="legal_section">Alle Aktte des
-                                                  Bundespräsidenten bedürfen zu ihrer Giltigkeit der
-                                                  Gegenzeichnung des Bundeskanzlers und der
-                                                  ressortmäßig zuständigen Bundesminister. </p>
+                                                <p type="legal_section">Alle Akt<choice>
+                                                  <sic>t</sic>
+                                                  <corr/>
+                                                  </choice>e des Bundespräsidenten bedürfen zu ihrer
+                                                  Giltigkeit der Gegenzeichnung des Bundeskanzlers
+                                                  und der ressortmäßig zuständigen Bundesminister. </p>
                                           </div>
                                           <div type="article">
                                                 <head>Art. 79. </head>
-                                                <p type="legal_section">Der Bundespräsident ist tür
+                                                <p type="legal_section">Der Bundespräsident ist für
                                                   die Ausübung der ihm zustehenden Regierungs- und
                                                   Vollzugsgewalt der Bundesversammlung gemäß Art.
                                                   158 der Bundesverfassung verantwortlich. </p>
@@ -2248,7 +2250,7 @@
                                                   ausgeübt werden.</note></p>
                                                 <note type="comment">5. Jede Behörde kann im Rahmen
                                                   der Gesetze innerhalb ihres Wirkungskreises
-                                                  Verordnungen e lassen. </note>
+                                                  Verordnungen erlassen. </note>
                                           </div>
                                           <div type="article">
                                                 <head>Art. 81. </head>
@@ -2316,7 +2318,7 @@
                                                   Bundesregierung u.s.w.</note></p>
                                                 <p type="legal_section"><pb facs="#facs_31" n="31"
                                                   xml:id="img_0031" break="yes"/><fw type="pageNum"
-                                                  >27</fw><label>2.</label> Zu einem Beschlüsse des
+                                                  >27</fw><label>2.</label> Zu einem Beschlusse des
                                                   Bundestages, mit dem das Vertrauen versagt wird,
                                                   ist die Anwesenheit der Hälfte der Mitglieder des
                                                   Bundestages erforderlich. Doch ist, wenn es ein
@@ -2324,7 +2326,7 @@
                                                   Abstimmung auf den zweitnächsten Werktag zu
                                                   vertagen. Eine neuerliche Vertagung der Abstimmung
                                                   kann nur auf Beschluß des Bundestages erfolgen.
-                                                  <note type="comment">Zu dem Beschlüsse eines der
+                                                  <note type="comment">Zu dem Beschlusse eines der
                                                   beiden Häuser, mit dem das Vertrauen versagt wird,
                                                   ist die Anwesenheit der Hälfte der Mitglieder des
                                                   betreffenden Hauses erforderlich. Doch ist, wenn
@@ -2336,7 +2338,7 @@
                                                 <p type="legal_section"><label>3.</label> Die
                                                   gesamte Bundesregierung und ihre einzelnen
                                                   Mitglieder werden in den gesetzlich bestimmten
-                                                  Fällen oder aut ihren Wunsch vom Bundespräsidenten
+                                                  Fällen oder auf ihren Wunsch vom Bundespräsidenten
                                                   ihres Amtes enthoben. </p>
                                           </div>
                                           <div type="article">
@@ -2365,7 +2367,7 @@
                                           <div type="article">
                                                 <head>Art. 86. </head>
                                                 <p type="legal_section"><label>1.</label> Die
-                                                  Bundeskanzei wird vom Bundeskanzler geleitet;
+                                                  Bundeskanzlei wird vom Bundeskanzler geleitet;
                                                   jedes Bundesministerium steht unter der Leitung
                                                   eines Bundesministers. </p>
                                                 <p type="legal_section"><label>2.</label> Der
@@ -2424,7 +2426,7 @@
                                                   Unglücksfällen außergewöhnlichen Umfanges berufen. </p>
                                                 <p type="legal_section"><label>2.</label> Dem
                                                   Bundesheer obliegt der Schutz der Grenzen der
-                                                  Republik </p>
+                                                  Republik. </p>
                                           </div>
                                           <div type="article">
                                                 <head>Art. 91. </head>
@@ -2511,26 +2513,29 @@
                                                 Bundesminister ernannt. </p>
                                           <p type="legal_section"><label>2.</label> Die
                                                 Bundesregierung stellt ihre Anträge auf Grund von
-                                                Besetzungsvorschlägen von Kollegien, die durch das
+                                                Gesetzungsvorschlägen von Kollegien, die durch das
                                                 Gerichtsverfassungsgesetz eingerichtet werden. </p>
                                           <p type="legal_section"><label>3.</label> In diese
                                                 Kollegien entsenden die durch das
                                                 Gerichtsverfassungsgesetz bezeichneten richterlichen
                                                 Senate zwei Drittel der Mitglieder. Das letzte
-                                                Drittels wird, wenn es sich um Richter der ersten
+                                                Drittel wird, wenn es sich um Richter der ersten
                                                 oder zweiten Instanz handelt, von den betreffenden
                                                 Landtagen, wenn es sich um Richter der dritten
                                                 Instanz oder des Verwaltungsgerichtshofes handelt,
                                                 vom Bundestage entsendet. </p>
-                                          <p type="legal_section"><label>4.</label> Der
-                                                Besetzungsvorschlag hat, wenn genügend Bewerber
-                                                vorhanden sind, mindestens drei Personen, wenn aber
-                                                mehr als eine Stelle zu besetzen ist, mindestens
-                                                doppelt soviel Personen zu umfassen, als Richter zu
-                                                ernennen sind. Er ist dem<pb facs="#facs_34" n="34"
-                                                  xml:id="img_0034" break="yes"/><fw type="pageNum"
-                                                  >30</fw>zuständigen Bundesminister vorzulegen und
-                                                von ihm an die Bundesregierung zu leiten. </p>
+                                          <p type="legal_section"><label>4.</label> Der <choice>
+                                                  <sic>B</sic>
+                                                  <corr>G</corr>
+                                                </choice>esetzungsvorschlag hat, wenn genügend
+                                                Bewerber vorhanden sind, mindestens drei Personen,
+                                                wenn aber mehr als eine Stelle zu besetzen ist,
+                                                mindestens doppelt soviel Personen zu umfassen, als
+                                                Richter zu ernennen sind. Er ist dem<pb
+                                                  facs="#facs_34" n="34" xml:id="img_0034"
+                                                  break="yes"/><fw type="pageNum">30</fw>zuständigen
+                                                Bundesminister vorzulegen und von ihm an die
+                                                Bundesregierung zu leiten. </p>
                                     </div>
                                     <div type="article">
                                           <head>Art. 98. </head>
