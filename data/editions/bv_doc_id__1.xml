@@ -107,6 +107,7 @@
                   <change when="2024-06-06" who="#m_huber">fixed lb-elements</change>
                   <change when="2024-07-04" who="#m_huber">kleine formatierungsfehler
                         behoben</change>
+                  <change when="2024-11-12" who="#m_huber">hyphenation corrected</change>
             </revisionDesc>
       </teiHeader>
       <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -419,19 +420,19 @@
                               </div>
                               <div type="article">
                                     <head>Art. XIV. </head>
-                                    <p type="legal_section">Während der Sitzungsperiode kann die Bundesversammlung durch einen
-                                          Be-</p>
-                                    <fw type="pageNum">4</fw>
-                                    <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
-                                    <fw type="pageNum">- 6 -</fw>
-                                    <p type="legal_section"> schluß des Hauses oder über Vorschlag
-                                          der Bundesregierung durch den
+                                    <p type="legal_section">Während der Sitzungsperiode kann die
+                                          Bundesversammlung durch einen Be<fw type="pageNum"
+                                                >4</fw><pb facs="#facs_7" n="7" xml:id="img_0007"
+                                                break="no"/><fw type="pageNum">- 6 -</fw>schluß des
+                                          Hauses oder über Vorschlag der Bundesregierung durch den
                                           Bundespräsidenten vertagt werden. </p>
-                                    <p type="legal_section">Die Vertagung ist aufzuheben, wenn wenigstens 50 Mitglieder der Bundesversammlung einen schriftlichen Antrag
-                                          beim Präsidenten der Bundesversammlung gestellt haben. Der Präsident der
-                                          Bundesversammlung hat von dem erfolgten
-                                          Antrag den Bundespräsidenten im Wege der
-                                          Bundesregierung zu verständigen.</p>
+                                    <p type="legal_section">Die Vertagung ist aufzuheben, wenn
+                                          wenigstens 50 Mitglieder der Bundesversammlung einen
+                                          schriftlichen Antrag beim Präsidenten der
+                                          Bundesversammlung gestellt haben. Der Präsident der
+                                          Bundesversammlung hat von dem erfolgten Antrag den
+                                          Bundespräsidenten im Wege der Bundesregierung zu
+                                          verständigen.</p>
                               </div>
                               <div type="article">
                                     <head>Art. XV. </head>
@@ -478,16 +479,16 @@
                               </div>
                               <div type="article">
                                     <head>Art. XIX. </head>
-                                    <p type="legal_section">Jede Gesamtänderung der Bundesverfassung, eine teilweise Aenderung aber nur, wenn sie von . . . Mitgliedern
-                                          der Bundesversammlung oder . . .
-                                          Mitgliedern des Bundesrates verlangt
-                                          wird, ist - nachdem sie von der
-                                          Bundesversammlung beschlossen und vom
-                                          Bundesrat genehmigt ist - vor der
-                                          Beurkundung durch den Bundespräsiden-<fw type="pageNum">5</fw><pb facs="#facs_9" n="9" xml:id="img_0009" break="no"/><fw type="pageNum">-
-                                                8 -</fw>ten einer Abstimmung des
-                                          gesamten Bundesvolkes zu unterziehen.
-                                    </p>
+                                    <p type="legal_section">Jede Gesamtänderung der
+                                          Bundesverfassung, eine teilweise Aenderung aber nur, wenn
+                                          sie von . . . Mitgliedern der Bundesversammlung oder . . .
+                                          Mitgliedern des Bundesrates verlangt wird, ist - nachdem
+                                          sie von der Bundesversammlung beschlossen und vom
+                                          Bundesrat genehmigt ist - vor der Beurkundung durch den
+                                                Bundespräsiden<fw type="pageNum">5</fw><pb
+                                                facs="#facs_9" n="9" xml:id="img_0009" break="no"
+                                                /><fw type="pageNum">- 8 -</fw>ten einer Abstimmung
+                                          des gesamten Bundesvolkes zu unterziehen. </p>
                               </div>
                               <div type="article">
                                     <head>Art. XX. </head>
@@ -553,11 +554,10 @@
                                           Reihenfolge auf ein anderes Land. </p>
                                     <p type="legal_section">Als Vorsitzender des Bundesrates und als
                                           Stellvertreter desselben fungieren die bei der Wahl aus
-                                          der Landesver- <pb facs="#facs_11" n="11"
-                                                xml:id="img_0011" break="yes"/><fw type="pageNum">-
-                                                10 -</fw>sammlung hiezu an erster und zweiter Stelle
-                                          ermächtigten Vertreter des jeweils zum Vorsitz berufenen
-                                          Landes. </p>
+                                          der Landesver<pb facs="#facs_11" n="11" xml:id="img_0011"
+                                                break="no"/><fw type="pageNum">- 10 -</fw>sammlung
+                                          hiezu an erster und zweiter Stelle ermächtigten Vertreter
+                                          des jeweils zum Vorsitz berufenen Landes. </p>
                                     <p type="legal_section">Der Bundesrat wird durch seinen Vorsitzenden nach außen vertreten. Alle Ausfertigungen des Bundesrates
                                           müssen die Unterschrift seines
                                           Vorsitzenden tragen. </p>
@@ -666,13 +666,14 @@
                                           wegen der in diesem Berufe gemachten Aeusserungen nur von der
                                           Bundesversammlung verantwortlich gemacht
                                           werden. </p>
-                                    <p type="legal_section">Kein Mitglied der Bundesversammlung darf während der Dauer der Session
-                                          wegen einer strafbaren Handlung - den
-                                          Fall der <fw type="pageNum">8</fw></p>
-                                    <p type="legal_section"><pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/><fw type="pageNum">-
-                                                14 -</fw>Ergreifung auf frischer Tat ausgenommen -
-                                          ohne Zustimmung der Bundesversammlung verhaftet oder
-                                          behördlich verfolgt werden. </p>
+                                    <p type="legal_section">Kein Mitglied der Bundesversammlung darf
+                                          während der Dauer der Session wegen einer strafbaren
+                                          Handlung - den Fall der <fw type="pageNum">8</fw><pb
+                                                facs="#facs_15" n="15" xml:id="img_0015" break="yes"
+                                                /><fw type="pageNum">- 14 -</fw>Ergreifung auf
+                                          frischer Tat ausgenommen - ohne Zustimmung der
+                                          Bundesversammlung verhaftet oder behördlich verfolgt
+                                          werden. </p>
                                     <p type="legal_section">Selbst in dem Falle der Ergreifung auf frischer Tat hat die Behörde dem Präsidenten der Bundesversammlung
                                           sogleich die geschehene Verhaftung
                                           bekanntzugeben. </p>
@@ -698,12 +699,15 @@
                               </div>
                               <div type="article">
                                     <head>Art. XXXVIII. </head>
-                                    <p type="legal_section">Die Mitglieder der Bundesregierung sowie die von ihnen entsendeten Vertreter sind berechtigt, an allen
-                                          Beratungen der Bundesversammlung und des
-                                                Bun<pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/><fw type="pageNum">- 15 - </fw>desrates sowie deren Ausschüsse teilzunehmen. Sie müssen auf ihr Verlangen
-                                          jedesmal gehört werden. Die Bundesversammlung sowie der Bundesrat kann die
-                                          Anwesenheit der Mitglieder der
-                                          Bundesregierung verlangen. </p>
+                                    <p type="legal_section">Die Mitglieder der Bundesregierung sowie
+                                          die von ihnen entsendeten Vertreter sind berechtigt, an
+                                          allen Beratungen der Bundesversammlung und des Bun<pb
+                                                facs="#facs_16" n="16" xml:id="img_0016" break="no"
+                                                /><fw type="pageNum">- 15 - </fw>desrates sowie
+                                          deren Ausschüsse teilzunehmen. Sie müssen auf ihr
+                                          Verlangen jedesmal gehört werden. Die Bundesversammlung
+                                          sowie der Bundesrat kann die Anwesenheit der Mitglieder
+                                          der Bundesregierung verlangen. </p>
                               </div>
                               <div type="article">
                                     <head>Art. XXXIX. </head>
@@ -724,21 +728,21 @@
                                           <p type="legal_section">Der Bundespräsident und sein
                                                 Stellvertreter werden unmittelbar durch das
                                                 Bundesvolk gewählt. </p>
-                                          <p type="legal_section">Die Wahl erfolgt zugleich mit der Hauptwahl zur Bundesversammlung
-                                                und für die Dauer ihrer
-                                                  Funktionsperiode. <fw type="pageNum">9</fw></p>
-                                          <pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>
-                                          <fw type="pageNum">- 16 - </fw>
-                                          <p type="legal_section">Wird die Bundesversammlung vor Ablauf der . . . jährigen
-                                                Legislativperiode aufgelöst, hat
-                                                auch eine Neuwahl des
-                                                Bundespräsidenten und seines Stellvertreters zu erfolgen. </p>
-                                          <p type="legal_section">Eine Neuwahl des Bundespräsidenten und seines Stellvertreters hat
-                                                auch dann zu erfolgen, wenn die
-                                                Stelle des Bundespräsidenten durch
-                                                Tod, Amtsverzicht oder aus anderen
-                                                gesetzlichen Gründen erledigt
-                                                wird.</p>
+                                          <p type="legal_section">Die Wahl erfolgt zugleich mit der
+                                                Hauptwahl zur Bundesversammlung und für die Dauer
+                                                ihrer Funktionsperiode. <fw type="pageNum"
+                                                >9</fw></p>
+                                          <p type="legal_section"><pb facs="#facs_17" n="17"
+                                                  xml:id="img_0017" break="yes"/><fw type="pageNum"
+                                                  >- 16 - </fw>Wird die Bundesversammlung vor Ablauf
+                                                der . . . jährigen Legislativperiode aufgelöst, hat
+                                                auch eine Neuwahl des Bundespräsidenten und seines
+                                                Stellvertreters zu erfolgen. </p>
+                                          <p type="legal_section">Eine Neuwahl des Bundespräsidenten
+                                                und seines Stellvertreters hat auch dann zu
+                                                erfolgen, wenn die Stelle des Bundespräsidenten
+                                                durch Tod, Amtsverzicht oder aus anderen
+                                                gesetzlichen Gründen erledigt wird.</p>
                                     </div>
                                     <div type="article">
                                           <head>Art. XLI.</head>
@@ -871,11 +875,13 @@
                                                 Zusammensetzung, Wirkungskreis und Verfahren im Geschäftsordnungsgesetze geregelt ist, in namentlicher
                                                 Abstimmung gewählt.</p>
                                           <p type="legal_section"> Die Bestallungsurkunden des
-                                                Bundeskanzlers und der
-                                                Staatssekretäre sowie der
-                                                Unterstaatsekretäre werden vom Bun-<fw type="pageNum">11</fw><pb facs="#facs_21" n="21" xml:id="img_0021" break="no"/><fw type="pageNum">- 20 -</fw>despräsidenten mit dem Datum des Tages der Abgelobung ausgefertigt und vom
-                                                neu bestellten Bundeskanzler
-                                                gegengezeichnet. </p>
+                                                Bundeskanzlers und der Staatssekretäre sowie der
+                                                Unterstaatsekretäre werden vom Bun<fw type="pageNum"
+                                                  >11</fw><pb facs="#facs_21" n="21"
+                                                  xml:id="img_0021" break="no"/><fw type="pageNum">-
+                                                  20 -</fw>despräsidenten mit dem Datum des Tages
+                                                der Abgelobung ausgefertigt und vom neu bestellten
+                                                Bundeskanzler gegengezeichnet. </p>
                                     </div>
                                     <div type="article">
                                           <head>Art. LIV.</head>
@@ -891,33 +897,30 @@
                                     </div>
                                     <div type="article">
                                           <head>Art. LV. </head>
-                                          <p type="legal_section">Versagt die Bundesversammlung oder der Bundesrat der Bundesregierung
-                                                oder einzelne Mitglieder derselben
-                                                durch ausdrückliche Entschließung
-                                                das Vertrauen, so ist eine neue
-                                                Bundesregierung zu bestellen, bezw.
-                                                der betreffende Staatssekretär
-                                                seines Amtes zu entheben.</p>
-                                          <p type="legal_section"> Zu einem Beschlusse der Bundesversammlung, mit welchem das
-                                                Vertrauen versagt wird, ist die
-                                                Anwesenheit der Hälfte der
-                                                Mitglieder der Bundesversammlung erforderlich. Doch ist, wenn . . . Mitglieder es verlangen, die Abstimmung auf
-                                                den zweitnächsten Werktag zu
-                                                vertagen. Eine neuerliche Vertagung
-                                                der Abstimmung kann nur auf
-                                                Beschluß der Bundesversammlung erfolgen.</p>
-                                          <pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/>
-                                          <fw type="pageNum">- 21 -</fw>
-                                          <p type="legal_section">Zu einem Beschlusse des
-                                                Bundesrates, mit welchem das
-                                                Vertrauen versagt wird, ist die
-                                                Anwesenheit mindestens eines Vertreters eines jeden Landes erforderlich.</p>
+                                          <p type="legal_section">Versagt die Bundesversammlung oder
+                                                der Bundesrat der Bundesregierung oder einzelne
+                                                Mitglieder derselben durch ausdrückliche
+                                                Entschließung das Vertrauen, so ist eine neue
+                                                Bundesregierung zu bestellen, bezw. der betreffende
+                                                Staatssekretär seines Amtes zu entheben.</p>
+                                          <p type="legal_section"> Zu einem Beschlusse der
+                                                Bundesversammlung, mit welchem das Vertrauen versagt
+                                                wird, ist die Anwesenheit der Hälfte der Mitglieder
+                                                der Bundesversammlung erforderlich. Doch ist, wenn .
+                                                . . Mitglieder es verlangen, die Abstimmung auf den
+                                                zweitnächsten Werktag zu vertagen. Eine neuerliche
+                                                Vertagung der Abstimmung kann nur auf Beschluß der
+                                                Bundesversammlung erfolgen.</p>
+                                          <p type="legal_section"><pb facs="#facs_22" n="22"
+                                                  xml:id="img_0022" break="yes"/><fw type="pageNum"
+                                                  >- 21 -</fw>Zu einem Beschlusse des Bundesrates,
+                                                mit welchem das Vertrauen versagt wird, ist die
+                                                Anwesenheit mindestens eines Vertreters eines jeden
+                                                Landes erforderlich.</p>
                                           <p type="legal_section">Die gesamte Bundesregierung und
-                                                die einzelnen Mitglieder derselben
-                                                werden in den gesetzlich bestimmten
-                                                Fällen oder über ihren Wunsch vom
-                                                Bundespräsidenten ihres Amtes
-                                                enthoben. </p>
+                                                die einzelnen Mitglieder derselben werden in den
+                                                gesetzlich bestimmten Fällen oder über ihren Wunsch
+                                                vom Bundespräsidenten ihres Amtes enthoben. </p>
                                     </div>
                                     <div type="article">
                                           <head> Art. LVI. </head>
@@ -1012,8 +1015,8 @@
                                     </div>
                                     <div type="article">
                                           <head>Art. LXV.</head>
-                                          <p type="legal_section">Die Richter werden -soferne nicht
-                                                anderes bestimmt ist auf Grund von
+                                          <p type="legal_section">Die Richter werden - soferne nicht
+                                                anderes bestimmt ist - auf Grund von
                                                 Besetzungsvorschlägen der durch die
                                                 Gerichtsverfassung dazu bestimmten Senate über
                                                 Antrag der Bunderegierung vom Bundespräsidenten oder
@@ -1289,8 +1292,8 @@
                                           Bundesrechnungshofes nur durch Beschluss der
                                           Bundesversammlung oder des Bundesrates abberufen werden.
                                           Auf diese Beschlüsse finden die Bestimmungen des Art. IV
-                                          der Bundesver-<pb facs="#facs_34" n="34" xml:id="img_0034"
-                                                break="yes"/><fw type="pageNum">- 33 -</fw> fassung
+                                          der Bundesver<pb facs="#facs_34" n="34" xml:id="img_0034"
+                                                break="no"/><fw type="pageNum">- 33 -</fw> fassung
                                           analoge Anwendung. </p>
                               </div>
                               <div type="article">
@@ -1320,7 +1323,9 @@
                                           Bestimmungen des Art. LXXXVII Abs. 2. </p>
                                     <p type="legal_section">Ist die Stelle des Präsidenten dauernd
                                           erledigt, kann der Stellvertreter vom Bundespräsidenten,
-                                          bis die Wahl des Präsidenten des Bundesrechnungs-<fw type="pageNum">18</fw><pb facs="#facs_35" n="35" xml:id="img_0035" break="no"/><fw type="pageNum">-
+                                          bis die Wahl des Präsidenten des Bundesrechnungs<fw
+                                                type="pageNum">18</fw><pb facs="#facs_35" n="35"
+                                                xml:id="img_0035" break="no"/><fw type="pageNum">-
                                                 34 -</fw> hofes erfolgt ist, mit der Leitung des
                                           Bundesrechnungshofes betraut werden. In diesem Falle
                                           finden auch auf den Stellvertreter die Bestimmungen des
@@ -1384,8 +1389,11 @@
                                                   nehmen. </item>
                                                 <label>c) </label>
                                                 <item>die Vornahme von Lokalerhebungen durch die
-                                                  Verwaltungsbehörden anzu-<fw type="pageNum">19</fw><pb facs="#facs_37" n="37" xml:id="img_0037" break="no"/><fw type="pageNum">- 36 -</fw>ordnen und an diesen Amtshandlungen
-                                                  durch Beauftragte teilzunehmen. </item>
+                                                  Verwaltungsbehörden anzu<fw type="pageNum"
+                                                  >19</fw><pb facs="#facs_37" n="37"
+                                                  xml:id="img_0037" break="no"/><fw type="pageNum">-
+                                                  36 -</fw>ordnen und an diesen Amtshandlungen durch
+                                                  Beauftragte teilzunehmen. </item>
                                           </list></p>
                               </div>
                               <div type="article">
@@ -1395,8 +1403,8 @@
                                           Anordnungen, die der Bundesrechnungshof bei der ihm
                                           zustehenden Ueberprüfung trifft, Folge zu leisten. In
                                           Angelegenheiten, die die Bundesämter oder die
-                                          Landesregierungen -letztere innerhalb ihres selbständigen
-                                          Wirkungskreises- selbst betreffen, hat der
+                                          Landesregierungen - letztere innerhalb ihres selbständigen
+                                          Wirkungskreises - selbst betreffen, hat der
                                           Bundesrechnungshof mit diesen Behörden das Einvernehmen zu
                                           pflegen.</p>
                               </div>
@@ -1505,7 +1513,11 @@
                               </div>
                               <div type="article">
                                     <head>Art. CX. </head>
-                                    <p type="legal_section">Die Freiheit der Meinungsäusse-<fw type="pageNum">21</fw><pb facs="#facs_41" n="41" xml:id="img_0041" break="no"/><fw type="pageNum">- 40 -</fw>rung ist nur durch das Strafgesetz beschränkt. </p>
+                                    <p type="legal_section">Die Freiheit der Meinungsäusse<fw
+                                                type="pageNum">21</fw><pb facs="#facs_41" n="41"
+                                                xml:id="img_0041" break="no"/><fw type="pageNum">-
+                                                40 -</fw>rung ist nur durch das Strafgesetz
+                                          beschränkt. </p>
                                     <p type="legal_section">Die Pressfreiheit ist gewährleistet, die Beschlagnahme von Druckschriften darf nur auf den vom Strafgesetz, von der Strafprozessordnung und vom Pressgesetze vorgesehenen
                                           Gründen erfolgen. (Sie ist ohne
                                           gleichzeitige Verfolgung des Täters
@@ -1532,8 +1544,8 @@
                                           gezwungen werden. </p>
                                     <p type="legal_section">Die Stellung der Religionsgesellschaften
                                           im Staate und die Rechte ihrer Angehörigen werden durch
-                                          besondere Ge-<pb facs="#facs_42" n="42" xml:id="img_0042"
-                                                break="yes"/><fw type="pageNum">- 41 -</fw>setze
+                                          besondere Ge<pb facs="#facs_42" n="42" xml:id="img_0042"
+                                                break="no"/><fw type="pageNum">- 41 -</fw>setze
                                           geregelt. </p>
                               </div>
                               <div type="article">
@@ -1601,9 +1613,9 @@
                                                 Beamten ernennt der Bundespräsident über Vorschlag
                                                 der Bundesregierung den Präsidenten, aus dem Stande
                                                 der ersterwähnten Beamten über Vorschlag der
-                                                  Landesregie-<pb facs="#facs_44" n="44"
-                                                  xml:id="img_0044" break="yes"/><fw type="pageNum"
-                                                  >- 43 - </fw>rung den Vizepräsidenten des
+                                                  Landesregie<pb facs="#facs_44" n="44"
+                                                  xml:id="img_0044" break="no"/><fw type="pageNum">-
+                                                  43 - </fw>rung den Vizepräsidenten des
                                                 Landesverwaltungsgerichtes. </p>
                                     </div>
                                     <div type="article">
@@ -1634,18 +1646,22 @@
                                     <div type="article">
                                           <head>Art. CXXI. </head>
                                           <p type="legal_section">Von der Zuständigkeit der
-                                                  Verwal-<fw type="pageNum">23</fw><pb facs="#facs_45" n="45" xml:id="img_0045" break="no"/><fw type="pageNum">- 44 -</fw>tungsgerichte sind
-                                                ausgeschlossen: <list>
+                                                  Verwal<fw type="pageNum">23</fw><pb
+                                                  facs="#facs_45" n="45" xml:id="img_0045"
+                                                  break="no"/><fw type="pageNum">- 44
+                                                -</fw>tungsgerichte sind ausgeschlossen: <list>
                                                   <label>a) </label>
-                                                  <item> Angelegenheiten, über welche den ordentlichen Gerichten die
-                                                  Entscheidung zusteht.</item>
+                                                  <item> Angelegenheiten, über welche den
+                                                  ordentlichen Gerichten die Entscheidung
+                                                  zusteht.</item>
                                                   <label>b) </label>
-                                                  <item>Angelegenheiten, welche nach der Bundesverfassung zur Kompetenz des
-                                                  Bundesverfassungsgerichtes
-                                                  gehören. </item>
+                                                  <item>Angelegenheiten, welche nach der
+                                                  Bundesverfassung zur Kompetenz des
+                                                  Bundesverfassungsgerichtes gehören. </item>
                                                   <label>c) </label>
-                                                  <item>Angelegenheiten, in denen und insoweit die Verwaltungebehörden nach
-                                                  freiem Ermessen vorzugehen haben. </item>
+                                                  <item>Angelegenheiten, in denen und insoweit die
+                                                  Verwaltungebehörden nach freiem Ermessen
+                                                  vorzugehen haben. </item>
                                                   <label>d) </label>
                                                   <item> Disziplinarangelegenheiten.</item>
                                                 </list></p>
@@ -1709,7 +1725,10 @@
                                           <head>Art.CXXVI.</head>
                                           <p type="legal_section">Das Bundesverfassungsgericht
                                                 entscheidet über Bundesgesetzwidrigkeit von
-                                                Landesgesetzen auf Antrag der Bun-<fw type="pageNum">24</fw><pb facs="#facs_47" n="47" xml:id="img_0047" break="no"/><fw type="pageNum">-46-</fw>desregierung, </p>
+                                                Landesgesetzen auf Antrag der Bun<fw type="pageNum"
+                                                  >24</fw><pb facs="#facs_47" n="47"
+                                                  xml:id="img_0047" break="no"/><fw type="pageNum"
+                                                  >-46-</fw>desregierung, </p>
                                           <p type="legal_section">Der Antrag der Bundesregierung
                                                 muss binnen vier Wochen nach erfolgter Kundmachung
                                                 des Landesgesetzes der Landesregierung
