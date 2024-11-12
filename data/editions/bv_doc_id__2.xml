@@ -109,6 +109,7 @@
                         handschriftliche Stellen müssen noch überarbeitet werden)</change>
                   <change when="2024-07-04" who="#m_huber">kleine formatierunsfehler
                         behoben</change>
+                  <change when="2024-11-12" who="#m_huber">hyphenation corrected</change>
             </revisionDesc>
       </teiHeader>
       <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -971,13 +972,15 @@
                                           <head>Art. 46. </head>
                                           <p type="legal_section">Auf Antrag von mindestens . .
                                                 Mitgliedern hat der Bundestag Untersuchungsausschüsse einzusetzen. </p>
-                                          <p type="legal_section">Alle Gerichte und Behörden sind verpflichtet, dem Ersuchen dieser
-                                                Ausschüsse um Beweiserhebungen
-                                                Folge zu leisten; alle öffentlichen
-                                                Aemter haben auf Verlangen ihre
-                                                Akten vorzulegen. Die Vorschriften der Strafgesetzordnung finden auch in
-                                                Erhebungen des
-                                                Untersuchungsausschusses sinnge-<fw type="pageNum">41</fw><pb facs="#facs_16" n="16" xml:id="img_0016" break="no"/><fw type="pageNum">- 16 -</fw>mässe Anwendung. </p>
+                                          <p type="legal_section">Alle Gerichte und Behörden sind
+                                                verpflichtet, dem Ersuchen dieser Ausschüsse um
+                                                Beweiserhebungen Folge zu leisten; alle öffentlichen
+                                                Aemter haben auf Verlangen ihre Akten vorzulegen.
+                                                Die Vorschriften der Strafgesetzordnung finden auch
+                                                in Erhebungen des Untersuchungsausschusses sinnge<fw
+                                                  type="pageNum">41</fw><pb facs="#facs_16" n="16"
+                                                  xml:id="img_0016" break="no"/><fw type="pageNum">-
+                                                  16 -</fw>mässe Anwendung. </p>
                                           <p type="legal_section">Das Verfahren des Untersuchungsausschusses wird durch das
                                                 Geschäftsordnungsgesetz
                                                 geregelt.</p>
@@ -1014,11 +1017,14 @@
                                           <div type="article">
                                                 <head>Art. 48. </head>
                                                 <p type="legal_section">Zum Bundespräsidenten sowie
-                                                  zu seinem Stellvertreter kann nur
-                                                  derjenige deutschösterreichische
-                                                  Bundesbürger gewählt werden, der
-                                                  das aktive Wahlrecht zum Bundes<fw type="pageNum">42</fw><pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/><fw type="pageNum">- 17 - </fw>tag hat
-                                                  und am 1. Jänner des Jahres, in welchem die Wahl stattfindet, das 40. Lebensjahr vollendet hat. </p>
+                                                  zu seinem Stellvertreter kann nur derjenige
+                                                  deutschösterreichische Bundesbürger gewählt
+                                                  werden, der das aktive Wahlrecht zum Bundes<fw
+                                                  type="pageNum">42</fw><pb facs="#facs_17" n="17"
+                                                  xml:id="img_0017" break="no"/><fw type="pageNum">-
+                                                  17 - </fw>tag hat und am 1. Jänner des Jahres, in
+                                                  welchem die Wahl stattfindet, das 40. Lebensjahr
+                                                  vollendet hat. </p>
                                           </div>
                                           <div type="article">
                                                 <head>Art. 49. </head>
@@ -1159,12 +1165,15 @@
                                           <div type="article">
                                                 <head>Art. 60. </head>
                                                 <p type="legal_section">Wenn der Bundespräsident
-                                                  verhin-<fw type="pageNum">45</fw><pb facs="#facs_20" n="20" xml:id="img_0020" break="no"/><fw type="pageNum">- 20 -</fw>dert ist oder wenn er gerichtlich
-                                                  verfolgt oder wenn seine Stelle
-                                                  erledigt ist, im letzteren Falle <choice>
+                                                  verhin<fw type="pageNum">45</fw><pb
+                                                  facs="#facs_20" n="20" xml:id="img_0020"
+                                                  break="no"/><fw type="pageNum">- 20 -</fw>dert ist
+                                                  oder wenn er gerichtlich verfolgt oder wenn seine
+                                                  Stelle erledigt ist, im letzteren Falle <choice>
                                                   <del>bs</del>
                                                   <add>bis</add>
-                                                  </choice> zur Neuwahl eines Nachfolgers, werden alle Funktionen des Bundespräsidenten von seinem
+                                                  </choice> zur Neuwahl eines Nachfolgers, werden
+                                                  alle Funktionen des Bundespräsidenten von seinem
                                                   Stellvertreter übernommen. </p>
                                                 <p type="legal_section">Wenn der Bundespräsident als
                                                   auch sein Stellvertreter ihre
@@ -1197,9 +1206,9 @@
                                                 <p type="legal_section">Mit der Ausübung der
                                                   Regierungs- und Vollzugsgewalt des Bundes sind,
                                                   soweit diese nicht dem Bundespräsidenten
-                                                  übertra--<fw type="pageNum">46</fw><pb
+                                                  übertra<fw type="pageNum">46</fw><pb
                                                   facs="#facs_21" n="21" xml:id="img_0021"
-                                                  break="yes"/><fw type="pageNum">- 21 - </fw>gen
+                                                  break="no"/><fw type="pageNum">- 21 - </fw>gen
                                                   ist, der Bundeskanzler, der Vizekanzler und die
                                                   Staatssekretäre betraut. </p>
                                                 <p type="legal_section">Sie bilden in ihrer
@@ -1239,10 +1248,10 @@
                                                   der Geschäfte zu beauftragen, oder leitende Beamte
                                                   der Staatsämter unter dem Vorsitze eines dieser
                                                   leitenden Beamten oder eines eigens heizu
-                                                  bestellten Beamten mit der einst-<fw
-                                                  type="pageNum">47</fw><pb facs="#facs_22" n="22"
-                                                  xml:id="img_0022" break="yes"/><fw type="pageNum"
-                                                  >- 22 -</fw>weiligen Leitung der Verwaltung zu
+                                                  bestellten Beamten mit der einst<fw type="pageNum"
+                                                  >47</fw><pb facs="#facs_22" n="22"
+                                                  xml:id="img_0022" break="no"/><fw type="pageNum">-
+                                                  22 -</fw>weiligen Leitung der Verwaltung zu
                                                   betrauen. </p>
                                           </div>
                                           <div type="article">
@@ -1439,10 +1448,10 @@
                                                 Altersgrenzen dürfen Richter nur auf Grund eines
                                                 förmlichen richterlichen Erkenntnisses ihres Amtes
                                                 ersetzt werden; ihre zeitweise Enthebung vom Amte
-                                                darf nur durch Verfügung des Gerichtsvor-<fw
+                                                darf nur durch Verfügung des Gerichtsvor<fw
                                                   type="pageNum">52</fw><pb facs="#facs_27" n="27"
-                                                  xml:id="img_0027" break="yes"/><fw type="pageNum"
-                                                  >- 27 -</fw>standes oder höheren Gerichtsbehörde
+                                                  xml:id="img_0027" break="no"/><fw type="pageNum">-
+                                                  27 -</fw>standes oder höheren Gerichtsbehörde
                                                 unter gleichzeitiger Verweisung der Sache an das
                                                 zuständige Gericht, die Versetzung an eine andere
                                                 Stelle oder in den Ruhestand wider Willen nur durch
@@ -1474,10 +1483,10 @@
                                                 Ausübung seines Amtes verursachten
                                                 Rechtsverletzungen kann dieser Richter sowie der
                                                 Bund ausser den im gerichtlichen Verfahren
-                                                vorgezeichneten Rechtsmitteln mit Klage be-<fw
+                                                vorgezeichneten Rechtsmitteln mit Klage be<fw
                                                   type="pageNum">53</fw><pb facs="#facs_28" n="28"
-                                                  xml:id="img_0028" break="yes"/><fw type="pageNum"
-                                                  >- 28 -</fw>langt werden. Dieses Klagerecht wird
+                                                  xml:id="img_0028" break="no"/><fw type="pageNum">-
+                                                  28 -</fw>langt werden. Dieses Klagerecht wird
                                                 durch ein besonderes Bundesgesetz gereglt. </p>
                                           <p type="legal_section">Der B<choice>
                                                   <sic>a</sic>
@@ -2103,7 +2112,7 @@
                                           </choice>. </head>
                                     <p type="legal_section">Das Brief-, Post-, Telegraphen- und
                                           Fernsprechgeheimnis ist jedermann gewährleistet. Ausnahmen
-                                          in den Fällen strafgericht-<fw type="pageNum">68</fw><pb
+                                          in den Fällen strafgericht<fw type="pageNum">68</fw><pb
                                                 facs="#facs_43" n="43" xml:id="img_0043" break="no"
                                                 /><fw type="pageNum">- 43 -</fw>licher Untersuchung
                                           und im Kriegsfall könne nur durch Bundesgesetz bestimmt
@@ -2509,15 +2518,19 @@
                                                   <add>4</add>
                                                 </choice>. </head>
                                           <p type="legal_section">Wegen Rechtsverletzung durch die
-                                                  Ent-<fw type="pageNum">77</fw><pb facs="#facs_52" n="52" xml:id="img_0052" break="no"/><fw type="pageNum">- 52 - </fw>scheidung oder Verfügung einer
-                                                Verwaltungsbehörde des Bundes oder
-                                                eines Landes entscheiden nach
-                                                Erschöpfung des administrativen Instanzenzuges: <list>
+                                                  Ent<fw type="pageNum">77</fw><pb facs="#facs_52"
+                                                  n="52" xml:id="img_0052" break="no"/><fw
+                                                  type="pageNum">- 52 - </fw>scheidung oder
+                                                Verfügung einer Verwaltungsbehörde des Bundes oder
+                                                eines Landes entscheiden nach Erschöpfung des
+                                                administrativen Instanzenzuges: <list>
                                                   <label>a) </label>
-                                                  <item> in Angelegenheiten des selbständigen Wirkungskreises der Länder, die
+                                                  <item> in Angelegenheiten des selbständigen
+                                                  Wirkungskreises der Länder, die
                                                   Landesverwaltungsgerichte; </item>
                                                   <label>b) </label>
-                                                  <item>in Angelegenheiten der Bundesverwaltung, das Bundesverwaltungsgericht. </item>
+                                                  <item>in Angelegenheiten der Bundesverwaltung, das
+                                                  Bundesverwaltungsgericht. </item>
                                                 </list></p>
                                     </div>
                                     <div type="article">
@@ -2616,15 +2629,17 @@
                                                   <add>60</add>
                                                 </choice>. </head>
                                           <p type="legal_section">Durch Landesgesetz bezw. durch
-                                                Bundesgesetz kann angeordnet
-                                                werden, daß in allen Angelegenheiten, in denen ein Verwaltungsgericht angerufen werden kann, der
-                                                administrative Instanzenzug bei
-                                                Angelegenheiten des Wirkungskreises
-                                                der Länder noch vor der Entschei-<fw type="pageNum">79</fw><pb facs="#facs_54" n="54" xml:id="img_0054" break="no"/><fw type="pageNum">- 54 - </fw>dung
-                                                der Landesregierung, bei den übrigen Angelegenheiten noch vor der Entscheidung
-                                                der Bundesregierung bezw. des
-                                                zuständigen Bundesamtes beendet
-                                                sei.</p>
+                                                Bundesgesetz kann angeordnet werden, daß in allen
+                                                Angelegenheiten, in denen ein Verwaltungsgericht
+                                                angerufen werden kann, der administrative
+                                                Instanzenzug bei Angelegenheiten des Wirkungskreises
+                                                der Länder noch vor der Entschei<fw type="pageNum"
+                                                  >79</fw><pb facs="#facs_54" n="54"
+                                                  xml:id="img_0054" break="no"/><fw type="pageNum">-
+                                                  54 - </fw>dung der Landesregierung, bei den
+                                                übrigen Angelegenheiten noch vor der Entscheidung
+                                                der Bundesregierung bezw. des zuständigen
+                                                Bundesamtes beendet sei.</p>
                                     </div>
                               </div>
                               <div type="section">
@@ -2666,11 +2681,12 @@
                                                 Gesetzwidrigkeit von Vollzugsanweisungen der Bundesbehörden auch auf Antrag
                                                 einer Landesregierung. </p>
                                           <p type="legal_section">Das stattgebende Erkenntnis des
-                                                Bundesverfassungsgerichtes bewirkt
-                                                die Kassation der gesetzwidrigen
-                                                Vollzugsanweisung und verpflich-<fw type="pageNum">80</fw><pb facs="#facs_55" n="55" xml:id="img_0055" break="no"/><fw type="pageNum">- 54 -</fw>tet die erlassende Behörde zur
-                                                Kundmachung der erfolgten
-                                                Aufhebung. </p>
+                                                Bundesverfassungsgerichtes bewirkt die Kassation der
+                                                gesetzwidrigen Vollzugsanweisung und verpflich<fw
+                                                  type="pageNum">80</fw><pb facs="#facs_55" n="55"
+                                                  xml:id="img_0055" break="no"/><fw type="pageNum">-
+                                                  54 -</fw>tet die erlassende Behörde zur
+                                                Kundmachung der erfolgten Aufhebung. </p>
                                     </div>
                                     <div type="article">
                                           <head>Art. 16<choice>
