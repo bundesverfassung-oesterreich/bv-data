@@ -431,28 +431,29 @@
                                     <div type="article">
                                           <head>Art. 16. </head>
                                           <p type="legal_section">Zum Bundestag werden in dem
-                                                gesamten Bundesgebiet . . .
-                                                Abgeordnete auf Bundesgebiet. Grund des gleichen, direkten,
-                                                persönlichen und geheimen
-                                                Wahlrechtes aller Bundesbürger ohne
-                                                Unterschied des Geschlechts die vor
-                                                dem 1. Jänner d.J., in welchem die Wahl stattfindet, das 20. Lebensjahr <choice>
+                                                gesamten Bundesgebiet . . . Abgeordnete auf
+                                                Bundesgebiet. Grund des gleichen, direkten,
+                                                persönlichen und geheimen Wahlrechtes aller
+                                                Bundesbürger ohne Unterschied des Geschlechts die
+                                                vor dem 1. Jänner d.J., in welchem die Wahl
+                                                stattfindet, das 20. Lebensjahr <choice>
                                                   <sic>über schritten</sic>
                                                   <corr>überschritten</corr>
-                                                </choice> haben, nach dem System der Verhältniswahl gewählt.</p>
-                                          <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
-                                          <fw type="pageNum">- 6 -</fw>
-                                          <p type="legal_section">Wählbar ist ohne Unterschied des
-                                                Geschlechtes jeder wahlberechtigte
-                                                Bundesbürger, der vor dem 1. Jänner
-                                                des Jahres, in welchem die Wahl zur
-                                                Bundesversammlung stattfindet, das
-                                                29. Lebensjahr überschritten hat. </p>
-                                          <p type="legal_section">Vom Wahlrecht und der Wählbarkeit sind ausgeschlossen: . . . .</p>
+                                                </choice> haben, nach dem System der Verhältniswahl
+                                                gewählt.</p>
+                                          <p type="legal_section"><pb facs="#facs_7" n="7"
+                                                  xml:id="img_0007" break="yes"/><fw type="pageNum"
+                                                  >- 6 -</fw>Wählbar ist ohne Unterschied des
+                                                Geschlechtes jeder wahlberechtigte Bundesbürger, der
+                                                vor dem 1. Jänner des Jahres, in welchem die Wahl
+                                                zur Bundesversammlung stattfindet, das 29.
+                                                Lebensjahr überschritten hat. </p>
+                                          <p type="legal_section">Vom Wahlrecht und der Wählbarkeit
+                                                sind ausgeschlossen: . . . .</p>
                                           <p type="legal_section">Die Wahlordnung für die Wahl zum
-                                                Bundestag wird in einem besonderen
-                                                Gesetze erlassen. Sie bildet einen
-                                                Bestandteil der Bundesverfassung. </p>
+                                                Bundestag wird in einem besonderen Gesetze erlassen.
+                                                Sie bildet einen Bestandteil der Bundesverfassung.
+                                          </p>
                                     </div>
                                     <div type="article">
                                           <head>Art. 17. </head>
@@ -1355,14 +1356,15 @@
                               <div type="article">
                                     <head>Art. 90. </head>
                                     <p type="legal_section">Zur Leitung des gesamten inneren
-                                          Dienstbetriebes der Landesregierung ist ein Landesamtsdirektor zu bestellen; er ist der unmittelbare Vorgesetzte aller
-                                          Landesangestellten und hat für einen
-                                          einheitlichen und geregelten
-                                          Geschäftsgang in sämtlichen Zweigen der
-                                          Landesverwaltung zu sorgen.<pb facs="#facs_32" n="32" xml:id="img_0032" break="yes"/><fw type="pageNum">-
-                                                31 -</fw></p>
+                                          Dienstbetriebes der Landesregierung ist ein
+                                          Landesamtsdirektor zu bestellen; er ist der unmittelbare
+                                          Vorgesetzte aller Landesangestellten und hat für einen
+                                          einheitlichen und geregelten Geschäftsgang in sämtlichen
+                                          Zweigen der Landesverwaltung zu sorgen.</p>
                               </div>
                               <div type="article">
+                                    <pb facs="#facs_32" n="32" xml:id="img_0032" break="yes"/>
+                                    <fw type="pageNum">- 31 -</fw>
                                     <head>Art. 91. </head>
                                     <p type="legal_section">In dem der Landesregierung vom Bunde übertragenen Wirkungskreise ist der Landesamtsdirektor das unmittelbare
                                           Hilfsorgan des Landeshauptmannes und des
@@ -1760,9 +1762,9 @@
                                           Schuljahren. Der Unterricht und die
                                           Lehrmittel in den Volksschulen sind
                                           unentgeltlich.</p>
-                                    <pb facs="#facs_47" n="47" xml:id="img_0047" break="yes"/>
                               </div>
                               <div type="article">
+                                    <pb facs="#facs_47" n="47" xml:id="img_0047" break="yes"/>
                                     <head>Art. 132. </head>
                                     <p type="legal_section">Der Religionsunterricht ist ordentliches Lehrfach an den Volks- und Mittelschulen mit Ausnahme der fachlichen
                                           Mittelschulen. Seine Erteilung wird im
@@ -1923,17 +1925,17 @@
                                     <div type="article">
                                           <head>Art. 145. </head>
                                           <p type="legal_section">Wegen Rechtsverletzung durch die
-                                                Entscheidung oder Verfügung einer
-                                                Verwaltungsbehörde des Bundes oder
-                                                eines Landes entscheiden nach
-                                                Erschöpfung des administrativen
-                                                Instanzenzuges: </p>
-                                          <p type="legal_section">a) in Angelegenheiten des
-                                                selbständigen Wirkungskreises der
-                                                Länder, die Landesverwaltungsgerichte; </p>
-                                          <p type="legal_section">b) in Angelegenheiten der
-                                                Bundesverwaltung, das
-                                                Bundesverwaltungsgericht. </p>
+                                                Entscheidung oder Verfügung einer Verwaltungsbehörde
+                                                des Bundes oder eines Landes entscheiden nach
+                                                Erschöpfung des administrativen Instanzenzuges: <list>
+                                                  <label>a) </label>
+                                                  <item> in Angelegenheiten des selbständigen
+                                                  Wirkungskreises der Länder, die
+                                                  Landesverwaltungsgerichte; </item>
+                                                  <label>b) </label>
+                                                  <item> in Angelegenheiten der Bundesverwaltung,
+                                                  das Bundesverwaltungsgericht.  </item>
+                                                </list></p>
                                     </div>
                                     <div type="article">
                                           <head>Art. 146.</head>
