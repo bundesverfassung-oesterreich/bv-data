@@ -3,7 +3,8 @@
       <teiHeader>
             <fileDesc>
                   <titleStmt>
-                        <title type="main">Renner-Mayr saubere Version</title>
+                        <title type="main">Renner-Mayr saubere Version (linke Spalte-
+                              Renner)</title>
                         <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
                         <principal>
                               <persName role="acdh:hasPrincipialInvestigator">Olechowski,
@@ -109,9 +110,8 @@
             <revisionDesc status="structured">
                   <change when="2024-08-23" who="#cfh">document automatically created</change>
                   <change when="2024-08-24" who="#m_huber">formatting completed</change>
-                  <change when="2024-10-20" who="#s_kury">Gegengelesen bis Art. 20</change>
-                  <change when="2024-10-26" who="#s_kury">Gegenlesen bis Art. 25</change>
-                  <change when="2024-10-27" who="#s_kury">Gegenlesen bis Art. 26, 2.</change>
+                  <change when="2024-10-27" who="#s_kury">NEUES DOKUMENT: Gegenlesen UND getrennt
+                        bis Art. 26, 2. </change>
             </revisionDesc>
       </teiHeader>
       <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -442,7 +442,7 @@
                               verbürgt sind. Die Staatskanzlei hat allerdings in dieser langen Zeit
                               nicht müssig zugewartet. Schon vor seiner Abreise nach Saint Germain
                               hat der Staatskanzler in seinem Amte die beiden Abteilungen des
-                              Verfangsreform- und des Verwaltungsreformdienstes eingerichtet und
+                              Verfassungsreform- und des Verwaltungsreformdienstes eingerichtet und
                               beide Dienste waren unablässig an der Arbeit. Anläßlich seiner Abreise
                               berief der Staatskanzler Professor Hans Kelsen, der seit den
                               Novembertagen seinem Amte zugeteilt war und an der provisorischen
@@ -480,12 +480,15 @@
                               innerhalb des Bundesgebietes muß gesichert werden. Die
                               Bundesgesetzgebung hat die Steuerquellen auf den Bund und die Länder
                               aufzuteilen. Andere Angelegenheiten, wie das Schulwesen und die
-                              Agrargesetzgebung, werden vom Bunde nur durch Rahmengesetze geregelt
-                              werde, deren nähere Durchführung den Ländern überlassen bleibt. Alle
-                              dem Bunde nicht vorbehaltenen Angelegenheiten fallen in die Kompetenz
-                              der Länder. Die Bundesverfassung wird überdies die Grundrechte der
-                              einzelnen Staatsbürger und Korporationen verbürgen. Das Verhältnis von
-                              Kirche und Staat einschließlich der Ehegesetzgebung ist im Rahmen der
+                              Agrargesetzgebung, werden vom Bunde n<choice>
+                                    <sic>n</sic>
+                                    <corr>u</corr>
+                              </choice>r durch Rahmengesetze geregelt werden, deren nähere
+                              Durchführung den Ländern überlassen bleibt. Alle dem Bunde nicht
+                              vorbehaltenen Angelegenheiten fallen in die Kompetenz der Länder. Die
+                              Bundesverfassung wird überdies die Grundrechte der einzelnen
+                              Staatsbürger und Korporationen verbürgen. Das Verhältnis von Kirche
+                              und Staat einschließlich der Ehegesetzgebung ist im Rahmen der
                               Verfassung grundsätzlich zu regeln. So lange das bisherige Verhältnis
                               fortbesteht, sind bei künftigen Gehaltsaufbesserungen für die
                               Staatsangestellten auch die Seelsorger der katholischen, evangelischen
@@ -521,9 +524,9 @@
                               durchgeführt, wodurch in vielen Fällen der Ernährungsdienst behindert
                               und insbesondere die Lebensmittelzufuhr in die großen Städte und
                               Industriegebiete, vor allem nach Wien, erschwert wurde. Solche
-                              Milistände können nur dadurch wirksam bekämpft werden, daß ihre
-                              eigentlichste Ursache, nämlich das Milßtrauen der Bevölkerung gegen
-                              die bureaukratische Verwaltungsorganisation, überwunden wird. Dies
+                              Mißstände können nur dadurch wirksam bekämpft werden, daß ihre
+                              eigentlichste Ursache, nämlich das Mißtrauen der Bevölkerung gegen die
+                              bureaukratische Verwaltungsorganisation, überwunden wird. Dies
                               erfordert einerseits die schleunigste Demokratisierung der politischen
                               Behörden erster Instanz, anderseits die Heranziehung von
                               Vertrauensmännern der einzelnen Bevölkerungskreise als Hilfsorgane der
@@ -651,15 +654,7 @@
                                           <p type="legal_section"><label>2.</label> Änderungen der
                                                 Bundesgrenze erfolgen, soweit sie nicht durch
                                                 Staatsverträge unmittelbar herbeigeführt werden,
-                                                durch Bundesverfassungsgesetz. <note type="comment"
-                                                  >2. Eine Änderung des Bundesgebietes, die zugleich
-                                                  eine Änderung eines Landesgebietes ist, ebenso die
-                                                  Änderung einer Landesgrenze innerhalb des
-                                                  Bundesgebietes kann — abgesehen von
-                                                  Friedensverträgen — nur durch übereinstimmende
-                                                  Verfassungsgesetze des Bundes und jenes Landes
-                                                  erfolgen, dessen Gebiet eine Änderung
-                                                  erfährt.</note></p>
+                                                durch Bundesverfassungsgesetz. </p>
                                           <p type="legal_section"><label>3.</label> Änderungen der
                                                 Landesgrenzen innerhalb des Bundesgebietes können
                                                 entweder durch Bundes-<pb facs="#facs_7" n="7"
@@ -667,9 +662,7 @@
                                                   >2</fw>verfassungsgesetze oder durch
                                                 übereinstimmende einfache Gesetze des Bundes und der
                                                 Bundesländer, deren Gebiet eine Änderung erfahren
-                                                soll, vorgenommen werden. <note type="comment">3.
-                                                  Fällt weg. </note>
-                                          </p>
+                                                soll, vorgenommen werden.  </p>
                                           <p type="legal_section"><label>4.</label> Wächst der
                                                 Republik ein Gebiet zu, das geschichtlich zu einem
                                                 Bundeslande gehört hat, so wird es diesem Lande
@@ -697,7 +690,6 @@
                                                 Streitigkeiten, die aus der Auseinandersetzung
                                                 zwischen Bundesländern über Gebietsänderungen
                                                 entstehen, entscheidet der Verfassungsgerichtshof. </p>
-                                          <note type="comment">Fällt weg.</note>
                                     </div>
                                     <div type="article">
                                           <head>Art. 5. </head>
@@ -753,9 +745,6 @@
                                                 Gewalt gemäß den Bestimmungen dieser Verfassung auf
                                                 den Bund oder die Bundesländer oder nach Maßgabe der
                                                 Bundes- und Landesgesetze auf die Gemeinden. </p>
-                                          <note type="comment">Die öffentliche Gewalt wird gemäß den
-                                                Bestimmungen dieser Verfassung auf den Bund und die
-                                                Bundesländer übertragen.</note>
                                     </div>
                                     <div type="article">
                                           <head>Art. 11. </head>
@@ -817,10 +806,7 @@
                                           <p type="legal_section"><label>2.</label> An der
                                                 Vollzugsgewalt nehmen nach Maßgabe dieser Verfassung
                                                 der Bund und die Bundesländer und auf Grund der
-                                                Bundes- und Landesgesetze die Gemeinden teil. <note
-                                                  type="comment"> An der Vollzugsgewalt nehmen nach
-                                                  Maßgabe der Verfassung der Bund und die
-                                                  Bundesländer teil.</note></p>
+                                                Bundes- und Landesgesetze die Gemeinden teil. </p>
                                     </div>
                                     <div type="article">
                                           <head>Art. 15. </head>
@@ -857,11 +843,7 @@
                                           <p type="legal_section"><label>3.</label> Die
                                                 Bundesregierung wird vom Bundestag bestellt und
                                                 besteht aus dem Bundeskanzler, seinem Stellvertreter
-                                                (Vizekanzler) und den Bundesministern. <note
-                                                  type="comment">Die Bundesregierung wird von der
-                                                  Bundesversammlung gewählt und besteht aus dem
-                                                  Bundeskanzler, seinem Stellvertreter (Vizekanzler)
-                                                  und den Bundesministern. </note></p>
+                                                (Vizekanzler) und den Bundesministern. </p>
                                           <p type="legal_section"><label>4.</label> Die den
                                                 einzelnen Mitgliedern der Bundesregierung
                                                 zustehenden Aufträge und Vollmachten (Kompetenz)
@@ -953,15 +935,13 @@
                                                 Bundesgebiete ist außer den zuständigen
                                                 Bundesbehörden niemand befugt, eine bewaffnete Macht
                                                 zu werden, zu halten oder zu verwenden. </p>
-                                          <note type="comment">2. und 3. fällt weg.</note>
                                     </div>
                                     <div type="article">
                                           <head>Art. 24. </head>
                                           <p type="legal_section"><label>1.</label> Die Republik
                                                 Österreich ist bereit, dem Völkerbund als freies
                                                 Mitglied beizutreten und sich den von ihm
-                                                geschaffenen Einrichtungen zu unterstellen. <note
-                                                  type="comment">Art. 23. 1. Fällt weg.</note></p>
+                                                geschaffenen Einrichtungen zu unterstellen. </p>
                                           <p type="legal_section"><label>2.</label> Die allgemein
                                                 anerkannten Regeln des Völkerrechtes gelten als
                                                 Bestandteil des Bundesrechtes. </p>
@@ -977,13 +957,11 @@
                                     <div type="article">
                                           <head>Art. 25. </head>
                                           <p type="legal_section">Bundessache ist die Gesetzgebung
-                                                und Vollziehung in folgenden Angelegenheiten:<note
-                                                  type="comment">Bundessache ist die Gesetzgebung
-                                                  und Vollziehung in folgenden Angelegenheiten: </note><list>
+                                                und Vollziehung in folgenden Angelegenheiten:<list>
                                                   <label>1. </label>
                                                   <item>Bundesverfassung und
                                                   Verfassungsgerichtsbarkeit. — Einrichtung der
-                                                  Bundesgesetzgebung —  Gesamtorganisation der
+                                                  Bundesgesetzgebung — Gesamtorganisation der
                                                   Behörden der Republik einschließlich des
                                                   Dienstverhältnisses der öffentlichen Bediensteten
                                                   und des Disziplinarrechtes (Pragmatik).
@@ -995,18 +973,7 @@
                                                   Volkszählung, der Berufs- und Betriebsstatistik
                                                   und der Viehzählung; die Regelung des
                                                   wissenschaftlichen und fachtechnischen Archiv- und
-                                                  Bibliotheksdienstes.  <note type="comment">die
-                                                  Bundesverfassung und Verfasungsgerichtsbarkeit;
-                                                  die Organisation der Bundesbehörden und das
-                                                  Dienstrecht der Bundesangestellten einschließlich
-                                                  der Regelung des im Einvernehmen mit dem in
-                                                  Betracht kommenden Land zu vollziehenden Wechsels
-                                                  zwischen Bund- und Landesdienst; das
-                                                  Volkszählungswesen sowie die sonstige Statistik,
-                                                  soweit sie nicht nur den Interessen eines
-                                                  einzelnen Landes dient; die Regelung des
-                                                  wissenschaftlichen und fachtechnischen Archiv-und
-                                                  Bibliotheksdienstes.  </note></item>
+                                                  Bibliotheksdienstes. </item>
                                                   <pb facs="#facs_12" n="12" xml:id="img_0012"
                                                   break="yes"/>
                                                   <fw type="pageNum">7</fw>
@@ -1014,19 +981,10 @@
                                                   <item>Die auswärtigen Angelegenheiten mit
                                                   Einschluß der politischen und wirtschaftlichen
                                                   Vertretung der Republik gegenüber dem Ausland,
-                                                  insbesonders der Abschluß aller Staatsverträge.
-                                                  <note type="comment">die auswärtigen
-                                                  Angelegenheiten mit Einschluß der politischen und
-                                                  wirtschaftlichen Vertretung gegenüber dem
-                                                  Auslande, insbesondere der Abschluß aller
-                                                  Staatsverträge; die Grenzvermarkung; die Regelung
-                                                  des Waren- und Viehverkehres mit dem Auslande; das
-                                                  Zollwesen; </note></item>
+                                                  insbesonders der Abschluß aller Staatsverträge. </item>
                                                   <label>3.</label>
                                                   <item>Das Heerwesen mit Einschluß der
-                                                  Kriegsschadenangelegenheiten. <note type="comment"
-                                                  >die militärischen Angelegenheiten mit Einschluß
-                                                  der Kriegsschadenangelegenheiten;</note></item>
+                                                  Kriegsschadenangelegenheiten. </item>
                                                   <label>4.</label>
                                                   <item>Die Bundesfinanzen, insbesondere die
                                                   öffentlichen Abgaben, die ausschließlich oder
@@ -1036,16 +994,7 @@
                                                   Regelung der Anteilnahme der Länder und Gemeinden
                                                   an den Einnahmen des Bundes und die Regelung der
                                                   Beiträge und Zuschüsse aus Bundesmitteln zu den
-                                                  Ausgaben der Länder und Gemeinden. <note
-                                                  type="comment">die Bundesfinanzen, insbesondere
-                                                  die öffentlichen Abgaben, die ausschließlich oder
-                                                  teilweise für den Bund einzuheben sind; das
-                                                  Monopolwesen: die Regelung, welche Abgaben dem
-                                                  Bunde und den Ländern zustehen; die Regelung der
-                                                  Anteilnahme der Länder an den Einnahmen des Bundes
-                                                  und die Regelung der Beiträge und Zuschüsse aus
-                                                  Bundesmitteln zu den Ausgaben der
-                                                  Länder;</note></item>
+                                                  Ausgaben der Länder und Gemeinden. </item>
                                                   <label>5.</label>
                                                   <item>Staats- und Sicherheitspolizei mit Ausnahme
                                                   der Ortspolizei, Gendarmerie. — Staatsbürgerschaft
@@ -1053,41 +1002,14 @@
                                                   Vereins- und Versammlungswesen, Presse. — Fonds-
                                                   und Stiftungswesen, soweit es sich um Stiftungen
                                                   und Fonds handelt, die nach ihren Zwecken über den
-                                                  Interessenbereich eines Landes hinausgehen. <note
-                                                  type="comment">die innere Einrichtung, Ausrüstung
-                                                  und Ausbildung der Gendarmerie einschließlich der
-                                                  Dienstvorschriften, das Verfügungsrecht über die
-                                                  Gendarmerie, jedoch nur insoweit, als es sich bei
-                                                  Notstand und Unruhen um die zeitweilige Verwendung
-                                                  von Teilen der Gendarmerie außerhalb des
-                                                  Landesbereiches handelt; die Sicherheitspolizei in
-                                                  der Bundeshauptstadt Wien und in den
-                                                  Landeshauptstädten; die Regelung und Überwachung
-                                                  des Eintrittes in das Bundesgebiet und des
-                                                  Austrittes aus diesem; das Ein- und
-                                                  Auswanderungswesen, die Abschiebung, Abschaffung,
-                                                  Ausweisung und Auslieferung aus dem Bundesgebiet,
-                                                  sowie die Durchlieferung; das Stiftungs- und
-                                                  Fondswesen, soweit es sich um Stiftungen und Fonds
-                                                  handelt, die nach ihren Zwecken über den
-                                                  Interessenbereich eines Landes hinausgehen und
-                                                  nicht schon bisher von den Ländern autonom
-                                                  verwaltet wurden; </note></item>
+                                                  Interessenbereich eines Landes hinausgehen. </item>
                                                   <label>6.</label>
                                                   <item>Zivil- und Strafrecht, Zivil- und
                                                   Strafgerichtsbarkeit einschließlich des
                                                   Verwaltungsstrafrechtes, soweit dessen Anwendung
                                                   dem Bunde zusteht. Die Enteignung. Die
                                                   Angelegenheiten der Notare und Rechtsanwälte sowie
-                                                  verwandter Berufe. <note type="comment">das Zivil-
-                                                  und Strafrechtswesen einschließlich des
-                                                  Verwaltungsstrafrechtes in Angelegenheiten, deren
-                                                  Vollziehung dem Bunde zusteht; die
-                                                  Verwaltungsgerichtsbarkeit; die Enteignung. soweit
-                                                  sie nicht Angelegenheiten betrifft, die in den
-                                                  Wirkungskreis der Länder fallen; die
-                                                  Angelegenheiten der Notare, der Rechtsanwälte und
-                                                  verwandter Berufe; </note></item>
+                                                  verwandter Berufe. </item>
                                                   <label>7.</label>
                                                   <item>Auf dem Gebiete der Erziehung und des
                                                   Unterrichts, des Kultus und der Kunstpflege: Die
@@ -1099,12 +1021,7 @@
                                                   </choice>erische und wissenschaftliche Sammlungen,
                                                   sowie überhaupt die allgemeine Pflege von Kunst
                                                   und Wissenschaft; das Volksbildungswesen;
-                                                  Denkmalschutz. Das Kultuswesen. <note
-                                                  type="comment">das Hochschulwesen; die fachlichen
-                                                  Zentrallehranstalten; die Angelegenheiten der
-                                                  künstlerischen und wissenschaftlichen Sammlungen
-                                                  und Einrichtungen; den Denkmalschutz; die
-                                                  Angelegenheiten des Kultus ;</note></item>
+                                                  Denkmalschutz. Das Kultuswesen. </item>
                                                   <pb facs="#facs_13" n="13" xml:id="img_0013"
                                                   break="yes"/>
                                                   <fw type="pageNum">8</fw>
@@ -1112,16 +1029,7 @@
                                                   <item>Auf dem Gebiete des Bergbaues, der Land- und
                                                   Forstwirtschaft: Das Bergwesen, die
                                                   Forstwirtschaft, einschließlich des Triftwesens.
-                                                  Tierseuchenbekämpfung. Das Wasserrecht. <note
-                                                  type="comment">das Bergwesen; die Ausführung der
-                                                  Regulierung und die Instandhaltung der schiffbaren
-                                                  und flößbaren Gewässer, dann solcher Gewässer,
-                                                  welche die Grenze gegen das Ausland oder zwischen
-                                                  Ländern bilden oder die zwei oder mehrere Länder
-                                                  durchfließen, den Bau derjenigen Wasserstraßen die
-                                                  das Inland mit dem Ausland oder die mehrere Länder
-                                                  verbinden; die Bekämpfung übertragbarer
-                                                  Krankheiten von Tieren; </note></item>
+                                                  Tierseuchenbekämpfung. Das Wasserrecht. </item>
                                                   <label>9.</label>
                                                   <item>Auf dem Gebiete von Industrie und Gewerbe:
                                                   Allgemeine Gewerbeordnung. — Die Industrie;
@@ -1136,33 +1044,12 @@
                                                   Musterschutz, Bekämpfung des unlauteren
                                                   Wettbewerbes. — Handels- und Gewerbekammern. —
                                                   Geld-, Kredit-, Börsen-und Bankwesen. —
-                                                  Privatversicherungswesen. <note type="comment">das
-                                                  Gewerbewesen, die öffentlichen Agentien und die
-                                                  Privatgeschäftsvermittlung; das Dampfkessel- und
-                                                  Kraftmaschinenwesen; das Vermessungswesen; das
-                                                  Ingenieur- und Ziviltechnikerwesen; das Maß-,
-                                                  Gewichts-, Normen- und Punzierungswesen; das
-                                                  Urheberrecht; die Bekämpfung des unlauteren
-                                                  Wettbewerbes; das Patentwesen, sowie den Marken-
-                                                  und Musterschutz; das wirtschaftliche
-                                                  Assoziationswesen; die Handels- und
-                                                  Gewerbekammern; das Vertragsversicherungswesen;
-                                                  das Geld-, Kredit-, Börse- und Bankwesen.
-                                                  </note></item>
+                                                  Privatversicherungswesen. </item>
                                                   <label>10.</label>
                                                   <item>Auf dem Gebiete des Verkehrs:
                                                   Kraftfahrwesen, Eisenbahnen, Flößerei und
                                                   Schiffahrt, Luftschiffahrt. Bundesstraßen. Post-,
-                                                  Telegraphie- und Fernsprechwesen. <note
-                                                  type="comment">das Verkehrswesen bezüglich der
-                                                  Eisenbahnen, der Schiffahrt und der
-                                                  Luftschiffahrt; die Angelegenheiten der wegen
-                                                  ihrer Bedeutung für den Durchzugsverkehr durch
-                                                  Bundesgesetz als Bundesstraßen erklärten
-                                                  Straßenzüge; die Strom- und Schiffahrtspolizei;
-                                                  das Post-, Telegraphen-und Fernsprechwesen;
-                                                  </note>
-                                                  </item>
+                                                  Telegraphie- und Fernsprechwesen.  </item>
                                                   <label>11.</label>
                                                   <item>Auf dem Gebiete der sozialen Verwaltung:
                                                   Ernährungswesen, Nahrungsmittelkontrolle —
@@ -1177,18 +1064,7 @@
                                                   Hausgehilfen — Sozialversicherung,
                                                   Invalidenfürsorge. — Gewerbegerichte und
                                                   Einigungsämter. Arbeiter- und Angestelltenkammern.
-                                                  <note type="comment">die Bekämpfung übertragbarer
-                                                  Krankheiten von Menschen;</note></item>
-                                                  <note type="comment">12. das gesamte Arbeiterrecht
-                                                  und den Arbeiter- und Angestelltenschutz sowie das
-                                                  Sozialversicherungswesen, soweit es sich nicht um
-                                                  land- und forstwirtschaftliche Arbeiter und
-                                                  Angestellte handelt; die Fürsorge für
-                                                  Kriegsteilnehmer und deren Hinterbliebene; das
-                                                  Kriegsgräberwesen; die aus Anlaß eines Krieges
-                                                  oder im Gefolge eines solchen zur Sicherung der
-                                                  einheitlichen Führung der Wirtschaft notwendig
-                                                  erscheinenden Maßnahmen.</note>
+                                                  </item>
                                                 </list></p>
                                     </div>
                                     <div type="article">
@@ -1197,29 +1073,14 @@
                                           <head>Art. 26. </head>
                                           <p type="legal_section">Bundessache ist die Gesetzgebung,
                                                 Landessache die Vollziehung in folgenden
-                                                Angelegenheiten: <note type="comment">Bundessache
-                                                  ist die Gesetzgebung, Landessache die Vollziehung
-                                                  in folgenden Angelegenheiten: </note><list>
+                                                Angelegenheiten: <list>
                                                   <label>1.</label>
                                                   <item>Das Verwaltungs- und das
                                                   Verwaltungsstrafverfahren einschließlich der
                                                   Zwangsvollstreckung, sowie die allgemeinen
                                                   Bestimmungen des Verwaltungsstrafrechtes in jenen
                                                   Angelegenheiten, deren Vollzug den Ländern
-                                                  zusteht. <note type="comment">hinsichtlich der
-                                                  öffentlichen Abgaben, die nicht ausschließlich
-                                                  oder teilweise für den Bund eingehoben werden: die
-                                                  Anordnungen zur Verhinderung von
-                                                  Doppelbesteuerungen oder sonstigen übermäßigen
-                                                  Belastungen, zur Verhinderung von Erschwerungen
-                                                  des Verkehres oder der wirtschaft lichen
-                                                  Beziehungen im Verhältnis zum Ausland oder
-                                                  zwischen den Ländern und Landesteilen, zur
-                                                  Verhinderung der übermäßigen oder
-                                                  verkehrserschwerenden Belastung der Benutzung
-                                                  öffentlicher Verkehrswege und Einrichtungen mit
-                                                  Gebühren und zur Verhinderung der Schädigung der
-                                                  Bundesfinanzen; </note></item>
+                                                  zusteht. </item>
                                                   <label>2.</label>
                                                   <item>Anordnungen zur Verhinderung von
                                                   Doppelbesteuerungen und von Erschwerungen des
