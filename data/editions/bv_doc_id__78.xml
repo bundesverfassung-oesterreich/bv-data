@@ -112,6 +112,8 @@
                   <change when="2024-08-24" who="#m_huber">formatting completed</change>
                   <change when="2024-10-27" who="#s_kury">NEUES DOKUMENT: Gegenlesen UND getrennt
                         bis Art. 26, 2. </change>
+                  <change when="2024-11-24" who="#s_kury">Gegenlesen UND getrennt bis Art.
+                        116</change>
             </revisionDesc>
       </teiHeader>
       <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -1090,47 +1092,16 @@
                                                   Belastung der Benutzung öffentlicher Verkehrswege
                                                   und zur Verhinderung der Schädigung der
                                                   Bundesfinanzen. Die Bestimmungen über die
-                                                  Besteuerung der Bundesunternehmungen. <note
-                                                  type="comment">die Staatsbürgerschaft und das
-                                                  Heimatrecht: das Vereins- und Versammlungsrecht;
-                                                  die Angelegenheiten der Presse; die
-                                                  Personenstandsangelegenheiten einschließlich des
-                                                  Matrikenwesens und der Namensänderung; das
-                                                  Paßwesen und die Fremdenpolizei;</note></item>
+                                                  Besteuerung der Bundesunternehmungen. </item>
                                                   <label>3.</label>
                                                   <item>Die pädagogisch-didaktische Einrichtung des
-                                                  niederen Schulwesens. <note type="comment">das
-                                                  Verwaltungs- und Verwaldungsstrafverfahren
-                                                  einschließlich der Zwangsvollstreckung sowie die
-                                                  allgemeinen Bestimmungen des
-                                                  Verwaltungsstrafrechtes in Angelegenheiten, deren
-                                                  Vollziehung den Ländern zusteht; </note>
-                                                  </item>
+                                                  niederen Schulwesens.  </item>
                                                   <label>4.</label>
-                                                  <item>Die nicht im Art. 25 angeführten beruf
-                                                  lichen Vertretungen. <note type="comment">die
-                                                  Festsetzung des Lehrzieles bei den mittleren und
-                                                  niederen Schulen; </note></item>
+                                                  <item>Die nicht im Art. 25 angeführten beruflichen
+                                                  Vertretungen. </item>
                                                   <label>5.</label>
                                                   <item>Das Veterinärwesen. Das landwirtschaftliche
-                                                  Genossenschaftswesen. <note type="comment">das
-                                                  Veterinärwesen; </note></item>
-                                                  <note type="comment">6. das Munitions-, Schieß-
-                                                  und Sprengmittelwesen, soweit es nicht dem Monopol
-                                                  unterliegt, sowie das Waffenwesen; </note>
-                                                  <note type="comment">7. die betriebstechnischen
-                                                  Vorschriften bezüglich des Kraftfahrwesens;</note>
-                                                  <note type="comment">8. die Ausbildung, Fort
-                                                  bildung und Berufsausübung von Heilpersonen; das
-                                                  Heilmittelwesen; das Gesundheitswesen mit Ausnahme
-                                                  der Heil- und Pflegeanstalten und Ambularien, des
-                                                  Kurorte-, Leichen- und Begräbniswesens sowie des
-                                                  Gemeindesanitätsdienstes und Rettungswesens; </note>
-                                                  <note type="comment">9. das Volkswohnungs- und
-                                                  Volkspflegestättenwesen; </note>
-                                                  <note type="comment">10. die beruflichen
-                                                  Vertretungen mit Ausnahme jener auf land- und
-                                                  forstwirtschaftlichem Gebiete.</note>
+                                                  Genossenschaftswesen. </item>
                                                 </list></p>
                                     </div>
                                     <div type="article">
@@ -1140,74 +1111,30 @@
                                           <p type="legal_section"><label>(1)</label> Bundessache ist
                                                 die grundsätzliche Gesetzgebung, Landessache die
                                                 Erlassung von Ausführungsgesetzen und die
-                                                Vollziehung in folgenden Angelegenheiten: <note
-                                                  type="comment">Bundessache ist die grundsätzliche
-                                                  Gesetz gebung, Landessache die Erlassung von
-                                                  Ausführungsgesetzen und die Vollziehung in
-                                                  folgenden Angelegenheiten: </note><list>
+                                                Vollziehung in folgenden Angelegenheiten: <list>
                                                   <label>1.</label>
                                                   <item>Die Organisation der Verwaltung in den
-                                                  Bundesländern. <note type="comment">die
-                                                  Organisation der Verwaltung in den Ländern; das
-                                                  Dienstrecht der Lehrpersonen an mittleren
-                                                  Unterrichtsanstalten und jener Angestellten des
-                                                  Landes, die behördliche Aufgaben zu besorgen
-                                                  haben, einschließlich der Regelung des im
-                                                  Einvernehmen der in Betracht kommenden Länder zu
-                                                  vollziehenden Dienstwechsels von Land zu
-                                                  Land;</note></item>
+                                                  Bundesländern. </item>
                                                   <label>2.</label>
                                                   <item>Die Einrichtung und Erhaltung von niederen
                                                   Unterrichtsanstalten. — Privatunterricht und
-                                                  Privatschulwesen. <note type="comment">die
-                                                  Einrichtungen zum Schutze der Gesellschaft gegen
-                                                  verbrecherische, verwahrloste oder sonst
-                                                  gefährliche Personen, wie Zwangsarbeits- und
-                                                  ähnliche Anstalten; die Abschiebung und
-                                                  Abschaffung aus einem in ein anderes
-                                                  Land;</note></item>
+                                                  Privatschulwesen. </item>
                                                   <label>3.</label>
                                                   <item>Einrichtungen zum Schutze der Gesellschaft
                                                   gegen verbrecherische, verwahrloste und sonst
                                                   gefährliche Personen, wie Zwangsarbeits- und
-                                                  ähnliche Anstalten. <note type="comment">das
-                                                  Verhältnis zwischen Schule und Kirche; die
-                                                  Einrichtung und Erhaltung von mittleren und
-                                                  niederen Unterrichtsanstalten; den
-                                                  Privatunterricht und das Privatschulwesen; das
-                                                  Volksbildungswesen: </note></item>
+                                                  ähnliche Anstalten. </item>
                                                   <label>4.</label>
                                                   <item>Die öffentlichen Einrichtungen zur
-                                                  außergerichtlichen Vermittlung von Streitigkeiten.
-                                                  <note type="comment">das Wasserrecht und das
-                                                  Elektrizitätswesen; die Bodenreform; (agrarische
-                                                  Operationen, Wiederbesiedelung u.s.w.) und die
-                                                  Bodenentschuldung; das Forstwesen einschließlich
-                                                  des Triftwesens, jedoch mit Ausnahme der Forst-
-                                                  und Weideservituten: den Schutz der Pflanzen gegen
-                                                  Krankheiten und Schädlinge;</note></item>
+                                                  außergerichtlichen Vermittlung von Streitigkeiten. </item>
                                                   <label>5.</label>
                                                   <item>Die Bodenreform. Der Schutz der Pflanzen
-                                                  gegen Krankheiten und Schädlinge. <note
-                                                  type="comment">das Heil- und Pflegeanstaltenwesen
-                                                  einschließlich der Ambularien; die Ausgrabung und
-                                                  Überführung von Leichen; </note></item>
+                                                  gegen Krankheiten und Schädlinge. </item>
                                                   <label>6.</label>
                                                   <item>Die Gesetzgebung über die Wald- und
-                                                  Weideservituten. <note type="comment">das
-                                                  Arbeiterrecht und den Arbeitei- und
-                                                  Angestelltenschutz sowie das
-                                                  Sozialversicherungswesen, soweit es sich um land-
-                                                  und forstwirtschaftliche Arbeiter und Angestellte
-                                                  handelt; das Armenwesen; die Bevölkerungspolitik;
-                                                  die Mutterschafts-, Säuglings- und Jugendfürsorge;
-                                                  die öffentlichen Einrichtungen zur
-                                                  außergerichtlichen Vermittlung von Streitigkeiten
-                                                  ;</note></item>
+                                                  Weideservituten. </item>
                                                   <label>7.</label>
-                                                  <item>Armenwesen. <note type="comment">die
-                                                  beruflichen Vertretungen auf land- und
-                                                  forstwirtschaftlichem Gebiete. </note></item>
+                                                  <item>Armenwesen. </item>
                                                 </list></p>
                                           <p type="legal_section"><label>(2)</label> Das
                                                 Bundesgesetz, das die grundsätzliche Regelung
@@ -1216,8 +1143,7 @@
                                                 geringer als drei Monate und nicht länger als ein
                                                 Jahr sein darf. Wird diese Frist nicht eingehalten,
                                                 so wird die Erlassung dieses Ausführungsgesetzes
-                                                  Bundessache.<note type="comment"
-                                                  >Gleichlautend.</note></p>
+                                                Bundessache.</p>
                                     </div>
                                     <div type="article">
                                           <pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>
@@ -1251,7 +1177,6 @@
                                                 über den Vollzug steht jener Regierung zu, die zur
                                                 Erlassung der zum Vollzuge nötigen Verordnungen
                                                 befugt ist. </p>
-                                          <note type="comment">Fällt weg.</note>
                                     </div>
                                     <div type="article">
                                           <head>Art. 31. </head>
@@ -1278,8 +1203,8 @@
                                           <p type="legal_section"><label>2.</label> Der Bund darf in
                                                 allen diesen Angelegenheiten durch die
                                                 Landesgesetzgebung rechtlich niemals ungünstiger
-                                                gestellt werden als das betreffende Land selbst. </p>
-                                          <note type="comment">Fällt weg.</note>
+                                                gestellt werden als das betreffende Land selbst.
+                                          </p>
                                     </div>
                                     <div type="article">
                                           <head>Art. 33. </head>
@@ -1315,7 +1240,7 @@
                                                 Bundeswappen trägt das Staatswappen der Republik um
                                                 das Mittelschild neun Nebenschilde auf dem Gefieder
                                                 des Adlers, und zwar zur rechten Seite absteigend
-                                                die Wappen von Niederösterreich, Oberösterveich,
+                                                die Wappen von Niederösterreich, Oberösterreich,
                                                 Steiermark und Burgenland, zur linken Seite
                                                 absteigend die Wappen von Kärnten, Salzburg, Tirol
                                                 und Vorarlberg und in der Mitte oben das Wappen der
@@ -1327,7 +1252,7 @@
                                                 weist das Staatswappen mit der Umschrift „Republik
                                                 Österreich" auf. </p>
                                           <p type="legal_section"><label>2.</label> Die Flagge der
-                                                Republik besteht aus drej gleichbreiten wagrechten
+                                                Republik besteht aus drei gleichbreiten wagrechten
                                                 Streifen, von denen der mittlere weiß, der obere und
                                                 untere rot ist.</p>
                                     </div>
@@ -1377,10 +1302,7 @@
                                           <p type="legal_section"><label>1.</label> Die
                                                 Gesetzgebungsperiode des Bundestages beträgt zwei
                                                 Jahre, vom Tage seines ersten Zusammentrittes
-                                                gerechnet. <note type="comment">Die
-                                                  Gesetzgebungsperiode des Bundesstaates beträgt
-                                                  fünf Jahre vom Tage seines ersten Zusammentrittes
-                                                  an gerechnet.</note></p>
+                                                gerechnet. </p>
                                           <p type="legal_section"><label>2.</label> Der Bundestag
                                                 tritt alljährlich am ersten Dienstag im Oktober zu
                                                 seiner ordentlichen Herbsttagung und am ersten
@@ -1469,48 +1391,25 @@
                                           <p type="legal_section"><label>1.</label> Im Bundesrat
                                                 sind die Länder im Verhältnis zu ihrer Einwohnerzahl
                                                 vertreten. Auf die Einwohnerzahl des kleinsten
-                                                Landes entfällt je ein Vertreter. <note
-                                                  type="comment">Der Bundesrat wird aus Vertretern
-                                                  der Länder gebildet.</note></p>
+                                                Landes entfällt je ein Vertreter. </p>
                                           <p type="legal_section"><label>2.</label> Die Wahl in den
                                                 Bundesrat erfolgt nach dem Grundsatz der
                                                 Verhältniswahl. Jeder Landtag wählt seine Vertreter
-                                                aus seiner Mitte. <note type="comment">Jedes Land
-                                                  ist im Bundesrat grundsätzlich durch 3 Mitglieder
-                                                  vertreten, bei den Ländern mit mindestens 800.000
-                                                  Einwohnern erhöht sich die Zahl auf 4 Mitglieder
-                                                  und für je weitere 400.000 Einwohner noch um ein
-                                                  weiteres Mitglied. Auf kein Land darf jedoch mehr
-                                                  als ein Fünftel der Gesamtzahl der Mitglieder
-                                                  entfallen. </note></p>
+                                                aus seiner Mitte. </p>
                                           <p type="legal_section"><label>3.</label> Bei der Ausübung
                                                 ihres Mandates sind die Mitglieder des Bundesrates
-                                                an keinen Auftrag gebunden. <note type="comment">Für
-                                                  jedes Mitglied wird ein Ersatzmann bestellt.
-                                                </note></p>
+                                                an keinen Auftrag gebunden. </p>
                                           <p type="legal_section"><label>4.</label> Die Zahl der
                                                 Mitglieder wird durch den Bundesrat nach jeder
-                                                allgemeinen Volkszählung festgesetzt. <note
-                                                  type="comment">Die Mitglieder des Bundesrates und
-                                                  deren Ersatzmänner werden von den Landtagen aus
-                                                  ihrer Mitte nach dem Grundsatz der Verhältniswahl
-                                                  gewählt. </note></p>
+                                                allgemeinen Volkszählung festgesetzt. </p>
                                           <p type="legal_section"><label>5.</label> Für jedes
                                                 Mitglied des Bundesrates ist zugleich ein Ersatzmann
-                                                zu wählen. <note type="comment">Bei der Ausübung des
-                                                  Mandates sind die Mitglieder des Bundesrates an
-                                                  keinen Auftrag gebunden. </note></p>
-                                          <note type="comment">6. Die Bestimmungen dieses Artikels
-                                                können nur abgeändert werden, wenn die Änderung von
-                                                der Mehrheit der Vertreter jedes einzelnen Landes im
-                                                Bundesrate oder im Falle einer Volksabstimmung von
-                                                der Mehrheit der Abstimmenden in jedem einzelnen
-                                                Lande angenommen wird.</note>
+                                                zu wählen. </p>
                                     </div>
                                     <div type="article">
                                           <head>Art. 47. </head>
                                           <p type="legal_section"><label>1.</label> Der Vorsitz des
-                                                Bundesrates fällt in jeder ordentliehen oder
+                                                Bundesrates fällt in jeder ordentlichen oder
                                                 außerordentlichen Tagung abwechselnd auf ein anderes
                                                 Land nach alphabetischer Reihenfolge. </p>
                                           <p type="legal_section"><label>2.</label> Als Vorsitzender
@@ -1520,12 +1419,7 @@
                                                 Stellvertreter des Vorsitzenden fungiert der an
                                                 erster Stelle entsendete Vertreter desjenigen
                                                 Landes, dem in der nächstfolgenden Tagung der
-                                                Vorsitz zufällt. <note type="comment"> Als
-                                                  Vorsitzender des Bundesrates und als dessen
-                                                  Stellvertreter fingieren die bei der Wahl aus dem
-                                                  Landtag an erster und zweiter Stelle sendeten
-                                                  Vertreter des jeweils zum Vorsitz berufenenen
-                                                  Landes.</note></p>
+                                                Vorsitz zufällt. </p>
                                           <p type="legal_section"><label>3.</label> Der Bundesrat
                                                 wird durch seinen Vorsitzenden vertreten. Alle
                                                 Ausfertigungen des Bundesrates müssen die
@@ -1581,7 +1475,7 @@
                                                 Landtag im Wege des Bundesrates Gesetzanträge an den
                                                 Bundestag stellen. </p>
                                           <p type="legal_section"><label>4.</label> Endlich ist
-                                                jeder von 300.000 Stimmburechtigten oder von der
+                                                jeder von 300.000 Stimmberechtigten oder von der
                                                 Hälfte der Stimmberechtigten dreier Länder gestellte
                                                 Antrag von der Bundesregierung dem Bundestag zur
                                                 geschäftsordnungsmäßigen Behandlung vorzulegen. </p>
@@ -1640,7 +1534,7 @@
                                                 gerechnet, seine Zustimmung zu erteilen oder gegen
                                                 sie einen Vorhalt oder Einspruch zu richten. </p>
                                           <p type="legal_section"><label>3.</label> Hat der
-                                                Bundesrat einem Beschlüsse des Bundestages seine
+                                                Bundesrat einem Beschlusse des Bundestages seine
                                                 Zustimmung erteilt, so kann dieser Beschluß sofort
                                                 beurkundet und als Gesetz kundgemacht werden. Hat
                                                 der Bundesrat gegen einen Beschluß des Bundestages
@@ -1698,13 +1592,13 @@
                                                 übereinstimmende Beschlüsse gefaßt haben, vor deren
                                                 Beurkundung einer Abstimmung des ganzen Bundesvolkes
                                                 zu unterziehen. </p>
-                                          <p type="legal_section"><label>2.</label> Ist ein Gesetzes
-                                                Vorschlag, der eine teilweise Verfassungsänderung
-                                                oder eine Änderung des Wehrgesetzes bewirken soll,
-                                                gescheitert (Art. 54, Abs. 4), so kann der Bundestag
-                                                oder der Bundesrat mit Zweidrittelmehrheit die
-                                                Volksabstimmung über den Beschluß des Bundestages
-                                                fordern. </p>
+                                          <p type="legal_section"><label>2.</label> Ist ein
+                                                Gesetzesvorschlag, der eine teilweise
+                                                Verfassungsänderung oder eine Änderung des
+                                                Wehrgesetzes bewirken soll, gescheitert (Art. 54,
+                                                Abs. 4), so kann der Bundestag oder der Bundesrat
+                                                mit Zweidrittelmehrheit die Volksabstimmung über den
+                                                Beschluß des Bundestages fordern. </p>
                                     </div>
                                     <div type="article">
                                           <head>Art. 57. </head>
@@ -1878,11 +1772,7 @@
                                           <head>Art. 69. </head>
                                           <p type="legal_section"><label>1.</label> Auf Antrag von
                                                 mindestens einem Fünftel der Mitglieder hat der
-                                                Bundestag Untersuchungsausschüsse einzusetzen. <note
-                                                  type="comment">Auf Antrag von mindestens einem
-                                                  Fünftel der Mitglieder hat der Bundestag
-                                                  Untersuchungsausschüsse einzusetzen. Das gleiche
-                                                  Recht steht dem Bundesrat zu.</note></p>
+                                                Bundestag Untersuchungsausschüsse einzusetzen. </p>
                                           <p type="legal_section"><label>2.</label> Die Gerichte und
                                                 alle anderen Behörden sind verpflichtet, dem
                                                 Ersuchen dieser Ausschüsse um Beweiserhebungen Folge
@@ -1893,602 +1783,6 @@
                                           <p type="legal_section"><label>3.</label> Das Verfahren
                                                 der Untersuchungsausschüsse wird durch das
                                                 Geschäftsordnungsgesetz geregelt. </p>
-                                    </div>
-                              </div>
-                        </div>
-                        <div type="section">
-                              <pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/>
-                              <fw type="pageNum">23</fw>
-                              <head>Drittes Hauptstück.</head>
-                              <head>Von der Bundesvollziehung.</head>
-                              <div type="section">
-                                    <head>Erster Abschnitt.</head>
-                                    <head>Von der Regierung des Bundes.</head>
-                                    <div type="section">
-                                          <head>1. Die Bundesversammlung und der Bundespräsident. </head>
-                                          <div type="article">
-                                                <head>Art. 70. </head>
-                                                <p type="legal_section"><label>(1)</label> Bundestag
-                                                  und Bundesrat treten zu gemeinsamer Sitzung an dem
-                                                  Sitze des Bundestages zusammen: <list>
-                                                  <label>1.</label>
-                                                  <item>zur Wahl des Bundespräsidenten und zu dessen
-                                                  Angelobung; <note type="comment">zur Wahl des
-                                                  Bundespräsidenten und der Bundesregierung sowie zu
-                                                  deren Angelobung.</note></item>
-                                                  <label>2.</label>
-                                                  <item>zur Wahl des Präsidenten des
-                                                  Verfassungsgerichtshofes, des Präsidenten des
-                                                  Rechnungshofes und zu deren Angelobung, </item>
-                                                  <label>3.</label>
-                                                  <item>zur Beschlußfassung über Anträge auf
-                                                  behördliche Verfolgung oder auf Abberufung des
-                                                  Bundespräsidenten, </item>
-                                                  <label>4.</label>
-                                                  <item>zur Entscheidung über Krieg und Frieden, zum
-                                                  Aufruf aller wehrfähigen Bürger zur Verteidigung
-                                                  des Landes wider den ins Land fallenden Feind.
-                                                  </item>
-                                                  </list>
-                                                </p>
-                                                <p type="legal_section"><label>2.</label> Die
-                                                  Sitzungen der Bundesversammlung sind nicht
-                                                  öffentlich. Der Bundestag und der Bundesrat
-                                                  beraten die zu entscheidenden Dinge gesondert und
-                                                  treten bloß zum Zwecke der Abstimmung zusammen. </p>
-                                                <p type="legal_section"><label>3.</label> Die
-                                                  näheren Vorschriften über das Verfahren der
-                                                  Bundesversammlung (Geschäftsordnung) enthält ein
-                                                  besonderes Bundesverfassungsgesetz. </p>
-                                          </div>
-                                          <div type="article">
-                                                <head>Art. 71. </head>
-                                                <p type="legal_section"><label>1.</label> Die Wahl
-                                                  des Bundespräsidenten findet frühestens einen
-                                                  Monat und längstens zwei Monate nach den
-                                                  allgemeinen Wahlen statt. Er tritt sein Amt am
-                                                  achten Tage seiner Wahl an und bleibt bis zum
-                                                  Amtsantritte seines Nachfolgers im Amte.
-                                                  Wiederwahl ist zulässig. </p>
-                                                <p type="legal_section"><pb facs="#facs_28" n="28"
-                                                  xml:id="img_0028" break="yes"/><fw type="pageNum"
-                                                  >24</fw><label>2.</label> Zum Bundespräsidenten
-                                                  kann nur ein Mitglied des Bundestages oder des
-                                                  Bundesrates gewählt werden, das am 1. Jänner des
-                                                  Jahres, in welchem die Wahl stattfindet, das 35.
-                                                  Lebensjahr vollendet hat. </p>
-                                                <p type="legal_section"><label>3.</label> Den
-                                                  Wahlvorgang regelt die Geschäftsordnung der
-                                                  Bundesversammlung. </p>
-                                          </div>
-                                          <div type="article">
-                                                <head>Art. 72. </head>
-                                                <p type="legal_section"><label>1.</label> Eine
-                                                  behördliche Verfolgung des Bundespräsidenten kann
-                                                  nur mit Zustimmung, seine Abberutung nur durch
-                                                  einen Beschluß der Bundesversammlung erfolgen. </p>
-                                                <p type="legal_section"><label>2.</label> Zu diesen
-                                                  Beschlüssen ist die Anwesenheit der Hälfte der
-                                                  Mitglieder jedes Hauses und eine Mehrheit von zwei
-                                                  Dritteln der abgegebenen Stimmen erforderlich.
-                                                </p>
-                                          </div>
-                                          <div type="article">
-                                                <head>Art. 73. </head>
-                                                <p type="legal_section">Der Bundespräsident darf
-                                                  während der Amtstätigkeit keiner politischen
-                                                  Körperschaft angehören und keinen anderen Beruf
-                                                  ausüben. </p>
-                                          </div>
-                                          <div type="article">
-                                                <head>Art. 74. </head>
-                                                <p type="legal_section">Der Bundespräsident leistet
-                                                  bei Antritt seines Amtes vor der Bundesversammlung
-                                                  das Gelöbnis: Ich gelobe, daß ich die Verfassung
-                                                  und alle Gesetze der Republik Österreich
-                                                  getreulich beobachten und meine Pflicht nach
-                                                  bestem Wissen und Gewissen erfüllen werde. </p>
-                                          </div>
-                                          <div type="article">
-                                                <head>Art. 75. </head>
-                                                <p type="legal_section"><label>1.</label> Wenn der
-                                                  Bundespräsident verhindert oder wenn seine Stelle
-                                                  dauernd erledigt ist, in letzterem Falle bis zu
-                                                  der Wahl seines Nachfolgers, gehen alle Funktionen
-                                                  des Bundespräsidenten auf den Bundeskanzler über. </p>
-                                                <p type="legal_section"><label>2.</label> Dieser hat
-                                                  im Falle der dauernden Erledigung der Stelle des
-                                                  Bundespräsidenten sofort die Neuwahl einzuleiten.
-                                                </p>
-                                          </div>
-                                          <div type="article">
-                                                <head>Art. 76. </head>
-                                                <p type="legal_section"><label>1.</label> Der
-                                                  Bundespräsident vertritt die Republik nach außen,
-                                                  genehmigt die Bestellung der fremden Konsuln,
-                                                  empfängt und beglaubigt die Gesandten, bestellt
-                                                  die diplomatischen und konsularischen Vertreter
-                                                  der Republik im Auslande und schließt die
-                                                  Staatsverträge ab. </p>
-                                                <p type="legal_section"><label>2.</label> Weiters
-                                                  stehen ihm — außer dem ihm nach anderen
-                                                  Bestimmungen dieser Verfassung übertragenen
-                                                  Befugnissen — zu: <list>
-                                                  <label>a) </label>
-                                                  <item>die Ernennung der Bundesbediensteten
-                                                  (einschließlich der Offiziere) und der sonstigen
-                                                  Bundesfunktionäre, die Verleihung von Amtstiteln
-                                                  an solche; </item>
-                                                  <pb facs="#facs_29" n="29" xml:id="img_0029"
-                                                  break="yes"/>
-                                                  <fw type="pageNum">25</fw>
-                                                  <label>b) </label>
-                                                  <item>die Schaffung von Amts- und Berufstiteln,
-                                                  die Verleihung der Berufstitel; </item>
-                                                  <label>c) </label>
-                                                  <item>die Begnadigung der von den Gerichten
-                                                  rechtskräftig Verurteilten, die Milderung und
-                                                  Umwandlung der von den Gerichten ausgesprochenen
-                                                  Strafen, die Nachsicht von Rechtsfolgen und die
-                                                  Tilgung von Verurteilungen, ferner die Abolution
-                                                  von strafgerichtlichen Verfahren; </item>
-                                                  <label>d) </label>
-                                                  <item>die Erklärung unehelicher Kinder zu
-                                                  ehelichen auf Ansuchen der Eltern. </item>
-                                                  </list></p>
-                                                <p type="legal_section"><label>3.</label> Inwieweit
-                                                  dem Bundespräsidenten außerdem noch Befugnisse
-                                                  hinsichtlich Gewährung von Ehrenrechten,
-                                                  außerordentlichen Zuwendungen, Zulagen und
-                                                  Versorgungsgenüssen, Ernennungs- oder
-                                                  Bestätigungsrechten und sonstige Befugnisse in
-                                                  Personalangelegenheiten zustehen, bestimmen
-                                                  besondere Gesetze. </p>
-                                                <p type="legal_section"><label>4.</label> Alle in
-                                                  diesem Artikel aufgezählten Akte des
-                                                  Bundespräsidenten erfolgen auf Vorschlag der
-                                                  Bundesregierung oder des von dieser hiezu
-                                                  ermächtigten zuständigen Bundesministers.
-                                                  Inwieweit die Bundesregierung oder der zuständige
-                                                  Bundesminister hiebei selbst an Vorschläge anderer
-                                                  Stellen gebunden ist, bestimmt das Gesetz. </p>
-                                          </div>
-                                          <div type="article">
-                                                <head>Art. 77. </head>
-                                                <p type="legal_section">Der Bundespräsident kann das
-                                                  ihm zustehende Recht der Ernennung von
-                                                  Bundesbediensteten bestimmter Kategorien oder
-                                                  Rangsklassen den ressortmäßig zuständigen
-                                                  Mitgliedern der Bundesregierung übertragen. </p>
-                                          </div>
-                                          <div type="article">
-                                                <head>Art. 78. </head>
-                                                <p type="legal_section">Alle Aktte des
-                                                  Bundespräsidenten bedürfen zu ihrer Giltigkeit der
-                                                  Gegenzeichnung des Bundeskanzlers und der
-                                                  ressortmäßig zuständigen Bundesminister. </p>
-                                          </div>
-                                          <div type="article">
-                                                <head>Art. 79. </head>
-                                                <p type="legal_section">Der Bundespräsident ist tür
-                                                  die Ausübung der ihm zustehenden Regierungs- und
-                                                  Vollzugsgewalt der Bundesversammlung gemäß Art.
-                                                  158 der Bundesverfassung verantwortlich. </p>
-                                          </div>
-                                    </div>
-                                    <div type="section">
-                                          <head>2. Die Bundesregierung.</head>
-                                          <div type="article">
-                                                <head>Art. 80. </head>
-                                                <p type="legal_section"><label>1.</label> Die mit
-                                                  der Ausübung der Regierungs- und Vollzugsgewalt
-                                                  betrauten Bundesminister bilden in ihrer
-                                                  Gesamtheit unter dem Vorsitze des Bundeskanzlers
-                                                  die Bundesregierung. </p>
-                                                <p type="legal_section"><label>2.</label> Der
-                                                  Vizekanzler ist zur Vertretung des Bundeskanzlers
-                                                  in dessen gesamten Befugnissen berufen.</p>
-                                                <p type="legal_section"><pb facs="#facs_30" n="30"
-                                                  xml:id="img_0030" break="yes"/><fw type="pageNum"
-                                                  >26</fw><label>3.</label> Jeder Minister handelt
-                                                  innerhalb seines Aufgabenkreises selbständig im
-                                                  Namen der Bundesregierung, insofern eine
-                                                  Angelegenheit nicht ausdrücklich der
-                                                  Gesamtregierung vorbehalten ist. </p>
-                                                <p type="legal_section"><label>4.</label> Die
-                                                  Regierungs- und Vollzugsgewalt des Bundes darf nur
-                                                  auf Grund der Bundesverfassung und der
-                                                  Bundesgesetze sowie der vom Bundestag gefaßten
-                                                  Beschlüsse ausgeübt werden. <note type="comment"
-                                                  >Die Regierungs- und Vollzugsgewalt des Bundes
-                                                  darf nur auf Grund der Bundesgesetze sowie der vom
-                                                  Bundestag oder Bundesrat gefaßten Beschlüsse
-                                                  ausgeübt werden.</note></p>
-                                                <note type="comment">5. Jede Behörde kann im Rahmen
-                                                  der Gesetze innerhalb ihres Wirkungskreises
-                                                  Verordnungen e lassen. </note>
-                                          </div>
-                                          <div type="article">
-                                                <head>Art. 81. </head>
-                                                <p type="legal_section"><label>1.</label> Die
-                                                  Bundesregierung wird vom Bundestag über
-                                                  Gesamtvorschlag eines besonderen Ausschusses,
-                                                  dessen Zusammensetzung, Wirkungskreis und
-                                                  Verfahren im Geschäftsordnungsgesetze geregelt
-                                                  ist, in namentlicher Abstimmung gewählt. Dieser
-                                                  Ausschuß ist ständig. In die Bundesregierung kann
-                                                  nur gewählt werden, wer zum Bundestage wählbar
-                                                  ist. Die Mitglieder der Bundesregierung müssen
-                                                  nicht dem Bundestag angehören. <note
-                                                  type="comment">Die Bundesregierung wird von der
-                                                  Bundesversammlung über den Gesamtvorschlag eines
-                                                  gemeinsamen Ausschusses des Bundestages und
-                                                  Bundesrates gewählt. Dieser Ausschuß ist ständig,
-                                                  seine Zusammensetzung bestimmt das
-                                                  Bundesverfassungsgesetz über die Geschäftsordnung
-                                                  der Bundesversammlung. In die Bundesregierung kann
-                                                  nur gewählt werden, wer zum Bundestag oder
-                                                  Bundesrat wählbar ist. Die Mitglieder der
-                                                  Bundesregierung müssen nicht dem Bundestag oder
-                                                  Bundesrat angehören.</note></p>
-                                                <p type="legal_section"><label>2.</label> Die
-                                                  Bestallungsurkunden des Bundeskanzlers, des
-                                                  Vizekanzlers und der übrigen Bundesminister werden
-                                                  vom Bundespräsidenten mit dem Datum des Tages der
-                                                  Angelobung ausgefertigt und vom neugewählten
-                                                  Bundeskanzler gegengezeichnet. </p>
-                                                <p type="legal_section"><label>3.</label> Die
-                                                  Mitglieder der Bundesregierung werden vor Antritt
-                                                  ihres Amtes vom Bundespräsidenten angelobt. <note
-                                                  type="comment">Fällt weg. </note></p>
-                                          </div>
-                                          <div type="article">
-                                                <head>Art. 82. </head>
-                                                <p type="legal_section"><label>1.</label> Bis die
-                                                  neue Bundesregierung gebildet ist, hat der
-                                                  Bundespräsident entweder die scheidende Regierung
-                                                  unter dem Vorsitz des bisherigen Bundeskanzlers,
-                                                  des Vizekanzlers oder eines anderen
-                                                  Bundesministers oder leitende Beamte der
-                                                  Bundesministerien unter dem Vorsitz eines dieser
-                                                  Beamten mit der einstweiligen Führung der
-                                                  Verwaltung zu betrauen. </p>
-                                                <p type="legal_section"><label>2.</label> Die
-                                                  Bestimmung des Art. 81, Abs. 2 und 3, finden in
-                                                  diesem Falle sinngemäße Anwendung. <note
-                                                  type="comment">Die Bestimmung des Artikels 81,
-                                                  Abs. 2, findet in diesem Falle sinngemäße
-                                                  Anwendung. Die Mitglieder der Beamtenregierung
-                                                  werden vom Bundespräsidenten vor Antritt ihres
-                                                  Amtes angelobt. </note></p>
-                                          </div>
-                                          <div type="article">
-                                                <head>Art. 83. </head>
-                                                <p type="legal_section"><label>1.</label> Versagt
-                                                  der Bundestag der Bundesregierung oder einzelnen
-                                                  ihrer Mitglieder durch ausdrückliche Entschließung
-                                                  das Vertrauen, so ist eine neue Bundesregierung zu
-                                                  bestellen oder der betreffende Bundesminister
-                                                  seines Amtes zu entheben. <note type="comment"
-                                                  >Versagt der Bundestag oder der Bundesrat der
-                                                  Bundesregierung u.s.w.</note></p>
-                                                <p type="legal_section"><pb facs="#facs_31" n="31"
-                                                  xml:id="img_0031" break="yes"/><fw type="pageNum"
-                                                  >27</fw><label>2.</label> Zu einem Beschlüsse des
-                                                  Bundestages, mit dem das Vertrauen versagt wird,
-                                                  ist die Anwesenheit der Hälfte der Mitglieder des
-                                                  Bundestages erforderlich. Doch ist, wenn es ein
-                                                  Fünftel der anwesenden Mitglieder verlangt, die
-                                                  Abstimmung auf den zweitnächsten Werktag zu
-                                                  vertagen. Eine neuerliche Vertagung der Abstimmung
-                                                  kann nur auf Beschluß des Bundestages erfolgen.
-                                                  <note type="comment">Zu dem Beschlüsse eines der
-                                                  beiden Häuser, mit dem das Vertrauen versagt wird,
-                                                  ist die Anwesenheit der Hälfte der Mitglieder des
-                                                  betreffenden Hauses erforderlich. Doch ist, wenn
-                                                  es ein Fünftel der anwesenden Mitglieder verlangt,
-                                                  die Abstimmung auf den nächsten Werktag zu
-                                                  vertagen. Eine neuerliche Vertagung der Abstimmung
-                                                  kann nur auf Beschluß des betreffenden Hauses
-                                                  erfolgen.</note></p>
-                                                <p type="legal_section"><label>3.</label> Die
-                                                  gesamte Bundesregierung und ihre einzelnen
-                                                  Mitglieder werden in den gesetzlich bestimmten
-                                                  Fällen oder aut ihren Wunsch vom Bundespräsidenten
-                                                  ihres Amtes enthoben. </p>
-                                          </div>
-                                          <div type="article">
-                                                <head>Art. 84. </head>
-                                                <p type="legal_section">Die Mitglieder der
-                                                  Bundesregierung sind gemäß Art. 158 der
-                                                  Bundesverfassung dem Bundestage verantwortlich. </p>
-                                                <note type="comment">Die Mitglieder der
-                                                  Bundesregierung sind gemäß Art. 158 der
-                                                  Bundesverfassung dem Bundestage und dem Bundesrate
-                                                  verantwortlich.</note>
-                                          </div>
-                                          <div type="article">
-                                                <head>Art. 85. </head>
-                                                <p type="legal_section"><label>1.</label> Zur
-                                                  Besorgung der Geschäfte der Bundesverwaltung sind
-                                                  die Bundeskanzlei und die jedem Bundesminister
-                                                  unterstellten Bundesministerien sowie die diesen
-                                                  unterstellten Behörden, Ämter und Anstalten
-                                                  berufen. </p>
-                                                <p type="legal_section"><label>2.</label> Die Zahl
-                                                  der Bundesministerien und deren Aufträge und
-                                                  Vollmachten werden durch Bundesgesetz bestimmt.
-                                                </p>
-                                          </div>
-                                          <div type="article">
-                                                <head>Art. 86. </head>
-                                                <p type="legal_section"><label>1.</label> Die
-                                                  Bundeskanzei wird vom Bundeskanzler geleitet;
-                                                  jedes Bundesministerium steht unter der Leitung
-                                                  eines Bundesministers. </p>
-                                                <p type="legal_section"><label>2.</label> Der
-                                                  Bundeskanzler und die Bundesminister können
-                                                  ausnahmsweise auch mit der Führung eines zweiten
-                                                  Bundesministeriums betraut werden. Ebenso kann dem
-                                                  Vizekanzler die Leitung eines Bundesministeriums
-                                                  übertragen werden. </p>
-                                          </div>
-                                          <div type="article">
-                                                <head>Art. 87. </head>
-                                                <p type="legal_section">In besonderen Fällen kann
-                                                  die Bestellung von Bundesministern auch ohne
-                                                  gleichzeitige Betrauung mit der Führung eines
-                                                  Bundesministeriums erfolgen. </p>
-                                          </div>
-                                          <div type="article">
-                                                <head>Art. 88. </head>
-                                                <p type="legal_section">In jedem Bundesministerium
-                                                  wird dem verantwortlichen Leiter zur Wahrung der
-                                                  Einheit und Stetigkeit des Geschäftsganges ein
-                                                  Beamter beigegeben, der den Amtstitel eines
-                                                  Ministerialdirektors führt.</p>
-                                          </div>
-                                    </div>
-                                    <div type="section">
-                                          <pb facs="#facs_32" n="32" xml:id="img_0032" break="yes"/>
-                                          <fw type="pageNum">28</fw>
-                                          <head>3. Das Bundesheer. </head>
-                                          <div type="article">
-                                                <head>Art. 89. </head>
-                                                <p type="legal_section"><label>1.</label> Das
-                                                  Bundesheer ist ein Berufsheer; es wird auf dem
-                                                  Wege freiwilliger Verpflichtung aufgestellt und
-                                                  ergänzt. </p>
-                                                <p type="legal_section"><label>2.</label> Im Falle
-                                                  eines feindlichen Angriffes auf das Bundesgebiet
-                                                  kann die Bundesversammlung im ganzen Bundesgebiet
-                                                  oder in einem Teile desselben sämtliche
-                                                  wehrfähigen Bundesangehörigen oder einzelne
-                                                  Jahrgänge zur Verteidigung des Landes aufbieten.
-                                                  <note type="comment">Fällt weg.</note></p>
-                                                <p type="legal_section"><label>3.</label> Das Nähere
-                                                  bestimmt das Wehrgesetz. <note type="comment"
-                                                  >Fällt weg.</note></p>
-                                          </div>
-                                          <div type="article">
-                                                <head>Art. 90. </head>
-                                                <p type="legal_section"><label>1.</label> Das
-                                                  Bundesheer ist, soweit die gesetzmäßige
-                                                  bürgerliche Gewalt seine Mitwirkung in Anspruch
-                                                  nimmt, zum Schutz der verfassungsmäßigen
-                                                  Einrichtungen sowie zur Aufrechterhaltung der
-                                                  Ordnung und Sicherheit im Innern überhaupt und zur
-                                                  Hilfeleistung bei Elementarereignissen und
-                                                  Unglücksfällen außergewöhnlichen Umfanges berufen. </p>
-                                                <p type="legal_section"><label>2.</label> Dem
-                                                  Bundesheer obliegt der Schutz der Grenzen der
-                                                  Republik </p>
-                                          </div>
-                                          <div type="article">
-                                                <head>Art. 91. </head>
-                                                <p type="legal_section"><label>1.</label> Insoweit
-                                                  nicht durch die Verfassung und durch das
-                                                  Wehrgesetz die unmittelbare Verfügung über das
-                                                  Bundesheer der Bundesversammlung vorbehalten ist,
-                                                  wird mit der Verfügung die gesamte Bundesregierung
-                                                  oder innerhalb der von dieser erteilten
-                                                  Ermächtigung der zuständige Bundesminister
-                                                  betraut. <note type="comment">Über das Heer
-                                                  verfügt die Bundesversammlung. Insoweit dieser
-                                                  nicht durch das Wehrgesetz die unmittelbare
-                                                  Verfügung vorbehalten ist, wird mit der Verfügung
-                                                  die Bundesregierung oder innerhalb der von dieser
-                                                  erteilten Ermächtigung der zuständige
-                                                  Bundesminister betraut. </note></p>
-                                                <p type="legal_section"><label>2.</label> Inwieweit
-                                                  auch die Behörden der Länder und Gemeinden die
-                                                  Mitwirkung des Bundesheeres zu den im Art. 90,
-                                                  Abs. 1, erwähnten Zwecken unmittelbar in Anspruch
-                                                  nehmen können, bestimmt das Wehrgesetz: </p>
-                                          </div>
-                                          <div type="article">
-                                                <head>Art. 92. </head>
-                                                <p type="legal_section">Durch Bundesgesetz wird
-                                                  geregelt, inwieweit die Länder bei der Ergänzung,
-                                                  Verpflegung und Unterbringung des Heeres und der
-                                                  Beistellung seiner sonstigen Erfordernisse
-                                                  mitwirken. </p>
-                                          </div>
-                                    </div>
-                              </div>
-                              <div type="section">
-                                    <head>Zweiter Abschnitt.</head>
-                                    <head>Von der Gerichtsbarkeit des Bundes.</head>
-                                    <div type="article">
-                                          <head>Art. 93. </head>
-                                          <p type="legal_section"><label>1.</label> Die Verfassung
-                                                und Zuständigkeit der Gerichte wird durch
-                                                Bundesgesetz festgesetzt.</p>
-                                          <p type="legal_section"><pb facs="#facs_33" n="33"
-                                                  xml:id="img_0033" break="yes"/><fw type="pageNum"
-                                                  >29</fw><label>2.</label> Die Urteile und
-                                                Erkenntnisse werden im Namen der Republik Österreich
-                                                verkündet und ausgefertigt </p>
-                                    </div>
-                                    <div type="article">
-                                          <head>Art. 94. </head>
-                                          <p type="legal_section"><label>1.</label> Niemand darf
-                                                seinem ordentlichen Richter entzogen werden. </p>
-                                          <p type="legal_section"><label>2.</label> Ausnahmsgerichte
-                                                sind nur in den im Gesetz vorausbestimmten Fällen
-                                                zulässig. Ob ein solcher Fall vorliegt und wann die
-                                                Wirksamkeit des Ausnahmsgerichtes aufzuhören hat,
-                                                wird, abgesehen von den in der Strafprozeßordnung
-                                                geregelten Fällen, von der Bundesregierung
-                                                festgesetzt. Die Bundesregierung ist verpflichtet,
-                                                jeden solchen Beschluß ungesäumt den Bundestag und
-                                                dem Bundesrat vorzulegen und auf Beschluß eines der
-                                                beiden Häuser sofort außer Kraft zu setzen. </p>
-                                          <p type="legal_section"><label>3.</label> Das Verfahren
-                                                wegen Delikten gegen das Völkerrecht wird dem
-                                                Verfassungsgerichtshof übertragen. </p>
-                                    </div>
-                                    <div type="article">
-                                          <head>Art. 95. </head>
-                                          <p type="legal_section">Die Militärgerichtsbarkeit ist —
-                                                außer für Kriegszeiten — aufzuheben. Das Nähere
-                                                regelt ein Bundesgesetz. </p>
-                                    </div>
-                                    <div type="article">
-                                          <head>Art. 96. </head>
-                                          <p type="legal_section">Die Todesstrafe im ordentlichen
-                                                Verfahren ist abgeschafft. </p>
-                                    </div>
-                                    <div type="article">
-                                          <head>Art. 97. </head>
-                                          <p type="legal_section"><label>1.</label> Die Richter
-                                                werden, soferne diese Verfassung oder die
-                                                Gerichtsverfassungsgesetze nichts anderes bestimmen,
-                                                auf Antrag der Bundesregierung vom Bundespräsidenten
-                                                oder auf Grund seiner Ermächtigung vom zuständigen
-                                                Bundesminister ernannt. </p>
-                                          <p type="legal_section"><label>2.</label> Die
-                                                Bundesregierung stellt ihre Anträge auf Grund von
-                                                Besetzungsvorschlägen von Kollegien, die durch das
-                                                Gerichtsverfassungsgesetz eingerichtet werden. </p>
-                                          <p type="legal_section"><label>3.</label> In diese
-                                                Kollegien entsenden die durch das
-                                                Gerichtsverfassungsgesetz bezeichneten richterlichen
-                                                Senate zwei Drittel der Mitglieder. Das letzte
-                                                Drittels wird, wenn es sich um Richter der ersten
-                                                oder zweiten Instanz handelt, von den betreffenden
-                                                Landtagen, wenn es sich um Richter der dritten
-                                                Instanz oder des Verwaltungsgerichtshofes handelt,
-                                                vom Bundestage entsendet. </p>
-                                          <p type="legal_section"><label>4.</label> Der
-                                                Besetzungsvorschlag hat, wenn genügend Bewerber
-                                                vorhanden sind, mindestens drei Personen, wenn aber
-                                                mehr als eine Stelle zu besetzen ist, mindestens
-                                                doppelt soviel Personen zu umfassen, als Richter zu
-                                                ernennen sind. Er ist dem<pb facs="#facs_34" n="34"
-                                                  xml:id="img_0034" break="yes"/><fw type="pageNum"
-                                                  >30</fw>zuständigen Bundesminister vorzulegen und
-                                                von ihm an die Bundesregierung zu leiten. </p>
-                                    </div>
-                                    <div type="article">
-                                          <head>Art. 98. </head>
-                                          <p type="legal_section"><label>1.</label> Die Richter sind
-                                                in Ausübung ihres richterlichen Amtes unabhängig. </p>
-                                          <p type="legal_section"><label>2.</label> In Ausübung
-                                                seines richterlichen Amtes befindet sich ein Richter
-                                                bei Besorgung aller ihm nach dem Gesetze und der
-                                                Geschäftsverteilung zustehenden gerichtlichen
-                                                Geschäfte, mit Ausschluß jener
-                                                Justizverwaltungssachen, die nicht nach Vorschrift
-                                                des Gesetzes durch Senate oder Kommissionen zu
-                                                erledigen sind. </p>
-                                    </div>
-                                    <div type="article">
-                                          <head>Art. 99. </head>
-                                          <p type="legal_section"><label>1. </label>Im
-                                                Gerichtsverfassungsgesetz wird eine Altersgrenze
-                                                bestimmt, mit deren Vollendung die Richter in den
-                                                dauernden Ruhestand zu versetzen sind. </p>
-                                          <p type="legal_section"><label>2.</label> Im übrigen
-                                                dürfen Richter nur in den vom Gesetze
-                                                vorgeschriebenen Fällen und Formen und auf Grund
-                                                eines förmlichen richterlichen Erkenntnisses ihres
-                                                Amtes entsetzt oder wider ihren Willen an eine
-                                                andere Stelle oder in den Ruhestand versetzt werden.
-                                                Diese Bestimmungen finden jedoch auf Übersetzungen
-                                                und Versetzungen in den Ruhestand, die durch
-                                                Veränderungen in der Verfassung der Gerichte nötig
-                                                werden, keine Anwendung. In einem solchen Falle
-                                                stellt das Gesetz fest, innerhalb welchen Zeitraumes
-                                                Richter ohne die sonst vorgeschriebenen
-                                                Förmlichkeiten an eine andere Stelle oder in den
-                                                Ruhestand versetzt werden können. </p>
-                                          <p type="legal_section"><label>3.</label> Richter dürfen
-                                                nur durch Verfügung des Gerichtsvorstandes oder der
-                                                höheren Gerichtsbehörde unter gleichzeitiger
-                                                Verweisung der Sache an das zuständige Gericht
-                                                zeitweise vom Amte enthoben werden. </p>
-                                    </div>
-                                    <div type="article">
-                                          <head>Art. 100. </head>
-                                          <p type="legal_section"><label>1.</label> Die Prüfung der
-                                                Gültigkeit gehörig kundgemachter Gesetze steht den
-                                                Gerichten nicht zu. </p>
-                                          <p type="legal_section"><label>2.</label> Hat ein Gericht
-                                                gegen die Anwendung einer Verordnung aus dem Grunde
-                                                der Gesetzwidrigkeit Bedenken, so hat es das
-                                                Verfahren zu unterbrechen und den Antrag auf
-                                                Kassation dieser Verordnung beim
-                                                Verfassungsgerichtshof zu stellen. </p>
-                                          <p type="legal_section"><label>3.</label> Die Bestimmungen
-                                                über das Prüfungsrecht des Verfassungsgerichtshofes
-                                                enthält das siebente Hauptstück.</p>
-                                    </div>
-                                    <div type="article">
-                                          <pb facs="#facs_35" n="35" xml:id="img_0035" break="yes"/>
-                                          <fw type="pageNum">31</fw>
-                                          <head>Art. 101. </head>
-                                          <p type="legal_section"><label>1.</label> Die
-                                                Verhandlungen in Zivil- und Strafrechtssachen vor
-                                                dem erkennenden Gericht sind mündlich und
-                                                öffentlich. Ausnahmen bestimmt das Gesetz. </p>
-                                          <p type="legal_section"><label>2.</label> Im
-                                                Strafverfahren gilt der Anklageprozeß. </p>
-                                    </div>
-                                    <div type="article">
-                                          <head>Art. 102. </head>
-                                          <p type="legal_section">Bei den mit schweren Strafen
-                                                bedrohten Verbrechen, die das Gesetz zu bezeichnen
-                                                hat, sowie bei allen politischen Verbrechen und
-                                                Vergehen entscheiden Geschworene über die Schuld des
-                                                Angeklagten. </p>
-                                    </div>
-                                    <div type="article">
-                                          <head>Art. 103. </head>
-                                          <p type="legal_section">Als Oberste Instanz in Zivil- und
-                                                Strafrechtssachen besteht der Oberste Gerichtshof in
-                                                Wien. </p>
-                                    </div>
-                                    <div type="article">
-                                          <head>Art. 104. </head>
-                                          <p type="legal_section">Amnestien wegen gerichtlich
-                                                strafbarer Handlungen werden durch Bundesgesetz
-                                                erteilt. </p>
-                                    </div>
-                                    <div type="article">
-                                          <head>Art. 105. </head>
-                                          <p type="legal_section">Wenn eine Verwaltungsbehörde über
-                                                Privatrechtsansprüche zu entscheiden hat, steht es
-                                                den durch diese Entscheidung Benachteiligten frei,
-                                                wenn nicht im Gesetze etwas anderes bestimmt ist,
-                                                Abhilfe gegen die andere Partei im Rechtswege zu
-                                                suchen. </p>
-                                          <p type="legal_section">Absatz 2 fällt weg.<note
-                                                  type="comment">2. In den Angelegenheiten der
-                                                  Bodenreform steht den aus Richtern,
-                                                  Verwaltungsbeamten und Sachverständigen
-                                                  bestehenden Kommissionen das ausschließliche
-                                                  Entscheidungsrecht zu.</note></p>
                                     </div>
                               </div>
                         </div>
@@ -2606,12 +1900,8 @@
                                           Vorgesetzte aller Landesangestellten und hat<pb
                                                 facs="#facs_38" n="38" xml:id="img_0038" break="yes"
                                                 /><fw type="pageNum">35</fw>für einen einheitlichen
-                                          und geregelten Geschäftsgang' in sämtlichen Zweigen der
-                                          Landesverwaltung' zu sorgen. </p>
-                                    <note type="comment">Zur Leitung des gesamten inneren
-                                          Dienstbetriebes der Landesregierung wird ein dem Stande
-                                          der rechtskundigen Verwaltungsbeamten angehörender Beamter
-                                          bestellt.</note>
+                                          und geregelten Geschäftsgang in sämtlichen Zweigen der
+                                          Landesverwaltung zu sorgen. </p>
                               </div>
                               <div type="article">
                                     <head>Art. 114. </head>
@@ -2634,7 +1924,6 @@
                               <fw type="pageNum">37</fw>
                               <head>Fünftes Hauptstück.</head>
                               <head> Von den Gemeinden. </head>
-                              <note type="comment">Das ganze fünfte Hauptstück fällt weg. </note>
                               <div type="article">
                                     <head>Art. 116. </head>
                                     <p type="legal_section"><label>1.</label> Jedes Land ordnet im
@@ -2834,13 +2123,6 @@
                                           ferner der Gebarung der von Organen des Bundes oder der
                                           Länder verwalteten Stiftungen, Fonds und Anstalten ist der
                                           Rechnungshof berufen. </p>
-                                    <note type="comment">Zur Überprüfung der Gebarung in der
-                                          gesamten Staatswirtschaft des Bundes und der Länder,
-                                          ferner der Gebarung der von Organen des Bundes- oder der
-                                          Länder verwalteten Stiftungen, Fonds und Anstalten ist der
-                                          Rechnungshof berufen. Er kann auch die Gebarung von
-                                          Unternehmungen überprüfen, an denen der Bund oder die
-                                          Länder finanziell beteiligt sind. </note>
                               </div>
                               <div type="article">
                                     <head>Art. 128. </head>
