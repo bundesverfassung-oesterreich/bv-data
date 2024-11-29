@@ -100,18 +100,19 @@
         <revisionDesc status="created">
             <change when="2024-11-09" who="#cfh">document automatically created</change>
             <change when="2024-11-21" who="#t_voegtlin">Gliederung</change>
+            <change when="2024-11-28" who="#t_voegtlin">Gegenlesen angefangen</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3068" lry="4835" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0003/full/full/0/default.jpg" width="3068px" height="4835px"/></surface><surface ulx="0" uly="0" lrx="3072" lry="4867" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0004/full/full/0/default.jpg" width="3072px" height="4867px"/></surface><surface ulx="0" uly="0" lrx="3055" lry="4836" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0005/full/full/0/default.jpg" width="3055px" height="4836px"/></surface><surface ulx="0" uly="0" lrx="3058" lry="4805" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0006/full/full/0/default.jpg" width="3058px" height="4805px"/></surface><surface ulx="0" uly="0" lrx="3048" lry="4805" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0007/full/full/0/default.jpg" width="3048px" height="4805px"/></surface><surface ulx="0" uly="0" lrx="3053" lry="4800" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0008/full/full/0/default.jpg" width="3053px" height="4800px"/></surface><surface ulx="0" uly="0" lrx="3058" lry="4825" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0009/full/full/0/default.jpg" width="3058px" height="4825px"/></surface><surface ulx="0" uly="0" lrx="3043" lry="4829" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0010/full/full/0/default.jpg" width="3043px" height="4829px"/></surface><surface ulx="0" uly="0" lrx="3066" lry="4898" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0001_1/full/full/0/default.jpg" width="3066px" height="4898px"/></surface><surface ulx="0" uly="0" lrx="3066" lry="4924" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0011/full/full/0/default.jpg" width="3066px" height="4924px"/></surface><surface ulx="0" uly="0" lrx="3041" lry="4830" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0012/full/full/0/default.jpg" width="3041px" height="4830px"/></surface><surface ulx="0" uly="0" lrx="3042" lry="4803" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0013/full/full/0/default.jpg" width="3042px" height="4803px"/></surface><surface ulx="0" uly="0" lrx="3038" lry="4850" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0014/full/full/0/default.jpg" width="3038px" height="4850px"/></surface><surface ulx="0" uly="0" lrx="3014" lry="4851" xml:id="facs_15"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0015/full/full/0/default.jpg" width="3014px" height="4851px"/></surface><surface ulx="0" uly="0" lrx="2958" lry="4789" xml:id="facs_16"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0017/full/full/0/default.jpg" width="2958px" height="4789px"/></surface><surface ulx="0" uly="0" lrx="2972" lry="4773" xml:id="facs_17"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0018/full/full/0/default.jpg" width="2972px" height="4773px"/></surface></facsimile>
     <text type="Sitzungsprotokoll">
         <body><div type="main">
                 <p><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>Protokoll der 8. Sitzung
-                    des Unterausschusses des Verfassungsausschusses von 21.1111.1520. Beginn 10 Uhr
-                    30 Vormittag. Anresend: Dr. Odtt Bauer als Vorsitzender Dr. Jesef Aigner
-                    Heinrich Clessin Jedck Fink Karl Leuthner Dr. Ienaz Seipel Staatssekretär Dr.
-                    Michsel Keyr vom der Stastskenzler: Sekticasret Dr. Auge Jàchl Sektionsrat Dr.
-                    Eebert Menalicher Ministeriolvizesekretär Dr. Kurt Frieberger als Schriftfuhrer
-                    Prof. Dr. Haas Kels en als Experte des Verfassuagsausschüsses.<pb facs="#facs_3"
+                    des Unterausschusses des Verfassungsausschusses von 21.VIII.1920. Beginn 10 Uhr
+                    30 Vormittag. Anwesend: Dr. Otto Bauer als Vorsitzender Dr. Josef Aigner
+                    Heinrich Clessin Jodok Fink Karl Leuthner Dr. Ignaz Seipel Staatssekretär Dr.
+                    Michael Keyr von der Staatskanzlei: Sektionsrat Dr. Hugo Jäckl Sektionsrat Dr.
+                    Egbert Mennlicher Ministerialvizesekretär Dr. Kurt Frieberger als Schriftführer
+                    Prof. Dr. Hans Kelsen als Experte des Verfassungsausschusses.<pb facs="#facs_3"
                         n="3" xml:id="img_0003" break="yes"/><fw type="pageNum">- 2 -</fw> Der
                     Vorsitzende leitet die Beratung über den 4. Abschnitt des Linzer Entwurfes „Von
                     der Gesetzgebung und Vollziehung der Länder“ ein und bemerkt zu einer Frage, ob
@@ -120,17 +121,18 @@
                     die Bedingungen des Wahlrechtes nicht enger gezogen werden dürfen als in der
                     Wahlordnung zum Nationalrat, es wurden daraufhin folgende Formulierungen
                     beschlossen:</p>
-                <p> „Art. 85. (1) Die gesetzgebende Gewalt der Länder wird durch die Landtage
-                    ausgeübt, deren Mitglieder auf Grund des gleichen, geheimen, persönlichen und
-                    unmittelbaren Verhältniswahlrechtes aller nach den Land tagswahlordnungen
-                    wahlberechtigten männlichen und weiblichen Bundesangehörigen gewählt werden. (2)
-                    Die Landtagwahlordnungen dürfen die Bedingungen des aktiven und passiven
-                    Wahlrechtes nicht enger ziehen als dies in der Wahlordnung zum Nationalrat der
-                    Fall ist.</p>
-                <p> „Art. 86. (1) Die Mitglieder des Landtages genießen die gleiche Immunität wie
-                    die Mitglieder des Nationalrates, wobei die Bestimmungen des Art. 43 sinngemäß
-                    Anwendung finden. (2) Die Bestimmungen der Art. 24 und 25 gelten auch für die
-                    Sitzungen der Landtage und ihrer Ausschüsse. Bei Beratung des Art. 87 verweist
+                <p type="legal_section"> „Art. 85. (1) Die gesetzgebende Gewalt der Länder wird
+                    durch die Landtage ausgeübt, deren Mitglieder auf Grund des gleichen, geheimen,
+                    persönlichen und unmittelbaren Verhältniswahlrechtes aller nach den
+                    Landtagswahlordnungen wahlberechtigten männlichen und weiblichen
+                    Bundesangehörigen gewählt werden. (2) Die Landtagwahlordnungen dürfen die
+                    Bedingungen des aktiven und passiven Wahlrechtes nicht enger ziehen als dies in
+                    der Wahlordnung zum Nationalrat der Fall ist."</p>
+                <p type="legal_section"> „Art. 86. (1) Die Mitglieder des Landtages genießen die
+                    gleiche Immunität wie die Mitglieder des Nationalrates, wobei die Bestimmungen
+                    des Art. 43 sinngemäß Anwendung finden. (2) Die Bestimmungen der Art. 24 und 25
+                    gelten auch für die Sitzungen der Landtage und ihrer Ausschüsse." </p> 
+            <p>     Bei Beratung des Art. 87 verweist
                     der Vorsitzende auf die Meinungsverschiedenheiten bezüglich der Trennung der
                     Funktionen des Vorsitzenden im Landtage und des Chefs der Landesregierung. Abg.
                     Seipel spricht sich für möglichste Freiheit der Landesgesetzgebung aus;
@@ -144,18 +146,17 @@
                     Gebiete der Vollziehung von Bundesangelegenheiten müsse der Grundsatz absoluter
                     Unterordnung herrschen.</p>
                 <p> Staatssekretär Dr. Mayr teilt mit, daß die nicht der sozialdemokratischen Partei
-                    angehörenden Ländervertreter in Salzburg noch nicht für 115) Art. 95 B.-VG. ff.
-                    327 8. Sitzung die Trennung waren oder die Regelung den Ländern überlassen
-                    wollten, in Linz sprachen sich dagegen alle für die ungeteilte Funktion aus,
-                    besonders da sich die Teilung in Kärnten nicht bewährt haben soll. Der
-                    Vorsitzende meint, da die Länder den Präsidenten des Landtages als Oberhaupt des
-                    Gliedstaates auffassen, müßte man analog dem Argument der Christlichsozialen zur
-                    Stellung des Bundespräsidenten vermeiden, den Landeshauptmann zum
-                    Landtagspräsidenten zu machen. Auch könne das Oberhaupt eines Staates doch nicht
-                    von der Bundesregierung Weisungen entgegennehmen, wie dies der Chef der
-                    Landesregierung muß. Auch die Länder dürften das Bedürfnis nach einer Trennung
-                    der Funktion haben, die allein der Würde entspricht und die einzig richtige und
-                    zweckmäßige Konstruktion ist.</p>
+                    angehörenden Ländervertreter in Salzburg noch nicht für die Trennung waren oder
+                    die Regelung den Ländern überlassen wollten, in Linz sprachen sich dagegen alle
+                    für die ungeteilte Funktion aus, besonders da sich die Teilung in Kärnten nicht
+                    bewährt haben soll. Der Vorsitzende meint, da die Länder den Präsidenten des
+                    Landtages als Oberhaupt des Gliedstaates auffassen, müßte man analog dem
+                    Argument der Christlichsozialen zur Stellung des Bundespräsidenten vermeiden,
+                    den Landeshauptmann zum Landtagspräsidenten zu machen. Auch könne das Oberhaupt
+                    eines Staates doch nicht von der Bundesregierung Weisungen entgegennehmen, wie
+                    dies der Chef der Landesregierung muß. Auch die Länder dürften das Bedürfnis
+                    nach einer Trennung der Funktion haben, die allein der Würde entspricht und die
+                    einzig richtige und zweckmäßige Konstruktion ist.</p>
                 <p> Dr. Aigner erinnert daran, daß in Linz auch die sozialdemokratischen Vertreter
                     eine Abänderung, wie sie hier vorgeschlagen wird, als reformatio in peius nur
                     unter dringendsten Umständen zugeben wollten. Jetzt haben die Landeshauptmänner
@@ -206,27 +207,28 @@
                     Landesamtsdirektor vorsehen müsse, der für die Vollziehung der Bundesgesetze
                     verantwortlich ist.</p>
                 <p> Bei Erörterung des Art. 87 Abs. 1 Linzer Fassung wird auf Grund eines Antrages
-                    Dr. Seipels festgesetzt, daß bei Landesgesetzen 11s) die Beurkundung und die
+                    Dr. Seipels festgesetzt, daß bei Landesgesetzen die Beurkundung und die
                     Gegenzeichnung nach den Bestimmungen der Landesverfassung und die Kundmachung
                     durch die Landesregierung im Landesgesetzblatte zu erfolgen hat. Der zweite
                     Absatz wird ohne Anderung angenommen.</p>
-                <p> „Art. 87 (1) Zu einem Landesgesetz ist der Beschluß des Landtages, die
-                    Beurkundung und Gegenzeichnung nach den Bestimmungen der Landesverfassung und
-                    die Kundmachung durch die Landesregierung im Landesgesetzblatt erforderlich.</p>
-                <p> (2) Insoweit ein Landesgesetz bei der Vollziehung die Mitwirkung von
-                    Bundesbehörden vorsieht, muß zu dieser Mitwirkung die Zustimmung der
-                    Bundesbehörden eingeholt werden. Vor Erteilung der Zustimmung kann ein solches
-                    Landesgesetz nicht kundgemacht werden.</p>
+                <p type="legal_section"> „Art. 87 (1) Zu einem Landesgesetz ist der Beschluß des
+                    Landtages, die Beurkundung und Gegenzeichnung nach den Bestimmungen der
+                    Landesverfassung und die Kundmachung durch die Landesregierung im
+                    Landesgesetzblatt erforderlich.</p>
+                <p type="legal_section"> (2) Insoweit ein Landesgesetz bei der Vollziehung die
+                    Mitwirkung von Bundesbehörden vorsieht, muß zu dieser Mitwirkung die Zustimmung
+                    der Bundesbehörden eingeholt werden. Vor Erteilung der Zustimmung kann ein
+                    solches Landesgesetz nicht kundgemacht werden."</p>
                 <p> Bei Besprechung des Art. 88 verweist der Vorsitzende, als <pb facs="#facs_7"
                         n="7" xml:id="img_0007" break="yes"/><fw type="pageNum">- 6 -</fw> von
-                    christlichsozialer Seite eine Verkürzung der Frist gewünscht wird. auf die
+                    christlichsozialer Seite eine Verkürzung der Frist gewünscht wird, auf die
                     Fassung des Art. 84 (904 d. B.); hier sei ein besonderer Fall vorgesehen, in dem
                     die Zustimmung des Bundesrates als des gemeinsamen Organes der Länder
                     erforderlich ist. Dr. Seipel spricht sich im Interesse der Selbständigkeit der
                     Länder dagegen aus, daß ihre eigene Gesetzgebung durch die Mitbeschlußfassung
                     der anderen Länder eingeschränkt werde, eher ließe sich eine Remedur durch
                     Volksabstimmung denken. Abg. Clessin sieht eine größere Einschränkung der
-                    Landesselbständigkeit darin, daß bei möglicher Gefährdung der Bundesinteressen
+                    Länderselbständigkeit darin, daß bei möglicher Gefährdung der Bundesinteressen
                     die Bundesbevölkerung zu entscheiden hätte. Wichtiger erscheint ihm, daß jeder
                     Gesetzesbeschluß der Bundesregierung vorgelegt werde; damit diese noch vor
                     Inkrafttreten in der Lage ist, eine Klage beim Verfassungsgerichtshof
@@ -243,8 +245,8 @@
                     betreffenden Staatsamt“, von welchem Tag an die Frist mit vier Wochen zu
                     bemessen wäre. Sekt.-Rat Dr. Mannlicher regt an, ob nicht zwecks raschen
                     Vollzuges die Bundesregierung auch erklären könne, daß sie keinen Einspruch
-                    erhebt, woraufhin das Gesetz sofort kundgemacht werden könnte 121). Prof. Dr.
-                    Kelsen findet den Vorzug gegen den gegenwärtigen Zu<pb facs="#facs_8" n="8"
+                    erhebt, woraufhin das Gesetz sofort kundgemacht werden könnte. Prof. Dr. Kelsen
+                    findet den Vorzug gegen den gegenwärtigen Zu<pb facs="#facs_8" n="8"
                         xml:id="img_0008" break="no"/><fw type="pageNum">- 7 -</fw>stand darin, daß
                     jetzt eine Klage erst nach Kundmachung möglich ist, während künftig im Intersse
                     der formellen Selbständigkeit schon vorher geltend gemacht werden kann.</p>
@@ -255,10 +257,9 @@
                 <p> Angenommen wird ferner ein Antrag des Abg. Fink, „vom Tage des Einlangens des
                     Gesetzesbeschlusses bei der Staatsregierung“. Die Staatskanzlei wird um
                     Formulierung des Gedankens ersucht, da analog dem Einspruchsverfahren beim
-                    Bundesrat im Sinne der Anregung 120) Gleichartig heute Art. 98 B.-VG. 121) Vgl.
-                    Art. 99 B.-VG. 330 Protokolle des Unterausschusses Dr. Mannlicher’s gesagt wird,
-                    daß der Gesetzesbeschluß kundgemacht werden kann, wenn die Staatsregierung vor
-                    Ablauf der Frist erklärt, daß sie keinen Einspruch erhebt.</p>
+                    Bundesrat im Sinne der Anregung Dr. Mannlicher’s gesagt wird, dass der
+                    Gesetzesbeschluß kundgemacht werden kann, wenn die Staatsregierung vor Ablauf
+                    der Frist erklärt, daß sie keinen Einspruch erhebt.</p>
                 <p> Abgelehnt wird der Antrag des Abg. Clessin, vom Einspruch abzusehen und nur die
                     Anfechtung beim Verfassungsgerichtshof zu belassen. Beschlossen wird, daß der
                     Gesetzesbeschluß, gegen den Einspruch erhoben wurde, nur dann kundgemacht werden
@@ -272,10 +273,13 @@
                     Entwurfes (904 d. B.) als Art. 89 eingeschaltet:<pb facs="#facs_9" n="9"
                         xml:id="img_0009" break="yes"/></p>
                 <fw type="pageNum">- 8 -</fw>
-                <p>(2) Ein Landesverfassungsgesetz kann nur bei Anwesenheit der Hälfte aller
-                    Mitglieder des Landestages mit einer Mehrheit von zwei Dritteln aller
-                    abgegebenen Stimmen beschlossen werden.</p>
-                <p> Bei Artikel 90 wird trotz Widerspruches des Abg. Leuthner auf Antrag der
+                <p type="legal_section">(1) "Die durch Landesgesetz zu erlassende Landesverfassung
+                    kann - insoweit dadurch die Bundesverfassung nicht berührt wird - durch
+                    Landesgesetz abgeändert werden.</p>
+                <p type="legal_section">(2) Ein Landesverfassungsgesetz kann nur bei Anwesenheit der
+                    Hälfte aller Mitglieder des Landestages mit einer Mehrheit von zwei Dritteln
+                    aller abgegebenen Stimmen beschlossen werden."</p>
+                <p> Bei Artikel 990 wird trotz Widerspruches des Abg. Leuthner auf Antrag der
                     Christlichsozialen beschlossen, daß die Hälfte der Mitglieder anwesend sein und
                     der Beschluß mit einer Mehrheit von zwei Dritteln der abgegebenen Stimmen gefaßt
                     werden muß. Die Frist für die neue Ausschreibung wird mit 3 Wochen festgesetzt.
@@ -283,35 +287,35 @@
                     Landesgesetzgebung nicht durch die Fassung „der Landeshauptmann hat
                     auszuscheiden“ vorzugreifen, zu lauten: „Gemäß den Bestimmungen der
                     Landesverfassung binnen 3 Wochen die Neuwahlen auszuschreiben. </p>
-                <p> Bei der Erörterung des Art. 91 fordert Abg. Leuthner, daß in der Verfassung die
+                <p> Bei der Erörterung des Art. 91 fordert Abg. Leuthner, dass in der Verfassung die
                     Zahl der Landeshauptmann-Stellverteter auf einen beschränkt wird. Es geht nicht
-                    an, daß Vorarlberg mit weniger Einwohnern als der Bezirk Ottakring drei
-                    Landeshauptmann-Stellvertreter habe. Abg. Fink stellt fest, daß diese Zahl nur
+                    an, dass Vorarlberg mit weniger Einwohnern als der Bezirk Ottakring drei
+                    Landeshauptmann-Stellvertreter habe. Abg. Fink stellt fest, dass diese Zahl nur
                     erreicht worden sei, um nach dem Proporz auch der sozialdemokratischen Partei
                     die Stelle eines Stellvertreters zu geben. Abg. Leuthner ist der Anschauung, daß
                     eine größere Zahl nur während der Übergangszeit als eine Art gemeinsamer
                     Mitwirkung an einer Notstandsaktion aller Parteien nötig gewesen sei.
-                    Schließlich wird ein Antrag des Abg. Dr. Seipel, der gegen einen Ein122) Vgl.
-                    Art. 98 Abs. 3 B.-VG. 8. Sitzung 331 griff in die Rechte der Länder ist,
-                    folgender Wortlaut bestimmt: „aus dem Landeshauptmann und der erforderlichen
-                    Zahl von Stellvertretern und weiteren Mitgliedern“. Auch im drit<pb
-                        facs="#facs_10" n="10" xml:id="img_0010" break="no"/><fw type="pageNum">- 9
-                        -</fw>ten Absatz hat es zu lauten: „seine Stellvertreter“.</p>
+                    Schließlich wird ein Antrag des Abg. Dr. Seipel, der gegen einen Eingriff in die
+                    Rechte der Länder ist, folgender Wortlaut bestimmt: „aus dem Landeshauptmann und
+                    der erforderlichen Zahl von Stellvertretern und weiteren Mitgliedern“. Auch im
+                        drit<pb facs="#facs_10" n="10" xml:id="img_0010" break="no"/><fw
+                        type="pageNum">- 9 -</fw>ten Absatz hat es zu lauten: „seine
+                    Stellvertreter“.</p>
                 <p> Ferner wird beschlossen, in den Art. 91 als 3. Absatz den Abs. 3 des Art. 88
                     (904 d. B.) einzuschalten: „Die Mitglieder der Landesregierung müssen nicht dem
                     Landtag angehören, jedoch kann in die Landesregierung nur gewählt werden, wer
                     zum Landtag wählbar ist“ </p>
                 <p> Über Antrag des Abg. Dr. Seipel stellt der Vorsitzende den Artikel 26 des
-                    christlichsozialen Entwurfes (888 d. B.) zur Diskussion 123) Staatssekretär Dr.
-                    Mayr erklärt, daß die Aufzählung der Bundesbehörden im zweiten Abs. auf Antrag
-                    Dr. Enders eingeschaltet worden sei, da dieser die Agenden genau umgrenzt
-                    wünschte, für die selbständige Organe des Bundes aufgestellt werden sollen.
-                    Allerdings wären nach den zahlreichen Änderungen in den Art. 10 und 11 nötig *).
-                    Zur klaren Stilisierung würde es sich vielleicht empfehlen, aus dem Entwurf Dr.
-                    Renners die Ausdrücke „mittelbare und unmittelbare Bundesverwaltung“
-                    herüberzunehmen. Prof. Dr. Kelsen findet, daß die Fassung im Auftrage nicht alle
-                    Möglichkeiten erschöpft; auch die Worte „auf Grund von Gesetzen“ müßten
-                    eingeschaltet werden.</p>
+                    christlichsozialen Entwurfes (888 d. B.) zur Diskussion. Staatssekretär Dr. Mayr
+                    erklärt, dass die Aufzählung der Bundesbehörden im zweiten Abs. auf Antrag Dr.
+                    Enders eingeschaltet worden sei, da dieser die Agenden genau umgrenzt wünschte,
+                    für die selbständige Organe des Bundes aufgestellt werden sollen. Allerdings
+                    wären nach den zahlreichen Änderungen in den Art. 10 und 11 nötig. Zur klaren
+                    Stilisierung würde es sich vielleicht empfehlen, aus dem Entwurf Dr. Renners die
+                    Ausdrücke „mittelbare und unmittelbare Bundesverwaltung“ herüberzunehmen. Prof.
+                    Dr. Kelsen findet, daß die Fassung im Auftrage nicht alle Möglichkeiten
+                    erschöpft; auch die Worte „auf Grund von Gesetzen“ müssten eingeschaltet
+                    werden.</p>
                 <p> Der Vorsitzende stellt fest, daß Abs. 1 des Art. 26 (888 d. B.) unter Streichung
                     der Worte „im Bundesauftrag“ angenommen ist. Gegen den zweiten Absatz wendet er
                     ein, daß in Zukunft jede Schaffung neuer Bundesbehörden eine Verfassungsänderung
@@ -323,19 +327,15 @@
                         xml:id="img_0011" break="yes"/><fw type="pageNum">- 10 -</fw>
                 </p>
                 <p> „(2) Eigene Bundesbehörden können bis auf weiteres für folgende Angelegenheiten
-                    errichtet werden:“. Ein konkreter Vorschlag ist von der Staatskanzlei nach
+                    errichtet werden: “Ein konkreter Vorschlag ist von der Staatskanzlei nach
                     Verhandlungen mit den Staatsämtern vorzulegen.„Dem Bunde bleibt es vorbehalten,
                     auch in diesen Angelegenheiten die Landesregierungen mit der Ausübung der
                     vollziehenden Gewalt des Bundes zu beauftragen.“ </p>
-                <p> Der Vorsitzende macht hiebei aufmerksam, daß die Aufnahme 123) Art. 101 Abs. 3
-                    B.-VG. 124) Vgl. Art. 101 Abs. 2 B.-VG. 125) Vgl. S. 149 dies entspricht dem
-                    heute im Art. 102 B.-VG. niedergelegten Gedanken über die mittelbare
-                    Bundesverwaltung. *) Der obige nicht ganz schlüssige Text entspricht der
-                    Originalfassung der Protokolle. 332 Protokolle des Unterausschusses der
+                <p> Der Vorsitzende macht hiebei aufmerksam, daß die Aufnahme der
                     „Sicherheitspolizei in den Landeshauptstädten“, in die taxative Aufzählung auf
                     größtem Widerstand der sozialdemokratischen Partei stoßen werde. Sohin wird
                     beschlossen, daß Abs. 3 des Art. 26 (888 d. B.) zum nächsten Artikel gezogen
-                    wird und der Abs. 4 folgendermaßen zu lauten hat 126)</p>
+                    wird und der Abs. 4 folgendermaßen zu lauten hat:</p>
                 <p> „(Artikel 92) (4) In den Angelegenheiten der mittelbaren Bundesverwaltung sind
                     die Landesregierungen an die Weisungen der Bundesregierung sowie der einzelnen
                     Bundesämter gebunden; der administrative Instanzenzug geht in diesen
@@ -357,29 +357,28 @@
                 <p> Die Länder würden darin keine Erhöhung der Selbständigkeit des Landeshauptmannes
                     sondern ein Wiederaufleben der Statthalter sehen. Artikel 93 wird sodann mit
                     geringfügigen Änderungen angenommen und lautet: </p>
-                <p> „Artikel 93. (1) Der Landeshauptmann oder sein Stellvertreter vertreten das
-                    Land. Er trägt in den Angelegenheiten der mittelbaren Bundesverwaltung die
-                    Verantwortung gegenüber der Bundesregierung. Gemäß Artikel 152 der geltenden
-                    Bestimmung dieser Verantwortung steht die Immunität nicht im Wege *). </p>
-                <p> (2) Dem Landtage sind die Mitglieder der Landesregierung gemäß Artikel 152
-                    verantwortlich.“</p>
+                <p type="legal_section"> „Artikel 93. (1) Der Landeshauptmann oder sein
+                    Stellvertreter vertreten das Land. Er trägt in den Angelegenheiten der
+                    mittelbaren Bundesverwaltung die Verantwortung gegenüber der Bundesregierung.
+                    Gemäß Artikel 152 der geltenden Bestimmung dieser Verantwortung steht die
+                    Immunität nicht im Wege. </p>
+                <p type="legal_section"> (2) Dem Landtage sind die Mitglieder der Landesregierung
+                    gemäß Artikel 152 verantwortlich.“</p>
                 <p> Zu Artikel 94 wünscht Abg. Clessin, daß der Landesamtsdirektor in allen Ländern
                     den gleichen Titel führe. Auch beantragt er die Streichung des 2. Absatzes, um
                     den Wünschen der Technik entgegenzukommen, fordert aber ausdrücklich, daß der
-                    Landesamtsdirektor ein 126) Art. 103 B.-VG. 127) Art. 105 B.-VG. *) Der obige
-                    nicht ganz schlüssige Text entspricht der Originalfassung der Protokolle. 8.
-                    Sitzung 333 rechtskundiger Beamter sein müsse. Bei Besprechung des folgenden
-                    Artikels meint der Vorsitzende, daß der Übergang der Amtsgeschäfte des
+                    Landesamtsdirektor ein rechtskundiger Beamter sein müsse. Bei Besprechung des
+                    folgenden Artikels meint der Vorsitzende, daß der Übergang der Amtsgeschäfte des
                     Landeshauptmannes auf den Landesamtsdirektor der Landesverfassung zu überlassen
                     wäre. Wohl aber könnte man den Artikel 95 in der vorliegenden Fassung streichen.
                     Über Antrag des Abg. Seipel wird nur die Bestimmung über die Tätigkeit des
                     Landesamtsdirektors in der mittelbaren Bundesverwaltung im vorhergehenden
                     Artikel übernommen. Der nächste Artikel erhält also folgenden Wortlaut:</p>
-                <p> „Artikel 94. Zur Leitung des gesamten inneren Betriebes der Landesregierung wird
-                    ein rechtskundiger Verwaltungsbeamter als Landesamtsdirektor bestellt. Er ist in
-                    den Angelegenheiten der mittelbaren Bundesverwaltung das Hilfsorgan des
-                    Landeshauptmannes. <pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><fw
-                        type="pageNum">- 12 -</fw>
+                <p type="legal_section"> „Artikel 94. Zur Leitung des gesamten inneren Betriebes der
+                    Landesregierung wird ein rechtskundiger Verwaltungsbeamter als
+                    Landesamtsdirektor bestellt. Er ist in den Angelegenheiten der mittelbaren
+                    Bundesverwaltung das Hilfsorgan des Landeshauptmannes. <pb facs="#facs_13"
+                        n="13" xml:id="img_0013" break="yes"/><fw type="pageNum">- 12 -</fw>
                 </p>
                 <p> Bei Besprechung des Artikels 96 hebt der Vorsitzende die Möglichkeit
                     außerordentlicher Konsequenzen hervor mit Übergehung des Landtages und des
