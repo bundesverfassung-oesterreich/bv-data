@@ -100,7 +100,7 @@
         <revisionDesc status="created">
             <change when="2024-11-09" who="#cfh">document automatically created</change>
             <change when="2024-11-21" who="#t_voegtlin">Gliederung</change>
-            <change when="2024-11-28" who="#t_voegtlin">Gegenlesen angefangen</change>
+            <change when="2024-11-29" who="#t_voegtlin">Gegenlesen beendet</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3068" lry="4835" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0003/full/full/0/default.jpg" width="3068px" height="4835px"/></surface><surface ulx="0" uly="0" lrx="3072" lry="4867" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0004/full/full/0/default.jpg" width="3072px" height="4867px"/></surface><surface ulx="0" uly="0" lrx="3055" lry="4836" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0005/full/full/0/default.jpg" width="3055px" height="4836px"/></surface><surface ulx="0" uly="0" lrx="3058" lry="4805" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0006/full/full/0/default.jpg" width="3058px" height="4805px"/></surface><surface ulx="0" uly="0" lrx="3048" lry="4805" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0007/full/full/0/default.jpg" width="3048px" height="4805px"/></surface><surface ulx="0" uly="0" lrx="3053" lry="4800" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0008/full/full/0/default.jpg" width="3053px" height="4800px"/></surface><surface ulx="0" uly="0" lrx="3058" lry="4825" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0009/full/full/0/default.jpg" width="3058px" height="4825px"/></surface><surface ulx="0" uly="0" lrx="3043" lry="4829" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0010/full/full/0/default.jpg" width="3043px" height="4829px"/></surface><surface ulx="0" uly="0" lrx="3066" lry="4898" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0001_1/full/full/0/default.jpg" width="3066px" height="4898px"/></surface><surface ulx="0" uly="0" lrx="3066" lry="4924" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0011/full/full/0/default.jpg" width="3066px" height="4924px"/></surface><surface ulx="0" uly="0" lrx="3041" lry="4830" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0012/full/full/0/default.jpg" width="3041px" height="4830px"/></surface><surface ulx="0" uly="0" lrx="3042" lry="4803" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0013/full/full/0/default.jpg" width="3042px" height="4803px"/></surface><surface ulx="0" uly="0" lrx="3038" lry="4850" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0014/full/full/0/default.jpg" width="3038px" height="4850px"/></surface><surface ulx="0" uly="0" lrx="3014" lry="4851" xml:id="facs_15"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0015/full/full/0/default.jpg" width="3014px" height="4851px"/></surface><surface ulx="0" uly="0" lrx="2958" lry="4789" xml:id="facs_16"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0017/full/full/0/default.jpg" width="2958px" height="4789px"/></surface><surface ulx="0" uly="0" lrx="2972" lry="4773" xml:id="facs_17"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0018/full/full/0/default.jpg" width="2972px" height="4773px"/></surface></facsimile>
@@ -121,30 +121,31 @@
                     die Bedingungen des Wahlrechtes nicht enger gezogen werden dürfen als in der
                     Wahlordnung zum Nationalrat, es wurden daraufhin folgende Formulierungen
                     beschlossen:</p>
-                <p type="legal_section"> „Art. 85. (1) Die gesetzgebende Gewalt der Länder wird
-                    durch die Landtage ausgeübt, deren Mitglieder auf Grund des gleichen, geheimen,
+                <head>Artikel 85. </head>
+                <p type="legal_section"> „(1) Die gesetzgebende Gewalt der Länder wird durch die
+                    Landtage ausgeübt, deren Mitglieder auf Grund des gleichen, geheimen,
                     persönlichen und unmittelbaren Verhältniswahlrechtes aller nach den
                     Landtagswahlordnungen wahlberechtigten männlichen und weiblichen
                     Bundesangehörigen gewählt werden. (2) Die Landtagwahlordnungen dürfen die
                     Bedingungen des aktiven und passiven Wahlrechtes nicht enger ziehen als dies in
                     der Wahlordnung zum Nationalrat der Fall ist."</p>
-                <p type="legal_section"> „Art. 86. (1) Die Mitglieder des Landtages genießen die
-                    gleiche Immunität wie die Mitglieder des Nationalrates, wobei die Bestimmungen
-                    des Art. 43 sinngemäß Anwendung finden. (2) Die Bestimmungen der Art. 24 und 25
-                    gelten auch für die Sitzungen der Landtage und ihrer Ausschüsse." </p> 
-            <p>     Bei Beratung des Art. 87 verweist
-                    der Vorsitzende auf die Meinungsverschiedenheiten bezüglich der Trennung der
-                    Funktionen des Vorsitzenden im Landtage und des Chefs der Landesregierung. Abg.
-                    Seipel spricht sich für möglichste Freiheit der Landesgesetzgebung aus;
-                    namentlich Oberösterreich sei gegen eine Trennung der Funktionen. Abg. Leuthner
-                    möchte die Lösung dieser Frage doch nicht ohneweiters in das Belieben der Länder
-                    stellen und Prof. Dr. Kelsen erklärt, daß der Gedanke der Trennung in allen
-                    Entwürfen der Staatskanzlei bis zur Linzer Konferenz streng durchgeführt worden
-                    sei, da man den Hauptgrund der Unbotmäßigkeit<pb facs="#facs_4" n="4"
-                        xml:id="img_0004" break="yes"/><fw type="pageNum">- 3 -</fw> der
-                    Landeshauptmänner in ihrem Gefühl der Unabhängigkeit erblickt habe. Auf dem
-                    Gebiete der Vollziehung von Bundesangelegenheiten müsse der Grundsatz absoluter
-                    Unterordnung herrschen.</p>
+                <head>Artikel 86. </head>
+                <p type="legal_section"> „ (1) Die Mitglieder des Landtages genießen die gleiche
+                    Immunität wie die Mitglieder des Nationalrates, wobei die Bestimmungen des Art.
+                    43 sinngemäß Anwendung finden. (2) Die Bestimmungen der Art. 24 und 25 gelten
+                    auch für die Sitzungen der Landtage und ihrer Ausschüsse." </p>
+                <p> Bei Beratung des Art. 87 verweist der Vorsitzende auf die
+                    Meinungsverschiedenheiten bezüglich der Trennung der Funktionen des Vorsitzenden
+                    im Landtage und des Chefs der Landesregierung. Abg. Seipel spricht sich für
+                    möglichste Freiheit der Landesgesetzgebung aus; namentlich Oberösterreich sei
+                    gegen eine Trennung der Funktionen. Abg. Leuthner möchte die Lösung dieser Frage
+                    doch nicht ohneweiters in das Belieben der Länder stellen und Prof. Dr. Kelsen
+                    erklärt, daß der Gedanke der Trennung in allen Entwürfen der Staatskanzlei bis
+                    zur Linzer Konferenz streng durchgeführt worden sei, da man den Hauptgrund der
+                        Unbotmäßigkeit<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><fw
+                        type="pageNum">- 3 -</fw> der Landeshauptmänner in ihrem Gefühl der
+                    Unabhängigkeit erblickt habe. Auf dem Gebiete der Vollziehung von
+                    Bundesangelegenheiten müsse der Grundsatz absoluter Unterordnung herrschen.</p>
                 <p> Staatssekretär Dr. Mayr teilt mit, daß die nicht der sozialdemokratischen Partei
                     angehörenden Ländervertreter in Salzburg noch nicht für die Trennung waren oder
                     die Regelung den Ländern überlassen wollten, in Linz sprachen sich dagegen alle
@@ -211,10 +212,11 @@
                     Gegenzeichnung nach den Bestimmungen der Landesverfassung und die Kundmachung
                     durch die Landesregierung im Landesgesetzblatte zu erfolgen hat. Der zweite
                     Absatz wird ohne Anderung angenommen.</p>
-                <p type="legal_section"> „Art. 87 (1) Zu einem Landesgesetz ist der Beschluß des
-                    Landtages, die Beurkundung und Gegenzeichnung nach den Bestimmungen der
-                    Landesverfassung und die Kundmachung durch die Landesregierung im
-                    Landesgesetzblatt erforderlich.</p>
+                <head>Artikel 87. </head>
+                <p type="legal_section"> „(1) Zu einem Landesgesetz ist der Beschluß des Landtages,
+                    die Beurkundung und Gegenzeichnung nach den Bestimmungen der Landesverfassung
+                    und die Kundmachung durch die Landesregierung im Landesgesetzblatt
+                    erforderlich.</p>
                 <p type="legal_section"> (2) Insoweit ein Landesgesetz bei der Vollziehung die
                     Mitwirkung von Bundesbehörden vorsieht, muß zu dieser Mitwirkung die Zustimmung
                     der Bundesbehörden eingeholt werden. Vor Erteilung der Zustimmung kann ein
@@ -273,6 +275,7 @@
                     Entwurfes (904 d. B.) als Art. 89 eingeschaltet:<pb facs="#facs_9" n="9"
                         xml:id="img_0009" break="yes"/></p>
                 <fw type="pageNum">- 8 -</fw>
+                <head>Artikel 89. </head>
                 <p type="legal_section">(1) "Die durch Landesgesetz zu erlassende Landesverfassung
                     kann - insoweit dadurch die Bundesverfassung nicht berührt wird - durch
                     Landesgesetz abgeändert werden.</p>
@@ -336,8 +339,9 @@
                     größtem Widerstand der sozialdemokratischen Partei stoßen werde. Sohin wird
                     beschlossen, daß Abs. 3 des Art. 26 (888 d. B.) zum nächsten Artikel gezogen
                     wird und der Abs. 4 folgendermaßen zu lauten hat:</p>
-                <p> „(Artikel 92) (4) In den Angelegenheiten der mittelbaren Bundesverwaltung sind
-                    die Landesregierungen an die Weisungen der Bundesregierung sowie der einzelnen
+                <head>(Artikel 92.)</head>
+                <p> „(4) In den Angelegenheiten der mittelbaren Bundesverwaltung sind die
+                    Landesregierungen an die Weisungen der Bundesregierung sowie der einzelnen
                     Bundesämter gebunden; der administrative Instanzenzug geht in diesen
                     Angelegenheiten — wenn nicht durch Bundesgesetz ausdrücklich anderes bestimmt
                     ist — bis zu den zuständigen Bundesämtern.“</p>
@@ -357,11 +361,11 @@
                 <p> Die Länder würden darin keine Erhöhung der Selbständigkeit des Landeshauptmannes
                     sondern ein Wiederaufleben der Statthalter sehen. Artikel 93 wird sodann mit
                     geringfügigen Änderungen angenommen und lautet: </p>
-                <p type="legal_section"> „Artikel 93. (1) Der Landeshauptmann oder sein
-                    Stellvertreter vertreten das Land. Er trägt in den Angelegenheiten der
-                    mittelbaren Bundesverwaltung die Verantwortung gegenüber der Bundesregierung.
-                    Gemäß Artikel 152 der geltenden Bestimmung dieser Verantwortung steht die
-                    Immunität nicht im Wege. </p>
+                <head>Artikel 93. </head>
+                <p type="legal_section"> „(1) Der Landeshauptmann oder sein Stellvertreter vertreten
+                    das Land. Er trägt in den Angelegenheiten der mittelbaren Bundesverwaltung die
+                    Verantwortung gegenüber der Bundesregierung. Gemäß Artikel 152 der geltenden
+                    Bestimmung dieser Verantwortung steht die Immunität nicht im Wege. </p>
                 <p type="legal_section"> (2) Dem Landtage sind die Mitglieder der Landesregierung
                     gemäß Artikel 152 verantwortlich.“</p>
                 <p> Zu Artikel 94 wünscht Abg. Clessin, daß der Landesamtsdirektor in allen Ländern
@@ -374,7 +378,8 @@
                     Über Antrag des Abg. Seipel wird nur die Bestimmung über die Tätigkeit des
                     Landesamtsdirektors in der mittelbaren Bundesverwaltung im vorhergehenden
                     Artikel übernommen. Der nächste Artikel erhält also folgenden Wortlaut:</p>
-                <p type="legal_section"> „Artikel 94. Zur Leitung des gesamten inneren Betriebes der
+                <head>Artikel 94. </head>
+                <p type="legal_section"> „ Zur Leitung des gesamten inneren Betriebes der
                     Landesregierung wird ein rechtskundiger Verwaltungsbeamter als
                     Landesamtsdirektor bestellt. Er ist in den Angelegenheiten der mittelbaren
                     Bundesverwaltung das Hilfsorgan des Landeshauptmannes. <pb facs="#facs_13"
@@ -382,11 +387,11 @@
                 </p>
                 <p> Bei Besprechung des Artikels 96 hebt der Vorsitzende die Möglichkeit
                     außerordentlicher Konsequenzen hervor mit Übergehung des Landtages und des
-                    Nationalrates, wo ein Ausnahmszustand verhängt der in keiner Weise geregelt sei
-                    *). Prof. Dr. Kelsen erläutert diese Bestimmung, daß ursprünglich beabsichtigt
-                    war, für den Fall der Obstruktion eines Landes einen Bundeskommissär zu
-                    ernennen, an den alle Beamten gewiesen wären. Der Vorsitzende findet die
-                    Bestimmungen des Artikel 48 der deutschen Verfassung über die Bundesexekution
+                    Nationalrates, wo ein Ausnahmszustand verhängt der in keiner Weise geregelt sei.
+                    Prof. Dr. Kelsen erläutert diese Bestimmung, daß ursprünglich beabsichtigt war,
+                    für den Fall der Obstruktion eines Landes einen Bundeskommissär zu ernennen, an
+                    den alle Beamten gewiesen wären. Der Vorsitzende findet die Bestimmungen des
+                    Artikel 48 der deutschen Verfassung über die Bundesexekution
                     zweckentsprechender, doch verfügt der Präsident in Österreich nicht in gleicher
                     Weise über die bewaffnete Macht. Da Abg. Dr. Seipel befürchtet, daß die
                     Schwierigkeiten, die diese Bestimmung hervorrufen dürften, größer sein werde als
@@ -406,7 +411,7 @@
                     Bundesregierung unverzüglich<pb facs="#facs_14" n="14" xml:id="img_0014"
                         break="yes"/><fw type="pageNum">- 13 -</fw> anzuzeigen.</p>
                 <p>Von sozialdemokratischer Seite wird nunmehr beantragt, in die Verfassung den
-                    Artikel ihres Entwurfes (904 d. B.) aufzunehmen, daß es größeren Gebietsteilen
+                    Artikel ihres Entwurfes (904 d. B.) aufzunehmen, dass es größeren Gebietsteilen
                     unter bestimmten Voraussetzungen auf Grund von Volksabstimmungen ermöglicht sei,
                     sich einem anderen Lande anzugliedern oder ein eigenes Land zu bilden. </p>
                 <p>Abg. Leuthner begründet dies als ein Erfordernis des Selbstbestimmungsrechtes und
@@ -448,7 +453,7 @@
                     anderes angrenzendes Staatswesen, dann vollziehen die Gebietsänderung
                     übereinstimmende Beschlüsse dieses Staates und des betreffenden Landes. </p>
                 <p type="legal_section"><label>(5)</label>Entscheidet die Volksabstimmung für die
-                    Bildung eines selbstän 8. Sitzung 335 digen Staates, so ist dieser Entscheid der
+                    Bildung eines selbständigen Staates, so ist dieser Entscheid der
                     Bundesversammlung vorzulegen. Verweigert die Bundesversammlung die Genehmigung,
                     so steht die endgiltige Entscheidung beim Völkerbunde. </p>
                 <p type="legal_section"><label>(6)</label>Aus einer Gebietsänderung erwachsende
@@ -465,36 +470,35 @@
                     erklären, daß dieselben diesem Antrag nicht zustimmen können. Darauf wird Art. 3
                     in folgender Fassung angenommen: </p>
                 <head>Art. 3. </head>
-            <p type="legal_section"><label>(1)</label>Das Bundesgebiet umfaßt die Gebiete der Bundesländer. Es
-                    steht unter dem Schutze des Bundes.   </p>
-            <p type="legal_section"><label>(2)</label>Eine Änderung des Bundesgebietes, die zugleich eine
-                    Änderung eines Landesgebietes ist, ebenso die Anderung einer Landesgrenze
-                    innerhalb des Bundesgebietes kann — abgesehen vom Friedensvertrag — nur durch
-                    übereinstimmende Verfassungsgesetze des Bundes und jenes Landes erfolgen, dessen
-                    Gebiet eine Änderung erfährt.</p>
+                <p type="legal_section"><label>(1)</label>Das Bundesgebiet umfaßt die Gebiete der
+                    Bundesländer. Es steht unter dem Schutze des Bundes. </p>
+                <p type="legal_section"><label>(2)</label>Eine Änderung des Bundesgebietes, die
+                    zugleich eine Änderung eines Landesgebietes ist, ebenso die Anderung einer
+                    Landesgrenze innerhalb des Bundesgebietes kann — abgesehen vom Friedensvertrag —
+                    nur durch übereinstimmende Verfassungsgesetze des Bundes und jenes Landes
+                    erfolgen, dessen Gebiet eine Änderung erfährt.</p>
                 <p> Abg. Fink meldet seinen Antrag vorbehaltlich stilistischer Änderungen als
                     Minoritätsvotum an, da auch Dr. Aigner, wenn anwesend, dafür stimmen würde.</p>
-                <p>Es wird hierauf über die Dauer der
-                    Gesetzgebungsperiode des Nationalrates verhandelt. Der Vorsitzende bemerkt, daß
-                    seine Partei kurze Legislaturperioden für ein unbedingtes Erfordernis der
-                    Demokratie hält, denn ein Parlament, das vor 5 Jahren gewählt worden sei, könne
-                    nicht mehr ein Spiegelbild der politischen Anschauungen der Bevölkerung genannt
-                    werden. Neuwahlen in kurzen Zeitabständen geben dem Volkswillen deutlicher
-                    Ausdruck als Volksabstimmungen<pb facs="#facs_17" n="17" xml:id="img_0017"
-                        break="yes"/><fw type="pageNum">- 16 -</fw> und sind geeignet, den Gedanken
-                    der Demokratie zu stärken, dessen Gegner das Sowjetsystem verteidigen,
-                    demzufolge jederzeitige Abberufung des Volksvertreters durch seine Wähler
-                    möglich ist. Die häufige Wiederholung der Wahl sei auch geeignet, die
-                    Leidenschaftlichkeit des Wahlkampfes vorteilhaft zu verringern. Er stellt in
-                    Ausgleichung des Antrages Leuthner auf eine 2jährige und des Antrages Fink auf
-                    eine 5jährige Legislaturperiode einen Vermittlungsantrag auf 3 Jahre. Der
-                    Unterausschuß einigt 130) Vgl. Art. 3 B.-VG. Protokolle des Unterausschusses 336
-                    sich schließlich, dem Antrage Clessin — 5 Jahre — beizustimmen. Der Antrag des
-                    Vorsitzenden mit jeder Neuwahl des Nationalrates auch eine Neuwahl des
-                    Präsidenten stattfinden zu lassen, wird vom Abg. Dr. Seipel bekämpft und der
-                    Unterausschuß beschließt, auch die Funktionsdauer des Präsidenten mit 4 Jahren
-                    festzusetzen. Nach Anberaumung der nächsten Sitzung auf Montag, den 23. August,
-                    10 Uhr vormittags wird die Sitzung um 6 Uhr nachmittags geschlossen.</p>
+                <p>Es wird hierauf über die Dauer der Gesetzgebungsperiode des Nationalrates
+                    verhandelt. Der Vorsitzende bemerkt, daß seine Partei kurze Legislaturperioden
+                    für ein unbedingtes Erfordernis der Demokratie hält, denn ein Parlament, das vor
+                    5 Jahren gewählt worden sei, könne nicht mehr ein Spiegelbild der politischen
+                    Anschauungen der Bevölkerung genannt werden. Neuwahlen in kurzen Zeitabständen
+                    geben dem Volkswillen deutlicher Ausdruck als Volksabstimmungen<pb
+                        facs="#facs_17" n="17" xml:id="img_0017" break="yes"/><fw type="pageNum">-
+                        16 -</fw> und sind geeignet, den Gedanken der Demokratie zu stärken, dessen
+                    Gegner das Sowjetsystem verteidigen, demzufolge jederzeitige Abberufung des
+                    Volksvertreters durch seine Wähler möglich ist. Die häufige Wiederholung der
+                    Wahl sei auch geeignet, die Leidenschaftlichkeit des Wahlkampfes vorteilhaft zu
+                    verringern. Er stellt in Ausgleichung des Antrages Leuthner auf eine 2jährige
+                    und des Antrages Fink auf eine 5jährige Legislaturperiode einen
+                    Vermittlungsantrag auf 3 Jahre. Der Unterausschuß einigt sich schließlich, dem
+                    Antrage Clessin — 5 Jahre — beizustimmen. Der Antrag des Vorsitzenden mit jeder
+                    Neuwahl des Nationalrates auch eine Neuwahl des Präsidenten stattfinden zu
+                    lassen, wird vom Abg. Dr. Seipel bekämpft und der Unterausschuß beschließt, auch
+                    die Funktionsdauer des Präsidenten mit 4 Jahren festzusetzen. Nach Anberaumung
+                    der nächsten Sitzung auf Montag, den 23. August, 10 Uhr vormittags wird die
+                    Sitzung um 6 Uhr nachmittags geschlossen.</p>
             </div>  </body>
    </text> 
 </TEI>
