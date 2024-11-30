@@ -114,6 +114,8 @@
                         bis Art. 26, 2. </change>
                   <change when="2024-11-24" who="#s_kury">Gegenlesen UND getrennt bis Art.
                         116</change>
+                  <change when="2024-11-29" who="#s_kury">Gegenlesen UND getrennt bis Art.
+                        125</change>
             </revisionDesc>
       </teiHeader>
       <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -1932,7 +1934,7 @@
                                     <p type="legal_section"><label>2.</label> Gemeinden im Sinne
                                           dieser Verfassung sind nicht bloß die Ortsgemeinden,
                                           sondern auch die Gerichtsbezirke und die politischen
-                                          Bezirk bezw. die an deren Stelle tretenden Kreise
+                                          Bezirke, bezw. die an deren Stelle tretenden Kreise
                                           (Gebietsgemeinden). </p>
                                     <p type="legal_section"><label>3.</label> Diese Gebietsgemeinden
                                           sind als öffentlichrechtliche Körperschaften und zugleich
@@ -1980,7 +1982,7 @@
                                     <head>Art. 119. </head>
                                     <p type="legal_section"><label>1.</label> Die Gemeindeordnungen
                                           setzen fest, welche Ortsgemeinden als Klein- oder
-                                          Großgemein den oder als Märkte oder Städte zu bezeichnen
+                                          Großgemeinden oder als Märkte oder Städte zu bezeichnen
                                           sind und sorgen für eine der Größe der Ortsgemeinde
                                           angepaßte Vertretung und Verwaltung vor. </p>
                                     <p type="legal_section"><label>2.</label> Städte mit mehr als
@@ -2051,7 +2053,7 @@
                                     <p type="legal_section"><label>2.</label> Wegen ihrer örtlichen
                                           Natur sind den Kreis-, Bezirks- und Ortsgemeinden folgende
                                           Angelegenheiten als Gemeindesache in besonderem Sinne
-                                          innerhalb der Bundes- und Landesgesetze vorbe halten: <list>
+                                          innerhalb der Bundes- und Landesgesetze vorbehalten: <list>
                                                 <label>a) </label>
                                                 <item>die Wahrung und Vertretung der gemeinsamen
                                                   Interessen ihres Gebietes und ihrer Bevölkerung
