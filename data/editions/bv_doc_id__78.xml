@@ -114,8 +114,8 @@
                         bis Art. 26, 2. </change>
                   <change when="2024-11-24" who="#s_kury">Gegenlesen UND getrennt bis Art.
                         116</change>
-                  <change when="2024-11-29" who="#s_kury">gegenlesen UND getrennt bis Art.
-                        125</change>
+                  <change when="2024-12-01" who="#s_kury">Gegenlesen UND getrennt bis Art. 144 3.->
+                        Vorgehen muss zunächst besprochen werden</change>
             </revisionDesc>
       </teiHeader>
       <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -2138,7 +2138,7 @@
                                     <p type="legal_section"><label>4.</label> Der Präsident des
                                           Rechnungshofes darf keiner politischen Körperschaft
                                           angehören und in den letzten fünf Jahren weder Mitglied
-                                          der BundesRegierung noch einer Landesregierung gewesen
+                                          der Bundesregierung noch einer Landesregierung gewesen
                                           sein. </p>
                               </div>
                               <div type="article">
@@ -2152,7 +2152,7 @@
                               <div type="article">
                                     <head>Art. 130. </head>
                                     <p type="legal_section"><label>1.</label> Der Präsident wird von
-                                          dem im Lange nächsten Beamten des Rechnungshofes
+                                          dem im Range nächsten Beamten des Rechnungshofes
                                           vertreten. Für den Stellvertreter gelten gleichfalls die
                                           Bestimmungen des Art. 129.</p>
                               </div>
@@ -2182,7 +2182,6 @@
                                           die Förderung humaner Bestrebungen oder der
                                           wirtschaftlichen Verhältnisse von öffentlichen
                                           Bediensteten oder von deren Angehörigen zum Zwecke haben. </p>
-                                    <note type="comment">"einer Gemeinde" fällt weg.</note>
                               </div>
                               <div type="article">
                                     <head>Art. 133. </head>
@@ -2209,12 +2208,7 @@
                                           verfaßt den Bundesrechnungsabschluß und gesondert von
                                           diesem die Landesrechnungsabschlüsse. </p>
                                     <p type="legal_section"><label>2.</label> Die Genehmigung des
-                                          Bundesrechnungs abschlusses obliegt dem Bundestage.<note
-                                                type="comment">Die Genehmigung des
-                                                Bundesrechnungsabschlusses und das auf Grund dieser
-                                                Genehmigung der Bundesregierung zu erteilende
-                                                Absolutorium bedarf übereinstimmender Beschlüsse des
-                                                Bundestages und des Bundesrates.</note></p>
+                                          Bundesrechnungsabschlusses obliegt dem Bundestage.</p>
                                     <p type="legal_section"><pb facs="#facs_45" n="45"
                                                 xml:id="img_0045" break="yes"/><fw type="pageNum"
                                                 >43</fw><label>3.</label> Die
@@ -2234,16 +2228,14 @@
                               <pb facs="#facs_46" n="46" xml:id="img_0046" break="yes"/>
                               <fw type="pageNum">45</fw>
                               <head>Siebentes Hauptstück. </head>
-                              <head>Die politischen Rechte und Freiheiten.</head>
-                              <note type="comment"> Von den Grund- und Fre iheitsdes Volkesrechten.
-                                    *)</note>
+                              <head>Die politischen Rechte und Freiheiten des Volkes.</head>
                               <div type="section">
-                                    <head> Erster Abschnitt. </head>
+                                    <head>Erster Abschnitt.</head>
                                     <head>Rechtsgleichheit.</head>
                                     <div type="article">
                                           <head>Art. 137. </head>
                                           <p type="legal_section"><label>1.</label> Die
-                                                Bundesangehörigen sind vor dem Gesetz. gleich. Die
+                                                Bundesangehörigen sind vor dem Gesetz gleich. Die
                                                 Fremden, die sich innerhalb des Bundesgebietes
                                                 aufhalten, genießen mit Ausnahme der politischen
                                                 Rechte, die den Staatsbürgern vorbehalten sind, die
@@ -2276,16 +2268,7 @@
                                                 Bundesgesetz geschaffen werden. </p>
                                           <p type="legal_section"><label>3.</label> Kein
                                                 Bundesangehöriger darf von einer ausländischen
-                                                Regierung Titel oder Orden annehmen. J) Die Zählung
-                                                der Artikel erfolgt hier nach dem von Staatssekretär
-                                                Mayr in Linz der Länderkonferenz vorgelegten
-                                                Entwurfe.</p>
-                                          <note type="comment"><emph>Art.
-                                                108.</emph>Öffentlich-rechtliche Vorrechte oder
-                                                Nachteile der Geburt und des Standes sind
-                                                aufgehoben. Adelsbezeichnungen gelten nur als Teil
-                                                des Namens und dürfen nicht mehr verliehen werden.
-                                          </note>
+                                                Regierung Titel oder Orden annehmen. </p>
                                     </div>
                                     <div type="article">
                                           <pb facs="#facs_47" n="47" xml:id="img_0047" break="yes"/>
@@ -2330,8 +2313,6 @@
                                                 <p type="legal_section"><label>3.</label> Das Recht
                                                   der Auslieferung von Verbrechern wird durch
                                                   Bundesgesetz geregelt. </p>
-                                                <note type="comment">Im Linzer Entwurf vacat.
-                                                </note>
                                           </div>
                                           <div type="article">
                                                 <head>Art. 142. </head>
@@ -2355,13 +2336,15 @@
                                           <div type="article">
                                                 <head>Art. 144. </head>
                                                 <p type="legal_section"><label>1.</label> Alle
-                                                  Bundesangehörigen haben das nur durch des
-                                                  Strafgesetz eingeschränkte Recht, Vereine zu
-                                                  bilden. Dieses Recht darf durch Ausführungsgesetze
-                                                  nicht gemindert werden.<pb facs="#facs_48" n="48"
-                                                  xml:id="img_0048" break="yes"/><fw type="pageNum"
-                                                  >47</fw></p>
-                                                <p type="legal_section"><label>2.</label> Uber die
+                                                  Bundesangehörigen haben das nur durch d<choice>
+                                                  <sic>e</sic>
+                                                  <corr>a</corr>
+                                                  </choice>s Strafgesetz eingeschränkte Recht,
+                                                  Vereine zu bilden. Dieses Recht darf durch
+                                                  Ausführungsgesetze nicht gemindert werden.<pb
+                                                  facs="#facs_48" n="48" xml:id="img_0048"
+                                                  break="yes"/><fw type="pageNum">47</fw></p>
+                                                <p type="legal_section"><label>2.</label> Über die
                                                   Rechtsfähigkeit von Vereinen bestimmen die
                                                   Vorschriften des bürgerlichen Rechtes. </p>
                                                 <p type="legal_section"><label>3.</label> Politische
