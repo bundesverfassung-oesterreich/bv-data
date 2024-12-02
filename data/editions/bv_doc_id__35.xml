@@ -191,7 +191,7 @@
                                 </choice></del> zwei gekreuzte <pb facs="#facs_4" n="4"
                                 xml:id="img_0004" break="yes"/><fw type="pageNum">3</fw> Hämmer,
                             über denen ein Kranz von Roggenähren liegt und die Umschrift „Freistaat
-                                <del>Deutschösterreich"</del> Südostdeutschland". </p>
+                                <del>Deutschösterreich"</del> Südostdeutschland“. </p>
                     </div>
                 </div>
                 <div type="section">
@@ -247,7 +247,7 @@
                         Boden und über sein Volk bestehende<del>n</del> Gewalt und rechtliche
                         Ordnung wird Südostdeutschland auf friedliche, organische Weise in den neuen
                         Zustand zu überführen bemüht sein. </p>
-                    <p><label>§ 3.  </label></p>
+                    <p><label>§ 3. </label></p>
                     <p>Südostdeutschland ist ein Freistaat, der auf dem Willen des Volkes und auf
                         der Gemeinschaft der Nationszugshörigkeit beruht. </p>
                     <p>Alle öffentliche Gewalt, die er aufrichtet, und alles Recht, nach dem seine
@@ -256,83 +256,258 @@
                             <corr>bricht ab</corr>
                         </choice></p>
                     <p><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>4</p>
-                    <p>§ 7. Das in den bisherigen Ländern der heiligen ungarischen Krone gelegene
-                        geschlossene deutsche Siedlungsgebiet, sowie die dort gele in d gelegenen
-                        deutschen Sprachinseln sowie die in fremde Siedlungsgebiete eingestreuten
-                        Städte und Gemeinden sammt ihren deutschen Bewohnern gehören Kraft der
-                        vielhundertj unzerstörbaren Volksgemeinschaft und Kraft der bisherigen
-                        mehrhundertjährigen Wehr- u Wirtscha Staatsgemeinschaft zum
-                        Interessenbereich des Freistaates. Er wird sich bemühen, ihren Bestand, ihre
-                        Zukunft und ihre [i?] nationalen und wirtschaftliche Beziehungen zum
-                        Freistaat völkerrechtlich zu sichern. § 8.<pb facs="#facs_7" n="7"
-                            xml:id="img_0007" break="yes"/>5</p>
-                    <p>[2]</p>
-                    <p>[§ 3]. § 8 [Wien ist die Ha] [Herzogtümer, Grafschaften] Die in § [1] [5]
-                        bezeichneten ehemaligen Erzherzogtümer [und], [neuungarischen [?] Provinzen]
-                        und so weiter, sowie die Länder Nordböhmen und [Nord] Deutsch[Freistaats
-                        dessen] untrennbare Glieder und als Provinzen des schlesien bilden [die
-                        Provinzen des Staates und sind] [führen[?] die[?], Bestandteile [des
-                        Staates] und [Glieder und] [Bezeichnung] geniessen im Rahmen der
-                        Staatsgesetze das Recht der Selbst[Länder,] regierung. [§ 9] [§ 4.] Die
-                        Aufnahme [eines] neue[r][n] Gebiete[s] in den Staatsverband, für welchen
-                        diese Verfassung gilt, die Abtretung eines Bestand[zeitweiligen] in § 3 und
-                        6 [Staats] teiles des [in § 1 und 2] [in § 5und 6] umschriebenen Gebietes
-                        und Verwaltungsbereiches erforder[n][t] die Zustimmung der Gesetzgebung der
-                        Nationalversammlung. [Der Anschluss Der Beitritt] [§ 10] [§ 5] [kann nur]
-                        Der Beitritt des Freistaates Südostdeutschland als [glei] [voll- und
-                        gleichberechtigtes] [erfolgen und] [Li] Glied zu einem Staatenbunde oder
-                        Bundessstaate [kann nur auf] [erfordert den] [durch] Beschluss der
-                        [gesetzgebenen] Nationalversammlung[.] [erfolgen.] [§ ii] [§ 6.] Wien ist
-                        die Hauptstadt des Freistaates [,] [und] der Sitz der Staatsgewalt [und der]
-                        Staatsämter] Regierungsbehörden</p>
-                    <p>[2. Abschnitt.] [II] Dritte[?] Tafel Von den Staatsbürgern. § 7. § 12 Für
-                        alle Angehörigen des Freistaates besteht ein allgemeines, einheitliches und
-                        gleiches Staatsbürgerrecht. [des Freistaats] Staatsbürger sind alle, welche
-                        in den im § [1] [5] und [2] [6] bezeichneten Gebieten am Tage der
-                        Kundmachung dieser Verfassung in einer [die bisher österreichesche
-                        Staatsbürger gewesen] Gemeinde das Heimatsrecht besitzen[.][,] [F][f]erner
-                        alle[,] [diejenigen] [sind, [sind] [und] am Tage der Kundmachung dieser
-                        Verfassung in einem dieser Gebiete ihren ordentlichen Wohnsitz haben und]
-                        welche auf Grund der Verfassungs- und völkerrechtlichen Regelung [sich zur
-                        deutschen Nationalität bekennen, endlich alle] der Rechtsverhältnisse
+                    <p><fw type="pageNum">4</fw>
+                    </p>
+                    <p><label>§ 7. </label></p>
+                    <p>Das in den bisherigen Ländern der heiligen ungarischen Krone gelegene
+                        geschlossene deutsche Siedlungsgebiet, <del>sowie</del> die dort <del>gele<choice>
+                                <sic/>
+                                <corr>gene</corr>
+                            </choice> in d</del> gelegenen deutschen Sprachinseln sowie die in
+                        fremde Siedlungsgebiete eingestreuten Städte und Gemeinden sammt ihren
+                        deutschen Bewohnern gehören Kraft der <del>vielhundertj<choice>
+                                <sic/>
+                                <corr>ährigen</corr>
+                            </choice></del> unzerstörbaren Volksgemeinschaft und Kraft der
+                        bisherigen mehrhundertjährigen <del>Wehr- u Wirtscha<choice>
+                                <sic/>
+                                <corr>ftsgemeinschaft</corr>
+                            </choice></del> Staatsgemeinschaft zum <emph>Interessenbereich des
+                            Freistaates</emph>. Er wird sich bemühen, ihren Bestand, ihre Zukunft
+                        und ihre <del>un</del> nationalen und wirtschaftlichen Beziehungen zum
+                        Freistaat völkerrechtlich zu sichern. </p>
+                    <p><label>§ 8. </label><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"
+                            /><fw type="pageNum">5</fw></p>
+                    <p><fw type="pageNum"><del>2</del></fw></p>
+                    <p><del><label>§ 3. </label></del>
+                    </p>
+                    <p><add><label>§ 8 </label></add>
+                    </p>
+                    <p><del>Wien ist die Ha<choice>
+                                <sic/>
+                                <corr>uptstadt</corr>
+                            </choice></del>
+                    </p>
+                    <p>Die in § <choice>
+                            <del>1</del>
+                            <add>5</add>
+                        </choice> bezeichneten ehemaligen Erzherzogtümer <choice>
+                            <sic>und</sic>
+                            <corr>, Herzogtümer, Grafschaften und</corr>
+                        </choice> so weiter, sowie die <choice>
+                            <del>Länder</del>
+                            <add><?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?>neuungarischen
+                                <?oxy_custom_end?>Provinzen und</add>
+                        </choice> Nordböhmen und <del>Nord</del> Deutschschlesien <add>führen die
+                            Bezeichnung <emph>Länder</emph>,</add> bilden <add>als Provinzen des <choice>
+                                <del>Staates</del>
+                                <add> Freistaats dessen</add>
+                            </choice> untrennbare <del>Glieder und</del></add>
+                        <del>die Provinzen des Staates und sind</del> Bestandteile <del>des
+                            Staates</del> und <add>Glieder und</add> geniessen im Rahmen der
+                        Staatsgesetze das Recht der Selbstregierung.</p>
+                    <p><choice>
+                            <del><label>§ 4. </label></del>
+                            <add><label>§ 9 </label></add>
+                        </choice>
+                    </p>
+                    <p>Die Aufnahme <del>eines</del> neue<choice>
+                            <sic>n</sic>
+                            <corr>r</corr>
+                        </choice> Gebiete<del>s</del> in den Staatsverband, für welchen diese
+                        Verfassung gilt, die Abtretung eines Bestandteiles des in § 3 und 6 [Staats]
+                        teiles des <choice>
+                            <del>in § 1 und 2</del>
+                            <add>in § 5 und 6</add>
+                        </choice> umschriebenen <add>Staats</add>Gebietes und
+                            <add>zeitweiligen</add> Verwaltungsbereiches erforder<choice>
+                            <del>n</del>
+                            <add>t</add>
+                        </choice> die Zustimmung der <del>Gesetzgebung der</del>
+                        Nationalversammlung. <del>Der Anschluss</del><del> Der Beitritt</del></p>
+                    <p><choice>
+                            <del><label>§ 5 </label></del>
+                            <add><label>§ 10 </label></add>
+                        </choice> Der Beitritt des Freistaates Südostdeutschland  als <choice>
+                            <del>glei<choice>
+                                    <sic/>
+                                    <corr>chberechtigtes</corr>
+                                </choice></del>
+                            <add>voll- und gleichberechtigtes</add>
+                        </choice>
+                        <del>Li</del> Glied <add>kann nur</add> zu einem Staatenbunde oder
+                        Bundessstaate <del>kann nur <choice>
+                                <del>auf</del>
+                                <add>durch</add>
+                            </choice></del>
+                        <add>erfolgen und erfordert den</add> Beschluss der <del>gesetzgebenen</del>
+                            Nationalversammlung<add>.</add>
+                        <del>erfolgen.</del>
+                    </p>
+                    <p><choice>
+                            <del><label>§ 6. </label></del>
+                            <add><label>§ ii </label></add>
+                        </choice></p>
+                    <p>Wien ist die Hauptstadt des Freistaates<add>,</add>
+                        <del>und</del> der Sitz der Staatsgewalt<choice>
+                            <del>.</del>
+                            <add>und der <del>Staatsämter</del></add>
+                        </choice>
+                        <add>Regierungsbehörden</add><choice>
+                            <sic/>
+                            <corr>.</corr>
+                        </choice></p> 
+                </div>
+                <div type="section">
+                    <p>
+                        <del>2.</del>
+                        <add>II</add>
+                        <del>Abschnitt. </del>
+                    </p>
+                    <p><add><head>Dritter Titel</head></add></p>
+                    <p>Von den Staatsbürgern.</p>
+                    <p><choice>
+                            <del>§ 7.</del>
+                            <add>§ 12 </add>
+                        </choice>
+                    </p>
+                    <p>Für alle Angehörigen des Freistaates besteht ein allgemeines, einheitliches
+                        und gleiches Staatsbürgerrecht.</p>
+                    <p>Staatsbürger <add>des Freistaats</add> sind alle<choice>
+                            <sic> ,</sic>
+                            <corr>,</corr>
+                        </choice> welche in den im § <choice>
+                            <del>1</del>
+                            <add>5</add>
+                        </choice> und <choice>
+                            <del>2</del>
+                            <add>6</add>
+                        </choice> bezeichneten Gebieten am Tage der Kundmachung dieser Verfassung in
+                        einer Gemeinde das Heimatsrecht besitzen<choice>
+                            <del>.</del>
+                            <add>,</add>
+                        </choice>
+                        <choice>
+                            <del>F</del>
+                            <add>f</add>
+                        </choice>erner alle<add>,</add>
+                        <choice>
+                            <del>diejenigen</del>
+                            <add>die bisher österreichische Staatsbürger gewesen sind,
+                                    <del>sind</del>
+                                <del>und</del> am Tage der Kundmachung dieser Verfassung in einem
+                                dieser Gebiete ihren ordentlichen Wohnsitz haben und</add>
+                        </choice>
+                        <add>sich zur deutschen Nationalität bekennen, endlich alle</add> welche auf
+                        Grund der <choice>
+                            <del>V</del>
+                            <add>v</add>
+                        </choice>erfassungs- und völkerrechtlichen Regelung der Rechtsverhältnisse
                         zwischen den Nationen der bisherigen österreichisch-ungarischen Monarchie
                         für die südostdeutsche Staats-<pb facs="#facs_8" n="8" xml:id="img_0008"
-                            break="yes"/>bürgerschaft optieren. [§ 8.] [§ 13] Ein besonderes Gesetz
-                        bestimmt, unter welchen Bedingungen das südostdeutsche Staatsbürgerrecht in
-                        Hinkunft erworben, ausgeübt oder verloren wird. Jedoch darf die Zuerkennung
-                        der Staatsbürgerschaft niemanden versagt werden, der innerhalb einer
-                        Gemeinde des Staatsgebietes am Tage der Kundmachung dieser Verfassung
-                        [mindestens] ein Jahr lang [innerhalb des] seinen ständigen bürgerli[und
-                        darum ansucht[,][.]] chen Wohnsitz gehabt hat,/ und es [darauf] [darf] der
-                        Austritt aus [darf] dem Staatsverbande niemanden versagt werden, der der
-                        deutschen Nation nicht angehört und den Austritt aus dem südostdeutschen
-                        Staatsverband begehrt. Im Uebrigen gelten in Fragen des Staatsbürgerrechtes
-                        [Normen des auf den Haager Kongressen festgesetzten internationalen Rechts]
-                        sowohl die allgemeinen [internationalen Vereinbarungen] als auch die durch
-                        Beschluss der gesetzgebenden Gewalt genehmigten [, die auf dem Boden]
-                        Vereinbarungen mit den uebrigen Nationalstaaten der oestereichungarischen
-                        Monarchie [entstehen]. [§ 14] [§ 9.] Vor dem Gesetze sind alle Staatsbürger
-                        [gleich] des Religionsbekantrisses ohne [Ansehen] [An???] der Herkunft, [der
-                        Konfession] [des Religionsbekenntnisses] und des Geschlechtes [eines]
-                        gleich. Bei der Zuerkennung [des] aktiven oder passiven Wahl[den] rechtes
-                        [,] zu öffentlichen Vertretungskörpern, sowie bei der Re[ferner bei der
-                        Verteilung der öffentlichen [Lasten] Pflichten und Lasten] gelung der
-                        Aemterfähigkeit dürfen Unterscheidungen [der] (Staats[zwischen den] bürger
-                        nicht gemacht werden.</p>
-                    <p>[§ 15] [§ 10.] Bis zur Erlassung eines besonderen Gesetzes [über die
-                        allgemeinen, bürgerliche und politischen Rechte der Staatsburger]
-                        bleib[t][en], das Staatsgrundgesetz vom 21. Dezmber 1822 [unleserlich?]. R.
-                        G. Bl. 142 [(über die allgemeinen Rechte der Staatsbürger), das Gesetz vom
-                        27. Oktober 1862 No 87 RgBl (zum Schutze [provisorisch in Geltung] der
-                        persönliche Freiheit) das Gesetz von 27. Oktober 1862 No. 88 RgBl. (zum
-                        Schutze des 1870 Nr 42 RgBl. (zum Schutze des Brief u SchriftenHausrechts),
-                        das Gesetz vom 6. April [3 Abschnitt.] Geheimnisses) im Freistaat in Kraft.]
-                        Von der öffentlichen Gewalt [überhaupt.] [wird im Namen und Auftrag des] §
-                        11. in dieser Die öffentliche Gewalt [Volkes] [ausgeübt worden [wird] [durch
-                        getrennte] Verfassung festgesetzte Weise Organe [au] in geordneter
-                        Verbindung ausgeübt. Das alle Gewalten verbindende Organ ist der
-                        Vollungsausschuß (Staatsrat) der Nationalversammlung (Staatsrat) <pb
-                            facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>6</p>
+                            break="no"/>bürgerschaft optieren. </p>
+                    <p><fw type="pageNum"><del>3</del></fw>
+                        <fw type="pageNum">6</fw></p>
+                    <p><choice>
+                            <del>§ 8.</del>
+                            <add>§ 13</add>
+                        </choice>
+                    </p>
+                    <p>Ein besonderes Gesetz bestimmt, unter welchen Bedingungen das südostdeutsche
+                        Staatsbürgerrecht in Hinkunft erworben, ausgeübt oder verloren wird. Jedoch
+                        darf die Zuerkennung der Staatsbürgerschaft niemande<choice>
+                            <sic>n</sic>
+                            <corr>m</corr>
+                        </choice> versagt werden, der innerhalb einer Gemeinde des Staatsgebietes am
+                        Tage der Kundmachung dieser Verfassung <del>mindestens</del> ein Jahr lang
+                            <del>innerhalb des</del> seinen ständigen bürgerlichen Wohnsitz gehabt
+                        hat, <add>und darum ansucht<choice>
+                                <del>,</del>
+                                <add>.</add>
+                            </choice></add>
+                        <del>und es darauf darf</del>
+                        <choice>
+                            <del>d</del>
+                            <add>D</add>
+                        </choice>er Austritt aus dem Staatsverbande <add>darf</add> niemande<choice>
+                            <sic>n</sic>
+                            <corr>m</corr>
+                        </choice> versagt werden, der der deutschen Nation nicht angehört und den
+                        Austritt aus dem südostdeutschen Staatsverband begehrt. </p>
+                    <p>Im Uebrigen gelten in Fragen des Staatsbürgerrechtes sowohl die allgemeinen <choice>
+                            <del>internationalen Vereinbarungen</del>
+                            <add>Normen des auf den Haager Kongressen festgesetzten internationalen
+                                Rechts</add>
+                        </choice> als auch die durch Beschluss der gesetzgebenden Gewalt genehmigten
+                        Vereinbarungen mit den uebrigen Nationalstaaten<add>, die auf dem
+                            Boden</add> der oestereich-ungarischen Monarchie<choice>
+                            <del>.</del>
+                            <add>entstehen</add>
+                        </choice>. </p>
+                    <p><choice>
+                            <del><label>§ 9. </label></del>
+                            <add><label>§ 14 </label></add>
+                        </choice></p>
+                    <p>Vor dem Gesetze sind alle Staatsbürger <del>gleich</del> ohne Ansehen der
+                        Herkunft, <del>der Konfession</del><add>des Religionsbekenntnisses</add> und
+                        des Geschlechtes gleich. Bei der Zuerkennung <del>des</del>
+                        <add>eines</add> aktiven oder passiven Wahlrechtes<del>,</del> zu
+                            <add>den</add>öffentlichen Vertretungskörpern, sowie bei der Regelung
+                        der Aemterfähigkeit <add>ferner bei der Verteilung der öffentlichen <choice>
+                                <del>Lasten</del>
+                                <add>Pflichten und Lasten</add>
+                            </choice></add> dürfen Unterscheidungen <del>der</del>
+                        <add>zwischen den</add> Staatsbürger<choice>
+                            <sic/>
+                            <corr>n</corr>
+                        </choice> nicht gemacht werden.</p>
+                    <p><choice>
+                            <del><label>§ 10. </label></del>
+                            <add><label>§ 15 </label></add>
+                        </choice></p>
+                    <p>Bis zur Erlassung eines besonderen Gesetze<choice>
+                            <del>n</del>
+                            <add>s</add>
+                        </choice>
+                        <add>über die allgemeinen, bürgerlichen und politischen Rechte der
+                            Staatsbürger</add></p>
+                    <p>bleib<choice>
+                            <del>t</del>
+                            <add>en</add>
+                        </choice>, das Staatsgrundgesetz vom 21. Dez<choice>
+                            <sic/>
+                            <corr>e</corr>
+                        </choice>mber 18<choice>
+                            <sic><?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?>2<?oxy_custom_end?>?</sic>
+                            <corr><?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?>72<?oxy_custom_end?></corr>
+                        </choice> R. G. Bl. 142 <del>provisorisch in Geltung</del><add>(über die
+                            allgemeinen Rechte der Staatsbürger), das Gesetz vom 27. Oktober 1862 No
+                            87 RgBl (zum Schutze der persönliche Freiheit) das Gesetz vom 27.
+                            Oktober 1862 No. 88 RgBl. (zum Schutze des Hausrechts), das Gesetz vom
+                            6. April 1870 Nr 42 RgBl (zum Schutze des Brief<choice>
+                                <sic/>
+                                <corr>-</corr>
+                            </choice> u Schriftengeheimnisses) im Freistaat in Kraft.</add></p>
+                    <p><add><choice>
+                                <sic>3</sic>
+                                <corr>III</corr>
+                            </choice> Abschnitt.</add></p>
+                    <p>Von der öffentlichen Gewalt <del>überhaupt.</del>
+                    </p>
+                    <p><label>§ 11. </label></p>
+                    <p>Die öffentliche Gewalt <del>darf nur auf die in dieser Verfassung
+                            festgesetzte Weise ausgeübt werden</del>
+                        <del>wird</del>
+                        <add>wird im Namen und Auftrag des Volkes</add>
+                        <add>durch getrennte Organe </add>
+                        <del>au<choice>
+                                <sic/>
+                                <corr>f</corr>
+                            </choice></del>
+                        <add>in geordneter Verbindung ausgeübt. Das alle Gewalten verbindende Organ
+                            ist der Vollzugsausschuß (Staatsrat)</add>
+                        <add>der Nationalversammlung (Staatsrat).</add><pb facs="#facs_9" n="9"
+                            xml:id="img_0009" break="yes"/><fw type="pageNum">6</fw></p>
                     <p>A. Von der gesetzgebenden Gewalt [1. Die Staatsgesetzgebung] [A] [§ 20.] [16]
                         Die [Nationalversammlung (§ 2) wird jedes Jahr am .] Montag [des Monates
                         Okrober zu ihrer ordentlichen Tagung einberufen] Bis zur endgiltigen
@@ -423,20 +598,22 @@
                         Vizepräsidenten. Im Ueberigen beschliesst das Volkshaus und der Senat seine
                         Geschäfts- und Hausordnung selbständig. Die Wahlen zum Volkshause [und zu]
                         finden am 1. Sonntag des Monates März statt. Die Wahlen zum Senate am 3.
-                        Sonntag dieses]<pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>7
-                        Vierter Titel. Von der öffentlichen Gewalt. § 16. Alle öffentliche Gewalt
-                        wird im Namen des Freistaats durch Beauftragte des Volkes ausgeübt. Die
-                        Gewalten sind wie folgt gegliedert und [vom?] zusammengefaßt. § 17. Die
-                        gesetzgebende Gewalt über das ganze Staatsgebiet und seine Bewohner
-                        überträgt das Volk der Nationalversammlung. In Rahmen der von ihr
-                        beschlossenen Gesetze [übertragen und erlassenen] und Landesordnung
-                        übertragen die Bürger [das es jedes Landes] das Gesetzgebungsrecht über das
-                        Land u seine Bewohner den Landtagen, im Rahmen der Staats- und Landesgesetze
-                        [das] die Gewalt, allgemeine verbindliche Anordnungen [zu treffen] über das
-                        Gebiet u die Bewohner des Kreises zu [erlassen] [treffen] den Kreistagen.
-                        Auf Grund [solche] dieser Gesetze und Anordnungen [selbst] regeln die
-                        Gemeindebewohner ihre gemeinsamen Angelegenheiten [selbs] durch die
-                        Gemeindevertretung. § 18.</p>
+                        Sonntag dieses]</p>
+                </div>
+                <div type="section">
+                    <p><pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>7 Vierter Titel.
+                        Von der öffentlichen Gewalt. § 16. Alle öffentliche Gewalt wird im Namen des
+                        Freistaats durch Beauftragte des Volkes ausgeübt. Die Gewalten sind wie
+                        folgt gegliedert und [vom?] zusammengefaßt. § 17. Die gesetzgebende Gewalt
+                        über das ganze Staatsgebiet und seine Bewohner überträgt das Volk der
+                        Nationalversammlung. In Rahmen der von ihr beschlossenen Gesetze [übertragen
+                        und erlassenen] und Landesordnung übertragen die Bürger [das es jedes
+                        Landes] das Gesetzgebungsrecht über das Land u seine Bewohner den Landtagen,
+                        im Rahmen der Staats- und Landesgesetze [das] die Gewalt, allgemeine
+                        verbindliche Anordnungen [zu treffen] über das Gebiet u die Bewohner des
+                        Kreises zu [erlassen] [treffen] den Kreistagen. Auf Grund [solche] dieser
+                        Gesetze und Anordnungen [selbst] regeln die Gemeindebewohner ihre
+                        gemeinsamen Angelegenheiten [selbs] durch die Gemeindevertretung. § 18.</p>
                     <p>Mit dem Vollzuge [ihrer] der Gesetze und ihrer Beschlüsse beauftragt die
                         Nationalversammlung den von ihr eingesetzten Vollzugsausschuss. Er führt den
                         Titel Staatsrat und ist als oberster Träger der Staatsgewalt berufen,
@@ -941,8 +1118,11 @@
                         ausgebildeten Offiziere in den Generalstab. Der Oberbefehlshaber und der
                         Chef das Generalstabs sind der Nationalversammlung verantwortlich.</p>
                     <p>§ 59 58 früher 16 § 70 74 §60 50 [?] früher 17 § 75 74 60 [?] früher 18 72 76
-                        62 68 früher 19 73 77 fünfter Titel IV Abschnitt fünfter Titel! Vom
-                        Staatshaushalt und den Staatsschulden § 69. § 75 74</p>
+                        62 68 früher 19 73 77 </p>
+                </div>
+                <div type="section">
+                    <p>fünfter Titel IV Abschnitt fünfter Titel! Vom Staatshaushalt und den
+                        Staatsschulden § 69. § 75 74</p>
                     <p>§ .. 78 74 Das Haushaltsjahr des Freistaates beginnt am ersten Juli jeden
                         Jahres und endet am auf den letzten Juni des darauffolgenden Jahres.</p>
                     <p>Alle Steuern und Abgaben werden durch Staatsgesetz geregelt. Staatsgesetze
@@ -982,6 +1162,8 @@
                         jedoch ohne Stimmrecht. Das Staatsschulden[?]direktorium ist ein Hilfsamt
                         der Nationalversammlung. Ihre Seine Gebarung wird durch ein besonderes
                         Gesetz geregelt.</p>
-                </div></div></body>
+                </div>
+                
+            </div></body>
     </text>
 </TEI>
