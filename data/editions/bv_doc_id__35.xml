@@ -135,8 +135,9 @@
                         die nachstehende provisorische Verfassung beschlossen:</p>
                 </div>
                 <div type="section">
-                    <p><emph>Erster Titel.</emph></p>
-                    <p>Von Namen, Wesen und Zeichen <del>Wappen</del>
+                    <head>
+                        <emph>Erster Titel.</emph></head>
+                    <p>Von Namen, Wesen und <del>Wappen</del>
                         <add>Zeichen</add> des Staates. </p>
                     <div type="article">
                         <p><label>§ i. </label></p>
@@ -202,7 +203,7 @@
                     </div>
                 </div>
                 <div type="section">
-                    <head>Zweiter Titel. </head>
+                    <head><emph>Zweiter Titel. </emph></head>
                     <head>Vom Staatsgebiete.</head>
                     <p type="legal_section">
                         <label>§ 5.</label></p>
@@ -222,14 +223,18 @@
                             <add>das</add> Erherzogtum <add>Oesterreich</add>/ob der Enns<choice>
                             <sic> ,</sic>
                             <corr>,</corr>
-                        </choice>, das Herzogtum Salzburg<add>,</add> das Hertzogtum Steiermark,
+                        </choice> das Herzogtum Salzburg<add>,</add> das Hertzogtum Steiermark,
                             <add>ferner</add>
                         <add>mit Ausschluss des geschlossenen italienischen Siedlingsgebietes</add>
                         das Herzogtum Kärnten <add>mit Ausschluss der geschlossenen jugoslavischen
                                 <del>und italienischen</del> Siedlungsgebiete</add>, die gefürstete
-                        Grafschaft Tirol und Vorarlberg <del>mit Ausschluss der geschlossenen
-                            jugoslavischen und italienischen Siedlungsgebiete</del>,
-                            <del>ferner</del>
+                        Grafschaft Tirol und Vorarlberg<choice>
+                            <sic/>
+                            <corr>,</corr>
+                        </choice>
+                        <del>mit Ausschluss der geschlossenen jugoslavischen und italienischen
+                            Siedlungsgebiete</del>
+                        <del>ferner</del>
                         <add>endlich</add> die<del> neukonstituierte</del>
                         <add>neuaufgerichteten</add> Provinz<add>en</add> Nordböhmen und <del>die
                             Provinz</del> Deutschschlesien. </p>
@@ -298,8 +303,8 @@
                     <p>Die in § <choice>
                             <del>1</del>
                             <add>5</add>
-                        </choice> bezeichneten ehemaligen Erzherzogtümer <choice>
-                            <sic>und</sic>
+                        </choice> bezeichneten ehemaligen Erzherzogtümer<choice>
+                            <sic> und</sic>
                             <corr>, Herzogtümer, Grafschaften und</corr>
                         </choice> so weiter, sowie die <choice>
                             <del>Länder</del>
@@ -322,10 +327,9 @@
                             <sic>n</sic>
                             <corr>r</corr>
                         </choice> Gebiete<del>s</del> in den Staatsverband, für welchen diese
-                        Verfassung gilt, die Abtretung eines Bestandteiles des in § 3 und 6 [Staats]
-                        teiles des <choice>
-                            <del>in § 1 und 2</del>
-                            <add>in § 5 und 6</add>
+                        Verfassung gilt, die Abtretung eines Bestandteiles <choice>
+                            <del>des in § 1 und 2</del>
+                            <add>des in § 5 und 6</add>
                         </choice> umschriebenen <add>Staats</add>Gebietes und
                             <add>zeitweiligen</add> Verwaltungsbereiches erforder<choice>
                             <del>n</del>
@@ -358,7 +362,7 @@
                     <p>Wien ist die Hauptstadt des Freistaates<add>,</add>
                         <del>und</del> der Sitz der Staatsgewalt<choice>
                             <del>.</del>
-                            <add>und der <del>Staatsämter</del></add>
+                            <add> und der <del>Staatsämter</del></add>
                         </choice>
                         <add>Regierungsbehörden</add><choice>
                             <sic/>
@@ -368,11 +372,10 @@
                 <div type="section">
                     <p>
                         <del>2.</del>
-                        <add>II</add>
                         <del>Abschnitt. </del>
                     </p>
                     <p><add><head>Dritter Titel</head></add></p>
-                    <p>Von den Staatsbürgern.</p>
+                    <head>Von den Staatsbürgern.</head>
                     <p><choice>
                             <del>§ 7.</del>
                             <add>§ 12 </add>
@@ -449,7 +452,7 @@
                         Vereinbarungen mit den uebrigen Nationalstaaten<add>, die auf dem
                             Boden</add> der oestereich-ungarischen Monarchie<choice>
                             <del>.</del>
-                            <add>entstehen</add>
+                            <add> entstehen</add>
                         </choice>. </p>
                     <p><choice>
                             <del><label>§ 9. </label></del>
@@ -495,12 +498,13 @@
                                 <sic/>
                                 <corr>-</corr>
                             </choice> u Schriftengeheimnisses) im Freistaat in Kraft.</add></p>
-                    <p><add><choice>
-                                <sic>3</sic>
-                                <corr>III</corr>
-                            </choice> Abschnitt.</add></p>
-                    <p>Von der öffentlichen Gewalt <del>überhaupt.</del>
-                    </p>
+                    <head><add><choice>
+                                    <sic>3</sic>
+                                    <corr>III</corr>
+                                </choice> Abschnitt.</add></head>
+                    <head>
+                       Von der öffentlichen Gewalt <del>überhaupt.</del>
+                    </head>
                     <p><label>§ 11. </label></p>
                     <p>Die öffentliche Gewalt <del>darf nur auf die in dieser Verfassung
                             festgesetzte Weise ausgeübt werden</del>
@@ -515,27 +519,57 @@
                             ist der Vollzugsausschuß (Staatsrat)</add>
                         <add>der Nationalversammlung (Staatsrat).</add><pb facs="#facs_9" n="9"
                             xml:id="img_0009" break="yes"/><fw type="pageNum">6</fw></p>
-                    <p>A. Von der gesetzgebenden Gewalt [1. Die Staatsgesetzgebung] [A] [§ 20.] [16]
-                        Die [Nationalversammlung (§ 2) wird jedes Jahr am .] Montag [des Monates
-                        Okrober zu ihrer ordentlichen Tagung einberufen] Bis zur endgiltigen
-                        Abgrenzung des Staatsgebietes [Zusammentreten] exercice (§1) und bis zum
-                        [Inkrafttreten der von] der konstituierenden Nationalversammlung [endgiltig
-                        festgestellten Verfassung] bleibt das Staatsgrundgesetz über die
-                        Reichsvertretung in seiner letzten geltenden Fassung, die im Anhang dazu
-                        erlassene Reichsratswalordnung, sowie die sonstigen auf den Reichsrat
-                        bezüglichen Gesetze in Kraft. bilden die in den nachstehend bezeichneten
-                        Wahlbezirken gewährten Reichsratsabgeordneten provisorisch die
-                        Nationalversammlung [von Südost-Deutschland].</p>
-                    <p>§ [21.] [17] Die konstituierende Nationalversammlung besteht aus dem
-                        Volkshause und dem Senate. [Alle] Gesetzesanträge und Regierungswerden von
-                        der Regierung unterbreitet. [gleichfalls] [dem] berichte [gelangen] zunächst
-                        [an das] Volkshaus, diesem steht das [auch selbst] [Gesetzes] Recht zu,
-                        Gesetzesanträge zu stellen. Beschlüsse des Volkshauses werden von dessen
-                        Präsidenten dem Senate zur Beratung und Rückäusserung übermittelt. Auch dem
-                        Senate steht das Recht zu [, Anträge] [seiner Mitglieder zu beraten und zum
-                        Beschluß zu erheben. Solche] [Gesetzesanträge zu beschliessen]. Vom Senate
-                        selbst[ständige][tätig] gefasste[n] [die] Gesetzesbeschlüsse und von ihm
-                        abgegebenen Rückäusserungen sind [weiteren] vom Volkshause [neuerlich zu
+                    <p>A. Von der gesetzgebenden Gewalt<choice>
+                            <sic>-</sic>
+                            <corr/>
+                        </choice></p>
+                    <p><add>1. Die Staatsgesetzgebung</add></p>
+                    <p>§<choice>
+                            <del> 20.</del>
+                            <add>
+                                <label>16 </label></add>
+                        </choice></p>
+                    <p>Die <del>Nationalversammlung (§ 2) wird jedes Jahr am </del> 1. Montag
+                            <del>des Monates Oktober zu ihrer ordentlichen Tagung einberufen</del>
+                    </p>
+                    <p>Bis zur endgiltigen Abgrenzung des Staatsgebietes</p>
+                    <p>(<label>§1 </label>) und bis zum <choice>
+                            <del>Inkrafttreten der von</del>
+                            <add> Zusammentreten</add>
+                        </choice> der konstituierenden Nationalversammlung <del>endgiltig
+                            festgestellten Verfassung</del>
+                        <del>bleibt das Staatsgrundgesetz über die Reichsvertretung in seiner
+                            letzten geltenden Fassung, die im Anhang dazu erlassene
+                            Reichsratswalordnung, sowie die sonstigen auf den Reichsrat bezüglichen
+                            Gesetze in Kraft.</del> bilden die in den nachstehend bezeichneten
+                        Wahlbezirken gewählten Reichsratsabgeordneten provisorisch die
+                        Nationalversammlung <add>von Südost-Deutschland</add>.</p>
+                    <p>§ <choice>
+                            <del>21.</del>
+                            <add>17</add>
+                        </choice></p>
+                    <p>Die konstituierende Nationalversammlung besteht aus dem Volkshause und dem
+                        Senate. <del>Alle</del> Gesetzesanträge und Regierungsberichte <choice>
+                            <del>gelangen</del>
+                            <add>werden von der Regierung</add>
+                        </choice> zunächst <choice>
+                            <del>an das</del>
+                            <add>dem</add>
+                        </choice> Volkshaus <add>unterbreitet</add>
+                        <choice>
+                            <del>. D</del>
+                            <add>, d</add>
+                        </choice>iesem steht <del>gleichfalls</del> das Recht zu, <add>auch
+                            selbst</add> Gesetzesanträge zu stellen. <choice>
+                            <del>B</del>
+                            <add>Gesetzesb</add>
+                        </choice>eschlüsse des Volkshauses werden von dessen Präsidenten dem Senate
+                        zur Beratung und Rückäusserung übermittelt.
+                        <?oxy_custom_start type="oxy_content_highlight" color="255,60,255"?>XX<?oxy_custom_end?>
+                        Auch dem Senate steht das Recht zu [, Anträge] [seiner Mitglieder zu beraten
+                        und zum Beschluß zu erheben. Solche] [Gesetzesanträge zu beschliessen]. Vom
+                        Senate selbst[ständige][tätig] gefasste[n] [die] Gesetzesbeschlüsse und von
+                        ihm abgegebenen Rückäusserungen sind [weiteren] vom Volkshause [neuerlich zu
                         verhandeln] der Behandlung zu unter[über sie] [gilt als Beschluss der]
                         ziehen, der [sohin] vom Volkshause gefasste Beschluss [ist endgiltig,]
                         [Nationalversammlung und] (Staatsrat) [und gelangt] wird an den
