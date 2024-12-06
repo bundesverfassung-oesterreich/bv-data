@@ -532,8 +532,8 @@
                     <p>Die <del>Nationalversammlung (§ 2) wird jedes Jahr am </del> 1. Montag
                             <del>des Monates Oktober zu ihrer ordentlichen Tagung einberufen</del>
                     </p>
-                    <p>Bis zur endgiltigen Abgrenzung des Staatsgebietes</p>
-                    <p>(<label>§1 </label>) und bis zum <choice>
+                    <p>Bis zur endgiltigen Abgrenzung des Staatsgebietes <label>(§1) </label> und
+                        bis zum <choice>
                             <del>Inkrafttreten der von</del>
                             <add> Zusammentreten</add>
                         </choice> der konstituierenden Nationalversammlung <del>endgiltig
@@ -555,8 +555,7 @@
                         </choice> zunächst <choice>
                             <del>an das</del>
                             <add>dem</add>
-                        </choice> Volkshaus <add>unterbreitet</add>
-                        <choice>
+                        </choice> Volkshaus <add>unterbreitet</add><choice>
                             <del>. D</del>
                             <add>, d</add>
                         </choice>iesem steht <del>gleichfalls</del> das Recht zu, <add>auch
@@ -564,46 +563,129 @@
                             <del>B</del>
                             <add>Gesetzesb</add>
                         </choice>eschlüsse des Volkshauses werden von dessen Präsidenten dem Senate
-                        zur Beratung und Rückäusserung übermittelt.
-                        <?oxy_custom_start type="oxy_content_highlight" color="255,60,255"?>XX<?oxy_custom_end?>
-                        Auch dem Senate steht das Recht zu [, Anträge] [seiner Mitglieder zu beraten
-                        und zum Beschluß zu erheben. Solche] [Gesetzesanträge zu beschliessen]. Vom
-                        Senate selbst[ständige][tätig] gefasste[n] [die] Gesetzesbeschlüsse und von
-                        ihm abgegebenen Rückäusserungen sind [weiteren] vom Volkshause [neuerlich zu
-                        verhandeln] der Behandlung zu unter[über sie] [gilt als Beschluss der]
-                        ziehen, der [sohin] vom Volkshause gefasste Beschluss [ist endgiltig,]
-                        [Nationalversammlung und] (Staatsrat) [und gelangt] wird an den
-                        [Vollzugsausschuss] geleitet Der [Vollzugs-] [Staatsrat] [ausschuss] hat das
-                        Recht, einen Beschluss der Nationalversammlung, wenn er ihn als zum Vollzuge
-                        ungeeignet befindet, binnen [dessen] vierzehn Tagen nach [der] Fassung des
-                        Beschlusses an das Volkshaus [Staatsrat] zurückzuleiten. In diesem Falle ist
-                        jedoch der [Vollzugsausschuss] gehalten, in dem Gegenstande [eine eigene[n]
-                        [,] Vorlage] dem Volkshause binnen drei Monaten [*] zu unterbreiten. Liegt
-                        über diese Vorlage ein neuerlicher Beschluss der Nationalversammlung vor, so
-                        kann [Staatsrat] der Vollzugsausschuss dem Beschlusse den Vollzug nicht mehr
-                        [Staatsrats] versagen. [Der] Präsident des Vollzugsausschusses bestätigt,
-                        dass der [Indem der] [mit seiner Namensfertigung]<pb facs="#facs_10" n="10"
-                            xml:id="img_0010" break="yes"/>[Staatsrat] der [Vollzugsausschuss] den
-                        Beschluss der Nationalversammlung [seiner] gemäss den Gesetzen und [der]
-                        Geschäfts[vorschrift][ordnung] beraten und dessen Vollzug beschlossen hat[,]
-                        [Damit] erlangt der Beschluss der Nationalversammlung den Charakter eines
-                        Gesetzes. Zu [seinem] [dessen] Inkraftreten bedarf das Gesetz der
-                        Ordnungsmässigen Kundmachung. Diese erfolgt im Staatsanzeiger für [formel]
-                        Südostdeutschland [in] [mit] folgender [Weise]: Nach Anhörung des Senates[,]
-                        [und] auf Grund des Beschlusses des Volkshauses und[]kraft der
-                        Zu[Staatsrates] [macht] [wird angeordnet, wie folgt.] stimmung des
-                        Vollzugsausschusses [erkent?] die Staatsregierung [das nachstehende Gesetz
-                        kund]. Die Kundmachung ist [zu zeichnen] [Staatsrates] vom Präsidenten des
-                        Voltzugsausschusses [und vom] [dem] Staatskanzler [und von den mit dem
-                        Vollzuge betrauten Staatssekretären zu zeichnen. [§ 32.] [§ 18] Das
-                        Volkshaus besteht aus [.......] Abgeordneten, welche</p>
-                    <p>auf Grund des allgemeinen, gleichen und direkten Wahlrechtes nach den
-                        Grundsätzen der Verhältniswahl [gewählt we] berufen werden. Jeder politische
-                        Kreis ([......] [§27, 44]) ist zugleich Wahlkreis, und wählt [auf je .....
-                        Einwohner einen Abgeordneten] so viele Abgeordnete, dass auf je ............
-                        Einwohner ein [den] [samt Ersatzmänner[n]] Vertreter entfällt. Sämtliche
-                        Abgeordnete eines Kreises* werden in einem Wahlgange durch Listenwahl
-                        berufen. [19] [§ 23.]</p>
+                        zur Beratung und Rückäusserung übermittelt. Auch dem Senate steht das Recht
+                            zu<add>, Anträge seiner Mitglieder zu beraten und zum Beschluß zu
+                            erheben. Solche</add>
+                        <del>Gesetzesanträge zu beschliessen.</del>
+                        <choice>
+                            <sic>V</sic>
+                            <corr>v</corr>
+                        </choice>om Senate selbst<choice>
+                            <del>ständige</del>
+                            <add>tätig</add>
+                        </choice> gefasste<add>n</add> Gesetzesbeschlüsse und <add>die</add> von ihm
+                        abgegebenen Rückäusserungen sind vom Volkshause <choice>
+                            <del>neuerlich zu verhandeln.</del>
+                            <add> der </add>
+                            <add>weiteren</add>
+                        </choice> Behandlung zu unterziehen<choice>
+                            <del>. D</del>
+                            <add>, d</add>
+                        </choice>er <choice>
+                            <del>sohin</del>
+                            <add>über sie</add>
+                        </choice> vom Volkshause gefasste Beschluss <del>ist endgiltig, und
+                            gelangt</del><add> gilt alls Beschluss der Nationalversammlung und</add>
+                        wird an den <choice>
+                            <sic>Vollzugsausschuss</sic>
+                            <corr>(Staatsrat) </corr>
+                        </choice> geleitet<choice>
+                            <sic/>
+                            <corr>.</corr>
+                        </choice> Der <choice>
+                            <del>Vollzugsausschuss</del>
+                            <add>Staatsrat</add>
+                        </choice> hat das Recht<choice>
+                            <sic> ,</sic>
+                            <corr>,</corr>
+                        </choice> einen Beschluss der Nationalversammlung, wenn er ihn als zum
+                        Vollzuge ungeeignet befindet, binnen vierzehn Tagen nach <choice>
+                            <del>der</del>
+                            <add>dessen</add>
+                        </choice> Fassung <del>des Beschlusses</del> an das Volkshaus
+                        zurückzuleiten. In diesem Falle ist jedoch der <choice>
+                            <del>Vollzugsausschuss</del>
+                            <add>Staatsrat</add>
+                        </choice> gehalten<add>,</add> in dem Gegenstande <del>eine eigene Vorlage
+                            dem Volkshause binnen drei Monaten </del>
+                        <add>binnen drei Monaten dem Volkshause eine eigene Vorlage </add> zu
+                        unterbreiten. Liegt über diese Vorlage ein neuerlicher Beschluss der
+                        Nationalversammlung vor, so kann der <choice>
+                            <del>Vollzugsausschuss</del>
+                            <add>Staatsrat</add>
+                        </choice> dem Beschlusse den Vollzug nicht mehr versagen. <choice>
+                            <del>Der</del>
+                            <add>Indem der</add>
+                        </choice> Präsident des <choice>
+                            <del>Vollzugsausschusses </del>
+                            <add>Staatsrats</add>
+                        </choice>bestätigt, dass der <add>mit seiner Namensfertigung</add><pb
+                            facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><fw type="pageNum"
+                            >7-</fw></p>
+                    <p><choice>
+                            <del>der Vollzugsausschuss</del>
+                            <add>Staatsrat</add>
+                        </choice> den Beschluss der Nationalversammlung gemäss den Gesetzen und <choice>
+                            <del>der</del>
+                            <add> seiner</add>
+                        </choice> Geschäfts<choice>
+                            <del>vorschrift</del>
+                            <add>ordnung</add>
+                        </choice> beraten und dessen Vollzug beschlossen hat<choice>
+                            <del>.</del>
+                            <add>,</add>
+                        </choice>
+                        <del>Damit</del> erlangt der Beschluss der Nationalversammlung den Charakter
+                        eines Gesetzes. Zu <choice>
+                            <del>seinem</del>
+                            <add>dessen</add>
+                        </choice> Inkraftreten bedarf das Gesetz der <choice>
+                            <sic>O</sic>
+                            <corr>o</corr>
+                        </choice>rdnungsmässigen Kundmachung. Diese erfolgt im Staatsanzeiger für
+                        Südostdeutschland <choice>
+                            <del>in</del>
+                            <add>mit</add>
+                        </choice> folgender <choice>
+                            <del>Weise</del>
+                            <add>Formel</add>
+                        </choice>: Nach Anhörung des Senates<choice>
+                            <del> und</del>
+                            <add>,</add>
+                        </choice> auf Grund des Beschlusses des Volkshauses und<choice>
+                            <sic/>
+                            <corr> </corr>
+                        </choice>kraft der Zustimmung des <choice>
+                            <del>Vollzugsausschusses macht die Staatsregierung das nachstehende
+                                Gesetz kund.</del>
+                            <add>Staatsrates wird angeordnet, wie folgt.</add>
+                        </choice> Die Kundmachung ist <del>zu zeichnen</del> vom Präsidenten des<choice>
+                            <del> Vollzugsausschusses und vom</del>
+                            <add>Staatsrates, dem Staatskanzler</add>
+                        </choice><choice>
+                            <del>.</del>
+                            <add>und von den mit dem Vollzuge betrauten Staatssekretären zu
+                                zeichnen.</add>
+                        </choice></p>
+                    <p type="legal_section"/>
+                    <p><choice>
+                            <del><label>§ 22. </label></del>
+                            <add><label>§ 18 </label></add>
+                        </choice>
+                    </p>
+                    <p>Das Volkshaus besteht aus <del>.......</del> Abgeordneten, welche auf Grund
+                        des allgemeinen, gleichen und direkten Wahlrechtes nach den Grundsätzen der
+                        Verhältniswahl <del>gewählt we<choice>
+                                <sic/>
+                                <corr>rden</corr>
+                            </choice></del> berufen werden. Jeder politische Kreis <choice>
+                            <del>......</del>
+                            <add>§27, 44</add>
+                        </choice> ist zugleich Wahlkreis<del>,</del>
+                        <del>und wählt auf je ..... Einwohner einen Abgeordneten.</del> so viele
+                        Abgeordnete, dass auf je ............ Einwohner ein Vertreter entfällt.
+                        Sämtliche Abgeordnete eines Kreises* werden in einem Wahlgange durch
+                        Listenwahl berufen. [19] [§ 23.]</p>
                     <p>Wahlberechtigt zur Wahl eines Abgeordneten ist jeder Staatsbürger ohne
                         Unterschied des Geschlechtes, welcher das 20. Lebenjahr zurückgelegt hat,
                         nach der Reichsratswahlordnung vom Wahlrechte nicht ausgenommen oder
