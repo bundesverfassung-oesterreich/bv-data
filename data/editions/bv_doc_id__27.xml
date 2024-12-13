@@ -66,7 +66,10 @@
                         <idno type="goobi">14556</idno>
                   </publicationStmt>
                   <sourceDesc>
-                        <msDesc type="invetory">
+                        <listWit>
+                              <witness sameAs="#bv_doc_id__71"/>
+                        </listWit>
+                        <msDesc type="invetory" subtype="primary">
                               <msIdentifier>
                                     <institution key="https://d-nb.info/gnd/37748-X"
                                           >Österreichisches Staatsarchiv</institution>
@@ -92,8 +95,8 @@
                                     </msItem>
                               </msContents>
                               <physDesc>
-                                    <objectDesc form="Typoskript"> </objectDesc>
-                                    <handDesc> </handDesc>
+                                    <objectDesc form="Typoskript"/>
+                                    <handDesc/>
                               </physDesc>
                               <history>
                                     <origin notBefore-iso="1920-04-12" notAfter-iso="1920-04-12">12.
@@ -112,12 +115,11 @@
                               (händisch ergänztes Datum auf dem Deckblatt) </date>
                   </creation>
             </profileDesc>
-            <revisionDesc status="structured">
+            <revisionDesc status="text_correct">
                   <change when="2024-08-23" who="#cfh">document automatically created</change>
                   <change when="2024-09-08" who="#m_huber">div created</change>
                   <change when="2024-09-14" who="#m_huber">formatting completed</change>
-                  <change when="2024-09-26" who="#n_zügel">Tanja Vögtlin: Korrekturen
-                        eingefügt.</change>
+                  <change when="2024-09-26" who="#t_voegtlin">Korrekturen eingefügt.</change>
             </revisionDesc>
       </teiHeader>
       <facsimile xmlns="http://www.tei-c.org/ns/1.0">
