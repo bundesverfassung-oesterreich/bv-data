@@ -62,29 +62,43 @@
                 <idno type="goobi">14550</idno>
             </publicationStmt>
             <sourceDesc>
-                <msDesc type="invetory">
-                    <msIdentifier>
-                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
-                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
-                        <idno type="archive">AVA, Nachlasssammlung, E1717 (Nachlass Fink) Karton 3, Mappe 2</idno>
-                    </msIdentifier>
-                    <msContents>
-                        <msItem>
-                            <author role="acdh:hasAuthor">Unterausschuss des Verfassungsausschusses</author>
-                            <title>UA Entwurf 26. August 1920 Textvariante</title>
-                            <note type="editor">UA-Entwurf 26. August Textvariante (Titel des Dokuments: "Entwurf eines Gesetzes, betreffend die Verfassung der Republik Österreich"), unklar welchen Stand der Bearbeitung im UA das Dokument wiedergibt. Handschriftlich gekennzeichnet mit "Seipel II", einliegend ein Blatt in Maschinschrift mit Textvarianten zu den Artikeln 92 und 92a, Zustand gut, zahlreiche handschriftliche Ergänzungen in Bleistift, 157 Artikel</note>
-                        </msItem>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc form="Druck">
-                        </objectDesc>
-                        <handDesc>
-                        </handDesc>
-                    </physDesc>
-                    <history>
-                        <origin notBefore-iso="1920-08-26" notAfter-iso="1920-08-26">26. August 1920</origin>
-                    </history>
-                </msDesc>
+                        <listWit>
+                              <witness sameAs="#bv_doc_id__33"/>
+                        </listWit>
+                <msDesc type="invetory" subtype="secondary">
+                              <msIdentifier>
+                                    <institution key="https://d-nb.info/gnd/37748-X"
+                                          >Österreichisches Staatsarchiv</institution>
+                                    <repository key="https://d-nb.info/gnd/1601181-8">Archiv der
+                                          Republik (Wien)</repository>
+                                    <idno type="archive">AVA, Nachlasssammlung, E1717 (Nachlass
+                                          Fink) Karton 3, Mappe 2</idno>
+                              </msIdentifier>
+                              <msContents>
+                                    <msItem>
+                                          <author role="acdh:hasAuthor">Unterausschuss des
+                                                Verfassungsausschusses</author>
+                                          <title>UA Entwurf 26. August 1920 Textvariante</title>
+                                          <note type="editor">UA-Entwurf 26. August Textvariante
+                                                (Titel des Dokuments: "Entwurf eines Gesetzes,
+                                                betreffend die Verfassung der Republik Österreich"),
+                                                unklar welchen Stand der Bearbeitung im UA das
+                                                Dokument wiedergibt. Handschriftlich gekennzeichnet
+                                                mit "Seipel II", einliegend ein Blatt in
+                                                Maschinschrift mit Textvarianten zu den Artikeln 92
+                                                und 92a, Zustand gut, zahlreiche handschriftliche
+                                                Ergänzungen in Bleistift, 157 Artikel</note>
+                                    </msItem>
+                              </msContents>
+                              <physDesc>
+                                    <objectDesc form="Druck"/>
+                                    <handDesc/>
+                              </physDesc>
+                              <history>
+                                    <origin notBefore-iso="1920-08-26" notAfter-iso="1920-08-26">26.
+                                          August 1920</origin>
+                              </history>
+                        </msDesc>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -97,7 +111,7 @@
                 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="structured">
+        <revisionDesc status="text_correct">
                   <change when="2024-07-17" who="#cfh">document automatically created</change>
                   <change when="2024-07-18" who="#m_huber">div erzeugt</change>
                   <change when="2024-08-17" who="#m_huber">formatting completed</change>
