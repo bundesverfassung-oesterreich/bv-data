@@ -62,29 +62,39 @@
                 <idno type="goobi">14562</idno>
             </publicationStmt>
             <sourceDesc>
-                <msDesc type="invetory">
-                    <msIdentifier>
-                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
-                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
-                        <idno type="archive">AdR, Büro Seitz, Karton 7</idno>
-                    </msIdentifier>
-                    <msContents>
-                        <msItem>
-                            <author role="acdh:hasAuthor">Mayr, Michael</author>
-                            <title>Mayr Entwurf Druck I</title>
-                            <note type="editor">Mayr I (Titel des Dokuments "Vorentwurf einer Bundesstaatsverfassung"), Zustand: gut, zahlreiche handschriftliche Ergänzungen und Anstreichungen, vermutlich von Seitz, 157 Artikel</note>
-                        </msItem>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc form="Druck">
-                        </objectDesc>
-                        <handDesc>
-                        </handDesc>
-                    </physDesc>
-                    <history>
-                        <origin notBefore-iso="1920-01-25" notAfter-iso="1920-02-10">Nach dem 25. Jänner 1920 (Ende Gespräche Mayers mit den Ländern, jedoch vor dem 10. Februar 1920 (Erscheinen in der Rechspost)</origin>
-                    </history>
-                </msDesc>
+                        <listWit>
+                              <witness sameAs="#bv_doc_id__67"/>
+                        </listWit>
+                <msDesc type="invetory" subtype="secondary">
+                              <msIdentifier>
+                                    <institution key="https://d-nb.info/gnd/37748-X"
+                                          >Österreichisches Staatsarchiv</institution>
+                                    <repository key="https://d-nb.info/gnd/1601181-8">Archiv der
+                                          Republik (Wien)</repository>
+                                    <idno type="archive">AdR, Büro Seitz, Karton 7</idno>
+                              </msIdentifier>
+                              <msContents>
+                                    <msItem>
+                                          <author role="acdh:hasAuthor">Mayr, Michael</author>
+                                          <title>Mayr Entwurf Druck I</title>
+                                          <note type="editor">Mayr I (Titel des Dokuments
+                                                "Vorentwurf einer Bundesstaatsverfassung"), Zustand:
+                                                gut, zahlreiche handschriftliche Ergänzungen und
+                                                Anstreichungen, vermutlich von Seitz, 157
+                                                Artikel</note>
+                                    </msItem>
+                              </msContents>
+                              <physDesc>
+                                    <objectDesc form="Druck"/>
+                                    <handDesc/>
+                              </physDesc>
+                              <history>
+                                    <origin notBefore-iso="1920-01-25" notAfter-iso="1920-02-10"
+                                          >Nach dem 25. Jänner 1920 (Ende Gespräche Mayers mit den
+                                          Ländern, jedoch vor dem 10. Februar 1920 (Erscheinen in
+                                          der Rechspost)</origin>
+                              </history>
+                        </msDesc>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -97,7 +107,7 @@
                 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="structured">
+        <revisionDesc status="text_correct">
                   <change when="2024-09-07" who="#cfh">document automatically created</change>
                   <change when="2024-09-08" who="#m_huber">div created</change>
                   <change when="2024-09-14" who="#m_huber">formatting completed</change>
