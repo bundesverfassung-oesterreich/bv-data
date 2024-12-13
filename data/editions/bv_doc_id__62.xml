@@ -62,29 +62,39 @@
                 <idno type="goobi">14618</idno>
             </publicationStmt>
             <sourceDesc>
-                <msDesc type="invetory">
-                    <msIdentifier>
-                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
-                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
-                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 48</idno>
-                    </msIdentifier>
-                    <msContents>
-                        <msItem>
-                            <author role="acdh:hasAuthor">Konstituierende Nationalversammlung</author>
-                            <title>B-VG saubere Variante</title>
-                            <note type="editor">B-VG (Titel des Dokuments: "Gesetz vom 1. Oktober 1920, Bundesverfassungsgesetz"), Typ: Druck, Zustand: gut, keine Anmerkungen, Originalunterschriften der Bundesregierung, 152 Artikel</note>
-                        </msItem>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc form="Druck">
-                        </objectDesc>
-                        <handDesc>
-                        </handDesc>
-                    </physDesc>
-                    <history>
-                        <origin notBefore-iso="1920-10-01" notAfter-iso="1920-10-01">1. Oktober 1920</origin>
-                    </history>
-                </msDesc>
+                        <listWit>
+                              <witness sameAs="#bv_doc_id__11"/>
+                        </listWit>
+                <msDesc type="invetory" subtype="primary">
+                              <msIdentifier>
+                                    <institution key="https://d-nb.info/gnd/37748-X"
+                                          >Österreichisches Staatsarchiv</institution>
+                                    <repository key="https://d-nb.info/gnd/1601181-8">Archiv der
+                                          Republik (Wien)</repository>
+                                    <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton
+                                          48</idno>
+                              </msIdentifier>
+                              <msContents>
+                                    <msItem>
+                                          <author role="acdh:hasAuthor">Konstituierende
+                                                Nationalversammlung</author>
+                                          <title>B-VG saubere Variante</title>
+                                          <note type="editor">B-VG (Titel des Dokuments: "Gesetz vom
+                                                1. Oktober 1920, Bundesverfassungsgesetz"), Typ:
+                                                Druck, Zustand: gut, keine Anmerkungen,
+                                                Originalunterschriften der Bundesregierung, 152
+                                                Artikel</note>
+                                    </msItem>
+                              </msContents>
+                              <physDesc>
+                                    <objectDesc form="Druck"/>
+                                    <handDesc/>
+                              </physDesc>
+                              <history>
+                                    <origin notBefore-iso="1920-10-01" notAfter-iso="1920-10-01">1.
+                                          Oktober 1920</origin>
+                              </history>
+                        </msDesc>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
