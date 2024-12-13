@@ -62,29 +62,39 @@
                 <idno type="goobi">14560</idno>
             </publicationStmt>
             <sourceDesc>
-                <msDesc type="invetory">
-                    <msIdentifier>
-                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
-                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
-                        <idno type="archive">AdR, Büro Seitz, Karton 10</idno>
-                    </msIdentifier>
-                    <msContents>
-                        <msItem>
-                            <author role="acdh:hasAuthor">Großdeutsche Volkspartei</author>
-                            <title>Großdeutsch Entwurf KNV Beilage</title>
-                            <note type="editor">Großdeutsch (Titel des Dokuments "Antrag des Abgeordneten Dinghofer und Genossen betreffend die Grundzüge der österreichischen Verfassung"), KNV Beilage 842, Zustand: gut, handschriftliche Ergänzung am Titelblatt, 104 Artikel</note>
-                        </msItem>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc form="Druck">
-                        </objectDesc>
-                        <handDesc>
-                        </handDesc>
-                    </physDesc>
-                    <history>
-                        <origin notBefore-iso="1920-04-20" notAfter-iso="1920-05-18">18. Mai 1920 (aber vor dem 20. April 1920 entstanden)</origin>
-                    </history>
-                </msDesc>
+                        <listWit>
+                              <witness sameAs="#bv_doc_id__19"/>
+                        </listWit>
+                <msDesc type="invetory" subtype="primary">
+                              <msIdentifier>
+                                    <institution key="https://d-nb.info/gnd/37748-X"
+                                          >Österreichisches Staatsarchiv</institution>
+                                    <repository key="https://d-nb.info/gnd/1601181-8">Archiv der
+                                          Republik (Wien)</repository>
+                                    <idno type="archive">AdR, Büro Seitz, Karton 10</idno>
+                              </msIdentifier>
+                              <msContents>
+                                    <msItem>
+                                          <author role="acdh:hasAuthor">Großdeutsche
+                                                Volkspartei</author>
+                                          <title>Großdeutsch Entwurf KNV Beilage</title>
+                                          <note type="editor">Großdeutsch (Titel des Dokuments
+                                                "Antrag des Abgeordneten Dinghofer und Genossen
+                                                betreffend die Grundzüge der österreichischen
+                                                Verfassung"), KNV Beilage 842, Zustand: gut,
+                                                handschriftliche Ergänzung am Titelblatt, 104
+                                                Artikel</note>
+                                    </msItem>
+                              </msContents>
+                              <physDesc>
+                                    <objectDesc form="Druck"/>
+                                    <handDesc/>
+                              </physDesc>
+                              <history>
+                                    <origin notBefore-iso="1920-04-20" notAfter-iso="1920-05-18">18.
+                                          Mai 1920 (aber vor dem 20. April 1920 entstanden)</origin>
+                              </history>
+                        </msDesc>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -97,12 +107,11 @@
                 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="structured">
+        <revisionDesc status="text_correct">
                   <change when="2024-09-07" who="#cfh">document automatically created</change>
                   <change when="2024-09-08" who="#m_huber">div created</change>
                   <change when="2024-09-14" who="#m_huber">formatting completed</change>
-                  <change when="2024-09-20" who="#n_zügel">Tanja Vögtlin: Korrekturen
-                        eingetragen</change>
+                  <change when="2024-09-20" who="#t_voegtlin">Korrekturen eingetragen</change>
                   <change when="2024-10-31" who="#t_voegtlin">Silbentrennung</change>
             </revisionDesc>
     </teiHeader>

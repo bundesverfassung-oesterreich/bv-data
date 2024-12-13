@@ -61,7 +61,10 @@
         <idno type="goobi">14543</idno>
       </publicationStmt>
       <sourceDesc>
-        <msDesc type="invetory">
+        <listWit>
+          <witness sameAs="#bv_doc_id__28"/>
+        </listWit>
+        <msDesc type="invetory" subtype="secondary">
           <msIdentifier>
             <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
               Staatsarchiv</institution>
@@ -81,8 +84,8 @@
             </msItem>
           </msContents>
           <physDesc>
-            <objectDesc form="Druck"> </objectDesc>
-            <handDesc> </handDesc>
+            <objectDesc form="Druck"/>
+            <handDesc/>
           </physDesc>
           <history>
             <origin notBefore-iso="1920-04-20" notAfter-iso="1920-05-18">18. Mai 1920 (aber vor dem
