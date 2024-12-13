@@ -2617,7 +2617,8 @@
                                     <head>Erster Abschnitt.</head>
                                     <head>Rechtsgleichheit.</head>
                                     <div type="article">
-                                          <head>Art. 137. </head>
+                                          <head><?oxy_custom_start type="oxy_content_highlight" color="255,60,255"?>Art.
+                                                137.</head>
                                           <p type="legal_section"><label>1.</label> Die
                                                 Bundesangehörigen sind vor dem Gesetz gleich. Die
                                                 Fremden, die sich innerhalb des Bundesgebietes
@@ -2626,30 +2627,34 @@
                                                 gleichen Rechte wie die Bundesangehörigen, soweit
                                                 nicht Bundesgesetze im Rahmen des Völkerrechtes und
                                                 der Staatsverträge Einschränkungen ausdrücklich
-                                                vorsehen. </p>
+                                                vorsehen.</p>
                                           <p type="legal_section"><label>2.</label> Einschränkungen
                                                 der Rechtsgleichheit aus dem Grunde der
                                                 Zugehörigkeit zu einer Religion oder Nation sind
-                                                unzulässig. </p>
+                                                unzulässig.</p>
                                           <p type="legal_section"><label>3.</label> Männer und
                                                 Frauen haben grundsätzlich die gleichen
-                                                staatsbürgerlichen Rechte und Pflichten. </p>
+                                                staatsbürgerlichen Rechte und
+                                          Pflichten.</p><?oxy_custom_end?>
                                     </div>
                                     <div type="article">
-                                          <head>Art. 108. </head>
+                                          <head>Art. 108.</head>
                                           <p type="legal_section">Öffentlich-rechtliche Vorrechte
                                                 oder Nachteile der Geburt und des Standes sind
                                                 aufgehoben. Adelsbezeichnungen gelten nur als Teil
-                                                des Namens und dürfen nicht mehr verliehen werden.
-                                          </p>
+                                                des Namens und dürfen nicht mehr verliehen
+                                                werden.</p>
                                     </div>
                                     <div type="article">
                                           <pb facs="#facs_47" n="47" xml:id="img_0047" break="yes"/>
                                           <fw type="pageNum">46</fw>
-                                          <head>Art. 139.</head>
+                                          <head>Art. <choice>
+                                                  <sic/>
+                                                  <corr>109</corr>
+                                                </choice>.</head>
                                           <p type="legal_section">Die öffentlichen Ämter und
                                                 Funktionen sind allen Bundesangehörigen ohne
-                                                Unterschied gleich zugänglich. </p>
+                                                Unterschied gleich zugänglich.</p>
                                     </div>
                               </div>
                               <div type="section">
@@ -2658,7 +2663,10 @@
                                     <div type="section">
                                           <head>a) Persönliche Freiheit.</head>
                                           <div type="article">
-                                                <head>Art. 140. </head>
+                                                <head>Art. <choice>
+                                                  <sic/>
+                                                  <corr>113</corr>
+                                                  </choice>.</head>
                                                 <p type="legal_section"><label>1.</label> Die
                                                   Freiheit der Person ist gewährleistet. Die zum
                                                   Schutze von Staat und Gesellschaft erforderlichen
@@ -2674,18 +2682,23 @@
                                                   vorzubringen. </p>
                                           </div>
                                           <div type="article">
-                                                <head>Art. 141. </head>
-                                                <note type="comment">Im Linzer Entwurf vacat.
-                                                </note>
+                                                <head>Art. 141.</head>
+                                                <note type="comment">Im Linzer Entwurf vacat.</note>
                                           </div>
                                           <div type="article">
-                                                <head>Art. 142. </head>
+                                                <head>Art. <choice>
+                                                  <sic/>
+                                                  <corr>114</corr>
+                                                  </choice>.</head>
                                                 <p type="legal_section">Das Hausrecht ist
                                                   gewährleistet. Wann eine Hausdurchsuchung zulässig
-                                                  ist, wird durch Bundesgesetz bestimmt. </p>
+                                                  ist, wird durch Bundesgesetz bestimmt.</p>
                                           </div>
                                           <div type="article">
-                                                <head>Art. 143. </head>
+                                                <head>Art. <choice>
+                                                  <sic/>
+                                                  <corr>115</corr>
+                                                  </choice>.</head>
                                                 <p type="legal_section">Das Brief-, Post-,
                                                   Telegraphen- und Fernsprechgeheimnis ist jedermann
                                                   gewährleistet. Ausnahmen in den Fällen
@@ -2696,35 +2709,34 @@
                                     </div>
                                     <div type="section">
                                           <head>b) Vereins- und Versammlungsrecht. Freiheit der
-                                                Meinungsäußerung. </head>
+                                                Meinungsäußerung.</head>
                                           <div type="article">
-                                                <head>Art. 117. </head>
-                                                 <note type="comment">1. und 2. gleichlautend.
-                                                </note>
+                                                <head>Art. 117.</head>
                                                 <p type="legal_section"><label>1.</label> Alle
                                                   Bundesangehörigen haben das nur durch d<choice>
                                                   <sic>e</sic>
                                                   <corr>a</corr>
                                                   </choice>s Strafgesetz eingeschränkte Recht,
                                                   Vereine zu bilden. Dieses Recht darf durch
-                                                  Ausführungsgesetze nicht gemindert werden.<pb
-                                                  facs="#facs_48" n="48" xml:id="img_0048"
-                                                  break="yes"/><fw type="pageNum">47</fw></p>
+                                                  Ausführungsgesetze nicht gemindert werden.</p>
+                                                <pb facs="#facs_48" n="48" xml:id="img_0048"
+                                                  break="yes"/>
+                                                <fw type="pageNum">47</fw>
                                                 <p type="legal_section"><label>2.</label> Über die
                                                   Rechtsfähigkeit von Vereinen bestimmen die
-                                                  Vorschriften des bürgerlichen Rechtes. </p>
-                                                <p type="legal_section"><label>3.</label>
-                                                  <note type="comment">Im Linzer Entwurfe vacat.
-                                                  </note></p>
-                                               
+                                                  Vorschriften des bürgerlichen Rechtes.</p>
+                                                <note type="comment">1. und 2. gleichlautend.</note>
+                                                <note type="comment">3. Im Linzer Entwurfe
+                                                  vacat.</note>
                                           </div>
                                           <div type="article">
-                                                <head>Art. 145. </head>
+                                                <head><?oxy_custom_start type="oxy_content_highlight" color="255,60,255"?>Art.
+                                                  145.</head>
                                                 <p type="legal_section"><label>1.</label> Alle
                                                   Bundesangehörigen haben das Recht, sich ohne
                                                   Anmeldung oder besondere Erlaubnis unbewaffnet zu
                                                   versammeln. Dieses Recht darf durch
-                                                  Ausführungsgesetze nicht gemindert werden. </p>
+                                                  Ausführungsgesetze nicht gemindert werden.</p>
                                                 <p type="legal_section"><label>2.</label> Für
                                                   Versammlungen unter freien Himmel kann durch
                                                   Bundesgesetz eine vorherige Anmeldung bei der
@@ -2735,63 +2747,43 @@
                                                   unmittelbarer Gefährdung der Teilnehmer oder
                                                   anderer Personen sowie mit Rücksicht auf die
                                                   unbeeinflußte Tagung öffentlicher
-                                                  Vertretungskörperschaften verboten werden. </p>
+                                                  Vertretungskörperschaften verboten
+                                                werden.</p><?oxy_custom_end?>
                                           </div>
                                           <div type="article">
-                                                <head>Art. 116. </head>
-                                                <p type="legal_section">1. Die Freiheit der
-                                                  Meinungsäußerung ist nur durch das Strafgesetz
-                                                  beschränkt. <note type="comment"
+                                                <head>Art. 116.</head>
+                                                <p type="legal_section"><label>1.</label> Die
+                                                  Freiheit der Meinungsäußerung ist nur durch das
+                                                  Strafgesetz beschränkt.<note type="comment"
                                                   >Gleichlautend.</note></p>
                                                 <p type="legal_section"><label>2.</label> Die
                                                   Beschlagnahme von Druckwerken ist nur in den durch
                                                   Bundesgesetz bestimmten Fällen und Formen
                                                   zulässig. Das Postverbot kann nur gegen
                                                   ausländische Druckschriften in den durch
-                                                  Bundesgesetz vorgesehenen Fällen erlassen werden. </p>
-                                                <p type="legal_section"><label>3.</label> Das
-                                                  Postverbot kann nur gegen ausländische
-                                                  Druckschriften in den durch Bundesgesetz
-                                                  vorgesehenen Fällen erlassen werden. </p>
+                                                  Bundesgesetz vorgesehenen Fällen erlassen
+                                                  werden.</p>
                                                 <p type="legal_section"><label>3.</label> Jede
                                                   Zensur ist aufgehoben; doch können für Theater und
                                                   Lichtspiele durch Gesetz abweichende Bestimmungen
                                                   getroffen werden. Auch sind zur Bekämpfung der
                                                   Schund- und Schmutzliteratur sowie zum Schutze der
                                                   Jugend bei öffentlichen Schaustellungen und
-                                                  Darbietungen bundesgesetzliche Maßnahmen zulässig.
-                                                  <note type="comment">3. Jede Zensur ist
-                                                  aufgehoben; doch können für Theater und
-                                                  Lichtspiele durch Gesetz abweichende Bestimmungen
-                                                  getroffen werden. Auch sind zur Bekämpfung der
-                                                  Schund- und Schmutzliteratur sowie zum Schutze der
-                                                  Jugend bei öffentlichen Schaustellungen und
                                                   Darbietungen bundesgesetzliche Maßnahmen
-                                                  zulässig.</note></p>
+                                                  zulässig.</p>
                                           </div>
                                     </div>
                                     <div type="section">
                                           <head>c) Beschränkungen der Freiheitsrechte. </head>
                                           <div type="article">
-                                                <head>Art. 147. </head>
+                                                <head>Art. 137.</head>
                                                 <p type="legal_section">Im Falle einer dringenden
                                                   Gefahr für den Staat oder seine Bürger können die
-                                                  im zweiten Abschnitte aufgeführten Freiheitsrechte
-                                                  mittels Verordnung der Bundesregierung den durch
-                                                  besonderes <pb facs="#facs_49" n="49"
-                                                  xml:id="img_0049" break="yes"/><fw type="pageNum"
-                                                  >48</fw>Gesetz vorgesehenen Beschränkungen
-                                                  unterworfen werden. Eine solche Verordnung ist dem
-                                                  Bundestage binnen drei Tagen und, falls er nicht
-                                                  versammelt ist, sogleich nach seinem
-                                                  Wiederzusammentritt vorzulegen und unverzüglich
-                                                  außer Kraft zu setzen, wenn es der Bundestag
-                                                  beschließt. </p>
-                                                <note type="comment"><emph>Art. 137.</emph>Im Falle
-                                                  einer dringenden Gefahr für den Staat oder seine
-                                                  Bürger können die Grundrechte der persönlichen
-                                                  Freiheit, des Hausrechtes, der Vereins- und
-                                                  Versammlungsfreiheit, des Brief-, Post-,
+                                                  Grundrechte der persönlichen Freiheit, des
+                                                  Hausrechtes, der Vereins- und
+                                                  Versammlungsfreiheit, des Brief-, Post-, <pb
+                                                  facs="#facs_49" n="49" xml:id="img_0049"
+                                                  break="yes"/><fw type="pageNum">48</fw>
                                                   Telegraphen- und Fernsprechgeheimnisses und der
                                                   Pressefreiheit mittels Verordnung der
                                                   Bundesregierung den durch besonderes Gesetz
@@ -2801,160 +2793,118 @@
                                                   versammelt sind, sogleich nach ihrem
                                                   Wiederzusammentritt vorzulegen und unverzüglich
                                                   außer Kraft zu setzen, wenn es der Bundestag oder
-                                                  der Bundesrat beschließt.</note>
+                                                  der Bundesrat beschließt.</p>
                                           </div>
                                     </div>
                               </div>
                               <div type="section">
-                                    <head>Dritter Abschnitt. </head>
-                                    <head>Wirtschaftsfreiheit und Wirtschaftsorganisation. </head>
+                                    <head>Dritter Abschnitt.</head>
+                                    <head>Wirtschaftsfreiheit und Wirtschaftsorganisation.</head>
                                     <div type="article">
-                                          <head>Art. 148. </head>
+                                          <head>Art. <choice>
+                                                  <sic/>
+                                                  <corr>110</corr>
+                                                </choice>.</head>
                                           <p type="legal_section">Die Freizügigkeit der Personen und
                                                 Güter innerhalb des Bundesgebietes ist
                                                 gewährleistet. Einschränkungen können nur durch
-                                                Bundesgesetz angeordnet werden. </p>
+                                                Bundesgesetz angeordnet werden.</p>
                                     </div>
                                     <div type="article">
-                                          <head>Art. 149. </head>
+                                          <head><?oxy_custom_start type="oxy_content_highlight" color="255,60,255"?>Art.
+                                                149. </head>
                                           <p type="legal_section"><label>1.</label> Die Auswanderung
                                                 ist unbeschadet der Maßnahmen zur Verhinderung der
                                                 Steuerflucht durch Gesetz gewährleistet. </p>
                                           <p type="legal_section"><label>2.</label> Der Verlust der
                                                 Staatsbürgerschaft für Auswanderung wird durch
-                                                Bundesgesetz geregelt. </p>
+                                                Bundesgesetz geregelt. </p><?oxy_custom_end?>
                                     </div>
                                     <div type="article">
-                                          <head>Art. 150. </head>
+                                          <head>Art. <choice>
+                                                  <sic/>
+                                                  <corr>150</corr>
+                                                </choice>.</head>
                                           <p type="legal_section"><label>1.</label> Jeder
                                                 Bundesangehörige kann an jedem Orte des
                                                 Bundesgebietes seinen Aufenthalt und Wohnsitz
                                                 nehmen. Einschränkungen werden durch Bundesgesetz
-                                                bestimmt. </p>
+                                                bestimmt.</p>
                                           <p type="legal_section"><label>2.</label> Jeder
                                                 Bundesangehörige kann gemäß den bestehenden Gesetzen
                                                 im ganzen Bundesgebiete Grundbesitz erwerben und
                                                 sich nach Belieben beruflich betätigen. Die Freiheit
                                                 der Berufswahl ist nur durch das Familienrecht
-                                                beschränkt. </p>
+                                                beschränkt.</p>
                                     </div>
                                     <div type="article">
-                                          <head>Art. 151. </head>
-                                          <p type="legal_section"><label>1.</label> Das Eigentum ist
-                                                gewährleistet. Doch kann das Gesetz im öffentlichen
-                                                Interesse Beschränkungen. Belastungen oder eine
-                                                bestimmte Ausübung des Eigentums vorsehen. <note
-                                                  type="comment"><emph>Art. 134.</emph>Das Eigentum
-                                                  ist gewährleistet, insoweit nicht das Gesetz
-                                                  Beschränkungen vorsieht. </note></p>
-                                          <p type="legal_section"><label>2.</label> Die
-                                                Fideikommisse sind aufgehoben, neue Bindungen dieser
-                                                oder ähnlicher Art dürfen nicht geschaffen werden.
-                                                  <note type="comment"><emph>Art.
-                                                  134.</emph>Enteignung gegen den Willen des
-                                                  Eigentümers ist nur gegen angemessene
-                                                  Entschädigung zulässig. Über die Höhe der
-                                                  Entschädigung entscheiden im Streitfälle —
-                                                  abgesehen von den in Art. 84, 3. Abs.,
-                                                  vorgesehenen Kommissionen die ordentlichen
-                                                  Gerichte. </note></p>
+                                          <head>Art. 134.</head>
+                                          <p type="legal_section"><label>1.</label>Das Eigentum ist
+                                                gewährleistet, insoweit nicht das Gesetz
+                                                Beschränkungen vorsieht.</p>
+                                          <p type="legal_section"><label>2.</label> Enteignung gegen
+                                                den Willen des Eigentümers ist nur gegen angemessene
+                                                Entschädigung zulässig. Über die Höhe der
+                                                Entschädigung entscheiden im Streitfälle – abgesehen
+                                                von den in Art. 84, 3. Abs., vorgesehenen
+                                                Kommissionen –  die ordentlichen Gerichte.</p>
                                           <p type="legal_section"><label>3.</label> Die Zwecke, zu
                                                 denen enteignet werden kann, werden in besonderen
-                                                Gesetzen festgesetzt. <note type="comment"
-                                                  ><emph>Art. 134. </emph>Die Zwecke, zu denen
-                                                  enteignet werden kann, werden in besonderen
-                                                  Gesetzen festgesetzt.</note><pb facs="#facs_50"
-                                                  n="50" xml:id="img_0050" break="yes"/><fw
-                                                  type="pageNum">49</fw>Das Enteignungsverfahren
-                                                wird durch Bundesgesetze geregelt. <note
-                                                  type="comment"><emph>Art. 134.</emph>Das
-                                                  Enteignungsverfahren wird durch Bundesgesetz
-                                                  geregelt.</note></p>
+                                                Gesetzen festgesetzt. <pb facs="#facs_50" n="50"
+                                                  xml:id="img_0050" break="yes"/><fw type="pageNum"
+                                                  >49</fw>Das Enteignungsverfahren wird durch
+                                                Bundesgesetz geregelt.</p>
                                           <p type="legal_section"><label>4. </label>In welchen
                                                 Fällen auf Verfall oder Einziehung von Gegenständen
                                                 als Folge einer rechtswidrigen Handlung erkannt
-                                                werdne kann, wird durch Gesetz bestimmt.<note
-                                                  type="comment"><emph>Art. 134. </emph>In welchen
-                                                  Fällen auf Verfall oder Einziehung von
-                                                  Gegenständen als Folge einer rechtswidrigen
-                                                  Handlung erkannt werden kann, wird durch Gesetz
-                                                  bestimmt. </note></p>
+                                                werden kann, wird durch Gesetz bestimmt.</p>
                                     </div>
                                     <div type="article">
-                                          <head>Art. 152. </head>
+                                          <head>Art. 136.</head>
                                           <p type="legal_section"><label>1.</label> Die Arbeitskraft
-                                                steht unter dem besonderen Schutze des Bundes. <note
-                                                  type="comment"><emph>Art. 136.</emph>Die
-                                                  Arbeitskraft steht unter dem besonderen Schutze
-                                                  des Bundes.</note></p>
-                                          <p type="legal_section"><label>2.</label> Der Sonntag und
-                                                die staatlich anerkannten Feiertage haben der
-                                                Arbeitsruhe zu dienen, von der Ausnahmen nur durch
-                                                Gesetz gestattet werden können. <note type="comment"
-                                                  ><emph>Art. 124.</emph>Der Sonntag ist als Tag der
-                                                  Arbeitsruhe und der seelischen Erhebung gesetzlich
-                                                  geschützt. Die einzelnen Anordnungen hierüber sind
-                                                  mit Rücksicht auf die in verschiedenen Gegenden
-                                                  bestehenden Sitten und Gebräuche durch die
-                                                  Gesetzgebung zu treffen. Unter der gleichen
-                                                  Rücksichtnahme hat diese auch zu bestimmen,
-                                                  welchen Feiertagen ein gleichartiger Schutz
-                                                  zukommt. </note></p>
-                                          <p type="legal_section"><label>3.</label> Der
-                                                normalarbeitstag wird durch Bundesgesetz festgesetzt
-                                                und soll über das bestehende Ausmaß nicht ausgedehnt
-                                                werden. </p>
-                                          <p type="legal_section"><label>4.</label> Der Schutz der
-                                                jugendlichen Arbeiter, der Frauenarbeit und der
-                                                Mutterschaft sowie die Alters- und
-                                                Invalidenversicherung der Arbeiter wird
-                                                gewährleistet. </p>
-                                          <p type="legal_section"><label>5.</label> Die bestehenden
-                                                gesetzlichen Einrichtungen des
-                                                Arbeitsvertragsrechtes, des Arbeiterschutzes und der
-                                                auf Selbstverwaltung ruhenden Arbeiterversicherung,
-                                                dann die Rechte der Arbeiter und Angestellten im
-                                                Betriebe und endlich deren Berufsvertretungen werden
-                                                ausgebaut und verfassungsmäßig gewährleistet. </p>
-                                          <p type="legal_section"><label>6.</label> Der Bund schafft
-                                                ein einheitliches Arbeitsrecht. </p>
-                                          <note type="comment"><emph>Art. 124.</emph>3.—6. Vacat.
-                                          </note>
+                                                steht unter dem besonderen Schutze des Bundes.</p>
+                                          <head>Art. 124.</head>
+                                          <p type="legal_section">Der Sonntag ist als Tag der
+                                                Arbeitsruhe und der seelischen Erhebung gesetzlich
+                                                geschützt. Die einzelnen Anordnungen hierüber sind
+                                                mit Rücksicht auf die in verschiedenen Gegenden
+                                                bestehenden Sitten und Gebräuche durch die
+                                                Gesetzgebung zu treffen. Unter der gleichen
+                                                Rücksichtnahme hat diese auch zu bestimmen,
+                                                welchen Feiertagen ein gleichartiger Schutz
+                                                zukommt.</p>
+                                          <note type="comment">3.—6. Vacat.</note>
                                     </div>
                                     <div type="article">
-                                          <head>Art. 153. </head>
-                                          <p type="legal_section"><label>1.</label> Das
-                                                Koalitionsrecht zur Wahrung und Besserung der
-                                                Arbeits- und Erwerbsbedingungen ist jedermann
-                                                gewährleistet. </p>
-                                          <p type="legal_section"><label>2.</label> Alle
-                                                Verabredungen, welche diese Freiheit einzuschränken
-                                                oder zu behindern suchen, sind rechtswidrig. <note
-                                                  type="comment"><emph>Art. 136.</emph> Die
-                                                  Vereinigungsfreiheit zur Wahrung und Förderung der
-                                                  Arbeits- und Wirtschaftsbedingungen ist für
-                                                  jedermann und alle Berufe gewährleistet. Alle
-                                                  Abreden und Maßnahmen, welche diese Freiheit
-                                                  einzuschränken oder zu behindern suchen, sind
-                                                  rechtswidrig. </note></p>
-                                          <p type="legal_section"><label>3.</label> Industrielle und
-                                                Handelskoalitionen können, wenn es das öffentliche
-                                                Interesse fordert, durch Gesetz der Bundesaufsicht
-                                                oder der Leitung durch Bundesbehörden unterstellt
-                                                und besonderen öffentlichen Pflichten und Lasten
-                                                unterworfen werden. <note type="comment"><emph>Art.
-                                                  136.</emph>Vacat.</note></p>
+                                          <head>Art. 136.</head>
+                                          <p type="legal_section"><label>2.</label> Die
+                                                Vereinigungsfreiheit zur Wahrung und Förderung der
+                                                Arbeits- und Wirtschaftsbedingungen ist für
+                                                jedermann und alle Berufe gewährleistet. Alle
+                                                Abreden und Maßnahmen, welche diese Freiheit
+                                                einzuschränken oder zu behindern suchen, sind
+                                                rechtswidrig.</p>
+                                          <note type="comment">3. Vacat.</note>
                                     </div>
                                     <div type="article">
-                                          <head><choice><sic/><corr>Art. 154.</corr></choice></head>
+                                          <head><choice>
+                                                  <sic/>
+                                                  <corr>Art. 154.</corr>
+                                                </choice></head>
                                           <note type="comment">Vacat.</note>
                                     </div>
                                     <div type="article">
-                                          <head><choice><sic/><corr>Art. 155.</corr></choice></head>
+                                          <head><choice>
+                                                  <sic/>
+                                                  <corr>Art. 155.</corr>
+                                                </choice></head>
                                           <note type="comment">Vacat.</note>
                                     </div>
                                     <div type="article">
-                                          <head><choice><sic/><corr>Art. 156.</corr></choice></head>
+                                          <head><choice>
+                                                  <sic/>
+                                                  <corr>Art. 156.</corr>
+                                                </choice></head>
                                           <note type="comment">Vacat.</note>
                                     </div>
                               </div>
