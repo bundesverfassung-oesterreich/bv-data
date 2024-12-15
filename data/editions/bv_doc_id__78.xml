@@ -107,7 +107,7 @@
                               (aber vor dem 7. Juli 1920 entstanden) </date>
                   </creation>
             </profileDesc>
-            <revisionDesc status="structured">
+            <revisionDesc status="text_correct">
                   <change when="2024-08-23" who="#cfh">document automatically created</change>
                   <change when="2024-08-24" who="#m_huber">formatting completed</change>
                   <change when="2024-10-27" who="#s_kury">NEUES DOKUMENT: Gegenlesen UND getrennt
@@ -116,6 +116,8 @@
                         116</change>
                   <change when="2024-12-01" who="#s_kury">Gegenlesen UND getrennt bis Art. 144 3.->
                         Vorgehen muss zunächst besprochen werden</change>
+                  <change when="2024-12-15" who="#s_kury">gegenlesen beendet- "page break" zu S. 53
+                        und S. 54 befindet scih noch in "notes"</change>
             </revisionDesc>
       </teiHeader>
       <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -2359,22 +2361,25 @@
                                                   versammeln. Dieses Recht darf durch
                                                   Ausführungsgesetze nicht gemindert werden. </p>
                                                 <p type="legal_section"><label>2.</label> Für
-                                                  Versammlungen unter freien Himmel kann durch
-                                                  Bundesgesetz eine vorherige Anmeldung bei der
-                                                  Sicherheitsbehörde sowie aus Verkehrsrücksichten
-                                                  die Beschränkung aut bestimmte, durch die
-                                                  Ortsgemeinde angewiesene Straßen und Plätze
-                                                  vorgesehen werden. Solche Versammlungen können bei
-                                                  unmittelbarer Gefährdung der Teilnehmer oder
-                                                  anderer Personen sowie mit Rücksicht auf die
-                                                  unbeeinflußte Tagung öffentlicher
-                                                  Vertretungskörperschaften verboten werden. </p>
+                                                  Versammlungen unter freie<choice>
+                                                  <sic>n</sic>
+                                                  <corr>m</corr>
+                                                  </choice>Himmel kann durch Bundesgesetz eine
+                                                  vorherige Anmeldung bei der Sicherheitsbehörde
+                                                  sowie aus Verkehrsrücksichten die Beschränkung auf
+                                                  bestimmte, durch die Ortsgemeinde angewiesene
+                                                  Straßen und Plätze vorgesehen werden. Solche
+                                                  Versammlungen können bei unmittelbarer Gefährdung
+                                                  der Teilnehmer oder anderer Personen sowie mit
+                                                  Rücksicht auf die unbeeinflußte Tagung
+                                                  öffentlicher Vertretungskörperschaften verboten
+                                                  werden. </p>
                                           </div>
                                           <div type="article">
                                                 <head>Art. 146. </head>
-                                                <p type="legal_section">1. Die Freiheit der
-                                                  Meinungsäußerung ist nur durch das Strafgesetz
-                                                  beschränkt. </p>
+                                                <p type="legal_section"><label>1.</label>Die
+                                                  Freiheit der Meinungsäußerung ist nur durch das
+                                                  Strafgesetz beschränkt. </p>
                                                 <p type="legal_section"><label>2.</label> Die
                                                   Pressefreiheit ist gewährleistet. Die
                                                   Beschlagnahme von Druckwerken darf nur aus den vom
@@ -2412,21 +2417,6 @@
                                                   Wiederzusammentritt vorzulegen und unverzüglich
                                                   außer Kraft zu setzen, wenn es der Bundestag
                                                   beschließt. </p>
-                                                <note type="comment"><emph>Art. 137.</emph>Im Falle
-                                                  einer dringenden Gefahr für den Staat oder seine
-                                                  Bürger können die Grundrechte der persönlichen
-                                                  Freiheit, des Hausrechtes, der Vereins- und
-                                                  Versammlungsfreiheit, des Brief-, Post-,
-                                                  Telegraphen- und Fernsprechgeheimnisses und der
-                                                  Pressefreiheit mittels Verordnung der
-                                                  Bundesregierung den durch besonderes Gesetz
-                                                  vorgesehenen Beschränkungen unterworfen werden.
-                                                  Eine solche Verordnung ist dem Bundestage und dem
-                                                  Bundesrate binnen drei Tagen und, falls sie nicht
-                                                  versammelt sind, sogleich nach ihrem
-                                                  Wiederzusammentritt vorzulegen und unverzüglich
-                                                  außer Kraft zu setzen, wenn es der Bundestag oder
-                                                  der Bundesrat beschließt.</note>
                                           </div>
                                     </div>
                               </div>
@@ -2467,64 +2457,30 @@
                                           <head>Art. 151. </head>
                                           <p type="legal_section"><label>1.</label> Das Eigentum ist
                                                 gewährleistet. Doch kann das Gesetz im öffentlichen
-                                                Interesse Beschränkungen. Belastungen oder eine
-                                                bestimmte Ausübung des Eigentums vorsehen. <note
-                                                  type="comment"><emph>Art. 134.</emph>Das Eigentum
-                                                  ist gewährleistet, insoweit nicht das Gesetz
-                                                  Beschränkungen vorsieht. </note></p>
+                                                Interesse Beschränkungen, Belastungen oder eine
+                                                bestimmte Ausübung des Eigentums vorsehen. </p>
                                           <p type="legal_section"><label>2.</label> Die
                                                 Fideikommisse sind aufgehoben, neue Bindungen dieser
-                                                oder ähnlicher Art dürfen nicht geschaffen werden.
-                                                  <note type="comment"><emph>Art.
-                                                  134.</emph>Enteignung gegen den Willen des
-                                                  Eigentümers ist nur gegen angemessene
-                                                  Entschädigung zulässig. Über die Höhe der
-                                                  Entschädigung entscheiden im Streitfälle —
-                                                  abgesehen von den in Art. 84, 3. Abs.,
-                                                  vorgesehenen Kommissionen die ordentlichen
-                                                  Gerichte. </note></p>
+                                                oder ähnlicher Art dürfen nicht geschaffen werden. </p>
                                           <p type="legal_section"><label>3.</label> Die Zwecke, zu
                                                 denen enteignet werden kann, werden in besonderen
-                                                Gesetzen festgesetzt. <note type="comment"
-                                                  ><emph>Art. 134. </emph>Die Zwecke, zu denen
-                                                  enteignet werden kann, werden in besonderen
-                                                  Gesetzen festgesetzt.</note><pb facs="#facs_50"
-                                                  n="50" xml:id="img_0050" break="yes"/><fw
-                                                  type="pageNum">49</fw>Das Enteignungsverfahren
-                                                wird durch Bundesgesetze geregelt. <note
-                                                  type="comment"><emph>Art. 134.</emph>Das
-                                                  Enteignungsverfahren wird durch Bundesgesetz
-                                                  geregelt.</note></p>
+                                                Gesetzen festgesetzt. <pb facs="#facs_50" n="50"
+                                                  xml:id="img_0050" break="yes"/><fw type="pageNum"
+                                                  >49</fw>Das Enteignungsverfahren wird durch
+                                                Bundesgesetze geregelt. </p>
                                           <p type="legal_section"><label>4. </label>In welchen
                                                 Fällen auf Verfall oder Einziehung von Gegenständen
                                                 als Folge einer rechtswidrigen Handlung erkannt
-                                                werdne kann, wird durch Gesetz bestimmt.<note
-                                                  type="comment"><emph>Art. 134. </emph>In welchen
-                                                  Fällen auf Verfall oder Einziehung von
-                                                  Gegenständen als Folge einer rechtswidrigen
-                                                  Handlung erkannt werden kann, wird durch Gesetz
-                                                  bestimmt. </note></p>
+                                                werden kann, wird durch Gesetz bestimmt.</p>
                                     </div>
                                     <div type="article">
                                           <head>Art. 152. </head>
                                           <p type="legal_section"><label>1.</label> Die Arbeitskraft
-                                                steht unter dem besonderen Schutze des Bundes. <note
-                                                  type="comment"><emph>Art. 136.</emph>Die
-                                                  Arbeitskraft steht unter dem besonderen Schutze
-                                                  des Bundes.</note></p>
+                                                steht unter dem besonderen Schutze des Bundes. </p>
                                           <p type="legal_section"><label>2.</label> Der Sonntag und
                                                 die staatlich anerkannten Feiertage haben der
                                                 Arbeitsruhe zu dienen, von der Ausnahmen nur durch
-                                                Gesetz gestattet werden können. <note type="comment"
-                                                  ><emph>Art. 124.</emph>Der Sonntag ist als Tag der
-                                                  Arbeitsruhe und der seelischen Erhebung gesetzlich
-                                                  geschützt. Die einzelnen Anordnungen hierüber sind
-                                                  mit Rücksicht auf die in verschiedenen Gegenden
-                                                  bestehenden Sitten und Gebräuche durch die
-                                                  Gesetzgebung zu treffen. Unter der gleichen
-                                                  Rücksichtnahme hat diese auch zu bestimmen,
-                                                  welchen Feiertagen ein gleichartiger Schutz
-                                                  zukommt. </note></p>
+                                                Gesetz gestattet werden können. </p>
                                           <p type="legal_section"><label>3.</label> Der
                                                 normalarbeitstag wird durch Bundesgesetz festgesetzt
                                                 und soll über das bestehende Ausmaß nicht ausgedehnt
@@ -2543,8 +2499,6 @@
                                                 ausgebaut und verfassungsmäßig gewährleistet. </p>
                                           <p type="legal_section"><label>6.</label> Der Bund schafft
                                                 ein einheitliches Arbeitsrecht. </p>
-                                          <note type="comment"><emph>Art. 124.</emph>3.—6. Vacat.
-                                          </note>
                                     </div>
                                     <div type="article">
                                           <head>Art. 153. </head>
@@ -2554,27 +2508,19 @@
                                                 gewährleistet. </p>
                                           <p type="legal_section"><label>2.</label> Alle
                                                 Verabredungen, welche diese Freiheit einzuschränken
-                                                oder zu behindern suchen, sind rechtswidrig. <note
-                                                  type="comment"><emph>Art. 136.</emph> Die
-                                                  Vereinigungsfreiheit zur Wahrung und Förderung der
-                                                  Arbeits- und Wirtschaftsbedingungen ist für
-                                                  jedermann und alle Berufe gewährleistet. Alle
-                                                  Abreden und Maßnahmen, welche diese Freiheit
-                                                  einzuschränken oder zu behindern suchen, sind
-                                                  rechtswidrig. </note></p>
+                                                oder zu behindern suchen, sind rechtswidrig. </p>
                                           <p type="legal_section"><label>3.</label> Industrielle und
                                                 Handelskoalitionen können, wenn es das öffentliche
                                                 Interesse fordert, durch Gesetz der Bundesaufsicht
                                                 oder der Leitung durch Bundesbehörden unterstellt
                                                 und besonderen öffentlichen Pflichten und Lasten
-                                                unterworfen werden. <note type="comment"><emph>Art.
-                                                  136.</emph>Vacat.</note></p>
+                                                unterworfen werden. </p>
                                     </div>
                                     <div type="article">
                                           <head>Art. 154. </head>
                                           <p type="legal_section">Der Schutz der wirtschaftlich
                                                 Schwachen ist die Pflicht des Staates. Sofern durch
-                                                Gesetzgebungs <pb facs="#facs_51" n="51"
+                                                Gesetzgebungs- <pb facs="#facs_51" n="51"
                                                   xml:id="img_0051" break="yes"/><fw type="pageNum"
                                                   >50</fw>oder Verwaltungsmaßnahmen die
                                                 wirtschaftliche Existenz eines Bevölkerungskreises
@@ -2584,7 +2530,6 @@
                                                 oder Arbeitslosigkeit Betroffenen Bedacht zu nehmen
                                                 und für deren Überführung in andere Erwerbs- und
                                                 Arbeitsgelegenheiten vorzusorgen. </p>
-                                          <note type="comment">Vacat.</note>
                                     </div>
                                     <div type="article">
                                           <head>Art. 155. </head>
@@ -2597,7 +2542,7 @@
                                                 genossenschaftliche Mitverwaltung und Beteiligung
                                                 der Erzeuger und Verbraucher aufzubauen. </p>
                                           <p type="legal_section"><label>2.</label> Der Bund hat das
-                                                Recht, zu diesem Zwecke einzeln Wirtschaftsbetriebe
+                                                Recht, zu diesem Zwecke einzelne Wirtschaftsbetriebe
                                                 oder einzelne Zweige der Volkswirtschaft in das
                                                 Gemeineigentum zu überführen und ihre Verwaltung
                                                 unter der Mitwirkung der im Betrieb tätigen Arbeiter
@@ -2616,7 +2561,6 @@
                                                 diese Rechte auch den Ländern oder Gemeinden
                                                 übertragen oder unter Mitwirkung der Länder und
                                                 Gemeinden ausüben. </p>
-                                          <note type="comment">Vacat.</note>
                                     </div>
                                     <div type="article">
                                           <head>Art. 156. </head>
@@ -2640,9 +2584,8 @@
                                                   break="yes"/><fw type="pageNum">51</fw>und
                                                 sozialen Bedeutung zu Wirtschaftskammern
                                                 zusammengefaßt. Eine Bundeswirtschaftskammer bildet
-                                                den ständigen laerat der Bundesregierung in allen
+                                                den ständigen Beirat der Bundesregierung in allen
                                                 wirtschafts- und sozialpolitischen Fragen. </p>
-                                          <note type="comment">Vacat.</note>
                                     </div>
                               </div>
                         </div>
@@ -2661,8 +2604,7 @@
                                                 betrauten Organe. </p>
                                           <p type="legal_section"><label>2.</label> Jedermann bleibt
                                                 es unbenommen, auch die Vorschriften seiner Religion
-                                                zu erfüllen. Vacat. </p>
-                                          <note type="comment">Vacat.</note>
+                                                zu erfüllen. </p>
                                     </div>
                                     <div type="article">
                                           <head>Art. 158. </head>
@@ -2671,22 +2613,20 @@
                                                 Bekenntnisses oder eines religiösen Gelübdes kein
                                                 rechtliches Hindernis gesetzt werden. </p>
                                           <p type="legal_section"><label>2.</label> Die Möglichkeit
-                                                einer Trennung der Eheim Falle des Einverständnisses
-                                                beider Ehegatten ist zu gewährleisten. In welchen
-                                                Fällen die Eheauch ohne Zustimmung eines der beiden
-                                                Ehegatten zu trennen ist, bestimmt das Gesetz. Doch
-                                                ist in beiden Fällen auf die Versorgung der Kinder
-                                                aus der getrennten Ehe durch ihre Eltern gesetzlich
-                                                Bedacht zu nehmen. Vacat. </p>
-                                          <note type="comment">Vacat.</note>
+                                                einer Trennung der Ehe im Falle des
+                                                Einverständnisses beider Ehegatten ist zu
+                                                gewährleisten. In welchen Fällen die Ehe auch ohne
+                                                Zustimmung eines der beiden Ehegatten zu trennen
+                                                ist, bestimmt das Gesetz. Doch ist in beiden Fällen
+                                                auf die Versorgung der Kinder aus der getrennten Ehe
+                                                durch ihre Eltern gesetzlich Bedacht zu nehmen.</p>
                                     </div>
                                     <div type="article">
                                           <head>Art. 159. </head>
                                           <p type="legal_section">Den unehelichen Kindern sind durch
                                                 die Gesetzgebung die gleichen Bedingungen für ihre
                                                 leibliche, seelische und gesellschaftliche
-                                                Entwicklung. zu schaffen wie den ehelichen. </p>
-                                          <note type="comment">Vacat.</note>
+                                                Entwicklung zu schaffen wie den ehelichen. </p>
                                     </div>
                               </div>
                               <div type="section">
@@ -2696,17 +2636,9 @@
                                           <p type="legal_section">Innerhalb des Bundesgebietes steht
                                                 jedermann volle Glaubens- und Gewissensfreiheit,
                                                 volle Freiheit des religiösen Bekenntnisses sowie
-                                                der öffentlichen mit der öffentlichen Ordnung oder
-                                                den guten Sitten und häuslichen Religionsübung zu,
-                                                sofern diese nicht unvereinbar sind. </p>
-                                          <note type="comment"><emph>Art. 119</emph>1. Innerhalb des
-                                                Bundesgebietes steht jedermann volle Glaubens- und
-                                                Gewissensfreiheit, volle Freiheit des religiösen
-                                                Bekenntnisses sowie der öffentlichen und häuslichen
-                                                Religionsübung zu, sofern diese nicht mit der
-                                                öffentlichen Ordnung, oder der guten Sitten
-                                                unvereinbar sind. 2. Die Religionsübung steht unter
-                                                staatlichem Schutze. </note>
+                                                der öffentlichen und häuslichen Religionsausübung
+                                                zu, sofern diese nicht mit der öffentlichen Ordnung
+                                                oder den guten Sitten unvereinbar sind. </p>
                                     </div>
                                     <div type="article">
                                           <head>Art. 161. </head>
@@ -2717,27 +2649,15 @@
                                                   type="pageNum">52</fw>Ämtern ist von dem
                                                 Religionsbekenntnis unabhängig; doch darf den
                                                 staatsbürgerlichen Pflichten durch das
-                                                Religionsbekenntnis kein Abbruch geschehen. <note
-                                                  type="comment"><emph>Art. 120.</emph>Der Genuß der
-                                                  bürgerlichen und politischen Rechte sowie die
-                                                  Zulassung zu den öffentlichen Ämtern ist vom
-                                                  Religionsbekenntnisse unabhängig; doch darf den
-                                                  staatsbürgerlichen Pflichten durch das
-                                                  Religionsbekenntnis kein Abbruch
-                                                geschehen.</note></p>
+                                                Religionsbekenntnis kein Abbruch geschehen. </p>
                                           <p type="legal_section"><label>2.</label> Niemand ist
-                                                verpflichtet, seine religiöse Uberzeugung zu
+                                                verpflichtet, seine religiöse Überzeugung zu
                                                 offenbaren. Die Behörden haben nur so weit das
                                                 Recht, nach der Zugehörigkeit zu einer
                                                 Religionsgesellschaft zu fragen, als davon Rechte
                                                 und Pflichten abhängen oder eine gesetzlich
-                                                angeordnete statistische Erhebung dies erfordert.
-                                                  <note type="comment">Niemand darf zu einer
-                                                  kirchlichen Handlung. zur Teilnahme an einer
-                                                  kirchlichen Feierlichkeit oder an religiösen
-                                                  Übungen gezwungen werden, sofern er nicht der nach
-                                                  dem Gesetz hiezu berechtigten Gewalt anderer
-                                                  untersteht. </note></p>
+                                                angeordnete statistische Erhebung dies
+                                                erfordert.</p>
                                           <p type="legal_section"><label>3.</label> Niemand darf zu
                                                 einer kirchlichen Handlung, zur Teilnahme an einer
                                                 kirchlichen Feierlichkeit oder an religiösen Übungen
@@ -2748,88 +2668,32 @@
                                     <div type="article">
                                           <head>Art. 162. </head>
                                           <p type="legal_section"><label>1.</label> Staat und Kirche
-                                                werden getrennt. <note type="comment"><emph>Art.
-                                                  121</emph>Die Freiheit der Vereinigung zu
-                                                  Religionsgemeinschaften wird gewährleistet. Der
-                                                  Zusammenschluß von Religionsgemeinschaften
-                                                  innerhalb des Bundesgebietes unterliegt keinen
-                                                  Beschränkungen. </note></p>
+                                                werden getrennt. </p>
                                           <p type="legal_section"><label>2.</label> Die Freiheit der
                                                 Vereinigung zu Religionsgesellschaften wird
                                                 gewährleistet. Der Zusammenschluß von
                                                 Religionsgesellschaften innerhalb des Bundesgebietes
-                                                unterliegt keinen Beschränkungen. <note
-                                                  type="comment"><emph>Art. 121</emph>Jede
-                                                  Religionsgemeinschaft ordnet und verwaltet ihre
-                                                  Angelegenheiten einschließlich der Verleihung und
-                                                  Entziehung ihrer Ämter selbständig innerhalb der
-                                                  Schranken des für alle verbindlichen Gesetzes. Sie
-                                                  wird dem Staate gegenüber und über haupt im
-                                                  rechtlichen Verkehr ausschließlich durch die nach
-                                                  ihrer Verfassung hiezu berufenen Organe vertreten.
-                                                </note></p>
+                                                unterliegt keinen Beschränkungen. </p>
                                           <p type="legal_section"><label>3.</label> Jede
                                                 Religionsgesellschaft ordnet und verwaltet ihre
                                                 Angelegenheiten selbständig innerhalb der
                                                 gesetzlichen Schranken. Sie verleiht ihre Ämter ohne
                                                 Mitwirkung des Staates oder der bürgerlichen
-                                                Behörden. <note type="comment"><emph>Art.
-                                                  121</emph>Die bürgerliche Rechtsfähigkeit der
-                                                  bisher staatlich anerkannten
-                                                  Religionsgemeinschaften, ihrer Anstalten,
-                                                  Stiftungen, Gemeinden, Vereine oder sonstigen
-                                                  Körperschaften bleibt unberührt. Die bürgerliche
-                                                  Rechtsfähigkeit anderer Religionsgemeinschaften
-                                                  richtet sich nach den Vorschriften des
-                                                  bürgerlichen Rechtes.</note></p>
+                                                Behörden. </p>
                                           <p type="legal_section"><label>4.</label> Die
                                                 Rechtsfähigkeit der Religionsgesellschaften richtet
                                                 sich nach den Vorschriften des bürgerlichen Rechtes
-                                                über die Rechtsfähigkeit der Vereine. <note
-                                                  type="comment"><emph>Art. 121</emph>Die bisher
-                                                  staatlich anerkannten Religionsgemeinschaften,
-                                                  ihre Anstalten, Stiftungen, Gemeinden, Vereine
-                                                  oder sonstigen Körperschaften bleiben solche des
-                                                  öffentlichen Rechtes. Anderen
-                                                  Religionsgemeinschaften ist die öffentliche
-                                                  Rechtsfähigkeit auf ihr Ansuchen zu gewähren, wenn
-                                                  sie durch ihre Verfassung und die Zahl ihrer
-                                                  Mitglieder die Gewähr der Dauer bieten.
-                                                </note></p>
-                                          <note type="comment"><emph>Art. 121.</emph>5. Schließen
-                                                sich mehrere Religionsgemein schaften dieser Art zu
-                                                einem Verbande zusammen, so wird auch dieser Verband
-                                                auf sein Ansuchen als öffentlich-rechtlicher
-                                                anerkannt. </note>
-                                          <note type="comment"><emph>Art. 121</emph>6. Die
-                                                Religionsgemeinschaften, die solche des öffentlichen
-                                                Rechtes sind, sind berechtigt, Abgaben einzuheben.
-                                                Zur Einbringung solcher Abgaben wird,<pb
-                                                  facs="#facs_54" n="54" xml:id="img_0054"
-                                                  break="yes"/><fw type="pageNum">53</fw>wenn sie
-                                                mit behördlicher Zustimmung auferlegt sind, die
-                                                politische Exekution gewährt. </note>
-                                          <note type="comment"><emph>Art. 121.</emph>7. Bei
-                                                Neueinführung solcher Abgaben sind die staatlichen
-                                                Steuerlisten zur Grundlage zu nehmen.</note>
+                                                über die Rechtsfähigkeit der Vereine.</p>
+                                          <note type="comment"><pb facs="#facs_54" n="54"
+                                                  xml:id="img_0054" break="yes"/><fw type="pageNum"
+                                                  >53</fw></note>
                                     </div>
                                     <div type="article">
                                           <head>Art. 163. </head>
                                           <p type="legal_section">Alle bisher auf Gesetz, Vertrag
                                                 oder besonderen Rechtstitel beruhenden Leistungen
-                                                des Bundes der Bundesländer oder der Gemeinden an
+                                                des Bundes, der Bundesländer oder der Gemeinden an
                                                 die Religionsgesellschaften werden aufgehoben. </p>
-                                          <note type="comment"><emph>Art. 122.</emph>1. Die auf
-                                                Gesetz, Vertrag oder besonderen Rechtstiteln
-                                                beruhenden Staatsleistungen an
-                                                Religionsgemeinschaften können mit deren Zustimmung
-                                                durch Gesetz abgelöst werden. </note>
-                                          <note type="comment"><emph>Art. 122.</emph>2. Das Eigentum
-                                                und andere Rechte der Religionsgemeinschaften,
-                                                religiösen Vereine, Anstalten, Stiftungen, Fonds,
-                                                Gemeinden und Körperschaften an ihrem für Kultus-,
-                                                Unterrichts-, Wohltätigkeits- und sonstige Zwecke
-                                                bestimmten Vermögen werden gewährleistet. </note>
                                     </div>
                                     <div type="article">
                                           <head>Art. 164. </head>
@@ -2837,10 +2701,6 @@
                                                 Dienstes, sowie der Wehrmacht ist die nötige freie
                                                 Zeit zur Befriedigung ihrer religiösen Bedürfnisse
                                                 zu gewähren. </p>
-                                          <note type="comment"><emph>Art. 125.</emph>Den Angehörigen
-                                                des öffentlichen Dienstes sowie der Wehrmacht ist
-                                                die nötige freie Zeit zur Erfüllung ihrer religiösen
-                                                Pflichten zu gewähren.</note>
                                     </div>
                                     <div type="article">
                                           <head>Art. 165. </head>
@@ -2849,12 +2709,6 @@
                                                 besteht, sind die Religionsgesellschaften zur
                                                 Vornahme religiöser Handlungen zuzulassen, wobei
                                                 jeder Zwang fernzuhalten ist. </p>
-                                          <note type="comment"><emph>Art. 123.</emph>Um Gottesdienst
-                                                und Seelsorge im Heer, in Krankenhäusern,
-                                                Strafanstalten oder sonstigen öffentlichen Anstalten
-                                                zu sichern, sind die Religionsgemeinschaften zur
-                                                Vornahme religiöser Handlungen zuzulassen. Hiebei
-                                                ist jeder Zwang fernzuhalten.</note>
                                     </div>
                               </div>
                               <div type="section">
@@ -2887,22 +2741,9 @@
                                                 Fortbildungsschule bis zum vollendeten 18.
                                                 Lebensjahre. Der Unterricht und die Lehrmittel sind
                                                 unentgeltlich zu gewähren. </p>
-                                          <note type="comment"><emph>Art. 128.</emph>1. Jeder
-                                                Bundesangehörige ist berechtigt, Unterrichts- und
-                                                Erziehungsanstalten zu gründen und an solchen
-                                                Unterricht zu erteilen, wenn er seine Befähigung
-                                                hiezu in gesetzlicher Weise nachgewiesen hat.<pb
-                                                  facs="#facs_55" n="55" xml:id="img_0055"
-                                                  break="yes"/><fw type="pageNum">54</fw></note>
-                                          <note type="comment"><emph>Art. 128.</emph>2. Dem Bunde
-                                                steht die Schulaufsicht über das gesamte
-                                                Unterrichts- und Erziehungswesen durch seine Organe
-                                                zu.</note>
-                                          <note type="comment"><emph>Art. 128.</emph>3. Es besteht
-                                                allgemeine Schulpflicht. Ihrer Erfüllung dient
-                                                grundsätzlich die Volksschule mit mindestens acht
-                                                Schuljahren und anschließend die Fortbildungsschule
-                                                bis zum vollendeten 18. Lebensjahre. </note>
+                                          <note type="comment"><pb facs="#facs_55" n="55"
+                                                  xml:id="img_0055" break="yes"/><fw type="pageNum"
+                                                  >54</fw></note>
                                     </div>
                                     <div type="article">
                                           <head>Art. 169. </head>
@@ -2914,31 +2755,16 @@
                                           <head>Art. 170. </head>
                                           <p type="legal_section"><label>1.</label> In allen Schulen
                                                 ist sittliche Bildung, staatsbürgerliche Gesinnung
-                                                und berufliche Tüchtigkeit zu erstreben.<note
-                                                  type="comment"><emph>Art. 129.</emph>1. In allen
-                                                  Schulen ist sittliche Bildung, staatsbürgerliche
-                                                  Gesinnung und berufliche Tüchtigkeit im Geiste des
-                                                  deutschen Volkstums und der Völkerversöhnung zu
-                                                  erstreben. </note>
-                                          </p>
+                                                und berufliche Tüchtigkeit zu erstreben. </p>
                                           <p type="legal_section"><label>2.</label> Beim Unterricht
                                                 in öffentlichen Schulen ist Bedacht zu nehmen, daß
                                                 die Empfindungen Andersdenkender nicht verletzt
-                                                werden. <note type="comment"><emph>Art.
-                                                  129.</emph>2. Beim Unterricht in öffentlichen
-                                                  Schulen ist Bedacht zu nehmen, daß die
-                                                  Empfindungen Andersdenkender nicht verletzt
-                                                  werden.</note></p>
+                                                werden. </p>
                                           <p type="legal_section"><label>3.</label>
                                                 Staatsbürgerkunde und Arbeitsunterricht sind
                                                 Lehrfächer der Schulen. Jeder Schüler erhält bei
                                                 Beendigung der Schulpflicht einen Abdruck der
-                                                Verfassung. <note type="comment"><emph>Art.
-                                                  129.</emph>3. Staatsbürgerkunde und
-                                                  Arbeitsunterricht sind Lehrfächer der Schulen.
-                                                  Jeder Schüler erhält bei Beendigung der
-                                                  Schulpflicht einen Abdruck der
-                                                Verfassung.</note></p>
+                                                Verfassung. </p>
                                     </div>
                                     <div type="article">
                                           <head>Art. 171. </head>
@@ -2948,49 +2774,20 @@
                                                 gesorgt. Doch ist an den öffentlichen Volksschulen
                                                 den Kindern Gelegenheit zu geben, an dem von den
                                                 Religionsgesellschaften veranstalteten
-                                                Religionsunterricht teilzunehmen. <note
-                                                  type="comment"><emph>Art. 130.</emph>Der
-                                                  Religionsunterricht ist ordentliches Lehrfach an
-                                                  allen Volks- und Mittelschulen. Seine Erteilung
-                                                  wird im Wege der Schulgesetzgebung geregelt, wobei
-                                                  die Übereinstimmung mit den Grundsätzen der
-                                                  betreffenden Religionsgemeinschaft zu wahren ist.
-                                                </note></p>
+                                                Religionsunterricht teilzunehmen. </p>
                                           <p type="legal_section"><label>2.</label> Die Teilnahme
                                                 der Schüler an diesem Religionsunterrichte sowie an
                                                 kirchlichen Feiern und Handlungen bleibt der
                                                 Willenserklärung desjenigen Überlassen, der über die
-                                                religiöse Erziehung des Kindes zu bestimmen hat.
-                                                  <note type="comment"><emph>Art. 130</emph> Kein
-                                                  Lehrer an öffentlichen Schulen kann wider seinen
-                                                  erklärten Willen zur Erteilung des
-                                                  Religionsunterrichtes oder zur Vornahme
-                                                  kirchlicher Verrichtungen herangezogen werden.
-                                                </note></p>
-                                          <note type="comment"><emph>Art. 130</emph>3. Es sind
-                                                Einrichtungen zu treffen, damit jedem
-                                                Schulpflichtigen Gelegenheit geboten werde,
-                                                Religionsunterricht zu empfangen. Die
-                                                Religionsgemeinschaften haben das Recht, für den
-                                                Religionsunterricht in den Schulen Sorge zu tragen
-                                                und ihn zu beaufsichtigen. Dem obersten
-                                                Aufsichtsrechte des Staates darf dadurch kein
-                                                Abbruch geschehen.</note>
-                                          <note type="comment"><emph>Art. 130</emph> 4. Die
-                                                wissenschaftliche Heranbildung der Kandidaten des
-                                                geistlichen Standes wird von der betreffenden
-                                                Religionsgemeinschaft geregelt und geleitet. </note>
-                                          <note type="comment"><emph>Art. 130.</emph>5. Die
-                                                theologischen Fakultäten an den Hoch schulen bleiben
-                                                erhalten.</note>
+                                                religiöse Erziehung des Kindes zu bestimmen hat. </p>
                                     </div>
                                     <div type="article">
                                           <pb facs="#facs_56" n="56" xml:id="img_0056" break="yes"/>
                                           <fw type="pageNum">55</fw>
                                           <head>Art. 172. </head>
                                           <p type="legal_section">Für den Zugang minder Bemittelter
-                                                zu den Vacat. mittleren und höheren Schulen sind
-                                                durch Bund, Länder und Gemeinden öffentliche Mittel
+                                                zu den mittleren und höheren Schulen sind durch
+                                                Bund, Länder und Gemeinden öffentliche Mittel
                                                 bereitzustellen. </p>
                                     </div>
                               </div>
@@ -3049,11 +2846,6 @@
                                                 Entscheidung oder Verfügung einer Verwaltungsbehörde
                                                 des Bundes oder eines Landes entscheidet der
                                                 Verwaltungsgerichtshof. </p>
-                                          <note type="comment">Wegen Rechtsverletzung durch die
-                                                Entscheidung oder Verfügung einer Verwaltungsbehörde
-                                                des Bundes oder eines Landes entscheidet nach
-                                                Erschöptung des administrativen Instanzenzuges der
-                                                Verwaltungsgerichtshof. </note>
                                     </div>
                                     <div type="article">
                                           <head>Art. 145. </head>
@@ -3072,17 +2864,17 @@
                                           <head>Art. 146. </head>
                                           <p type="legal_section">Von der Zuständigkeit des
                                                 Verwaltungsgerichtshofes sind ausgeschlossen die
-                                                Angelegenheiten : <list>
+                                                Angelegenheiten: <list>
                                                   <label>1.</label>
                                                   <item>über die den ordentlichen Gerichten die
                                                   Entscheidung zusteht; </item>
                                                   <label>2.</label>
                                                   <item>die zur Kompetenz des
-                                                  Verfassungsgerichtshofes gehören ; </item>
+                                                  Verfassungsgerichtshofes gehören; </item>
                                                   <label>3.</label>
                                                   <item>über die eine Kollegialbehörde, der
                                                   wenigstens ein Richter angehört, zu entscheiden
-                                                  oder zu verfügen hat ; </item>
+                                                  oder zu verfügen hat;</item>
                                                   <label>4.</label>
                                                   <item> in denen und insoweit die
                                                   Verwaltungsbehörden nach freiem Ermessen
@@ -3094,7 +2886,7 @@
                                           <p type="legal_section">Zum Schutze der Interessen des
                                                 Bundes kann die Bandesregierung gegen Entscheidungen
                                                 und Verfügungen von Landesbehörden auch dann den
-                                                Verwaltungsgerichtshof auruten, wenn die
+                                                Verwaltungsgerichtshof anrufen, wenn die
                                                 Entscheidung oder Verfügung nach freiem Ermessen zu
                                                 treffen war.</p>
                                     </div>
@@ -3104,7 +2896,7 @@
                                           <head>Art. 148. </head>
                                           <p type="legal_section">In allen Fällen, in denen der
                                                 Verwaltungsgerichtshof von den Parteien angerufen
-                                                werden kann, hat der Jdministrative Instanzenzug in
+                                                werden kann, hat der Administrative Instanzenzug in
                                                 Angelegenheiten des selbständigen Wirkungskreises
                                                 der Länder noch vor der Entscheidung der
                                                 Landesregierung, in den übrigen Angelegenheiten noch
@@ -3142,7 +2934,7 @@
                                     </div>
                                     <div type="article">
                                           <head>Art. 151. </head>
-                                          <p type="legal_section">Der Präsident, der Vizepräaident
+                                          <p type="legal_section">Der Präsident, der Vizepräsident
                                                 und die Mitglieder des Verwaltungsgerichtshofes
                                                 werden auf Vorschlag der Bundesregierung vom
                                                 Präsidenten. des Bundestages ernannt. </p>
@@ -3182,7 +2974,7 @@
                                                 Gesetzwidrigkeit von Verordnungen einer Bundes- oder
                                                 Landesbehörde auf Antrag eines Gerichtes; über
                                                 Gesetzwidrigkeit von Verordnungen einer
-                                                Landesbehörde auch auf Antrag der Bundesregierung ;
+                                                Landesbehörde auch auf Antrag der Bundesregierung;
                                                 über Gesetzwidrigkeit von Verordnungen der
                                                 Bundesbehörden auch auf Antrag einer
                                                 Landesregierung. </p>
@@ -3214,7 +3006,7 @@
                                                 Verlautbarung der erfolgten Aufhebung in ihrem
                                                 Gesetzblatt. </p>
                                           <p type="legal_section"><label>4.</label> Der
-                                                Verfassungsgerichtshof ist bei der Prüung der
+                                                Verfassungsgerichtshof ist bei der Prüfung der
                                                 Verfassungsmäßigkeit von Gesetzen an keinerlei
                                                 Schranken gebunden. </p>
                                     </div>
@@ -3253,7 +3045,7 @@
                                                   vorsätzlicher oder grobfahrlässiger
                                                   Gesetzesverletzung der genannten Landesorgane
                                                   durch ihre Amtstätigkeit auf Antrag des
-                                                  zuständigen Landtages ; und über die
+                                                  zuständigen Landtages; und über die
                                                   Verantwortlichkeit des Landeshauptmannes, seiner
                                                   Stellvertreter und des Landesamtsdirektors wegen
                                                   vorsätzlicher und grobfahrlässiger
@@ -3295,14 +3087,14 @@
                                                   >61</fw><label>2.</label> Der Präsident, der
                                                 Vizepräsideit, sieben Mitglieder und vier
                                                 Ersatzmänner werden vom Bundestag, sieben Mitglieder
-                                                und vier Ersatzmitgneder vom Bundesrat auf
+                                                und vier Ersatzmitglieder vom Bundesrat auf
                                                 Lebensdauer gewählt. </p>
                                     </div>
                                     <div type="article">
                                           <head>Art. 161. </head>
                                           <p type="legal_section"><label>1.</label> Der Präsident
                                                 des Vertassungsgerichtshofes steht im Range des
-                                                Bundeskanzlers, der Vizeprärésident im lange eines
+                                                Bundeskanzlers, der Vizepräsident im Range eines
                                                 Bundesministers. </p>
                                           <p type="legal_section"><label>2.</label> Das Amt der
                                                 Mitglieder des Verfassungsgerichtshofes ist, soweit

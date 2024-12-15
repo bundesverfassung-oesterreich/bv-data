@@ -106,13 +106,15 @@
                               (aber vor dem 7. Juli 1920 entstanden) </date>
                   </creation>
             </profileDesc>
-            <revisionDesc status="structured">
+            <revisionDesc status="text_correct">
                   <change when="2024-08-23" who="#cfh">document automatically created</change>
                   <change when="2024-08-24" who="#m_huber">formatting completed</change>
                   <change when="2024-11-16" who="#s_kury">NEUES DOKUMENT: Gegenlesen UND getrennt
                         bis Art. 26, 2. </change>
                   <change when="2024-12-01" who="#s_kury">Gegenlesen UND getrennt bis Art. 144 3.->
                         Vorgehen muss zunächst besprochen werden</change>
+                  <change when="2024-12-15" who="#s_kury">Gegenlesen beendet- es fehlt jedoch ein
+                        letzter Abgleich mit dem Originaldokument bezüglich "notes"</change>
             </revisionDesc>
       </teiHeader>
       <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -2738,17 +2740,19 @@
                                                   versammeln. Dieses Recht darf durch
                                                   Ausführungsgesetze nicht gemindert werden.</p>
                                                 <p type="legal_section"><label>2.</label> Für
-                                                  Versammlungen unter freien Himmel kann durch
-                                                  Bundesgesetz eine vorherige Anmeldung bei der
-                                                  Sicherheitsbehörde sowie aus Verkehrsrücksichten
-                                                  die Beschränkung aut bestimmte, durch die
-                                                  Ortsgemeinde angewiesene Straßen und Plätze
-                                                  vorgesehen werden. Solche Versammlungen können bei
-                                                  unmittelbarer Gefährdung der Teilnehmer oder
-                                                  anderer Personen sowie mit Rücksicht auf die
-                                                  unbeeinflußte Tagung öffentlicher
-                                                  Vertretungskörperschaften verboten
-                                                werden.</p><?oxy_custom_end?>
+                                                  Versammlungen unter freie<choice>
+                                                  <sic>n</sic>
+                                                  <corr>m</corr>
+                                                  </choice> Himmel kann durch Bundesgesetz eine
+                                                  vorherige Anmeldung bei der Sicherheitsbehörde
+                                                  sowie aus Verkehrsrücksichten die Beschränkung auf
+                                                  bestimmte, durch die Ortsgemeinde angewiesene
+                                                  Straßen und Plätze vorgesehen werden. Solche
+                                                  Versammlungen können bei unmittelbarer Gefährdung
+                                                  der Teilnehmer oder anderer Personen sowie mit
+                                                  Rücksicht auf die unbeeinflußte Tagung
+                                                  öffentlicher Vertretungskörperschaften verboten
+                                                  werden.</p><?oxy_custom_end?>
                                           </div>
                                           <div type="article">
                                                 <head>Art. 116.</head>
@@ -2970,7 +2974,7 @@
                                                 Angelegenheiten einschließlich der Verleihung und
                                                 Entziehung ihrer Ämter selbständig innerhalb der
                                                 Schranken des für alle verbindlichen Gesetzes. Sie
-                                                wird dem Staate gegenüber und über haupt im
+                                                wird dem Staate gegenüber und überhaupt im
                                                 rechtlichen Verkehr ausschließlich durch die nach
                                                 ihrer Verfassung hiezu berufenen Organe
                                                 vertreten.</p>
@@ -3202,13 +3206,9 @@
                                           <head>Art. 144. </head>
                                           <p type="legal_section">Wegen Rechtsverletzung durch die
                                                 Entscheidung oder Verfügung einer Verwaltungsbehörde
-                                                des Bundes oder eines Landes entscheidet der
-                                                Verwaltungsgerichtshof. </p>
-                                          <note type="comment">Wegen Rechtsverletzung durch die
-                                                Entscheidung oder Verfügung einer Verwaltungsbehörde
                                                 des Bundes oder eines Landes entscheidet nach
-                                                Erschöptung des administrativen Instanzenzuges der
-                                                Verwaltungsgerichtshof. </note>
+                                                Erschöpfung des administrativen Instanzenzuges der
+                                                Verwaltungsgerichtshof. </p>
                                     </div>
                                     <div type="article">
                                           <head>Art. 145. </head>
@@ -3233,11 +3233,11 @@
                                                   Entscheidung zusteht; </item>
                                                   <label>2.</label>
                                                   <item>die zur Kompetenz des
-                                                  Verfassungsgerichtshofes gehören ; </item>
+                                                  Verfassungsgerichtshofes gehören; </item>
                                                   <label>3.</label>
                                                   <item>über die eine Kollegialbehörde, der
                                                   wenigstens ein Richter angehört, zu entscheiden
-                                                  oder zu verfügen hat ; </item>
+                                                  oder zu verfügen hat; </item>
                                                   <label>4.</label>
                                                   <item> in denen und insoweit die
                                                   Verwaltungsbehörden nach freiem Ermessen
@@ -3249,7 +3249,7 @@
                                           <p type="legal_section">Zum Schutze der Interessen des
                                                 Bundes kann die Bandesregierung gegen Entscheidungen
                                                 und Verfügungen von Landesbehörden auch dann den
-                                                Verwaltungsgerichtshof auruten, wenn die
+                                                Verwaltungsgerichtshof anrufen, wenn die
                                                 Entscheidung oder Verfügung nach freiem Ermessen zu
                                                 treffen war.</p>
                                     </div>
@@ -3259,7 +3259,7 @@
                                           <head>Art. 148. </head>
                                           <p type="legal_section">In allen Fällen, in denen der
                                                 Verwaltungsgerichtshof von den Parteien angerufen
-                                                werden kann, hat der Jdministrative Instanzenzug in
+                                                werden kann, hat der Administrative Instanzenzug in
                                                 Angelegenheiten des selbständigen Wirkungskreises
                                                 der Länder noch vor der Entscheidung der
                                                 Landesregierung, in den übrigen Angelegenheiten noch
@@ -3297,7 +3297,7 @@
                                     </div>
                                     <div type="article">
                                           <head>Art. 151. </head>
-                                          <p type="legal_section">Der Präsident, der Vizepräaident
+                                          <p type="legal_section">Der Präsident, der Vizepräsident
                                                 und die Mitglieder des Verwaltungsgerichtshofes
                                                 werden auf Vorschlag der Bundesregierung vom
                                                 Präsidenten. des Bundestages ernannt. </p>
@@ -3337,7 +3337,7 @@
                                                 Gesetzwidrigkeit von Verordnungen einer Bundes- oder
                                                 Landesbehörde auf Antrag eines Gerichtes; über
                                                 Gesetzwidrigkeit von Verordnungen einer
-                                                Landesbehörde auch auf Antrag der Bundesregierung ;
+                                                Landesbehörde auch auf Antrag der Bundesregierung;
                                                 über Gesetzwidrigkeit von Verordnungen der
                                                 Bundesbehörden auch auf Antrag einer
                                                 Landesregierung. </p>
@@ -3369,7 +3369,7 @@
                                                 Verlautbarung der erfolgten Aufhebung in ihrem
                                                 Gesetzblatt. </p>
                                           <p type="legal_section"><label>4.</label> Der
-                                                Verfassungsgerichtshof ist bei der Prüung der
+                                                Verfassungsgerichtshof ist bei der Prüfung der
                                                 Verfassungsmäßigkeit von Gesetzen an keinerlei
                                                 Schranken gebunden. </p>
                                     </div>
@@ -3408,7 +3408,7 @@
                                                   vorsätzlicher oder grobfahrlässiger
                                                   Gesetzesverletzung der genannten Landesorgane
                                                   durch ihre Amtstätigkeit auf Antrag des
-                                                  zuständigen Landtages ; und über die
+                                                  zuständigen Landtages; und über die
                                                   Verantwortlichkeit des Landeshauptmannes, seiner
                                                   Stellvertreter und des Landesamtsdirektors wegen
                                                   vorsätzlicher und grobfahrlässiger
@@ -3450,14 +3450,14 @@
                                                   >61</fw><label>2.</label> Der Präsident, der
                                                 Vizepräsideit, sieben Mitglieder und vier
                                                 Ersatzmänner werden vom Bundestag, sieben Mitglieder
-                                                und vier Ersatzmitgneder vom Bundesrat auf
+                                                und vier Ersatzmitglieder vom Bundesrat auf
                                                 Lebensdauer gewählt. </p>
                                     </div>
                                     <div type="article">
                                           <head>Art. 161. </head>
                                           <p type="legal_section"><label>1.</label> Der Präsident
                                                 des Vertassungsgerichtshofes steht im Range des
-                                                Bundeskanzlers, der Vizeprärésident im lange eines
+                                                Bundeskanzlers, der Vizepräsident im Range eines
                                                 Bundesministers. </p>
                                           <p type="legal_section"><label>2.</label> Das Amt der
                                                 Mitglieder des Verfassungsgerichtshofes ist, soweit
