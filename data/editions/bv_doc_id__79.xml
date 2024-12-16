@@ -2619,25 +2619,44 @@
                                     <head>Erster Abschnitt.</head>
                                     <head>Rechtsgleichheit.</head>
                                     <div type="article">
-                                          <head><?oxy_custom_start type="oxy_content_highlight" color="255,60,255"?>Art.
-                                                137.</head>
-                                          <p type="legal_section"><label>1.</label> Die
-                                                Bundesangehörigen sind vor dem Gesetz gleich. Die
-                                                Fremden, die sich innerhalb des Bundesgebietes
-                                                aufhalten, genießen mit Ausnahme der politischen
-                                                Rechte, die den Staatsbürgern vorbehalten sind, die
-                                                gleichen Rechte wie die Bundesangehörigen, soweit
-                                                nicht Bundesgesetze im Rahmen des Völkerrechtes und
-                                                der Staatsverträge Einschränkungen ausdrücklich
-                                                vorsehen.</p>
-                                          <p type="legal_section"><label>2.</label> Einschränkungen
-                                                der Rechtsgleichheit aus dem Grunde der
-                                                Zugehörigkeit zu einer Religion oder Nation sind
-                                                unzulässig.</p>
-                                          <p type="legal_section"><label>3.</label> Männer und
-                                                Frauen haben grundsätzlich die gleichen
-                                                staatsbürgerlichen Rechte und
-                                          Pflichten.</p><?oxy_custom_end?>
+                                          <head><choice>
+                                                  <sic/>
+                                                  <corr>Art. 108.</corr>
+                                                </choice></head>
+                                          <p type="legal_section"><choice>
+                                                  <sic/>
+                                                  <corr><label>1.</label> Vor dem Gesetze sind die
+                                                  Staatsbürger gleich. Vorrechte der Geburt, der
+                                                  Nationalität und der Konfession sind für immer
+                                                  ausgeschlossen.</corr>
+                                                </choice></p>
+                                          <p type="legal_section"><choice>
+                                                  <sic/>
+                                                  <corr><label>2.</label> Männer und Frauen haben
+                                                  grundsätzlich dieselben staatsbürgerlichen Rechte
+                                                  und Pflichten.</corr>
+                                                </choice></p>
+                                          <p type="legal_section"><choice>
+                                                  <sic/>
+                                                  <corr><label>4.</label> Titel dürfen nur verliehen
+                                                  werden, wenn sie ein Amt oder einen Beruf
+                                                  bezeichnen; akademische Grade und berufliche
+                                                  Standesbezeichnungen sind dadurch nicht
+                                                  betroffen.</corr>
+                                                </choice></p>
+                                          <p type="legal_section"><choice>
+                                                  <sic/>
+                                                  <corr><label>5.</label> Die bisher verliehenen
+                                                  Orden und Ehrenzeichen dürfen weiter getragen
+                                                  werden, neue Ehrenzeichen können nur durch
+                                                  Bundesgesetz geschaffen werden.</corr>
+                                                </choice></p>
+                                          <p type="legal_section"><choice>
+                                                  <sic/>
+                                                  <corr><label>6.</label> Kein Bundesangehöriger
+                                                  darf von einer ausländischen Regierung Titel oder
+                                                  Orden annehmen.</corr>
+                                                </choice></p>
                                     </div>
                                     <div type="article">
                                           <head>Art. 108.</head>
@@ -2732,8 +2751,7 @@
                                                   vacat.</note>
                                           </div>
                                           <div type="article">
-                                                <head><?oxy_custom_start type="oxy_content_highlight" color="255,60,255"?>Art.
-                                                  145.</head>
+                                                <head>Art. 145.</head>
                                                 <p type="legal_section"><label>1.</label> Alle
                                                   Bundesangehörigen haben das Recht, sich ohne
                                                   Anmeldung oder besondere Erlaubnis unbewaffnet zu
@@ -2752,7 +2770,7 @@
                                                   der Teilnehmer oder anderer Personen sowie mit
                                                   Rücksicht auf die unbeeinflußte Tagung
                                                   öffentlicher Vertretungskörperschaften verboten
-                                                  werden.</p><?oxy_custom_end?>
+                                                  werden.</p>
                                           </div>
                                           <div type="article">
                                                 <head>Art. 116.</head>
