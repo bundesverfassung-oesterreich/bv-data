@@ -1363,28 +1363,74 @@
                             <add>Staatsrats.</add>
                         </choice>
                     </p>
-                    <p>§ 26 § 28 2. b) Die Landes und und Kreisgesetzgebung. </p>
-                    <p>§ 38 In jeder Provinz jedem Lande besteht ein Landtag, der auf Grund</p>
-                    <p>des allgemeinen, gleichen und direkten Wahlrechtes aller Staatsbürger nach
-                        dem System der Verhältniswahl berufen wird. Die Erfordernisse der
-                        Wahlberechtigung sind dieselben, wie bei den Wahlen zum Volkshause. Die
-                        Zusammensetzung und Geschäftsordnung, sowie die Zuständigekeit der Landtage
-                        auf dem Gebiete der Ge setzgebung wird durch ein besonderes allgemeines
-                        Staatsgesetz, durch die allgemeine Landesordnung geregelt. Innerhalb dieser
-                        der allgemeinen Landesordung steht den Landtagen das Recht zu, die inneren
-                        Einrichtungen des Land tages und des Landes durch ein[?] Landesstatut
-                        autonom zu ordnen zu regeln. § 39 § 29. § 27 Im Rahmen der Staats- und
-                        Landesgesetze trifft der Kreistag die erforderliche allgemeine Anordnungen.
-                        Für jeden politischen Kreis wird ein Kreistag berufen. Der Kreis ist die der
-                        einheitliche Sprengel für die gesamte Lokalverwaltung, somit für den
-                        politischen, Justiz-, Finanz und Absatz Heeresdienst erster Instanz. Der
-                        Kreistag hat das Recht ist befugt, in , zugleich der einheitliche Sprengel
-                        für die Wahlen zum Volkshaus, zum Landtag und zu den Kreistagen<pb
-                            facs="#facs_20" n="20" xml:id="img_0020" break="yes"/>20 allen
-                        Angelegenheiten der Gesetzgebung und Verwaltung, dem Volkshause und dem
-                        Staatsrate Anträge, Vorstellungen[?] und Beschwerden zu unterbreiten.
-                        Zweiter Abschnitt Von der Regierungs- u Vollzugsgewalt. a) Die allgemeine
-                        Regierungs Gewalt im Allgemeinen § 40 des</p>
+                    <p><del>§ 28 </del><choice>
+                            <del>§ 26</del>
+                            <add>§ 38</add>
+                        </choice>
+                    </p>
+                    <p><choice>
+                            <del>2.</del>
+                            <add> b)</add>
+                        </choice> Die Landes<choice>
+                            <sic/>
+                            <corr/>
+                        </choice>
+                        <add> und  Kreis</add>gesetzgebung.</p>
+                    <p>In <choice>
+                            <del>jeder Provinz</del>
+                            <add>jedem Lande</add>
+                        </choice> besteht ein Landtag, der auf Grund des allgemeinen, gleichen und
+                        direkten Wahlrechtes aller Staatsbürger nach dem System der Verhältniswahl
+                        berufen wird. Die Erfordernisse der Wahlberechtigung sind dieselben, wie bei
+                        den Wahlen zum Volkshause. Die Zusammensetzung und Geschäftsordnung, sowie
+                        die Zuständig<choice>
+                            <sic>e</sic>
+                            <corr/>
+                        </choice>keit der Landtage <del>auf dem Gebiete der Gesetzgebung</del> wird
+                        durch <add>ein besonderes</add> allgemeines Staatsgesetz, <del>durch</del>
+                        die <add>allgemeine</add> Landesordnung geregelt. Innerhalb <choice>
+                            <del>dieser</del>
+                            <add>der allgemeinen</add>
+                        </choice> Landesordung steht den Landtagen <choice>
+                            <del>zu</del>
+                            <add>das Recht zu</add>
+                        </choice>, die inneren Einrichtungen des Landtages und des Landes <add>durch
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,60,255"?>ein<?oxy_custom_end?>[?]
+                            Landesstatut</add> autonom zu  <choice>
+                            <del>zu regeln.</del>
+                            <add>ordnen.</add>
+                        </choice>
+                    </p>
+                    <p><del>§ 29.</del>
+                        <choice>
+                            <del>§ 27 </del>
+                            <add>§ 39</add>
+                        </choice></p>
+                    <p>Im Rahmen der Staats- und Landesgesetze trifft der Kreistag <add>die erforderliche<choice>
+                                <sic/>
+                                <corr>n</corr>
+                            </choice></add> allgemeine<choice>
+                            <sic/>
+                            <corr>n</corr>
+                        </choice> Anordnungen. Für jeden politischen Kreis wird ein Kreistag
+                        berufen. </p>
+                    <p>Der Kreis ist <choice>
+                            <del>die </del>
+                            <add>der</add>
+                        </choice> einheitliche Sprengel für die gesamte Lokalverwaltung, somit für
+                        den politischen, Justiz-, Finanz und Heeresdienst erster Instanz<add>,
+                            zugleich der einheitliche Sprengel für die Wahlen zum Volkshaus, zum
+                            Landtag und zu den Kreistagen</add>. Der Kreistag<choice>
+                            <del> hat das Recht</del>
+                            <add>ist befugt</add>
+                        </choice> , in<pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/><fw
+                            type="pageNum">20</fw> allen Angelegenheiten der Gesetzgebung und
+                        Verwaltung, dem Volkshause <choice>
+                            <del>,</del>
+                            <add>und</add>
+                        </choice> dem Staatsrate Anträge, Vorstellungen[?] und Beschwerden zu
+                        unterbreiten. Zweiter Abschnitt Von der Regierungs- u Vollzugsgewalt. a) Die
+                        allgemeine Regierungs Gewalt im Allgemeinen § 40 des</p>
                     <p>Zur Einsetzung seines Zur Wahl des Vollzugsausschusses oder Senates des
                         Staatsrates tritt die provisorische Nationalversammlung binnen acht Tagen
                         nach Kundmachung dieser Verfassung, später jedes Jahr am zweiten Wochentage
