@@ -102,7 +102,7 @@
                   <change when="2024-09-19" who="#m_huber">div created and partly formatted</change>
                   <change when="2024-10-04" who="#s_kury">Test</change>
                   <change when="2024-10-10" who="#m_huber">formatting completed</change>
-                  <change when="2024-12-13" who="#t_voegtlin">Bis Art. 92 gegengelesen</change>
+                  <change when="2024-12-20" who="#t_voegtlin">fertig gegengelesen</change>
             </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3233" lry="4586" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0010/full/full/0/default.jpg" width="3233px" height="4586px"/></surface><surface ulx="0" uly="0" lrx="3171" lry="4633" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0011/full/full/0/default.jpg" width="3171px" height="4633px"/></surface><surface ulx="0" uly="0" lrx="3152" lry="4535" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0012/full/full/0/default.jpg" width="3152px" height="4535px"/></surface><surface ulx="0" uly="0" lrx="3149" lry="4543" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0013/full/full/0/default.jpg" width="3149px" height="4543px"/></surface><surface ulx="0" uly="0" lrx="3059" lry="4589" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0014/full/full/0/default.jpg" width="3059px" height="4589px"/></surface><surface ulx="0" uly="0" lrx="3147" lry="4607" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0015/full/full/0/default.jpg" width="3147px" height="4607px"/></surface><surface ulx="0" uly="0" lrx="3022" lry="4576" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0016/full/full/0/default.jpg" width="3022px" height="4576px"/></surface></facsimile>
@@ -2003,8 +2003,8 @@
                                     <p type="legal_section"><label>(1)</label> Der Präsident des
                                           Rechnungshofes ist in Bezug auf Verantwortlichkeit den
                                           Mitgliedern der Bundesregierung gleichgestellt. </p>
-                                    <p type="legal_section"><label>(2)</label>Er kann durch Beschluß
-                                          des Nationalrates abberufen werden. </p>
+                                    <p type="legal_section"><label>(2)</label> Er kann durch
+                                          Beschluß des Nationalrates abberufen werden. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 101. </head>
@@ -2082,11 +2082,11 @@
                                                 Beschwerde der Parteien zu erkennen. </p>
                                           <p type="legal_section"><label>(2)</label> Doch kann, wenn
                                                 die Entscheidung oder Verfügung einer Landesbehörde
-                                                die Interessen des Bundes verleht, auch die
+                                                die Interessen des Bundes verletzt, auch die
                                                 Bundesregierung, wenn die Entscheidung oder
                                                 Verfügung einer Bundesbehörde oder einer
-                                                Landesbehörde eines anderen landes die Interessen
-                                                eines Landes verleht, auch die zuständige
+                                                Landesbehörde eines anderen Landes die Interessen
+                                                eines Landes verletzt, auch die zuständige
                                                 Landesregierung den Verwaltungsgerichtshof anrufen. </p>
                                     </div>
                                     <div type="article">
@@ -2101,9 +2101,9 @@
                                                   <item>über die den ordentlichen Gerichten die
                                                   Entscheidung zusteht;  </item>
                                                   <label>3.</label>
-                                                  <item>überdie eine Kollegialbehörde zu entscheiden
-                                                  oder zu verfügen hat, der wenigstens ein Richter
-                                                  angehört.  </item>
+                                                  <item>über die eine Kollegialbehörde zu
+                                                  entscheiden oder zu verfügen hat, der wenigstens
+                                                  ein Richter angehört. </item>
                                                   <label>4.</label>
                                                   <item> in denen und insoweit die
                                                   Verwaltungsbehörden nach freiem Ermessen
@@ -2112,7 +2112,7 @@
                                     </div>
                                     <div type="article">
                                           <head>Artikel 141.</head>
-                                          <p type="legal_section"> (Artitel 141 fällt aus.) </p>
+                                          <p type="legal_section"> (Artikel 141 fällt aus.) </p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 142. </head>
@@ -2120,22 +2120,22 @@
                                                 Verwaltungsgerichtshofes, der über die angefochtene
                                                 Entscheidung oder Verfügung einer
                                                 Landesverwaltungsbehörde zu erkennen hat, soll in
-                                                der Negel ein Richter angehören, der aus dem Justiz-
-                                                oder Verwaltungsdienst in dem betreffenden Hande
+                                                der Regel ein Richter angehören, der aus dem Justiz-
+                                                oder Verwaltungsdienst in dem betreffenden Lande
                                                 hervorgegangen ist. </p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 143.</head>
                                           <p type="legal_section"><label>(1)</label> Das
                                                 stattgebende Erkenntnis des Verwaltungsgerichtshofes
-                                                bewirtt die Aufhebung der rechtswiörigen
-                                                Entscheidung oder verfügung. </p>
+                                                bewirkt die Aufhebung der rechtswidrigen
+                                                Entscheidung oder Verfügung. </p>
                                           <p type="legal_section"><label>(2)</label> Die
-                                                Verwaltungsbehorde ist bei der neu zu treffenden
-                                                entscheibung oder verfügung an die Rechtsanschauung
-                                                des verwaltungsgerichtshofes gebunden. </p>
+                                                Verwaltungsbehörde ist bei der neu zu treffenden
+                                                Entscheidung oder Verfügung an die Rechtsanschauung
+                                                des Verwaltungsgerichtshofes gebunden. </p>
                                           <p type="legal_section"><label>(3)</label> Der
-                                                Verwaltungsgerichtehof kann in der Sache selbst
+                                                Verwaltungsgerichtshof kann in der Sache selbst
                                                 entscheiden. </p>
                                     </div>
                                     <div type="article">
@@ -2144,8 +2144,8 @@
                                                 Verwaltungsgerichtshof hat seinen Sitz in der
                                                 Bundeshauptstadt Wien. </p>
                                           <p type="legal_section"><label>(2)</label> Er besteht aus
-                                                einem Präsidenten, einem Bizepräsidenten uns der
-                                                erforderlichen Anzahl von Senals präsidenten und
+                                                einem Präsidenten, einem Vizepräsidenten und der
+                                                erforderlichen Anzahl von Senats- Präsidenten und
                                                 Räten. </p>
                                           <p type="legal_section"><label>(3)</label> Wenigstens die
                                                 Hälfte der Mitglieder muß die Eignung zum
@@ -2154,16 +2154,16 @@
                                     <div type="article">
                                           <head>Artikel 145.</head>
                                           <p type="legal_section"> Der Präsident, der Vizepräsident
-                                                und die Mitglleder des Verwaltungsgerichtshofes
+                                                und die Mitglieder des Verwaltungsgerichtshofes
                                                 werden auf Vorschlag der Bundesregierung vom
-                                                Bundespräsidenten ernannt der vorschlag der
+                                                Bundespräsidenten ernannt. Der Vorschlag der
                                                 Bundesregierung bedarf bezüglich des Präsidenten und
                                                 der Hälfte der Mitglieder der Zustimmung des
-                                                Hauptansschusses des<pb facs="#facs_8" n="8"
+                                                Hauptausschusses des<pb facs="#facs_8" n="8"
                                                   xml:id="img_0008" break="yes"/><fw type="pageNum"
                                                   >7</fw>Nationalrates, bezüglich des
                                                 Vizepräsidenten und der anderen Hälfte der
-                                                Mitglieder der Zustimmung des Bundegrates. </p>
+                                                Mitglieder der Zustimmung des Bundesrates. </p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 146.</head>
@@ -2176,7 +2176,7 @@
                                     <head>B. Der Verfassungsgerichtshof. </head>
                                     <head/>
                                     <div type="article">
-                                          <head>Artitel 147. </head>
+                                          <head>Artikel 147. </head>
                                           <p type="legal_section">Der Verfassungsgerichtshof
                                                 entscheidet alle Rechtsstreitigkeiten zwischen den
                                                 Ländern sowie zwischen einem Lande und dem
@@ -2188,12 +2188,12 @@
                                                 entscheidet ferner: Kompetenzkonflikte: <list>
                                                   <label>a.  </label>
                                                   <item>zwischen Gerichten und Verwaltungsbehörden
-                                                  deg Bundes oder der Länder:  </item>
+                                                  des Bundes oder der Länder: </item>
                                                   <label>b. </label>
-                                                  <item> zwischen dem Verwaltungsgerichtshof und den
-                                                  ordentlichen Gerichten.  </item>
+                                                  <item>zwischen dem Verwaltungsgerichtshof und den
+                                                  ordentlichen Gerichten. </item>
                                                   <label>c. </label>
-                                                  <item> zwischen Landesregierungen untereinander
+                                                  <item>zwischen Landesregierungen untereinander
                                                   sowie zwischen einer Landesregierung und der
                                                   Bundesregierung. </item>
                                                 </list></p>
@@ -2202,46 +2202,46 @@
                                           <head>Artikel 149. </head>
                                           <p type="legal_section"><label>(1)</label> Der
                                                 Verfassungsgerichtshof entscheidet über
-                                                Gesetzwidrigkeit von verordnungen einer Bundes oder
-                                                Landesbchörde auf Antrag eines Gerichtes: über
-                                                Geschwiörigkeit von Verordnungen einer Landesbehörde
-                                                auch auf Antrag der Bundesregierung: über
-                                                Gesehwiörigkeit von Verordnungen der Bundesbehörden
-                                                auch auf Antrag einer Landesregierung. </p>
+                                                Gesetzwidrigkeit von Verordnungen einer Bundes- oder
+                                                Landesbehörde auf Antrag eines Gerichtes; über
+                                                Gesetzwidrigkeit von Verordnungen einer
+                                                Landesbehörde auch auf Antrag der Bundesregierung;
+                                                über Gesetzwidrigkeit von Verordnungen der
+                                                Bundesbehörden auch auf Antrag einer
+                                                Landesregierung. </p>
                                           <p type="legal_section"><label>(2)</label> Das
-                                                stattgebende Erlenntnis des Verfassungsgerichtshofes
-                                                bewütt die Aufhebung der gesehwiörigen Verordnung
+                                                stattgebende Erkenntnis des Verfassungsgerichtshofes
+                                                bewirkt die Aufhebung der gesetzwidrigen Verordnung
                                                 und verpflichtet die erlassende Behörde zur
-                                                unverzüglichen Heundmachung der erfolgten AufHebung.
-                                          </p>
+                                                unverzüglichen Kundmachung der erfolgten Aufhebung. </p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 150. </head>
                                           <p type="legal_section"><label>(1)</label> Der
                                                 Verfassungsgerichtshof entscheidet über
-                                                Verfassungswidrigkeit von Landesgesehen auf Antrag
+                                                Verfassungswidrigkeit von Landesgesetzen auf Antrag
                                                 der Bundesregierung, über Verfassungswidrigkeit von
-                                                Hundesgesehzen auf Antrag einer Landegregierung. </p>
+                                                Bundesgesetzen auf Antrag einer Landesregierung. </p>
                                           <p type="legal_section"><label>(2)</label> Der Antrag kann
                                                 jederzeit gestellt werden; er ist sofort der
                                                 zuständigen Landesregierung oder der Bundesregierung
-                                                belanntzngeben. </p>
+                                                bekanntzugeben. </p>
                                           <p type="legal_section"><label>(3)</label> Das
-                                                statlgebende Eitenntnis des Verfassungsgerichtshofes
-                                                bewirtt die Aushebung dis Geseges und verpflichtet
-                                                die zuständige Tandesregierung oder die
+                                                stattgebende Erkenntnis des Verfassungsgerichtshofes
+                                                bewirkt die Aufhebung des Gesetzes und verpflichtet
+                                                die zuständige Landesregierung oder die
                                                 Bundesregierung zur Verlautbarung der erfolgten
-                                                Aufhebung im Landesgeschblatte oder im
-                                                Bundesgesehblatte. </p>
+                                                Aufhebung im Landesgesetzblatte oder im
+                                                Bundesgesetzblatte. </p>
                                           <p type="legal_section"><label>(4)</label> Der
                                                 Verfassungsgerichtshof ist bei der Prüfung der
-                                                Verfassungsmäßigkeit von Geseten an leinerlei
-                                                Shranten gebunden. </p>
+                                                Verfassungsmäßigkeit von Gesetzen an keinerlei
+                                                Schranken gebunden. </p>
                                     </div>
                                     <div type="article">
-                                          <head>Artitel 151. </head>
+                                          <head>Artikel 151. </head>
                                           <p type="legal_section">Der Verfassungsgerichtshof
-                                                entscheidet über Anrechtungen von Wahsen zum
+                                                entscheidet über Anfechtungen von Wahlen zum
                                                 Nationalrat, zu den Landtagen und allen anderen
                                                 allgemeinen Vertretungskörpern und über den Antrag
                                                 eines dieser Vertretungskörper auf Erklärung des
@@ -2251,37 +2251,37 @@
                                           <head>Artikel 152. </head>
                                           <p type="legal_section"><label>(1)</label> Der
                                                 Verfassungsgerichtshof entscheidet über die
-                                                Veranwortlichkeit: <list>
+                                                Verantwortlichkeit: <list>
                                                   <label>a. </label>
-                                                  <item>des Bundespräsidenten: </item>
+                                                  <item>des Bundespräsidenten; </item>
                                                   <label> b. </label>
                                                   <item>der Mitglieder der Bundesregierung und der
-                                                  hnen hinsichtlich der Verantwortlichkeit
-                                                  gleichgestellten Organe.  </item>
-                                                  <label>c.  </label>
+                                                  ihnen hinsichtlich der Verantwortlichkeit
+                                                  gleichgestellten Organe; </item>
+                                                  <label>c. </label>
                                                   <item>der Mitglieder der Landesregierungen und der
                                                   ihnen hinsichtlich der Verantwortlichkeit
-                                                  gleichgestellten Sigane, und zwar: <list>
+                                                  gleichgestellten Organe, und zwar: <list>
                                                   <label>1.</label>
                                                   <item>wegen vorsätzlicher oder grobfahrlässiger
                                                   Verletzung der Bundesverfassung durch den
-                                                  Bundespräfidenten auf einen Antrag der
-                                                  Bundesversammlung:  </item>
+                                                  Bundespräsidenten auf einen Antrag der
+                                                  Bundesversammlung; </item>
                                                   <label>2.</label>
                                                   <item>wegen vorsätzlicher oder grobfahrlässiger
                                                   Gesetzesverletzung der unter b genannten Personen
                                                   durch ihre Amtstätigkeit auf einen Antrag des
-                                                  Nationalrates uns wegen vorsäblicher oder
-                                                  grobfahrlässiger Gesehesverlehung der unter e
+                                                  Nationalrates und wegen vorsätzlicher oder
+                                                  grobfahrlässiger Gesetzesverletzung der unter c)
                                                   genannten personen durch ihre Amtstätigkeit auf
-                                                  Antrag des zuständigen Landtages.  </item>
+                                                  Antrag des zuständigen Landtages. </item>
                                                   <label>3.</label>
                                                   <item>über die Verantwortlichkeit des
-                                                  Landeshauptmannes wegen vorsäplicher oder
-                                                  grobfahrlässiger eehesverletung sowie wegen
+                                                  Landeshauptmannes wegen vorsätzlicher oder
+                                                  grobfahrlässiger Gesetzesverletzung sowie wegen
                                                   Nichtbefolgung der Verordungen oder sonstigen
-                                                  anordnungen der Bundesregierung in Angelegenheiten
-                                                  der mittelbaren Bündesverwallung durch seine
+                                                  Anordnungen der Bundesregierung in Angelegenheiten
+                                                  der mittelbaren Bundesverwaltung durch seine
                                                   Amtstätigkeit auf Antrag der Bundesregierung.
                                                   </item>
                                                   </list></item>
@@ -2291,22 +2291,22 @@
                                                 Verfassungsgerichtshofes hat auf Verlust des Amtes,
                                                 unter besonders erschwerenden Umständen auch auf
                                                 Verlust der politischen Rechte auf bestimmte Zeit zu
-                                                lauten; bei geringfügigeren Rechtsverlebungen in den
-                                                unter 3.) erwähnten zällen kann sich der
-                                                Verfassungsgerichtshof darauf beschränten,
-                                                festzustellen, daß eine Rechtsverlebung vorliegt.
-                                          </p>
+                                                lauten; bei geringfügigeren Rechtsverletzungen in
+                                                den unter 3.) erwähnten Fällen kann sich der
+                                                Verfassungsgerichtshof darauf beschränken,
+                                                festzustellen, daß eine Rechtsverletzung vorliegt. </p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 153.</head>
                                           <p type="legal_section"><label>(1)</label> Der
                                                 Verfassungsgerichtshof entscheidet über Beschwerden
-                                                wegen Versehung der verfassungsmäßig gewährleisteten
-                                                subjektiven Rechte durch eine Behörde nach
-                                                brschörfung des aoministratioen znstanzenzuges </p>
+                                                wegen Verletzung der verfassungsmäßig
+                                                gewährleisteten subjektiven Rechte durch eine
+                                                Behörde nach Erschöpfung des administrativen
+                                                Instanzenzuges.</p>
                                           <p type="legal_section"><label>(2)</label> Das
-                                                stattgebende Erkenntnis des Verfassungsgerichtehofes
-                                                bewirkt die Aufhebung der verfasfungs wiörigen
+                                                stattgebende Erkenntnis des Verfassungsgerichtshofes
+                                                bewirkt die Aufhebung der verfassungswidrigen
                                                 Entscheidung oder Verfügung. Die Behörden sind bei
                                                 der neu zu treffenden Entscheidung oder Verfügung an
                                                 die Rechtsanschauung des Verfassungsgerichtshofes
@@ -2314,7 +2314,7 @@
                                     </div>
                                     <div type="article">
                                           <head>Artikel 154. </head>
-                                          <p type="legal_section">Die Grefution der Erkenntnisse des
+                                          <p type="legal_section">Die Exekution der Erkenntnisse des
                                                 Verfassungsgerichtshofes liegt dem Bundespräsidenten
                                                 ob. </p>
                                     </div>
@@ -2323,32 +2323,32 @@
                                           <p type="legal_section"><label>(1)</label> Der
                                                 Verfassungsgerichtshof hat seinen Sitz in Wien.</p>
                                           <p type="legal_section"><label>(2)</label> Er besteht aus
-                                                einem Präsidenten, einem Bizepräsidenten, vierzebn
-                                                Mitgliedern und acht Ersabmitgliedern. </p>
-                                          <p type="legal_section"><label>(3)</label> Der Präsident
-                                                der Vizepräsident sieben Mitglieder und dier
-                                                Ersahmitglieder werden vom Nationaltate, hieben
-                                                Mitglieser und vier Orsahmitglieder vom Bundesrat
-                                                auf Lebensdauer gewahlt. </p>
+                                                einem Präsidenten, einem Vizepräsidenten, vierzehn
+                                                Mitgliedern und acht Ersatzmitgliedern. </p>
+                                          <p type="legal_section"><label>(3)</label> Der Präsident,
+                                                der Vizepräsident, sieben Mitglieder und vier
+                                                Ersatzmitglieder werden vom Nationalrate, sieben
+                                                Mitglieder und vier Ersatzmitglieder vom Bundesrat
+                                                auf Lebensdauer gewählt. </p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 156.</head>
                                           <p type="legal_section"><label>(1)</label> Der Präsident
-                                                des Verfassungsgerichtshofes steht m Range des
-                                                Bundestanglers, der Dizepräsident im Mange eines
+                                                des Verfassungsgerichtshofes steht im Range des
+                                                Bundeskanzlers, der Vizepräsident im Range eines
                                                 Bundesministers. </p>
                                           <p type="legal_section"><label>(2)</label>Das Amt der
                                                 Mitglieder des Verfassungsgerichtshofes ist, soweit
-                                                nicht Miglieder als ständige Referenten ungieren.
-                                                ein Ehrenamt. die ständigen Referenten werden in
-                                                einer Blenarversammlung des Berichts hofes aus der
+                                                nicht Miglieder als ständige Referenten fungieren,
+                                                ein Ehrenamt. Die ständigen Referenten werden in
+                                                einer Plenarversammlung des Gerichtshofes aus der
                                                 Mitte seiner Mitglieder gewählt.</p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 157. </head>
                                           <p type="legal_section">Die nähere Organisation und das
-                                                Verfahren des Versasunge gerichthoses wind durch
-                                                Bundesgeseh geregelt. </p>
+                                                Verfahren des Verfassungsgerichtshofes wird durch
+                                                Bundesgesetz geregelt. </p>
                                     </div>
                               </div>
                         </div>
@@ -2356,45 +2356,45 @@
                               <head>Aus den Übergangsbestimmungen.</head>
                               <div type="article">
                                     <head>Artikel x.</head>
-                                    <p type="legal_section"><label>(1)</label>; Bis zur Grrichtung
+                                    <p type="legal_section"><label>(1)</label> Bis zur Errichtung
                                           der allgemeinen staatlichen Beratung in den Ländern nach
-                                          der Besammungen der Artikel 97a bis 97o bleibt die
-                                          dermalige Beüürtsvermaltung mit der mahgabe bestehen, daß
-                                          im Bereiche jeder Beririshauptmannschaft für jene
-                                          Berwaltungs zweine, für die nicht besondere bimichtungen
-                                          der Eesbswverwaltung bestehen, eine Beytsvertretung
-                                          gemählt wird. </p>
+                                          den Bestimmungen der Artikel 97a bis 97o bleibt die
+                                          dermalige Bezirksverwaltung mit der Maßgabe bestehen, daß
+                                          im Bereiche jeder Bezirkshauptmannschaft für jene
+                                          Verwaltungszweige, für die nicht besondere Einrichtungen
+                                          der Selbstverwaltung bestehen, eine Bezirksverwaltung
+                                          gewählt wird. </p>
                                     <p type="legal_section"><label>(2)</label> In den Städten mit
-                                          eigenem Stalut übernimmt die Gemeindevertretung zugleich
-                                          die Ausgaben der Be itsvernehina. Diese Ansgaben können
-                                          einem beson deren Auschusse der Gemeindevertretung
-                                          übertragen wersen. </p>
+                                          eigenem Statut übernimmt die Gemeindevertretung zugleich
+                                          die Aufgaben der Bezirksvertretung. Diese Aufgaben können
+                                          einem besonderen Auschusse der Gemeindevertretung
+                                          übertragen werden. </p>
                                     <p type="legal_section"><label>(3)</label> In den Bereichen der
-                                          Bezirtzgauptmannschaften wir die Wahl auf Grund des
-                                          gleichen, geheimen, ver sonticen und unmittelbaren
-                                          Wahlrechtes aller Bundesanecherigen durchgeführt, die im
-                                          Bereiche der BezirksHausimannschaft ihren ordentlichen
-                                          Bohnns haben. Die Wahl ist im Bereiche jeder
-                                          Bezirkshauptmannschaft geridtsherirtsweise vorzunehmen;
-                                          die unzähl der man date der Bezirksvertretungen wird auf
-                                          die Gerichtsbezirke nach dem Berhältnis ihrer Einwoynerahl
-                                          aufgeleitt Die Bestimmungen des Artikel 97e, Absatz 2,
-                                          finden nngemase Anmendung. </p>
-                                    <p type="legal_section"><label>(4)</label> In die
-                                          Bezirtsvertretung und nur Personen wählbar, die im
+                                          Bezirkshauptmannschaften wir die Wahl auf Grund des
+                                          gleichen, geheimen, persönlichen und unmittelbaren
+                                          Wahlrechtes aller Bundesangehörigen durchgeführt, die im
                                           Bereiche der Bezirkshauptmannschaft ihren ordentlichen
-                                          Wohnsis haben und zum Landtage wahlbar ino. </p>
+                                          Wohnsitz haben. Die Wahl ist im Bereiche jeder
+                                          Bezirkshauptmannschaft gerichtsbezirksweise vorzunehmen;
+                                          die Anzahl der Mandate der Bezirksvertretungen wird auf
+                                          die Gerichtsbezirke nach dem Verhältnis ihrer
+                                          Einwohnerzahl aufgeteilt. Die Bestimmungen des Artikel
+                                          97e, Absatz 2, finden sinngemäße Anwendung. </p>
+                                    <p type="legal_section"><label>(4)</label> In die
+                                          Bezirksvertretung sind nur Personen wählbar, die im
+                                          Bereiche der Bezirkshauptmannschaft ihren ordentlichen
+                                          Wohnsitz haben und zum Landtage wählbar sind. </p>
                                     <p type="legal_section"><label>(5)</label> Die näheren
                                           Bestimmungen der Durchführung dieser Wahlen werden von der
-                                          Landesgesehgebung geressen. </p>
+                                          Landesgesetzgebung getroffen. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel y.</head>
-                                    <p type="legal_section">Die Festichung der weileren Grundsätze
-                                          für die vorläusige Ausgestaltung der dermäsigen
-                                          Beyütsverwal tung nach Artikel x ist Sache der
+                                    <p type="legal_section">Die Festsetzung der weiteren Grundsätze
+                                          für die vorläufige Ausgestaltung der dermaligen
+                                          Bezirksverwaltung nach Artikel x ist Sache der
                                           Bundesgesetzgebung; ihre Ausführung liegt den
-                                          Landchgesehen ob.</p>
+                                          Landesgesetzen ob.</p>
                               </div>
                         </div>
                   </div></body>
