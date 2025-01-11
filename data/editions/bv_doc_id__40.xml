@@ -100,26 +100,40 @@
         <revisionDesc status="structured">
             <change when="2024-05-01" who="#cfh">document automatically created</change>
             <change when="2024-10-11" who="#n_zügel">JK: structured and text replaced</change>
+            <change when="2025-01-11" who="#m_huber">Seiten formatiert</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0002/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0003/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0004/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0005/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0006/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0007/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0008/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0009/full/full/0/default.jpg" width="3840px" height="5760px"/></surface></facsimile>
     <text type="Sitzungsprotokoll">
-        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><p>Pretokel1 der 5. Sitzung des Unterausschusses des Verfassungsausschusses vom 17.1I11.1520. Beginn
-                    3 Uhr Nachnittsg. Anwesend: Dr. Otto Bauer als Versitzender Heinrich Clessin
-                    Jedok Fiak als Berichterstatter Abx8M Dr. Aebert Danaebers Karl Leuthner 1r.
-                    181a Seipel Steatssekretär Prof.Dr. Michsel Keyr Von der Stastskanzlei:
-                    Kinisterzalret dr. Gerrg Freehlich Sektionerst Dr. Eebert Mannlicher
-                    Hinisterialvzesekretär dr. Kurt Frieberger als Schriftfuhrer Prof. Dr. Hans Kel
-                    sen als Erperte des Verfassungsausschusses.</p><p>637<pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>2 Nach Eröffnung der Sitzung stellt
-                    Berichterstatter Clessin fest, daß es in der Zusammenstellung der bisherigen
-                    Beschlüsse Art. 10, Punkt 5 zu lauten hat: „Maß- und Gewichts-, Normen- und
-                    Punzierungswesen und Punkt 9 dieses Artikels „Dampfkessel- und
-                    Kraftmaschinenwesen“. Hierauf eröffnet Dr. Otto Bauer die Beratung über den
-                    Artikel 13 in der Fassung des Vorentwurfes“. Dr. Danneberg beantragt nach
-                    Annahme des ersten die Beibehaltung des zweiten Satzes im Wortlaut: „Soferne
-                    jedoch in solchen Angelegenheiten ein Akt der vollziehenden Gewalt für mehrere
-                    Länder Rechtswirksamkeit äußern soll, geht die Zuständigkeit für diesen
-                    Vollzugsakt auf den Bund über.</p>
+        <body><div type="main">
+                <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+                <head>Protokoll der 5. Sitzung des Unterausschusses des Verfassungsausschusses vom
+                    17.VIII.1920.</head>
+                <p>Beginn 3 Uhr Nachnittag.</p>
+                <p>Anwesend: </p>
+                <p>Dr. Otto Bauer als Vorsitzender</p>
+                <p>Heinrich Clessin als Berichterstatter</p>
+                <p>Jedok Fiak als Berichterstatter</p>
+                <p>Abram</p>
+                <p>Dr. Robert Danneberg</p>
+                <p>Karl Leuthner</p>
+                <p>Dr. Ignaz Seipel</p>
+                <p>Staatssekretär Prof.Dr. Michael Mayr </p>
+                <p>Von der Stastskanzlei:</p>
+                <p>Ministerialrat Dr. Gerrg Froehlich</p>
+                <p>Sektionsrat Dr. Egbert Mannlicher</p>
+                <p>Ministerialvziesekretär Dr. Kurt Frieberger als Schriftfuhrer</p>
+                <p>Prof. Dr. Hans Kel sen als Erperte des Verfassungsausschusses.</p>
+                <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw type="pageNum">2</fw>
+                    Nach Eröffnung der Sitzung stellt Berichterstatter Clessin fest, daß es in der
+                    Zusammenstellung der bisherigen Beschlüsse Art. 10, Punkt 5 zu lauten hat: „Maß-
+                    und Gewichts-, Normen- und Punzierungswesen und Punkt 9 dieses Artikels
+                    „Dampfkessel- und Kraftmaschinenwesen“. Hierauf eröffnet Dr. Otto Bauer die
+                    Beratung über den Artikel 13 in der Fassung des Vorentwurfes“. Dr. Danneberg
+                    beantragt nach Annahme des ersten die Beibehaltung des zweiten Satzes im
+                    Wortlaut: „Soferne jedoch in solchen Angelegenheiten ein Akt der vollziehenden
+                    Gewalt für mehrere Länder Rechtswirksamkeit äußern soll, geht die Zuständigkeit
+                    für diesen Vollzugsakt auf den Bund über.</p>
                 <p>Professor Kelsen erklärt die Aufnahme dieser Bestimmung mit den Schwierigkeiten,
                     die hervorgerufen werden, wenn sich zum Beispiel die Länder nicht einigen; ein
                     Zustand, wo niemand kompetent sei, dürfe nicht andauern; die Einschränkung sei
@@ -134,8 +148,9 @@
                 <p>Kelsen erklärt, daß Art. 13 Abs. 1 im Zusammenhang der ganzen Verfassung nur so
                     viel bedeutet, daß die Länder ihre Exekutivgewalt nur im Bereiche ihres Landes
                     ausüben dürfen und daß diese Gewalt nicht über die Grenzen ihres Landes wirken
-                    kann.</p><p>631<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>3 Für den zweiten Satz soll folgender
-                    Gedankengang zugrunde gelegt werden:</p>
+                    kann.</p>
+                <p><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><fw type="pageNum">3</fw>
+                    Für den zweiten Satz soll folgender Gedankengang zugrunde gelegt werden:</p>
                 <p>„Soferne in solchen Angelegenheiten ein Akt der vollziehenden Gewalt für mehrere
                     Länder Rechtswirksamkeit äußern soll, geht die Zuständigkeit für diesen
                     Vollzugsakt auf den Bund über, es sei denn, daß durch die auf Grund der Artikel
@@ -149,7 +164,7 @@
                 <p>„Das Bundesgesetz, das die grundsätzliche Regelung vorschreibt, kann für die
                     Erlassung der Ausführungsgesetze eine Frist bestimmen, die nicht geringer als 3
                     Monate und nicht länger als ein Jahr sein darf. Wird diese Frist nicht
-                    eingehalten, so wird die Erlassung dieses Ausführungsgesetzes Bundessache“</p>
+                    eingehalten, so wird die Erlassung dieses Ausführungsgesetzes Bundessache.“</p>
                 <p>Bei Verlesung des Abs. 3, Art. 13 erklärt Min.-Rat Dr. Froehlich, daß die
                     Aufzählung „insbesondere gilt dies auch für die Angclegenheiten der
                     Landeskultur, wie Höferecht usw.“ über Wunsch des Staatsamtes für Justiz
@@ -157,11 +172,13 @@
                     der folgenden Wechselrede findet der Vorsitzende nach einer Erläuterung Prof.
                     Dr. Kelsens, daß die Ausdrücke nicht glücklich gewählt seien. Der
                     Berichterstatter findet die Auf zählung bedenklich. Abgeordneter Fink erblickt
-                    in dieser Bestimmung nur die lex Starzynski “) der alten Verfassung, eine
-                    Errungenschaft, die man den Ländern irgendwie sichern müßte.</p><p>Staatssekretär Dr. Mayr erklärt, keinen Wert 634<pb facs="#facs_5" n="5" xml:id="img_0005"
-                        break="yes"/>4 auf die Beibehaltung der Aufzählung zu legen und Dr. Seipel
-                    schlägt vor, den Wunsch des erwähnten Staatsamtes zu befriedigen, indem man die
-                    Aufzählung in den Motivenbericht aufnimmt.</p>
+                    in dieser Bestimmung nur die lex Starzynski der alten Verfassung, eine
+                    Errungenschaft, die man den Ländern irgendwie sichern müßte.</p>
+                <p>Staatssekretär Dr. Mayr erklärt, keinen Wert <pb facs="#facs_5" n="5"
+                        xml:id="img_0005" break="yes"/><fw type="pageNum">4</fw> auf die
+                    Beibehaltung der Aufzählung zu legen und Dr. Seipel schlägt vor, den Wunsch des
+                    erwähnten Staatsamtes zu befriedigen, indem man die Aufzählung in den
+                    Motivenbericht aufnimmt.</p>
                 <p>Der Schlußsatz des Abs. 3 ist sohin von „insbesondere“ bis Agrargemeinschaften“
                     zu streichen.</p>
                 <p>Für den letzten Absatz sind zwei Fassungen beantragt: „Im Zweifel geht
@@ -184,8 +201,8 @@
                     Bestimmungen über Kommassation treffen; daraufhin könne ein Landtag die
                     bundesrechtlichen Bestimmungen über Kommassation, ohne daß der
                     Verfassungsgerichtshof dagegen einschreiten könnte, weil ein Ge<pb
-                        facs="#facs_6" n="6" xml:id="img_0006" break="no"/>5setz mangelt, demzufolge
-                    Bundesrecht dem Landesrecht vorgeht.</p>
+                        facs="#facs_6" n="6" xml:id="img_0006" break="no"/><fw type="pageNum"
+                    >5</fw>setz mangelt, demzufolge Bundesrecht dem Landesrecht vorgeht.</p>
                 <p>Dr. Seipel lehnt die Aufnahme eines solchen Satzes aus politisch taktischen
                     Gründen ab, während Abgeordneter Abram einen solchen Fingerzeig für die Länder
                     für wünschenswert erachtet, Professor Kelsen hält Abgrenzung ohne ergänzende
@@ -195,47 +212,50 @@
                 <p>Im weiteren Verlauf der Beratungen über das Verordnungsrecht, an der sich
                     Staatssekretär Dr. Mayr, Dr. Danneberg, Dr. Seipel, Ministerialrat Dr. Froehlich
                     und Professor Dr. Kelsen beteiligen, wird über Antrag des Berichterstatters die
-                    Abstimmung über Absatz 2 des Artikels 11 reassumiert 22); während dieser Absatz
+                    Abstimmung über Absatz 2 des Artikels 11 reassumiert 22; während dieser Absatz
                     früher abgelehnt worden war und ein Minoritätsvotum Dr. Dannebergs angemeldet
                     war, wird er nunmehr in der Fassung:</p>
                 <p>„Die Durchführungsverordnungen zu dem nach dem ersten Absatz ergehenden Gesetzen
                     sind, soweit in diesen Gesetzen nichts anderes bestimmt ist, vom Bunde zu
-                    erlassen“ :</p>
+                    erlassen“ </p>
                 <p>angenommen, wogegen von den christlichsozialen Mitgliedern ein Minoritätsvotum
                     angemeldet wird. Auch Absatz 4 des Art. 13 wird angenommen</p>
                 <p>„In jenen Angelegenheiten, die nach Artikel 11 und 12 zur Gänze oder der Regelung
                     der Grundsätze nach der Bundesgesetzgebung vorbehalten sind, steht dem Bunde das
                     Recht zu, die Einhaltung der von ihm erlassenen Vorschriften wahrzunehmen“</p>
-                <p>Bei der Beratung des Art. 14*) meint Staatssekretär Dr. Mayr. man könne Abs. 2
+                <p>Bei der Beratung des Art. 14 meint Staatssekretär Dr. Mayr. man könne Abs. 2
                     streichen, da der Bund auch ohne verfassungsrechtliche Ermächtigung dazu
-                    berechtigt sei, während Dr. Danneberg für die Beibehaltung ist. Auch 641<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>6 Professor
-                    Kelsen findet im Fall der Streichung verschiedene Auffassungen möglich; man
-                    könnte allenfalls vertreten, daß Alles, was der Bund tun darf, wenn die
-                    Kompetenzen des Bundes taxativ aufgezählt sind, ausdrücklich angegeben sein
-                    müsse, sonst könne ein Land jede privatwirtschaftliche Tätigkeit des Bundes
-                    wegen Mangels einer bezüglichen Bestimmung in der Verfassung bekämpfen. </p>
+                    berechtigt sei, während Dr. Danneberg für die Beibehaltung ist. Auch <pb
+                        facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum"
+                        >6</fw> Professor Kelsen findet im Fall der Streichung verschiedene
+                    Auffassungen möglich; man könnte allenfalls vertreten, daß alles, was der Bund
+                    tun darf, wenn die Kompetenzen des Bundes taxativ aufgezählt sind, ausdrücklich
+                    angegeben sein müsse, sonst könne ein Land jede privatwirtschaftliche Tätigkeit
+                    des Bundes wegen Mangels einer bezüglichen Bestimmung in der Verfassung
+                    bekämpfen. </p>
                 <p>Nach längerer Debatte, an der sich der Vorsitzende, Dr. Seipel und Sekt.-Rat Dr.
                     Mannlicher beteiligen, wird der Abs. 2 des Art. 14 gestrichen, weil der Inhalt
                     sowohl von christlichsozialer als auch sozialdemokratischer Seite als
-                    selbstverständlich erklärt werden, der 3. A bsatz wird angenommen.</p>
+                    selbstverständlich erklärt werden, der 3. Absatz wird angenommen.</p>
                 <p>Der Vorsitzende erteilt hierauf dem Berichterstatter Fink das Wort zur
-                    Besprechung des Abschnittes, der von der Gesetzgebung des Bundes handelt **).
+                    Besprechung des Abschnittes, der von der Gesetzgebung des Bundes handelt.
                     Abgeordneter Fink erklärt, daß er als Grundlage den Linzer Entwurf (888 der
                     Beilagen) gewählt habe und vergleicht die einschlägigen Bestimmungen der übrigen
                     Entwürfe. Die vorhandenen Unterschiede hebt Dr. Danneberg besonders hervor,
                     indem er betont, daß seine Partei grundsätzlich eine Länderkammer ablehne; soll
                     es aber doch eine zweite Versammlung geben, so müßte sie auf Grund eines Proporz
                     zusammengesetzt sein, wie es in Art. 28 des Entwurfes 904 (der Beilagen)
-                    dargestellt sei “). Nach dem Entwurf Dr. Mayr „jeder Gesetzesbeschluß bedarf
+                    dargestellt sei“. Nach dem Entwurf Dr. Mayr „jeder Gesetzesbeschluß bedarf
                     grundsätzlich der Zustimmung des Bundesrates“ wird dieser vollends zu einer
                     ersten Kammer.</p>
                 <p>Abg. Clessin bringt den großdeutschen Standpunkt zur Kenntnis, die eine
                     föderalistische Verfassung wünsche; seine Partei nähert sich hinsichtlich der
                     Zusammensetzung des Bundesrates dem Standpunkt der Christlichsozialen; im
                     Gegensatz zu den Sozialdemokraten wünscht er Öffentlichkeit der Sitzungen des
-                    Bundesrates. 642</p>
-            <p><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>7 Staatssekretär Dr. Mayr teilt mit, daß bei den Linzer Verhandlungen besonders der
-                    Gedanke zum Ausdruck gebracht wurde, daß die Länder in anderen Bundesstaaten
+                    Bundesrates. </p>
+                <p><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">7</fw>
+                    Staatssekretär Dr. Mayr teilt mit, daß bei den Linzer Verhandlungen besonders
+                    der Gedanke zum Ausdruck gebracht wurde, daß die Länder in anderen Bundesstaaten
                     gleichberechtigt seien, daher sollte auch bei uns jedes Land eigentlich die
                     gleiche Anzahl Vertreter wählen. Hiebei sei das Muster der deutschen Verfassung
                     befolgt worden. Ihm entgegnet Abgeordneter Abram mit dem Hinweis auf die
@@ -244,9 +264,9 @@
                     beipflichtet, der zunächst nicht die Frage der Zusammensetzung, sondern die der
                     Kompetenz besprechen will und nach einer längeren Auseinandersetzung mit Dr.
                     Seipel feststellt, daß nach dem Entwurfe Nr. 888 der Beil. prinzipiell jeder
-                    Gesetzesbeschluß die Zustimmung des Bundesrates erhalten muß (Art. 14, Abs. 1)
-                    *), daß jedoch gemäß eines Antrages des Abg. Abram diese Zustimmung befristet
-                    werden müsse. Der Ausschuß stimmt dahin überein, daß eine Frist für den etwaigen
+                    Gesetzesbeschluß die Zustimmung des Bundesrates erhalten muß (Art. 14, Abs. 1),
+                    daß jedoch gemäß eines Antrages des Abg. Abram diese Zustimmung befristet werden
+                    müsse. Der Ausschuß stimmt dahin überein, daß eine Frist für den etwaigen
                     Einspruch des Bundesrates festzusetzen sei, behält sich aber die Bestimmung der
                     Länge dieser Frist vor.</p>
                 <p>Bei Beratung des Abs. 2 des Art. 14 (888 der Beilagen) wird die
@@ -257,10 +277,11 @@
                     Verfassung geändert wird. Nach längerer Debatte über die Frage, inwiefern
                     Staatsverträge der Volksabstimmung zu unterziehen seien, an der sich Min.-Rat
                     Dr. Froehlich, Sekt.-Rat Dr. Mannlicher, Dr. Danneberg, Prof. Kelsen und Dr.
-                    Seipel beteiligen, werden der 3. und 4. Ab647<pb facs="#facs_9" n="9"
-                        xml:id="img_0009" break="no"/>8satz abgelehnt und von Dr. Seipel als
-                    Minoritäsvotum der Christlichsozialen Partei angemeldet. Absatz 4 wird
-                    gleichfalls abgelehnt, hingegen wird der Absatz 5 des Art. 14 (888 der Beilage): </p>
+                    Seipel beteiligen, werden der 3. und 4. Ab<pb facs="#facs_9" n="9"
+                        xml:id="img_0009" break="no"/><fw type="pageNum">8</fw>satz abgelehnt und
+                    von Dr. Seipel als Minoritäsvotum der Christlichsozialen Partei angemeldet.
+                    Absatz 4 wird gleichfalls abgelehnt, hingegen wird der Absatz 5 des Art. 14 (888
+                    der Beilage): </p>
                 <p>„Die jährliche Bewilligung des Bundesbudgets und die jährliche Genehmigung der
                     Rechnungsabschlüsse, die Aufnahme und Konvertierung von Bundesanleihen und die
                     Verfügung über das Bundesvermögen sind ausschließlich Sache des Bundestages </p>
@@ -272,6 +293,7 @@
                     entsprechend zu formulieren; Ministerialrat Dr. Froehlich wird als Grundlage die
                     Artikel 14 der Beilage 888 und 38 der Beilage 904 verwerten.</p>
                 <p>Hierauf wird um 6 Uhr abends die Sitzung geschlossen und die nächste Beratung für
-                    Mittwoch den 18. August, 2 Uhr nachmittags anberaumt.</p></div></body>
+                    Mittwoch den 18. August, 2 Uhr nachmittags anberaumt.</p>
+            </div></body>
     </text>
 </TEI>
