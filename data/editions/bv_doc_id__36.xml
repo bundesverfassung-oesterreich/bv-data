@@ -97,24 +97,39 @@
                 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="created">
+        <revisionDesc status="structured">
             <change when="2024-11-05" who="#cfh">document automatically created</change>
             <change when="2024-11-14" who="#t_voegtlin">Gliederung </change>
             <change when="2024-11-15" who="#t_voegtlin">Gegengelesen</change>
+            <change when="2025-01-10" who="#m_huber">Elias: Erste Proberunde Strukturierung
+                (unvollständig und fehlerhaft)</change>
+            <change when="2025-01-13" who="#m_huber">Elias: Strukturierung abgeschlossen</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0030/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0031/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0032/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0033/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0034/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0035/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0036/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0037/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0038/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0039/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0040/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0041/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0042/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_15"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0043/full/full/0/default.jpg" width="3840px" height="5760px"/></surface></facsimile>
     <text type="Sitzungsprotokoll">
         <body><div type="main">
-            <p><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>Protokoll der 1. Sitzung des
-                    Subkomitees des Verfassungsausschusses vom 11. Juli 1920. Beginn: 9h30
-                    Vormittag. Anwesend: Dr. Otto Bauer, als Vorsitzender, Dr. Josef Aigner,
-                    Heinrich Clessin, als Berichterstatter Dr. Robert Danneberg, Mathias Riderson,
-                    Jodok Finok, Dr. Ignaz Geipel Staatssekretär Prof. Dr. Michael Mayr. Prof. Dr.
-                    Hans Kelsen... Von der Staatskanzlei: Min.Rat Dr. Georg Froehlich, Sektionsrat
-                    Dr. Egbert Mannlioher, Oberfinanzrat Dr. Karl Moser, Min.Vizesekretär Dr. Kurt
-                    Frisberger</p>
-            <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw type="pageNum">- 2 -</fw>Der Vorsitzende erteilt nach Eröffnung der Sitzung dem Berichterstatter Clessin das Wort, der es als seine Aufgabe darstellt, aus den vorliegenden Entwürfen die Differenzpunkte herauszuschälen, um eine Grundlage der Verhandlungen zu gewinnen. Zur Beratung liegen vor:</p>
+            <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><head type="main">Protokoll
+                        der 1. Sitzung des Subkomitees des Verfassungsausschusses vom 11. Juli
+                        1920.</head>
+                    <p>Beginn 9h30 Uhr Vormittag.</p><p>Anwesend:</p><list><item>Dr. Otto Bauer, als Vorsitzender,</item>
+                        <item>Dr. Josef Aigner,</item>
+                        <item>Heinrich Clessin, als Berichterstatter,</item>
+                        <item>Dr. Robert Danneberg,</item>
+                        <item>Mathias Eldersch,</item>
+                        <item>Jodok Fink,</item>
+                        <item>Dr. Ignaz Seipel</item></list>
+                        <list><item>Staatssekretär Prof. Dr. Michael Mayr.</item></list>
+                        <list><item>Prof. Dr.
+                        Hans Kelsen</item></list>
+                        <p>Von der Staatskanzlei: </p>
+                <list><item>Min.Rat Dr. Georg Froehlich,</item>
+                        <item>Sektionsrat Dr. Egbert Mannlicher,</item>
+                        <item>Oberfinanzrat Dr. Karl Moser, </item>
+                        <item>
+                           Min.Vizesekretär Dr. Kurt Frieberger, als Schriftführer
+                        </item></list>
+                        <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw type="pageNum">- 2 -</fw>Der Vorsitzende erteilt nach Eröffnung der Sitzung dem Berichterstatter Olessin das Wort, der es als seine Aufgabe darstellt, aus den vorliegenden Entwürfen die Differenzpunkte herauszuschälen, um eine Grundlage der Verhandlungen zu gewinnen. Zur Beratung liegen vor:</p>
             <p>1.) Der Entwurf, der gemeinsam vom Staatskanzler Dr. Renner und Staatssekretär Dr. Mayr verfaßt wurde (Renner-Mayr Entwurf);</p>
             <p>2.) Der Entwurf, der auf Grund der Linzer Verhandlungen in Form einer
                     Gegenüberstellung der Entwürfe des Staatssekretärs Dr. Mayr und der soz.- dem.
@@ -278,6 +293,6 @@
                     „Wasserrechtswesen“ sowie der Antrag Eldersch auf Aufnahme der Worte
                     „Elektrizitätswesen und industrielle Verwertung der Gewässer“</p>
             <p>Nachdem der Vorsitzende die Mitglieder des Subkomitées deren Anträge abgelehnt wurden, zur rechtzeitigen Vorlage der Minoritätsvoten eingeladen hat, schließt er die Sitzung um 12 Uhr 30 Minuten und beraumt die Fortsetzung auf Montag, den 12. Juli, 10 Uhr vormittag an.</p>
-</div></body>
+        </div></body>
     </text>
 </TEI>
