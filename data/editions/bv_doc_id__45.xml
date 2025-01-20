@@ -3,7 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Protokoll der 10. Sitzung des Subkomitees des Verfassungsausschusses vom 24. August 1920</title>
+                <title type="main">Protokoll der 10. Sitzung des Subkomitees des
+                    Verfassungsausschusses vom 24. August 1920</title>
                 <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
@@ -29,23 +30,24 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
-                    </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372"
+                        >Peter Andorfer </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
-                    </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X"
+                        >Carl Friedrich Haak </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
-                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital
+                        Humanities and Cultural Heritage an der Österreichischen Akademie der
+                        Wissenschaften</orgName>
                 </publisher>
                 <publisher>
-                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
-                        Verfassungsgeschichte</orgName>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für
+                        Rechts- und Verfassungsgeschichte</orgName>
                 </publisher>
                 <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
                 <date when="2023">2023</date>
@@ -64,25 +66,31 @@
             <sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
-                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
-                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
-                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/79 ex 1920</idno>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
+                            Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik
+                            (Wien)</repository>
+                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/79
+                            ex 1920</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <author role="acdh:hasAuthor">Unterausschuss des Verfassungsausschusses</author>
-                            <title>Protokoll der 10. Sitzung des Subkomitees des Verfassungsausschusses vom 24. August 1920</title>
-                            <note type="editor">Protokoll der 10. Sitzung des Subkomitees des Verfassungsausschusses vom 24. August 1920, Lithographie, Zustand gut, ohne Anmerkungen</note>
+                            <author role="acdh:hasAuthor">Unterausschuss des
+                                Verfassungsausschusses</author>
+                            <title>Protokoll der 10. Sitzung des Subkomitees des
+                                Verfassungsausschusses vom 24. August 1920</title>
+                            <note type="editor">Protokoll der 10. Sitzung des Subkomitees des
+                                Verfassungsausschusses vom 24. August 1920, Lithographie, Zustand
+                                gut, ohne Anmerkungen</note>
                         </msItem>
                     </msContents>
                     <physDesc>
-                        <objectDesc form="Lithographie">
-                        </objectDesc>
-                        <handDesc>
-                        </handDesc>
+                        <objectDesc form="Lithographie"> </objectDesc>
+                        <handDesc> </handDesc>
                     </physDesc>
                     <history>
-                        <origin notBefore-iso="1920-08-24" notAfter-iso="1920-08-24">24. August 1920</origin>
+                        <origin notBefore-iso="1920-08-24" notAfter-iso="1920-08-24">24. August
+                            1920</origin>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -92,9 +100,7 @@
                 <p/>
             </abstract>
             <creation>
-                <date notBefore-iso="1920-08-24" notAfter-iso="1920-08-24">
-                    24. August 1920
-                </date>
+                <date notBefore-iso="1920-08-24" notAfter-iso="1920-08-24"> 24. August 1920 </date>
             </creation>
         </profileDesc>
         <revisionDesc status="structured">
@@ -102,12 +108,94 @@
             <change when="2025-01-17" who="#m_huber">Elias: Strukturierung abgeschlossen</change>
         </revisionDesc>
     </teiHeader>
-    <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3012" lry="4748" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0017/full/full/0/default.jpg" width="3012px" height="4748px"/></surface><surface ulx="0" uly="0" lrx="2958" lry="4742" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0018/full/full/0/default.jpg" width="2958px" height="4742px"/></surface><surface ulx="0" uly="0" lrx="2951" lry="4735" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0019/full/full/0/default.jpg" width="2951px" height="4735px"/></surface><surface ulx="0" uly="0" lrx="3010" lry="4747" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0020/full/full/0/default.jpg" width="3010px" height="4747px"/></surface><surface ulx="0" uly="0" lrx="2979" lry="4802" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0021/full/full/0/default.jpg" width="2979px" height="4802px"/></surface><surface ulx="0" uly="0" lrx="2991" lry="4695" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0022/full/full/0/default.jpg" width="2991px" height="4695px"/></surface><surface ulx="0" uly="0" lrx="2988" lry="4698" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0023/full/full/0/default.jpg" width="2988px" height="4698px"/></surface><surface ulx="0" uly="0" lrx="2998" lry="4698" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0024/full/full/0/default.jpg" width="2998px" height="4698px"/></surface><surface ulx="0" uly="0" lrx="2979" lry="4689" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0025/full/full/0/default.jpg" width="2979px" height="4689px"/></surface><surface ulx="0" uly="0" lrx="2978" lry="4710" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0026/full/full/0/default.jpg" width="2978px" height="4710px"/></surface><surface ulx="0" uly="0" lrx="2975" lry="4797" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0027/full/full/0/default.jpg" width="2975px" height="4797px"/></surface><surface ulx="0" uly="0" lrx="2925" lry="4684" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0028/full/full/0/default.jpg" width="2925px" height="4684px"/></surface><surface ulx="0" uly="0" lrx="2954" lry="4685" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0029/full/full/0/default.jpg" width="2954px" height="4685px"/></surface><surface ulx="0" uly="0" lrx="2942" lry="4654" xml:id="facs_15"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0030/full/full/0/default.jpg" width="2942px" height="4654px"/></surface><surface ulx="0" uly="0" lrx="2898" lry="4683" xml:id="facs_16"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0031/full/full/0/default.jpg" width="2898px" height="4683px"/></surface><surface ulx="0" uly="0" lrx="2909" lry="4906" xml:id="facs_17"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0032/full/full/0/default.jpg" width="2909px" height="4906px"/></surface></facsimile>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+        <surface ulx="0" uly="0" lrx="3012" lry="4748" xml:id="facs_2">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0017/full/full/0/default.jpg"
+                width="3012px" height="4748px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2958" lry="4742" xml:id="facs_3">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0018/full/full/0/default.jpg"
+                width="2958px" height="4742px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2951" lry="4735" xml:id="facs_4">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0019/full/full/0/default.jpg"
+                width="2951px" height="4735px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3010" lry="4747" xml:id="facs_5">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0020/full/full/0/default.jpg"
+                width="3010px" height="4747px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2979" lry="4802" xml:id="facs_6">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0021/full/full/0/default.jpg"
+                width="2979px" height="4802px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2991" lry="4695" xml:id="facs_7">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0022/full/full/0/default.jpg"
+                width="2991px" height="4695px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2988" lry="4698" xml:id="facs_8">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0023/full/full/0/default.jpg"
+                width="2988px" height="4698px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2998" lry="4698" xml:id="facs_9">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0024/full/full/0/default.jpg"
+                width="2998px" height="4698px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2979" lry="4689" xml:id="facs_10">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0025/full/full/0/default.jpg"
+                width="2979px" height="4689px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2978" lry="4710" xml:id="facs_11">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0026/full/full/0/default.jpg"
+                width="2978px" height="4710px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2975" lry="4797" xml:id="facs_12">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0027/full/full/0/default.jpg"
+                width="2975px" height="4797px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2925" lry="4684" xml:id="facs_13">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0028/full/full/0/default.jpg"
+                width="2925px" height="4684px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2954" lry="4685" xml:id="facs_14">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0029/full/full/0/default.jpg"
+                width="2954px" height="4685px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2942" lry="4654" xml:id="facs_15">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0030/full/full/0/default.jpg"
+                width="2942px" height="4654px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2898" lry="4683" xml:id="facs_16">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0031/full/full/0/default.jpg"
+                width="2898px" height="4683px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2909" lry="4906" xml:id="facs_17">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0032/full/full/0/default.jpg"
+                width="2909px" height="4906px"/>
+        </surface>
+    </facsimile>
     <text type="Sitzungsprotokoll">
-        <body><div type="main">
+        <body>
+            <div type="main">
                 <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
-                <head type="main">Protokoll der 10.Sitzung des Unterausschueses des Verfassungeausschueses vom
-                    24. August 1320.</head>
+                <head type="main">Protokoll der 10.Sitzung des Unterausschueses des
+                    Verfassungeausschueses vom 24. August 1320.</head>
                 <p>Beginn 10 Uhr Vormittag.</p>
                 <p>Anwesend:</p>
                 <list>
@@ -146,449 +234,447 @@
                         Bundeskanzler.“</p>
                 </quote>
                 <p>Bei der folgenden Ueberschrift wird der Buchstabe C in D. abgeändert.</p>
-                <p>In art.30 ist in der dritten Zelle nicht „Vorlage“, sonder die Fehrzanl,
-                    Vorlegen“ zu setzen.</p>
+                <p> In Art. 30 ist in der dritten Zeile nicht „Vorlage“, sondern die Mehrzahl
+                    „Vorlagen“ zu setzen.</p>
                 <p>Eine längere Auseinandersetzung entwickelt sich über die Volksinitiative. Ein
-                    Antrag Dr. Danheberge, daß bei den größeren Lindern weniger als die Mälfte der
-                    Stimnberechtigten genügen müsse um eine Volksabstimmung herbeizuführen, wird
+                    Antrag Dr. Dannebergs, daß bei den größeren Ländern weniger als die Hälfte der
+                    Stimmberechtigten genügen müsse, um eine Volksabstimmung herbeizuführen, wird
                     angenommen; ein weiterer Antrag des Redners, daß schon 200.000 Stimmberechtigte
                     den Antrag auf Volksabstimmung stellen können, wird abgelehnt.</p>
-                <p>Angenommen wird der Antrag des Abg. Cl ess in, daß das Volksbegehren in Form
-                    eines Gesetzesbeschluesee gestellt werden muß, worauf Dr. Dan ne b’àr g als
-                    Beispiel Art.73, Abe.3 der deutachen Verfassung zitiert. Beschlossen wird:</p>
+                <p>Angenommen wird der Antrag des Abg. Clessin, daß das Volksbegehren in Form eines
+                    Gesetzesbeschlusses gestellt werden muß, worauf Dr. Danneberg als Beispiel Art.
+                    73, Abs. 3 der deutschen Verfassung zitiert. Beschlossen wird:</p>
                 <quote>
                     <head>Art. 30.</head>
-                    <p>(1) Gesetzesvorschläge gelangen an den Rationalrat entweder als Inträgeseiner
-                        Mitglieder oder als Vorlagen der Bundesregierung. Der Fandeorat kann in Wege
-                        der Bundesreglgrung Gesetzesanträge in Nationalrat stellen.</p>
-                    <p>(2) Der von 300.dco stinnberechtigten oder von je der Mälete der
-                        Stinnberechtigten dreier länder gestellte Antrag (Volkebe-<pb facs="#facs_4"
+                    <p>(1) Art. 30. Gesetzesvorschläge gelangen an den Nationalrat entweder als
+                        Anträge seiner Mitglieder oder als Vorlagen der Bundesregierung. Der
+                        Bundesrat kann im Wege der Bundesregierung Gesetzesanträge im Nationalrat
+                        stellen.</p>
+                    <p>(2) Der von 300.000 Stimmberechtigten oder von je der Hälfte der
+                        Stimmberechtigten dreier Länder gestellte Antrag (Volkebe-<pb facs="#facs_4"
                             n="4" xml:id="img_0004" break="yes"/><fw type="pageNum">- 3 -</fw>
-                        gehrenl ist von der Bundeeregierung dem Nationalrat zur
-                        geschäftsordnungewässigen Behandlung vorzulegen.“</p>
+                        gehren ist von der Bundesregierung dem Nationalrat zur
+                        geschäftsordnungsmäßigen Behandlung vorzulegen“ </p>
                 </quote>
                 <p> Ferner: </p>
                 <quote>
                     <head>Art. 31. </head>
-                    <p>(1) zu einem Beschluf des lationalrates iet die unresenheit von windertens
-                        einen Drittel der Mitglieder und die unbedingte dehrheit der abgegebenen
-                        Ptinmen erforderlich.</p>
-                    <p>(2) Eine lbünderung der Bundesverfassung kann jedoch nur wel Anwegenheit der
-                        Hälfte aller Mitrlieder und nur mit einer Mehrzeit von zwei Dritteln aller
-                        abgegebenen Stinmen beschlossen werden. den.</p>
+                    <p>(1) Zu einem Beschluß des Nationalrates ist die Anwesenheit von mindestens
+                        einem Drittel der Mitglieder und die unbedingte Mehrheit der abgegebenen
+                        Stimmen erforderlich.</p>
+                    <p>(2) Eine Abänderung der Bundesverfassung kann jedoch nur bei Anwesenheit der
+                        Hälfte aller Mitglieder und nur mit einer Mehrheit von zwei Dritteln aller
+                        abgegebenen Stimmen beschlossen werden."</p>
                 </quote>
-                <p> Zu Art. 32 benerkt der Vorsitzende, daß das Nort „benchnigung“ abzuändern sei
-                    und daß die Beschlußfassung erat erfolgen känne, wenn der Tationalrat üben
-                    dänaige Einsprüche bereits Beschius gefast hat. Auch sei es zielfelhaft, was
-                    unter Gesantänderung zu verstehen bei, wenn nicht eine vollständige
-                    Verfassungeurkunde vergestellt werde. 1bg. Dr. 5 si f el neint, dae der
-                    Burdesrat schon bei der ersten Verhandlung beschliessen kann, das ein
-                    Volksentscheid zu erfolgen nat. Der Voreitzende meint hingegen! es müsse ein
-                    vollständiges Sesetz vorhanden sein. Denn solange kein vollständiges Fesetz
-                    vorhanden sei, könne der dationalrat schließlich zuer den Sinnerdungen dss
-                    Sundeerates Rechnung tragen. Es wäre zu sagen „neschbeendigung des iu trt. 38
-                    geregelten VerEanrens."</p>
-                <p> Andsrane bg. Or bemerkt zur Frage der Gesamt rei nitur Tthr,auss ain von einer
-                    gesdaten verfassung rede, auch das srestz seltst heiset uverfassungr.
-                    Volksabstimmung sollte eintraten, wenn ein Frittel der Eitelieder dee Kinderatis
-                    oder des Fatiemitratis esverlanet.</p>
+                <p> Zu Art. 32 bemerkt der Vorsitzende, daß das Wort „Genehmigung“ abzuändern sei
+                    und daß die Beschlußfassung erst erfolgen könne, wenn der Nationalrat über
+                    etwaige Einsprüche bereits Beschluß gefaßt hat. Auch sei es zweifelhaft, was
+                    unter Gesamtänderung zu verstehen sei, wenn nicht eine vollständige
+                    Verfassungsurkunde hergestellt werde. Abg. Dr. Seipel meint, daß der Bundesrat
+                    schon bei der ersten Verhandlung beschließen kann, daß ein Volksentscheid zu
+                    erfolgen hat. Der Vorsitzende meint hingegen, es müsse ein vollständiges Gesetz
+                    vorhanden sein. Denn solange kein vollständiges Gesetz vorhanden sei, könne der
+                    Nationalrat schließlich auch den Einwendungen des Bundesrates Rechnung tragen.
+                    Es wäre zu sagen „nach Beendigung des in Art. 38 geregelten Verfahrens."</p>
+                <p> Abg. Dr. Seipel bemerkt zur Frage der Gesamtänderung, es sei nicht zweifelhaft,
+                    daß man von einer gesamten Verfassung rede, auch das Gesetz selbst heißt
+                    „Verfassung“. Volksabstimmung sollte eintreten, wenn ein Drittel der Mitglieder
+                    des Bundesrates oder des Nationalrates es verlangt.</p>
                 <p>
                     <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
                     <fw type="pageNum">- 4 -</fw>
                 </p>
                 <p> Dr. Danneberg spricht sich grundsätzlich für die Volksabstimmung aus, befürchtet
-                    jedoch, das der große spparat einer Volksabstinnung unnfentiger Linge halber in
-                    Benegung gesetzt werden könnte; er beantragt deher, daß die Mehrheit der
-                    Mitglieder entschelden wüsse, was jedoch abgelehnt wird. Der Vorsitzende schlägt
-                    hingegen für den Bundesrat die Hülfte der Mitglieder, dur den Nationalrat ein
-                    Drittel vor; man könnte es auch der Geschäfteordnung überöassen.</p>
-                <p> Dr. Seipel schlägt vor den fortlaut zu belassen. Se erglbt sich dann die
-                    Möglichkeit, daß eine der beiden Körperschaften die Frist versännt, sie müssen
-                    sich deher beeilen. Der irtikel wird schlieklich in folgenden Vortlant
+                    jedoch, daß der große Apparat einer Volksabstimmung unwichtiger Dinge halber in
+                    Bewegung gesetzt werden könnte; er beantragt daher, daß die Mehrheit der
+                    Mitglieder entscheiden müsse, was jedoch abgelehnt wird. Der Vorsitzende schlägt
+                    hingegen für den Bundesrat die Hälfte der Mitglieder, für den Nationalrat ein
+                    Drittel vor; man könnte es auch der Geschäftsordnung überlassen.</p>
+                <p> Dr. Seipel schlägt vor, den Wortlaut zu belassen. Es ergibt sich dann die
+                    Möglichkeit, daß eine der beiden Körperschaften die Frist versäumt, sie müssen
+                    sich daher beeilen. Der Artikel wird schließlich in folgendem Wortlaut
                     angenommen. </p>
                 <head>Art. 32. </head>
-                <p>jede Gegentänderung der Bundgsverfsssung, eine tellweise fenderung aber nur, wenn
-                    dies von einem Prittel der Mitglieder des Retionalrates oder des Bundesratee
-                    verlangt wird, ist nach Beendirung des Verfahrens nach irt. 38, jedoch vor der
-                    Beurkundung daren den Bundespräcidenten einer Abstimnung des gesanten
-                    Bandesvolkes zu anterzichen.</p>
-                <p> Bel Besprechung des nächsten ertikels befürchtet Dr. Danne der g große
-                    Verwirrung, wenn ein Cesetz seche Wochen nach Kundmachung durch Volksentecheid
-                    wieder aufgehoben wird. Auch gehe es zu weit, dase unter 3 Milionen
-                    Stinnberechtigten 150.000 das Recht der Abänderung erhalten. Ebenso ninnt der
-                    Vorsitzende dagegen Stellung und zeigt an den Beispiele des Gesetzes über die
-                    Vermögensabgabe, welche Folgen es haben miste, wenn das Finanzent die ganzen
-                    durchführungearbeit bereits in dang gebracht hat, einzelne eifrigere
-                    steuerpflichtige auch schon die Abgabe geleistet hätten und nun mit einem Schlag
-                    das Gesetz durch Volksentscheld aufgehoben wird. Dadurch würde die geaante
-                    Rechtssicherheit auf das Schwerste erschüttert. Kurze Legielaturperloden seien
-                    ein meit besserer Schatz. In der Schneiz sel die Verstastlichung der Bahnen 15
-                    Jahre lang 1.<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><fw
-                        type="pageNum">- 5 -</fw>zum größten Schaden der Allgemeinheit durch die
-                    Volksabstimmung verzögert worden. Dr. S e i p el erklärt, daß der Vorschlag des
-                    Entwurfes ganz von dem Vorgang in der Schweiz abweicht.</p>
-                <p> Dach Anschauung des Vorsitzenden hat der Volkeentscheid nichte genützt, sondern
-                    niederholt Parlamentsbeschlüsss, Verzögerungen und erhöhte Kosten im Gefolge
-                    gehabt. Das Tarlament entscheidet nach genauer Kenntnis des Gesetzentwurfes, das
-                    Volk hingegen sel vor ein Ja oder Bein gestellt, und kann das einzelne Geeetz
-                    nicht in Zusannenhange überblicken. Ein engliehter Staaterechtslehrer hat an
-                    Schneizer Beispielen gezeigt, wie nachteilig agitatorisch deshalb gearbeitet
-                    werden müsse. Man könnte sich vielleicht dafür entscheiden, den Volkeentscheid
-                    nur für Verfaesungeänderungen vorzuschnn. Für die Lnitiative scheint es
-                    berechtigt, dass ein Teil des Volkes einen Antrag stellt, ganz unbegrändet ist
-                    es jedoch einer Minderheit ein Recht sinzurännen, dass in vielen Fällen ein Veto
-                    gegen die Geeetzgebung ist, ein Recht, das man weder den Bundespräsidenten noch
-                    dem Bundeerste eingeräunt habe. In der Schnelz habe das Volksbegehren fast gar
-                    keine Mirkung gehabt es sei nur wichtig als Ereiehangsnittel zur Denokratie.
-                    Unterstützt von Dr. Danneberg erklärt er, dass die sozlaldenokratische Partei
-                    einer solchen Ehnrichtung nie zustinnen könne, dass eine nichtdenokratische
-                    Körperschaft durch Anrufung, des Volzeentscheldes ständig in die Gesetzgebung
-                    eingrelfe. lbg. clesein ist für Zulaseung, wenn mindestens die Hälfte der
-                    Mitglieder des Fationalrates für einen Velkeentscheld stinne. Nach der heutigen
-                    Zusannensetzung des Hauses würde eine Partel nicht ausreichen, fänden sich daher
-                    so viele Stinnen für einen Volknentscheid, so scheine ein derartiges Verlangen
-                    gerechtfertigt. Auch die sozialdenokratischen Vortreter erklären sich nur mit
-                    einer derartigen Berechtigung des Nahionalratee einverstanden. Beschlossen
-                        wird:<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw
-                        type="pageNum">- 6 -</fw>
+                <p>Jede Gesamtänderung der Bundesverfassung, eine teilweise Änderung aber nur, wenn
+                    dies von einem Drittel der Mitglieder des Nationalrates oder des Bundesrates
+                    verlangt wird, ist nach Beendigung des Verfahrens nach Art. 38, jedoch vor der
+                    Beurkundung durch den Bundespräsidenten einer Abstimmung des gesamten
+                    Bundesvolkes zu unterziehen“ </p>
+                <p> Bei Besprechung des nächsten Artikels befürchtet Dr. Danneberg große Verwirrung,
+                    wenn ein Gesetz sechs Wochen nach Kundmachung durch Volksentscheid wieder
+                    aufgehoben wird. Auch gehe es zu weit, daß unter 3 Millionen Stimmberechtigten
+                    150.000 das Recht der Abänderung erhalten. Ebenso nimmt der Vorsitzende dagegen
+                    Stellung und zeigt an dem Beispiele des Gesetzes über die Vermögensabgabe,
+                    welche Folgen es haben müßte, wenn das Finanzamt die ganze Durchführungsarbeit
+                    bereits in Gang gebracht hat, einzelne eifrigere Steuerpflichtige auch schon die
+                    Abgabe geleistet hätten und nun mit einem Schlag das Gesetz durch Volksentscheid
+                    aufgehoben wird. Dadurch würde die gesamte Rechtssicherheit auf das Schwerste
+                    erschüttert. Kurze Legislaturperioden seien ein weit besserer Schutz. In der
+                    Schweiz sei die Verstaatlichung der Bahnen 15 Jahre lang <pb facs="#facs_6"
+                        n="6" xml:id="img_0006" break="yes"/><fw type="pageNum">- 5 -</fw>zum
+                    größten Schaden der Allgemeinheit durch die Volksabstimmung verzögert worden.
+                    Dr. Seipel erklärt, daß der Vorschlag des Entwurfes ganz von dem Vorgang in der
+                    Schweiz abweicht.</p>
+                <p> Nach Anschauung des Vorsitzenden hat der Volksentscheid nichts genützt, sondern
+                    wiederholt Parlamentsbeschlüsse, Verzögerungen und erhöhte Kosten im Gefolge
+                    gehabt. Das Parlament entscheidet nach genauer Kenntnis des Gesetzentwurfes, das
+                    Volk hingegen sei vor ein Ja oder Nein gestellt, und kann das einzelne Gesetz
+                    nicht im Zusammenhange überblicken. Ein englischer Staatsrechtslehrer hat an
+                    Schweizer Beispielen gezeigt, wie nachteilig agitatorisch deshalb gearbeitet
+                    werden müsse. Man könnte sich vielleicht dafür entscheiden, den Volksentscheid
+                    nur für Verfassungsänderungen vorzusehen. Für die Initative scheint es
+                    berechtigt, daß ein Teil des Volkes einen Antrag stellt, ganz unbegründet ist es
+                    jedoch, einer Minderheit ein Recht einzuräumen, daß in vielen Fällen ein Veto
+                    gegen die Gesetzgebung ist, ein Recht, das man weder dem Bundespräsidenten noch
+                    dem Bundesrate eingeräumt habe. In der Schweiz habe das Volksbegehren fast gar
+                    keine Wirkung gehabt, es sei nur wichtig als Erziehungsmittel zur Demokratie.
+                    Unterstützt von Dr. Danneberg erklärt er, daß die sozialdemokratische Partei
+                    einer solchen Einrichtung 348 Protokolle des Unterausschusses nie zustimmen
+                    könne, daß eine nichtdemokratische Körperschaft durch Anrufung des
+                    Volksentscheides ständig in die Gesetzgebung eingreife. Abg. Clessin ist für die
+                    Zulassung, wenn mindestens die Hälfte der Mitglieder des Nationalrates für einen
+                    Volksentscheid stimme. Nach der heutigen Zusammensetzung des Hauses würde eine
+                    Partei nicht ausausreichen, fänden sich daher soviele Stimmen für einen
+                    Volksentscheid, so scheine ein derartiges Verlangen gerechtfertigt. Auch die
+                    sozialdemokratischen Vertreter erklären sich nur mit einer derartigen
+                    Berechtigung des Nationalrates einverstanden. Beschlossen wird:<pb
+                        facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum">- 6
+                        -</fw>
                 </p>
                 <head>Art. 33.</head>
-                <p> Einer Volkeabstinnung ist ferner jeder Beschluss des Nationalrates vor seiner
-                    Beurkundung durch den Bundespräsidenten zu unterziehen, wenn der Nationalrat es
-                    beschliesst oder die Mehrheit der Mitglieder des Nationalrates es verlangt.</p>
-                <p>Die Forn des Verlangene ist der Geschäfteordnung überlassen; als
-                    Gesetzeabeschlus« ist anzuschen, was beschlossen, aber nicht kundgemacht
-                    ist.</p>
-                <p> Prof. k elsen stellt die Frage, ob der Nationalrat das Recht habe eine
-                    grundsätzliche Frage dem Volke zur Entscheifung vorzulegen, wie es z.B. die
-                    grossdeutsche Partei bezüglich des Anschlusses an Deutschland jünget beantragte,
-                    Dr. 3 s i pel meint jedoch, dass man das Volk nur mit Angelegenheiten befassen
-                    könne, für die es durch die Vorberatungen den Perlauentes und die Beriehte
-                    darüber vorgeschult iet. Unter seinem Vorsitze wird Art.34 durch den 1.Absatz
-                    des Art. 35 orgänzt, dessen übriger Teil entfalit und folgendernassen
-                    stilisiert:</p>
+                <p> Einer Volksabstimmung ist ferner jeder Beschluß des Nationalrates vor seiner
+                    Beurkundung durch den Bundespräsidenten zu unterziehen wenn der Nationalrat es
+                    beschließt oder die Mehrheit der Mitglieder des Nationalrates es verlangt.</p>
+                <p>Die Form des Verlangens ist der Geschäftsordnung überlassen; als Gesetzesbeschluß
+                    ist anzusehen, was beschlossen, aber nicht kundgemacht ist.</p>
+                <p> Prof. Kelsen stellt die Frage, ob der Nationalrat das Recht habe, eine
+                    grundsätzliche Frage dem Volke zur Entscheidung vorzulegen, wie es z. B. die
+                    großdeutsche Partei bezüglich des Anschlusses an Deutschland jüngst beantragte,
+                    Dr. Seipel meint jedoch, daß man das Volk nur mit Angelegenheiten befassen
+                    könne, für die es durch die Beratungen des Parlamentes und die Berichte darüber
+                    vorgeschult ist. Unter seinem Vorsitz wird Art. 34 durch den 1. Absatz des Art.
+                    35 ergänzt, dessen übriger Teil entfällt, und folgendermaßen stilisiert:</p>
                 <head>Art. 34. </head>
-                <p>(1) In der Volkeabstimmung entscheidet die unbedingte Mehrheit der giltig
+                <p>(1) In der Volksabstimmung entscheidet die unbedingte Mehrheit der giltig
                     abgegebenen Stimmen.</p>
-                <p>(2) Das Ergebnie der Volkeabstimmung ist antlich zu verlautbaren.</p>
-                <p> Art. 36 wird abgelehnt, da dem hundespräsidenten kein solches Recht zugebilligt
-                    wird, Art. 37 in der Fassung des linzer Entwurfes mit Freatz des Wortes
-                    „Volksinitlativer durch „Volksbegehren". Art. 38 erführt mehrfache Aenderungen.
-                    Bei Erörterung eines Formulierungevorschlages der Staatskanzlet beantragt. Dr.
-                    Se i pe 1, dass auch die im Abs. 5 aufgezählten Beschlüsse der Vollständigkeit
-                    halber den Lundesrate mitzuteilen nären, wogegen kein Einspruch srhoben
-                    wird.</p>
+                <p>(2) Das Ergebnis der Volksabstimmung ist amtlich zu verlautbaren.</p>
+                <p> Art. 36 wird abgelehnt, da dem Bundespräsidenten kein solches Recht zugebilligt
+                    wird, Art. 37 in der Fassung des Linzer Entwurfes mit Ersatz des Wortes
+                    „Volksinitiative“ durch „Volksbegehren“ *). Art. 38 erfährt mehrfache
+                    Änderungen. Bei Erörterung eines Formulierungsvorschlages der Staatskanzlei
+                    beantragt Dr. Seipel, daß auch die im Abs. 5 aufgezählten Beschlüsse der
+                    Vollständigkeit halber dem Bundesrate mitzuteilen wären, wogegen kein Einspruch
+                    erhoben wird.</p>
                 <head>Art. 38. </head>
-                <p>(2) jeder Oesetzesbeschlass der Nationalrates ist anverzüg1. 412<pb
-                        facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">- 7
-                        -</fw>2 lich durch dessen Präsidenten den Bundeekanzler zu übermitteln, der
-                    Ihn sofort dem Bundeerate bekanntzugeben hat.</p>
-                <p>(2) Ein Gesetzesbeschlues kann, soneit nicht in diesen Artikel anderes bestinnt
-                    ist, nur dann beurkandet und kundgenacht werden, menn der Bandserat gegen diesen
-                    Beschluss keinen mit bründen versenenen Einspruch erhoben hat. </p>
-                <p>(3) Disser Einspruch muss in Wege des Bundeskanzlers den Nationalrate innerhalb
-                    acht wochen nach Einlangen des Sesstzesbeschlasses beim Fandesrate schriftlich
+                <p>(2) Jeder Gesetzesbeschluß des Nationalrates ist unverzüglich <pb facs="#facs_8"
+                        n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">- 7 -</fw>2 durch
+                    dessen Präsidenten dem Bundeskanzler zu übermitteln, der ihn sofort dem
+                    Bundesrate bekanntzugeben hat.</p>
+                <p>(2) Ein Gesetzesbeschluß kann, soweit nicht in diesem Artikel anderes bestimmt
+                    ist, nur dann beurkundet und kundgemacht werden, wenn der Bundesrat gegen diesen
+                    Beschluß keinen mit Gründen versehenen Einspruch erhoben hat. </p>
+                <p>(3) Dieser Einspruch muß im Wege des Bundeskanzlers dem Nationalrate innerhalb
+                    acht Wochen nach Einlangen des Gesetzesbeschlusses beim Bundesrate schriftlich
                     mitgeteilt werden. </p>
-                <p>(4) wiederholt der Nationalrat seinen urspränglichen Beschluss so ist dieser zu
-                    beurkunden und kundzunachen. Beschliesst der Bundesrat, keinen Einspruch zu
-                    erheben, oder wird innerhalb der in absatz 2 festgesetzteh Frist kein mit
-                    Begründung verschener Einspruch erhoben, so iat der Gesetzesbeschluss zu
-                    beurkunden und kundzunachen. </p>
-                <p>(5) Das besetz über die Beschäftsführung des Nattenalrates, das desetz über die
+                <p>(4) Wiederholt der Nationalrat seinen ursprünglichen Beschluß, so ist dieser zu
+                    beurkunden und kundzumachen. Beschließt der Bundesrat, keinen Einspruch zu
+                    erheben, oder wird innerhalb der im Absatz 2 festgesetzten Frist kein mit
+                    Begründung versehener Einspruch erhoben, so ist der Gesetzesbeschluß zu
+                    beurkunden und kundzumachen. </p>
+                <p>(5) Das Gesetz über die Geschäftsführung des Nationalrates, das Gesetz über die
                     Auflösung des Nationalrates, die Bewilligung des Bundesvoranschlages und die
-                    Genehnigung der Rechnungsabschlüsse, die Aufnahne und Konvertierung von
-                    Bundesanleihen und die Verfügung über das Bundesvermögen sind ausschliesslich
+                    Genehmigung der Rechnungsabschlüsse, die Aufnahme und Konvertierung von
+                    Bundesanleihen und die Verfügung über das Bundesvermögen sind ausschließlich
                     Sache des Nationalrates.</p>
-                <p> Art. 39 des Einzer Entnurfes entfällt, der folgende Artikel erhält auf Antrag
-                    der Staatskanzlel folgende Fassung: </p>
-                <head>Art. 10. </head>
-                <p>(2) Das verfaseungenäseige Zustandekonnen der Bundesgesetze somie der in Art. 38,
-                    Abs. 5, ernähnten Beschlüsse des Fetionalrates wird durch die Unterschrift des
-                    Bundeepräsidenten beurkundet. </p>
+                <p> Art. 39 des Linzer Entwurfes entfällt, der folgende Artikel erhält auf Antrag
+                    der Staatskanzlei folgende Fassung: </p>
+                <head>Art. 40. </head>
+                <p>(1) Das verfassungsmäßige Zustandekommen der Bundesgesetze sowie der in Art. 38,
+                    Abs. 5, erwähnten Beschlüsse des Nationalrates wird durch die Unterschrift des
+                    Bundespräsidenten beurkundet. </p>
                 <p>(2) Die Vorlage zur Beurkundung erfolgt durch den Bundeskanzler. </p>
-                <p>(3) Die Beurkundung ist von Fundeskanzler und von den zuständtgen Bundeeninistern
+                <p>(3) Die Beurkundung ist von Bundeskanzler und von den zuständtgen Bundesministern
                     gegenzuzeichnen. </p>
-                <p>Dr. Sel pel und Dr. Denneberg münschten eine Vereinsachung der Forn des Ert. Al,
-                    wonit die Staätskanzlei betraut 1. 10<pb facs="#facs_9" n="9" xml:id="img_0009"
-                        break="yes"/><fw type="pageNum">- 8 -</fw> wird. Zu Art. 12 bemerkt
-                    boktionerat Dr. Hannlicher, dass die Verringerung der vacatio legls auch für die
-                    Landesgesetzgebung bereits beschlossen sei, der Artikel wird in Nortlaut des
-                    Einzer Entwurfes angenommen. Vor der folgenden Ueberschrift wird der Buchstabe D
-                    in D abgeändert, die Ueberschrift selbst beschlossen: „Mitwirkung des
-                    Nationalrates und des Bundesrates an der Vollziehung des Bundes." Bei
-                    Besprechung des Art. 43 wird Abe.1 unverandert belaesen, im Abs.3 wird statt,in
-                    dem " Falle, „im Fallet gesetzt; in 1.1bs. wird über Antrag Dr. Bauers, der
-                    wieder den Vorsitz übernimmt, anstatt „für die ganze Sitzungsperiode“
-                    gesetzt:„für die Dauer der Oesetzgebungsperiode“; ferner wird in Abe.5
-                    gestrichen: „Sitzunge- oder". Abg. Cl ee e in beantragt in 1bs.2 nach, friecher
-                    Ratr einzuschalten: bei Verübung eines Verbrechens" (angenommen). Im übrigen
-                    wird der Artikel mit Aehderung des Wortee Bundentag in Nationalrat in der Linzer
-                    Fassung angenommen. Bei Art. 14 macht Prof.k el s e n aufmerkeam, dass die
-                    Bundesratsmitglieder den Schutz der Immunität geniessen müesten. Angenommen
+                <p>Dr. Seipel und Dr. Danneberg wünschten eine Vereinfachung der Form des Art. 41,
+                    womit die Staatskanzlei betraut<pb facs="#facs_9" n="9" xml:id="img_0009"
+                        break="yes"/><fw type="pageNum">- 8 -</fw> wird. Zu Art. 42 bemerkt
+                    Sektionsrat Dr. Mannlicher, daß die Verringerung der vacatio legis auch für die
+                    Landesgesetzgebung bereits beschlossen sei; der Artikel wird im Wortlaut des
+                    Linzer Entwurfes angenommen 164). Vor der folgenden Überschrift wird der
+                    Buchstabe D in E abgeändert, die Überschrift selbst beschlossen: „Mitwirkung des
+                    Nationalrates und des Bundesrates an der Vollziehung des Bundes.“ Bei
+                    Besprechung des Art. 43 165) wird Abs. 1 unverändert belassen, im Abs. 3 wird
+                    statt „in dem“ Falle, „im Falle“ gesetzt; im 4. Abs. wird über Antrag Dr.
+                    Bauers, der wieder den Vorsitz übernimmt, anstatt „für die ganze
+                    Sitzungsperiode“ gesetzt: „für die Dauer der Gesetzgebungsperiode“; ferner wird
+                    im Abs. 5 gestrichen: „Sitzungs- oder“. Abg. Clessin beantragt im Abs. 2 nach
+                    „frischer Tat“ einzuschalten: „bei Verübung eines Verbrechens“ (angenommen). Im
+                    übrigen wird der Artikel mit Änderung des Wortes Bundestag in Nationalrat in der
+                    Linzer Fassung angenommen. Bei Art. 44 macht Prof. Kelsen aufmerksam, daß die
+                    Bundesratsmitglieder den Schutz der Immunität genießen müßten. Angenommen
                     wird:</p>
                 <head>Art. 44.</head>
-                <p>Die Mitglieder des Bundesrates geniessen für diese Funktion während der ganzen
+                <p>Die Mitglieder des Bundesrates genießen für diese Funktion während der ganzen
                     Dauer die Immunität von Mitgliedern des Landtages, der sie entsendet hat.</p>
-                <p> Bei Art. 45 wirft Dr. S e i p el die Frage auf, ob Nationalratemitglieder, die
-                    in den Bundeerat entsendet werden, ausscheiden oder ob ihr Mandat einetweilen
-                    ruht. Der Foreitzende gibt der unbestrittenen Anschauung Ausdruck, dasn der
-                    betreffende Mandatsträger nicht früher zuzulaseen ist, also auch kein
-                    Wahlzertifikat erhalte, ehe erseich entschieden habe, welches Mandat er ausüben
-                    wolle, Dr. S e i p el meint, dase die Geschäftsordnung der Körperschaften für
-                    die Löeung dieser Frage sorgen werde. Der Vorsitzende stellt fest, dass gegen
-                    den ersten Satz keine Einwendung bestehe, der zweite Satz jedoch zu streichen
-                    wäre.</p>
+                <p> Bei Art. 45 wirft Dr. Seipel die Frage auf, ob Nationalratsmitglieder, die in
+                    den Bundesrat entsendet werden, ausscheiden oder ob ihr Mandat einstweilen ruht.
+                    Der Vorsitzende gibt der unbestrittenen Anschauung Ausdruck, daß der betreffende
+                    Mandatsträger nicht früher zuzulassen ist, also auch kein Wahlzertifikat
+                    erhalte, eher er sich entschieden habe, welches Mandat er ausüben wolle. Dr.
+                    Seipel meint, daß die Geschäftsordnung der Körperschaften für die Lösung dieser
+                    Frage sorgen werde. Der Vorsitzende stellt fest, daß gegen den ersten Satz keine
+                    Einwendung bestehe, der zweite Satz jedoch zu streichen wäre.</p>
                 <p> Abg. Clessin beantragt die Aufnahme eines Absatzes <pb facs="#facs_10" n="10"
                         xml:id="img_0010" break="yes"/><fw type="pageNum">- 9 -</fw> durch den
-                    Mandatowerborn des Beantenstandes der erforderliche Orlaub für die
-                    Handatsbenerbung genährleistet werde. Der Vorsitzende nacht auf die
-                    Schnierigkeit der Feststellung aufmerksan, wer als Beanter zu betrachten ooi.
-                    Sektionerat Dr. Hannlicher verneist auf die Bestinnung der Dienstoragnatik, f 7i
-                    des besetzes vom 25. Jänner 131t ReBl.Nr. 15, auf drund deren ein Beauter, der
-                    sich un das Mandat eines abgeordneten für einen verfassungendsdigen
-                    Vertretungekörper oder un das Mandat eines Freatznamnes bewirbt, von antsnegen
-                    bis nach vollzogener fahl in das Verhältnis ander Dienst zu stellen iet.Mit der
-                    Formulierung des Antrages, der in Prinzipe angenomnen wird, wird die
-                    Staatskanzlei betraut.</p>
-                <p>Die Sitzung wird hierauf von 1/2 1 Uhr bis 3 Ihr nachnistage anterbrochen. </p>
-                <p> Dr. 5 e i p s l beantragt an geeigneter Stelle einen Artikel einzuschalten, der
-                    den Bestimmungen des Gesetzes von 13.xpril 1920, stobl. Nr. 180, über die
-                    Uitwirkung der Nationalversamnlung an der Regelung von Eisenbahntariten, Post-,
-                    Telegraphen- und Telephongebühren- und Preisen der Monopolgegenstände sonie von
+                    Mandatswerbern des Beamtenstandes der erforderliche Urlaub für die
+                    Mandatsbewerbung gewährleistet werde 167). Der Vorsitzende macht auf die
+                    Schwierigkeit der Feststellung aufmerksam, wer als Beamter zu betrachten sei.
+                    Sektionsrat Dr. Mannlicher verweist auf die Bestimmung der Dienstpragmatik, auf
+                    Grund deren ein Beamter, der sich um das Mandat eines Abgeordneten für einen
+                    verfassungsmäßigen Vertretungskörper oder um das Mandat eines Ersatzmannes
+                    bewirbt, von amtswegen bis nach vollzogener Wahl in das Verhältnis *) außer
+                    Dienst zu stellen ist. Mit der Formulierung des Antrages, der im Prinzip
+                    angenommen wird, wird die Staatskanzlei betraut.</p>
+                <p>Die Sitzung wird hierauf von ½1 Uhr bis 3 Uhr nachmittags unterbrochen. </p>
+                <p> Dr. Seipel beantragt, an geeigneter Stelle einen Artikel einzuschalten, der den
+                    Bestimmungen des Gesetzes vom 13. April 1920, StGBI. Nr. 180, über die
+                    Mitwirkung der Nationalversammlung an der Regelung von Eisenbahntarifen, Post-,
+                    Telegraphen- und Telephongebühren und Preisen der Monopolgegenstände sowie von
                     Bezügen der in staatlichen Betrieben Beschäftigten entspricht. Nach Anschauung
-                    des Vorsitzenden sollte zu diesem Zwecke ein neuer Abschnitt F nach Art.42
-                    eingeschaltet werden, dessen Ueberschrift zu lauten nätte: Mitzirkung des
-                    Nstionslrates und des Bundssrates an der Vollziehung des Bundesr. Dr. 3 s i p e
-                    1 beantragt auch die Einschaltung der Bestimmngen des Art. 17 al.2 an dieser
-                    Stelle unterEinfügung eines Satzes, der die Beziehung herstellt. Dins
-                    entsprechende Formulierung wäre in Antrag Abran (501 d. B.) Art.20 abs.3
+                    des Vorsitzenden sollte zu diesem Zwecke ein neuer Abschnitt E nach Art. 42
+                    eingeschaltet werden, dessen Überschrift zu lauten hätte: „Mitwirkung des
+                    Nationalrates und des Bundesrates an der Vollziehung des Bundes“. Dr. Seipel
+                    beantragt auch die Einschaltung der Bestimmungen des Art. 17 Abs. 2 an dieser
+                    Stelle unter Einfügung eines Satzes, der die Beziehung herstellt. Eine
+                    entsprechende Formulierung wäre im Antrag Abram (904 d.B.) Art. 20 Abs. 3
                     gegeben. Hierauf wird folgende Neueinschaltung beschlossen: </p>
                 <head>Art. 42 a.</head>
-                <p>(1) Alle politischen Staatsverträge, andere nur, sofern sie gesetzesändernden
-                    Inhalt haben, bedürfen zu ihrer Fültigkeit der genehnigung durch den
+                <p>(1) Alle politischen Staatsvertrâge, andere nur, sofern sie gesetzesändernden
+                    Inhalt haben, bedürfen zu ihrer Gültigkeit der Genehmigung durch den
                     Nationalrat. </p>
-                <p>(2) Auf beschlüsse des Fationalrates über die Senehnlgung von<pb facs="#facs_11"
+                <p>(2) Auf Beschlüsse des Nationalrates über die Genehmigung von<pb facs="#facs_11"
                         n="11" xml:id="img_0011" break="yes"/><fw type="pageNum">- 10 -</fw>
-                    Staateverträgen finden die Bestimnungen des Frt. 38, 1bs,1 bie 4 eingendese
+                    Staatsverträgen finden die Bestimmungen des Art. 38, Abs. 1 bis 4 sinngemäße
                     Anwendung.</p>
-                <p> Mit der Fornulierung sineh eigenen Artikels über die Vorlage des Budgete wird
-                    die Staatskanzlei beauftragt. Sodann wird unter Bezugnahne auf den vorermännten
-                    detrag dr. Sei pels eintrtikel aufgenommen, der den besstzg Nr. 180 ez 1320
-                    entspricht. Abg. O l es s in beantragt, dast die Mitwirkung des Nationalretes in
-                    allen diesen Angelegenheiten durch ein Bundeeverfassungsgesetz zu regeln sel.
-                    (angenomnen) Beschlessen wird:</p>
+                <p> Mit der Formulierung eines eigenen Artikels über die Vorlage des Budgets wird
+                    die Staatskanzlei beauftragt. Sodann wird unter Bezugnahme auf den vorerwähnten
+                    Antrag Dr. Seipels ein Artikel aufgenommen, der dem Gesetze Nr. 180 ex 1920
+                    entspricht. Abg. Clessin beantragt, daß die Mitwirkung des Nationalrates, in
+                    allen diesen Angelegenheiten durch ein Bundesverfassungsgesetz zu regeln sei
+                    (angenommen). Beschlossen wird:</p>
                 <head>Art. 42 c.</head>
-                <p> Per Nationalrat wirkt an der Feftsetzung von Eisenbahntarifen, Tost-,
-                    Telegraphen- und Fernsprechgebähren und Kreisen der Konopelgegenstände sowie von
+                <p> Der Nationalrat wirkt an der Festsetzung von Eisenbahntarifen, Post-,
+                    Telegraphen- und Fernsprechgebühren und Preisen der Monopolgegenstände sowie von
                     Bezügen der in staatlichen Betrieben ständig beschäftigten Personen mit. Diese
                     Mitwirkung wird durch Bundesverfassungsgesetz geregelt. </p>
                 <p> Die Ueberschrift des nächsten Abschnittss hat zu lauten? O.Stellung der
                     Bundesregierung in Nationalrät, im Bundesrat und in der Bundesversanmlung.</p>
-                <p> Dr. Danneberg beantragt in frt. 48 der Einzer Fessang an Ende des ersten fatzes
-                    das Wort, können durch, dürfen zu erenesetzen. Dieser Antrag wird angenommen
-                    ebenso der Dre Vefeilgenden anstelle ,des im Art. 60 vorgeschenen besonderen
-                    Ausschuedes“ zu setzen, dee Hauptausschueseer. In übrigen wird der Irtikel in
-                    der Linzer Faseung, ebenso wie Art. 17 unverändert angenommen.</p>
-                <p>Dei ert. 18 wünscht Dr. S el pel festgesetzt, was die dort angeführten Ausschüsse
-                    in Untersuchung ziehen sollen. Prof. Dr. kelse a bemerkt hiezu, dans es sich nur
-                    um Angelegenheiten handeln könne, die nicht den unabhängigen berichten
-                    übertragen sind. Ale Beispiel habe Art. 31 der deutschen Verfaseung gedient: Der
-                    Reichstag hat das Recht und auf Antrag von einem Fünftel seiner Mitglieder die
-                    Prlicht, Untersuchungsausschüsse einzusetzen.“ Der Voreitzende erblickt darin
-                    ein sehr weitgehondes Minoritätsrecht, 19<pb facs="#facs_12" n="12"
+                <p> Dr. Danneberg beantragt in Art. 46 der Linzer Fassung am Ende des ersten Satzes
+                    das Wort „können“ durch „dürfen“ zu ersetzen. Dieser Antrag wird angenommen,
+                    ebenso der des Vorsitzenden anstelle „des im Art. 60 vorgesehenen besonderen
+                    Ausschusses“ zu setzen „des Hauptausschusses“ Im übrigen wird der Artikel in der
+                    Linzer Fassung, ebenso wie Art. 47 unverändert angenommen.</p>
+                <p>Bei Art. 48 wünscht Dr. Seipel festgesetzt, was die dort angeführten Ausschüsse
+                    in Untersuchung ziehen sollen. Prof. Dr. Kelsen bemerkt hiezu, daß es sich nur
+                    um Angelegenheiten handeln könne, die nicht den unabhängigen Gerichten
+                    übertragen sind. Als Beispiel habe Art. 34 der deutschen Verfassung gedient:
+                    „Der Reichstag hat das Recht und auf Antrag von einem Fünftel seiner Mitglieder
+                    die Pflicht, Untersuchungsausschüsse einzusetzen“. Der Vorsitzende erblickt
+                    darin ein sehr weitgehendes Minoritätsrecht,<pb facs="#facs_12" n="12"
                         xml:id="img_0012" break="yes"/><fw type="pageNum">- 11 -</fw> das von einer
                     faktiösen Opposition dazu benützt werden kann, jeden Tag neue Untersuchungen zu
-                    erzätigen, insbesondere können einzeine Abgeordnete ihr Privatintereese durch
-                    Einsichtnaäme in Akte leicht befriedigen. Luck die Anwendung der
-                    Strafprozessordnung (Stro) sei mit Schwierigkeiten verkunden. Abg. O i &amp; s e
-                    in teilt die BeFürchtungen des Versitzenden mit; theoretioch käme für eine
-                    Opposition in erster Einie die grossdeutschte Partei in Frage, aber auch sie
-                    hätte weder heute noch in Zukunft die Köglichkeit auf Grund eines solchen
-                    Artikels schikandee Handlungen vorzunehmen. Der Abstimmung wird als geeignetste
-                    Faseung Abp.l des Art.47 (904 d.B.) des soz.dem. Batmurfes zu Grunde gelegt-und
-                    angenomnen.</p>
-                <p> Prof. Kels en stellt in weiteren Verlaufe der Beratungen fest, dase die
-                    beispielgebende deutsche Verfassung keine Einschränbezüglich des
-                    Brief-,Post-,Telegraphen- und Fernsprechgeheimnieses kungen(vorsieht und erwähnt
-                    auch das im Deutschen Reiche die Anwendung der dortigen StPO auf das Verfahren
-                    weit günstiger sei als die der unmodernen und reformbedürftigen öaterreichiechen
-                    Stfo. Der Vorgitzende glaubt die Vorschriften über die Erlebung ausschliesslich
-                    der Geschäftsordnung zu überlassen; die blosse Nennung der Stto würde den
-                    Eindruck horvorrufen, dass es sich am Kriminalfälle handein misse. Der Artikel
-                    orhält folgenden Vortlaut: </p>
+                    erzwingen, insbesondere können einzelne Abgeordnete ihr Privatinteresse durch
+                    Einsichtnahme in Akte leicht befriedigen. Auch die Anwendung der
+                    Strafprozeßordnung (StPO) sei mit Schwierigkeiten verbunden. Abg. Clessin teilt
+                    die Befürchtungen des Vorsitzenden nicht; theoretisch käme für eine Opposition
+                    in erster Linie die großdeutsche Partei in Frage, aber auch sie hätte weder
+                    heute noch in Zukunft die Möglichkeit, auf Grund eines solchen Artikels
+                    schikanöse Handlungen vorzunehmen. Der Abstimmung wird als geeignete Fassung
+                    Abs. 1 des Art. 47 (904 d. B.) des sozialdemokratischen Entwurfes zu Grunde
+                    gelegt und angenommen.</p>
+                <p> Prof. Kelsen stellt im weiteren Verlaufe der Beratungen fest, daß die
+                    beispielgebende deutsche Verfassung keine Einschränkungen bezüglich des Brief-,
+                    Post-, Telegraphen- und Fernsprechgeheimnisses vorsieht und erwähnt auch, daß,
+                    im Deutschen Reiche als Anwendung der dortigen StPO auf das Verfahren weit
+                    günstiger sei als die der unmodernen und reformbedürftigen österreichischen StPO
+                    . Der Vorsitzende glaubt die Vorschriften über die Erhebung ausschließlich der
+                    Geschäftsordnung zu überlassen; die bloße Nennung der StPO würde den Eindruck
+                    hervorrufen, daß es sich um Kriminalfälle handeln müsse. Der Artikel erhält
+                    folgenden Wortlaut:</p>
                 <head>Art. 48. </head>
-                <p>(1) Der Dattonalrat kann durch Beschluss Untersuchungsausschisse einsetzen. </p>
-                <p>(2) Die Gerichte und alle anderen Bewörden sind vergelichtet, dem Eräuchen dieser
-                    Zueschünse um Beweiserhebungen folge zu leisten; alle öffentlichen denter haben
-                    auf Verlangen ihre Akten vorzulegan. </p>
-                <p>(3) Das vorfahren dor Untersuchnagsausschüsse wird durch das
-                    geschäftsordnungsgesetz geregelt.</p>
-                <p> bei Besprechung der Ueberschrift des folgenden Abschnittes bemängelt Prof.
-                    kelseA Die worte, Die Vollziehung des Bundest als juristisch unkler. Dessor wäre
-                    die vollzichende Genalt des Bundes, doch ssi man primzipiell bestrebt gewesen,
-                    das Nort benalt zu 1.<pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"
-                        /><fw type="pageNum">- 12 -</fw> vermelden. Beschlossen wird folgender
-                    Vortlaut:</p>
-                <p>dritter abschnitt.</p>
+                <p>(1) Der Nationalrat kann durch Beschluß Untersuchungsausschüsse einsetzen. </p>
+                <p>(2) Die Gerichte und alle anderen Behörden sind verpflichtet, dem Ersuchen dieser
+                    Ausschüsse um Beweiserhebungen Folge zu leisten; alle öffentlichen Ämter haben
+                    auf Verlangen ihre Akten vorzulegen. </p>
+                <p>(3) Das Verfahren der Untersuchungsausschüsse wird durch das
+                    Geschäftsordnungsesetz geregelt.</p>
+                <p> Bei Besprechung der Überschrift des folgenden Abschnittes bemängelt Prof. Kelsen
+                    die Worte „die Vollziehung des Bundes“ als juristisch unklar. Besser wäre die
+                    vollziehende Gewalt des Bundes, doch sei man prinzipiell bestrebt gewesen, das
+                    Wort Gewalt zu<pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><fw
+                        type="pageNum">- 12 -</fw> vermeiden. Beschlossen wird folgender
+                    Wortlaut:</p>
+                <p>Dritter abschnitt.</p>
                 <p>Von der Vollziehung des Bundes.</p>
-                <p> a) von der Regisrungsgemalt des Bundes.</p>
+                <p> a) von der Regierungsgewalt des Bundes.</p>
                 <p>1. Der Bundespräsident.</p>
                 <p> Da dieser Abschnitt l bereits angenomnen ist, erörtert der Unterausschues
                     sogleich den nächsten Abschnitt: </p>
-                <p>2. Die Fundesregierung.</p>
-                <p> Der Vorsitzende spricht sich gegen die Kenderung des Pitele Stastssekretär, an
-                    den sich die Bevölkerung nunmehr gewöhnt habe, in Bindeeninister aus. Auch in
-                    Anerika somie in früheren Deutschen Reiche Libdeedich dieser Titsl.</p>
-                <p> Stadtesekretär Dr, Wayr findet dagegen, dass die Mehrzahl der Bevölkerung schon
-                    der Kürze helber sich auch jetzt noch der worte Winieter und Hinistoriun
-                    bediene. In allen Jukzessionestsaten sei diese Bezeichnung üblich, namentlich
-                    sprächen jedoch frends Diplonsten nur von Kinistern, da der Jfaatssekretär in
-                    den meisten Landern bloss die Stellung eines Winistergehligen habe. Prof. Kel s
-                    en erklärt die Terminologie des früheren Deutschen Reiches dadurch, dass die
-                    Staatssekretäre ebenfalls nur behllfen des Kanzlere, der allein verantwortlich
-                    war, gewesen seien. Im neuen Reiche haben sie mit der Verantnortlichkelt
-                    sogleich auch den Ministertitel erhalten, der eben diese stantsrechtliche
-                    Verantwortlichkeit kennzeichnet. Auch Dr. S e i pe lIbewerkt zu der Bezeichnung
-                    in imerika und zur vatikanischen terminologie des Lardinals Staatoeckretärs,
-                    dass es sich auch aler dur un die Sehilfen verantnortlicher Organs handie.</p>
-                <p> Anderer Aaschanung ist lbg. Leutkher, der auf die Verantnortlichkeit der
-                    Staatosskretäre in Zngland hinneist.</p>
-                <p> Abg. Ole ss in neint auch seinerseite, dasa sich der ritel Staatssskretär in den
-                    Ländern ebensomenig einbürgern werde; wie das Wort Stadtgemeindevorstehung, an
-                    dessen Stelle man wegen des Sprachgebrauches allenthalben wieder den Ausfruck
-                    Magietrat eingeführtchabe. 1.</p>
+                <p>2. Die Bundesregierung.</p>
+                <p> Der Vorsitzende spricht sich gegen die Änderung des Titels Staatssekretär, an
+                    den sich die Bevölkerung nunmehr gewöhnt habe, in Bundesminister aus. Auch in
+                    Amerika sowie im früheren Deutschen Reiche findet sich dieser Titel.</p>
+                <p> Staatssekretär Dr. Mayr findet dagegen, daß die Mehrzahl der Bevölkerung schon
+                    der Kürze halber sich auch jetzt noch der Worte Minister und Ministerium
+                    bediene. In allen Sukzessionsstaaten sei diese Bezeichnung üblich, namentlich
+                    sprächen jedoch fremde Diplomaten nur von Ministern, da der Staatssekretär in
+                    den meisten Ländern bloß die Stellung eines Ministergehilfen habe. Prof. Kelsen
+                    erklärt die Terminologie des früheren Deutschen Reiches dadurch, daß die
+                    Staatssekretäre ebenfalls nur Gehilfen des Kanzlers, der allein verantwortlich
+                    war, gewesen seien. Im neuen Reiche haben sie mit der Verantwortlichkeit
+                    sogleich auch den Ministertitel erhalten, der eben diese staatsrechtliche
+                    Verantwortlichkeit kennzeichnet. Auch Dr. Seipel bemerkt zu der Bezeichnung in
+                    Amerika und zur vatikanischen Terminologie des Kardinals Staatssekretärs, daß es
+                    sich auch hier nur um die Gehilfen verantwortlicher Organe handle.</p>
+                <p> Änderer Anschauung ist Abg. Leuthner, der auf die Verantwortlichkeit der
+                    Staatssekretäre in England hinweist.</p>
+                <p> Abg. Clessin meint auch seinerseits, daß sich der Titel Staatssekretär in den
+                    Ländern ebensowenig einbürgern werde, wie das Wort Stadtgemeindevorstehung, an
+                    dessen Stelle man wegen des Sprachgebrauches allenthalben wieder den Ausdruck
+                    Magistrat eingeführt habe.</p>
                 <p>
                     <pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><fw type="pageNum">-
                         13 -</fw>
                 </p>
-                <p> In prinziploildr Abstimnung entdcheidet sich der Unterausschues für den Titel
-                    Kinister und beschlieset den Art.58 in der Einzer Fassung.</p>
-                <p> Bei Besprochung des Art. 59 erläutert Prof. Kelsen die Entstehung des Ausdruckee
-                    Vollzugsanweisung. Staatskanzler Dr. Ren ner habe ihn für Verordnungen
-                    eingeführt um diese von „Dienstesanweisungen" zu unterscheiden, worunter er
-                    interne Aufträge an die Behörden verstanden wiesen wollte. Doch habe sich dieser
-                    Ausdruck nicht eingebürgert. Das Wort Vollzugeanweisung habe gegen Verordnung
-                    den Nachteil, dass diese ein juristisch genau umgrenzter Begriff sei. Auch der
-                    Ausschuse entscheidet sich fhr das Wort Verordnung und nimmt den Art.59 im
+                <p> In prinzipieller Abstimmung entscheidet sich der Unterausschuß für den Titel
+                    Minister und beschließt den Art. 58 in der Linzer Fassung.</p>
+                <p> Bei Besprechung des Art. 59 erläutert Prof. Kelsen die Entstehung des Ausdruckes
+                    Vollzugsanweisung. Staatskanzler Dr. Renner habe ihn für Verordnungen
+                    eingeführt, um dieser von „Dienstanweisungen“ zu unterscheiden, worunter er
+                    interne Aufträge an die Behörden verstanden wissen wollte. Doch habe sich dieser
+                    Ausdruck nicht eingebürgert. Das Wort Vollzugsanweisung habe gegen Verordnung
+                    den Nachteil, daß diese ein juristisch genau umgrenzter Begriff sei. Auch der
+                    Ausschuß entscheidet sich für das Wort Verordnung und nimmt den Art. 59 im
                     Wortlaute des Linzer Entwurfes an.</p>
-                <p> Im Art.60 wird die angeregte Erläuterung des Begriffes Hauptausechnes im Sinne
-                    einer Erklärung Dr. S ei pels als nicht in die Verfassung sondern in die
+                <p> Im Art. 60 wird die angeregte Erläuterung des Begriffes Hauptausschuß im Sinne
+                    einer Erklärung Dr. Seipels als nicht in die Verfassung sondern in die
                     Geschäftsordnung gehörig unterlassen, dagegen wird für die Ernennung einer
-                    Regierung auch in Zeiten, da der Nationalrat nicht vereammelt, ist, Vorsorge
-                    getroffen. Beschloesen wird folgender vortlaut: </p>
+                    Regierung auch in Zeiten, da der Nationalrat nicht versammelt ist, Vorsorge
+                    getroffen. Beschlossen wird folgender Wortlaut: </p>
                 <head>Art. 60.</head>
-                <p>(1) Die Bundeeregierung wird vom Uationalrat gewählt. In die Bundesregierung kann
-                    nur gewühlt werden, wer zum Tationalrat wihlbar ist; die Mitglieder der
-                    Bundesregierung münsen nicht dei Mationalrat angehören.</p>
-                <p>(2) zur Erstattung eines Vorschlages für die Fahl der Bundesregierung ist der vom
-                    Nationalrat aus seiner Mitte nach dem Verhältnienahlrecht gewählte
-                    Hauptausschuse berufen. </p>
-                <p>(3) Der Nationalrat nimnt die fahl der Bundesregierung durch nauentliche
-                    Abstimmung über den desantvorschlag des Hauptausschueces vor. </p>
-                <p>(4) ist der Nationslrat nicht versammelt, so wird die Bundesreglerung bis zum
-                    Zusanmenteitt des Nationalrates vom Hauptausschusg bestellt. 1.</p>
+                <p>(1) Die Bundesregierung wird vom Nationalrat gewählt. In die Bundesregierung kann
+                    nur gewählt werden, wer zum Nationalrat wählbar ist; die Mitglieder der
+                    Bundesregierung müssen nicht dem Nationalrat angehören.</p>
+                <p>(2) Zur Erstattung eines Vorschlages für die Wahl der Bundesregierung ist der vom
+                    Nationalrat aus seiner Mitte nach dem Verhältniswahlrecht gewählte Hauptausschuß
+                    berufen. </p>
+                <p>(3) Der Nationalrat nimmt die Wahl der Bundesregierung durch namentliche
+                    Abstimmung über den Gesamtvorschlag des Hauptausschusses vor. </p>
+                <p>(4) Ist der Nationalrat nicht versammelt, so wird die Bundesregierung bis zum
+                    Zusammentritt des Nationalrates vom Hauptausschuß bestellt.</p>
                 <p>
                     <pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/><fw type="pageNum">-
                         14 -</fw>
                 </p>
-                <p>(5) auf die Besteliuag einzeiner Mitglieder der Bundesreglerung finden die
-                    Bestinmungen der 1beätze 2 bie d sinngendese Arwendung.</p>
-                <p>EA der vorgelegten Fassung des Art. 61 benängelt Dr. seipel die starre Sonderung
-                    zweler Systens, entweder viederbetrauung der scheidenden Regierung oder
-                    Beautenkabinett; man müsse auch für den Ersatz einzelner Minister durch leitende
-                    Beante vorsorgen.</p>
-                <p> prof. Kelsen gibt zu erwägen, wie die Parlenentsherrschaft aufrecht erhalten
-                    bleiben soll, wenn eine Regierungsbildung durch Mehrheitsbeschluss nicht möglich
-                    ist. Vielleicht könnte der Hauptausschuss als Staaterat vorübergehend die
-                    Regierung übernehmen. Ee wären diesbezüglich etwa drei bie vier Artikel in der
-                    Verfassung ausreichend. Der Vorsitzende erblickt jedich in dem bloseen
-                    Vorhandensein eines solchen Notaueganges eine Befahr; auch müsste eine sehr
+                <p>(5) Auf die Bestellung einzelner Mitglieder der Bundesregierung finden die
+                    Bestimmungen der Absätze 2 bis 4 sinngemäß Anwendung.</p>
+                <p>An der vorgelegten Fassung des Art. 61 bemängelt Dr. Seipel die starre Sonderung
+                    zweier Systeme, entweder Wiederbetrauung der scheidenden Regierung oder
+                    Beamtenkabinett; man müsse auch für den Ersatz einzelner Minister durch leitende
+                    Beamte vorsorgen.</p>
+                <p> Prof. Kelsen gibt zu erwägen, wie die Parlamentsherrschaft aufrecht erhalten
+                    bleiben soll, wenn eine Regierungsbildung durch Mehrheitsbeschluß nicht möglich
+                    ist. Vielleicht könnte der Hauptauschuß als Staatsrat vorübergehend die
+                    Regierung übernehmen. Es wären diesbezüglich etwa drei bis vier Artikel in der
+                    Verfassung ausreichend. Der Vorsitzende erblickt jedoch in dem bloßen
+                    Vorhandensein eines solchen Notausganges eine Gefahr; auch müsse eine sehr
                     ausführliche Regelung seiner Tätigkeit in der Verfassung gegeben werden. Artikel
-                    si erhält deraufhin folgende Fassune:</p>
+                    61 erhält daraufhin folgende Fassung:</p>
                 <quote>
                     <head>Art. 61.</head>
-                    <p>Ist die Bundeereglerung zurüchgetreten, so hat der Bundespräeident bie zur
-                        Bildung der neuen Bundesregierung Mitglieder der scheilenden Regierung
-                        oderleitende Deauts der Bundesänter mit der Führung der Vermaltung und einen
-                        von ihnen mit den Voreitz mit der einstwelligen Fundesregierung zu betraden.
-                        Diese Bestinnung findet singgeniss Anwendung, wenn einzelne Mitglieder aus
+                    <p>Ist die Bundesregierung zurückgetreten, so hat der Bundespräsident bis zur
+                        Bildung der neuen Bundesregierung Mitglieder der scheidenden Regierung oder
+                        leitende Beamte der Bundesämter mit der Führung der Verwaltung und einen von
+                        ihnen mit dem Vorsitz mit der einstweiligen Bundesregierung zu betrauen.
+                        Diese Bestimmung findet sinngemäße Anwendung, wenn einzelne Mitglieder aus
                         der Bundesregierung ausgeschieden sind."</p>
                 </quote>
-                <p>Adestz 2 und 3 des Art. S0 des Einzer Entmurfes werden ergünzt und
-                    folgendernassen fornuliert:</p>
+                <p>Absatz 2 und 3 des Art. 60 des Linzer Entwurfes werden ergänzt und folgendermaßen
+                    formuliert:</p>
                 <quote>
                     <head> Art. 61 a.</head>
-                    <p>(2) Die Gestallungsurkunden des Burdeskenzlers, des Vizskenzlers und der
-                        übrigen Bundesminlater werden von Dundespräsidenten mit dem Datum des Tages
-                        der Angelobung ausgefertigt und von neu<pb facs="#facs_16" n="16"
+                    <p>(2) Die Bestallungsurkunden des Bundeskanzlers, des Vizekanzlers und der
+                        übrigen Bundesminister werden vom Bundespräsidenten mit dem Datum des Tages
+                        der Angelobung ausgefertigt und vom neu<pb facs="#facs_16" n="16"
                             xml:id="img_0016" break="yes"/><fw type="pageNum">- 15 -</fw> bestellten
                         Bundeskanzler gegengezeichnet. </p>
-                    <p> (2) Die Mitglieder der Bundesregierung werden vor. Antritt ihres Antes von
-                        Kundespräsidenten angelobt. </p>
-                    <p>(3) Diese Bestimmungen finden auch auf die Fälle des Art. 61 einngenäss
+                    <p> (2) Die Mitglieder der Bundesregierung werden vor Antritt ihres Amtes vom
+                        Bundespräsidenten angelobt. </p>
+                    <p>(3) Diese Bestimmungen finden auch auf die Fälle des Art. 61 sinngemäß
                         Anwendung.</p>
                 </quote>
-                <p> Artikel 62 wird in der Fassung des Linzer Entwurfes angenomnen, desglelchen Art.
-                    63 unter Streichung der Norte. der Bundesverfassung. In Abe 1 des 1rt. 64
-                    beantragt Abg. Dr. s e i pel in ersten Absatz anstatt, Organer das Wort, lenter
-                    zu setzen, hingegen wird in Abs. 2 das Nort, Bundesänter“ in Dundeeninisterien“
-                    abgeändert. Da der Unterausschuss der Reschanung Ausdruck gibt, dass auch des
-                    Bundeskanzlerant ein Bundesministerium ist, lautet Art. 64 folgendernassen: </p>
+                <p> Artikel 62 wird in der Fassung des Linzer Entwurfes angenommen 179) desgleichen
+                    Art. 63 unter Streichung der Worte „der Bundesverfassung“. In Abs. 1 des Art. 64
+                    beantragt Abg. Dr. Seipel im ersten Absatz anstatt „Organe“ das Wort „Amter“ zu
+                    setzen, hingegen wird in Abs. 2 das Wort „Bundesämter“ in „Bundesministerien“
+                    abgeändert. Da der Unterausschuß der Anschauung Ausdruck gibt, daß auch das
+                    Bundeskanzleramt ein Bundesministerium ist, lautet Art. 64 folgendermaßen: </p>
                 <quote>
                     <head>„Art. 64.</head>
-                    <p>(2) zur Gesorgung der Geschäfte der Bundesvernal? tung sind die
-                        Bundesministerien und die ihnen unterstellten Aenter bernfen. </p>
-                    <p>(2) Die Zahl der Bundesninisterien, ihr Wirkangskreis und inre Einrichtung
-                        werden durch Bundesgesetz bestinnt. </p>
-                    <p>(3) Der Bundeskanzler und die Bundeeninieter können ausnahnsmeise auch mit
-                        der Füarung eines zweiter Bundssulnisteriuns betraut werden.</p>
+                    <p>(1) Zur Besorgung der Geschäfte der Bundesverwaltung sind die
+                        Bundesministerien und die ihnen unterstellten Amter berufen. </p>
+                    <p>(2) Die Zahl der Bundesministerien, ihr Wirkungskreis und ihre Einrichtung
+                        werden durch Bundesgesetz bestimmt. </p>
+                    <p>(3) Der Bundeskanzler und die Bundesminister können ausnahmsweise auch mit
+                        der Führung eines zweiten Bundesministeriums betraut werden."</p>
                 </quote>
-                <p> der dritte Absatz wurde aus den Art. 65 des linzer Entwurfes (Abs. 2) und unter
-                    Streichung des zweiten Satzes andiesen Artikel angeschlossen. Art. O5 fällt
+                <p> Der Dritte Absatz wurde aus dem Art. 65 des Linzer Entwurfes (Abs.2) und unter
+                    Streichung des zweiten Satzes an diesen Artikel angeschlossen. Art. 65 fällt
                     aus.</p>
-                <p> zu Artikst s8 benerkt der Vorettzande, daß die ganze Verfassung die Bestinnung
-                    der Unterstaatesskrstäre nicht kome, diese Finktiondre seiann jedoch kaun
-                    entbehrlich; sie wären jnicht laut obligatoriach vorzuschteiben, wohl aber
-                    ebeaso ris Winieter shns Dortsfeuflls zuzulassen. Ohne Unteratastssskreture sei
-                    eine zerladentarische Kontrolls schner durchführbar1.</p>
+                <p> Zu Artikel 66 182) bemerkt der Vorsitzende, daß die ganze Verfassung die
+                    Bestimmung der Unterstaatssekretäre nicht kenne, diese Funktionäre seien jedoch
+                    kaum entbehrlich; sie wären nicht obligatorisch vorzuschreiben, wohl aber ebenso
+                    wie Minister ohne Portefeuille zuzulassen. Ohne Unterstaatssekretäre sei eine
+                    parlamentarische Kontrolle schwer durchführbar.</p>
                 <p>
                     <pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/><fw type="pageNum">-
                         16 -</fw>
                 </p>
-                <p> Staatsvekretdr Dr. May x meint, das ein Bundesgesetz über die Zahl der
-                    Wintsterien zu entschelden haben werde. Politische Unterstastssekretäre seler.
-                    in allgemeinen kaun nurschensnert; es dirften nur sashliche berichtspunkte und
-                    Rücksichten auf eine sparsans Vermaltung ausgebend sein.</p>
-                <p> Dr. Seipei kann weder dem Auskunftsmittel der Bundesminister ohne Portefsuills
-                    noch der Bestellung von Unterstandssekretären Gsfallen abgeninnen, eibt aber zu,
-                    daß eine Unnöglichtstt solchs Funktiondre zu gestellen untherwindliche
-                    Schrierigkeiten bereiten würds. In längererDebatte, an der sich dis abgeordneten
-                    clessin,undleutner, Professor Dr.Kelsen und Fertlansrat Dr. Wannlicher
-                    betdiligen, wird die Frage der Verantwortlichkeit der Unterstantssekrstäre
-                    srörtert und schlieslich festgestellt, daß der Unterstaatssekreter nur den
-                    Ressoftchef, also den Bundseminister verantportlich ist und die Stalle einss
-                    dektionschefs sinzunehaen hat. Er unterscheiist sich nur dadurch von dissen, daß
-                    er Politiker ist und in den Falls, als er die Heisungen dss Winistere für
-                    unversinber mit seinen Anschauungen helt, zu danis siorieren hat.</p>
-                <p> Nachden Professor Dr. Kal sen noch auf die Vstrendigkeit der parlamentarischen
-                    Vertratung des Kundseninisters durch den Unterstaatssekrstär, sie derzelt üblich
-                    ist, hingeslesen heddund-Abzsorinster dIss s in den Antrag,anstatt von
-                    Unterstantesetretaren von Staatsrekrstaren zu sprechen, gestellt hat, wird
-                    Artikel s5 in folgenden Fortlaut beschlossen: </p>
+                <p> Staatssekretär Dr. Mayr meint, daß ein Bundesgesetz über die Zahl der
+                    Ministerien zu entscheiden haben werde. Politische Unterstaatssekretäre seien im
+                    allgemeinen kaum wünschenswert; es dürften nur sachliche Gesichtspunkte und
+                    Rücksichten auf eine sparsame Verwaltung maßgebend sein.</p>
+                <p> Dr. Seipel kann weder dem Auskunftsmittel der Bundesminister ohne Protefeuille
+                    noch der Bestellung von Unterstaatssekretären Gefallen abgewinnen, gibt aber zu,
+                    daß eine Unmöglichkeit, solche Funktionäre zu bestellen, unüberwindliche
+                    Schwierigkeiten bereiten würde. In längerer Debatte, an der sich die
+                    Abgeordneten Clessin und Leuthner, Professor Dr. Kelsen und Sektionsrat Dr.
+                    Mannlicher beteiligen, wird die Frage, der Verantwortlichkeit der
+                    Unterstaatssekretäre erörtert und schließlich festgestellt, daß der
+                    Unterstaatssekretär nur dem Ressortchef, also dem Bundesminister verantwortlich
+                    ist und die Stelle eines Sektionschefs einzunehmen hat. Er unterscheidet sich
+                    nur dadurch von diesem, daß er Politiker ist und in dem Falle, als er die
+                    Weisungen des Ministers für unvereinbar mit seinen Anschauungen hält, zu
+                    demissionieren hat.</p>
+                <p> Nachdem Professor Dr. Kelsen noch auf die Notwendigkeit der parlamentarischen
+                    Vertretung des Bundesministers durch den Unterstaatssekretär, wie derzeit üblich
+                    ist, hingewiesen hat und Abg. Clessin den Antrag, anstatt von
+                    Unterstaatssekretären von Staatssekretären zu sprechen, gestellt hat, wird
+                    Artikel 66 in fogendem Wortlaut beschlossen: </p>
                 <quote>
                     <head>"Art. 66.</head>
-                    <p>(1) tabssonderen Fllen kann die Bestellung von Bundseniatstera auch
-                        glsichzeltige Betrauung mit der Führung einss Bundesniuisteriums
+                    <p>(1) In besonderen Fällen kann die Bestellung von Bundesministern auch ohne
+                        gleichzeitige Betrauung mit der Führung eines Bundesministeriums
                         erfolgen.</p>
-                    <p>(2) Den Bunderministern können zur Vaterstützung in der Geschafteführung und
-                        zur parlamentarischen Vertretung Stantssekretare debgegeben werden, die in
-                        gleicher reise bestellt werden sie die Bunaeeminister. </p>
-                    <p>(3) der Staatssekrstär ist den Bundesntnister unterstellt und an seine
-                        Zeisungen gebunden.</p>
+                    <p>(2) In besonderen Fällen können zur Unterstützung in der Geschäftsführung und
+                        zur parlamentarischen Vertretung Staatssekretäre beigegeben werden, die in
+                        gleicher Weise bestellt werden wie die Bundesminister. </p>
+                    <p>(3) Der Staatssekretär ist dem Bundesminister unterstellt und an seine
+                        Weisungen gebunden."</p>
                 </quote>
-                <p> Artikel 67 wird gestrichen. Dis nächsts Sitzung Mittnech, den 25-d.Uts. 10 Uhr
+                <p> Artikel 67 wird gestrichen. Die nächste Sitzung Mittwoch, den 25 d. Mts. 10 Uhr
                     vormittags.</p>
             </div>
-</body>
+        </body>
     </text>
 </TEI>
