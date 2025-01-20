@@ -108,20 +108,27 @@
                 <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
                 <head type="main">Protokoll der 10.Sitzung des Unterausschueses des Verfassungeausschueses vom
                     24. August 1320.</head>
-                <p>Beginn 10 Unr Vormittag.</p>
+                <p>Beginn 10 Uhr Vormittag.</p>
                 <p>Anwesend:</p>
-                <p>Dr. Otto Bauer als Vorsitzender</p>
-                <p>Simon Abram</p>
-                <p>Dr. Josef Aigner</p>
-                <p>Heinrich Clessin </p>
-                <p> Dr. Robert Danneberg </p>
-                <p> Jodok Fink </p>
-                <p> Dr. Ignaz Seipel </p>
-                <p> Staatssekretär Prof. Dr. Michael Mayer</p>
-                <p>Von der Staatskanzlei: Sektionsrat Dr. Uugo Jäckl</p>
-                <p>Sektionsrat Dr. Eebert Mannlicher </p>
-                <p>Vinisterialrizesstretur Dr. Kurt Frieberger als Schriftführer </p>
-                <p>Prof. Dr. Hans Kelsen als experte des Verfassunge ausschusses.</p>
+                <list>
+                    <item>Dr. Otto Bauer als Vorsitzender</item>
+                    <item>Simon Abram</item>
+                    <item>Dr. Josef Aigner</item>
+                    <item>Heinrich Clessin</item>
+                    <item>Dr. Robert Danneberg</item>
+                    <item>Jodok Fink</item>
+                    <item>Dr. Ignaz Seipel</item>
+                </list>
+                <list>
+                    <item>Staatssekretär Prof. Dr. Michael Mayr</item>
+                </list>
+                <p>Von der Staatskanzlei: </p>
+                <list>
+                    <item>Sektionsrat Dr. Hugo Jäckl</item>
+                    <item>Sektionsrat Dr. Egbert Mannlicher</item>
+                    <item>Vinisterialrizesstretur Dr. Kurt Frieberger als Schriftführer</item>
+                    <item>Prof. Dr. Hans Kelsen als Experte des Verfassungsausschusses.</item>
+                </list>
                 <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
                 <fw type="pageNum">- 2 -</fw>
                 <p>Auf Antrag des Vorsitzenden wird an Art. 29. ein 5. Satz folgenden Wortlautes
