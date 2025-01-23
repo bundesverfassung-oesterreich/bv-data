@@ -99,12 +99,11 @@
                 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="structured">
+        <revisionDesc status="text_correct">
                   <change when="2024-09-07" who="#cfh">document automatically created</change>
                   <change when="2024-09-08" who="#m_huber">div created</change>
                   <change when="2024-11-12" who="#m_huber">formatting completed</change>
-                  <change when="2025-01-23" who="#s_kury">gegengelesen und getrennt (von doc. 83)
-                        bis Art. 106</change>
+                  <change when="2025-01-23" who="#s_kury">Gegenlesen beendet</change>
             </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="2854" lry="4097" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0056/full/full/0/default.jpg" width="2854px" height="4097px"/></surface><surface ulx="0" uly="0" lrx="2787" lry="4023" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0057/full/full/0/default.jpg" width="2787px" height="4023px"/></surface><surface ulx="0" uly="0" lrx="2772" lry="4054" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0058/full/full/0/default.jpg" width="2772px" height="4054px"/></surface><surface ulx="0" uly="0" lrx="2790" lry="4058" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0059/full/full/0/default.jpg" width="2790px" height="4058px"/></surface><surface ulx="0" uly="0" lrx="2789" lry="4053" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0060/full/full/0/default.jpg" width="2789px" height="4053px"/></surface><surface ulx="0" uly="0" lrx="2751" lry="4076" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0061/full/full/0/default.jpg" width="2751px" height="4076px"/></surface><surface ulx="0" uly="0" lrx="2764" lry="4082" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0062/full/full/0/default.jpg" width="2764px" height="4082px"/></surface><surface ulx="0" uly="0" lrx="2803" lry="4071" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0063/full/full/0/default.jpg" width="2803px" height="4071px"/></surface><surface ulx="0" uly="0" lrx="2770" lry="4025" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0064/full/full/0/default.jpg" width="2770px" height="4025px"/></surface><surface ulx="0" uly="0" lrx="2800" lry="4081" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0065/full/full/0/default.jpg" width="2800px" height="4081px"/></surface><surface ulx="0" uly="0" lrx="2759" lry="4059" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0066/full/full/0/default.jpg" width="2759px" height="4059px"/></surface><surface ulx="0" uly="0" lrx="2798" lry="4042" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0067/full/full/0/default.jpg" width="2798px" height="4042px"/></surface><surface ulx="0" uly="0" lrx="2732" lry="4050" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0068/full/full/0/default.jpg" width="2732px" height="4050px"/></surface><surface ulx="0" uly="0" lrx="2803" lry="4048" xml:id="facs_15"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0069/full/full/0/default.jpg" width="2803px" height="4048px"/></surface><surface ulx="0" uly="0" lrx="2741" lry="4041" xml:id="facs_16"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0070/full/full/0/default.jpg" width="2741px" height="4041px"/></surface><surface ulx="0" uly="0" lrx="2846" lry="4104" xml:id="facs_17"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0071/full/full/0/default.jpg" width="2846px" height="4104px"/></surface><surface ulx="0" uly="0" lrx="2859" lry="4059" xml:id="facs_18"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0072/full/full/0/default.jpg" width="2859px" height="4059px"/></surface><surface ulx="0" uly="0" lrx="2785" lry="4054" xml:id="facs_19"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0075/full/full/0/default.jpg" width="2785px" height="4054px"/></surface><surface ulx="0" uly="0" lrx="2786" lry="4051" xml:id="facs_20"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0076/full/full/0/default.jpg" width="2786px" height="4051px"/></surface><surface ulx="0" uly="0" lrx="2790" lry="4067" xml:id="facs_21"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0077/full/full/0/default.jpg" width="2790px" height="4067px"/></surface><surface ulx="0" uly="0" lrx="2792" lry="4063" xml:id="facs_22"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0078/full/full/0/default.jpg" width="2792px" height="4063px"/></surface><surface ulx="0" uly="0" lrx="2782" lry="4067" xml:id="facs_23"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0079/full/full/0/default.jpg" width="2782px" height="4067px"/></surface><surface ulx="0" uly="0" lrx="2780" lry="4064" xml:id="facs_24"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0080/full/full/0/default.jpg" width="2780px" height="4064px"/></surface><surface ulx="0" uly="0" lrx="2765" lry="4048" xml:id="facs_25"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0081/full/full/0/default.jpg" width="2765px" height="4048px"/></surface><surface ulx="0" uly="0" lrx="2784" lry="4038" xml:id="facs_26"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0082/full/full/0/default.jpg" width="2784px" height="4038px"/></surface><surface ulx="0" uly="0" lrx="2809" lry="4054" xml:id="facs_27"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0083/full/full/0/default.jpg" width="2809px" height="4054px"/></surface><surface ulx="0" uly="0" lrx="2767" lry="4025" xml:id="facs_28"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0084/full/full/0/default.jpg" width="2767px" height="4025px"/></surface><surface ulx="0" uly="0" lrx="2792" lry="4060" xml:id="facs_29"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0085/full/full/0/default.jpg" width="2792px" height="4060px"/></surface><surface ulx="0" uly="0" lrx="2770" lry="4053" xml:id="facs_30"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0086/full/full/0/default.jpg" width="2770px" height="4053px"/></surface><surface ulx="0" uly="0" lrx="2801" lry="4048" xml:id="facs_31"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0087/full/full/0/default.jpg" width="2801px" height="4048px"/></surface><surface ulx="0" uly="0" lrx="2737" lry="4046" xml:id="facs_32"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0088/full/full/0/default.jpg" width="2737px" height="4046px"/></surface><surface ulx="0" uly="0" lrx="2825" lry="4097" xml:id="facs_33"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0089/full/full/0/default.jpg" width="2825px" height="4097px"/></surface><surface ulx="0" uly="0" lrx="2858" lry="4073" xml:id="facs_34"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0090/full/full/0/default.jpg" width="2858px" height="4073px"/></surface><surface ulx="0" uly="0" lrx="2838" lry="4044" xml:id="facs_35"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0091/full/full/0/default.jpg" width="2838px" height="4044px"/></surface><surface ulx="0" uly="0" lrx="2836" lry="4063" xml:id="facs_36"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0092/full/full/0/default.jpg" width="2836px" height="4063px"/></surface><surface ulx="0" uly="0" lrx="2840" lry="4069" xml:id="facs_37"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0093/full/full/0/default.jpg" width="2840px" height="4069px"/></surface><surface ulx="0" uly="0" lrx="2856" lry="4088" xml:id="facs_38"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0094/full/full/0/default.jpg" width="2856px" height="4088px"/></surface><surface ulx="0" uly="0" lrx="2844" lry="4069" xml:id="facs_39"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__30/files/images/IMG_0095/full/full/0/default.jpg" width="2844px" height="4069px"/></surface></facsimile>
@@ -1837,13 +1836,12 @@
                                     <head>Artikel 107. </head>
                                     <p type="legal_section">Die näheren Bestimmungen über die
                                           Tätigkeit des Rechnungshofes erfolgen durch Bundesgesetz.
-                                          Sechster Abschnitt. Von den Grund= und Freiheitsrechten.
                                     </p>
                               </div>
                         </div>
                         <div type="section">
-                              <head>Sechster Abschnitt.</head>
-                              <head>Von den Grund- und Freiheitsrechten.</head>
+                              <head>Sechster Abschnitt. </head>
+                              <head>Von den Grund- und Freiheitsrechten. </head>
                               <div type="article">
                                     <head>Artikel 108. </head>
                                     <p type="legal_section"><label>(1)</label> Vor dem Gesetze sind
@@ -1853,13 +1851,13 @@
                                     <p type="legal_section"><label>(2)</label> Männer und Frauen
                                           haben grundsätzlich dieselben staatsbürgerlichen Rechte
                                           und Pflichten. </p>
-                                    <p type="legal_section"><label>(3)</label> Öffentlich=rechtliche
-                                          Vorrechte oder Nachteile der Geburt und des Standes sind
-                                          aufgehoben. Adelsbezeichnungen gelten nur als Teil des
-                                          Namens und dürfen nicht mehr verliehen werden.<pb
-                                                facs="#facs_29" n="29" xml:id="img_0029" break="yes"
-                                                /><fw type="pageNum">28</fw></p>
-                                    <p type="legal_section"><label>(4)</label> Titel dürfen nur
+                                    <p type="legal_section"><label>(3) </label>Öffentlich-
+                                          rechtliche Vorrechte oder Nachteile der Geburt und des
+                                          Standes sind aufgehoben. Adelsbezeichnungen gelten nur als
+                                          Teil des Namens und dürfen nicht mehr verliehen werden. </p>
+                                    <p type="legal_section"><pb facs="#facs_29" n="29"
+                                                xml:id="img_0029" break="yes"/><fw type="pageNum"
+                                                >28</fw><label>(4)</label> Titel dürfen nur
                                           verliehen werden, wenn sie ein Amt oder einen Beruf
                                           bezeichnen; akademische grade und berufliche
                                           Standesbezeichnungen sind dadurch nicht betroffen. </p>
@@ -1915,7 +1913,7 @@
                                           Freiheit entzogen wird, sind spätestens am darauffolgenden
                                           Tage in Kenntnis zu setzen, von welcher Behörde und aus
                                           welchen Gründen die Entziehung der Freiheit angeordnet
-                                          worden ist: es muß ihnen unverzüglich Gelegenheit gegeben
+                                          worden ist; es muß ihnen unverzüglich Gelegenheit gegeben
                                           werden, Einwendungen gegen die Freiheitsentziehung
                                           vorzubringen. </p>
                               </div>
@@ -1929,9 +1927,9 @@
                               </div>
                               <div type="article">
                                     <head>Artikel 115. </head>
-                                    <p type="legal_section">Das Brief= Post=, Telegraphen= und Fern=
-                                          sprechgeheimnis ist jedermann gewährleistet. Ausnahmen in
-                                          den Fällen strafgerichtlicher Untersuchung und unter
+                                    <p type="legal_section">Das Brief-, Post-, Telegraphen- und
+                                          Fernsprechgeheimnis ist jedermann gewährleistet. Ausnahmen
+                                          in den Fällen strafgerichtlicher Untersuchung und unter
                                           außerordentlichen Verhältnissen können nur durch
                                           Bundesgesetz bestimmt werden. </p>
                               </div>
@@ -1980,10 +1978,10 @@
                                           Bundesgebietes steht jedermann volle Glaubens- und
                                           Gewissensfreiheit, volle Freiheit des religiösen
                                           Bekenntnisses sowie der<pb facs="#facs_31" n="31"
-                                                xml:id="img_0031" break="yes"/><fw type="pageNum"
-                                                >30</fw> öffentlichen und häuslichen Religionsübung
-                                          zu, sofern diese nicht mit der öffentlichen Ordnung oder
-                                          den guten Sitten unvereinbar sind. </p>
+                                                xml:id="img_0031" break="yes"/>
+                                          <fw type="pageNum">30</fw>öffentlichen und häuslichen
+                                          Religionsübung zu, sofern diese nicht mit der öffentlichen
+                                          Ordnung oder den guten Sitten unvereinbar sind. </p>
                                     <p type="legal_section"><label>(2)</label> Die Religionsübung
                                           steht unter staatlichem Schutze. </p>
                               </div>
@@ -1994,11 +1992,11 @@
                                           den öffentlichen Ämtern ist vom Religionsbekenntnisse
                                           unabhängig; doch darf den staatsbürgerlichen Pflichten
                                           durch das Religionsbekenntnis kein Abbruch geschehen. </p>
-                                    <p type="legal_section"><label>(2)</label> Niemand darf zu einer
-                                          kirchlichen Handlung, zur Teilnahme an einer kirchlichen
-                                          Feierlichkeit oder an religiösen Übungen gezwungen werden,
-                                          sofern er nicht der nach dem Gesetz hiezu berechtigten
-                                          Gewalt anderer untersteht.</p>
+                                    <p type="legal_section"><label>(2) </label> Niemand darf zu
+                                          einer kirchlichen Handlung, zur Teilnahme an einer
+                                          kirchlichen Feierlichkeit oder an religiösen Übungen
+                                          gezwungen werden, sofern er nicht der nach dem Gesetz
+                                          hiezu berechtigten Gewalt anderer untersteht.</p>
                               </div>
                               <div type="article">
                                     <head>Artikel 121. </head>
@@ -2038,13 +2036,12 @@
                                           Rechtes sind, sind berechtigt, Abgaben einzuheben. Zur
                                           Einbringung solcher Abgaben wird, wenn sie mit
                                           behördlicher Zustimmung auferlegt sind, die politische
-                                          Exekution gewährt.<pb facs="#facs_32" n="32"
+                                          Exekution gewährt. </p>
+                                    <p type="legal_section"><pb facs="#facs_32" n="32"
                                                 xml:id="img_0032" break="yes"/><fw type="pageNum"
-                                                >31</fw>
-                                    </p>
-                                    <p type="legal_section"><label>(7)</label> Bei Neueinführung
-                                          solcher Abgaben sind die staatlichen Steuerlisten zur
-                                          Grundlage zu nehmen. </p>
+                                                >31</fw><label>(7)</label> Bei Neueinführung solcher
+                                          Abgaben sind die staatlichen Steuerlisten zur Grundlage zu
+                                          nehmen. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 122. </head>
@@ -2093,23 +2090,23 @@
                                     <head>Artikel 127. </head>
                                     <p type="legal_section"><label>(1)</label> Die Denkmäler der
                                           Kunst, der Geschichte und der Natur, die Landschaft und
-                                          der Fremden verkehr genießen den Schutz und die Pflege des
+                                          der Fremdenverkehr genießen den Schutz und die Pflege des
                                           Staates. </p>
                                     <p type="legal_section"><label>(2)</label> Der Bund hat die
                                           Abwanderung der Schätze von Kunst und Wissenschaft in das
-                                          Ausland zu verhüten.</p>
+                                          Ausland zu verhüten. </p>
                               </div>
                               <div type="article">
                                     <pb facs="#facs_33" n="33" xml:id="img_0033" break="yes"/>
-                                    <fw type="pageNum">32</fw>
+                                    <fw type="pageNum">32 </fw>
                                     <head>Artikel 128. </head>
                                     <p type="legal_section"><label>(1)</label> Jeder
-                                          Bundesangehörige ist berechtigt, Unterrichts= und
+                                          Bundesangehörige ist berechtigt, Unterrichts- und
                                           Erziehungsanstalten zu gründen und an solchen Unterricht
                                           zu erteilen, wenn er seine Befähigung hiezu in
                                           gesetzlicher Weise nachgewiesen hat. </p>
                                     <p type="legal_section"><label>(2)</label> Dem Bunde steht die
-                                          Schulaufsicht über das gesamte Unterrichts= und
+                                          Schulaufsicht über das gesamte Unterrichts- und
                                           Erziehungswesen durch seine Organe zu. </p>
                                     <p type="legal_section"><label>(3)</label> Es besteht allgemeine
                                           Schulpflicht. Ihrer Erfüllung dient grundsätzlich die
@@ -2123,7 +2120,7 @@
                                           sittliche Bildung, staatsbürgerliche Gesinnung und
                                           berufliche Tüchtigkeit im Geiste des deutschen Volkstums
                                           und der Völkerversöhnung zu erstreben. </p>
-                                    <p type="legal_section"><label>(2)</label> Beim Unterricht in
+                                    <p type="legal_section"><label>(2) </label> Beim Unterricht in
                                           öffentlichen Schulen ist Bedacht zu nehmen, daß die
                                           Empfindungen anders Denkender nicht verletzt werden. </p>
                                     <p type="legal_section"><label>(3)</label> Staatsbürgerkunde und
@@ -2135,7 +2132,7 @@
                                     <head>Artikel 130.</head>
                                     <p type="legal_section"><label>(1)</label> Der
                                           Religionsunterricht ist ordentliches Lehrfach an allen
-                                          Volks= und Mittelschulen. Seine Erteilung wird im Wege der
+                                          Volks- und Mittelschulen. Seine Erteilung wird im Wege der
                                           Schulgesetzgebung geregelt, wobei die Übereinstimmung mit
                                           den Grundsätzen der betreffenden Religionsgemeinschaft zu
                                           wahren ist. </p>
@@ -2161,12 +2158,12 @@
                                     <head>Artikel 131. </head>
                                     <p type="legal_section"><label>(1)</label> Keinem
                                           Bundesangehörigen werden im freien Gebrauch irgendeiner
-                                          Sprache im Privat= oder Geschäftsverkehr sowie bei
+                                          Sprache im Privat- oder Geschäftsverkehr sowie bei
                                           Betätigung der religiösen<pb facs="#facs_34" n="34"
-                                                xml:id="img_0034" break="yes"/><fw type="pageNum"
-                                                >33</fw>Überzeugung, in der Presse oder in sonstigen
-                                          Veröffentlichungen oder in allgemein zugänglichen
-                                          Versammlungen Beschränkungen auferlegt. </p>
+                                                xml:id="img_0034" break="yes"/>
+                                          <fw type="pageNum">33</fw>Überzeugung, in der Presse oder
+                                          in sonstigen Veröffentlichungen oder in allgemein
+                                          zugänglichen Versammlungen Beschränkungen auferlegt. </p>
                                     <p type="legal_section"><label>(2)</label> Durch Gesetz wird
                                           vorgesorgt, daß den nicht deutsch sprechenden
                                           Bundesangehörigen angemessene Erleichterungen zum Gebrauch
@@ -2181,17 +2178,17 @@
                                           den auf ihre eigenen Kosten errichteten Wohltätigkeits-,
                                           Religions-, Unterrichts-, Erziehungs- und sonstigen
                                           Anstalten ihre eigene Sprache nach Belieben zu gebrauchen
-                                          und ihre Religion frei auszuüben. </p>
+                                          und ihre Religion frei auszuüben.</p>
                               </div>
                               <div type="article">
                                     <head>Artikel 133. </head>
                                     <p type="legal_section">Wo eine verhältnismäßig beträchtliche
                                           Anzahl von Bundesangehörigen wohnt, die einer Minderheit
                                           nach Nationalität, Sprache oder Religion angehört, sind
-                                          von allen Beiträgen, die etwa für Erziehungs-, Religions=
+                                          von allen Beiträgen, die etwa für Erziehungs-, Religions-
                                           oder Wohltätigkeitszwecke aus öffentlichen Mitteln
                                           zugewendet werden, diese Minderheiten angemessen zu
-                                          beteilen.</p>
+                                          beteilen. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 134. </head>
@@ -2201,9 +2198,9 @@
                                     <p type="legal_section"><label>(2)</label> Enteignung gegen den
                                           Willen des Eigentümers ist nur gegen angemessene
                                           Entschädigung zulässig. Über die Höhe der Entschädigung
-                                          entscheiden im Streitfalle — abgesehen von den im Artikel
-                                          84, dritter Absatz, vorgesehenen Kommissionen ordentlichen
-                                          Gerichte. </p>
+                                          entscheiden im Streitfalle – abgesehen von den im Artikel
+                                          84, dritter Absatz, vorgesehenen Kommissionen – die
+                                          ordentlichen Gerichte. </p>
                                     <p type="legal_section"><label>(3)</label> Die Zwecke, zu denen
                                           enteignet werden kann, werden in besonderen Gesetzen
                                           festgesetzt. Das Enteignungsverfahren wird durch
@@ -2219,10 +2216,10 @@
                                           schuldhafte, rechtswidrige Ausübung der öffentlichen
                                           Gewalt Schaden erleidet, hat Anspruch auf Entschädigung
                                           gegen den Bund oder das Land, durch dessen Organ der
-                                          Schaden zugefügt wurde.<fw type="pageNum">3</fw></p>
-                                    <p type="legal_section"><pb facs="#facs_35" n="35"
-                                                xml:id="img_0035" break="yes"/><fw type="pageNum"
-                                                >34</fw><label>(2)</label> Die nähere Regelung
+                                          Schaden zugefügt wurde.<pb facs="#facs_35" n="35"
+                                                xml:id="img_0035" break="yes"/>
+                                          <fw type="pageNum">34 </fw></p>
+                                    <p type="legal_section"><label>(2)</label> Die nähere Regelung
                                           erfolgt durch Bundesgesetz. Dieses setzt auch fest, unter
                                           welchen Voraussetzungen ein Rückgriffsrecht gegen das
                                           schuldtragende Organ zulässig ist. </p>
@@ -2233,7 +2230,7 @@
                                           steht unter dem besonderen Schutze des Bundes. </p>
                                     <p type="legal_section"><label>(2)</label> Die
                                           Vereinigungsfreiheit zur Wahrung und Förderung der
-                                          Arbeits= und Wirtschaftsbedingungen ist für jedermann und
+                                          Arbeits- und Wirtschaftsbedingungen ist für jedermann und
                                           alle Berufe gewährleistet. Alle Abreden und Maßnahmen,
                                           welche diese Freiheit einzuschränken oder zu behindern
                                           suchen, sind rechtswidrig.</p>
@@ -2242,8 +2239,8 @@
                                     <head>Artikel 137. </head>
                                     <p type="legal_section">Im Falle einer dringenden Gefahr für den
                                           Staat oder seine Bürger können die Grundrechte der
-                                          persönlichen Freiheit, des Hausrechtes, der Vereins= und
-                                          Versammlungsfreiheit, des Brief=, Post=, Telegraphen= und
+                                          persönlichen Freiheit, des Hausrechtes, der Vereins- und
+                                          Versammlungsfreiheit, des Brief-, Post-, Telegraphen- und
                                           Fernsprechgeheimnisses und der Pressefreiheit mittels
                                           Verordnung der Bundesregierung den durch besonderes Gesetz
                                           vorgesehenen Beschränkungen unterworfen werden. Eine
@@ -2275,42 +2272,34 @@
                                           <p type="legal_section"><label>(2)</label> Doch kann, wenn
                                                 die Entscheidung oder Verfügung einer Landesbehörde
                                                 die Interessen des Bundes verletzt, auch die
-                                                Bundesregierung den Verwaltungsgerichtshof
-                                                anrufen.</p>
+                                                Bundesregierung den Verwaltungsgerichtshof anrufen.
+                                          </p>
                                     </div>
                                     <div type="article">
                                           <pb facs="#facs_36" n="36" xml:id="img_0036" break="yes"/>
                                           <fw type="pageNum">35</fw>
                                           <head>Artikel 140. </head>
                                           <p type="legal_section">Von der Zuständigkeit des
-                                                Verwaltungsgerichts. hofes sind ausgeschlossen die
+                                                Verwaltungsgerichtshofes sind ausgeschlossen die
                                                 Angelegenheiten: <list>
-                                                  <label>1.</label>
+                                                  <label>1. </label>
                                                   <item> über die den ordentlichen Gerichten die
-                                                  Entscheidung zusteht;  </item>
-                                                  <label>2.</label>
-                                                  <item> die zur Kompetenz des
-                                                  Verfassungsgerichtshofes gehören;  </item>
-                                                  <label>3.</label>
-                                                  <item>über die eine Kollegialbehörde zu
+                                                  Entscheidung zusteht; </item>
+                                                  <label>2. </label>
+                                                  <item>die zur Kompetenz des
+                                                  Verfassungsgerichtshofes gehören; </item>
+                                                  <label>3. </label>
+                                                  <item> über die eine Kollegialbehörde zu
                                                   entscheiden oder zu verfügen hat, der wenigstens
-                                                  ein Richter angehört;  </item>
-                                                  <label>4.</label>
+                                                  ein Richter angehört; </item>
+                                                  <label>4. </label>
                                                   <item> in denen und insoweit die
                                                   Verwaltungsbehörden nach freiem Ermessen
-                                                  vorzugehen haben.  </item>
+                                                  vorzugehen haben. </item>
                                                 </list></p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 141.</head>
-                                          <p type="legal_section">Zum Schutze von Interessen des
-                                                Bundes oder eines Landes, in letzterem Falle nur auf
-                                                Ansuchen dieses Landes kann die Bundesregierung
-                                                gegen Entscheidungen und Verfügungen von
-                                                Landesbehörden, die in Anwendung von Bundesgesetzen
-                                                erfolgen, auch dann den Verwaltungsgerichtshof
-                                                anrufen, wenn die. Entscheidung oder Verfügung nach
-                                                freiem Ermessen zu treffen war. </p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 142. </head>
@@ -2319,7 +2308,7 @@
                                                 Entscheidung oder Verfügung einer
                                                 Landesverwaltungsbehörde zu erkennen hat, soll
                                                 wenigstens ein Richter angehören, der aus dem
-                                                Justiz= oder Verwaltungsdienst in dem betreffenden
+                                                Justiz- oder Verwaltungsdienst in dem betreffenden
                                                 Lande hervorgegangen ist.</p>
                                     </div>
                                     <div type="article">
@@ -2347,7 +2336,7 @@
                                                 Räten. </p>
                                           <p type="legal_section"><label>(3)</label> Wenigstens die
                                                 Hälfte der Mitglieder muß die Eignung zum
-                                                Richteramte haben.</p>
+                                                Richteramte haben. </p>
                                     </div>
                                     <div type="article">
                                           <pb facs="#facs_37" n="37" xml:id="img_0037" break="yes"/>
@@ -2361,13 +2350,13 @@
                                     </div>
                                     <div type="article">
                                           <head>Artikel 146. </head>
-                                          <p type="legal_section">Die näheren Bestimmungen über die
-                                                Verwaltungsgerichtsbarkeit erfolgen durch
-                                                Bundesgesetz.</p>
+                                          <p type="legal_section"><emph>Die näheren Bestimmungen
+                                                  über die Verwaltungsgerichtsbarkeit erfolgen durch
+                                                  Bundesgesetz.</emph></p>
                                     </div>
                               </div>
                               <div type="section">
-                                    <head>B. Der Verfassungsgerichtshof.</head>
+                                    <head>B. Der Verfassungsgerichtshof. </head>
                                     <div type="article">
                                           <head>Artikel 147. </head>
                                           <p type="legal_section">Der Verfassungsgerichtshof in Wien
@@ -2380,17 +2369,16 @@
                                           <p type="legal_section">Der Verfassungsgerichtshof
                                                 entscheidet ferner: Kompetenzkonflikte <list>
                                                   <label>a) </label>
-                                                  <item> zwischen Gerichten und Verwaltungsbehörden
+                                                  <item>zwischen Gerichten und Verwaltungsbehörden
                                                   des Bundes oder der Länder, </item>
-                                                  <label> b) </label>
-                                                  <item> zwischen dem Verwaltungsgerichtshof und den
-                                                  ordentlichen Gerichten,  </item>
-                                                  <label>c)  </label>
-                                                  <item>zwischen Landesregierungen untereinander,
+                                                  <label>b) </label>
+                                                  <item>zwischen dem Verwaltungsgerichtshof und den
+                                                  ordentlichen Gerichten, </item>
+                                                  <label>c) </label>
+                                                  <item> zwischen Landesregierungen untereinander,
                                                   sowie zwischen einer Landesregierung und der
-                                                  Bundesregierung.  </item>
-                                                </list>
-                                          </p>
+                                                  Bundesregierung. </item>
+                                                </list></p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 149.</head>
@@ -2420,15 +2408,16 @@
                                           <p type="legal_section"><label>(2)</label> Der Antrag kann
                                                 jederzeit gestellt werden; er ist sofort der
                                                 zuständigen Landesregierung oder der Bundesregierung
-                                                bekanntzugeben.</p>
+                                                bekanntzugeben. </p>
                                           <p type="legal_section"><pb facs="#facs_38" n="38"
-                                                  xml:id="img_0038" break="yes"/><fw type="pageNum"
-                                                  >37</fw><label>(3)</label> Das stattgebende
-                                                Erkenntnis des Verfassungsgerichtshofes bewirkt die
-                                                Aufhebung des Gesetzes und verpflichtet die
-                                                zuständige Landesregierung oder die Bundesregierung
-                                                zur Verlautbarung der erfolgten Aufhebung im
-                                                Landesgesetzblatte oder im Bundesgesetzblatte. </p>
+                                                  xml:id="img_0038" break="yes"/>
+                                                <fw type="pageNum">37</fw><label>(3)</label> Das
+                                                stattgebende Erkenntnis des Verfassungsgerichtshofes
+                                                bewirkt die Aufhebung des Gesetzes und verpflichtet
+                                                die zuständige Landesregierung oder die
+                                                Bundesregierung zur Verlautbarung der erfolgten
+                                                Aufhebung im Landesgesetzblatte oder im
+                                                Bundesgesetzblatte. </p>
                                           <p type="legal_section"><label>(4)</label> Der
                                                 Verfassungsgerichtshof ist bei der Prüfung der
                                                 Verfassungsmäßigkeit von Gesetzen an keinerlei
@@ -2441,42 +2430,43 @@
                                                 Bundestag, zu den Landtagen und allen anderen
                                                 allgemeinen Vertretungskörpern und über den Antrag
                                                 eines dieser Vertretungskörper auf Erklärung des
-                                                Mandatsverlustes eines seiner Mitglieder. </p>
+                                                Mandatsverlustes eines seiner Mitglieder.</p>
                                     </div>
                                     <div type="article">
-                                          <head>Artikel 152.</head>
+                                          <head>Artikel 152. </head>
                                           <p type="legal_section"><label>(1)</label> Der
-                                                Verfassungsgerichtshof entscheidet über die Verantwortlichkeit:<list>
-                                                  <label> a) </label>
-                                                  <item> des Bundespräsidenten </item>
+                                                Verfassungsgerichtshof entscheidet über die
+                                                Verantwortlichkeit: <list>
+                                                  <label>a) </label>
+                                                  <item>des Bundespräsidenten, </item>
                                                   <label>b) </label>
                                                   <item> der Mitglieder der Bundesregierung und der
                                                   ihnen hinsichtlich der Verantwortlichkeit
                                                   gleichgestellten Organe, </item>
-                                                  <label> c) </label>
-                                                  <item>der Mitglieder der Landesregierungen und der
-                                                  ihnen hinsichtlich der Verantwortlichkeit
-                                                  gleichgestellten Organe, und zwar:  </item>
-                                                </list> und zwar:<list>
-                                                  <label>1.</label>
+                                                  <label>c) </label>
+                                                  <item> der Mitglieder der Landesregierungen und
+                                                  der ihnen hinsichtlich der Verantwortlichkeit
+                                                  gleichgestellten Organe, </item>
+                                                </list>und zwar:<list>
+                                                  <label>1. </label>
                                                   <item> wegen vorsätzlicher oder grobfahrlässiger
                                                   Verletzung der Bundesverfassung durch den
                                                   Bundespräsidenten auf einen Antrag des
-                                                  Bundestages;  </item>
-                                                  <label>2.</label>
-                                                  <item> wegen vorsätzlicher oder grobsahrlässiger
+                                                  Bundestages;</item>
+                                                  <label>2. </label>
+                                                  <item>wegen vorsätzlicher oder grobsahrlässiger
                                                   Gesetzesverletzung der unter b genannten Personen
                                                   durch ihre Amtstätigkeit auf einen Antrag des
                                                   Bundestages und wegen vorsätzlicher oder
-                                                  grobsahrlässiger Gesetzesverletzung der unter c
+                                                  grobfahrlässiger Gesetzesverletzung der unter c
                                                   genannten Personen durch ihre Amtstätigkeit auf
-                                                  Antrag des zuständigen Landtages;  </item>
-                                                  <label>3.</label>
-                                                  <item> über die Verantwortlichkeit des
+                                                  Antrag des zuständigen Landtages; </item>
+                                                  <label> 3.</label>
+                                                  <item>über die Verantwortlichkeit des
                                                   Landeshauptmannes, seiner Stellvertreter und des
                                                   Landesamtsdirektors wegen vorsätzlicher und
-                                                  grobsahrlässiger Rechtsverletzung durch ihre
-                                                  Amtstätigkeit auf Antrag der Bundesregierung
+                                                  grobfahrlässiger Rechtsverletzung durch ihre
+                                                  Amtstätigkeit auf Antrag der Bundesregierung.
                                                   </item>
                                                 </list></p>
                                           <p type="legal_section"><label>(2)</label> Das
@@ -2487,12 +2477,11 @@
                                                 geringfügigeren Rechtsverletzungen in den unter 3.
                                                 erwähnten Fällen kann sich der
                                                 Verfassungsgerichtshof darauf beschränken, das
-                                                Vorliegen der Rechtsverletzung auszusprechen.<pb
-                                                  facs="#facs_39" n="39" xml:id="img_0039"
-                                                  break="yes"/><fw type="pageNum">38</fw>
-                                          </p>
+                                                Vorliegen der Rechtsverletzung auszusprechen. </p>
                                     </div>
                                     <div type="article">
+                                          <pb facs="#facs_39" n="39" xml:id="img_0039" break="yes"/>
+                                          <fw type="pageNum">38</fw>
                                           <head>Artikel 153. </head>
                                           <p type="legal_section"><label>(1)</label> Der
                                                 Verfassungsgerichtshof entscheidet über Beschwerden
@@ -2503,9 +2492,9 @@
                                                 stattgebende Erkenntnis des Verfassungsgerichtshofes
                                                 bewirkt die Aufhebung der verfassungswidrigen
                                                 Entscheidung oder Verfügung. Die Behörden sind bei
-                                                der neu zu treffenden Entscheidung. oder Verfügung
-                                                an die Rechtsanschauung des Verfassungsgerichtshofes
-                                                gebunden.</p>
+                                                der neu zu treffenden Entscheidung oder Verfügung an
+                                                die Rechtsanschauung des Verfassungsgerichtshofes
+                                                gebunden. </p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 154. </head>
@@ -2517,10 +2506,10 @@
                                           <head>Artikel 155. </head>
                                           <p type="legal_section"><label>(1)</label> Der
                                                 Verfassungsgerichtshof in Wien besteht aus einem
-                                                Präsidenten, einem Vizepräsistenten, vierzehn
-                                                Mitgliedern und acht Ersatzmitglieder. </p>
+                                                Präsidenten, einem Vizepräsidenten, vierzehn
+                                                Mitgliedern und acht Ersatzmitgliedern. </p>
                                           <p type="legal_section"><label>(2)</label> Der Präsident,
-                                                der Vizepräsdent, sieben Mitslieder und vier
+                                                der Vizepräident, sieben Mitglieder und vier
                                                 Ersatzmitglieder werden vom Bundestag, sieben
                                                 Mitglieder und vier Ersatzmitglieder vom Bundesrat
                                                 auf Lebensdauer gewählt.</p>
@@ -2528,12 +2517,12 @@
                                     <div type="article">
                                           <head>Artikel 156. </head>
                                           <p type="legal_section"><label>(1)</label> Der Präsident
-                                                des Bundesverfassungsgerichtes steht im Lange des
-                                                Bundeskanzlers, der Vizepräsident im Lange eines
+                                                des Bundesverfassungsgerichtes steht im Range des
+                                                Bundeskanzlers, der Vizepräsident im Range eines
                                                 Bundesministers. </p>
                                           <p type="legal_section"><label>(2)</label> Das Amt der
                                                 Mitglieder des Verfassungsgerichtshofes ist, soweit
-                                                nicht Mitglieder als ständige Referenten jungieren,
+                                                nicht Mitglieder als ständige Referenten fungieren,
                                                 ein Ehrenamt. Die ständigen Referenten werden in
                                                 einer Plenarversammlung des Gerichtshofes aus der
                                                 Mitte seiner Mitglieder gewählt. </p>
@@ -2542,8 +2531,7 @@
                                           <head>Artikel 157. </head>
                                           <p type="legal_section">Die nähere Organisation und das
                                                 Verfahren des Verfassungsgerichtshofes wird durch
-                                                das Bundesgesetz geregelt. Österreichische
-                                                Staatsdruckerei.</p>
+                                                das Bundesgesetz geregelt. </p>
                                     </div>
                               </div>
                         </div>
