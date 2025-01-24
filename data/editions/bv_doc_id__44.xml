@@ -105,7 +105,7 @@
         </profileDesc>
         <revisionDesc status="created">
             <change when="2025-01-09" who="#cfh">document automatically created</change>
-            <change when="2025-01-16" who="#t_voegtlin">Gliederung angefangen</change>
+            <change when="2025-01-24" who="#t_voegtlin">Gliederung und Gegenlesen beendet</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -260,11 +260,11 @@
                     Vorsitzende verweist auf die Möglichkeit mißbräuchlicher Anwendung des
                     Transportscheinwesens. Abg. Dr. Seipel beantragt demnach die Aufnahme des
                     Artikels 5 Abs. 2 des sozialdemokratischen Entwurfes (904 der Beilage) unter
-                    Weglassung der Worte „oder sonstige Verkehrsbeschränkungen“: Artikel 3 a  (Die
+                    Weglassung der Worte „oder sonstige Verkehrsbeschränkungen“: Artikel 3 a (Die
                     Beisetzung von Buchstaben bis zur endgiltigen Neunumerierung der Artikel wird
                     auf Grund einer Anregung des Sekt. Rates Dr. Mannlicher beschlossen). (1) Das
-                    Bundesgebiet bildet ein einheitliches Währungs-, Wirtschaftsund Zollgebiet. (2)
-                    Innerhalb der Grenzen des Bundes dürfen keine Zwischenzollinien <pb
+                    Bundesgebiet bildet ein einheitliches Währungs-, Wirtschafts- und Zollgebiet.
+                    (2) Innerhalb der Grenzen des Bundes dürfen keine Zwischenzollinien <pb
                         facs="#facs_6" n="6" xml:id="img_0006" break="yes"/></p><fw
                             type="pageNum">5</fw>
                 <p>gegen Zwischenzollinien, jedoch nicht gegen sonstige Verkehrsbeschränkungen aus.
@@ -548,7 +548,7 @@
                 </quote> <p>
                 <pb facs="#facs_14"
                     n="14" xml:id="img_0014" break="yes"/></p><fw
-                        type="pageNum">13</fw> <p>
+                        type="pageNum">13</fw> 
                 <p>Beschlossen wird ferner:</p>
                 <quote>
                     <head> „Artikel 28.</head>
