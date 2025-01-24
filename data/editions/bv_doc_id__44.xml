@@ -3,7 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Protokoll der 9. Sitzung des Subkomitees des Verfassungsausschusses vom 23. August 1920</title>
+                <title type="main">Protokoll der 9. Sitzung des Subkomitees des
+                    Verfassungsausschusses vom 23. August 1920</title>
                 <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
@@ -29,23 +30,24 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
-                    </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372"
+                        >Peter Andorfer </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
-                    </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X"
+                        >Carl Friedrich Haak </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
-                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital
+                        Humanities and Cultural Heritage an der Österreichischen Akademie der
+                        Wissenschaften</orgName>
                 </publisher>
                 <publisher>
-                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
-                        Verfassungsgeschichte</orgName>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für
+                        Rechts- und Verfassungsgeschichte</orgName>
                 </publisher>
                 <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
                 <date when="2023">2023</date>
@@ -64,25 +66,31 @@
             <sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
-                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
-                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
-                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/78 ex 1920</idno>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
+                            Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik
+                            (Wien)</repository>
+                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/78
+                            ex 1920</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <author role="acdh:hasAuthor">Unterausschuss des Verfassungsausschusses</author>
-                            <title>Protokoll der 9. Sitzung des Subkomitees des Verfassungsausschusses vom 23. August 1920</title>
-                            <note type="editor">Protokoll der 9. Sitzung des Subkomitees des Verfassungsausschusses vom 23. August 1920, Lithographie, Zustand gut, ohne Anmerkungen</note>
+                            <author role="acdh:hasAuthor">Unterausschuss des
+                                Verfassungsausschusses</author>
+                            <title>Protokoll der 9. Sitzung des Subkomitees des
+                                Verfassungsausschusses vom 23. August 1920</title>
+                            <note type="editor">Protokoll der 9. Sitzung des Subkomitees des
+                                Verfassungsausschusses vom 23. August 1920, Lithographie, Zustand
+                                gut, ohne Anmerkungen</note>
                         </msItem>
                     </msContents>
                     <physDesc>
-                        <objectDesc form="Lithographie">
-                        </objectDesc>
-                        <handDesc>
-                        </handDesc>
+                        <objectDesc form="Lithographie"> </objectDesc>
+                        <handDesc> </handDesc>
                     </physDesc>
                     <history>
-                        <origin notBefore-iso="1920-08-23" notAfter-iso="1920-08-23">23. August 1920</origin>
+                        <origin notBefore-iso="1920-08-23" notAfter-iso="1920-08-23">23. August
+                            1920</origin>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -92,9 +100,7 @@
                 <p/>
             </abstract>
             <creation>
-                <date notBefore-iso="1920-08-23" notAfter-iso="1920-08-23">
-                    23. August 1920
-                </date>
+                <date notBefore-iso="1920-08-23" notAfter-iso="1920-08-23"> 23. August 1920 </date>
             </creation>
         </profileDesc>
         <revisionDesc status="created">
@@ -102,49 +108,466 @@
             <change when="2025-01-16" who="#t_voegtlin">Gliederung angefangen</change>
         </revisionDesc>
     </teiHeader>
-    <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3083" lry="4928" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0003/full/full/0/default.jpg" width="3083px" height="4928px"/></surface><surface ulx="0" uly="0" lrx="2927" lry="4787" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0004/full/full/0/default.jpg" width="2927px" height="4787px"/></surface><surface ulx="0" uly="0" lrx="2901" lry="4837" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0005/full/full/0/default.jpg" width="2901px" height="4837px"/></surface><surface ulx="0" uly="0" lrx="2955" lry="4811" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0006/full/full/0/default.jpg" width="2955px" height="4811px"/></surface><surface ulx="0" uly="0" lrx="2940" lry="4833" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0007/full/full/0/default.jpg" width="2940px" height="4833px"/></surface><surface ulx="0" uly="0" lrx="2937" lry="4788" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0008/full/full/0/default.jpg" width="2937px" height="4788px"/></surface><surface ulx="0" uly="0" lrx="2863" lry="4849" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0009/full/full/0/default.jpg" width="2863px" height="4849px"/></surface><surface ulx="0" uly="0" lrx="2736" lry="4829" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0010/full/full/0/default.jpg" width="2736px" height="4829px"/></surface><surface ulx="0" uly="0" lrx="2795" lry="4826" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0011/full/full/0/default.jpg" width="2795px" height="4826px"/></surface><surface ulx="0" uly="0" lrx="2839" lry="4821" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0012/full/full/0/default.jpg" width="2839px" height="4821px"/></surface><surface ulx="0" uly="0" lrx="2758" lry="4816" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0013/full/full/0/default.jpg" width="2758px" height="4816px"/></surface><surface ulx="0" uly="0" lrx="2751" lry="4791" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0014/full/full/0/default.jpg" width="2751px" height="4791px"/></surface><surface ulx="0" uly="0" lrx="2910" lry="4790" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0015/full/full/0/default.jpg" width="2910px" height="4790px"/></surface></facsimile>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+        <surface ulx="0" uly="0" lrx="3083" lry="4928" xml:id="facs_2">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0003/full/full/0/default.jpg"
+                width="3083px" height="4928px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2927" lry="4787" xml:id="facs_3">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0004/full/full/0/default.jpg"
+                width="2927px" height="4787px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2901" lry="4837" xml:id="facs_4">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0005/full/full/0/default.jpg"
+                width="2901px" height="4837px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2955" lry="4811" xml:id="facs_5">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0006/full/full/0/default.jpg"
+                width="2955px" height="4811px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2940" lry="4833" xml:id="facs_6">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0007/full/full/0/default.jpg"
+                width="2940px" height="4833px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2937" lry="4788" xml:id="facs_7">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0008/full/full/0/default.jpg"
+                width="2937px" height="4788px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2863" lry="4849" xml:id="facs_8">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0009/full/full/0/default.jpg"
+                width="2863px" height="4849px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2736" lry="4829" xml:id="facs_9">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0010/full/full/0/default.jpg"
+                width="2736px" height="4829px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2795" lry="4826" xml:id="facs_10">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0011/full/full/0/default.jpg"
+                width="2795px" height="4826px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2839" lry="4821" xml:id="facs_11">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0012/full/full/0/default.jpg"
+                width="2839px" height="4821px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2758" lry="4816" xml:id="facs_12">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0013/full/full/0/default.jpg"
+                width="2758px" height="4816px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2751" lry="4791" xml:id="facs_13">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0014/full/full/0/default.jpg"
+                width="2751px" height="4791px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2910" lry="4790" xml:id="facs_14">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0015/full/full/0/default.jpg"
+                width="2910px" height="4790px"/>
+        </surface>
+    </facsimile>
     <text type="Sitzungsprotokoll">
-        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><p>Protokoll</p><p> . Protokoll der 9. Sitzung des Unterausschusses des Verfassungsausschusses vom 23. August 1920. <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/> Protokoll der 9. Sitzung des Unterausschusses des Verfassungsausschusses vom 23. August 1920. Der Vorsitzende leitet die Beratung des Linzer Entwurfes von Anfang an ein und bespricht die Einleitung der Verfassung, über die sich der Ausschuß wie Abgeordneter Dr. Seipel meint, nur schwer wird einigen können. Weder der sozialdemokratische Entwurf (904 der Beilage) noch der christlichsoziale (888 der Beilage) enthalte ein derartiges Proömium. Hingegen hebt Abgeordneter Clessin hervor, daß auch der großdeutsche Entwurf ein derartiges Proömium enthält und wünscht, daß bei Beratung im Verfassungsausschusse der Berichterstatter die feierliche Erklärung als Einleitung des Entwurfes seiner Partei erwähne. Dieser Wunsch wird zur Kenntnis genommen und protokolliert. Mit der Begründung, daß die Grund- und Freiheitsrechte ausgeschieden werden und daher keine vollständige Verfassung gegeben werde, beschließt der Unterausschuß, die feierliche Einleitung zu streichen. Die Überschrift des 1. Abschnittes „Allgemeine Bestimmungen“ wird über Antrag des Abgeordneten Dr. Seipel angenommen. Absatz 1 des Artikels 1 wird unverändert angenommen. Als 2. Absatz beantragt Abg. Dr. Danneberg die Fassung aus 842 der Beilagen „alle Gewalt im Staate geht vom Volke aus“, die auch im Entwurfe Dr. Renners aufgenommen sei. Abg. Dr. Seipel macht aber darauf aufmerksam, daß es sich hier um eine theologische Grundfrage handle und schlägt die Beibehaltung der Linzer Fassung vor. Der Vorsitzende hält es nicht für nötig, die Verfassung mit Streitfragen aus verschiedenen Weltanschauungen zu belasten und schlägt vor, folgende Fassung zu nehmen: Artikel 1 (2) „alle öffentlichen Gewalten werden vom Volke eingesetzt und in seinem Namen ausgeübt.“ Dieser Antrag wird angenommen. Abg. Clessin verweist auf den großdeutschen Antrag, der durch die Worte „jeder Staatsbürger hat Anteil an der wirtschaftlichen und politischen Macht der Gesamtheit.<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>3</p><p>Sicherung und Förderung der Gesamtheit und des Einzelnen ist der Zweck des Staates“ zur wirtschaftlichen Demokratie zu gelangen sucht, stellt aber selbst keinen Antrag, so daß die Aufnahme dieser Worte nach einer Gegenerklärung des Vorsitzen
-            337 9. Sitzung den unterbleibt. Letzterer erwähnt auch, daß im großdeutschen Entwurfe über den einzelnen Artikeln Überschriften stehen. Abg. Clessin beantragt jedoch mit Rücksicht auf die außerordentliche Schwierigkeit, für die einzelnen Bestimmungen keine Überschriften aufzunehmen. Dieser Antrag wird angenommen. Da das Proömium weggefallen ist, müßte nach Anschauung des Abg. Dr. Seipel nunmehr festgestellt werden, daß Österreich ein Bundesstaat sei. Auf Antrag des Abg. Clessin laut Absatz 1 des Artikels 2 „Österreich ist ein Bundesstaat“ 121). In Anlehnung an den großdeutschen Entwurf, folgt nun die Aufzählung der Länder in alphabetischer Reihenfolge (Antrag Clessin) Absatz 2: „Der Bundesstaat wird gebildet aus den selbständigen Ländern: Kärnten, Niederösterreich, Oberösterreich, Salzburg, Steiermark, Tirol, Vorarlberg und Wien.“ Auf Antrag des Staatssekretärs Dr. Mayr wird im Sinne des Annexionsgesetzentwurfes das Selbstbestimmungsrecht des Burgenlandes hervorgehoben und auch die Wahl der Bezeichnung — Heinzenland oder Heidebauernland würde auf Widerspruch eines Teiles der Bevölkerung stoßen — erhält der dritte Absatz folgende Fassung: (3) Sobald das Burgenland seinen Willen dazu ausgedrückt hat, wird es als selbständiges und gleichberechtigtes Land in den Bund aufgenommen“. Der Vorsitzende bemerkt hiezu, daß das Burgenland bis zur Wahl nur ein Territorium sei, das von Österreich verwaltet wird, erst wenn es einen Landtag hat, kann es ein eigenes Land werden 132) Die Frage ob Wien als selbständiges Bundesland zu behan<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>4</p><p>behandeln sei und inwiefern seine Loslösung von Niederösterreich in der Verfassung zu erwähnen sei, wird ein Antrag des Vorsitzenden angenommen, demzufolge die Staatskanzlei ersucht wird, im Einvernehmen mit dem Lande Niederösterreich und mit der Gemeinde Wien eine entsprechende Übergangsbestimmung zu formulieren; doch wird beschlossen, es in Artikel 2, Absatz 2 mit aufzuzählen. Für die Durchführung müßten, wie der Vorsitzende annimmt, identische Beschlüsse des Landtages und des Gemeinderates gefaßt werden. Dr. Danneberg erwähnt, daß der Wunsch allgemein ist, den Koloß Wien und Niederösterreich zu trennen. Der Vorsitzende erwähnt nun die Wünsche, die von einer Deputation der Industrieorganisation über die Verkehrsfreiheit innerhalb des Bundesgebietes vorgebracht wurde. Es sei aber nicht möglich, daß am Tage des Inkrafttretens der Verfassung mit einem Schlage sämtliche Verkehrsbeschränkungen außer Kraft treten. Es wären also Übergangsbestimmungen für den allgemeinen Abbau notwendig, während sonst die Bestimmungen aus dem sozialdemokratischen und dem Renner131) Vgl. Art. 2 B.-VG. 132) Über die Entwicklung des Burgenlandes siehe die Ausführungen bei Adamovich-Spanner, a. a. O., S. 125 f. 
-                Protokolle des Unterausschusses 338 Mayr’schen Entwurf zu verwenden wären. Abgeordneter Seipel spricht zwar gegen Zwischenzollinien, jedoch nicht gegen sonstige Verkehrsbeschränkungen aus. Der Vorsitzende verweist auf die Möglichkeit mißbräuchlicher Anwendung des Transportscheinwesens. Abg. Dr. Seipel beantragt demnach die Aufnahme des Artikels 5 Abs. 2 des sozialdemokratischen Entwurfes (904 der Beilage) unter Weglassung der Worte „oder sonstige Verkehrsbeschränkungen“: Artikel 3 a 133) (Die Beisetzung von Buchstaben bis zur endgiltigen Neunumerierung der Artikel wird auf Grund einer Anregung des Sekt. Rates Dr. Mannlicher beschlossen). (1) Das Bundesgebiet bildet ein einheitliches Währungs-, Wirtschaftsund Zollgebiet. (2) Innerhalb der Grenzen des Bundes dürfen keine Zwischenzollinien <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>5</p><p>gegen Zwischenzollinien, jedoch nicht gegen sonstige Verkehrsbeschränkungen aus. Der Vorsitzende verweist auf die Möglichkeit mißbräuchlicher Anwendung des Transportscheinwesens. Abg. Dr. Seipel beantragt demnach die Aufnahme des Artikels 5 Abs. 2 des sozialdemokratischen Entwurfes (904 der Beilage) unter Weglassung der Worte „oder sonstige Verkehrsbeschränkungen“: Artikel 3 a 133) (Die Beisetzung von Buchstaben bis zur endgiltigen Neunumerierung der Artikel wird auf Grund einer Anregung des Sekt. Rates Dr. Mannlicher beschlossen). (1) Das Bundesgebiet bildet ein einheitliches Währungs-, Wirtschaftsund Zollgebiet. (2) Innerhalb der Grenzen des Bundes dürfen keine Zwischenzollinien errichtet werden.“ Hierauf wird folgender Artikel angenommen 134) „Artikel 3 b. Bundeshauptstadt und Sitz der Staatsoberorgane *) des Bundes ist Wien. Bei Besprechung des Artikels 4 wird die Frage des Heimatrechtes und der Bundesbürgerschaft erörtert 135). Der Gedanke des Heimatrechtes sei, wie der Vorsitzende hervorhebt, bereits durchbrochen, da das demnächst erscheinende Gesetz über die Optionsrechte auf Grund des Friedensvertrages vielen Leuten den Erwerb der Staatsbürgerschaft ermöglicht, ohne daß sie in einer Gemeinde zuständig sind. Der Entwurf RennerMayr erklärt in Artikel 118 sogar, daß mit dem Heimatrecht Unterstützungs- und Versorgungsansprüche nicht verbunden sind. Auf Antrag des Vorsitzenden wären Absatz 1, 3 und 4 des großdeutschen Entwurfes aufzunehmen und die Weiterregelung dem Bundesgesetze zu überlassen, nur müßte man trachten, für die künftige Aufnahme des deutschen Systems nicht durch eine Verfassungsbestimmung auszuschlieBen. Abg. Clessin ist der Anschaung, daß das Gesetz, über die Optionsrechte eine lex specialis von kurzer Dauer sei, die eine einmalige Aufnahme von Staatsbürgern regelt. Beschlossen wird: 135) „Artikel 4. (1) Jedes Land hat eine Landesbürgerschaft. Die Voraussetzungen für Erwerb und Verlust der Landesbürgerschaft sind in jedem Lande gleich und durch Bundesgesetz geregelt: 133) Vgl. Art. 4 B.-VG. 134) Vgl. Art. 5 Abs. 1 B.-VG. *) Text der Originalfassung. 135) Vgl. Art. 6 B.-VG. dazu Werner-Klecatsky, Das österr. Bundesverfassungsrecht, 1961, Anm. 1 zu Art. 6 B.-VG. 
-                    339 9. Sitzung (2) Grundlegende Voraussetzung der Landesbürgerschaft ist das Heimatrecht in einer Gemeinde des Landes. (3) Mit dem Erwerb der Landesbürgerschaft wird die Bundesbürgerschaft erworben. (4) Jeder Bundesbürger hat in jedem Lande die gleichen Rechte und Pflichten wie die Bürger des Landes selbst. Artikel 5 fällt aus.<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/> . Artikel 6 des Linzer Entwurfes wird unter Betonung der großen praktisch-politischen Bedeutung, die eine Erwähnung der Minderheitsrechte bezüglich des Burgenlandes und Kärntens hat, unverändert angenommen 136) Der Vorsitzende zieht nun Artikel 117 des sozialdemokratischen Entwurfes (904 der Beilage) über die Vorrechte der Nationalität usw. in Beratung, die eigentlich nur eine Ausführung des Wortes demokratisch in Artikel 1 Abs. 1 seien. Gegen die Worte „für immer“ spricht sich Abg. Dr. Seipel aus, die nach seinem Antrage gestrichen werden. Im übrigen wird der Artikel angenommen und lautet: 137) „Artikel 4 a. Alle Bundesbürger sind vor dem Gesetze gleich. Vorrechte der Geburt, des Geschlechtes, des Standes, der Klasse und des Bekenntnisses sind ausgeschlossen“. Artikel 7 und Artikel 8 des Linzer Entwurfes werden gestrichen. Angenommen hingegen wird Artikel 8 des sozialdemokratischen Entwurfes (904 der Beilage) und eingefügt als Artikel 9 138) „Alle Behörden und Ämter im Bundesgebiete sind im Rahmen ihresgesetzmäßigen Wirkungskreises zur wechselseitigen Hilfeleistung verpflichtet. Der Vorsitzende meint, daß Artikel 10 der Ort sei, um der Gemeinde Erwähnung zu tun 139), und wenn auch Dr. Seipel der Anschauung ist, daß die Gemeinden alle Rechte durch die Länder erhalten sollten, sei doch das Gemeindefinanzproblem von nicht minder großer Bedeutung als das Landesfinanzproblem. Man müsse der Gemeinde, wie der englische Fachausdruck lautet, ein gewisses „nationales Minimum“ in der Verfassung abgrenzen. Das Fehlen derartiger Bestimmungen führt ihn zu außerordentlichen Schwierigkeiten *). So sei im Gesetz über die Vermögensabgabe die Stelle enthalten: „die Vermögensabgabe wird nicht vor136) Vgl. Art. 8 B.-VG.; Art. 66 Abs. 4 Staatsvertrag von St. Germain; Art. 7 Staatsvertrag 1955 und die Ausführungsgesetze, BGBl. Nr. 101, 102/1959. 137) Vgl. Art. 7 B.-VG. 138) vgl. Art. 21 B.-VG. 139) Siehe S. 323 ff. *) Text der Originalfassung. 22“ 
-                    340 Protokolle des Unterausschusses geschrieben zum Zwecke der Einhebung von Umlagen auf sie“. Diese  <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>7</p><p>Bestimmung erklärten die Vertreter des Staatsamtes für Finanzen damit, daß dies die einzige Möglichkeit sei, ohne Widerspruch mit der Verfassung die Zuschlagsfreiheit auszudrücken. Er verweise auf die Regelung in England (grantes in aid). Der Antrag, Bestimmungen über die Gemeinden in Artikel 10 aufzunehmen, wird abgelehnt. Artikel 12 bis 13 sind durchberaten und eingefügt wird ein „Artikel 11 a 140) „Die allgemein anerkannten Regeln des Völkerrechtes gelten als Bestandteil des Bundesrechtes. Nach Artikel 14 wären nach Anschauung des Vorsitzenden Bestimmungen über Beamte und Volksbeauftragte aufzunehmen. Hiezu sind, wie Sekt. Rat Dr. Mannlicher mitteilt, Verhandlungen mit dem Staatsamte für Finanzen notwendig. Die Staatskanzlei wird eingeladen, im Einvernehmen mit diesem Staatsamte und den Beamtenorganisationen eine Formulierung vorzulegen. Die Sitzung wird von ½1 bis 2 Uhr 50 Min. nachmittag unterbrochen. Absatz 1 und 2 des Artikels 17 wird auf Antrag des Vorsitzenden gestrichen und die beiden übrigen Absätze dieses Artikels als Artikel 13 a eingeschaltet: 141) „Artikel 13 a. (1) Wenn zur Durchführung von Staatsverträgen gesetzliche Maßnahmen im Wirkungskreise der Länder erforderlich sind, sind die Länder verpflichtet, die betreffenden Gesetze zu erlassen; kommt ein Land dieser Verpflichtung nicht rechtzeitig nach, so geht die Zuständigkeit zur Erlassung des Gesetzes auf den Bund über. (2) Ebenso hat der Bund in Durchführung von Verträgen und Übereinkommen mit fremden Staaten das Überwachungsrecht auch in solchen Angelegenheiten, die zum selbständigen Wirkungskreis der Länder gehören. Hiebei stehen dem Bunde die gleichen Rechte gegenüber den Landesregierungen zu, wie bei den Angelegenheiten der mittelbaren Bundesverwaltung. <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>8</p><p>Hierauf bespricht Abgeordneter Dr. Seipel Artikel 15 des sozialdemokratischen Entwurfes (904 der Beilage); er befürwortet die Aufnahme derartiger Bestimmungen, wie sie ähnlich auch im großdeutschen Entwurfe enthalten seien. Bisher hat man sich ausschließlich mit den Aufbau einer politischen Verfassung beschäftigt, es wäre aber von Vorteil, auch eine wirtschaftliche wenigstens in Grundzügen anzudeuten. 140) Vgl. den Art. 9 B.-VG. 141) Vgl. Art. 16 B.-VG. 
-                        9. Sitzung 341 Abg. Clessin entwickelt die Absicht seiner Partei, eine Art Arbeitsfrieden durch Aufstellung von Kammern herbeizuführen, in denen Arbeiter und Arbeitgeber paritätisch vertreten sind. Abg. Bauer unterscheidet den Artikel 15 (904 der Beilage) als Plan einer Organisation des Wirtschaftslebens und die Bestimmung des großdeutschen Entwurfes als Organisation der wirtschaftlichen Verwaltung des Staates. Nach Anschauung seiner Partei sei, wie dies auch Naumann in Deutschland betonte, in der Verfassung angegeben worden, wohin der Staat das Wirtschaftsleben zu führen hat. Der sozialdemokratische Entwurf, der den Gedanken ausspricht, daß die politische zur wirtschaftlichen Demokratie ausgebaut werden müsse, spreche nur aus, was bereits in verschiedenen Gesetzen vorhanden oder wenigstens angedeutet ist. Auch die Anregungen im Entwurf Dinghofer enthält wichtige Vorschläge, wären aber sehr vorsichtig zu verwirklichen. Da das Prinzip der rein paritätischen Vertretung nicht geeignet sei, wäre es nicht zweckmäßig, diese Bestimmung in die Verfassung aufzunehmen. Hingegen wirke Artikel 15 (904 der Beilagen) sehr erzieherisch, weil er den Gedanken verwirklichen soll, daß es die politische Demokratie selbst ist, die sich zur wirtschaftlichen ausbaut, wenn auch die Annahme des Artikels zunächst kaum eine Wirkung auslösen wird. Abg. Dr. Seipel bespricht die beratende Teilnahme der Berufsorganisation bei der wirtschaftlichen und sozialen Gesetzgebung. Unter Benützung des Abs. 1 des Art. 15 (904 der Beilagen) der übrige Teil des Artikels, über den Dr. Danneberg Abstimmung <pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>9</p><p>Abstimmung wünscht, wird abgelehnt — wird eingeschoben: 142) „Artikel 14 a (1) Die Organisation der Gütererzeugung und der Güterverteilung ist Aufgabe des Gemeinwesens. Durch planmäßigen Aufbau dieser Organisation ist die politische Demokratie zur wirtschaftlichen Demokratie zu entwickeln. (2) Wirtschaftliche Selbstverwaltungskörper und Berufsorganisationen sind zur Vorbereitung der Gesetzgebung und zur Teilnahme an der Verwaltung in wirtschaftlichen und sozialen Angelegenheiten heranzuziehen. Artikel 18 wird gestrichen, da ihn Artikel 38 behandelt. Auch das Vorhandensein einer negativen Bestimmung, daß Vollzugsanweisungen nur auf Grund der Bundesgesetze erlassen werden dürfen, konstatiert der Vorsitzende im Artikel 59. Bei Beratung des Artikel 19 wird ein Antrag Dr. Dannebergs, daß die Mandate auf die Länder entsprechend der Zahl der dort wohnhaften Bundesbürger nach jeder Volkszählung neu aufzuteilen sei, wird 142) Diese oder eine ähnliche Bestimmung findet sich in der Verfassung nicht, obschon Regelungen der Verfassung dies voraussetzen. 
-                            Protokolle des Unterausschusses 342 samt einem Abänderungsvorschlag des Abg. Fink abgelehnt. Vom selben Artikel werden Absatz 4 und 5 der Linzer Fassung abgelehnt, die drei ersten Absätze angenommen und durch Artikel 22 Abs. 4 des sozialdemokratischen Entwurfes (904 der Beilagen) ergänzt. Die Altersgrenze für das passive Wahlrecht wird mit 24 Jahren festgesetzt 143) „Artikel 19. (1) Der Nationalrat wird vom Bundesvolk auf Grund des gleichen direkten, geheimen und persönlichen Wahlrechtes der über 20 Jahre alten Männer und Frauen nach den Grundsätzen der Verhältniswahl gegeben *). (2) Der Wahltag muß ein Sonntag oder ein anderer öffentlicher Ruhetag sein. (3) Wählbar ist jeder Wahlberechtigte, der das 24. Lebensjahr überschritten hat.  <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/> (4) Die Ausschließung vom Wahlrecht und der Wählbarkeit kann nur infolge einer gerichtlichen Verurteilung oder Verfügung sein *) Bei Besprechung des Artikels 20 meint der Vorsitzende, daß die Einberufung des Nationalrates durch den Bundespräsidenten eine Reminiszenz an das Recht des Monarchen seine Stände einzuberufen und heimzuschicken, sei. Allerdings beruft auch in Frankreich auf Antrag der Regierung der Präsident das Parlament ein. Die Einführung von Sessionen sei nicht unbedingt nötig aber wichtig sei, wie Prof. Dr. Kelsen betont, daß keine parlamentlosen Zeitabschnitte vorkommen; formuliert wird: 144) „Artikel 20. (1) Die Gesetzgebungsperiode des Nationalrates dauert vier Jahre vom Tage seines ersten Zusammentrittes an gerechnet. Die Neuwahl ist von der Bundesregierung so anzuordnen, daß der neugewählte Nationalrat am Tage nach der Beendigung der ablaufenden Gesetzgebungsperiode zusammentreten kann. (2) Der Nationalrat ist zum erstenmal vom Bundespräsidenten innerhalb 30 Tage nach der Wahl einzuberufen. (3) Der Nationalrat kann nur durch seinen Beschluß vertagt werden. Die Wiedereinberufung erfolgt durch seinen Präsidenten. Dieser ist verpflichtet, den Nationalrat sofort einzuberufen, wenn ein Viertel der Mitglieder oder wenn die Bundesregierung es verlangt.“ Art. 21 entfällt, da er abgeändert als Abs. (3) dem vorhergehenden Artikel angegliedert wurde. Bei Beratung des Art. 22 wendet sich Dr. Danneberg gegen die Möglichkeit einer Auflösung die an monarchische Gepflogenheiten 143) Art. 26 B.-VG. *) Der obige Text entspricht der Originalfassung. 144) Art. 27 B.-VG. 
-                            9. Sitzung 343 erinnere. Auch geht es, wie Abg. Clessin meint, nicht an, daß die vom Nationalrat gewählte Regierung diesen auflöse. Der Vorsitzende ist der Änsicht, daß stets, wenn es sich zeigt, daß eine Wahl ein anderes Ergebnis hätte, 1.<pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>11der Vertretungskörper aufzulösen und eine Neuwahl einzuleiten sei. Abg. Leuthner zeigt an englischen Beispielen wie gefährlich es sei, wenn die Regierung darüber zu bestimmen vermag, den ihr günstigen Zeitpunkt zur Neuwahl eines Parlamentes durch rechtzeitige Auflösung des Hauses auszunützen. Dadurch werde die Volksabstimmung gefälscht. Der Vorsitzende meint, daß man bei Aufnahme des Grundsatzes bestimmen müsse, daß die Auflösung durch einfaches Gesetz erfolge, sonst würde man ein Verfassungsgesetz für nötig halten. Auf Antrag des Abg. Dr. Seipel erhält der Artikel folgenden Wortlaut: 145) „Art. 22. Vor Ablauf der Gesetzgebungsperiode kann der Nationalrat durch einfaches Gesetz seine Auflösung beschließen. Auch in diesem Falle dauert die Gesetzgebungsperiode des Nationalrates bis zum Zusammentritt des neugewählten Nationalrates. Ferner wird zu Artikel 38 folgender Absatz 5 beschlossen: „Art. 38. (5) Die Auflösung des Nationalrates, die Bewilligung des Bundesvoranschlages und die Genehmigung der Rechnungsabschlüsse, die Aufnahme und Konvertierung von Bundesanleihen und die Verfügung über das Bundesvermögen sind ausschließlich Sache des Nationalrates“ 146) Art. 23, Abs. 1 wird mit Änderungen angenommen; Abs. 2 entfällt; Abs. 3 gibt der Geschäftsordnung den Charakter eines Verfassungsgesetzes 147) „Art. 23. (1) Der Nationalrat wählt aus seiner Mitte einen Präsidenten und zwei Vizepräsidenten. (2) Die Geschäftsführung des Nationalrates erfolgt auf Grund eines Gesetzesbeschlusses und einer im Rahmen dieses Gesetzes vom Nationalrat zu beschließenden autonomen Geschäftsordnung. (3) Das Gesetz über die Geschäftsordnung kann nur bei Anwesenheit der Hälfte der Mitglieder und mit einer Mehrheit von zwei Dritteln der abgegebenen Stimmen beschlossen werden.folgenden Vortlaut:
-      </p><div type="article">
-<head>Art. 22.
-      </head>
-<p type="legal_section">ver ablauf der grestzgebungsgeriode kann der Nationalrat durch einfachee Soestz seine Auflörung beschliessen. Auch in dissen falis dauert die Gesetzgebungsperlode des Nationalratue bie zum Zusammentritt des neugefählten Nationalratee.“ Ferner wird zu Art. 38 folgender Abeatz 5 beschloesen:
-      </p></div>
-<div type="article">
-<head>Art. 38.
-      </head>
-<p type="legal_section"><label>15)</label> Die ruflösung des rationalratee, die Dewilligung des Fundssrorenschlages und die Genehnigung der Rechnungsabschlüese, die Aufnahme und Konvertierung von Bundeeanlsihen und die Verfügung über dae sundervermögen sind ausschliestltahrsehhedese Dationalratze." ert. 23, Nzel wird mit renderungen angenommen; Abe.2 entfällt; abe. 3 gibt der geschäfteordnung den Charakter eines Verfassungegbestzes. Nrr. 23.
-      </p><p type="legal_section"><label>(2)</label> Dir Nationalrat rählt aus seiner Mitte einen Präsidentea und zusi Vizspräeldenten.
-      </p>
-<p type="legal_section"><label>12)</label> Die geschäfteführung des Nationalratse erfolgt auf grund sinne Seestzaebsschluress und einer im Rahaen dieses geestzes von Nationalrat zu beschliessenden autenonen besspgthe ordnung.
-      </p>
-    <p type="legal_section"><label>15)</label> par asostz über die Berchäftworenune kann aur aursernasrt der fälfte der Vitglieder und ait einer Kaarheie von mei prittele der abgegebiner stinmen beschloseen werden.<pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>Artikel 24 und 25 werden im Wortlaut des Linzer Entwurfes angenommen. Der früher beschlossene Artikel über die Bundesversammlung ist zwischen Art. 29 und 30 einzuschalten. 145) Art. 29 Abs. 2 B.-VG. 146) Siehe Art. 42, Abs. 5 B.-VG. 147) Art. 30 B.-VG. 
-        Protokolle des Unterausschusses 344 Über Anregung des Abg. Fink erklärt der Vorsitzende, daß in den Übergangsbestimmungen festzusetzen wäre, daß die jetzt gewählte Nationalversammlung den Titel eines Nationalrates erhält; auch wäre die Wahl eines Bundesrates anzuordnen. Artikel 26 ist bereits angenommen, doch hat der erste Satz des Abs. 4 nach Neueinschaltung einiger Worte zu lauten: „Die Mitglieder des Bundesrates und deren Ersatzmänner werden von den Landtagen für die Dauer ihrer Gesetzgebungsperiode nach dem Grundsatze der Verhältniswahl gewählt" usw. Ferner wird aus dem zweiten Absatz des Art. 29 ein neuer Absatz formuliert und als 6. in den Artikel 26 eingeschaltet: „Nach Ablauf der Gesetzgebungsperiode eines Landtages oder nach seiner Auflösung bleiben die von ihm delegierten Mitglieder des Bundesrates solange in Funktion, bis die neuen Landtage die Wahl in den Bundesrat vorgenommen haben.“ In Art. 27 werden im 1. Absatz die Worte „in jeder Sitzungperiode“ gestrichen, gestrichen wird ferner der ganze Absatz 2. Auf Antrag des Vorsitzenden wird der dritte Absatz (früher 4) so ergänzt, daß für die Beschließung der Geschäftsordnung des Bundesrates dieselben Vorschriften gelten, wie im Nationalrat; der ganze Artikel wird in folgender Fassung beschlossen: 148) „Art. 27. (1) Der Vorsitz im Bundesrat fällt abwechselnd auf ein anderes Land nach alphabetischer Reihenfolge. (2) Der Bundesrat wird durch seinen Vorsitzenden vertreten. Alle Ausfertigungen des Bundesrates müssen die Unterschrift seines Vorsitzenden tragen. (3) Der Bundesrat gibt sich seine Geschäftsordnung durch
-      </p>
-</div>
-<div type="article">
-<head>Art. 27.
-      </head>
-<p type="legal_section"><label>11)</label> Der Voraitz in Bundserat fällt ahrschselnd auf ein enderes Land nach alphabstischer Reihenfolge.
-      </p><p type="legal_section"><label>12)</label> der Bundserat wird durch seinen Voreitzandan vertreten. Alle Auefertigungen des Jundseratse müssen die Unterschrift eunee voreitzendn tragen.
-      </p>
-<p type="legal_section"><label>13)</label> der Bundesrat gitt sich meine geschäftsordnung durch t.<pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>13 Beschluss, der nur bei Anrenheit der fülfts der Uitelieter und ait Zusierittslachrheit gefaert worden kann. Bsschloesen vire ferner:
-      </p>
-</div>
-<div type="article">
-<head>Art.28
-      </head>
-<p type="legal_section"><label>(2)</label> Der Eunesorat taest estne Beschldese mit Stinsenedherheit der denessenden.
-</p><p type="legal_section"><label>12)</label> Beschluß, der nur bei Anwesenheit der Hälfte der Mitglieder und mit Zweidrittelmehrheit gefaßt werden kann. Beschlossen wird ferner: 149) „Art. 28. (1) Der Bundesrat faßt seine Beschlüsse mit Stimmenmehrheit der Anwesenden. (2) Die Sitzungen des Bundesrates sind öffentlich. Die Öffentlichkeit kann jedoch gemäß den Bestimmungen der Geschäftsordnung durch Beschluß aufgehoben werden. Die Bestimmungen des Art. 28 geltan auch für öffentliche Sitzungen des Bundesrates und seiner Ausschüsse. Artikel 29 wird in der bereits beschlossenen Fassung eingereiht, doch 148) Art. 36 B.-VG. 149) Art. 37 B.-VG. 
-    345 10. Sitzung wird im 3. Absatz das Wort „erstgenannten“ durch das Wort „jedem“ ersetzt. Die nächste Sitzung wird für Dienstag, den 24. August, 10 Uhr vormittags abberaumt. Schluß der Sitzung 6 Uhr 15 nachmittags.</p>
-</div>
-</div></body>
+        <body>
+            <div type="main">
+                <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+                <p>Protokoll</p>
+                <p> Protokoll der 9. Sitzung des Unterausschusses des Verfassungsausschusses vom 23.
+                    August 1920. <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw
+                        type="pageNum">2</fw> Protokoll
+                    der 9. Sitzung des Unterausschusses des Verfassungsausschusses vom 23. August
+                    1920. Der Vorsitzende leitet die Beratung des Linzer Entwurfes von Anfang an ein
+                    und bespricht die Einleitung der Verfassung, über die sich der Ausschuß wie
+                    Abgeordneter Dr. Seipel meint, nur schwer wird einigen können. Weder der
+                    sozialdemokratische Entwurf (904 der Beilage) noch der christlichsoziale (888
+                    der Beilage) enthalte ein derartiges Provemium. Hingegen hebt Abgeordneter
+                    Clessin hervor, daß auch der großdeutsche Entwurf ein derartiges Provemium
+                    enthält und wünscht, daß bei Beratung im Verfassungsausschusse der
+                    Berichterstatter die feierliche Erklärung als Einleitung des Entwurfes seiner
+                    Partei erwähne. </p>
+                <p>Dieser Wunsch wird zur Kenntnis genommen und protokolliert. </p>
+                <p>Mit der Begründung, daß die Grund- und Freiheitsrechte ausgeschieden werden und
+                    daher keine vollständige Verfassung gegeben werde, beschließt der Unterausschuß,
+                    die feierliche Einleitung zu streichen. Die Überschrift des 1. Abschnittes
+                    „Allgemeine Bestimmungen“ wird über Antrag des Abgeordneten Dr. Seipel
+                    angenommen. Absatz 1 des Artikels 1 wird unverändert angenommen. Als 2. Absatz
+                    beantragt Abg. Dr. Danneberg die Fassung aus 842 der Beilagen „alle Gewalt im
+                    Staate geht vom Volke aus“, die auch im Entwurfe Dr. Renners aufgenommen sei.
+                    Abg. Dr. Seipel macht aber darauf aufmerksam, daß es sich hier um eine
+                    theologische Grundfrage handle und schlägt die Beibehaltung der Linzer Fassung
+                    vor. Der Vorsitzende hält es nicht für nötig, die Verfassung mit Streitfragen
+                    aus verschiedenen Weltanschauungen zu belasten und schlägt vor, folgende Fassung
+                    zu nehmen: </p>
+                <quote>
+                    <head> „Artikel 1.</head>
+                    <p>(2) Alle öffentlichen Gewalten werden vom Volke eingesetzt und in seinem
+                        Namen ausgeübt."</p>
+                </quote>
+                <p>Dieser Antrag wird angenommen. Abg. Clessin verweist auf den großdeutschen
+                    Antrag, der durch die Worte „jeder Staatsbürger hat Anteil an der
+                    wirtschaftlichen und politischen Macht der Gesamtheit.<pb facs="#facs_4" n="4"
+                        xml:id="img_0004" break="yes"/></p><fw
+                            type="pageNum">3</fw>
+                <p>Sicherung und Förderung der Gesamtheit und des Einzelnen ist der Zweck des
+                    Staates“ zur wirtschaftlichen Demokratie zu gelangen sucht, stellt aber selbst
+                    keinen Antrag, so daß die Aufnahme dieser Worte nach einer Gegenerklärung des
+                    Vorsitzenden unterbleibt. Letzterer erwähnt auch, daß im großdeutschen Entwurfe
+                    über den einzelnen Artikeln Überschriften stehen. Abg. Clessin beantragt jedoch
+                    mit Rücksicht auf die außerordentliche Schwierigkeit, für die einzelnen
+                    Bestimmungen keine Überschriften aufzunehmen. Dieser Antrag wird angenommen. </p>
+                <p>Da das Proömium weggefallen ist, müßte nach Anschauung des Abg. Dr. Seipel
+                    nunmehr festgestellt werden, daß Österreich ein Bundesstaat sei. Auf Antrag des
+                    Abg. Clessin laut Absatz 1 des Artikels 2 „Österreich ist ein Bundesstaat“. In
+                    Anlehnung an den großdeutschen Entwurf, folgt nun die Aufzählung der Länder in
+                    alphabetischer Reihenfolge (Antrag Clessin) Absatz 2: „Der Bundesstaat wird
+                    gebildet aus den selbständigen Ländern: Kärnten, Niederösterreich,
+                    Oberösterreich, Salzburg, Steiermark, Tirol, Vorarlberg und Wien.“ Auf Antrag
+                    des Staatssekretärs Dr. Mayr wird im Sinne des Annexionsgesetzentwurfes das
+                    Selbstbestimmungsrecht des Burgenlandes hervorgehoben und auch die Wahl der
+                    Bezeichnung — Heinzenland oder Heidebauernland würde auf Widerspruch eines
+                    Teiles der Bevölkerung stoßen — erhält der dritte Absatz folgende Fassung: (3)
+                    "Sobald das Burgenland seinen Willen dazu ausgedrückt hat, wird es als
+                    selbständiges und gleichberechtigtes Land in den Bund aufgenommen“. Der
+                    Vorsitzende bemerkt hiezu, daß das Burgenland bis zur Wahl nur ein Territorium
+                    sei, das von Österreich verwaltet wird, erst wenn es einen Landtag hat, kann es
+                    ein eigenes Land werden. Die Frage ob Wien als selbständiges Bundesland zu
+                    behan<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/></p><fw
+                        type="pageNum">4</fw>
+                <p>deln sei und inwiefern seine Loslösung von Niederösterreich in der Verfassung zu
+                    erwähnen sei, wird ein Antrag des Vorsitzenden angenommen, demzufolge die
+                    Staatskanzlei ersucht wird, im Einvernehmen mit dem Lande Niederösterreich und
+                    mit der Gemeinde Wien eine entsprechende Übergangsbestimmung zu formulieren;
+                    doch wird beschlossen, es in Artikel 2, Absatz 2 mit aufzuzählen. Für die
+                    Durchführung müßten, wie der Vorsitzende annimmt, identische Beschlüsse des
+                    Landtages und des Gemeinderates gefaßt werden. Dr. Danneberg erwähnt, daß der
+                    Wunsch allgemein ist, den Koloß Wien und Niederösterreich zu trennen.</p>
+                <p> Der Vorsitzende erwähnt nun die Wünsche, die von einer Deputation der
+                    Industrieorganisation über die Verkehrsfreiheit innerhalb des Bundesgebietes
+                    vorgebracht wurde. Es sei aber nicht möglich, daß am Tage des Inkrafttretens der
+                    Verfassung mit einem Schlage sämtliche Verkehrsbeschränkungen außer Kraft
+                    treten. Es wären also Übergangsbestimmungen für den allgemeinen Abbau notwendig,
+                    während sonst die Bestimmungen aus dem sozialdemokratischen und dem Renner-
+                    Mayr’schen Entwurf zu verwenden wären. Abgeordneter Seipel spricht zwar gegen
+                    Zwischenzollinien, jedoch nicht gegen sonstige Verkehrsbeschränkungen aus. Der
+                    Vorsitzende verweist auf die Möglichkeit mißbräuchlicher Anwendung des
+                    Transportscheinwesens. Abg. Dr. Seipel beantragt demnach die Aufnahme des
+                    Artikels 5 Abs. 2 des sozialdemokratischen Entwurfes (904 der Beilage) unter
+                    Weglassung der Worte „oder sonstige Verkehrsbeschränkungen“: Artikel 3 a  (Die
+                    Beisetzung von Buchstaben bis zur endgiltigen Neunumerierung der Artikel wird
+                    auf Grund einer Anregung des Sekt. Rates Dr. Mannlicher beschlossen). (1) Das
+                    Bundesgebiet bildet ein einheitliches Währungs-, Wirtschaftsund Zollgebiet. (2)
+                    Innerhalb der Grenzen des Bundes dürfen keine Zwischenzollinien <pb
+                        facs="#facs_6" n="6" xml:id="img_0006" break="yes"/></p><fw
+                            type="pageNum">5</fw>
+                <p>gegen Zwischenzollinien, jedoch nicht gegen sonstige Verkehrsbeschränkungen aus.
+                    Der Vorsitzende verweist auf die Möglichkeit mißbräuchlicher Anwendung des
+                    Transportscheinwesens. Abg. Dr. Seipel beantragt demnach die Aufnahme des
+                    Artikels 5 Abs. 2 des sozialdemokratischen Entwurfes (904 der Beilage) unter
+                    Weglassung der Worte „oder sonstige Verkehrsbeschränkungen“:</p>
+                <quote>
+                    <head> „Artikel 3a.</head>
+                    <p> (Die Beisetzung von Buchstaben bis zur endgiltigen Neunumerierung der
+                        Artikel wird auf Grund einer Anregung des Sekt. Rates Dr. Mannlicher
+                        beschlossen).</p>
+                    <p>(1) Das Bundesgebiet bildet ein einheitliches Währungs-, Wirtschafts- und
+                        Zollgebiet. </p>
+                    <p>(2) Innerhalb der Grenzen des Bundes dürfen keine Zwischenzollinien errichtet
+                        werden."</p>
+                </quote>
+                <p> Hierauf wird folgender Artikel angenommen:</p>
+                <quote>
+                    <head> „Artikel 3b.</head>
+                    <p>Bundeshauptstadt und Sitz der Staatsoberorgane des Bundes ist Wien." </p>
+                </quote>
+                <p>Bei Besprechung des Artikels 4 wird die Frage des Heimatrechtes und der
+                    Bundesbürgerschaft erörtert. Der Gedanke des Heimatrechtes sei, wie der
+                    Vorsitzende hervorhebt, bereits durchbrochen, da das demnächst erscheinende
+                    Gesetz über die Optionsrechte auf Grund des Friedensvertrages vielen Leuten den
+                    Erwerb der Staatsbürgerschaft ermöglicht, ohne daß sie in einer Gemeinde
+                    zuständig sind. Der Entwurf Renner-Mayr erklärt in Artikel 118 sogar, daß mit
+                    dem Heimatrecht Unterstützungs- und Versorgungsansprüche nicht verbunden sind.
+                    Auf Antrag des Vorsitzenden wären Absatz 1, 3 und 4 des großdeutschen Entwurfes
+                    aufzunehmen und die Weiterregelung dem Bundesgesetze zu überlassen, nur müßte
+                    man trachten, für die künftige Aufnahme des deutschen Systems nicht durch eine
+                    Verfassungsbestimmung auszuschließen. Abg. Clessin ist der Anschauung, daß das
+                    Gesetz, über die Optionsrechte eine lex specialis von kurzer Dauer sei, die eine
+                    einmalige Aufnahme von Staatsbürgern regeln. Beschlossen wird:</p>
+                <quote><head> „Artikel 4.</head>
+                <p>(1) Jedes Land hat eine Landesbürgerschaft. Die Voraussetzungen für Erwerb und
+                    Verlust der Landesbürgerschaft sind in jedem Lande gleich und durch Bundesgesetz
+                    geregelt.</p>
+                <p>(2) Grundlegende Voraussetzung der Landesbürgerschaft ist das Heimatrecht in
+                    einer Gemeinde des Landes.</p>
+                <p>(3) Mit dem Erwerb der Landesbürgerschaft wird die Bundesbürgerschaft
+                    erworben.</p>
+                <p>(4) Jeder Bundesbürger hat in jedem Lande die gleichen Rechte und Pflichten wie
+                        die Bürger des Landes selbst."</p>
+                <head>Artikel 5 fällt aus.</head></quote>
+                <p><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/></p><fw
+                    type="pageNum">6</fw> <p>
+                    Artikel 6 des Linzer
+                    Entwurfes wird unter Betonung der großen praktisch-politischen Bedeutung, die
+                    eine Erwähnung der Minderheitsrechte bezüglich des Burgenlandes und Kärntens
+                    hat, unverändert angenommen.</p>
+                <p>Der Vorsitzende zieht nun Artikel 117 des sozialdemokratischen Entwurfes (904 der
+                    Beilage) über die Vorrechte der Nationalität usw. in Beratung, die eigentlich
+                    nur eine Ausführung des Wortes demokratisch in Artikel 1 Abs. 1 seien. Gegen die
+                    Worte „für immer“ spricht sich Abg. Dr. Seipel aus, die nach seinem Antrage
+                    gestrichen werden. Im übrigen wird der Artikel angenommen und lautet: </p>
+                <quote>
+                    <head> „Artikel 4a.</head>
+                    <p>Alle Bundesbürger sind vor dem Gesetze gleich. Vorrechte der Geburt, des
+                        Geschlechtes, des Standes, der Klasse und des Bekenntnisses sind
+                        ausgeschlossen."</p>
+                </quote>
+                <p>Artikel 7 und Artikel 8 des Linzer Entwurfes werden gestrichen. Angenommen
+                    hingegen wird Artikel 8 des sozialdemokratischen Entwurfes (904 der Beilage) und
+                    eingefügt als  </p>
+                <quote>
+                    <head> „Artikel 9</head>
+                    <p> Alle Behörden und Ämter im Bundesgebiete sind im Rahmen ihres gesetzmäßigen
+                        Wirkungskreises zur wechselseitigen Hilfeleistung verpflichtet." </p>
+                </quote>
+                <p>Der Vorsitzende meint, daß Artikel 10 der Ort sei, um der Gemeinde Erwähnung zu
+                    tun, und wenn auch Dr. Seipel der Anschauung ist, daß die Gemeinden alle Rechte
+                    durch die Länder erhalten sollten, sei doch das Gemeindefinanzproblem von nicht
+                    minder großer Bedeutung als das Landesfinanzproblem. Man müsse der Gemeinde, wie
+                    der englische Fachausdruck lautet, ein gewisses „nationales Minimum“ in der
+                    Verfassung abgrenzen. Das Fehlen derartiger Bestimmungen führt ihn zu
+                    außerordentlichen Schwierigkeiten. So sei im Gesetz über die Vermögensabgabe die
+                    Stelle enthalten: „die Vermögensabgabe wird nicht vorgeschrieben zum Zwecke der
+                    Einhebung von Umlagen auf sie“. Diese <pb facs="#facs_8" n="8" xml:id="img_0008"
+                        break="yes"/></p><fw
+                            type="pageNum">7</fw>
+                <p>Bestimmung erklärten die Vertreter des Staatsamtes für Finanzen damit, daß dies
+                    die einzige Möglichkeit sei, ohne Widerspruch mit der Verfassung die
+                    Zuschlagsfreiheit auszudrücken. Er verweise auf die Regelung in England (grants
+                    in aid).</p>
+                <p> Der Antrag, Bestimmungen über die Gemeinden in Artikel 10 aufzunehmen, wird
+                    abgelehnt.</p>
+                <p> Artikel 12 bis 13 sind durchberaten und eingefügt wird ein </p>
+                <quote>
+                    <head> „Artikel 12a</head>
+                    <p>  Die allgemein anerkannten Regeln des Völkerrechtes gelten als Bestandteil
+                        des Bundesrechtes".</p>
+                </quote>
+                <p> Nach Artikel 14 wären nach Anschauung des Vorsitzenden Bestimmungen über Beamte
+                    und Volksbeauftragte aufzunehmen. Hiezu sind, wie Sekt. Rat Dr. Mannlicher
+                    mitteilt, Verhandlungen mit dem Staatsamte für Finanzen notwendig. Die
+                    Staatskanzlei wird eingeladen, im Einvernehmen mit diesem Staatsamte und den
+                    Beamtenorganisationen eine Formulierung vorzulegen.</p>
+                <p> Die Sitzung wird von ½1 Uhr bis 2 Uhr 50 Min. Nachmittag unterbrochen.</p>
+                <p> Absatz 1 und 2 des Artikels 17 wird auf Antrag des Vorsitzenden gestrichen und
+                    die beiden übrigen Absätze dieses Artikels als Artikel 13 a eingeschaltet: </p>
+                <quote>
+                    <head> „Artikel 13a.</head>
+                    <p> (1) Wenn zur Durchführung von Staatsverträgen gesetzliche Maßnahmen im
+                        Wirkungskreise der Länder erforderlich sind, sind die Länder verpflichtet,
+                        die betreffenden Gesetze zu erlassen; kommt ein Land dieser Verpflichtung
+                        nicht rechtzeitig nach, so geht die Zuständigkeit zur Erlassung des Gesetzes
+                        auf den Bund über.</p>
+                    <p>(2) Ebenso hat der Bund in Durchführung von Verträgen und Übereinkommen mit
+                        fremden Staaten das Überwachungsrecht auch in solchen Angelegenheiten, die
+                        zum selbständigen Wirkungskreis der Länder gehören. Hiebei stehen dem Bunde
+                        die gleichen Rechte gegenüber den Landesregierungen zu, wie bei den
+                        Angelegenheiten der mittelbaren Bundesverwaltung".  </p>
+                </quote>
+                <p><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/></p><fw
+                    type="pageNum">8</fw>
+                <p>Hierauf bespricht Abgeordneter Dr. Seipel Artikel 15 des sozialdemokratischen
+                    Entwurfes (904 der Beilage); er befürwortet die Aufnahme derartiger
+                    Bestimmungen, wie sie ähnlich auch im großdeutschen Entwurfe enthalten seien.
+                    Bisher hat man sich ausschließlich mit den Aufbau einer politischen Verfassung
+                    beschäftigt, es wäre aber von Vorteil, auch eine wirtschaftliche wenigstens in
+                    Grundzügen anzudeuten. </p>
+                <p> Abg. Clessin entwickelt die Absicht seiner Partei, eine Art Arbeitsfrieden durch
+                    Aufstellung von Kammern herbeizuführen, in denen Arbeiter und Arbeitgeber
+                    paritätisch vertreten sind. Abg. Bauer unterscheidet den Artikel 15 (904 der
+                    Beilage) als Plan einer Organisation des Wirtschaftslebens und die Bestimmung
+                    des großdeutschen Entwurfes als Organisation der wirtschaftlichen Verwaltung des
+                    Staates. Nach Anschauung seiner Partei sei, wie dies auch Naumann in Deutschland
+                    betonte, in der Verfassung angegeben worden, wohin der Staat das
+                    Wirtschaftsleben zu führen hat. Der sozialdemokratische Entwurf, der den
+                    Gedanken ausspricht, daß die politische zur wirtschaftlichen Demokratie
+                    ausgebaut werden müsse, spreche nur aus, was bereits in verschiedenen Gesetzen
+                    vorhanden oder wenigstens angedeutet ist. Auch die Anregungen im Entwurf
+                    Dinghofer enthält wichtige Vorschläge, wären aber sehr vorsichtig zu
+                    verwirklichen. Da das Prinzip der rein paritätischen Vertretung nicht geeignet
+                    sei, wäre es nicht zweckmäßig, diese Bestimmung in die Verfassung aufzunehmen.
+                    Hingegen wirke Artikel 15 (904 der Beilagen) sehr erzieherisch, weil er den
+                    Gedanken verwirklichen soll, daß es die politische Demokratie selbst ist, die
+                    sich zur wirtschaftlichen ausbaut, wenn auch die Annahme des Artikels zunächst
+                    kaum eine Wirkung auslösen wird. Abg. Dr. Seipel bespricht die beratende
+                    Teilnahme der Berufsorganisation bei der wirtschaftlichen und sozialen
+                    Gesetzgebung. </p>
+                <p>Unter Benützung des Abs. 1 des Art. 15 (904 der Beilagen) – der übrige Teil des
+                    Artikels, über den Dr. Danneberg Abstim-<pb facs="#facs_10" n="10"
+                        xml:id="img_0010" break="yes"/></p><fw
+                            type="pageNum">9</fw>
+                <p>mung wünscht, wird abgelehnt — wird eingeschoben: </p>
+                <quote>
+                    <head> „Artikel 14a.</head>
+                    <p> (1) Die Organisation der Gütererzeugung und der Güterverteilung ist Aufgabe
+                        des Gemeinwesens. Durch planmäßigen Aufbau dieser Organisation ist die
+                        politische Demokratie zur wirtschaftlichen Demokratie zu entwickeln.</p>
+                    <p>(2) Wirtschaftliche Selbstverwaltungskörper und Berufsorganisationen sind zur
+                        Vorbereitung der Gesetzgebung und zur Teilnahme an der Verwaltung in
+                        wirtschaftlichen und sozialen Angelegenheiten heranzuziehen." </p>
+                </quote>
+                <p> Artikel 18 wird gestrichen, da ihn Artikel 38 behandelt. Auch das Vorhandensein
+                    einer negativen Bestimmung, daß Vollzugsanweisungen nur auf Grund der
+                    Bundesgesetze erlassen werden dürfen, konstatiert der Vorsitzende im Artikel
+                    59.</p>
+                <p> Bei Beratung des Artikel 19 wird ein Antrag Dr. Dannebergs, daß die Mandate auf
+                    die Länder entsprechend der Zahl der dort wohnhaften Bundesbürger nach jeder
+                    Volkszählung neu aufzuteilen sei, wird samt einem Abänderungsvorschlag des Abg.
+                    Fink abgelehnt. Vom selben Artikel werden Absatz 4 und 5 der Linzer Fassung
+                    abgelehnt, die drei ersten Absätze angenommen und durch Artikel 22 Abs. 4 des
+                    sozialdemokratischen Entwurfes (904 der Beilagen) ergänzt. Die Altersgrenze für
+                    das passive Wahlrecht wird mit 24 Jahren festgesetzt:</p>
+                <quote>
+                    <head> „Artikel 19.</head>
+                    <p>(1) Der Nationalrat wird vom Bundesvolk auf Grund des gleichen, direkten,
+                        geheimen und persönlichen Wahlrechtes der über 20 Jahre alten Männer und
+                        Frauen nach den Grundsätzen der Verhältniswahl gegeben.</p>
+                    <p>(2) Der Wahltag muß ein Sonntag oder ein anderer öffentlicher Ruhetag sein. </p>
+                    <p>(3) Wählbar ist jeder Wahlberechtigte, der das 24. Lebensjahr überschritten
+                        hat.</p>
+                    <p> (4) Die Ausschließung vom Wahlrecht und der Wählbarkeit kann nur infolge
+                        einer gerichtlichen Verurteilung oder Verfügung sein".</p>
+                </quote>
+                <p><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/></p><fw
+                    type="pageNum">10</fw>
+                    <p> Bei Besprechung des
+                    Artikels 20 meint der Vorsitzende, daß die Einberufung des Nationalrates durch
+                    den Bundespräsidenten eine Reminiszenz an das Recht des Monarchen seine Stände
+                    einzuberufen und heimzuschicken, sei. Allerdings beruft auch in Frankreich auf
+                    Antrag der Regierung der Präsident das Parlament ein. Die Einführung von
+                    Sessionen sei nicht unbedingt nötig aber wichtig sei, wie Prof. Dr. Kelsen
+                    betont, daß keine parlamentlosen Zeitabschnitte vorkommen; formuliert wird: </p>
+                <quote>
+                    <head> „Artikel 20.</head>
+                    <p>(1) Die Gesetzgebungsperiode des Nationalrates dauert vier Jahre vom Tage
+                        seines ersten Zusammentrittes an gerechnet. Die Neuwahl ist von der
+                        Bundesregierung so anzuordnen, daß der neugewählte Nationalrat am Tage nach
+                        der Beendigung der ablaufenden Gesetzgebungsperiode zusammentreten kann. </p>
+                    <p> (2) Der Nationalrat ist zum erstenmal vom Bundespräsidenten innerhalb 30
+                        Tage nach der Wahl einzuberufen. </p>
+                    <p> (3) Der Nationalrat kann nur durch seinen Beschluß vertagt werden. Die
+                        Wiedereinberufung erfolgt durch seinen Präsidenten. Dieser ist verpflichtet,
+                        den Nationalrat sofort einzuberufen, wenn ein Viertel der Mitglieder oder
+                        wenn die Bundesregierung es verlangt.“</p>
+                </quote>
+                <p> Art. 21 entfällt, da er abgeändert als Abs. (3) dem vorhergehenden Artikel
+                    angegliedert wurde.</p>
+                <p> Bei Beratung des Art. 22 wendet sich Dr. Danneberg gegen die Möglichkeit einer
+                    Auflösung die an monarchische Gepflogenheiten erinnere. Auch geht es, wie Abg.
+                    Clessin meint, nicht an, daß die vom Nationalrat gewählte Regierung diesen
+                    auflöse. Der Vorsitzende ist der Änsicht, daß stets, wenn es sich zeigt, daß
+                    eine Wahl ein anderes Ergebnis hätte, <pb facs="#facs_12" n="12"
+                        xml:id="img_0012" break="yes"/></p><fw
+                            type="pageNum">11</fw> <p> der Vertretungskörper aufzulösen und eine
+                    Neuwahl einzuleiten sei. Abg. Leuthner zeigt an englischen Beispielen wie
+                    gefährlich es sei, wenn die Regierung darüber zu bestimmen vermag, den ihr
+                    günstigen Zeitpunkt zur Neuwahl eines Parlamentes durch rechtzeitige Auflösung
+                    des Hauses auszunützen. Dadurch werde die Volksabstimmung gefälscht. Der
+                    Vorsitzende meint, daß man bei Aufnahme des Grundsatzes bestimmen müsse, daß die
+                    Auflösung durch einfaches Gesetz erfolge, sonst würde man ein Verfassungsgesetz
+                    für nötig halten. Auf Antrag des Abg. Dr. Seipel erhält der Artikel folgenden
+                    Wortlaut:</p>
+                <quote>
+                    <head> „Artikel 22.</head>
+                    <p>Vor Ablauf der Gesetzgebungsperiode kann der Nationalrat durch einfaches
+                        Gesetz seine Auflösung beschließen. Auch in diesem Falle dauert die
+                        Gesetzgebungsperiode des Nationalrates bis zum Zusammentritt des
+                        neugewählten Nationalrates".  </p>
+                </quote>
+                <p>Ferner wird zu Artikel 38 folgender Absatz 5 beschlossen:</p>
+                <quote>
+                    <head> „Artikel 38.</head>
+                    <p> (5) Die Auflösung des Nationalrates, die Bewilligung des Bundesvoranschlages
+                        und die Genehmigung der Rechnungsabschlüsse, die Aufnahme und Konvertierung
+                        von Bundesanleihen und die Verfügung über das Bundesvermögen sind
+                        ausschließlich Sache des Nationalrates.“ </p>
+                </quote>
+                <p> Art. 23, Abs. 1 wird mit Änderungen angenommen; Abs. 2 entfällt; Abs. 3 gibt der
+                    Geschäftsordnung den Charakter eines Verfassungsgesetzes.</p>
+                <quote>
+                    <head> „Artikel 23.</head>
+                    <p> (1) Der Nationalrat wählt aus seiner Mitte einen Präsidenten und zwei
+                        Vizepräsidenten.</p>
+                    <p>(2) Die Geschäftsführung des Nationalrates erfolgt auf Grund eines
+                        Gesetzesbeschlusses und einer im Rahmen dieses Gesetzes vom Nationalrat zu
+                        beschließenden autonomen Geschäftsordnung. </p>
+                    <p>(3) Das Gesetz über die Geschäftsordnung kann nur bei Anwesenheit der Hälfte
+                        der Mitglieder und mit einer Mehrheit von zwei Dritteln der abgegebenen
+                        Stimmen beschlossen werden."</p>
+                </quote>
+                <p><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/></p><fw
+                    type="pageNum">12</fw> <p> Artikel 24 und 25
+                    werden im Wortlaut des Linzer Entwurfes angenommen.</p>
+                <p> Der früher beschlossene Artikel über die Bundesversammlung ist zwischen Art. 29
+                    und 30 einzuschalten. </p>
+                <p>Über Anregung des Abg. Fink erklärt der Vorsitzende, daß in den
+                    Übergangsbestimmungen festzusetzen wäre, daß die jetzt gewählte
+                    Nationalversammlung den Titel eines Nationalrates erhält; auch wäre die Wahl
+                    eines Bundesrates anzuordnen. </p>
+                <p>Artikel 26 ist bereits angenommen, doch hat der erste Satz des Abs. 4 nach
+                    Neueinschaltung einiger Worte zu lauten:</p>
+                <p> „Die Mitglieder des Bundesrates und deren Ersatzmänner werden von den Landtagen
+                    für die Dauer ihrer Gesetzgebungsperiode nach dem Grundsatze der Verhältniswahl
+                    gewählt" usw. </p>
+                <p>Ferner wird aus dem zweiten Absatz des Art. 29 ein neuer Absatz formuliert und
+                    als 6. in den Artikel 26 eingeschaltet:</p>
+                <p> „Nach Ablauf der Gesetzgebungsperiode eines Landtages oder nach seiner Auflösung
+                    bleiben die von ihm delegierten Mitglieder des Bundesrates solange in Funktion,
+                    bis die neuen Landtage die Wahl in den Bundesrat vorgenommen haben.“ </p>
+                <p>In Art. 27 werden im 1. Absatz die Worte „in jeder Sitzungperiode“ gestrichen,
+                    gestrichen wird ferner der ganze Absatz 2. Auf Antrag des Vorsitzenden wird der
+                    dritte Absatz (früher 4) so ergänzt, daß für die Beschließung der
+                    Geschäftsordnung des Bundesrates dieselben Vorschriften gelten, wie im
+                    Nationalrat; der ganze Artikel wird in folgender Fassung beschlossen:</p>
+                <quote>
+                    <head> „Artikel 27.</head>
+                    <p> (1) Der Vorsitz im Bundesrat fällt abwechselnd auf ein anderes Land nach
+                        alphabetischer Reihenfolge.</p>
+                    <p>(2) Der Bundesrat wird durch seinen Vorsitzenden vertreten. Alle
+                        Ausfertigungen des Bundesrates müssen die Unterschrift seines Vorsitzenden
+                        tragen. </p>
+                    <p>(3) Der Bundesrat gibt sich seine Geschäftsordnung durch 
+                        Beschluss, der nur bei Anwesenheit der Hälfte der Mitglieder und mit
+                        Zweidrittelmehrheit gefaßt werden kann."</p>
+                </quote> <p>
+                <pb facs="#facs_14"
+                    n="14" xml:id="img_0014" break="yes"/></p><fw
+                        type="pageNum">13</fw> <p>
+                <p>Beschlossen wird ferner:</p>
+                <quote>
+                    <head> „Artikel 28.</head>
+                    <p> (1) Der Bundesrat faßt seine Beschlüsse mit Stimmenmehrheit der
+                        Anwesenden.</p>
+                    <p>(2)  Die Sitzungen des Bundesrates sind öffentlich. Die Öffentlichkeit kann
+                        jedoch gemäß den Bestimmungen der Geschäftsordnung durch Beschluß aufgehoben
+                        werden. Die Bestimmungen des Art. 28 gelten auch für öffentliche Sitzungen
+                        des Bundesrates und seiner Ausschüsse."</p>
+                </quote>
+                <p> Artikel 29 wird in der bereits beschlossenen Fassung eingereiht, doch wird im 3.
+                    Absatz das Wort „erstgenannten“ durch das Wort „jedem“ ersetzt.</p>
+                <p> Die nächste Sitzung wird für Dienstag, den 24. August, 10 Uhr vormittags
+                    angebahnt.</p>
+                <p> Schluß der Sitzung 6 Uhr 15 nachmittags.</p>
+                   
+             
+              </div>
+            
+        </body>
     </text>
 </TEI>
