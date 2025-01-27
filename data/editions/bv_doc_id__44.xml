@@ -103,9 +103,10 @@
                 <date notBefore-iso="1920-08-23" notAfter-iso="1920-08-23"> 23. August 1920 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="created">
+        <revisionDesc status="text_correct">
             <change when="2025-01-09" who="#cfh">document automatically created</change>
             <change when="2025-01-24" who="#t_voegtlin">Gliederung und Gegenlesen beendet</change>
+            <change when="2025-01-27" who="#m_huber">Elias: Strukturierung beendet</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -179,12 +180,34 @@
         <body>
             <div type="main">
                 <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
-                <p>Protokoll</p>
-                <p> Protokoll der 9. Sitzung des Unterausschusses des Verfassungsausschusses vom 23.
-                    August 1920. <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw
-                        type="pageNum">2</fw> Protokoll
-                    der 9. Sitzung des Unterausschusses des Verfassungsausschusses vom 23. August
-                    1920. Der Vorsitzende leitet die Beratung des Linzer Entwurfes von Anfang an ein
+             
+                <head> Protokoll der 9. Sitzung des Unterausschusses des Verfassungsausschusses vom 23.
+                    August 1920.</head> <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw
+                        type="pageNum">2</fw></p> 
+                <p>Beginn 10 Uhr 30 Vormittag.</p>
+                <p>Anwesend:</p>
+                <list>
+                    <item> Dr. Otto Bauer als Vorsitzender</item>
+                    <item>Heinrich Clesssin</item>
+                    <item>Dr. Robert Dannenberg</item>
+                    <item>Jodok Fink</item>
+                    <item>Karl Leuthner</item>
+                    <item>Dr. Ignaz Seipel</item>
+                </list>
+                <list>
+                    <item>Staatssekretär Dr. Michael Mayr </item>
+                </list>
+                <p>Von der Staatskanzlei:</p>
+                <list>
+                    <item> Sektionsrat Dr. Hugo Jäckl</item>
+                    <item>Sektionsrat Dr. Egbart Mannlicher </item>
+                    <item>Minesterialvizesekretär Dr. Kurt Frieberger als Schritführer </item>
+                </list>
+                <list>
+                    <item>Professor Dr. Hans Kelsen als Experte des Verfassungsausschusses. </item>
+                </list>
+                
+                <p>Der Vorsitzende leitet die Beratung des Linzer Entwurfes von Anfang an ein
                     und bespricht die Einleitung der Verfassung, über die sich der Ausschuß wie
                     Abgeordneter Dr. Seipel meint, nur schwer wird einigen können. Weder der
                     sozialdemokratische Entwurf (904 der Beilage) noch der christlichsoziale (888
@@ -192,7 +215,7 @@
                     Clessin hervor, daß auch der großdeutsche Entwurf ein derartiges Provemium
                     enthält und wünscht, daß bei Beratung im Verfassungsausschusse der
                     Berichterstatter die feierliche Erklärung als Einleitung des Entwurfes seiner
-                    Partei erwähne. </p>
+                    Partei erwähne.</p>
                 <p>Dieser Wunsch wird zur Kenntnis genommen und protokolliert. </p>
                 <p>Mit der Begründung, daß die Grund- und Freiheitsrechte ausgeschieden werden und
                     daher keine vollständige Verfassung gegeben werde, beschließt der Unterausschuß,
@@ -206,16 +229,16 @@
                     vor. Der Vorsitzende hält es nicht für nötig, die Verfassung mit Streitfragen
                     aus verschiedenen Weltanschauungen zu belasten und schlägt vor, folgende Fassung
                     zu nehmen: </p>
-                <quote>
-                    <head> „Artikel 1.</head>
-                    <p>(2) Alle öffentlichen Gewalten werden vom Volke eingesetzt und in seinem
-                        Namen ausgeübt."</p>
-                </quote>
-                <p>Dieser Antrag wird angenommen. Abg. Clessin verweist auf den großdeutschen
+                
+                    <p>„Artikel 1.
+                    (2) Alle öffentlichen Gewalten werden vom Volke eingesetzt und in seinem
+                        Namen ausgeübt."
+               
+                Dieser Antrag wird angenommen. Abg. Clessin verweist auf den großdeutschen
                     Antrag, der durch die Worte „jeder Staatsbürger hat Anteil an der
                     wirtschaftlichen und politischen Macht der Gesamtheit.<pb facs="#facs_4" n="4"
-                        xml:id="img_0004" break="yes"/></p><fw
-                            type="pageNum">3</fw>
+                        xml:id="img_0004" break="yes"/><fw
+                            type="pageNum">3</fw> </p>
                 <p>Sicherung und Förderung der Gesamtheit und des Einzelnen ist der Zweck des
                     Staates“ zur wirtschaftlichen Demokratie zu gelangen sucht, stellt aber selbst
                     keinen Antrag, so daß die Aufnahme dieser Worte nach einer Gegenerklärung des
@@ -229,16 +252,19 @@
                     Anlehnung an den großdeutschen Entwurf, folgt nun die Aufzählung der Länder in
                     alphabetischer Reihenfolge (Antrag Clessin) Absatz 2: „Der Bundesstaat wird
                     gebildet aus den selbständigen Ländern: Kärnten, Niederösterreich,
-                    Oberösterreich, Salzburg, Steiermark, Tirol, Vorarlberg und Wien.“ Auf Antrag
+                    Oberösterreich, Salzburg, Steiermark, Tirol, Vorarlberg und Wien.“</p>
+                    <p>Auf Antrag
                     des Staatssekretärs Dr. Mayr wird im Sinne des Annexionsgesetzentwurfes das
                     Selbstbestimmungsrecht des Burgenlandes hervorgehoben und auch die Wahl der
                     Bezeichnung — Heinzenland oder Heidebauernland würde auf Widerspruch eines
-                    Teiles der Bevölkerung stoßen — erhält der dritte Absatz folgende Fassung: (3)
+                    Teiles der Bevölkerung stoßen — erhält der dritte Absatz folgende Fassung:</p>
+                <p>(3)
                     "Sobald das Burgenland seinen Willen dazu ausgedrückt hat, wird es als
                     selbständiges und gleichberechtigtes Land in den Bund aufgenommen“. Der
                     Vorsitzende bemerkt hiezu, daß das Burgenland bis zur Wahl nur ein Territorium
                     sei, das von Österreich verwaltet wird, erst wenn es einen Landtag hat, kann es
-                    ein eigenes Land werden. Die Frage ob Wien als selbständiges Bundesland zu
+                    ein eigenes Land werden.</p>
+                <p>Die Frage ob Wien als selbständiges Bundesland zu
                     behan<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/></p><fw
                         type="pageNum">4</fw>
                 <p>deln sei und inwiefern seine Loslösung von Niederösterreich in der Verfassung zu
@@ -260,33 +286,21 @@
                     Vorsitzende verweist auf die Möglichkeit mißbräuchlicher Anwendung des
                     Transportscheinwesens. Abg. Dr. Seipel beantragt demnach die Aufnahme des
                     Artikels 5 Abs. 2 des sozialdemokratischen Entwurfes (904 der Beilage) unter
-                    Weglassung der Worte „oder sonstige Verkehrsbeschränkungen“: Artikel 3 a (Die
+                    Weglassung der Worte „oder sonstige Verkehrsbeschränkungen“.</p>
+                    <p>Artikel 3 a</p>
+                    <p>(Die
                     Beisetzung von Buchstaben bis zur endgiltigen Neunumerierung der Artikel wird
-                    auf Grund einer Anregung des Sekt. Rates Dr. Mannlicher beschlossen). (1) Das
-                    Bundesgebiet bildet ein einheitliches Währungs-, Wirtschafts- und Zollgebiet.
-                    (2) Innerhalb der Grenzen des Bundes dürfen keine Zwischenzollinien <pb
+                    auf Grund einer Anregung des Sekt. Rates Dr. Mannlicher beschlossen).</p>
+                <p>(1) Das
+                    Bundesgebiet bildet ein einheitliches Währungs-, Wirtschafts- und Zollgebiet.</p>
+                  <p>  (2) Innerhalb der Grenzen des Bundes dürfen keine Zwischenzollinien <pb
                         facs="#facs_6" n="6" xml:id="img_0006" break="yes"/></p><fw
                             type="pageNum">5</fw>
-                <p>gegen Zwischenzollinien, jedoch nicht gegen sonstige Verkehrsbeschränkungen aus.
-                    Der Vorsitzende verweist auf die Möglichkeit mißbräuchlicher Anwendung des
-                    Transportscheinwesens. Abg. Dr. Seipel beantragt demnach die Aufnahme des
-                    Artikels 5 Abs. 2 des sozialdemokratischen Entwurfes (904 der Beilage) unter
-                    Weglassung der Worte „oder sonstige Verkehrsbeschränkungen“:</p>
-                <quote>
-                    <head> „Artikel 3a.</head>
-                    <p> (Die Beisetzung von Buchstaben bis zur endgiltigen Neunumerierung der
-                        Artikel wird auf Grund einer Anregung des Sekt. Rates Dr. Mannlicher
-                        beschlossen).</p>
-                    <p>(1) Das Bundesgebiet bildet ein einheitliches Währungs-, Wirtschafts- und
-                        Zollgebiet. </p>
-                    <p>(2) Innerhalb der Grenzen des Bundes dürfen keine Zwischenzollinien errichtet
-                        werden."</p>
-                </quote>
+                <p>errichtet werden.</p>
                 <p> Hierauf wird folgender Artikel angenommen:</p>
-                <quote>
-                    <head> „Artikel 3b.</head>
-                    <p>Bundeshauptstadt und Sitz der Staatsoberorgane des Bundes ist Wien." </p>
-                </quote>
+                
+                    <head>Artikel 3b.</head>
+                    <p>Bundeshauptstadt und Sitz der Staatsoberorgane des Bundes ist Wien. </p>
                 <p>Bei Besprechung des Artikels 4 wird die Frage des Heimatrechtes und der
                     Bundesbürgerschaft erörtert. Der Gedanke des Heimatrechtes sei, wie der
                     Vorsitzende hervorhebt, bereits durchbrochen, da das demnächst erscheinende
@@ -300,7 +314,7 @@
                     Verfassungsbestimmung auszuschließen. Abg. Clessin ist der Anschauung, daß das
                     Gesetz, über die Optionsrechte eine lex specialis von kurzer Dauer sei, die eine
                     einmalige Aufnahme von Staatsbürgern regeln. Beschlossen wird:</p>
-                <quote><head> „Artikel 4.</head>
+                <head>Artikel 4.</head>
                 <p>(1) Jedes Land hat eine Landesbürgerschaft. Die Voraussetzungen für Erwerb und
                     Verlust der Landesbürgerschaft sind in jedem Lande gleich und durch Bundesgesetz
                     geregelt.</p>
@@ -310,7 +324,7 @@
                     erworben.</p>
                 <p>(4) Jeder Bundesbürger hat in jedem Lande die gleichen Rechte und Pflichten wie
                         die Bürger des Landes selbst."</p>
-                <head>Artikel 5 fällt aus.</head></quote>
+                <head>Artikel 5 fällt aus.</head>
                 <p><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/></p><fw
                     type="pageNum">6</fw> <p>
                     Artikel 6 des Linzer
@@ -440,12 +454,13 @@
                         Frauen nach den Grundsätzen der Verhältniswahl gegeben.</p>
                     <p>(2) Der Wahltag muß ein Sonntag oder ein anderer öffentlicher Ruhetag sein. </p>
                     <p>(3) Wählbar ist jeder Wahlberechtigte, der das 24. Lebensjahr überschritten
-                        hat.</p>
+                        hat.</p>  <p><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/></p>
+                    <p><fw
+                    type="pageNum">10</fw></p>
                     <p> (4) Die Ausschließung vom Wahlrecht und der Wählbarkeit kann nur infolge
                         einer gerichtlichen Verurteilung oder Verfügung sein".</p>
                 </quote>
-                <p><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/></p><fw
-                    type="pageNum">10</fw>
+              
                     <p> Bei Besprechung des
                     Artikels 20 meint der Vorsitzende, daß die Einberufung des Nationalrates durch
                     den Bundespräsidenten eine Reminiszenz an das Recht des Monarchen seine Stände
