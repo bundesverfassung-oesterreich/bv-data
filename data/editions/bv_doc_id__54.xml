@@ -103,6 +103,8 @@
         </profileDesc>
         <revisionDesc status="created">
             <change when="2024-11-05" who="#cfh">document automatically created</change>
+            <change when="2025-01-30" who="#s_kury">Formatiert bis Ende S. 4, Aussage von
+                Schumacher</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -576,39 +578,102 @@
         <body>
             <div type="main">
                 <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
-                <p>Stenographische Verhandlungsschrift über die Länderkonferenz in Salzburg am 15.,
-                    16. und 17. Februar 1920. Verlag der Landesregierung in Salzburg. Zaunrith'sche
-                    Buchdruckerei in Salzburg.<pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"
-                    />Entwurf einer Geschäftsordnung für die Länderkonferenz in Salzburg.</p>
-                <p>I. Es wird ein Vorsitzender gewählt und für die Fälle feiner Verhinderung ein
-                    Stellpertreter. II. Für die Verhandlungen gelten die in unseren gefekgebenden
-                    Könperfchaften üblichen Grundfäßze. Wenn Antrag auf Schluß der Rednerliste
-                    geftellt und angenommen wird. fo kommen noch die vorgemerkten Redner zum Worte.
-                    Wenn Antrag auf Schlufz der Debatte geftellt und angenommen wird. fo wird Jofort
-                    zur Abstimmung über den Verhandlungsgegenstand geschritten. Ueber Unträge auf
-                    Schluß der Rednerhifte oder der Debatte wird nach Köpfen abgestimmt. III. Die
-                    meritorischen Abstimmungen werden. derart vorgenommen, daß für jedes Land jede
-                    Partei eine Stimme abgibt. IV. Un der Länderkonferenz können nur die von den
-                    Ländern Delegierten Feilnehmen. V. Der Vorsitzende beftellt einen parsitätischen
-                    Pressedienft. VI. Uls Verhandlungsgrundlage dient der Vorentwurf einer
-                    Bundesstaatsverfaijung des Staatsfekretärs Dr. Mayr. Es werden der Reihe nach
-                    folgende Partien des Entwurffes zur Vessprechung gebracht:</p>
-                <p>Artihel: 1. 1 - 9 allgemeine Bestimmungen. 2. 14 - 24 der Bundestag 3. 25 - 28
-                    der Bundesrat. 4. 29 - 30, Absatz 1, Artikel 32-41, Weg. der Bundesgefeßgebung.
-                    5. 30 Absatz 2, Artikel 31. Abänderung. der Verfassung. 6. 43 - 44 Stellung der
-                    Mitglieder. 7. 45 - 47 Stellung der Regierung. 8. 48 - 54 der Bundespräfident.
-                    9. 55 - 64 die Bundesregierung. 10. 65 - 68 das Bundesheer. 11. 69— 81 die
-                    Berichtsbarkeit. 12. 82— 96 Gefekgebung der Länder. 13. 97—106
-                    Rechnungskontrolle. 14. 107—108 Gleichheit der Bürger. 15. 109 114
-                    Freizügigkeit, Gausrecht, Briefgeheimnis. 16. 115117. Prekfreiheit. Vereins- und
-                    Versammlungsrecht. Blaubens- und Gewiffensfreiheit. 17. 118124. 18. 125—126
-                    Kunft und Wiffenfchaft. 19. 127—129. Schule. 20. 130132. Nationalität und
-                    Sprache. 21. 135. Arbeitsrecht. 22. 133 134 Schutz des Gigentums. 23. 136.
-                    Aufhebung der Freiheit. 24. 137- 146 Verwaltungsgerichtshof. 25. 147—157.
-                    Verfassungsgerichtshof. 26. 10 Gejekgebung und Vollziehung des Bundes. 27. 12
-                    Befekgebung ohne Vollziehung. 28. 12 Rahmengefekgebung. 29. 13 Erläuterungen
-                    dazu. 30. Titel und Gingang. 31. form der Gefekwerdung.<pb facs="#facs_4" n="4"
-                        xml:id="img_0004" break="yes"/>Teilnehmer an der Länderkonferenz.</p>
+                <head>Stenographische Verhandlungsschrift über die Länderkonferenz in Salzburg am
+                    15., 16. und 17. Februar 1920.</head>
+                <p>Verlag der Landesregierung in Salzburg.</p>
+                <p>Zaunrith'sche Buchdruckerei in Salzburg.</p>
+                <head>Entwurf einer Geschäftsordnung für die Länderkonferenz in Salzburg.</head>
+                <p><list>
+                        <label> I.</label>
+                        <item>Es wird ein Vorsitzender gewählt und für die Fälle feiner Verhinderung
+                            ein Stellpertreter.  </item>
+                        <label>II. </label>
+                        <item>Für die Verhandlungen gelten die in unseren gefekgebenden
+                            Könperfchaften üblichen Grundfäßze. Wenn Antrag auf Schluß der
+                            Rednerliste geftellt und angenommen wird. fo kommen noch die
+                            vorgemerkten Redner zum Worte. Wenn Antrag auf Schlufz der Debatte
+                            geftellt und angenommen wird. fo wird Jofort zur Abstimmung über den
+                            Verhandlungsgegenstand geschritten. Ueber Unträge auf Schluß der
+                            Rednerhifte oder der Debatte wird nach Köpfen abgestimmt.</item>
+                        <label>III. </label>
+                        <item>Die meritorischen Abstimmungen werden. derart vorgenommen, daß für
+                            jedes Land jede Partei eine Stimme abgibt.</item>
+                        <label>IV. </label>
+                        <item>An der Länderkonferenz können nur die von den Ländern Delegierten
+                            teilnehmen. </item>
+                        <label>V.</label>
+                        <item>Der Vorsitzende beftellt einen parsitätischen Pressedienft.</item>
+                        <label>VI. </label>
+                        <item>Als Verhandlungsgrundlage dient der Vorentwurf einer
+                            Bundesstaatsverfaijung des Staatsfekretärs Dr. Mayr. Es werden der Reihe
+                            nach folgende Partien des Entwurffes zur Vessprechung gebracht:</item>
+                    </list></p>
+                <p>Artikel: <list>
+                        <label> 1.</label>
+                        <item>1 - 9 allgemeine Bestimmungen. </item>
+                        <label>2. </label>
+                        <item>14 - 24 der Bundestag</item>
+                        <label>3. </label>
+                        <item>25 - 28 der Bundesrat. </item>
+                        <label>4. </label>
+                        <item>29 - 30, Absatz 1, Artikel 32-41, Weg. der Bundesgefeßgebung. </item>
+                        <label>5.</label>
+                        <item>30 Absatz 2, Artikel 31. Abänderung. der Verfassung.  </item>
+                        <label>6. </label>
+                        <item>43 - 44 Stellung der Mitglieder. </item>
+                        <label>7. </label>
+                        <item>45 - 47 Stellung der Regierung. </item>
+                        <label>8. </label>
+                        <item>48 - 54 der Bundespräfident.  </item>
+                        <label>9. </label>
+                        <item>55 - 64 die Bundesregierung.  </item>
+                        <label>10. </label>
+                        <item>65 - 68 das Bundesheer. </item>
+                        <label>11.</label>
+                        <item>69— 81 die Berichtsbarkeit. </item>
+                        <label>12. </label>
+                        <item>82— 96 Gefekgebung der Länder. </item>
+                        <label>13. </label>
+                        <item>97—106 Rechnungskontrolle. </item>
+                        <label>14. </label>
+                        <item>107—108 Gleichheit der Bürger. </item>
+                        <label>15. </label>
+                        <item>109 114 Freizügigkeit, Gausrecht, Briefgeheimnis. </item>
+                        <label>16. </label>
+                        <item>115117. Prekfreiheit. Vereins- und Versammlungsrecht. Blaubens- und
+                            Gewiffensfreiheit.  </item>
+                        <label>17. </label>
+                        <item>118124. </item>
+                        <label>18. </label>
+                        <item>125—126 Kunft und Wiffenfchaft.  </item>
+                        <label>19. </label>
+                        <item>127—129. Schule.  </item>
+                        <label>20. </label>
+                        <item>130132. Nationalität und Sprache. </item>
+                        <label>21. </label>
+                        <item>135. Arbeitsrecht. </item>
+                        <label>22. </label>
+                        <item>133 134 Schutz des Gigentums. </item>
+                        <label>23. </label>
+                        <item>136. Aufhebung der Freiheit.  </item>
+                        <label>24. </label>
+                        <item>137- 146 Verwaltungsgerichtshof.  </item>
+                        <label>25. </label>
+                        <item>147—157. Verfassungsgerichtshof. </item>
+                        <label>26. </label>
+                        <item>10 Gejekgebung und Vollziehung des Bundes. </item>
+                        <label>27. </label>
+                        <item>12 Befekgebung ohne Vollziehung.  </item>
+                        <label>28. </label>
+                        <item>12 Rahmengefekgebung. </item>
+                        <label>29. </label>
+                        <item>13 Erläuterungen dazu.  </item>
+                        <label>30. </label>
+                        <item>Titel und Gingang.  </item>
+                        <label>31. </label>
+                        <item>Form der Gesetzwerdung. </item>
+                    </list><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/></p>
+                <head>Teilnehmer an der Länderkonferenz.</head>
                 <p>Staatsregierung: Staatsfekretär Dr. Michael Mayr, Ministerialfekretär Dr.
                     Mannlicher. Burgenland: Dr. Beer, Meidlinger. Kärnten: Nationalrat Gröager.
                     Landtagsabgeordneter Dr. Pflanzl, Landesrat Schumn. Landtagsabgeordneter
@@ -639,21 +704,23 @@
                 <p>Landtagsabgeordneter Dr. Jofef Mittelberger, Landesamtsdirektor Dr. Jojef
                     Walderdorff. Wien: Vizebürgermeister Geora Emmerling, Stadtrat Rudolf Gharet.
                     Stadtrat Dr. Robert Danneberg, Stadtrat Baul Speifer, Stadtrat Dr. Viktor
-                    Kienböch, Bemeinderat Leopold Kunichak, Magistratsdirektor Dr. Karl Gartl.</p></div><div type="main"><pb
-                        facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><p>1. Sitzung am 15. Fe br
-                    u ar 1920.</p>
-                
-                <p>(Beginn der Sitzung um 3 Uhr 15 Minuten.)</p><sp><speaker>Landeshauptmann Mener:</speaker><p> Meine jehr geehrten Herren! Die politischen Greignifse
-                        der Novembertage 1918 haben mit dem Zerfall des alten Defterreichs eine
-                        Reihe staatsrechtlicher Probleme aufgerollt, deren Ziele zunächft nur in
-                        Umrissen gekennzeichnet gewefen find, die aber immer feftere Fformen
-                        angenommen haben und jekt. wo wir vor der Ratifizierung des
-                        Ffriedensvertrages stehen und daran gehen müssen, dem neuen Desterreich eine
-                        lebensfähige fform zu geben, gebieterisch eine Löfung erfordern. Ich darf
-                        die sehr geehrten Herren daranerinnern, daß gleich nach dem Zufammenbruche
-                        der Monarchie die deutichen Teile des alten Deiterreich der groken Mehrheit
-                        nach Erklärungen abgegeben haben, laut deren fie kraft des
-                        Selbftbestimmungsrechtes ihrer Bevölherung sich freiwillig zu
+                    Kienböch, Bemeinderat Leopold Kunichak, Magistratsdirektor Dr. Karl Gartl.</p>
+            </div><div type="main">
+                <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+                <head>1. Sitzung am 15. Fe br u ar 1920.</head>
+                <p>(Beginn der Sitzung um 3 Uhr 15 Minuten.)</p>
+                <sp>
+                    <speaker>Landeshauptmann Mener:</speaker>
+                    <p> Meine jehr geehrten Herren! Die politischen Greignifse der Novembertage 1918
+                        haben mit dem Zerfall des alten Defterreichs eine Reihe staatsrechtlicher
+                        Probleme aufgerollt, deren Ziele zunächft nur in Umrissen gekennzeichnet
+                        gewefen find, die aber immer feftere Fformen angenommen haben und jekt. wo
+                        wir vor der Ratifizierung des Ffriedensvertrages stehen und daran gehen
+                        müssen, dem neuen Desterreich eine lebensfähige fform zu geben, gebieterisch
+                        eine Löfung erfordern. Ich darf die sehr geehrten Herren daranerinnern, daß
+                        gleich nach dem Zufammenbruche der Monarchie die deutichen Teile des alten
+                        Deiterreich der groken Mehrheit nach Erklärungen abgegeben haben, laut deren
+                        fie kraft des Selbftbestimmungsrechtes ihrer Bevölherung sich freiwillig zu
                         gleichberechtigten Gliedern des damaligen Staates Deutschöfterreich
                         zusammengeschloffen haben. Mag über die rechtliche Bedeutung dieser
                         Erklärungen die Auffassung verschieden fein, so viel ift sicher, dak mit
@@ -664,178 +731,232 @@
                         ift der Gedanke des föderativen Umbaues unferes Staatswefens nicht mehr zur
                         Ruhe gekommen, er hat allmählich die breiteften Schichten der Bevölkerung
                         durchdrungen, ift zu ihrem Gemeingut geworden und bildet heute den
-                        bedeutendften</p></sp>
-                <p>Programmpunkt unferer allernächften Zukunft. Dem Zuge der Zeit folgend. haben
-                    auch die in der Nationalverfammlung vertretenen grozen politischen Parteien und
-                    die Landesvertretungen sich mit der Realisierung des Föderalifierungsproblems in
-                    Studien. Refolutionen. Anträgen und Entwürfen befaßt und find zu dem Ergebniffe
-                    gekommen, daß die fform des Bundesftaates den heutigen Verhältniffen und
-                    Bedürfnissen in Oefterreich am angemeifensten wäre. Auch die Staatsregierung hat
-                    mit dieser Entwicklung gleichen Schritt gehalten. Sie hat die Bundesftaatsidee
-                    aufgegriffen und durch den Mund des Staatskanzlers Dr. Renner bei der leßten
-                    Länderkonferenz ein Programm bekannt gegeben, wie nach ihrer Auffafjung die
-                    Schaffung der Verfassung am zweckmäßigsten vorzubereiten und durchzuführen wäre.
-                    Die von Dr. Renner hiebei entwickelten Richtlinien find den geehrten Herren
-                    bekannt, ich kann mich daber hier auf ihre allgemeine Erwähnung beschränken.
-                    Damit bin ich bei dem Zwecke der heutigen Tagung angelangt. Der Herr
-                    Staatsfekretär Dr. Mayr hat bei feiner kürzlichen Bereifung der Länder bereits
-                    Gelegenheit genommen, einen Verfafsungsentwurf der Staatsregierung onzukündigen,
-                    und hat, einem allgemeinen Wünsche der Länder entsprechend. Ginfluß genommen,
-                    daß der Entwurf der heutigen Tagung vorgelegt werde. Ich glaube annehmen zu
-                    können, daß sämtliche Länder unmittelbar mit dem Entwürfe beteilt worden find.
-                    Ueber den Inhalt des Gntwurfes kann ich, um nicht den Veratungen der Konferenz
-                    vorzugreifen, mir eine Kritik oder auch nur eine<pb facs="#facs_7" n="7"
-                        xml:id="img_0007" break="yes"/>2 kurze Darftellung verfagen: fo viel darf
-                    ich aber bereits jekt bemerken, daß der Entwurf sich nur als eine erfte
-                    Redaktion diarftellt. Grift abänderungsfähig und foll erft durch die Mitarbeit
-                    und das Zufammenarbeiten der Länder zu einem wohnlichen Bau ausgeftaltet werden.
-                    In dieser Richtung durch gemeinjame Beratungen das Veftmögliche zu schaffen, ift
-                    die vornehmfte Aufgabe unferer gegenwärtigen Tagung. Wird sie dieser Aufgabe
-                    gerecht, dann wird sie ein Markstein in der Entwicklung unserer Verfafsung
-                    bilden und auf den Inhalt unjerer politischen Zukunft richtunggebenden Einflußz
-                    nehmen. Meine sehr geehrten Herren! Großz find die Aufgaben, die sie in den
-                    nächften Tagen zu bewältigen haben, verantwortungsvolle Beschlüffe werden von
-                    Ihnen zu faffen fein; es gilt zum Seile und ffrommen unferes Staatswefens und
-                    feiner Bevölkerung, die nach Wiederkehr geordneter Verhältnifse und innerem
-                    Ffrieden fehnlichftes Verlangen trägt, das Hösisle zu leisten. Daß dieses Ziel
-                    erreicht werde, ift mein inniafter Wunsch, den ich als Landeshauptmann von
-                    Salzburg der Tagung zum Geleite gebe. As Gausherrn obliegt mir noch die überaus
-                    angenehme Pflicht, für die freundliche Wayl der Stadt Salzburg als
-                    Verfammlungsortes der Konferenz ganz besonders zu danken. Mögen Ihnen die
-                    Stunden, die Sie in unferer Mitte weilen, beweifen, daß wir die Ehre zu schätzen
-                    wissen, die der Stadt Salzburg durch die Abhaltung der Konferenz in ihren Mauern
-                    zuteil wurde. Mit meinem weiteren Danke an den Herrn Staatsfekretär Dr. Manr und
-                    die Herren Vertreter der Länder und der Stadt Wien für ihr Grsscheinen, das bei
-                    den heutigen Verkehrsverhältnissen sicherlich nicht zu den Lebensgenüfen zu
-                    zählen ift, erlaube ich mir nun die Verhandlungen der Tagung einzuleiten. Gs
-                    wird vor allem notwendig fein, die Wahl eines Präfidiums beziehungsweise eines
-                    Vorsitzenden vorzunehmen, und zu diesem Behüje erlaube ich mir, die Sitzung auf
-                    einige Zeit zu unterbrechen. Delegierter Refell Sehr verehrte Herren! Wir
-                    Vertreter der fozialdemokratischen Par-</p>
-                <p>tei auf diefer Konferenz find der Anficht, daf keine Zufammenkunft von
-                    Volksvertretern in der Republik Defterreich vorübergehen darf. ohne daß
-                    ausgesprochen wird, dieser Staat, den der Ffriedensvertrag von St. Germain
-                    geschaffen hat, ift ein lebensunfähiges Gebilde. Gr ift lebens- und
-                    entwicklungsunfähig nur als Teil eines großen Wirtschaftsgebietes. Das
-                    deutschöfterreichische Volk, das sich national und kulturell eins fühlt mit dem
-                    ganzen deutschen Voilke, wird daher nie aufhören, den Anffch luf an das De u
-                    tfche Reich zu erftreben. Unfere ganze Politik muß darum so eingerichtet fein,
-                    daß nicht von uns felbft einem künftigen Unfchluß Sindernifse bereitet werden.
-                    Sonderbefftrebungen, die nach den Betimmungen des Friedensvertrages, der ung
-                    bindet, ohnedies ausfichtslos find, schädigen das gefamte Intereffe. Von diesen
-                    Gesichtspunkten aus betrachten wir auch die Geftaltung der Verfaffung unserer
-                    Republik. Landeshauptmann Mener: Wünscht einer der Herren hiezu das Wort2 Gs ift
-                    nicht der Fall. Dann schreiten wir zur Wahl des Präfidiums, und wäre zu diesem
-                    Behufe die Sitzung auf kurze Zeit zu unterbrechen. (Nach Wiedereröffnung der
-                    Sitzung.) Die Sitzung ift wieder eröffnet. Das Wort hat der Herr
-                    Landeshauptmannstellvertreter Dr. RehrlI Delegierter Dr. Rehrl: Ich beantrage,
-                    daß die Wahl des Vorfitzenden durch Ukklamation erfolge. Landeshauptmann Meyer:
-                    Gs ift beantragt, die Wahl des Vorfitzenden per Ukklamation vorzunehmen. Ich
-                    erfuche jene Herren, welche damit einverstanden find, die Hand zu erheben.
-                    Angenommen. Delegierter Dr. Rehrl: Ich beantrage für die chriftlichfoziale
-                    Partei als Vorfitzenden den Herrn Landeshauptmann von Steiermark Dr.
-                        Rintelen.<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>Delegierter
-                    Breukler: Ich beantrage zunächft dak drei Vorsitzende bestimmt werden, mit
-                    gleichen Rechten. Namens der fozialdemokratischen Partei erlaube ich mir
-                    vorzufchlagen den Herrn Landeshaupfmann Severvon Niederöfterreich. Delegierter
-                    Dr. Pflanzl: Ich beantrage namens der deutschfreiheitlichen Partei. als
-                    Vertreter in das Präfidium den Herrn Landesrat Nottar Chriftoph. Landeshauptmann
-                    Mener: Von Seite der chriftlichfozialen Partei ift der Herr Landeshauptmann von
-                    Steiermark Dr. Rintelen als Vorsitzender vorgeschlagen. Ich erfuche jene Herren,
-                    welche mit diesem Antrage einverstanden find. Die Hand zu erheben. Angenommen.
-                    Delegierter Dr. Schumacher: Ich glaube, es dürfte hier ein Mikverständnis
-                    vorliegen. Nach dem Vorschlalge. der unterbreitet worden ist. würde es sich
-                    darum handeln, einen Vorsikenden und zwei Stellvertreter zu wählen. Ich kann nur
-                    fagen, was ich felbft weiß. Ich will der Wahl nicht vorgreifen. Nun wird von
-                    einer anderen Seite von Herrn Landeshauptmannftellvertreter Breukler
-                    vorgefchlagen, drei Vorfitzende mit gleichen Rechten zu wählen. Darüber ift ein
-                    Ginverständnis bisher nicht erzielt worden. Gs würde vielleicht am beften zum
-                    Ziele führen, die Situng noch einmal zu unterbrechen und über diefen Bunkt klar
-                    zu werden. Landeshauptmann Mener: Ich unterbreche also nochmalls die Sitzung.
-                    (Nach Wiedereröfffnung der Sikung.) Es find drei Vorfikende vorgefchlagen
-                    worden. und zwar der Herr Landeshauptmann Dr. Rintelen, der Herr Landeshauptmann
-                    Gever- und der Herr Landesrat Chriftobf. Gegen die Personen ift kein Widerspruch
-                    erfolgt. Ich bitte den Herrn Landeshauptmann Dr. Rintelen den Vorfik zu
-                    übernehmen. (Dr. Rintelen übernimmt den Vorfiß.)</p>
-                <p>3 Delegierter Breukler: Es sind zunächst einige Kleinigkeiten zu bereinigen. Gs
-                    foll zunächft nach der Vereinbarung zwischen den Parteien der Antrag erfolgen,
-                    daß die Präidenten, die mit gleichen Rechten gewählt find. im Präfidium
-                    abhwechfeln, und zwar in einer gewissen Reihenfolge. Dann wäre noch eine zweite
-                    Ffrage zu bereinigen, die mir als Kleinigkeit erfcheint. Wir haben ffeinerzeit
-                    im Präfidium davon gesprochen, dak die Herren des Salzburger Landtages sich hier
-                    auf den Dänken während der Konferenz niederlaffen und zuhören können. Gs ift das
-                    jetzt der Konferenz überlaffen worden. Ich bitte den Herrn Präfidenten zu
-                    verfügen, daß die Herren Landtagsabgeordneten fich hier auf den Dänken
-                    niederlaffen können. felbftverständlich ohne jede Beteiligung als
-                    Baleriebefucher. Zweitens find hier zwei Erperten befstimmt worden. und zwar ift
-                    der eine Ernerte der Herr Nationalrat Abram von Tirol. Von dem Gefichtspunkte
-                    aus. daß die Tiroler Landesregierung einige Erperten beftimmt hat, welche
-                    einfeitig nur einer Partei angehören und weiters das Land Oberöfterreich als
-                    Erperten den Herrn Nationalrat Hafner bestimmt hat und nachdem einige andere
-                    Erperten hier find. fo möchte ich bitten, unbefchadet des gegenteiligen
-                    Standpunktes von Niederöfterreich doch zu verfügen, daß die zwei Erperten noch
-                    zugelaffen werden. Selbftverständlich nicht mit dem Rechte der Abstimmung.
-                    fonder nur mit dem Rechte der Mitberatung. Landeshauntmann Dr. Rimtelen: Dieser
-                    Punkt gehört zur Geschäftsordnung und ich werde ihn daher zufammen mit der
-                    Geschäftsordnung zur Abstimmung bringen. Ich bitte, der erfte Untrag lautet
-                    dahin, daß die drei Vorsitzenden abwechfeln. Der aweite Antrag lautet, daß jechs
-                    oder acht Herren teifnehmen und als Gäfte zuhören können, und der dr’Ite Antrag
-                    lautet auf Beiziehung einzelner Erperten. Ich denke, daß wir zuerft im
-                    allgemeinen die Gefchäftsordnung behandeln, abgefehen von dem Untrag des Gehrn
-                    Antragftellers. auker wenn sonft noch iemand zur Geschäfteerdnung das Wort
-                    iwünfcht. Delegierter Dr. Gruener: Meine Herren! Zur Geschäfteordnung habe ich
-                    allerdings einiges<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>4
-                    vorzubringen. Wir haben uns hier in Salzburg verfammelt. um an einer großen
-                    Ffragemitzuberaten. Ich mußz aber formell schon einwenden, daßz die Art der
-                    Zufammenfetzung eine ganz willkürliche ift und daß es eigentlich keine
-                    Abftimmung geben kann. So ift die Zuammenfekung weder nach der Gröhe des Landes
-                    oder der Einwohnerzahl noch nach irgend welchem Prinzip vor sich gegangen.
-                    Ginzelne Länder haben ihre Vertreter durch den Landeshauptmann beftimmen laffen,
-                    andere heben das durch den Landesrat oder durch ein Kollegium der
-                    Landesregierung beforgt, und wie mir mitgeteit wird. haben zwei Länder ihre
-                    Delegierten durch dien Landtag bestimmen laffen. Gs ift aber auch gar keine
-                    Vereinbarung getroffen worden und ich muß hier schon eingangs erwähnen, daß
-                    diefe ganzen Verhandlungen jehr wenig vorbereitet erfcheinen. Wenn überhaupt
-                    etwas vorliegt, jo ift es etwas ganz Einfeitiges. Es wäre richtiger gewefen, und
-                    zu einer raschen Durchfführung, wenn einem überhaupt daran gelegen ift,
-                    notwendig gewefen. wenn frühler von allen Varteien ein kleines Kollegium
-                    zufammengetreten. wäre und gemeinfamte Brundfäke ausgearbeitet hätte zur
-                    Gefchäftsordnung, wozu insbefondere die Urt der Zufammenfetzung dieser
-                    Beratungsftelle gehört. Das wäre richtiger gewefen und wir hätten keine solchen
-                    Schwierigkeiten. Wenn wir gleich bei der Wahl der Borfikenden schon unterbrechen
-                    und erft wählen. müssen. so ift das etwas, was wir in Tirol bisher fehr jelten
-                    gehabt haben. Ich muß nun darauf aufmerkfan machen, daß gerude bezüglich der
-                    Delegierten von Tirol ein Mißgriff scheinbar vorliegt. Ich habe der lekten
-                    Landesregierungsfitung nicht angehören können, weil ich von Innsbruch abwefend
-                    war. Gs wird mir abier von einer fehr kompetenten Versönlichkeit mitgeteilt, daß
-                    an den Landesrat oder an die Landesregierung Salzburg von Seiten Tirols eine
-                    Zuschrift erflofsen wäre, in welchier Landeshauptmann Schraffl als Mitglied
-                    diefer Delegation den Kollegen des Herrn Gendtapträsidenten
-                    Landeshauptmannstellvertreters Dr. Schumacher, den Herrn Landesrat Dr. Stridle.
-                    den Herrn Landeshauptmannstellvertreter Dr. Schmid und meine Wenigkeit beftimmt
-                    hätte. Mit dieser Bestimmung</p>
-                <p>wäre eine Vereinbarung in Tirol bereits gebrochen worden, denn wir haben uns in
-                    Tirol dahin geeinigt, daß jede Partei nur einen Vertreter fendet. Nach der
-                    Mitteilung, die mir gemacht worden ift. ift das btzreits durchbrochen worden, da
-                    eine Partei in Tirol zwei Vertreter und außerdem noch einen Erperten gefendet
-                    hat. Undere Länder haben nicht einen Vertreter einer Vartei, sondern mehrere
-                    gefchickt. Das ift schon eine Zufammenffekung, wo jedes Grundprinzip fehlt. Wie
-                    wird sich da die Übstimmung ergeben? Wie ich in den Zeitungen lefe, find von der
-                    chriftlichjozialen Partei 17 Vertreter, von einer anderen 15 hier. Es hätte sich
-                    ein ganz anderes Stimmenverhäftnis ergeben können, wenn eine Partei entweder auf
-                    eigene Koften oder auf Koften des Landes mehr Bertreter gefchickt hätte. Der
-                    einzige Grundfatz der bisherigen Verhandlung ficheint die Grundjaklofigkeit zu
-                    fein. Uns aus Tirol trifft das jehr schwer. weil wir in der Landesregierung zwei
-                    Herren nominiert haben und wie ich höre, die andere Vertei zwei Vertreter und
-                    einen Erperten beftimmte, während uns nur ein Vertreter zugebilliat wurde. Ich
-                    ftelle daher die Bitte, daß diese Verfammlung, die über so wichtige grundlegende
-                    ffragen beraten foll. die das ganze Reich betreffen, darüber beschließe, daß der
-                    Vertreter unferer Partei, Abram. hier als Mitglied eingeladen wird. Sollte das
-                    unmöglich fein. obwohl ich glaube, daß diese Versammlung auch über eine solche
-                    kleinte Ffrage eine gewiffe Souveränität hat. jo würe ich beantragen, daß, und
-                    das ift ein zweiter Antrag, der Nationalrat Abram als Erperte über den erften
-                    Abfchnitt des Entwurfes des Herrn Staatsfekretärs Dr. Mayr hier einzuladen wäre.
-                    Delegierter Dr. Schumacher: Ich möchte aufklärend bemerken, daß in der
+                        bedeutendften Programmpunkt unferer allernächften Zukunft. Dem Zuge der Zeit
+                        folgend. haben auch die in der Nationalverfammlung vertretenen grozen
+                        politischen Parteien und die Landesvertretungen sich mit der Realisierung
+                        des Föderalifierungsproblems in Studien. Refolutionen. Anträgen und
+                        Entwürfen befaßt und find zu dem Ergebniffe gekommen, daß die fform des
+                        Bundesftaates den heutigen Verhältniffen und Bedürfnissen in Oefterreich am
+                        angemeifensten wäre. Auch die Staatsregierung hat mit dieser Entwicklung
+                        gleichen Schritt gehalten. Sie hat die Bundesftaatsidee aufgegriffen und
+                        durch den Mund des Staatskanzlers Dr. Renner bei der leßten Länderkonferenz
+                        ein Programm bekannt gegeben, wie nach ihrer Auffafjung die Schaffung der
+                        Verfassung am zweckmäßigsten vorzubereiten und durchzuführen wäre. Die von
+                        Dr. Renner hiebei entwickelten Richtlinien find den geehrten Herren bekannt,
+                        ich kann mich daber hier auf ihre allgemeine Erwähnung beschränken. Damit
+                        bin ich bei dem Zwecke der heutigen Tagung angelangt. Der Herr
+                        Staatsfekretär Dr. Mayr hat bei feiner kürzlichen Bereifung der Länder
+                        bereits Gelegenheit genommen, einen Verfafsungsentwurf der Staatsregierung
+                        onzukündigen, und hat, einem allgemeinen Wünsche der Länder entsprechend.
+                        Ginfluß genommen, daß der Entwurf der heutigen Tagung vorgelegt werde. Ich
+                        glaube annehmen zu können, daß sämtliche Länder unmittelbar mit dem Entwürfe
+                        beteilt worden find. Ueber den Inhalt des Gntwurfes kann ich, um nicht den
+                        Veratungen der Konferenz vorzugreifen, mir eine Kritik oder auch nur eine<pb
+                            facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>2 kurze Darftellung
+                        verfagen: fo viel darf ich aber bereits jekt bemerken, daß der Entwurf sich
+                        nur als eine erfte Redaktion diarftellt. Grift abänderungsfähig und foll
+                        erft durch die Mitarbeit und das Zufammenarbeiten der Länder zu einem
+                        wohnlichen Bau ausgeftaltet werden. In dieser Richtung durch gemeinjame
+                        Beratungen das Veftmögliche zu schaffen, ift die vornehmfte Aufgabe unferer
+                        gegenwärtigen Tagung. Wird sie dieser Aufgabe gerecht, dann wird sie ein
+                        Markstein in der Entwicklung unserer Verfafsung bilden und auf den Inhalt
+                        unjerer politischen Zukunft richtunggebenden Einflußz nehmen. Meine sehr
+                        geehrten Herren! Großz find die Aufgaben, die sie in den nächften Tagen zu
+                        bewältigen haben, verantwortungsvolle Beschlüffe werden von Ihnen zu faffen
+                        fein; es gilt zum Seile und ffrommen unferes Staatswefens und feiner
+                        Bevölkerung, die nach Wiederkehr geordneter Verhältnifse und innerem
+                        Ffrieden fehnlichftes Verlangen trägt, das Hösisle zu leisten. Daß dieses
+                        Ziel erreicht werde, ift mein inniafter Wunsch, den ich als Landeshauptmann
+                        von Salzburg der Tagung zum Geleite gebe. As Gausherrn obliegt mir noch die
+                        überaus angenehme Pflicht, für die freundliche Wayl der Stadt Salzburg als
+                        Verfammlungsortes der Konferenz ganz besonders zu danken. Mögen Ihnen die
+                        Stunden, die Sie in unferer Mitte weilen, beweifen, daß wir die Ehre zu
+                        schätzen wissen, die der Stadt Salzburg durch die Abhaltung der Konferenz in
+                        ihren Mauern zuteil wurde. Mit meinem weiteren Danke an den Herrn
+                        Staatsfekretär Dr. Manr und die Herren Vertreter der Länder und der Stadt
+                        Wien für ihr Grsscheinen, das bei den heutigen Verkehrsverhältnissen
+                        sicherlich nicht zu den Lebensgenüfen zu zählen ift, erlaube ich mir nun die
+                        Verhandlungen der Tagung einzuleiten. Gs wird vor allem notwendig fein, die
+                        Wahl eines Präfidiums beziehungsweise eines Vorsitzenden vorzunehmen, und zu
+                        diesem Behüje erlaube ich mir, die Sitzung auf einige Zeit zu unterbrechen.
+                    </p>
+                </sp>
+                <sp>
+                    <speaker>Delegierter Refell!</speaker>
+                    <p>Sehr verehrte Herren! Wir Vertreter der fozialdemokratischen Partei auf
+                        diefer Konferenz find der Anficht, daf keine Zufammenkunft von
+                        Volksvertretern in der Republik Defterreich vorübergehen darf. ohne daß
+                        ausgesprochen wird, dieser Staat, den der Ffriedensvertrag von St. Germain
+                        geschaffen hat, ift ein lebensunfähiges Gebilde. Gr ift lebens- und
+                        entwicklungsunfähig nur als Teil eines großen Wirtschaftsgebietes. Das
+                        deutschöfterreichische Volk, das sich national und kulturell eins fühlt mit
+                        dem ganzen deutschen Voilke, wird daher nie aufhören, den Anffch luf an das
+                        De u tfche Reich zu erftreben. Unfere ganze Politik muß darum so
+                        eingerichtet fein, daß nicht von uns felbft einem künftigen Unfchluß
+                        Sindernifse bereitet werden. Sonderbefftrebungen, die nach den Betimmungen
+                        des Friedensvertrages, der ung bindet, ohnedies ausfichtslos find, schädigen
+                        das gefamte Intereffe. Von diesen Gesichtspunkten aus betrachten wir auch
+                        die Geftaltung der Verfaffung unserer Republik. <pb facs="#facs_8" n="8"
+                            xml:id="img_0008" break="yes"/></p>
+                </sp>
+                <sp>
+                    <speaker>Landeshauptmann Mener:</speaker>
+                    <p>Ich unterbreche also nochmalls die Sitzung. (Nach Wiedereröfffnung der
+                        Sikung.) Es find drei Vorfikende vorgefchlagen worden. und zwar der Herr
+                        Landeshauptmann Dr. Rintelen, der Herr Landeshauptmann Gever- und der Herr
+                        Landesrat Chriftobf. Gegen die Personen ift kein Widerspruch erfolgt. Ich
+                        bitte den Herrn Landeshauptmann Dr. Rintelen den Vorfik zu übernehmen. (Dr.
+                        Rintelen übernimmt den Vorfiß.) </p>
+                </sp>
+                <sp>
+                    <speaker>Delegierter Dr. Rehrl:</speaker>
+                    <p>Ich beantrage, daß die Wahl des Vorfitzenden durch Ukklamation erfolge.</p>
+                </sp>
+                <sp>
+                    <speaker>Landeshauptmann Mener:</speaker>
+                    <p>Gs ift beantragt, die Wahl des Vorfitzenden per Ukklamation vorzunehmen. Ich
+                        erfuche jene Herren, welche damit einverstanden find, die Hand zu erheben.
+                        Angenommen. </p>
+                </sp>
+                <sp>
+                    <speaker>Delegierter Dr. Rehrl:</speaker>
+                    <p>Ich beantrage für die chriftlichfoziale Partei als Vorfitzenden den Herrn
+                        Landeshauptmann von Steiermark Dr. Rintelen.</p>
+                </sp>
+                <sp>
+                    <speaker>Delegierter Breukler: </speaker>
+                    <p>Ich beantrage zunächft dak drei Vorsitzende bestimmt werden, mit gleichen
+                        Rechten. Namens der fozialdemokratischen Partei erlaube ich mir
+                        vorzufchlagen den Herrn Landeshaupfmann Severvon Niederöfterreich. </p>
+                </sp>
+                <sp>
+                    <speaker>Delegierter Dr. Pflanzl: </speaker>
+                    <p>Ich beantrage namens der deutschfreiheitlichen Partei. als Vertreter in das
+                        Präfidium den Herrn Landesrat Nottar Chriftoph. </p>
+                </sp>
+                <sp>
+                    <speaker>Landeshauptmann Mener: </speaker>
+                    <p>Von Seite der chriftlichfozialen Partei ift der Herr Landeshauptmann von
+                        Steiermark Dr. Rintelen als Vorsitzender vorgeschlagen. Ich erfuche jene
+                        Herren, welche mit diesem Antrage einverstanden find. Die Hand zu erheben.
+                        Angenommen. </p>
+                </sp>
+                <sp>
+                    <speaker>Delegierter Dr. Schumacher: </speaker>
+                    <p>Ich glaube, es dürfte hier ein Mikverständnis vorliegen. Nach dem
+                        Vorschlalge. der unterbreitet worden ist. würde es sich darum handeln, einen
+                        Vorsikenden und zwei Stellvertreter zu wählen. Ich kann nur fagen, was ich
+                        felbft weiß. Ich will der Wahl nicht vorgreifen. Nun wird von einer anderen
+                        Seite von Herrn Landeshauptmannftellvertreter Breukler vorgefchlagen, drei
+                        Vorfitzende mit gleichen Rechten zu wählen. Darüber ift ein Ginverständnis
+                        bisher nicht erzielt worden. Gs würde vielleicht am beften zum Ziele führen,
+                        die Situng noch einmal zu unterbrechen und über diefen Bunkt klar zu werden.
+                    </p>
+                </sp>
+                <sp>
+                    <speaker>Landeshauptmann Mener:</speaker>
+                    <p>Ich unterbreche also nochmalls die Sitzung. (Nach Wiedereröfffnung der
+                        Sikung.) Es find drei Vorfikende vorgefchlagen worden. und zwar der Herr
+                        Landeshauptmann Dr. Rintelen, der Herr Landeshauptmann Gever- und der Herr
+                        Landesrat Chriftobf. Gegen die Personen ift kein Widerspruch erfolgt. Ich
+                        bitte den Herrn Landeshauptmann Dr. Rintelen den Vorfik zu übernehmen. (Dr.
+                        Rintelen übernimmt den Vorsitz.) </p>
+                </sp>
+                <sp>
+                    <speaker>Delegierter Breukler:</speaker>
+                    <p>Es sind zunächst einige Kleinigkeiten zu bereinigen. Gs foll zunächft nach
+                        der Vereinbarung zwischen den Parteien der Antrag erfolgen, daß die
+                        Präidenten, die mit gleichen Rechten gewählt find. im Präfidium abhwechfeln,
+                        und zwar in einer gewissen Reihenfolge. Dann wäre noch eine zweite Ffrage zu
+                        bereinigen, die mir als Kleinigkeit erfcheint. Wir haben ffeinerzeit im
+                        Präfidium davon gesprochen, dak die Herren des Salzburger Landtages sich
+                        hier auf den Dänken während der Konferenz niederlaffen und zuhören können.
+                        Gs ift das jetzt der Konferenz überlaffen worden. Ich bitte den Herrn
+                        Präfidenten zu verfügen, daß die Herren Landtagsabgeordneten fich hier auf
+                        den Dänken niederlaffen können. felbftverständlich ohne jede Beteiligung als
+                        Baleriebefucher. Zweitens find hier zwei Erperten befstimmt worden. und zwar
+                        ift der eine Ernerte der Herr Nationalrat Abram von Tirol. Von dem
+                        Gefichtspunkte aus. daß die Tiroler Landesregierung einige Erperten beftimmt
+                        hat, welche einfeitig nur einer Partei angehören und weiters das Land
+                        Oberöfterreich als Erperten den Herrn Nationalrat Hafner bestimmt hat und
+                        nachdem einige andere Erperten hier find. fo möchte ich bitten, unbefchadet
+                        des gegenteiligen Standpunktes von Niederöfterreich doch zu verfügen, daß
+                        die zwei Erperten noch zugelaffen werden. Selbftverständlich nicht mit dem
+                        Rechte der Abstimmung. fonder nur mit dem Rechte der Mitberatung.</p>
+                </sp>
+                <sp>
+                    <speaker>Landeshauntmann Dr. Rimtelen:</speaker>
+                    <p> Dieser Punkt gehört zur Geschäftsordnung und ich werde ihn daher zufammen
+                        mit der Geschäftsordnung zur Abstimmung bringen. Ich bitte, der erfte Untrag
+                        lautet dahin, daß die drei Vorsitzenden abwechfeln. Der aweite Antrag
+                        lautet, daß jechs oder acht Herren teifnehmen und als Gäfte zuhören können,
+                        und der dr’Ite Antrag lautet auf Beiziehung einzelner Erperten. Ich denke,
+                        daß wir zuerft im allgemeinen die Gefchäftsordnung behandeln, abgefehen von
+                        dem Untrag des Gehrn Antragftellers. auker wenn sonft noch iemand zur
+                        Geschäfteerdnung das Wort iwünfcht.</p>
+                </sp>
+                <sp>
+                    <speaker> Delegierter Dr. Gruener: </speaker>
+                    <p> Meine Herren! Zur Geschäfteordnung habe ich allerdings einiges<pb
+                            facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>4 vorzubringen. Wir
+                        haben uns hier in Salzburg verfammelt. um an einer großen
+                        Ffragemitzuberaten. Ich mußz aber formell schon einwenden, daßz die Art der
+                        Zufammenfetzung eine ganz willkürliche ift und daß es eigentlich keine
+                        Abftimmung geben kann. So ift die Zuammenfekung weder nach der Gröhe des
+                        Landes oder der Einwohnerzahl noch nach irgend welchem Prinzip vor sich
+                        gegangen. Ginzelne Länder haben ihre Vertreter durch den Landeshauptmann
+                        beftimmen laffen, andere heben das durch den Landesrat oder durch ein
+                        Kollegium der Landesregierung beforgt, und wie mir mitgeteit wird. haben
+                        zwei Länder ihre Delegierten durch dien Landtag bestimmen laffen. Gs ift
+                        aber auch gar keine Vereinbarung getroffen worden und ich muß hier schon
+                        eingangs erwähnen, daß diefe ganzen Verhandlungen jehr wenig vorbereitet
+                        erfcheinen. Wenn überhaupt etwas vorliegt, jo ift es etwas ganz Einfeitiges.
+                        Es wäre richtiger gewefen, und zu einer raschen Durchfführung, wenn einem
+                        überhaupt daran gelegen ift, notwendig gewefen. wenn frühler von allen
+                        Varteien ein kleines Kollegium zufammengetreten. wäre und gemeinfamte
+                        Brundfäke ausgearbeitet hätte zur Gefchäftsordnung, wozu insbefondere die
+                        Urt der Zufammenfetzung dieser Beratungsftelle gehört. Das wäre richtiger
+                        gewefen und wir hätten keine solchen Schwierigkeiten. Wenn wir gleich bei
+                        der Wahl der Borfikenden schon unterbrechen und erft wählen. müssen. so ift
+                        das etwas, was wir in Tirol bisher fehr jelten gehabt haben. Ich muß nun
+                        darauf aufmerkfan machen, daß gerude bezüglich der Delegierten von Tirol ein
+                        Mißgriff scheinbar vorliegt. Ich habe der lekten Landesregierungsfitung
+                        nicht angehören können, weil ich von Innsbruch abwefend war. Gs wird mir
+                        abier von einer fehr kompetenten Versönlichkeit mitgeteilt, daß an den
+                        Landesrat oder an die Landesregierung Salzburg von Seiten Tirols eine
+                        Zuschrift erflofsen wäre, in welchier Landeshauptmann Schraffl als Mitglied
+                        diefer Delegation den Kollegen des Herrn Gendtapträsidenten
+                        Landeshauptmannstellvertreters Dr. Schumacher, den Herrn Landesrat Dr.
+                        Stridle. den Herrn Landeshauptmannstellvertreter Dr. Schmid und meine
+                        Wenigkeit beftimmt hätte. Mit dieser Bestimmungwäre eine Vereinbarung in
+                        Tirol bereits gebrochen worden, denn wir haben uns in Tirol dahin geeinigt,
+                        daß jede Partei nur einen Vertreter fendet. Nach der Mitteilung, die mir
+                        gemacht worden ift. ift das btzreits durchbrochen worden, da eine Partei in
+                        Tirol zwei Vertreter und außerdem noch einen Erperten gefendet hat. Undere
+                        Länder haben nicht einen Vertreter einer Vartei, sondern mehrere gefchickt.
+                        Das ift schon eine Zufammenffekung, wo jedes Grundprinzip fehlt. Wie wird
+                        sich da die Übstimmung ergeben? Wie ich in den Zeitungen lefe, find von der
+                        chriftlichjozialen Partei 17 Vertreter, von einer anderen 15 hier. Es hätte
+                        sich ein ganz anderes Stimmenverhäftnis ergeben können, wenn eine Partei
+                        entweder auf eigene Koften oder auf Koften des Landes mehr Bertreter
+                        gefchickt hätte. Der einzige Grundfatz der bisherigen Verhandlung ficheint
+                        die Grundjaklofigkeit zu fein. Uns aus Tirol trifft das jehr schwer. weil
+                        wir in der Landesregierung zwei Herren nominiert haben und wie ich höre, die
+                        andere Vertei zwei Vertreter und einen Erperten beftimmte, während uns nur
+                        ein Vertreter zugebilliat wurde. Ich ftelle daher die Bitte, daß diese
+                        Verfammlung, die über so wichtige grundlegende ffragen beraten foll. die das
+                        ganze Reich betreffen, darüber beschließe, daß der Vertreter unferer Partei,
+                        Abram. hier als Mitglied eingeladen wird. Sollte das unmöglich fein. obwohl
+                        ich glaube, daß diese Versammlung auch über eine solche kleinte Ffrage eine
+                        gewiffe Souveränität hat. jo würe ich beantragen, daß, und das ift ein
+                        zweiter Antrag, der Nationalrat Abram als Erperte über den erften Abfchnitt
+                        des Entwurfes des Herrn Staatsfekretärs Dr. Mayr hier einzuladen wäre. </p>
+                </sp>
+                <sp>
+                    <speaker>:</speaker>
+                    <p/>
+                </sp>
+                <p>Delegierter Dr. Schumacher: Ich möchte aufklärend bemerken, daß in der
                     Regierungssitzung, soweit ich gegenwärtig war. als Bertreter des Landes Tirol.
                     nur je ein Vertreter jeder Partei nominiert worden ift, und zwar hat es sich
                     gehandelt um meine beiden Herren Nachbarn zur Linken und meine Wenigkeit.
@@ -1264,7 +1385,8 @@
                     allgemeinen Intentiomen entspricht und bitte daher, vielleicht im Einvernehmen
                     mit den drei Hernen die neue Sitzordnung festzusetzen. Ich bitte also auch
                     hierüber um geeignete Vorschläge. Die Verhanldlung ist geschlossen. (Schluß der
-                    Sitzung um 5 Uhr 45 Min.)</p></div><div type="main"><pb facs="#facs_18" n="18" xml:id="img_0018"
+                    Sitzung um 5 Uhr 45 Min.)</p>
+            </div><div type="main"><pb facs="#facs_18" n="18" xml:id="img_0018"
                         break="yes"/><p>2. Sitzung am 16. Fe br u ar 1920.</p>
                 <p>Vorsitzende vormiltag: Landeshauptmann Sever, nachmittags: Landesrat Christoph.
                     (Beginn der Situng um 9 Uhr 15 Min.) Vorsitzender Sever: Ich erkläre die Sitzung
