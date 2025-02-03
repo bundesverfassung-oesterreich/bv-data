@@ -3,7 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Protokoll der 12. Sitzung des Subkomitees des Verfassungsausschusses vom 26. August 1920</title>
+                <title type="main">Protokoll der 12. Sitzung des Subkomitees des
+                    Verfassungsausschusses vom 26. August 1920</title>
                 <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
@@ -29,23 +30,24 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
-                    </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372"
+                        >Peter Andorfer </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
-                    </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X"
+                        >Carl Friedrich Haak </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
-                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital
+                        Humanities and Cultural Heritage an der Österreichischen Akademie der
+                        Wissenschaften</orgName>
                 </publisher>
                 <publisher>
-                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
-                        Verfassungsgeschichte</orgName>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für
+                        Rechts- und Verfassungsgeschichte</orgName>
                 </publisher>
                 <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
                 <date when="2023">2023</date>
@@ -64,25 +66,31 @@
             <sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
-                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
-                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
-                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/79 ex 1920</idno>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
+                            Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik
+                            (Wien)</repository>
+                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/79
+                            ex 1920</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <author role="acdh:hasAuthor">Unterausschuss des Verfassungsausschusses</author>
-                            <title>Protokoll der 12. Sitzung des Subkomitees des Verfassungsausschusses vom 26. August 1920</title>
-                            <note type="editor">Protokoll der 12. Sitzung des Subkomitees des Verfassungsausschusses vom 26. August 1920,  Lithographie, Zustand gut, ohne Anmerkungen</note>
+                            <author role="acdh:hasAuthor">Unterausschuss des
+                                Verfassungsausschusses</author>
+                            <title>Protokoll der 12. Sitzung des Subkomitees des
+                                Verfassungsausschusses vom 26. August 1920</title>
+                            <note type="editor">Protokoll der 12. Sitzung des Subkomitees des
+                                Verfassungsausschusses vom 26. August 1920, Lithographie, Zustand
+                                gut, ohne Anmerkungen</note>
                         </msItem>
                     </msContents>
                     <physDesc>
-                        <objectDesc form="Lithographie">
-                        </objectDesc>
-                        <handDesc>
-                        </handDesc>
+                        <objectDesc form="Lithographie"> </objectDesc>
+                        <handDesc> </handDesc>
                     </physDesc>
                     <history>
-                        <origin notBefore-iso="1920-08-26" notAfter-iso="1920-08-26">26. August 1920</origin>
+                        <origin notBefore-iso="1920-08-26" notAfter-iso="1920-08-26">26. August
+                            1920</origin>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -92,39 +100,382 @@
                 <p/>
             </abstract>
             <creation>
-                <date notBefore-iso="1920-08-26" notAfter-iso="1920-08-26">
-                    26. August 1920
-                </date>
+                <date notBefore-iso="1920-08-26" notAfter-iso="1920-08-26"> 26. August 1920 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="created">
-            <change when="2025-01-29" who="#cfh">document automatically created</change>
+        <revisionDesc status="structured">
+            <change when="2025-02-01" who="#cfh">document automatically created</change>
+            <change when="2025-02-03" who="#m_huber">Elias: Text strukturiert </change>
         </revisionDesc>
     </teiHeader>
-    <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="2909" lry="4762" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0025/full/full/0/default.jpg" width="2909px" height="4762px"/></surface><surface ulx="0" uly="0" lrx="2883" lry="4765" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0026/full/full/0/default.jpg" width="2883px" height="4765px"/></surface><surface ulx="0" uly="0" lrx="2854" lry="4755" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0027/full/full/0/default.jpg" width="2854px" height="4755px"/></surface><surface ulx="0" uly="0" lrx="2867" lry="4740" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0028/full/full/0/default.jpg" width="2867px" height="4740px"/></surface><surface ulx="0" uly="0" lrx="2835" lry="4766" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0029/full/full/0/default.jpg" width="2835px" height="4766px"/></surface><surface ulx="0" uly="0" lrx="2823" lry="4719" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0030/full/full/0/default.jpg" width="2823px" height="4719px"/></surface><surface ulx="0" uly="0" lrx="2791" lry="4704" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0031/full/full/0/default.jpg" width="2791px" height="4704px"/></surface><surface ulx="0" uly="0" lrx="2803" lry="4656" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0032/full/full/0/default.jpg" width="2803px" height="4656px"/></surface><surface ulx="0" uly="0" lrx="2762" lry="4638" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0033/full/full/0/default.jpg" width="2762px" height="4638px"/></surface><surface ulx="0" uly="0" lrx="2748" lry="4631" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0034/full/full/0/default.jpg" width="2748px" height="4631px"/></surface><surface ulx="0" uly="0" lrx="2794" lry="4663" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0035/full/full/0/default.jpg" width="2794px" height="4663px"/></surface></facsimile>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+        <surface ulx="0" uly="0" lrx="2909" lry="4762" xml:id="facs_2">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0025/full/full/0/default.jpg"
+                width="2909px" height="4762px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2883" lry="4765" xml:id="facs_3">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0026/full/full/0/default.jpg"
+                width="2883px" height="4765px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2854" lry="4755" xml:id="facs_4">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0027/full/full/0/default.jpg"
+                width="2854px" height="4755px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2867" lry="4740" xml:id="facs_5">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0028/full/full/0/default.jpg"
+                width="2867px" height="4740px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2835" lry="4766" xml:id="facs_6">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0029/full/full/0/default.jpg"
+                width="2835px" height="4766px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2823" lry="4719" xml:id="facs_7">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0030/full/full/0/default.jpg"
+                width="2823px" height="4719px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2791" lry="4704" xml:id="facs_8">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0031/full/full/0/default.jpg"
+                width="2791px" height="4704px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2803" lry="4656" xml:id="facs_9">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0032/full/full/0/default.jpg"
+                width="2803px" height="4656px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2762" lry="4638" xml:id="facs_10">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0033/full/full/0/default.jpg"
+                width="2762px" height="4638px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2748" lry="4631" xml:id="facs_11">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0034/full/full/0/default.jpg"
+                width="2748px" height="4631px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2794" lry="4663" xml:id="facs_12">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0035/full/full/0/default.jpg"
+                width="2794px" height="4663px"/>
+        </surface>
+    </facsimile>
     <text type="Sitzungsprotokoll">
-        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><p>Trotokol1 der 12. Sitzung des Unterausschusses des Verfassurgsausschneses von 26. August 1920. deginn 3 Unr, nashnittags. Anresend: Nr. Otto Sauer als Voreitzonder Simon Abram Dr. Josef Aigner Heinrich Cleseip Dr. Robert Dannesberg Jodok Fink Dr. Ighaz SeipelStaatesekfetär Prof. Nr. Michael Mayr vgn der Staatskanzlei: Sektionsrat Dr. Auge TacxI Kannlichgr Sektionerat Dr. Egbert Ministerlalvizesekrestän Dr. Kurt Frieberger als Schriftfürrer. lqen als Experte des VerfassungsausProf. Dr. Hans Kg schueses. </p><p>444<pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>2</p><p>Der Vorsitzende eröffnet die Sitzung und erteilt Sekt.Rat Dr. Wannlicher das Hort zwecke Flarstellung einiger Formulierungen. Ee wird beschlossen den Art. 15 Abs. 3 folgenden wortlaut zu geben und die Richtigstellung des Druckezemplares zu veranlassen: wenn sich öffentliche ingestellte oder Punktimnäre un ein Handat für. den Nationalrat bewerben ist ihnen die ddzu drtdrdertitdfet Zeit zu gewähren. Die näheren Bestimmungen werden durch die Dienstvarschrift getroffen“. In Art. 12 b wird die Friet für die Vorlage des Budgets mit &amp; Wochen festgesetzt. In Art. 48 ist im letzten Absatze nach dem Worte Bundesverdammlung einzuschalten: „sowie deren Ausschüage Jodann wird Abschnitt 5 „von den Gemeinden“ durchberaten“ durchberaten; die Ueberschrift wird beschlossen, desgleichen Art. 97 a. Die allgemeine stattliche Verwaltung in den Ländern wird genäee den nachfolgenden Bestimmungen nach dem Grundsatze der Selbstvermaltung eingerichtet. Der Vorsitzende erklärt bei Besprechung des Entwurfes für Art. 97 b, dass durch die Worte: „als Gebietegemeinden die Bezirke (Bezirksgemeinden) und in den gröeseren Ländern die Kreise (Kreisgemeinden)“ eine Legaldefinition des wortes Gebietsgemeinden gegeben sei und der Artikel lautet: "Art. 97 b. (2) verwaltungssprengel und Selbstverwaltungskörper, in die sich die fänder gliedern, sind die Gemeinden (Ortegemeinden) und als Gebietsgemeinden die Bezirke (Bezirkegemeinden) und in den gröeseren Zändern die Kreise (Kreiegemeinden).</p><p>445<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>3 (2) Die Gemeinden sind den Bezirken oder Kreisen und diese den Ländern untorgeordnet. Zwischen Bezirken und Kreisen findet ein Instanzenzug nicht statt." No Kreise bestehen wäre der Bezirk nur als Expositur anzwsehen, doch könne in einzeln festzusetzenden Angelegenheiten der Rechtszug vom Bezirke direkt an das Land gehen. In längerer Debatte wird nater Berufung auf den in der 7. Sitzung vom 20. Auguet fProthkoll Seite 14) gefassten prinzipiellen Beschlune gesprochen inniefern eine Stadt zwiechen Kreis- oder Bezirksstadtgemeinde wählen zolle, in welehem Falle ihnen in der Verfassung nur ein Inspruch darauf zuerkannt werden soll. Der Unterausschues neigt sich auf folgenden Vortlaut: "Art. 97 c. (1) Gemeinden mit mehr als 15.000 Einwohnern sind auf ihren Antrag zu Bezirken (Bezirksstadtgeneinden) zu erklören. Bei ihnen fällt die Bezirksvermaltung mit der Gemeindeverwaltung zusamnen. (2) In den Ländern, in denen Kreise gebildet werden, haben Städte mit mehr als 15.000 Einwohnern den Anspruch ale Freide (Kreiestadtgemeinden) erklärt zu werden; sie führen gleichzeitig die Kreis-, Bezirks - und Gemeindeverwaltung. (3) Die bieherigen Städte mit eigenem Statut worden. Bezirkestadtgemeinden; in den Ländern, in denen Kreise gebildet werden, werden sie, wenn sie mehr als 15.000 Einnonner haben, auf iureh Antrag zu Kreisstadtgemeinden erklärt. In Artikel 97 d werden auf Entrag des Abg. Olesein zum Schutze der Gemäinden nach den iorten „Bundes - und Landesgesetzer die Worto „darüber zu verfügen“ eingeschaltet so wie der Artikel folgendermassen lautet: Nrt. 97 d. Die Gemeinden, Bezirke und Kreise sind auch selbständi-</p><p>446<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>-4- ge Uirtschaftskörper; sie haben das Recht, Vermögen aller irt zu besitzen und zu erwerben und ipnerhalt der Schranken der Bürdes- und Landeegesetze darüber zu verfügen, wirtschaftliche Unternehnungen zu betreiben, inren Haushalt selbständig zu fänren. und abgaben einzuheben.“ Abg. F i n k erörtert. sodann den Tlan Dr. Rennere auch in den kleinsten beweinden Juaktionäre anzustellen, die Bundesorgane wären, doch findet er diesen Vorschlag als unbegründet soferne es sich un kleine Oryegeneinden kandle. iuf Grund eigener Erfahrung und der Mitteilungen, die ihm bereits vor gerauner Zeit von Schneizern genacht wurden, tritt Abg. F i n k dafür ein, dass in kleinsten Gemeinden auch ein anderes als das Verhältnisnahlrecht angewendet werden könne. sonst entwickle sich eine durckaus schädliche Vetterzwirtschaft. Freilich sei er für eine niedrispe Begrenzung der Einnohnerzahl. in solchen Zwerggemeinden, wie plie namentlich in letzter Zeit in Wiederösterreich entstanden seien. Mit 72 und 100 Einwohnern. sollte das einfache.Mehrheitswanlrecht gelten. Man hatres ohne dass jemals Klagen vorgekommen wären, on Vorarlberg so gehalten, dass die Steuerzahler mit inren Fanilien in einer Cruppe und die Nichtsteuerzahler in einer zufellten Truppe wählten. Die Mandante seien auf beide bruppen nach( der Mählerzahl verteilt worden. In Industriegemeinden hätte natürlich das Proportmahlrecht zu gelten. Der Vorgitzende gibt der gegenteiligen Ansicht Ausdruck und erwähnt, dass das Land kärnten ohrte Rücksicht auf die Verfaseung vor ganz kurzer Zeft ein Mahlreicht mit wahlkörpern eingeführt habe. Er machte bei dieser Erwällhung geltend, dass die Stuatsregierung es verabsäiht habs, gegerl dieses verfassungsnidrige Vorgehen einzuschreiten. Nach seiner Ueberzeugung bedeute jede Schmächung eine Ungerechtigkeit. Mr. Danneberg</p><p>447<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>5</p><p>fügt hinzu, dass seine Partei unbedingt an Verbältziensklrecht festhält. Man beabsichtigt wohl nur deshalb einen Interschied zwischen Industziegeneinden und anderen zu machen, damit in Orten mit zahlreicher Industriear! eiterbevölkerung auch den agreriechen Ortsbewohnern die Vertreftung gesichert bleibe, in den kleinsten Gemeinden jedoch die rsichtbäuerliche Minderheit um ihre Vertretung in der Geneinde zu bringen. Er beantragt, venn schen das Verhältniemahlrecht nt eht abgeschafft werden sollte. dess se nur in bereinden unter -100 Einwohnern sein dürfe. abgelehnt, angenommen wird ein Dieser Antrag wir. den mit weniger als 500 Einnohnern Antrag Fink denzufolge in genet von Verhältnisnahlrecht abgssen en werden kann. Die Gliederung in Steuerzahler und Nichtetefepzah iler erklärt der Foreitzende für an sich nicht ungerecht, bezgichnast es aber als ein Wehlkörgerszsten. abg. Olcosifn meint, dase es sich nur un Mehrheitswahlen handeln könne, da ikllle Parteien auf dem gleichen Mahlrecat bestehen. Von dieser diglishheit sagt der Vorsitzende sie seiin Oesterreich inner nur 90 ulsifgeffasst worden, dass kein Fluralwahlrecht bespehen dürfe, da hi emand weur als ein Stinne abgeben könne: abg. Abra u) verseichnet es als notwendig den Erneren teil der Berölkerung ih den Geneinden gegen die inner rücksichteiggeren Bepitzenden zu schütgen, ias 1bs. Dr. 3e ipe1 beim Vorschlag des Abg. F In k filr gewährleis bet hält. Letzterer wunscht, dass der Berichterstat fer noch besom era betone, dass g in Hahinur in den Gemeindeh unter 500 Einneihnern eine seilun körper erfolgen dürfe. Ma nnzu abs.5 des frt. 97 e( benerkt Sekt. dat Dr. ste lisherk er, dass es möglich wäre, a lch für kleine und klein Gemeinden fachlich geschulte Organe zif beschaffen, wenn für mehl Ere Nachbargemeinden ein geweineener Sekretär aufgestellt werde; die-<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>6</p><p>se stelle effordert keinen vernaltungspristen, es wurde ein ähnlicher Vergang wie im alten Oesterreith in der Bukowine am geeignetsten sein, wo wegen der Verschiedenheit der Kulturstufen innerhalb der asticaalen so stark gemischten Bevolkerung dur solche Orgene angestellt werden durften, die eine vorgeschriebene Prükung für Gemeindesekretär abgelegt hatten. Damit hat men die besten Urfahrungen gemacht. Wenn auch die Kulturstufe in den Alpenländern weit höher seiß hat er doch in seiner eigenen Praxis noch Burgermeister kennen gelerat, die hnelphabeten waren, sodass immer wieder die Gendarmerie zu Aufgaben herangezegen werden musste, die nicht zu ihrem Wirkungskreis gehorten. ls Fref. Dr. Kelsen die Frage aufrirft. et es nicht möglich ware, die Mandate nach Berufsgruppen aufzuteilen, erklart der Vergitzende, dass er eine andere Gliederung als in territoriale Hahlkorrer für ungerecht und unzulessig halt. Abx. Dr. Seipel fragt, wer es bei einem Anschluss des Kärntner Abstimmungsgebietes vermeiden sell, dass sich nucht nationale Kurien bilden. Der Vorsitzende hält dies bei der Art der Karntner Bevolkerung, die keinen Nationalitatenkampt kenne, und der Gerchnhert der masischen Bevölkerung als als Deutsche zu fühlen für ausgeschlossen. Ein Antrag des Verertzenden auf Reassunierung des Art. od durch Aufnahme einer Bestimmung, dass die Wählerschaft in territoriale Wählkorpersgegliedert werden müsse. und ihr Rahlrecht in Kahlkarpern ausuben müsse, von denen jeder ein geschlessenes Gebiet umfassen muss, und verin die Mandate im Verhaltnis zur Jahl der Bundesangehörigen, die darin wohnen, verhalteismässig zu verteilen sei; eine Gliederuag der Wählergchaft nach anderen Gruppen sei unzulässig, wird abgelehnt.<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>7 Magegea ird Art. 9 e ia folgender Fassung angenenmen: 1rt. o7 c. (1) die Orgne der Eeneinde sind die Cemeindevertretung und das Gemeindeant, die Organe des Bezirkes die Bezirksvertretung und das Bezirkseut, des Kreises die Kreisvertretung und des Kreisent. (2) Die Rahlen in alle Vertretungen finden suf Grund des gleichen, geheimen, personlichen und unmittelbaren Verhältniswehlrechtes aller Fundesangehorigen statt, die im Bereich der zu wählenden Vertretung ihren ordentlichen Rohnsitz haben. Die Erlessung der Nahlerdaungen liegt der Londesgesetzgebung ob: in diesen Wahlordnungen dürfen die Bedingungen des aktiven und pesiven Nahlrechtes nicht cager gezogen sein, als dies in der Wahlordaung zum Landtag der fatl ist; doch kann für die Mahlen in die Vertretung der Ortsgemeinden das Wahlrecht von der Dauer des Aufentheltes in der Gemeinde bis zu einem Jahr abhängig gemacht werden. (3) Di« Lendesgesetzgetung kann verschreiben, dass bei der Wahl von Vertretungen der Gemeinden, die weniger als 500 Einwohner haben, dy Stelle des Verhältnisnahlrechtes das Mehrheitswahlrecht zu treten hat. In diesen Falle können die Wähler auch in andere als territoriele Mahlkörper eingeterlt werdeen Die Wehlordnung kann bestimmen, dass die Wählerschaft ihr Wehlrecht in Hanlbezirken auszuüben hat, die geschlossene Territorien sein müssen. Die Mandate sind auf die Wahltezirke im Verhätnis der Zahl der Fundesangehörigen, die in ihnen nach dem Ergebnis der letzten Volke zählung ihren Wehnsitz hatten, zu verteilen. Eine fliederung der Fählerschaft in andere Wahlkörier ist nicht zuläss18. (4) Die Vertretungen können nach dem Cruaisatze der Verhältarswohl aus ihrer Mitte für die einzelnen Zuer500<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>8</p><p>ge der Verwaltung besondere Verwaltungssu schüsse bestellen, die senert bestinnte krufs - oder Interessentengrufpen in betracht konnen, auch noch durch die Feranzichung von Vertretern dieser Feruts- oder Interessentengruppen erwertert werden können. (5) Eie Leiter der Bezirksämter und der Kreisunter müssen rechtskundige Vermaltungsteente sein.„ ingenommen wird ferner: Art. 57 f. die Festsetung der weiteren Grundsätze für die Orzanisation der allgemeinen stastlichen Verwaltung in den Landern nach den Artikeln G7 a bis e ist Sache der Bundesgesetzgerung, ihre Ausführung liegt den Landesgesehze gebungen cb. Welche Verwallungsgeschäfte sächlich und zestadzenmässig den Vertretungen und Verwaltungsausschüssen some den feutern zukoumen, bestimmen die Aindesgeselzgebung und die Landesgesetzgebungen innerhalb ihrer verfassungsnassigen Zustandigkeit. Hieber ist jedoch den Geweinten ein Sirkungskreis in erster Instanz in felgenden angelegenheiten genähtleistet: (Nach den noch nicht abgeschlossenen Vernandtungen mit den anderen Stastsäntera von der Stastskanzleiein keckreter Verschlag zu erstatten.1 fur desGemeinderahlrecht ssiii Uebergargsbsstimmungen verzusehaaggauffErann dered Gjeehren die bisherigenfehlen bis zur Ab laufe der HendstsdsuerGeltung Naben. Die übrigen von der Staatskanzler vorgelegten Artikelent wurfe werden nach Antrag des Abg. Dr. Se1 jel als Üebergangsbestzurungen foruutiert. In diesen Bestimnungen sell gesegt werden, dass an Stelle der Re501<pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>9</p><p>zirksvertretungen spezirksstadtgemeinden der Gemeinderat tritt. Dr. Danneberg meint, dass diese Funktion nicht der Gemeinderat ausube, sondern der Stadtret, wogegen Abg. Dlessin diese Zustand als Ausnahne bezeichnet, in der Regel, so in Wien und Jansbruck besorgt diese lgenden der Burgermeister. Uebrigens sei in allen Stetuten vorgesehen, dass xx eigene Ausschüsse unter Vorsitz des Burgermeisters bestellt werden können. Der Unterausschuss einigt sich auf folgende Uebergangsbestimmungen:
-      </p><div type="article">
-<head>Art. X.
-      </head>
-<p type="legal_section"><label>(1)</label> bis zur Hzarichtung der allgemeinen stadtlichen Verwaltung in den Ländern nach den Bestimmungen der Artikel 97a bis e bleibt die dermalige Bezirksverwaltung mit der lassgabe bestehen, dass im bereiche jeder Bezirkshauptmannschaft für jene Verwaltungszweige, für die nicht besondere Eiorichtungen der Selbstverwaltung bestehen, eine Bezirksvertretung gewählt wird.
-      </p><p type="legal_section"><label>(2)</label> In den Stadten mit eigenem Statut überniamt die Gemeiadevertretung augleich die Aufgeben der Vezirksvertretung. Diese Aufgeben konnen einem besonderen Ausschuss der Gemeindevertretung übertragen werden.
-      </p>
-<p type="legal_section"><label>(3)</label> In den Bereichen der Bezirkshauptmannschaften wird die Wahl auf Grund des gleichen, gehernen, personlichen und unmittelbaren Fahlrechtes aller kundesangehörigen durchgefuhrt, die im Pereiche der Bezirtshauptmennschaft ihren ordentlichen Wohnsitz haben. Die Wehl ist im Bereiche jeder Bezirkshauptmannschaft gerichtstezirksweise verzunehmen; die Anzahl der Manipte der Bezickvertretungen wird auf die Gerichtsbezirke gach dem Verhaltais ihrer Einwohnerzahl aufgeteilt. Die Bestimmungen des Artikels 97 e. Absatz
-      </p>
-<p type="legal_section"><label>2</label>, Kinden siangemasse Anwendung.
-      </p>
-<p type="legal_section"><label>4)</label> In die Bezirksvertretung sind nur Personen<pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>10- wählbar, die im fereiche der Bezirkshauptmannschaft ihren ordentlichen Monnsitz haben und zum länftige vehlbar sind.
-      </p>
-<p type="legal_section"><label>(5)</label> Die näheren Bestimmungen der Durchkührung dieser Mahlen werden von der leidesgesetzgebung getroffen.
-      </p>
-</div>
-<div type="article">
-<head>Art. 5.
-      </head>
-<p type="legal_section">Die Festsetzung der weiteren Grundsätze für die vorläufige Ausgestaltung der dermaligen Bezirksverwaltung nach Art. &amp; ist Sache der Fundesgesetzgebung: ihre Ausführung liegt den Landesgesetzen at. Dr. Dannebere schlägt vor. die Uebergengs bestimmungen als B. Abschnitl anzgliedern. Sektionsrat dr. Mennlicher hält Fdech zuei dege für möglich. Mitweder eine Art Junktingeveiz, das den Verteil hätte, dass die Verfessuag in sputerer Zeit nicht mit den Uetergengsbestimmungen belssiet bleibt oder Aufnehme in die Verfassung sellst. Href. Dr. Kelsen meint, dass bei Beglessung der Grund - und Freiheitsrechte die Verkassung nicht vollstandit sei, dass alse die Aufnahne von Ueber Gangsbestimmungen weai4 bedeute. Der Vorsitzende erklärt atschliessend, in die Verfassung sei ein Artikel aufzunehnen, 1des die Ueteigangsbestinnungen gleichzertig in Kraft treten; dies sei unse Aötiger, da viele Bestimnungen Jahrelaag i0 kraft bleiben werden. Die nachste Eitzung findet Dichsteg den 31. August 3 Uhr Uecranttag ststt.<pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>Berichtigungen: Durch ein Versehen bei der Leinschrift des Protololie der 12. Sitzung wurden Artikel 97. e, Abe.2 und 3 unrichtig wiedergegeben; sie wurden in folgenden Cortlaat beschlossen: „12) Die lahlen in alle Vertretungen finden auf Crund des gleichen, geheinen, jereönlichen und unnirtellaren Veriältrienahlrecatss aller bundesangeätrigen stabt, die in dereich der zu nänlendee Vertretung inren ordentlienen dansitz dabeu. Die erlassung der lantordnungen liegt der landesgesetzgebung ob; in diesen Tahlordnungen dürfen die Bedingungen des aktiven und jassiven lanlrechtes nieat eager gezogen sein, als dies in der Nanlordnung zum Landtag der Fall ist; doch kann für die fahlen in die Vertretung der Ortegeneinden das venlrecht von der Nauer des Aufenthaltes in der Geneinde bis zu einem Jahr abgängig genacht werden. Die Mahlordnung kann bestimmen, dass die wänlerschaft ihr wehlrecat in vaalbezirken auszuüben dat, die geschlossene Territorien sein wiesen. Die landate sind auf die sahlbezirke in Verwältnis der Zahl der sundesangehörigen, die in ihnen nach den Ergebnis der letzten Volkszänlung inren Lohnsitz natten, zu verteilen. Eine Fliederung der ränlerscaaft in andere lanlkörper ist nicht zulässig.
-      </p><p type="legal_section"><label>(3)</label> Die Landesgesetzgebung kann vorschreiben, dass bei der Wahl von Vertretungen der Geneinden, die weniger als od tinmonner haben, anstelle des Verhältnismahlrecntes das Menrneitsmahlrecht zu tresen. nat. In diesen Falle können die ähler auch in andere als territoriale Tehlkörper eingeteilt werden. Die Mandate müssen jedoch auf diese nahlkörper nach den Veraältnis der ahlberechtigten verteilt werden.“ durch ein weiteres Ferschen ist bei der endgiltigen fassung des Artiksls 13 der letzte Absatz auen in der liener Zeitung entfallen; dieser lautet: „(6) Die wänder sind in lereiche des Gesetzgebungsrechtes befugt, die zur Regelung des Oegenstandes erforderlichen Bestimmungen auch auf dem bebiete des Straf- und Zixilpecates zu treffen.“ 377</p>
-</div>
-</div></body>
+        <body>
+            <div type="main">
+                <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+                <head>Protokoll der 12. Sitzung des Unterausschusses des Verfassungsausschusses vom
+                    26. August 1920.</head>
+                <list>
+                    <item>Dr. Otto Bauer als Vorsitzender </item>
+                    <item>Simon Abram </item>
+                    <item>Dr. Josef Aigner</item>
+                    <item>Heinrich Clessin </item>
+                    <item>Dr. Robert Danneberg</item>
+                    <item>Jodok Fink</item>
+                    <item>Dr. Ignaz Seipel</item>
+                </list>
+                <list>
+                    <item> Staatssekretär Prof. Dr. Michael Mayr</item>
+                </list>
+                <p>Von der Staatskanzlei:</p>
+                <list>
+                    <item> Sektionsrat Dr. Hugo Jäckl</item>
+                    <item>Sektionsrat Dr. Egbert Mannlicher</item>
+                    <item>Ministerialvizesekretär Dr. Kurt Frieberger als Schriftführer.</item>
+                </list>
+                <list>
+                    <item>Prof. Dr. Hans Kelsen als Experte des Verfassungsausschusses.</item>
+                </list>
+                <p>
+                    <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
+                </p>
+
+                <p>Der Vorsitzende eröffnet die Sitzung und erteilt Sekt. Rat Dr. Mannlicher das
+                    Wort zwecks Klarstellung einiger Formulierungen.</p>
+                <p> Es wird beschlossen dem Art. 45
+                    Abs. 3 folgenden Wortlaut zu geben und die Richtigstellung des Druckexemplares
+                    zu veranlassen:</p>
+                <p> „Wenn sich öffentliche Angestellte oder Funktionäre um ein
+                    Mandat für den Nationalrat bewerben ist ihnen die Zeit zu gewähren. Die näheren
+                    Bestimmungen werden durch die Dienstvorschrift getroffen“. </p>
+                <p> In Art. 42b wird
+                    die Frist für die Vorlage des Budgets mit 8 Wochen festgesetzt.</p>
+                <p> In Art. 46
+                    ist im letzten Absatze nach dem Worte Bundesversammlung einzuschalten: „sowie
+                    deren Ausschüsse“2si) Sodann wird Abschnitt 5 „Von den Gemeinden“ durchberaten
+                    232); die Überschrift wird beschlossen, desgleichen</p>
+                <head>„Art. 97 b.</head><p> Die allgemeine
+                    staatliche Verwaltung in den Ländern wird gemäß den nachfolgenden Bestimmungen
+                    nach dem Grundsatze der Selbstverwaltung eingerichtet“. </p>
+                <p> Der Vorsitzende erklärt
+                    bei Besprechung des Entwurfes für Art. 97 b, daß durch die Worte: „als
+                    Gebietsgemeinden, die Bezirke (Bezirksgemeinden) und in den größeren Ländern die
+                    Kreise (Kreisgemeinden)“ eine Legaldefinition des Wortes Gebietsgemeinden
+                    gegeben sei und der Artikel lautet:</p>
+                <head> „Art. 97 b. </head> <p>(1) Verwaltungssprengel und
+                    Selbstverwaltungskörper, in die sich die Länder gliedern, sind die Gemeinden
+                    (Ortsgemeinden) und als Gebietsgemeinden die Bezirke (Bezirksgemeinden) und in
+                    den größeren Ländern die Kreise (Kreisgemeinden).</p>
+                <p><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>(2) Die Gemeinden sind
+                    den Bezirken oder Kreisen und diese den Ländern untergeordnet. Zwischen Bezirken
+                    und Kreisen findet ein Instanzenzug nicht statt." </p>
+                <p> Wo Kreise bestehen, wäre
+                    der Bezirk nur als Expositur anzusehen, doch könne in einzeln festzusetzenden
+                    Angelegenheiten der Rechtszug vom Bezirk direkt an das Land gehen.</p>
+                <p> In längerer
+                    Debatte wird unter Berufung auf den in der 7. Sitzung vom 20. August (Protokoll
+                    Seite 14) 235) gefaßten prinzipiellen Beschluß besprochen, inwiefern eine Stadt
+                    zwischen Kreis- oder Bezirksstadtgemeinde wählen wolle, in welchem Falle ihnen
+                    in der Verfassung nur ein Anspruch darauf zuerkannt werden soll. Der
+                    Unterausschuß einigt sich auf folgenden Wortlaut: </p> 
+                <head>„Art. 97 c.</head>  <p>(1) Gemeinden mit
+                    mehr als 15.000 Einwohnern sind auf ihren Antrag zu Bezirken
+                    (Bezirksstadtgemeinden) zu erklären. Bei ihnen fällt die Bezirksverwaltung mit
+                    der Gemeindeverwaltung zusammen. </p>
+                <p> (2) In den Ländern, in denen Kreise gebildet
+                    werden, haben Städte mit mehr als 15.000 Einwohnern den Anspruch, als Kreise
+                    (Kreisstadtgemeinden) erklärt zu werden; sie führen gleichzeitig die Kreis-,
+                    Bezirks- und Gemeindeverwaltung.“ </p> 
+                <p> (3) Die bisherigen Städte mit eigenem Statut
+                    werden Bezirksstadtgemeinden; in den Ländern, in denen Kreise gebildet werden,
+                    werden sie, wenn sie mehr als 15.000 Einwohner haben, auf ihren Antrag zu
+                    Kreisstadtgemeinden erklärt." </p> 
+                <p> In Artikel 97 d werden auf Antrag des Abg.
+                    Clessin zum Schutze der Gemeinden nach den Worten „Bundes- und Landesgesetze“
+                    die Worte „darüber zu verfügen“ eingeschaltet sodaß der Artikel folgendermaßen
+                    lautet: </p> 
+                <head>„Art. 97 d.</head> <p>  Die Gemeinden, Bezirke und Kreise sind
+                    auch selbständi</p>
+                <p><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>ge Wirtschaftskörper;
+                    sie haben das Recht, Vermögen aller Art zu besitzen und zu erwerben und
+                    innerhalb der Schranken der Bundes- und Landesgesetze darüber zu verfügen,
+                    wirtschaftliche Unternehmungen zu betreiben, ihren Haushalt selbständig zu
+                    führen und Abgaben einzuheben." </p> 
+                <p> Abg. Fink erörtert sodann den Plan Dr.
+                    Renners, auch in den kleinsten Gemeinden Funktionäre anzustellen, die
+                    Bundesorgane wären, doch findet er diesen Vorschlag als unbegründet, soferne es
+                    sich um kleine Ortsgemeinden handle.</p> 
+                <p> Auf Grund eigener Erfahrung und der
+                    Mitteilungen, die ihm bereits vor geraumer Zeit von Schweizem gemacht wurden,
+                    tritt Abg. Fink dafür ein, daß in kleinsten Gemeinden auch ein anderes als das
+                    Verhältniswahlrecht angewendet werden könne, sonst entwickle sich eine durchaus
+                    schädliche Vetternwirtschaft. Freilich sei er für eine niedrige Begrenzung der
+                    Einwohnerzahl in solchen Zwerggemeinden, wie sie namentlich in letzter Zeit in
+                    Niederösterreich entstanden seien, mit 72 und 100 Einwohnern sollte das einfache
+                    Mehrheitswahlrecht gelten. Man hat es ohne daß damals Klagen vorgekommen wären,
+                    in Vorarlberg so gehalten, daß die Steuerzahler mit ihren Familien in einer
+                    Gruppe und die Nichtsteuerzahler in einer zweiten Gruppe wählten. Die Mandate
+                    seien auf beide Gruppen nach der Wählerzahl verteilt worden. In
+                    Industriegemeinden hätte natürlich das Proporzwahlrecht zu gelten.</p>
+                <p> Der
+                    Vorsitzende gibt der gegenteiligen Änsicht Ausdruck und erwähnt, daß das Land
+                    Kärnten ohne Rücksicht auf die Verfassung vor ganz kurzer Zeit ein Wahlrecht mit
+                    Wahlkörpern eingeführt habe. Er machte bei dieser Erwähnung geltend, daß die
+                    Staatsregierung es verabsäumt habe, gegen dieses verfassungswidrige Vorgehen
+                    einzuschreiten. Nach seiner Überzeugung bedeute jede Schwächung eine
+                    Ungerechtigkeit. Dr. Danneberg</p>
+                <p>
+                    <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+                </p>
+                <p>fügt hinzu, daß seine Partei unbedingt am Verhältniswahlrecht festhält. Man
+                    beabsichtigt wohl nur deshalb einen Unterschied zwischen Industriegemeinden und
+                    anderen zu machen, damit in Orten mit zahlreicher Industriearbeiterbevölkerung
+                    auch den agrarischen Ortsbewohnern die Vertretung gesichert bleibe, in den
+                    kleinsten Gemeinden jedoch die nichtbäuerliche Minderheit um ihre Vertretung in
+                    der Gemeinde zu bringen. Er beantragt, wenn schon das Verhältniswahlrecht nicht
+                    abgeschafft werden sollte, daß es nur in Gemeinden unter 2.200 Einwohner sein
+                    dürfe. </p>
+                <p> Dieser Antrag wird abgelehnt, angenommen wird ein Antrag Fink demzufolge
+                    in Gemeinden mit weniger als 500 Einwohnern vom Verhältniswahlrecht abgesehen
+                    werden kann. Die Gliederung in Steuerzahler und Nichtsteuerzahler erklärt der
+                    Vorsitzende für an sich nicht ungerecht, bezeichnet es aber als ein
+                    Wahlkörpersystem. </p>
+                <p> Abg. Clessin meint, daß es sich nur um Mehrheitswahlen handeln
+                    könne, da alle Parteien auf dem gleichen Wahlrecht bestehen. Von dieser
+                    Gleichheit sagt der Vorsitzende, sie sei in Österreich immer nur so aufgefaßt
+                    worden, daß kein Pluralwahlrecht bestehen dürfe, da niemand mehr als eine Stimme
+                    abgeben könne.</p> 
+                <p> Abg. Abram bezeichnet es als notwendig den ärmeren Teil der
+                    Bevölkerung in den Gemeinden gegen die immer rücksichtsloseren Besitzenden zu
+                    schützen, was Abg. Dr. Seipel beim Vorschlag des Abg. Fink für gewährleistet
+                    hält. Letzterer wünscht, daß der Berichterstatter noch besonders betone, daß nur
+                    in den Gemeinden unter 500 Einwohnern eine Teilung in Wahlkörpern erfolgen
+                    dürfe.</p> 
+                <p> Zu Abs. 5 des Art. 97 e bemerkt Sekt. Rat Dr. Mannlicher daß es möglich
+                    wäre, auch für kleine und kleinste Gemeinden fachlich geschulte Organe zu
+                    beschaffen, wenn für mehrere Nachbargemeinden ein gemeinsamer Sekretär
+                    aufgestellt werde; die<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"
+                    /></p>
+                <p>se Stelle erfordert keinen Verwaltungsjuristen, es würde ein ähnlicher Vorgang
+                    wie im alten Österreich in der Bukowina am geeignetsten sein, wo wegen der
+                    Verschiedenheit der Kulturstufen innerhalb der nationalen so stark gemischten
+                    Bevölkerung nur solche Organe angestellt werden durften, die eine
+                    vorgeschriebene Prüfung für Gemeindesekretäre abgelegt hatten. Damit hat man die
+                    besten Erfahrungen gemacht. Wenn auch die Kulturstufe in den Alpenländern weit
+                    höher sei, hat er doch in seiner eigenen Praxis noch Bürgermeister kennen
+                    gelernt, die Analphabeten waren, sodaß immer wieder die Gendarmerie zu Aufgaben
+                    herangezogen werden mußte, die nicht zu ihrem Wirkungskreis gehörten.</p> 
+                <p> Da Prof.
+                    Dr. Kelsen die Frage aufwirft, ob es nicht möglich wäre, die Mandate nach
+                    Berufsgruppen aufzuteilen, erklärt der Vorsitzende, daß er eine andere
+                    Gliederung als in territoriale Wahlkörper für ungerecht und unzulässig hält.
+                    Abg. Dr. Seipel fragt, wer es bei einem Anschluß des Kärntner
+                    Abstimmungsgebietes vermeiden soll, daß sich nicht nationale Kurien bilden. Der
+                    Vorsitzende hält dies bei der Art der Kärntner Bevölkerung, die keinen
+                    Nationalitätenkampf kenne, und der Gewohnheit der windischen Bevölkerung, als
+                    Deutsche zu fühlen, für ausgeschlossen.</p> 
+                <p> Ein Antrag des Vorsitzenden auf
+                    Reassumierung des Art. 85 durch Aufnahme einer Bestimmung, daß die Wählerschaft
+                    in territoriale Wahlkörper gegliedert werden müsse und ihr Wahlrecht in
+                    Wahlkörpern ausüben müsse, von denen jeder ein geschlossenes Gebiet umfassen muß
+                    und worin die Mandate im Verhältnis zur Zahl der Bundesangehörigen, die darin
+                    wohnen, verhältnismäßig zu verteilen sei; eine Gliederung der Wählerschaft nach
+                    anderen Gruppen sei unzulässig, wird abgelehnt.<pb facs="#facs_8" n="8"
+                        xml:id="img_0008" break="yes"/> </p> 
+                <p> Hingegen wird Art. 97 e in folgender Fassung
+                    angenommen:</p> 
+                 <head>„Art. 97 e.</head> <p> (1) Die Organe der Gemeinde sind die
+                    Gemeindevertretung und das Gemeindeamt, die Organe des Bezirkes die
+                    Bezirksvertretung und das Bezirksamt, des Kreises die Kreisvertretung und das
+                    Kreisamt.</p> <p>  (2) Die Wahlen in alle Vertretungen finden auf Grund des gleichen
+                    geheimen, persönlichen und unmittelbaren Verhältniswahlrechtes aller
+                    Bundesangehörigen statt, die im Bereich der zu wählenden Vertretung ihren
+                    ordentlichen Wohnsitz haben. Die Erlassung der Wahlordnungen liegt der
+                    Landesgesetzgebung ob; in diesen Wahlordnungen dürfen die Bedingungen des
+                    aktiven und passiven Wahlrechtes nicht enger gezogen sein, als dies in der
+                    Wahlordnung zum Landtag der Fall ist; doch kann für die Wahlen in die Vertretung
+                    der Ortsgemeinden das Wahlrecht von der Dauer des Aufenthaltes in der Gemeinde
+                    bis zu einem Jahr abhängig gemacht werden.</p> 
+                <p> (3) Die Landesgesetzgebung kann
+                    vorschreiben, daß bei der Wahl von Vertretungen der Gemeinden, die weniger als
+                    500 Einwohner haben, an Stelle des Verhältniswahlrechtes das Mehrheitswahlrecht
+                    zu treten hat. In diesem Falle können die Wähler auch in andere als territoriale
+                    Wahlkörper eingeteilt werden. Die Wahlordnung kann bestimmen, daß die
+                    Wählerschaft ihr Wahlrecht in Wahlbezirken auszuüben hat, die geschlos sene
+                    Territorien sein müssen. Die Mandate sind auf die Wahlbezirke im Verhältnis der
+                    Zahl der Bundesangehörigen, die in ihnen nach dem Ergebnis der letzten
+                    Volkszählung ihren Wohnsitz hatten, zu verteilen. Eine Gliederung der
+                    Wählerschaft in andere Wahlkörper ist nicht zulässig.</p> 
+                <p> (4) Die Vertretungen
+                    können nach dem Grundsatze der Verhältniswahl aus ihrer Mitte für die einzelnen
+                        Zwei<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
+             ge der Verwaltung besondere Verwaltungsausschüsse bestellen, die, soweit
+                    bestimmte Berufs- oder Interessengruppen in Betracht kommen, auch noch durch die
+                    Heranziehung von Vertretern dieser Berufs- oder Interessengruppen erweitert
+                    werden können. </p> 
+                <p> (5) Die Leiter der Bezirksämter und der Kreisämter müssen
+                    rechtskundige Verwaltungsbeamte sein.“ </p> 
+                <p> Angenommen wird ferner:</p> 
+                <head>„Art. 97 f.</head>
+               <p>     Die Festsetzung der weiteren Grundsätze für die Organisation der allgemeinen
+                    staatlichen Verwaltung in den Ländern nach den Artikeln 97 a bis e ist Sache der
+                    Bundesgesetzgebung, ihre Ausführung liegt den Landesgesetzen ob. Welche
+                    Verwaltungsgeschäfte sachlich und instanzenmäßig den Vertretungen und
+                    Verwaltungsausschüssen sowie den Amtern zukommen, bestimmen die
+                    Bundesgesetzgebung und die Landesgesetzgebungen innerhalb ihrer verfassungsmäßigen
+                    Zuständigkeit. Hiebei ist jedoch den Gemeinden ein Wirkungskreis in erster
+                    Instanz in folgenden Angelegenheiten gewährleistet: (Nach den noch nicht
+                    abgeschlossenen Verhandlungen mit den anderen Staatsämtern von der Staatskanzlei
+                    ein konkreter Vorschlag zu erstatten). </p> 
+                <p> Für das Gemeindewahlrecht sind
+                    Übergangsbestimmungen vorzusehen, auf Grund deren die bisherigen Wahlen bis zum
+                    Ablaufe der Mandatsdauer Geltung haben. </p> 
+                <p> Die übrigen von der Staatskanzlei vorgelegten Artikelentwürfe werden nach Antrag
+                    des Abg. Dr. Seipel als Übergangsbestimmungen formuliert. In diesen Bestimmungen
+                    soll gesagt werden, daß an Stelle der Be<pb facs="#facs_10" n="10"
+                        xml:id="img_0010" break="yes"/></p>
+                <p>zirksvertretungen in Bezirksgemeinden der Gemeinderat tritt. Dr. Danneberg meint,
+                    daß diese Funktion nicht der Gemeinderat ausübe, sondern der Stadtrat, wogegen
+                    Abg. Clessin diesen Zustand als Ausnahme bezeichnet, in der Regel, so in Wien
+                    und Innsbruck, besorgt diese Agenden der Bürgermeister. Übrigens sei in allen
+                    Statuten vorgesehen, daß eigene Ausschüsse unter Vorsitz des Bürgermeisters
+                    bestellt werden können. Der Unterausschuß einigt sich auf folgende
+                    Übergangsbestimmungen:</p>
+       
+                    <head>Art. X. </head>
+                    <p>(1)Bis zur Einrichtung der allgemeinen
+                        staatlichen Verwaltung in den Ländern nach den Bestimmungen der Artikel 97 a
+                        bis e bleibt die dermalige Bezirksverwaltung mit der Maßgabe bestehen, daß
+                        im Bereiche jeder Bezirkshauptmannschaft für jene Verwaltungszweige, für die
+                        nicht besondere Einrichtungen der Selbstverwaltung bestehen, eine
+                        Bezirksvertretung gewählt wird.</p>
+                    <p>(2) In den Städten mit eigenem Statut
+                        übernimmt die Gemeindevertretung zugleich die Aufgaben der
+                        Bezirksvertretung. Diese Aufgaben können einem besonderen Ausschuß der
+                        Gemeindevertretung übertragen werden.</p>
+                    <p>(3) In den Bereichen der
+                        Bezirkshauptmannschaften wird die Wahl auf Grund des gleichen, geheimen,
+                        persönlichen und unmittelbaren Wahlrechtes aller Bundesangehörigen
+                        durchgeführt, die im Bereiche der Bezirkshauptmannschaft ihren ordentlichen
+                        Wohnsitz haben. Die Wahl ist im Bereiche jeder Bezirkshauptmannschaft
+                        gerichtsbezirksweise vorzunehmen; die Anzahl der Mandate der
+                        Bezirksvertretungen wird auf die Gerichtsbezirke nach dem Verhältnis ihrer
+                        Einwohnerzahl aufgeteilt. Die Bestimmungen des Artikels 97 e Absatz 2,
+                        finden sinngemäße Anwendung. </p>
+
+                    <p>(4) In die Bezirksvertretung sind nur
+                            Personen<pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
+                        wählbar, die im Bereiche der Bezirkshauptmannschaft ihren ordentlichen
+                        Wohnsitz haben und zum Landtage wählbar sind.</p>
+                    <p>(5)Die näheren Bestimmungen der
+                        Durchführung dieser Wahlen werden von der Landesgesetzgebung getroffen.</p>
+               
+                    <head>Art. y. </head>
+                    <p>Die Festsetzung der weiteren Grundsätze für die
+                        vorläufige Ausgestaltung der dermaligen Bezirksverwaltung nach Art. X ist
+                        Sache der Bundesgesetzgebung; ihre Ausführung liegt den Landesgesetzen ob. </p> 
+                    <p> 
+                        Dr. Danneberg schlägt vor, die Übergangsbestimmungen als 8. Abschnitt
+                        anzugliedern. Sektionsrat Dr. Mannlicher hält jedoch zwei Wege für möglich.
+                        Entweder eine Art Junktimgesetz, das den Vorteil hätte, daß die Verfassung
+                        in späterer Zeit nicht mit den Übergangsbestimmungen belastet bleibt oder
+                        Aufnahme in die Verfassung selbst. Prof. Dr. Kelsen meint, daß bei
+                        Weglassung der Grund- und Freiheitsrechte die Verfassung nicht vollständig
+                        sei, daß also die Aufnahme von Übergangsbestimmungen wenig bedeute. Der
+                        Vorsitzende erklärt abschließend, in die Verfassung sei ein Artikel
+                        aufzunehmen, daß die Übergangsbestimmungen gleichzeitig in Kraft treten,
+                        dies sei um so nötiger, da viele Bestimmungen jahrelang in Kraft bleiben
+                        werden. Die nächste Sitzung findet Dienstag den 31. August 3 Uhr nachmittags
+                            statt.<pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"
+                        /></p>
+                    <p> Berichtigungen: Durch ein Versehen bei der Leinschrift des Protololie der
+                        12. Sitzung wurden Artikel 97. e, Abe.2 und 3 unrichtig wiedergegeben; sie
+                        wurden in folgenden Cortlaat beschlossen: </p>
+                    <p> „(2) Die lahlen in alle
+                        Vertretungen finden auf Crund des gleichen, geheinen, jereönlichen und
+                        unnirtellaren Veriältrienahlrecatss aller bundesangeätrigen stabt, die in
+                        dereich der zu nänlendee Vertretung inren ordentlienen dansitz dabeu. Die
+                        erlassung der lantordnungen liegt der landesgesetzgebung ob; in diesen
+                        Tahlordnungen dürfen die Bedingungen des aktiven und jassiven lanlrechtes
+                        nieat eager gezogen sein, als dies in der Nanlordnung zum Landtag der Fall
+                        ist; doch kann für die fahlen in die Vertretung der Ortegeneinden das
+                        venlrecht von der Nauer des Aufenthaltes in der Geneinde bis zu einem Jahr
+                        abgängig genacht werden. Die Mahlordnung kann bestimmen, dass die
+                        wänlerschaft ihr wehlrecat in vaalbezirken auszuüben dat, die geschlossene
+                        Territorien sein wiesen. Die landate sind auf die sahlbezirke in Verwältnis
+                        der Zahl der sundesangehörigen, die in ihnen nach den Ergebnis der letzten
+                        Volkszänlung inren Lohnsitz natten, zu verteilen. Eine Fliederung der
+                        ränlerscaaft in andere lanlkörper ist nicht zulässig. </p>
+                    <p>(3) Die Landesgesetzgebung kann
+                        vorschreiben, dass bei der Wahl von Vertretungen der Geneinden, die weniger
+                        als od tinmonner haben, anstelle des Verhältnismahlrecntes das
+                        Menrneitsmahlrecht zu tresen. nat. In diesen Falle können die ähler auch in
+                        andere als territoriale Tehlkörper eingeteilt werden. Die Mandate müssen
+                        jedoch auf diese nahlkörper nach den Veraältnis der ahlberechtigten verteilt
+                        werden.“</p>
+                    <p> durch ein weiteres Ferschen ist bei der endgiltigen fassung des
+                        Artiksls 13 der letzte Absatz auen in der liener Zeitung entfallen; dieser
+                        lautet: „(6) Die wänder sind in lereiche des Gesetzgebungsrechtes befugt,
+                        die zur Regelung des Oegenstandes erforderlichen Bestimmungen auch auf dem
+                        bebiete des Straf- und Zixilpecates zu treffen.“</p>
+             
+            </div>
+        </body>
     </text>
 </TEI>
