@@ -103,8 +103,9 @@
                 <date notBefore-iso="1920-08-31" notAfter-iso="1920-08-31"> 31. August 1920 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="created">
+        <revisionDesc status="structured">
             <change when="2025-02-01" who="#cfh">document automatically created</change>
+            <change when="2025-02-05" who="#m_huber">Elias: Strukturierung abgeschlossen</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -233,57 +234,70 @@
                     aufmerksam, die Schwierigkeiten in der Handhabung hervorzurufen geeignet wären.
                     Im Sinne seiner Anregungen werden folgende Änderungen vorgenommen:</p>
                 <p> In Art.
-                    4 1. Abs.: (1) Für jedes Land besteht eine Landesbürgerschaft. 3. Abs.: (3)
-                    Mit der Landesbürgerschaft (gestrichen die Worte: „dem Erwerb' In Art. 19245):
+                    4 1. Abs.: (1) Für jedes Land besteht eine Landesbürgerschaft.</p>
+                <p> 3. Abs.: (3)
+                    Mit der Landesbürgerschaft (gestrichen die Worte: „dem Erwerb") </p>
+                <p> In Art. 19:
                     wird das Wort „direkt“ durch „unmittelbar“ ersetzt, ferner werden Stichtage für
                     die Erreichung des vorgeschriebenen Alters bei aktivem und passivem Wahlrecht
                     festgesetzt; Abs. 1 lautet daher: (1) Der Nationalrat wird vom Bundesvolk auf
                     Grund des gleichen, unmittelbaren, geheimen und persönlichen Wahlrechtes der
                     Männer und Frauen, die vor dem 1. Jänner des Jahres der Wahl das 20. Lebensjahr
-                    überschritten hatten, nach den Grundsätzen der Verhältniswahl gewählt“. Abs. 3:
-                    „(3) Wählbar ist daher jeder Wahlberechtigte, der vor dem 1. Jänner des Jahres
-                    der Wahl das 24. Lebensjahr überschritten hat. Weitere Anregungen zu Änderungen
-                    gibt sodann auf Einladung des Vorsitzenden Prof. Dr. Kelsen. Art. 31, Abs. 2
+                    überschritten hatten, nach den Grundsätzen der Verhältniswahl gewählt“. </p> 
+                <p> Abs. 3=
+                    (3) Wählbar ist daher jeder Wahlberechtigte, der vor dem 1. Jänner des Jahres
+                    der Wahl das 24. Lebensjahr überschritten hat. </p> 
+                <p> Weitere Anregungen zu Änderungen
+                    gibt sodann auf Einladung des Vorsitzenden Prof. Dr. Kelsen. </p> 
+                <p> Art. 31, Abs. 2
                     erhält folgenden Wortlaut: „(2) Ein Verfassungsgesetz kann jedoch nur in
                     Anwesenheit von mindestens der Hälfte aller Mitglieder und mit einer Mehrheit
-                    von zwei Dritteln aller abgegebenen Stimmen beschlossen werden“ 246) Die Annahme
+                    von zwei Dritteln aller abgegebenen Stimmen beschlossen werden“.</p> 
+                <p> Die Annahme
                     dieser Formulierung wird aus dem Grund empfohlen, weil nach der Legaldefinition
                     des Art. 31 alle Gesetze Verfassungsgesetze sind, die mit zwei Dritteln der
                     abgegebenen Stimmen und mit erhöhtem Quorum beschlos<pb facs="#facs_5" n="5"
-                        xml:id="img_0005" break="yes"/>sen werden. Der Vorsitzende bemerkt
+                        xml:id="img_0005" break="yes"/>sen werden.</p> 
+                <p> Der Vorsitzende bemerkt
                     gelegentlich der anschließenden Besprechung, daß in die Übergangsbestimmungen
                     ein Artikel aufzunehmen sein wird, der besagt, welche Gesetze außer Wirksamkeit
                     gesetzt werden. Auf seinen Antrag wird ferner zur Klarstellung, welcher
                     Staatsvertrag mit erhöhtem Quorum und mit qualifizierter Mehrheit genehmigt
-                    werden müsse, Art. 42 a, Abs. 2 folgendermaßen ergänzt 247) „(2) Auf Beschlüsse
+                    werden müsse, Art. 42 a, Abs. 2 folgendermaßen ergänzt: </p> 
+                <p> (2) Auf Beschlüsse
                     des Nationalrates über die Genehmigung von Staatsverträgen finden die
                     Bestimmungen des Art. 38, Abs. 1—4 und wenn durch den Staatsvertrag ein
                     Verfassungsgesetz geändert wird, die Bestimmungen des Art. 31, Abs. 2, sinngemäß
                     Anwendung.“ Im Abs. 1 dieses Artikels wird auf Antrag Dr. Seipels
                     „gesetzesändernder“ in „gesetzändernden“ berichtigt. Im Sinne einer Anregung des
                     Min. Rates Dr. Froehlich wird ferner in Art. 61 a der bisherige Abs. 2 an erste
-                    Stelle, der Abs. 1 an zweite Stelle gerückt. Prof. Kelsen schlägt vor die
+                    Stelle, der Abs. 1 an zweite Stelle gerückt. </p> 
+                <p> Prof. Kelsen schlägt vor die
                     Verfassung nicht in „Abschnitte“ einzuteilen, sondern an Stelle dieses Wortes
-                    die Bezeichnung „Hauptstücke 244) Vgl. S. 380 und Art. 6 B.-VG. 245) Vgl. S. 388
-                    und Art. 26 B.-VG. 246) Vgl. S. 391 und Art. 44 Abs. 1 B.-VG. 247) Vgl. S. 393
-                    und Art. 50 Abs. 2 B.-VG. Protokolle des Unterausschusses 416 zu wählen, was der
+                    die Bezeichnung „Hauptstücke" zu wählen, was der
                     Unterausschuß beschließt. Eine Teilung des sehr langen 1. Hauptstückes in 3
                     Abschnitte wird wegen Schwierigkeit der Durchführung abgelehnt. Hingegen wird
-                    der 3. Abs. des Art. 2 wie folgt geändert „(3) Das Burgenland wird als
+                    der 3. Abs. des Art. 2 wie folgt geändert: </p> 
+                <p> „(3) Das Burgenland wird als
                     selbständiges und gleichberechtigtes Land in den Bund aufgenommen, sobald es
                     seinen Willen dazu ausgedrückt hat“ 248) In Art. 3, Abs. 2 wird das wiederholte
-                    Wort „eine“ vor „Änderung“ in der zweiten Zeile gestrichen. Einer Anregung, in
+                    Wort „eine“ vor „Änderung“ in der zweiten Zeile gestrichen. </p> 
+                <p> Einer Anregung, in
                     Art. 3 b die Feststellung, daß der Sitz der obersten Bundesorgane Wien ist, zu
                     streichen, da der Sitz bei den einzelnen Einrichtungen angegeben sei, wurde
                     keine Folge gegeben, da diese Anerkennung der beson<pb facs="#facs_6" n="6"
-                        xml:id="img_0006" break="yes"/>5</p>
-                <p>deren Stellung für Wien von Wert ist, ebenso bleibt ein Antrag auf Setzung des
+                        xml:id="img_0006" break="yes"/>
+              deren Stellung für Wien von Wert ist, ebenso bleibt ein Antrag auf Setzung des
                     bestimmten Artikels vor „auswärtige Angelegenheiten“ in Punkt 2 des Art. 10
-                    unberücksichtigt. Art. 9 wird gestrichen 242), da Art. 14f250) an geeigneter
-                    Stelle die gleiche Bestimmung enthält. Ferner wird im Schlußsatz des Art. 13 a
+                    unberücksichtigt. </p> 
+                <p> Art. 9 wird gestrichen, da Art. 14f an geeigneter
+                    Stelle die gleiche Bestimmung enthält.</p> 
+                <p> Ferner wird im Schlußsatz des Art. 13 a
                     Abs. 2 zur Erläuterung des Ausdruckes „unmittelbare Bundesverwaltung“ auf die
-                    erläuternde Stelle in Art. 92 verwiesen 251). Gestrichen wird in Abs. 5 des Art.
-                    13 die zweite Zeile „zur Gänze oder nur zur Regelung der Grundsätze.“ In Abs. 5
+                    erläuternde Stelle in Art. 92 verwiesen. </p> 
+                <p> Gestrichen wird in Abs. 5 des Art.
+                    13 die zweite Zeile „zur Gänze oder nur zur Regelung der Grundsätze.“</p> 
+                <p> In Abs. 5
                     des Art. 13 findet Prof. Dr. Kelsen die Interpretation des Wortes „wahrzunehmen“
                     äußerst schwierig. Min. Rat Dr. Froehlich meint, daß die Erklärung einem
                     Organisationsgesetz zu überlassen wäre. Die vorliegende Fassung sei in Linz
@@ -298,28 +312,30 @@
                     ist. Vielleicht wäre nach Meinung Prof. Dr. Kelsens das mildere „sich von der
                     Durchführung zu überzeugen“ zu wählen. Der Vorsitzende meint jedoch, das hieße
                     nur beobachten, während „überwachen“ das Recht gibt, auch Fragen zu stellen an
-                    die Landesverwaltung. 248) Diese Bestimmung wurde durch Beschluß der konst. NV.
-                    ausgeschieden; vgl. S. 501, Anm. 1. 240) Vgl. S. 381. 250) Vgl. S. 387. 251)
-                    Vgl. Art. 102 B.-VG. 417 13. Sitzung Bei der Abstimmung wird die Änderung des
-                    Wortes „wahrnehmen“ in „überwachen“ abgelehnt. Bei Art. 14 b 252) hält es Prof.
-                    Dr. Kelsen für zweifelhaft, ob die Staatssekretäre nach ihrer staatsrechtli</p>
-                <p><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>chen Stellung als
+                    die Landesverwaltung. Bei der Abstimmung wird die Änderung des
+                    Wortes „wahrnehmen“ in „überwachen“ abgelehnt. </p> 
+                <p> Bei Art. 14 b hält es Prof.
+                    Dr. Kelsen für zweifelhaft, ob die Staatssekretäre nach ihrer staatsrechtli
+              <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>chen Stellung als
                     Volksbeauftragte bezeichnet werden können. Der Vorsitzende stellt fest, daß die
                     Ministerverantwortlichkeit nicht zum Wesen des Volksbeauftragten gehört, wohl
                     aber ist er vom Volk eingesetzt und zählt zu den gewählten Organen wie auch z.
                     B. die Leiter der Kriegsgefangenenkommission, die Organe zur Kontrolle der
                     Liquidation. Der Unterausschuß lehnt alle Abänderungsanträge ab. Die Absätze 4
-                    und 5 des Art. 14 d 253) hält Prof. Dr. Kelsen für eine Belastung der
+                    und 5 des Art. 14 d hält Prof. Dr. Kelsen für eine Belastung der
                     Verfassung; ihr Inhalt gehört eher in ein Organisationsgesetz. Der Vorsitzende
                     warnt jedoch vor einer Änderung wegen der Beunruhigung die in den Kreisen der
-                    Beamtenschaft entstünde. Der Ausdruck öffentliche Ordnung, Ruhe und Sicherheit
+                    Beamtenschaft entstünde.</p> 
+                <p> Der Ausdruck öffentliche Ordnung, Ruhe und Sicherheit
                     wird, obwohl gleichlautend im Gendarmeriegesetz enthalten, als Pleonasmus in den
                     Absätzen 1, 3 und 7 des Art. 14e abgeändert in „öffentliche Ordnung und
-                    Sicherheit“ 254) Zu Abs. 4 des Art. 14e bemerkt der Vorsitzende, daß der Vorgang
+                    Sicherheit“.</p> 
+                <p> Zu Abs. 4 des Art. 14e bemerkt der Vorsitzende, daß der Vorgang
                     der wäre, daß der Bundesminister des Inneren verfügen könnte, die
                     Landesregierung in Steiermark hätte Niederösterreich 100 Gendarmen zur Verfügung
                     zu stellen. Das weitere Verfügungsrecht hätte sodann als einzige Stelle die
-                    niederösterreichische Landesregierung. Einer Anregung Prof. Dr. Kelsens, den
+                    niederösterreichische Landesregierung. </p> 
+                <p> Einer Anregung Prof. Dr. Kelsens, den
                     sehr langen Art. 14e zu teilen, wird Folge gegeben und die Absätze 1 bis
                     einschließlich 6 als Art. 14e gelassen, Abs. 7 jedoch als eigener Artikel
                     einstweilen mit 14 ee bezeichnet; in 14 g wird die Ungleichartigkeit der
@@ -328,13 +344,12 @@
                     Funktionären“ gesprochen 255). In Art. 16 wird ein Druckfehler berichtigt, es
                     soll heißen: in einen anderen Ort. Weiters wird Art. 20, Abs. 2 folgendermaßen
                     stilisiert: „Der neugewählte Nationalrat ist vom Bundespräsidenten innerhalb 30
-                    Tage nach der Wahl einzuberufen“ 256) Bei Art. 26 25*) wird zwar die angeregte
+                    Tage nach der Wahl einzuberufen“.</p> 
+                <p> Bei Art. 26 wird zwar die angeregte
                     Teilung unterlas<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>sen, im
                     8. Abs. jedoch anstatt „für dessen Beschlußfassung“ gesetzt: „für seine
-                    Beschlußfassung“. Ferner wird in Art. 27, Abs. 1 geändert wie folgt: 258 252)
-                    Vgl. Art. 19 B.-VG. 253) Vgl. Art. 21 B.-VG. 254) Art. 10 Abs. 1 Z. 7 B.-VG.
-                    255) Vgl. S. 367. 256) Art. 27 B.-VG. 257) Vgl. S. 389. 258) Vgl. S. 390.
-                    Protokolle des Unterausschusses 418 „(1) Im Vorsitz des Bundesrates wechseln die
+                    Beschlußfassung“. Ferner wird in Art. 27, Abs. 1 geändert wie folgt:</p> 
+                <p> „(1) Im Vorsitz des Bundesrates wechseln die
                     Länder halbjährlich in alphabetischer Reihenfolge“. In Absatz 4 hat es zu lauten
                     „durch einen Beschluß, der“. Neu eingeschaltet, wird ein 3. Abs. folgenden
                     Inhaltes: (3) Der Bundesrat wird von seinem Vorsitzenden an den Sitz des
@@ -343,13 +358,16 @@
                     Bundesregierung es verlangt“ 259), denn es wäre denkbar, daß im Falle eines
                     Konfliktes zwischen dem Bund und einem Land, der Vorsitzende Vertreter dieses
                     Landes im Bundesrat aus Obstruktion die Einberufung verzögert; der bisherige
-                    Abs. 3 ist als Abs. 4 anzugliedern. Hiezu bemerkt der Vorsitzende, daß in den
+                    Abs. 3 ist als Abs. 4 anzugliedern. </p> 
+                <p> Hiezu bemerkt der Vorsitzende, daß in den
                     Ubergangsbestimmungen dafür gesorgt werden müsse, wie und wann die erste
-                    Einberufung des Bundesrates zu erfolgen habe 260) In Art. 38 wird berichtigt
+                    Einberufung des Bundesrates zu erfolgen habe. </p> 
+                <p> In Art. 38 wird berichtigt
                     statt „der Bundesrechnungsabschlüsse“ die Einzahl „des
                     Bundesrechnungsabschlusses“ zu setzen. Überdies wird der 5. Abs. ausgestaltet
                     und ergänzt, namentlich, was die sofortige Verlautbarung der dort aufgezählten
-                    Beschlüsse betrifft, der Absatz erhält folgenden Wortlaut: „(5) Gegen Beschlüsse
+                    Beschlüsse betrifft, der Absatz erhält folgenden Wortlaut:</p> 
+                <p> „(5) Gegen Beschlüsse
                     des Nationalrates, die ein Gesetz über die Geschäftsführung des Nationalrates,
                     ein Gesetz über die Auflösung des Nationalrates, die Bewilligung des
                     Bundesvoranschlages und die Genehmigung des Rechnungsabschlusses, die Aufnahme
@@ -357,24 +375,29 @@
                     betreffen, kann der</p>
                 <p><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/></p>
                 <p>Bundesrat keinen Einspruch erheben. Diese Gesetzesbeschlüsse des Nationalrates
-                    sind ohne weiters zu beurkunden und kundzumachen“ 2ei) Entsprechend dieser
+                    sind ohne weiters zu beurkunden und kundzumachen“. </p> 
+                <p> Entsprechend dieser
                     Änderung wird in Art. 40 die Zitierung weggelassen. Er beginnt: „(1) Das
                     verfassungsmäßige Zustandekommen der Bundesgesetze wird durch die Unterschrift
-                    des Bundespräsidenten ...“. Desgleichen werden auch Art. 41 und 42 abgeändert.
-                    Art. 41: „Die Kundmachung der Bundesgesetze sowie der in Art. 42 d bezeichneten
-                    Staatsverträge.“262) der Bundesgesetze und der in Art. 42: „(1) Die Kundmachung
-                    “ 263). Art. 42 a bezeichneten Staatsverträge Zur Frage der Kundmachung von
+                    des Bundespräsidenten ...“. Desgleichen werden auch Art. 41 und 42 abgeändert.</p> 
+                <p> 
+                    Art. 41: „Die Kundmachung der Bundesgesetze sowie der in Art. 42a bezeichneten
+                    Staatsverträge.....“ </p> 
+                <p> Art. 42: „(1) Die Kundmachung der Bundesgesetze und der in Art. 42a bezeichneten Staatsverträge......".</p> 
+                <p> 
+                    Zur Frage der Kundmachung von
                     Staatsverträgen wird an eine Erläuterung des verstorbenen Staatssekretärs Paul
                     im Kabinettsrat erinnert, der ausführt, daß usuell gewisse Staatsverträge
                     kundgemacht werden, andere aber wegen ihres außerordentlichen Umfanges nicht. Im
-                    259) Art. 36 Abs. 3 B.-VG. 260) Vgl. § 21 V.-UG. 1920. 261) Vgl. Art. 42 Abs. 5
-                    B.-VG. 262) Vgl. Art. 48 B.-VG. 263) Vgl. Art. 49 B.-VG. 419 13. Sitzung Gesetz
-                    über das „Bundesgesetzblatt“ wird diesbezüglich das Erforderliche zu sagen sein
-                    264) In Art. 42 a wird im ersten Absatz „gesetzesändernde“ in „gesetzändernde“
+                    Gesetz
+                    über das „Bundesgesetzblatt“ wird diesbezüglich das Erforderliche zu sagen sein.
+                   </p> <p> In Art. 42 a wird im ersten Absatz „gesetzesändernde“ in „gesetzändernde“
                     berichtigt; im zweiten Absatz nach 4 eingeschaltet: „und, wenn durch
                     Staatsverträge ein Verfassungsgesetz geändert wird, die Bestimmungen des Art. 31
-                    Abs. 2 In Art. 42 b wird der 2. Abs. gestrichen, so daß die Bezifferung des 1.
-                    Absatzes entfällt und das Wort „Vorschlag“ in „Voranschlag“ richtiggestellt. Zur
+                    Abs. 2. </p> 
+                <p> In Art. 42 b wird der 2. Abs. gestrichen, so daß die Bezifferung des 1.
+                    Absatzes entfällt und das Wort „Vorschlag“ in „Voranschlag“ richtiggestellt. </p> 
+                <p> Zur
                     Vermeidung der Wiederholung des Wortes „Teilnahme“ wird Art. 46 wie folgt
                     stilisiert: „Die Mitglieder der Bundesregierung sowie die von ihnen entsendeten
                     Vertreter sind berechtigt, an allen Beratungen des Nationalrates, des
@@ -384,14 +407,17 @@
                 <p><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>In den Art. 57 und 59
                     wird an Stelle von „Regierungs- und Vollzugsgewalt“ nur von „Regierungsgewalt“
                     des Bundes gesprochen, ebenso in Art. 58, der nunmehr beginnt: „(1) Mit der
-                    Reigerungsgewalt des Bundes “ 266) sind.. Abs. 4 des Art. 54 wird als Abs. 1 in
+                    Reigerungsgewalt des Bundes sind....". </p> 
+                <p> Abs. 4 des Art. 54 wird als Abs. 1 in
                     den Art. 56 gerückt, der als Abs. 2 angeschlossen wird. Der neue Artikel 56
                     beginnt: „(1) Alle Akte des Bundespräsidenten erfolgen, soweit nicht
-                    verfassungsmäßig anderes “ 267) bestimmt ist, auf Vorschlag der
-                    Bundesregierung.. Geändert wird ferner Abs. 1 des Art. 62, der nunmehr lautet:
+                    verfassungsmäßig anderes “ bestimmt ist, auf Vorschlag der
+                    Bundesregierung. </p> 
+                <p> Geändert wird ferner Abs. 1 des Art. 62, der nunmehr lautet:
                     „(1) Versagt der Nationalrat der Bundesregierung oder einzelnen ihrer Mitglieder
                     durch ausdrückliche Entschließung das Vertrauen, so ist die Bundesregierung oder
-                    der betreffende Bundesminister des Amtes zu entheben“ 268) Eine längere
+                    der betreffende Bundesminister des Amtes zu entheben“. </p>
+                <p> Eine längere
                     Erröterung knüpft sich an die aufgeworfene Frage, ob nicht auch das Landesbudget
                     in Form eines Gesetzes der Bundesregierung vorgelegt werden müßte, ebenso wie
                     auch Entscheidungen der Landtage in anderen Angelegenheiten, die derzeit nur in
@@ -400,10 +426,7 @@
                     zufolge die Bundesregierung ein Einspruchsrecht haben müsse gegen Veräußerung
                     von Landesvermögen, wenn es die Reparationskommission fordert. Abg. Dr. Seipel
                     vertritt jedoch die Anschauung, daß in der Verfassung keine Rücksicht auf die
-                    Reparationskommission zu nehmen wäre, sondern nur 264) Vgl. § 2, Abs. 2, lit. b
-                    des BG. über das BGBI., BGBI. Nr. 33/1920 idgt. 265) Art. 75 B.-VG. 266) Art. 69
-                    B.-VG. 267) Art. 67 Abs. 1 B.-VG. 268) Vgl. S. 398 und Art. 74 Abs. 1 B.-VG.
-                    Protokolle des Unterausschusses 420 in den Übergangsbestimmungen. Dr. Aigner
+                    Reparationskommission zu nehmen wäre, sondern nur in den Übergangsbestimmungen. Dr. Aigner
                     erblickt in der geäußerten Absicht eine Einigung des Rechtes der Länder. Der
                     Vorsitzende hält dem entgegen, daß auch gegenwärtig die Regierung ein
                     Bewilligungsrecht in Anspruch nehme, da der Kaiser ein solches besaß und dessen
@@ -414,42 +437,48 @@
                     />vermögen Kredit gewähren, so daß Land um Land der „pénétration pacifique eines
                     anderen Staates unterliegt. Dennoch verspricht sich Dr. Seipel keine günstige
                     Wirkung einer bezüglichen Verfassungsbestimmung auf die Länder. In Bezug auf
-                    außenpolitische Dinge hat Art. 13 a genügend vorgesorgt 260). Abg. Clessin hält
+                    außenpolitische Dinge hat Art. 13 a genügend vorgesorgt. Abg. Clessin hält
                     die Befürchtungen des Vorsitzenden für wohl begründet, sieht aber eine weit
                     größere Gefahr für die Städte als für die Länder, da z. B. das Land Salzburg
                     weit weniger Liegenschaften als die Stadt besitzt. Da man aber keine gesetzliche
                     Handhabe gegenüber den Städten besitzt, könne man auch die Autonomie der Länder
                     nicht solcherart einschränken. Hierauf wird zu Art. 38 von Abg. Leuthner
-                    folgendes beantragt: „Die Bewilligung des Landesvoranschlages, die Genehmigung
+                    folgendes beantragt:</p>
+                <p> „Die Bewilligung des Landesvoranschlages, die Genehmigung
                     des Landesrechnungsabschlusses, die Aufnahme und Konvertierung von
                     Landesanleihen und die Verfügung über Landesvermögen hat in Gesetzesform zu
-                    erfolgen.“ Dieser Antrag wird abgelehnt und als Minderheitsbeschluß angemeldet.
-                    Im Sinne eines Beschlusses des Unterausschusses hat Art. 97 b 270)
-                    folgendermaßen zu beginnen: (1) Verwaltungssprengel und Selbstverwaltungskörper,
+                    erfolgen.“ Dieser Antrag wird abgelehnt und als Minderheitsbeschluß angemeldet.</p> 
+                <p> 
+                    Im Sinne eines Beschlusses des Unterausschusses hat Art. 97 b
+                    folgendermaßen zu beginnen: </p> 
+                <p> (1) Verwaltungssprengel und Selbstverwaltungskörper,
                     in welche sich die Länder gliedern, sind die Gemeinden (Ortsgemeinden), als
                     Gebietsgemeinden die Bezirke (Bezirksgemeinden) und in den größeren Ländern die
-                    Kreise (Kreisgemeinden)“. In Art. 97270a) wird das Wort „Gemeinden“ in
+                    Kreise (Kreisgemeinden)“. In Art. 97 wird das Wort „Gemeinden“ in
                     „Ortsgemeinden abgeändert. Auch wird im 3. Absatz der Wortlaut geändert; nach
                     dem Strichpunkt heißt es: „in den Ländern in denen Kreise gebildet werden, sind
                     sie ... usw.“. Bezüglich der von Prof. Dr. Kelsen angeregten Kürzung der sehr
                     ausführlichen Bestimmungen über das Gemeindewahlrecht, möchte Prof. Dr. Seipel
                     die Parteiberatungen abwarten. Im Sinne einer anderen Anregung Prof. Dr. Kelsens
                     stellt Abg. Leuthner den Antrag auf Einschaltung eines<pb facs="#facs_12" n="12"
-                        xml:id="img_0012" break="yes"/>11 </p>
+                        xml:id="img_0012" break="yes"/></p>
 
-                <head>Art. 150 a. </head>
+                <head>"Art. 150 a. </head>
                 <p>In den Angelegenheiten der Art. 149—150 kann der Verfassungsgerichtshof seine
-                    Zuständigkeit auch von amtswegen wahrnehmen.“ Obwohl Prof. Dr. Kelsen betont,
+                    Zuständigkeit auch von amtswegen wahrnehmen". Obwohl Prof. Dr. Kelsen betont,
                     daß der Verfassungsgerichtshof erst durch diese Bestimmung ein objektiver Wahrer
                     der Verfassung werden könnte, indem einer der ständigen Referenten mit der
                     Stellung eines Bundesanwaltes betraut werden könnte und ermächtigt wäre die
                     Verfassungsmäßigkeit der Bundes- und Landesgesetze und Verordnungen ständig zu
                     überprüfen. Doch wird dieser Antrag abgelehnt und als Minderheitsbeschluß
-                    angemeldet. In Art. 153 wird die Änderung des Wortes „politischen“ in
-                    „subjektiven“ beschlossen 271) Berichtigt wird ferner der Wortlaut des Art. 156;
+                    angemeldet. </p> 
+                <p> In Art. 153 wird die Änderung des Wortes „politischen“ in
+                    „subjektiven“ beschlossen. </p> 
+                <p> Berichtigt wird ferner der Wortlaut des Art. 156;
                     dieser lautet nunmehr: </p>
                 <p>„(1) Der Präsident des Verfassungsgerichtshofes steht im Range des
-                    Bundeskanzlers, der Vizepräsident im Range eines Bundesministers“ 272) Am
+                    Bundeskanzlers, der Vizepräsident im Range eines Bundesministers“. </p>
+                <p> Am
                     Schlusse der Sitzung gibt Prof. Dr. Seipel eine längere Darstellung über die
                     Forderungen der Ländervertreter, welche Punkte des Verfassungsentwurfes zu
                     ändern wären und bespricht die Minderheitsanträge der christlichsozialen Partei,
@@ -458,11 +487,13 @@
                     Verlesung, so einen Beschluß der Gemeinde St. Aegyd am Neuwalde, daß sie nach
                     Wien kommen will. Zuschriften von Vereinigungen für Eherechtsreform fordern eine
                     Festlegung des Rechtes bezüglich Ehedispens und der obligatorischen Zivilehe in
-                    der Verfassung. Das Stadtamt Rottenmann wendet sich an die Staatsregierung mit
+                    der Verfassung. </p> 
+                <p> Das Stadtamt Rottenmann wendet sich an die Staatsregierung mit
                     allen Mitteln den Anschluß an das Deutsche Reich</p>
                 <p><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>anzustreben und die
                     Gemeinde Furth im Bezirk Krems begrüßt den Beschluß gegen Verstaatlichung des
-                    Schulwesens. Schluß der Sitzung 7 Uhr abends.</p>
+                    Schulwesens. </p> 
+                <p> Schluß der Sitzung 7 Uhr abends.</p>
              
             </div>
         </body>
