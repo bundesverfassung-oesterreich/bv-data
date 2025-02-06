@@ -106,6 +106,7 @@
         <revisionDesc status="structured">
             <change when="2025-01-25" who="#cfh">document automatically created</change>
             <change when="2025-01-29" who="#m_huber">Elias: Text fertig strukturiert </change>
+            <change when="2025-02-06" who="#t_voegtlin">Gegengelesen</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -221,7 +222,7 @@
                 <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
                 <head> Protokoll der 11. Sitzung des Unterausschusses des Verfassungsausschusses vom
                     28.August 1920.</head>
-                <p>Beginn 10 Uhr voraittags.</p>
+                <p>Beginn 10 Uhr vormittags.</p>
                 <p> Anwesend:</p>
                 <list>
                     <item> Dr. Otto Bauer als Vorsitzender</item>
@@ -243,7 +244,7 @@
                     <item>Ministerialvizesekretär Dr. Kurt Frieberger als Schristführer</item>
                 </list>
                 <list>
-                    <item>Prof.Dr. Hans Kelsen als Experte des Verfassungsausschusses</item>
+                    <item>Prof. Dr. Hans Kelsen als Experte des Verfassungsausschusses</item>
                 </list>
                 <p>
                     <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>2.</p>
@@ -317,13 +318,12 @@
                     Diesen Anträgen und Anfragen entsprechend wird über Vorschlag des Vorsitzenden
                     und des Abgeordneten Dr. Seipel Artikel 14 d in folgender Fassung angenommen:</p>
             <quote>    
-               <head> „Art. 14 d.</head>     <p>(1) Das Dienstrecht — einschließlich des Besoldungssystems und des
-                    Disziplinarrechtes — wird für jene Organe des Bundes und der Länder, die
-                    behördliche Aufgaben zu besorgen haben, nach einheitlichen Grundsätzen durch
-                    Bundesgesetz geregelt. Hiebei wird insbesondere auch fest 359 11. Sitzung
-                    gesetzt, inwieweit bei der Regelung der Rechte und Pflichten dieser Organe
-                    unbeschadet der Diensthoheit des Bundes und der Länder Personalvertretungen
-                    teilzunehmen haben. </p>
+               <head> „Art. 14 d.</head>     <p>(1) Das Dienstrecht — einschließlich des Besoldungssystems und des Disziplinarrechtes — wird
+                        für jene Organe des Bundes und der Länder, die behördliche Aufgaben zu
+                        besorgen haben, nach einheitlichen Grundsätzen durch Bundesgesetz geregelt.
+                        Hiebei wird insbesondere auch festgesetzt, inwieweit bei der Regelung der
+                        Rechte und Pflichten dieser Organe unbeschadet der Diensthoheit des Bundes
+                        und der Länder Personalvertretungen teilzunehmen haben. </p>
                 <p>(2) Die Diensthoheit des Bundes gegenüber seinen Organen
                     wird von den Volksbeauftragten des Bundes, die Diensthoheit der Länder gegenüber
                     ihren Organen von den Volksbeauftragten der Länder ausgeübt.</p> 
@@ -347,49 +347,45 @@
                     Gendarmerie eingereiht. Artikel 14 f lautet: „Alle Behörden und Ämter im
                     Bundesgebiete sind im Rahmen ihres gesetzmäßigen Wirkungskreises zur
                     wechselseitigen Hilfeleistung verpflichtet“ </p>
-                <p> Der Unterausschuß berät sodann
-                    über die Schadenshaftung der öffentlichen Angestellten und der suppletorischen
-                    Ersatzpflicht des Bundes der Länder und der Gemeinden 187). Abgeordneter Clessin
-                    vertritt die Auffassung, daß auch für culpa levis zu haften wäre. Der
-                    Vorsitzende erklärt, daß dies eine Bestimmung von größter Tragweite wäre und
-                    unter Umständen der Staat mit schweren finanziellen Lasten für jede
-                    rechtsirrtümliche Entscheidung Schadenersatz leisten müßte. Zu erwägen sei auch,
-                    wer hafte, wenn ein Landesorgan in Angelegenheiten der mittelbaren
-                    Bundesverwaltung seine Pflicht verletzt. Sinngemaß hafte das Land, weil ihm
-                    culpa in eligendo zur Last falle. Viel schwieriger sei in Fällen zu entscheiden,
-                    in denen es sich um eine bewußte Rechtsverletzung im Auftrage des
+                <p> Der Unterausschuß berät sodann über die Schadenshaftung der öffentlichen
+                    Angestellten und der suppletorischen Ersatzpflicht des Bundes der Länder und der
+                    Gemeinden. Abgeordneter Clessin vertritt die Auffassung, daß auch für culpa
+                    levis zu haften wäre. Der Vorsitzende erklärt, daß dies eine Bestimmung von
+                    größter Tragweite wäre und unter Umständen der Staat mit schweren finanziellen
+                    Lasten für jede rechtsirrtümliche Entscheidung Schadenersatz leisten müßte. Zu
+                    erwägen sei auch, wer hafte, wenn ein Landesorgan in Angelegenheiten der
+                    mittelbaren Bundesverwaltung seine Pflicht verletzt. Sinngemaß hafte das Land,
+                    weil ihm culpa in eligendo zur Last falle. Viel schwieriger sei in Fällen zu
+                    entscheiden, in denen es sich um eine bewußte Rechtsverletzung im Auftrage des
                     Landeshauptmannes handle. Dann müßte die Stelle haften, die die Diensthoheit
                     ausübt.</p>
-                <p> Als Grundsatz wird festgestellt, daß eine Schadenshaftung nur für
-                    vorsätzliche, grobfahrlässige Rechtsverletzung zuzulassen sei und daß der 185)
-                    Dem Sinne nach Art. 21 B.-VG. 186) Dem Sinne nach Art. 22 B.-VG. 187) Art. 23
-                    B.-VG. handelt von der Staatshaftung. 360 Protokolle des Unterausschusses Staat
-                    subsidiär hafte. Ministerialrat Dr. Froehlich hebt den moralischen Zweck einer
-                    solchen Bestimmung hervor, die geeignet sein müsse, das
-                    Verantwortlichkeitsgefühl zu stärken. Nach den Erfahrungen bei vielen Prozessen,
-                    die die Finanzprokuratur zu führen hat, wird dies nicht erreicht, wenn der Staat
-                    allein in Betracht kommt, der Beamte aber nur subsidiär durch die
-                    Streitverkündung. Als Beispiel der heilsamen Wirkung und der vorbeugenden Natur
-                    von Vorschriften über die Schadenshaftung der Beamten erwähnt Sektionsrat Dr.
-                    Mannlicher Preußen, wo es sehr selten zur Erhebung solcher Klagen kommt. Die
-                    Staatskanzlei wird mit der Formulierung eines Gesetzartikels betraut. </p>
+                <p> Als Grundsatz wird festgestellt, daß eine Schadenshaftung nur für vorsätzliche,
+                    grobfahrlässige Rechtsverletzung zuzulassen sei und daß der Staat subsidiär
+                    hafte. Ministerialrat Dr. Froehlich hebt den moralischen Zweck einer solchen
+                    Bestimmung hervor, die geeignet sein müsse, das Verantwortlichkeitsgefühl zu
+                    stärken. Nach den Erfahrungen bei vielen Prozessen, die die Finanzprokuratur zu
+                    führen hat, wird dies nicht erreicht, wenn der Staat allein in Betracht kommt,
+                    der Beamte aber nur subsidiär durch die Streitverkündung. Als Beispiel der
+                    heilsamen Wirkung und der vorbeugenden Natur von Vorschriften über die
+                    Schadenshaftung der Beamten erwähnt Sektionsrat Dr. Mannlicher Preußen, wo es
+                    sehr selten zur Erhebung solcher Klagen kommt. Die Staatskanzlei wird mit der
+                    Formulierung eines Gesetzartikels betraut. </p>
                 <p><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/></p>
                 <p>Der Unterausschuß setzt die am Vortage abgebrochenen Beratungen fort und
                     behandelt den Abschnitt 3. Das Bundesheer </p> 
-                <p> Abgeordneter Clessin vertritt die
-                    Forderung seiner Partei nach Aufstellung eines Milizheeres 189). Das Berufsheer
-                    müsse derzeit auf Grund des Friedensvertrages gehalten werden. Österreich sei
-                    jedoch nicht verpflichtet, eine solche Bestimmung, wie sie Artikel 68 enthält,
-                    in seine Verfassung aufzunehmen und sich aus freien Willen zur Aufstellung des
-                    Berufsheeres zu verpflichten. Im Sinne seines Antrages wird Artikel 68 des
-                    Linzer Entwurfes gestrichen. Der Vorsitzende findet auch hiebei den folgenden
-                    Artikel unnötig, da diese Materie im Wehrgesetz geregelt sei. Ministerialrat Dr.
-                    Froehlich gibt jedoch zu bedenken, daß diese Fragen in den Artikeln über die
-                    Kompetenz nicht geregelt seien, und das Wehrgesetz durch das Gesetz derogiert
-                    würde. Auch Dr. Danneberg hält Artikel 69 für wesentlich. Ebenso müsse nach
-                    Anschauung Prof. Dr. Kelsen’s jede Verfassung das Verhältnis zwischen
-                    bürgerlicher und militärischer Gewalt klarstellen. Artikel 70 und 71 werden im
-                    Wortlaute des Linzer Entwurfes angenommen. </p>
+                <p> Abgeordneter Clessin vertritt die Forderung seiner Partei nach Aufstellung eines
+                    Milizheeres. Das Berufsheer müsse derzeit auf Grund des Friedensvertrages
+                    gehalten werden. Österreich sei jedoch nicht verpflichtet, eine solche
+                    Bestimmung, wie sie Artikel 68 enthält, in seine Verfassung aufzunehmen und sich
+                    aus freien Willen zur Aufstellung des Berufsheeres zu verpflichten. Im Sinne
+                    seines Antrages wird Artikel 68 des Linzer Entwurfes gestrichen. Der Vorsitzende
+                    findet auch hiebei den folgenden Artikel unnötig, da diese Materie im Wehrgesetz
+                    geregelt sei. Ministerialrat Dr. Froehlich gibt jedoch zu bedenken, daß diese
+                    Fragen in den Artikeln über die Kompetenz nicht geregelt seien, und das
+                    Wehrgesetz durch das Gesetz derogiert würde. Auch Dr. Danneberg hält Artikel 69
+                    für wesentlich. Ebenso müsse nach Anschauung Prof. Dr. Kelsen’s jede Verfassung
+                    das Verhältnis zwischen bürgerlicher und militärischer Gewalt klarstellen.
+                    Artikel 70 und 71 werden im Wortlaute des Linzer Entwurfes angenommen. </p>
                 <p> Abgeordneter Dr. Danneberg
                     wünscht im Sinne des Artikels 68 des sozialdemokratischen Entwurfes (904 d. B.)
                     das Recht der Heeresangehörigen zur ungeschmälerten Ausübung ihrer politischen
@@ -429,32 +425,30 @@
                     habe. Die kritischen Bemerkungen in den Ausführungen der Richtervereinigung
                     bezögen sich vorwiegend auf den Entwurf Dr. Renner-Dr. Mayr und wären im übrigen
                     nicht zu berücksichtigen. </p>
-                <p> Der Vorsitzende bemerkt hiezu, in einer Richtung
-                    herrsche Einigkeit, daß man der Regierung nicht vollkommene Freiheit lassen
-                    dürfe. Es gehe aber nicht an, daß die Richtervereinigung ausschließlich den
-                    Standpunkt vertrete, ihr Stand dürfe aus keinem anderen ergänzt werden. Dieser
-                    Auffassung steht die andere gegenüber, daß wie in der Schweiz das Volk
-                    entscheiden soll. Derzeit sei allerdings eine Wahl der Richter durch das Volk
-                        in<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
-              Österreich nicht möglich. Er bespricht die kritische Stellung, die seitens der
-                    Bevölkerung den Gerichten und namentlich dem Obersten Gerichtshofe gegenüber
-                    eingenommen wird. Man müsse auch den gewählten Faktoren ein Mitwirkungsrecht bei
-                    der Richterernennung sichern. Dann wäre das Gericht nicht ausschließlich
-                    Bundesorgan, sondern auch die Länder
-                    wären entsprechend dem förderalistischen Prinzip beteiligt. Da Abgeordneter Dr.
-                    Seipel gegen diesen Vorschlag wegen des Prinzips der Unabhängigkeit der Richter
-                    Bedenken äußert, meint der Vorsitzende, daß dem Worte „Unabhängigkeit der
-                    Richter“ in Österreich ein Sinn beigelegt werde, wie in keinem anderen Lande.
-                    Man könne darunter nicht verstehen, daß die Richter selbst die freiwerdenden
-                    Stellen besetzen, Abgeordneter Leuthner meint, daß nach Anschauung seiner Partei
-                    von Seite der Richter nicht zu befürchten sei, sie könnten als Werkzeuge der
-                    Regierung das Recht beugen, wohl aber müsse man in ihnen die Vertreter eines eng
-                    umgrenzten Klassenstandpunktes sehen. Abgeordneter Clessin widerspricht einer
-                    Anschauung des Vorsitzenden, daß die Fortbildung des Rechtes durch die
-                    Volksabstimmung vor sich gehe. Diese könne höchstens auf das Strafrecht Einfluß
-                    nehmen *). Hierauf wird prinzipiell entschieden, daß nicht die Fassung des
-                    Entwurfes Dr. Renner- Dr. Mayr sondern die des Linzer Entwurfes zugrunde zu
-                    legen sei.</p>
+                <p> Der Vorsitzende bemerkt hiezu, in einer Richtung herrsche Einigkeit, daß man der
+                    Regierung nicht vollkommene Freiheit lassen dürfe. Es gehe aber nicht an, daß
+                    die Richtervereinigung ausschließlich den Standpunkt vertrete, ihr Stand dürfe
+                    aus keinem anderen ergänzt werden. Dieser Auffassung steht die andere gegenüber,
+                    daß wie in der Schweiz das Volk entscheiden soll. Derzeit sei allerdings eine
+                    Wahl der Richter durch das Volk in<pb facs="#facs_9" n="9" xml:id="img_0009"
+                        break="yes"/> Österreich nicht möglich. Er bespricht die kritische Stellung,
+                    die seitens der Bevölkerung den Gerichten und namentlich dem Obersten
+                    Gerichtshofe gegenüber eingenommen wird. Man müsse auch den gewählten Faktoren
+                    ein Mitwirkungsrecht bei der Richterernennung sichern. Dann wäre das Gericht
+                    nicht ausschließlich Bundesorgan, sondern auch die Länder wären entsprechend dem
+                    förderalistischen Prinzip beteiligt. Da Abgeordneter Dr. Seipel gegen diesen
+                    Vorschlag wegen des Prinzips der Unabhängigkeit der Richter Bedenken äußert,
+                    meint der Vorsitzende, daß dem Worte „Unabhängigkeit der Richter“ in Österreich
+                    ein Sinn beigelegt werde, wie in keinem anderen Lande. Man könne darunter nicht
+                    verstehen, daß die Richter selbst die freiwerdenden Stellen besetzen,
+                    Abgeordneter Leuthner meint, daß nach Anschauung seiner Partei von Seite der
+                    Richter nicht zu befürchten sei, sie könnten als Werkzeuge der Regierung das
+                    Recht beugen, wohl aber müsse man in ihnen die Vertreter eines eng umgrenzten
+                    Klassenstandpunktes sehen. Abgeordneter Clessin widerspricht einer Anschauung
+                    des Vorsitzenden, daß die Fortbildung des Rechtes durch die Volksabstimmung vor
+                    sich gehe. Diese könne höchstens auf das Strafrecht Einfluß nehmen. Hierauf wird
+                    prinzipiell entschieden, daß nicht die Fassung des Entwurfes Dr. Renner- Dr.
+                    Mayr sondern die des Linzer Entwurfes zugrunde zu legen sei.</p>
                 <p>Die Sitzung wird um ½1 Uhr unterbrochen. </p>
                 <p> Bei Wiederaufnahme der
                     Verhandlungen um 2.50 Uhr nachmittags wird ein Artikel über die Schadenshaftung
@@ -470,13 +464,13 @@
                     ihrer Angestellten und Funktionäre erst dann, wenn und insoweit der Geschädigte
                     bei der Verfolgung eines Anspruches nicht den ihm zugesprochenen Schadenersatz
                     erlangen kann. </p> 
-                <p> (3) Die näheren Bestimmungen trifft ein Bundesgesetz“ 195)
-                    Erläuternd bemerkt Prof. Dr. Kelsen, daß das Schwergewicht in der Judikatur
-                    liegen werde und Sektionsrat Dr. Mannlicher daß unbedingte Voraussetzung feste
-                    Abgrenzung der Pflichten des Beamten sei. Hiezu wäre ein eigenes
-                    Geschäftsbehandlungsgesetz notwendig. Von diesem Gesetz erwartet der Vorsitzende
-                    die Geltendmachung des Grundsatzes, daß der entscheidende Beamte die
-                    Entscheidung auch zu fertigen habe.</p></quote>
+                <p> (3) Die näheren Bestimmungen trifft ein Bundesgesetz“ Erläuternd bemerkt Prof.
+                        Dr. Kelsen, daß das Schwergewicht in der Judikatur liegen werde und
+                        Sektionsrat Dr. Mannlicher daß unbedingte Voraussetzung feste Abgrenzung der
+                        Pflichten des Beamten sei. Hiezu wäre ein eigenes Geschäftsbehandlungsgesetz
+                        notwendig. Von diesem Gesetz erwartet der Vorsitzende die Geltendmachung des
+                        Grundsatzes, daß der entscheidende Beamte die Entscheidung auch zu fertigen
+                        habe.</p></quote>
                 <p> In Fortsetzung der vormittägigen Beratung
                     über den Abschnitt von der Gerichtsbarkeit des Bundes wird festgestellt, daß
                     Artikel 76 den Sinn hat, die Regierung sei an die Besetzungsvorschläge der
@@ -531,18 +525,14 @@
                     schweren Strafen bedrohten Verbrechen, die das Gesetz zu bezeichnen hat, sowie
                     bei allen politischen Verbrechen und Vergehen entscheiden Geschworene über die
                     Schuld des Angeklagten.</p> 
-                <p> (3) Im Strafverfahren gegen niedere Verbrechen und
-                    Vergehen nehmen Schöffen an der Rechtsprechung teil“ 199) Artikel 82 wird in der
-                    Linzer Fassung angenommen, nachdem der sozialdemokratische Antrag — Artikel 78,
-                    Absatz 2 (904 d. B.) —, demzufolge die Hälfte der Mitglieder des Obersten
-                    Gerichtshofes aus dem Kreise Rechtskundiger dem Präsidenten vom Bundestage
-                    vorzuschlagen wäre, abgelehnt wurde. </p> </quote>
+                <p> (3) Im Strafverfahren gegen niedere Verbrechen und Vergehen nehmen Schöffen an
+                        der Rechtsprechung teil“. </p> </quote>
                 <p> Artikel 83 wird in der Linzer Fassung
                     angenommen, ebenso die beiden ersten Absätze des Artikels 84, während der dritte
                     Absatz dieses Artikels wegen Abschaffung der dort erwähnten Kommissionen
                     gestrichen wird.</p> 
-                <p> Artikel 85 bis 87 sind bereits angenommen, der Artikel 88
-                    202) (Formulierung der Staatskanzlei).</p> 
+                <p> Artikel 85 bis 87 sind bereits angenommen, der Artikel 88 (Formulierung der
+                    Staatskanzlei).</p> 
             <quote>    <head>„Art. 88.</head><p> (1) Alle Gesetzesbeschlüsse der
                     Landtage sind unmittelbar nach erfolgter Beschlußfassung des Landtages und vor
                     ihrer Kundmachung vom Landeshauptmann der Bundesregierung oder dem zuständigen
@@ -616,17 +606,17 @@
                 <p> Absatz 2 wird neu hinzugefügt: „Für Angelegenheiten, in
                     denen die Beschwerde an den Verwaltungsgerichtshof zulässig ist, kann der
                     administrative Instanzenzug abgekürzt werden“. </p>
-                <p> Artikel 139 ermöglicht
-                    es der Bundesregierung auch in Angelegenheiten des freien Ermessens den
-                    Verwaltungsgerichtshof anzurufen, den Parteien jedoch nicht. Prof. Dr. Kelsen
-                    erwähnt, daß in einem Entwurfe eines Mitgliedes des Verfassungsgerichtshofes
-                    vorgeschlagen wird, bei den Landesregierungen Bundesanwälte zur Wahrung der
-                    Bundesinteressen aufzustellen. Der<pb facs="#facs_15" n="15" xml:id="img_0015"
-                        break="yes"/>Vorsitzende meint, daß der Bund keinen Einfluß auf die
-                    Landesregierungen habe. Könnten sie ständig contra legem entscheiden, weil es
-                    keine Rechtsmittel gibt *). Und der Bund hätte keine Handhabe, seine Organe zur
-                    Handhabung seiner Gesetze zu verhalten. Der Verwaltungsgerichtshof ist übrigens
-                    darüber hinweggegangen und hat auch in Ermessenssachen judiziert.</p> 
+                <p> Artikel 139 ermöglicht es der Bundesregierung auch in Angelegenheiten des freien
+                    Ermessens den Verwaltungsgerichtshof anzurufen, den Parteien jedoch nicht. Prof.
+                    Dr. Kelsen erwähnt, daß in einem Entwurfe eines Mitgliedes des
+                    Verfassungsgerichtshofes vorgeschlagen wird, bei den Landesregierungen
+                    Bundesanwälte zur Wahrung der Bundesinteressen aufzustellen. Der<pb
+                        facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>Vorsitzende meint, daß
+                    der Bund keinen Einfluß auf die Landesregierungen habe. Könnten sie ständig
+                    contra legem entscheiden, weil es keine Rechtsmittel gibt. Und der Bund hätte
+                    keine Handhabe, seine Organe zur Handhabung seiner Gesetze zu verhalten. Der
+                    Verwaltungsgerichtshof ist übrigens darüber hinweggegangen und hat auch in
+                    Ermessenssachen judiziert.</p> 
                 <p> Artikel 139.</p> 
                   <p>   (1) Der Verwaltungsgerichtshof hat in der Regel nur über Beschwerden der
                     Parteien zu erkennen.</p> 
@@ -700,20 +690,16 @@
                     bittet mit der Formulierung noch 1 bis 2 Tage zu warten, da ein Kreis seiner
                     Kollegen hier eine besondere Regelung wünscht. Vorläufig wird beschlossen,
                     hineinzunehmen „die verfassungsmäßig gewährleisteten politischen Rechte.“ </p> 
-                <p> 
-                    Bei Artikel 154 hebt Prof. Dr. Kelsen hervor, daß die Erhöhung der Autorität
+                <p> Bei Artikel 154 hebt Prof. Dr. Kelsen hervor, daß die Erhöhung der Autorität
                     durch den Bundespräsidenten nicht so groß sei wie in Deutschland, wo er über die
                     bewaffnete Macht verfügt. Um Durchführung der Exekution erklärt der Vorsitzende,
                     müsse eine Behörde oder ein Gericht ersucht werden. Fügt sich eine
                     Landesregierung nicht, so muß zuletzt der Landtag aufgefordert werden. Erwähnt
-                    wird noch, daß sich 213) Vgl. heute Art. 138, 139 und 140 B.-VG. 214) Art. 141
-                    B.-VG. 215) Art. 142 B.-VG. *) Der obige nicht ganz schlüssige Text entspricht
-                    der Originalfassung der Protokolle. 216) Art. 144 B.-VG. 11. Sitzung 369 auch
-                    ein Beamter, der sich durch die Bemessung seiner Bezüge beschwert erachtet, an
-                    das örtliche Kompetenzgericht am Sitze der Kasse, von der er seine Bezüge
-                    erhält, zu wenden hat. Hierauf wäre der Berichterstatter aufmerksam zu machen
-                    und entsprechendes in die Übergangsbestimmung aufzunehmen. Artikel 155 wird mit
-                    geringfügigen Änderungen angenommen; er lautet: </p>
+                    wird noch, daß sich auch ein Beamter, der sich durch die Bemessung seiner Bezüge
+                    beschwert erachtet, an das örtliche Kompetenzgericht am Sitze der Kasse, von der
+                    er seine Bezüge erhält, zu wenden hat. Hierauf wäre der Berichterstatter
+                    aufmerksam zu machen und entsprechendes in die Übergangsbestimmung aufzunehmen.
+                    Artikel 155 wird mit geringfügigen Änderungen angenommen; er lautet: </p>
                 <quote> <head>„Art. 155.</head> <p> (1) Der
                     Verfassungsgerichtshof hat seinen Sitz in Wien.</p> 
                 <p> (2) Er besteht aus einem
@@ -854,19 +840,20 @@
                 <p> Die
                     Nationalversammlung hat beschlossen: <pb facs="#facs_22" n="22" xml:id="img_0022"
                         break="yes"/></p>
-                <p> Die Durchführung der Verfassung wird nach Änsicht des
-                    Vorsitzenden, da auch Ministerialrat Dr. Froehlich betont, daß die
-                    Übergangsbestimmungen ein längeres Studium erfordern, welche der nächsten
-                    Nationalversammlung übertragen werden müssen *). Immerhin müßte nach Anschauung
-                    Prof. Dr. Kelsens ein Gesetz über die Einrichtung der Bundeszentralverwaltung
-                    vorgesehen werden. Dieses kann wie der Vorsitzende meint, bestimmen, daß bis zur
-                    endgiltigen Regelung die gegenwärtigen Staatsämter als Bundesministerien
-                    fortzuwirken haben; der weitere Arbeitsplan wäre: für Mittwoch hat der Präsident
-                    der Nationalversammlung die Vertreter der Parteien einberufen, etwa Ende der
-                    nächsten Woche oder Anfang der nächstnächsten dürfte irgendeine
-                    Parteivereinbarung zustande kommen, sodaß Ende der zweitnächsten Woche der Ausschuß zusammentreten könnte und der Entwurf Mitte September vor
-                    die Nationalversammlung käme. Die Staatskanzlei wird ersucht, den beschlossenen
-                    Entwurf so schnell als möglich in der „Wiener Zeitung“ zu veröffentlichen. </p>
+                <p> Die Durchführung der Verfassung wird nach Änsicht des Vorsitzenden, da auch
+                    Ministerialrat Dr. Froehlich betont, daß die Übergangsbestimmungen ein längeres
+                    Studium erfordern, welche der nächsten Nationalversammlung übertragen werden
+                    müssen. Immerhin müßte nach Anschauung Prof. Dr. Kelsens ein Gesetz über die
+                    Einrichtung der Bundeszentralverwaltung vorgesehen werden. Dieses kann wie der
+                    Vorsitzende meint, bestimmen, daß bis zur endgiltigen Regelung die gegenwärtigen
+                    Staatsämter als Bundesministerien fortzuwirken haben; der weitere Arbeitsplan
+                    wäre: für Mittwoch hat der Präsident der Nationalversammlung die Vertreter der
+                    Parteien einberufen, etwa Ende der nächsten Woche oder Anfang der nächstnächsten
+                    dürfte irgendeine Parteivereinbarung zustande kommen, sodaß Ende der
+                    zweitnächsten Woche der Ausschuß zusammentreten könnte und der Entwurf Mitte
+                    September vor die Nationalversammlung käme. Die Staatskanzlei wird ersucht, den
+                    beschlossenen Entwurf so schnell als möglich in der „Wiener Zeitung“ zu
+                    veröffentlichen. </p>
                 <p> 
                     Abgeordneter Fink stellt die Frage nach der Aufteilung der Finanzen.</p>
                 <p> Der
