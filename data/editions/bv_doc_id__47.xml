@@ -106,6 +106,7 @@
         <revisionDesc status="structured">
             <change when="2025-02-01" who="#cfh">document automatically created</change>
             <change when="2025-02-03" who="#m_huber">Elias: Text strukturiert </change>
+            <change when="2025-02-07" who="#t_voegtlin">Gegenlesen beendet</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -206,10 +207,9 @@
                     Bestimmungen werden durch die Dienstvorschrift getroffen“. </p>
                 <p> In Art. 42b wird
                     die Frist für die Vorlage des Budgets mit 8 Wochen festgesetzt.</p>
-                <p> In Art. 46
-                    ist im letzten Absatze nach dem Worte Bundesversammlung einzuschalten: „sowie
-                    deren Ausschüsse“2si) Sodann wird Abschnitt 5 „Von den Gemeinden“ durchberaten
-                    232); die Überschrift wird beschlossen, desgleichen</p>
+                <p> In Art. 46 ist im letzten Absatze nach dem Worte Bundesversammlung
+                    einzuschalten: „sowie deren Ausschüsse“ Sodann wird Abschnitt 5 „Von den
+                    Gemeinden“ durchberaten; die Überschrift wird beschlossen, desgleichen</p>
                 <head>„Art. 97 b.</head><p> Die allgemeine
                     staatliche Verwaltung in den Ländern wird gemäß den nachfolgenden Bestimmungen
                     nach dem Grundsatze der Selbstverwaltung eingerichtet“. </p>
@@ -228,11 +228,10 @@
                 <p> Wo Kreise bestehen, wäre
                     der Bezirk nur als Expositur anzusehen, doch könne in einzeln festzusetzenden
                     Angelegenheiten der Rechtszug vom Bezirk direkt an das Land gehen.</p>
-                <p> In längerer
-                    Debatte wird unter Berufung auf den in der 7. Sitzung vom 20. August (Protokoll
-                    Seite 14) 235) gefaßten prinzipiellen Beschluß besprochen, inwiefern eine Stadt
-                    zwischen Kreis- oder Bezirksstadtgemeinde wählen wolle, in welchem Falle ihnen
-                    in der Verfassung nur ein Anspruch darauf zuerkannt werden soll. Der
+                <p> In längerer Debatte wird unter Berufung auf den in der 7. Sitzung vom 20. August
+                    (Protokoll Seite 14) gefaßten prinzipiellen Beschluß besprochen, inwiefern eine
+                    Stadt zwischen Kreis- oder Bezirksstadtgemeinde wählen wolle, in welchem Falle
+                    ihnen in der Verfassung nur ein Anspruch darauf zuerkannt werden soll. Der
                     Unterausschuß einigt sich auf folgenden Wortlaut: </p> 
                 <head>„Art. 97 c.</head>  <p>(1) Gemeinden mit
                     mehr als 15.000 Einwohnern sind auf ihren Antrag zu Bezirken
@@ -273,13 +272,12 @@
                     Gruppe und die Nichtsteuerzahler in einer zweiten Gruppe wählten. Die Mandate
                     seien auf beide Gruppen nach der Wählerzahl verteilt worden. In
                     Industriegemeinden hätte natürlich das Proporzwahlrecht zu gelten.</p>
-                <p> Der
-                    Vorsitzende gibt der gegenteiligen Änsicht Ausdruck und erwähnt, daß das Land
-                    Kärnten ohne Rücksicht auf die Verfassung vor ganz kurzer Zeit ein Wahlrecht mit
-                    Wahlkörpern eingeführt habe. Er machte bei dieser Erwähnung geltend, daß die
-                    Staatsregierung es verabsäumt habe, gegen dieses verfassungswidrige Vorgehen
-                    einzuschreiten. Nach seiner Überzeugung bedeute jede Schwächung eine
-                    Ungerechtigkeit. Dr. Danneberg</p>
+                <p> Der Vorsitzende gibt der gegenteiligen Ansicht Ausdruck und erwähnt, daß das
+                    Land Kärnten ohne Rücksicht auf die Verfassung vor ganz kurzer Zeit ein
+                    Wahlrecht mit Wahlkörpern eingeführt habe. Er machte bei dieser Erwähnung
+                    geltend, daß die Staatsregierung es verabsäumt habe, gegen dieses
+                    verfassungswidrige Vorgehen einzuschreiten. Nach seiner Überzeugung bedeute jede
+                    Schwächung eine Ungerechtigkeit. Dr. Danneberg</p>
                 <p>
                     <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
                 </p>
@@ -352,16 +350,16 @@
                     Wahlordnung zum Landtag der Fall ist; doch kann für die Wahlen in die Vertretung
                     der Ortsgemeinden das Wahlrecht von der Dauer des Aufenthaltes in der Gemeinde
                     bis zu einem Jahr abhängig gemacht werden.</p> 
-                <p> (3) Die Landesgesetzgebung kann
-                    vorschreiben, daß bei der Wahl von Vertretungen der Gemeinden, die weniger als
-                    500 Einwohner haben, an Stelle des Verhältniswahlrechtes das Mehrheitswahlrecht
-                    zu treten hat. In diesem Falle können die Wähler auch in andere als territoriale
-                    Wahlkörper eingeteilt werden. Die Wahlordnung kann bestimmen, daß die
-                    Wählerschaft ihr Wahlrecht in Wahlbezirken auszuüben hat, die geschlos sene
-                    Territorien sein müssen. Die Mandate sind auf die Wahlbezirke im Verhältnis der
-                    Zahl der Bundesangehörigen, die in ihnen nach dem Ergebnis der letzten
-                    Volkszählung ihren Wohnsitz hatten, zu verteilen. Eine Gliederung der
-                    Wählerschaft in andere Wahlkörper ist nicht zulässig.</p> 
+                <p> (3) Die Landesgesetzgebung kann vorschreiben, daß bei der Wahl von Vertretungen
+                    der Gemeinden, die weniger als 500 Einwohner haben, an Stelle des
+                    Verhältniswahlrechtes das Mehrheitswahlrecht zu treten hat. In diesem Falle
+                    können die Wähler auch in andere als territoriale Wahlkörper eingeteilt werden.
+                    Die Wahlordnung kann bestimmen, daß die Wählerschaft ihr Wahlrecht in
+                    Wahlbezirken auszuüben hat, die geschlossene Territorien sein müssen. Die
+                    Mandate sind auf die Wahlbezirke im Verhältnis der Zahl der Bundesangehörigen,
+                    die in ihnen nach dem Ergebnis der letzten Volkszählung ihren Wohnsitz hatten,
+                    zu verteilen. Eine Gliederung der Wählerschaft in andere Wahlkörper ist nicht
+                    zulässig.</p> 
                 <p> (4) Die Vertretungen
                     können nach dem Grundsatze der Verhältniswahl aus ihrer Mitte für die einzelnen
                         Zwei<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
@@ -399,12 +397,12 @@
                     Übergangsbestimmungen:</p>
        
                     <head>Art. X. </head>
-                    <p>(1)Bis zur Einrichtung der allgemeinen
-                        staatlichen Verwaltung in den Ländern nach den Bestimmungen der Artikel 97 a
-                        bis e bleibt die dermalige Bezirksverwaltung mit der Maßgabe bestehen, daß
-                        im Bereiche jeder Bezirkshauptmannschaft für jene Verwaltungszweige, für die
-                        nicht besondere Einrichtungen der Selbstverwaltung bestehen, eine
-                        Bezirksvertretung gewählt wird.</p>
+                    <p>(1) Bis zur Einrichtung der allgemeinen staatlichen Verwaltung in den Ländern
+                    nach den Bestimmungen der Artikel 97 a bis e bleibt die dermalige
+                    Bezirksverwaltung mit der Maßgabe bestehen, daß im Bereiche jeder
+                    Bezirkshauptmannschaft für jene Verwaltungszweige, für die nicht besondere
+                    Einrichtungen der Selbstverwaltung bestehen, eine Bezirksvertretung gewählt
+                    wird.</p>
                     <p>(2) In den Städten mit eigenem Statut
                         übernimmt die Gemeindevertretung zugleich die Aufgaben der
                         Bezirksvertretung. Diese Aufgaben können einem besonderen Ausschuß der
@@ -423,8 +421,8 @@
                             Personen<pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
                         wählbar, die im Bereiche der Bezirkshauptmannschaft ihren ordentlichen
                         Wohnsitz haben und zum Landtage wählbar sind.</p>
-                    <p>(5)Die näheren Bestimmungen der
-                        Durchführung dieser Wahlen werden von der Landesgesetzgebung getroffen.</p>
+                    <p>(5) Die näheren Bestimmungen der Durchführung dieser Wahlen werden von der
+                    Landesgesetzgebung getroffen.</p>
                
                     <head>Art. y. </head>
                     <p>Die Festsetzung der weiteren Grundsätze für die
@@ -444,36 +442,34 @@
                         werden. Die nächste Sitzung findet Dienstag den 31. August 3 Uhr nachmittags
                             statt.<pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"
                         /></p>
-                    <p> Berichtigungen: Durch ein Versehen bei der Leinschrift des Protololie der
-                        12. Sitzung wurden Artikel 97. e, Abe.2 und 3 unrichtig wiedergegeben; sie
-                        wurden in folgenden Cortlaat beschlossen: </p>
-                    <p> „(2) Die lahlen in alle
-                        Vertretungen finden auf Crund des gleichen, geheinen, jereönlichen und
-                        unnirtellaren Veriältrienahlrecatss aller bundesangeätrigen stabt, die in
-                        dereich der zu nänlendee Vertretung inren ordentlienen dansitz dabeu. Die
-                        erlassung der lantordnungen liegt der landesgesetzgebung ob; in diesen
-                        Tahlordnungen dürfen die Bedingungen des aktiven und jassiven lanlrechtes
-                        nieat eager gezogen sein, als dies in der Nanlordnung zum Landtag der Fall
-                        ist; doch kann für die fahlen in die Vertretung der Ortegeneinden das
-                        venlrecht von der Nauer des Aufenthaltes in der Geneinde bis zu einem Jahr
-                        abgängig genacht werden. Die Mahlordnung kann bestimmen, dass die
-                        wänlerschaft ihr wehlrecat in vaalbezirken auszuüben dat, die geschlossene
-                        Territorien sein wiesen. Die landate sind auf die sahlbezirke in Verwältnis
-                        der Zahl der sundesangehörigen, die in ihnen nach den Ergebnis der letzten
-                        Volkszänlung inren Lohnsitz natten, zu verteilen. Eine Fliederung der
-                        ränlerscaaft in andere lanlkörper ist nicht zulässig. </p>
-                    <p>(3) Die Landesgesetzgebung kann
-                        vorschreiben, dass bei der Wahl von Vertretungen der Geneinden, die weniger
-                        als od tinmonner haben, anstelle des Verhältnismahlrecntes das
-                        Menrneitsmahlrecht zu tresen. nat. In diesen Falle können die ähler auch in
-                        andere als territoriale Tehlkörper eingeteilt werden. Die Mandate müssen
-                        jedoch auf diese nahlkörper nach den Veraältnis der ahlberechtigten verteilt
-                        werden.“</p>
-                    <p> durch ein weiteres Ferschen ist bei der endgiltigen fassung des
-                        Artiksls 13 der letzte Absatz auen in der liener Zeitung entfallen; dieser
-                        lautet: „(6) Die wänder sind in lereiche des Gesetzgebungsrechtes befugt,
-                        die zur Regelung des Oegenstandes erforderlichen Bestimmungen auch auf dem
-                        bebiete des Straf- und Zixilpecates zu treffen.“</p>
+                    <p> Berichtigungen: Durch ein Versehen bei der Reinschrift des Protokolle der
+                    12. Sitzung wurden Artikel 97. e, Abs.2 und 3 unrichtig wiedergegeben; sie
+                    wurden in folgenden Wortlaut beschlossen: </p>
+                    <p> „(2) Die Wahlen in alle Vertretungen finden auf Grund des gleichen,
+                    geheimen, persönlichen und unmittelbaren Verhältniswahlrechtes aller
+                    Bundesangehörigen statt, die im Bereich der zu wählenden Vertretung ihren
+                    ordentlichen Wohnsitz haben. Die Erlassung der Wahlordnungen liegt der
+                    Landesgesetzgebung ob; in diesen Wahlordnungen dürfen die Bedingungen des
+                    aktiven und passiven Wahlrechtes nicht enger gezogen sein, als dies in der
+                    Wahlordnung zum Landtag der Fall ist; doch kann für die Wahlen in die Vertretung
+                    der Ortsgemeinden das Wahlrecht von der Dauer des Aufenthaltes in der Gemeinde
+                    bis zu einem Jahr abgängig gemacht werden. Die Wahlordnung kann bestimmen, dass
+                    die Wählerschaft ihr Wahlrecht in Wahlbezirken auszuüben hat, die geschlossene
+                    Territorien sein müssen. Die Mandate sind auf die Wahlbezirke im Verhältnis der
+                    Zahl der Bundesangehörigen, die in ihnen nach dem Ergebnis der letzten
+                    Volkszählung ihren Wohnsitz hatten, zu verteilen. Eine Gliederung der
+                    Wählerschaft in andere Wahlkörper ist nicht zulässig.“ </p>
+                    <p>(3) Die Landesgesetzgebung kann vorschreiben, dass bei der Wahl von
+                    Vertretungen der Geneinden, die weniger als 500 Einwohner haben, anstelle des
+                    Verhältniwahlrechtes das Mehrheitswahlrecht zu treten hat. In diesen Falle
+                    können die Wähler auch in andere als territoriale Wahlkörper eingeteilt werden.
+                    Die Mandate müssen jedoch auf diese Wahlkörper nach dem Verhältnis der
+                    wahlberechtigten verteilt werden.“</p>
+                    <p> Durch ein weiteres Versehen ist bei der endgültigen Fassung des Artikels 13
+                    der letzte Absatz auch in der Wiener Zeitung entfallen; dieser lautet: „(6) Die
+                    Länder sind im Bereiche des Gesetzgebungsrechtes befugt, die zur Regelung des
+                    Gegenstandes erforderlichen Bestimmungen auch auf dem Gebiete des Straf- und
+                    Zivilrechtes zu treffen.“</p>
              
             </div>
         </body>
