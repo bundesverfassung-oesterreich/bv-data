@@ -30,13 +30,11 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372"
-                        >Peter Andorfer </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X"
-                        >Carl Friedrich Haak </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -85,8 +83,8 @@
                         </msItem>
                     </msContents>
                     <physDesc>
-                        <objectDesc form="Lithographie"> </objectDesc>
-                        <handDesc> </handDesc>
+                        <objectDesc form="Lithographie"></objectDesc>
+                        <handDesc></handDesc>
                     </physDesc>
                     <history>
                         <origin notBefore-iso="1920-09-13" notAfter-iso="1920-09-13">13. September
@@ -109,50 +107,68 @@
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
-        <surface ulx="0" uly="0" lrx="3270" lry="5253" xml:id="facs_2">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0051/full/full/0/default.jpg"
-                width="3270px" height="5253px"/>
+        <surface ulx="0" uly="0" lrx="2998" lry="4846" xml:id="facs_2">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0051/full/full/0/default.jpg" width="2998px" height="4846px"/>
         </surface>
-        <surface ulx="0" uly="0" lrx="3268" lry="5239" xml:id="facs_3">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0052/full/full/0/default.jpg"
-                width="3268px" height="5239px"/>
+        <surface ulx="0" uly="0" lrx="2996" lry="4841" xml:id="facs_3">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0052/full/full/0/default.jpg" width="2996px" height="4841px"/>
         </surface>
-        <surface ulx="0" uly="0" lrx="3270" lry="5263" xml:id="facs_4">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0053/full/full/0/default.jpg"
-                width="3270px" height="5263px"/>
+        <surface ulx="0" uly="0" lrx="2990" lry="4814" xml:id="facs_4">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0053/full/full/0/default.jpg" width="2990px" height="4814px"/>
         </surface>
-        <surface ulx="0" uly="0" lrx="3257" lry="5232" xml:id="facs_5">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0054/full/full/0/default.jpg"
-                width="3257px" height="5232px"/>
+        <surface ulx="0" uly="0" lrx="2990" lry="4808" xml:id="facs_5">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0054/full/full/0/default.jpg" width="2990px" height="4808px"/>
         </surface>
-        <surface ulx="0" uly="0" lrx="3264" lry="5221" xml:id="facs_6">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0055/full/full/0/default.jpg"
-                width="3264px" height="5221px"/>
+        <surface ulx="0" uly="0" lrx="3022" lry="4837" xml:id="facs_6">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0055/full/full/0/default.jpg" width="3022px" height="4837px"/>
         </surface>
-        <surface ulx="0" uly="0" lrx="3261" lry="5218" xml:id="facs_7">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0056/full/full/0/default.jpg"
-                width="3261px" height="5218px"/>
+        <surface ulx="0" uly="0" lrx="2973" lry="4800" xml:id="facs_7">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0056/full/full/0/default.jpg" width="2973px" height="4800px"/>
         </surface>
-        <surface ulx="0" uly="0" lrx="3282" lry="5245" xml:id="facs_8">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0057/full/full/0/default.jpg"
-                width="3282px" height="5245px"/>
+        <surface ulx="0" uly="0" lrx="3039" lry="4881" xml:id="facs_8">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0057/full/full/0/default.jpg" width="3039px" height="4881px"/>
         </surface>
-        <surface ulx="0" uly="0" lrx="3273" lry="5218" xml:id="facs_9">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0058/full/full/0/default.jpg"
-                width="3273px" height="5218px"/>
+        <surface ulx="0" uly="0" lrx="3007" lry="4841" xml:id="facs_9">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0058/full/full/0/default.jpg" width="3007px" height="4841px"/>
         </surface>
-        <surface ulx="0" uly="0" lrx="3260" lry="5261" xml:id="facs_10">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0059/full/full/0/default.jpg"
-                width="3260px" height="5261px"/>
+        <surface ulx="0" uly="0" lrx="3004" lry="4883" xml:id="facs_10">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0059/full/full/0/default.jpg" width="3004px" height="4883px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3007" lry="4824" xml:id="facs_11">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0060/full/full/0/default.jpg" width="3007px" height="4824px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3037" lry="4899" xml:id="facs_12">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0061/full/full/0/default.jpg" width="3037px" height="4899px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3005" lry="4853" xml:id="facs_13">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0062/full/full/0/default.jpg" width="3005px" height="4853px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3015" lry="4861" xml:id="facs_14">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0063/full/full/0/default.jpg" width="3015px" height="4861px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2991" lry="4838" xml:id="facs_15">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0064/full/full/0/default.jpg" width="2991px" height="4838px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3000" lry="4794" xml:id="facs_16">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0065/full/full/0/default.jpg" width="3000px" height="4794px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3009" lry="4816" xml:id="facs_17">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0066/full/full/0/default.jpg" width="3009px" height="4816px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3023" lry="4807" xml:id="facs_18">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0067/full/full/0/default.jpg" width="3023px" height="4807px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3017" lry="4803" xml:id="facs_19">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0068/full/full/0/default.jpg" width="3017px" height="4803px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3029" lry="4860" xml:id="facs_20">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0069/full/full/0/default.jpg" width="3029px" height="4860px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3035" lry="4853" xml:id="facs_21">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0070/full/full/0/default.jpg" width="3035px" height="4853px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3013" lry="4810" xml:id="facs_22">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__49/files/images/IMG_0071/full/full/0/default.jpg" width="3013px" height="4810px"/>
         </surface>
     </facsimile>
     <text type="Sitzungsprotokoll">
@@ -192,7 +208,9 @@
                     <item>Prof. Dr. Hans Kelsen als Experte des Verfassungsausschusses. </item>
                 </list>
 
-                <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>Zu Beginn der
+                <p>
+                    <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
+Zu Beginn der
                     Verhandlungen entscheidet sich der Unterausschuß für eine artikelweise
                     Durchberatung des Verfassungsentwurfes unter Berücksichtigung der in den letzten
                     Tagen gefaßten Parteibeschlüsse, der Hinpritätsvoten und der von der
@@ -220,8 +238,8 @@
                     Danneberg mitteilt, der Wiener Gemeinderat über die Angelegenheit am kommenden
                     Freitag eine Plenarsitzung abhalten.</p>
                 <p> Auf Antrag des Letzteren erhält Absatz 2 des Artikels 3 a folgende Fassung: „(2)
-                    Innerhalb der Grenzen des Bundes<pb facs="#facs_4" n="4" xml:id="img_0004"
-                        break="yes"/> dürfen keinerlei Zwischenzolllinien oder sonstige
+                    Innerhalb der Grenzen des Bundes<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
+ dürfen keinerlei Zwischenzolllinien oder sonstige
                     Verkehrsbeschränkungen errichtet werden.“</p>
                 <p> Zu diesem Beschluß verliest Min. Rat. Dr. Froehlich die in Aussicht genommene
                     Übergangsbestimmung: „§ 12. Alle Maßnahmen insbesondere Beschränkungen oder
@@ -248,8 +266,8 @@
                 <quote>
                     <head>„Artikel 12 a. </head>
                     <p> (1) Bundessache ist die Gesetzgebung und die Vollziehung hinsichtlich der
-                        Regelung, welche Abgaben dem Bunde, den<pb facs="#facs_5" n="5"
-                            xml:id="img_0005" break="yes"/>Ländern und den Gemeinden zustehen; der
+                        Regelung, welche Abgaben dem Bunde, den<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
+Ländern und den Gemeinden zustehen; der
                         Regelung der Anteile der Länder und Gemeinden an den Einnahmen des Bundes
                         und der Regelung der Beiträge und Zuschüsse aus Bundesmitteln zu den
                         Ausgaben der Länder und Gemeinden. </p>
@@ -276,8 +294,8 @@
                     hinsichtlich Artikel 11, Punkt 8 „Munitions-, Schieß- und Sprengmittelwesen,
                     soweit es nicht dem Monopol unterliegt sowie Waffenwesens“. Seines Erinnerns hat
                     Hofrat Falser gefragt, wie es sich in diesen Belangen mit den Tiroler
-                    Spezialgesetzen verhält und<pb facs="#facs_6" n="6" xml:id="img_0006"
-                        break="yes"/>der Vorsitzende festgestellt, daß diese durch die
+                    Spezialgesetzen verhält und<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+der Vorsitzende festgestellt, daß diese durch die
                     Kompetenzbestimmung der Verfassung nicht berührt werden. Auch auf den
                     Friedensvertrag sei hingewiesen worden, doch sei kein endgültiger Beschluß
                     gefaßt worden.</p>
@@ -304,7 +322,8 @@
                 <p> Dr. Seipel bringt zur Kenntnis, daß das christlichsoziale Minoritätsvotum
                     bezüglich des Sozialversicherungswesens zurückgezogen sei, wenn die Ausnahme
                     bezüglich des Arbeiter- und Angestelltenschutzes im ersten Teil geregelt
-                        wird.<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>6</p>
+                        wird.<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+6</p>
                 <p>Dr. Danneberg spricht sich im weiteren Verlauf der Beratungen für die Einfügung
                     des Ernährungswesens aus. Die Staatskanzlei hat, wie Min. Rat Dr. Froehlich
                     mitteilt, die Regelung dieser Frage in § 14 der dem Ausschuß vorgelegten
@@ -330,8 +349,8 @@
                     momentane Entscheidung möglich sei.</p>
                 <p> Zu Punkt 14 und 15 liegt, wie der Vorsitzende feststellt, kein Antrag vor: 28*)
                     Artikel 11 muß entsprechend den vorstehend erwähnten Einschaltungen in Artikel
-                    10 geändert werden. Es entfallen die bisherigen Punkte 1, 2 und<pb
-                        facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>4, von Punkt 5 bleibt
+                    10 geändert werden. Es entfallen die bisherigen Punkte 1, 2 und<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
+4, von Punkt 5 bleibt
                     nur die „Fremden-Polizei“. Bei den öffentlichen Agentien gibt Dr. Bauer zu
                     bedenken, daß die bloße Erwähnung den Ländern die Wiederbelebung dieser
                     Institutionen ermögliche. Die Anführung der Bestimmungen über die Besteuerung
@@ -356,8 +375,8 @@
                     nur mehr internationale Angelegenheiten des Gesundheitswesens zu regeln hätte
                     und im übrigen nur ein legistisches Departement wäre; er stellt fest, daß eine
                     Einigung nicht zustande gekommen sei. Zu Punkt 11 des Artikels 11 und zum 2.
-                    Absatz liegt kein Antrag vor. Die Erörterung des Minderheitsantra <pb
-                        facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>ges der
+                    Absatz liegt kein Antrag vor. Die Erörterung des Minderheitsantra <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
+ges der
                     christlichsozialen Partei zu Art. 12 (Punkt 1 a = Verhältnis zwischen Schule und
                     Kirche usw.) soll erst im Zusammenhang mit der allgemeinen Besprechung der
                     Schulfrage stattfinden.</p>
@@ -383,8 +402,8 @@
                     der Grundsatz lex posterior derogat priori 287). Prof. Dr. Kelsen meint, daß
                     dieser Grundsatz für die gewöhnlichen Gerichte gegeben sei, solange die Gerichte
                     gehörig kundgemachte Gesetze anwenden müssen. Es ist aber notwendig, dem Richter
-                    das Recht auf Prüfung der Bundesgesetz<pb facs="#facs_10" n="10"
-                        xml:id="img_0010" break="yes"/></p>
+                    das Recht auf Prüfung der Bundesgesetz<pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>
+                </p>
                 <p>mäßigkeit jedes einzelnen Gesetzes einzuräumen und ihn von der Regel zu befreien,
                     daß er gehörig kundgemachte Gesetze anwenden müsse. Der Vorsitzende stellt fest,
                     daß auch der Verfassungsgerichtshof nur kassieren kann, wenn der Wirkungskreis
@@ -411,8 +430,8 @@
                     Parteirichtung der Gendarmen Wert darauf, daß nicht willkürlich Verschiebungen
                     der Gendarmerie zwischen den einzelnen Ländern stattfinden. Auch soll ihre
                     Mitwirkung bei der Bestellung und bei der Abberufung des
-                    Landesgendarmeriekommandanten gewahrt bleiben.<pb facs="#facs_11" n="11"
-                        xml:id="img_0011" break="yes"/>Zu 14 f ist nichts zu bemerken, zu 14 g teilt
+                    Landesgendarmeriekommandanten gewahrt bleiben.<pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
+Zu 14 f ist nichts zu bemerken, zu 14 g teilt
                     der Vorsitzende mit, daß er eine Reihe von Zuschriften erhalten hat, die vom
                     Standpunkt des Publikums beklagen, daß bei der Subsidiarhaftung des Staates
                     verschiedene langwierige Prozesse geführt werden müssen). Artikel 15 bleibt
@@ -436,8 +455,8 @@
                     die Einschaltung „pädagogisch-didaktische Einrichtung des mittleren Schulwesens“
                     beantragt: darauf wird verzichtet. Hingegen werden in Artikel 12 einige
                     Einschaltungen verlangt; nach Punkt 1: Die Errichtung und Erhaltung der Volks-
-                    und Bürgerschulen sowie der Hilfs<pb facs="#facs_12" n="12" xml:id="img_0012"
-                        break="yes"/>schulen, ferner zu Punkt 8 des Artikels 12: Das Dienstrecht und
+                    und Bürgerschulen sowie der Hilfs<pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>
+schulen, ferner zu Punkt 8 des Artikels 12: Das Dienstrecht und
                     das Besoldungssystem der Lehrpersonen an öffentlichen Volksund Bürgerschulen.
                     Präsident Seitz hält dem entgegen, daß der Staat derzeit das gesamte Schulwesen
                     bis hinaus zum Bezirksschulrat untersteht. Es würde einen Verzicht bedeuten, die
@@ -462,8 +481,8 @@
                     Der Vorsitzende meint, daß dies von der Lehrerschaft nicht gewünscht wird.
                     Abgeordneter Seipel erklärt, es stehe außer Zweifel, daß die Lehrer bisher nicht
                     vom Staat ernannt wurden, sondern von den Ländern. Es sei ein starkes
-                    Entgegenkommen, daß die Bezüge der Lehrer einheitlich gere<pb facs="#facs_13"
-                        n="13" xml:id="img_0013" break="yes"/>gelt werden, es sei aber kaum denkbar,
+                    Entgegenkommen, daß die Bezüge der Lehrer einheitlich gere<pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>
+gelt werden, es sei aber kaum denkbar,
                     den Ländern das Ernennungsrecht der Lehrpersonen an Volks- und Bürgerschulen
                     wegzunehmen. Es müßte überdies auch in Punkt 9 des Artikels 12 folgende
                     Bestimmung aufgenommen werden: „Die Festsetzung des Kreises jener Personen, aus
@@ -487,8 +506,8 @@
                     praktischen Beispielen erörtert hingegen Präsident Seitz die Nachteile für die
                     Kinder der Arbeiterbevölkerung, die in Übersiedlungsfällen wegen der großen
                     Unterschiede des Lehrplanes nicht in die ihrem Alter entsprechende Klasse
-                    aufgenommen werden können. Es sei eine begründete Klage der tschechischen<pb
-                        facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>Bevölkerung wesen, daß
+                    aufgenommen werden können. Es sei eine begründete Klage der tschechischen<pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>
+Bevölkerung wesen, daß
                     ihre Kinder stets um ein bis zwei Jahre zurückgesetzt werden mußten. Durch
                     Zugeständnisse auf diesem Gebiete gebe der Staat die ganze Schulreform preis.
                     Abgeordneter Dr. Seipel findet auf Grund seiner Erfahrungen als Lehrer — 10
@@ -515,8 +534,8 @@
                     Heimatkunde unterrichten können. Außerdem sind die Lehrer in kleinen und
                     entlegenen Gemeinden Träger der Intelligenz und die Länder verwahren sich
                     dagegen, daß die Verhältnisse im Lande von einer Zentrale aus auf diesem Wege
-                    einheitlich beeinflußt werden.<pb facs="#facs_15" n="15" xml:id="img_0015"
-                        break="yes"/>Auf Anfrage des Vorsitzenden stellt Abgeordneter Dr. Seipel
+                    einheitlich beeinflußt werden.<pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>
+Auf Anfrage des Vorsitzenden stellt Abgeordneter Dr. Seipel
                     fest, daß seine Partei die Frage der Sorgenkinder mit der Erklärung über die
                     Hilfsschulen für erledigt erachtet. Die fachlichen Zentrallehranstalten sowie
                     die Staatserziehungsanstalten seien bereits zugestanden, doch bestünden noch
@@ -541,9 +560,9 @@
                     Bedenken bezüglich der Lehrplanverschiedenheit durch vernünftige Regelung
                     abgeholfen werden könne und verweist auf die Schwierigkeit des Übertrittes aus
                     einer Diözese in eine andere. Hiedruch lebe der Geistliche im Gegensetz zu dem
-                    Vorgang, der bei den Lehrern geplant sei, in einem viel engeren<pb
-                        facs="#facs_16" n="16" xml:id="img_0016" break="yes"/></p>
-                <p>Bereich. Der Vorsitzende findet, daß hier unüberbrückbare Gegensätze einander
+                    Vorgang, der bei den Lehrern geplant sei, in einem viel engeren<pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>
+</p>
+<p>Bereich. Der Vorsitzende findet, daß hier unüberbrückbare Gegensätze einander
                     gegenüberstehen. Der Beschluß des Unterausschusses hat alle Agenden als
                     Bundessache erklärt. Hingegen will der Vorschlag der 432 Protokolle des
                     Unterausschusses christlichsozialen Partei dem Bunde nur das Hochschulwesen
@@ -566,9 +585,9 @@
                     Kenntnis: Falls die „Pädagogisch didaktische Einrichtung“ des niederen
                     Schulwesens in den Art. 10 käme, müßte man hievon ausnehmen: „Die Festsetzung
                     der einer Lehrperson zuzuweisenden Schülerzahl“. Der Unterausschuß beschließt
-                    die Erörterung der Schulfragen zu vertagen, um neuerlich Parteiberatungen zu<pb
-                        facs="#facs_17" n="17" xml:id="img_0017" break="yes"/></p>
-                <p>ermöglichen. Der Vorsitzende stellt hierauf fest, welche Fragen bezüglich der
+                    die Erörterung der Schulfragen zu vertagen, um neuerlich Parteiberatungen zu<pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>
+</p>
+<p>ermöglichen. Der Vorsitzende stellt hierauf fest, welche Fragen bezüglich der
                     künftigen Stellung Wiens als Bundeshauptstadt noch zu erledigen wären. So muß
                     Wien hinsichtlich der Überweisungen und der Vertretung im Bundesrate den Ländern
                     gleichgestellt werden. Das Abgaberecht bedarf der Regelung, ferner müssen
@@ -593,9 +612,9 @@
                     Bevölkerungsschlüssel, sondern nach dem Erträgnis gewisser Steuern erfolgen, was
                     für Wien vorteilhafter sei. Während Präsident Seitz es als unerträglich
                     bezeichnet, daß ein Verwaltungskörper von der Größe Wiens stets die Zustimmung
-                    einer Mehrheit agrar. Vertreter im Landtag cinholen müsse,<pb facs="#facs_18"
-                        n="18" xml:id="img_0018" break="yes"/></p>
-                <p>wenn er eine neue Steuer irgendwelcher Art beschließt, erblickt Abg. Dr. Seipel
+                    einer Mehrheit agrar. Vertreter im Landtag cinholen müsse,<pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>
+</p>
+<p>wenn er eine neue Steuer irgendwelcher Art beschließt, erblickt Abg. Dr. Seipel
                     im Überprüfungsrecht des Landtages einen besseren Schutz der Bevölkerung. Dr.
                     Danneberg verweist auf die möglichen Schwierigkeiten, die entstehen können, wenn
                     im Landtag eine andere Mehrheit bestünde als im Gemeinderat. Lehnt der Landtag
@@ -619,9 +638,9 @@
                     Grund besonderer Vereinbarungen gedeckt werden. Prof. Dr. Kelsen’s vermittelnde
                     Anregung, daß Wien in finanzieller Hinsicht unbeschadet seiner Stellung als
                     Gemeinde die Stellung eines selbständigen Landes erhalten soll, findet die
-                    Zustimmung des Unterausschusses. Der Vorsitzende fügt<pb facs="#facs_19" n="19"
-                        xml:id="img_0019" break="yes"/>18</p>
-                <p>hinzu, daß der Magistrat Kompetenzen zu übernehmen hat, die bisher der
+                    Zustimmung des Unterausschusses. Der Vorsitzende fügt<pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/>
+18</p>
+<p>hinzu, daß der Magistrat Kompetenzen zu übernehmen hat, die bisher der
                     niederösterreichischen Landesregierung zustanden 293). Auch müßte eine beson295)
                     Vgl. Art. 110 Abs. 2 B.-VG. i. d. F. 1920. Protokolle des Unterausschusses 434
                     dere zweite Instanz für Wien in Gestalt einer Kommission gebildet werden, die
@@ -647,8 +666,9 @@
                     umfangreichen detaillierten Bestimmungen zu überlasten, was nach Anschauung Dr.
                     Weiskirchner's prinzipiell jede Statutargemeinde verlangen könne. Präsident
                     Seitz ist der Ansachuung, daß sich Östereich noch in der Revolution befinde, der
-                    Bund daher<pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/>19</p>
-                <p>auch sagen könne, diese Agenden übertrage ich in der Form, daß ich die
+                    Bund daher<pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/>
+19</p>
+<p>auch sagen könne, diese Agenden übertrage ich in der Form, daß ich die
                     Statthaltereibefugnisse einer gewählten Regierung übertrage. Prof. Kelsen:
                     Gegenwärtig kann die Landesordnung durch Staatsgesetz abgeändert werden. Wie
                     sich aus der Staatsgesetzgebung erweisen läßt, so könnte auch durch Staatsgesetz
@@ -691,15 +711,15 @@
                     Verhältnis zur Bevölkerungszahl oder das Kompromiß, doch ziehe seine Partei den
                     ersteren Vorschlag bei weitem vor. Artikel 27, Absatz 1 wird hierauf so
                     formuliert:</p>
-                <p>(1) Im Vorsitz des Bundesrates wechseln die Länder und die Bundeshauptstadt Wien
+<p>(1) Im Vorsitz des Bundesrates wechseln die Länder und die Bundeshauptstadt Wien
                     halbjährlich in alphabetischer Reihenfolge ab. Zu Artikel 28 wird kein Vorschlag
                     vorgebracht, das sozialdemokratische Minoritätsvotum zu Artikel 29 wird
                     zurückgezogen; in Artikel 30, Absatz 2 wird die Zahl der Stimmberechtigten statt
                     mit 300.000 mit 200.000 festgesetzt. Die Worte „im Wege der Bundesregierung“
                     sind so auszulegen, daß gemäß Artikel 30 die Bundesregierung auch
                     Gesetzesanträge, mit denen sie nicht einverstanden ist, als Gesetzesvorlagen
-                    einzubringen hat. In Artikel 32 wünscht<pb facs="#facs_22" n="22"
-                        xml:id="img_0022" break="yes"/>ein sozialdemokratischer Minderheitsantrag
+                    einzubringen hat. In Artikel 32 wünscht<pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/>
+ein sozialdemokratischer Minderheitsantrag
                     die „Mehrheit des Bundesrates“ anstatt einem „Drittel der Mitglieder des
                     Bundes296) Siehe S. 390. 28* Protokolle des Unterausschusses 436 rates“. Das
                     Verlangen kann durch Sammlung der erforderlichen Unterschriften geltend gemacht
@@ -721,7 +741,7 @@
                     heute betraut wurde, nur einer Übergangsbestimmung bedürfe. Der Vorsitzende
                     stellt noch fest, daß der sozialdemokratische Minderheitsantrag zu Artikel 47
                     zurückgezogen wird und schließt um ½7 Uhr abends die Sitzung.</p>
-            </div>
-        </body>
-    </text>
+</div>
+</body>
+</text>
 </TEI>
