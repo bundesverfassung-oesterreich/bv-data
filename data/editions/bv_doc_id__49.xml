@@ -102,8 +102,9 @@
                 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="created">
+        <revisionDesc status="structured">
             <change when="2025-02-03" who="#cfh">document automatically created</change>
+            <change when="2025-02-14" who="#m_huber">Elias: Text fertig strukturiert</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -264,7 +265,7 @@ Zu Beginn der
                     definiert werden. Schließlich wird im Sinne eines Antrages des Vorsitzenden ein
                     neuer Artikel 12 a eingeschaltet: </p>
                 <quote>
-                    <head>„Artikel 12 a. </head>
+                    <p>„Artikel 12 a. </p>
                     <p> (1) Bundessache ist die Gesetzgebung und die Vollziehung hinsichtlich der
                         Regelung, welche Abgaben dem Bunde, den<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
 Ländern und den Gemeinden zustehen; der
@@ -323,7 +324,7 @@ der Vorsitzende festgestellt, daß diese durch die
                     bezüglich des Sozialversicherungswesens zurückgezogen sei, wenn die Ausnahme
                     bezüglich des Arbeiter- und Angestelltenschutzes im ersten Teil geregelt
                         wird.<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
-6</p>
+</p>
                 <p>Dr. Danneberg spricht sich im weiteren Verlauf der Beratungen für die Einfügung
                     des Ernährungswesens aus. Die Staatskanzlei hat, wie Min. Rat Dr. Froehlich
                     mitteilt, die Regelung dieser Frage in § 14 der dem Ausschuß vorgelegten
@@ -436,14 +437,18 @@ Zu 14 f ist nichts zu bemerken, zu 14 g teilt
                     Standpunkt des Publikums beklagen, daß bei der Subsidiarhaftung des Staates
                     verschiedene langwierige Prozesse geführt werden müssen). Artikel 15 bleibt
                     im Entwurf. In Artikel 16 beantragt Dr. Danneberg die Streichung des 2.
-                    Absatzes. In Artikel 19 wird an den 2. Absatz folgender Satz angeschlossen: „Die
+                    Absatzes. In Artikel 19 wird an den 2. Absatz folgender Satz angeschlossen: </p>
+                <p> „Die
                     Wähler üben ihr Wahlrecht in Wahlbezirken aus, von denen jeder ein geschlossenes
                     Gebiet umfassen muß. Die Zahl der Abgeordneten ist auf die Wahlbezirke im
                     Verhältnis der Zahl der Bundesangehörigen, die in ihnen nach dem Ergebnis der
                     letzten Volkszählung ihren Wohnsitz hatten, zu verteilen. Eine Gliederung der
-                    Wählerschaft in andere Wahlkörper ist nicht zulässig“ 293) Bei den Artikeln 22
-                    bis 25 erübrigt sich eine Diskussion. Die Sitzung wird um ½1 Uhr mittags
-                    unterbrochen und um 3 Uhr nachmittags fortgesetzt. Bei Wiederaufnahme der
+                    Wählerschaft in andere Wahlkörper ist nicht zulässig“. </p>
+                <p> Bei den Artikeln 22
+                    bis 25 erübrigt sich eine Diskussion. </p> 
+                <p> Die Sitzung wird um ½1 Uhr mittags
+                    unterbrochen und um 3 Uhr nachmittags fortgesetzt.</p> 
+                <p> Bei Wiederaufnahme der
                     Beratungen wird auf Vorschlag des Vorsitzenden das Schulwesen erörtert 294).
                     Berichterstatter Abgeordneter Dr. Seipel wünscht unter Vorbehalt stilistischer
                     Änderungen in Art. 10 Punkt 13 folgende Einfügung: „Das Hochschul- und
@@ -451,7 +456,8 @@ Zu 14 f ist nichts zu bemerken, zu 14 g teilt
                     Landesschulbehörde das verbindliche Vorschlagsrecht für die Ernennung der
                     Mittelschullehrpersonen zusteht. Die Schulaufsicht mit Ausnahme der
                     Zusammensetzung der Schulaufsichtsbehörden, der Feststellung ihres
-                    Wirkungskreises und der Einteilung der Schulbezirke“ In Artikel 11 wurde bisher
+                    Wirkungskreises und der Einteilung der Schulbezirke.“</p>
+                <p> In Artikel 11 wurde bisher
                     die Einschaltung „pädagogisch-didaktische Einrichtung des mittleren Schulwesens“
                     beantragt: darauf wird verzichtet. Hingegen werden in Artikel 12 einige
                     Einschaltungen verlangt; nach Punkt 1: Die Errichtung und Erhaltung der Volks-
@@ -474,7 +480,8 @@ schulen, ferner zu Punkt 8 des Artikels 12: Das Dienstrecht und
                     Erhaltung der Schulen im bisherigen Ausmaß durch den Bund erfolgt. Auch bei
                     Dienstrecht und Besoldungssystem können den Ländern keine Zugeständnisse gemacht
                     werden, denn diese würden von den Lehrern als unerträglicher Rückschritt
-                    empfunden werden. Staatssekretär Dr. Mayr verweist darauf, daß die Lehrer eben
+                    empfunden werden.</p> 
+                <p> Staatssekretär Dr. Mayr verweist darauf, daß die Lehrer eben
                     analog wie die Bezirkshauptämter und der Landeshauptmann Landesorgane werden
                     müssen. Auch Prof. Abg. Seipel meint, daß den Wünschen der Lehrer Rechnung
                     getragen ist, wenn sie wie alle anderen Beamten Organe des Gliedstaates werden.
@@ -488,18 +495,21 @@ gelt werden, es sei aber kaum denkbar,
                     Bestimmung aufgenommen werden: „Die Festsetzung des Kreises jener Personen, aus
                     denen sich die Schulaufsichtsbehörden zusammensetzen, wobei der Schulerhalter,
                     die Religionsgenossenschaften und die Fachleute in denselben vertreten sein
-                    müssen.“ 430 Protokolle des Unterausschusses Präsident Seitz hält eine
+                    müssen.“ </p>
+                <p> Präsident Seitz hält eine
                     Überbrückung der Gegensätze auf diesem Gebiete für ausgeschlossen. Nach dieser
                     Fassung könnte ein Landesgesetz gemacht werden, wonach zwei Drittel der
                     Schulaufsichtsbehörden vom Landesschulrat gewählt werden, wodurch die vom Staat
                     zur Wahrung der Einheit entsendeten Vertreter eine machtlose Minderheit wären.
                     Auch kann der Vertretung der Religionsgenossenschaften in den
                     Schulaufsichtsbehörden von der sozialdemokratischen Partei niemals zugestimmt
-                    werden. Abgeordneter Dr. Seipel weist darauf hin, daß diese Bestimmung nur den
+                    werden.</p> 
+                <p> Abgeordneter Dr. Seipel weist darauf hin, daß diese Bestimmung nur den
                     geltenden Gesetzen entnommen sei. Präsident Seitz hält unbedingt daran fest, daß
                     die Mehrheit der Aufsichtsbehörden vom Staat ernannt werden müsse *). Man könnte
                     soweit entgegenkommen, daß man bei der Ernennung der Lehrer ein Vorschlagsrecht
-                    zugesteht aber weiter nicht. Bei der Besprechung, wer die Schülerzahl in den
+                    zugesteht aber weiter nicht.</p> 
+                <p> Bei der Besprechung, wer die Schülerzahl in den
                     einzelnen Klassen und wer den Lehrplan festzusetzen hätte, meint Abgeordneter
                     Dr. Seipel, daß in einem Bundesstaat den Ländern nicht das Recht genommen werden
                     könne, das Schulwesen im Lande den Bedürfnissen der Bevölkerung anzupassen. An
@@ -509,7 +519,8 @@ gelt werden, es sei aber kaum denkbar,
                     aufgenommen werden können. Es sei eine begründete Klage der tschechischen<pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>
 Bevölkerung wesen, daß
                     ihre Kinder stets um ein bis zwei Jahre zurückgesetzt werden mußten. Durch
-                    Zugeständnisse auf diesem Gebiete gebe der Staat die ganze Schulreform preis.
+                    Zugeständnisse auf diesem Gebiete gebe der Staat die ganze Schulreform preis.</p> 
+                <p> 
                     Abgeordneter Dr. Seipel findet auf Grund seiner Erfahrungen als Lehrer — 10
                     Jahre an der Volksschule, 6 Jahre an Mittelschulen und mehrere Jahre als
                     Schulinspektor — die Gefahr, daß ein Kind nicht in die seinem Alter
@@ -524,12 +535,12 @@ Bevölkerung wesen, daß
                     Gebiete der Schulreform die grundsätzliche Gesetzgebung Bundessache wird, so
                     bedeute das nicht ihre Ausschließung, sondern bloß eine Verlangsamung des
                     Tempos, was vom pädagogischen Standpunkte nur zu begrüßen wäre. Denn gerade auf
-                    diesem Gebiete seien jeweils *) Der obige nicht ganz schlüssige Text entspricht
-                    der Originalfassung der Protokolle. 4. Sitzung 431 Schlagworte maßgebend, die
+                    diesem Gebiete seien jeweils Schlagworte maßgebend, die
                     erfahrungsgemäß schon nach kurzer Zeit überholt sind. Die Gefahr der
                     Ungleichheit des Lehrplanes wird auf sozialdemokratischer Seite entschieden
                     überschätzt. Es kommt auch jetzt vor, daß Kinder von Deutschland nach Österreich
-                    übersiedeln und trotzdem mitkommen. Die Länder wollen nicht zulassen, daß Lehrer
+                    übersiedeln und trotzdem mitkommen. </p> 
+                <p> Die Länder wollen nicht zulassen, daß Lehrer
                     in Gegenden geschickt werden, die dort fremd sind und nicht einmal die
                     Heimatkunde unterrichten können. Außerdem sind die Lehrer in kleinen und
                     entlegenen Gemeinden Träger der Intelligenz und die Länder verwahren sich
@@ -543,7 +554,8 @@ Auf Anfrage des Vorsitzenden stellt Abgeordneter Dr. Seipel
                     Glöckel hat mitgeteilt, daß für die Ausarbeitung der Schulbücher ein ganz neues
                     Verfahren eingeleitet wird, wobei man den Bedürfnissen der Länder besondere
                     Rechnung zu tragen sucht. Nach Erledigung der einschlägigen Vorarbeiten werde
-                    man weiter verhandeln können. Präsident Seitz bemerkt hiezu, daß Lehrerbildung
+                    man weiter verhandeln können. </p> 
+                <p> Präsident Seitz bemerkt hiezu, daß Lehrerbildung
                     und Approbation der Lehrbücher in den Artikel 10 eingereiht werden müssen und
                     erklärt, daß es sich für seine Partei darum handelt, daß für die Kinder der
                     industriellen Arbeiter der Schulorganismus einheitlich gestaltet wird. Die
@@ -561,8 +573,8 @@ Auf Anfrage des Vorsitzenden stellt Abgeordneter Dr. Seipel
                     abgeholfen werden könne und verweist auf die Schwierigkeit des Übertrittes aus
                     einer Diözese in eine andere. Hiedruch lebe der Geistliche im Gegensetz zu dem
                     Vorgang, der bei den Lehrern geplant sei, in einem viel engeren<pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>
-</p>
-<p>Bereich. Der Vorsitzende findet, daß hier unüberbrückbare Gegensätze einander
+
+Bereich.</p> <p>  Der Vorsitzende findet, daß hier unüberbrückbare Gegensätze einander
                     gegenüberstehen. Der Beschluß des Unterausschusses hat alle Agenden als
                     Bundessache erklärt. Hingegen will der Vorschlag der 432 Protokolle des
                     Unterausschusses christlichsozialen Partei dem Bunde nur das Hochschulwesen
@@ -574,34 +586,42 @@ Auf Anfrage des Vorsitzenden stellt Abgeordneter Dr. Seipel
                     verwaltungstechnisch und bürokratisch unhaltbarer Zustand *). Ebenso unannehmbar
                     sind die Forderungen der christlichsozialen Partei bezüglich der Zusammensetzung
                     der Aufsichtsbehörden und der Mitwirkung von Vertretern der
-                    Religionsgesellschaften. Abgeordneter Aigner bringt auch die wirtschaftlichen
+                    Religionsgesellschaften. </p> 
+                <p> Abgeordneter Aigner bringt auch die wirtschaftlichen
                     Bedenken der Länder zur Geltung. So hat namentlich Oberösterreich die schwersten
                     Bedenken hinsichtlich seiner Belastung, da die Durchführung der Schulreform nach
                     den Berechnungen die Errichtung von 3300 Klassen und eine entsprechende
-                    Vermehrung der Lehrstellen erfordere *) Abgeordneter Prof. Dr. Seipel erklärt,
+                    Vermehrung der Lehrstellen erfordere *) </p> 
+                <p> Abgeordneter Prof. Dr. Seipel erklärt,
                     daß seine Partei auf die Aufnahme eines Artikels 14 eee nicht verzichten könne,
-                    der zu lauten hätte „Die Lehrpersonen an öffentlichen Volks- und Bürgerschulen
-                    sind Landesangestellte. Auch bringt er folgenden Wunsch seiner Partei zur
-                    Kenntnis: Falls die „Pädagogisch didaktische Einrichtung“ des niederen
+                    der zu lauten hätte: </p>
+                <p> „Die Lehrpersonen an öffentlichen Volks- und Bürgerschulen
+                    sind Landesangestellte." </p> 
+                <p> Auch bringt er folgenden Wunsch seiner Partei zur
+                    Kenntnis:</p> 
+                <p> „Falls die „Pädagogisch didaktische Einrichtung“ des niederen
                     Schulwesens in den Art. 10 käme, müßte man hievon ausnehmen: „Die Festsetzung
-                    der einer Lehrperson zuzuweisenden Schülerzahl“. Der Unterausschuß beschließt
+                    der einer Lehrperson zuzuweisenden Schülerzahl“.</p> 
+                <p> Der Unterausschuß beschließt
                     die Erörterung der Schulfragen zu vertagen, um neuerlich Parteiberatungen zu<pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>
-</p>
-<p>ermöglichen. Der Vorsitzende stellt hierauf fest, welche Fragen bezüglich der
+
+ermöglichen.</p> <p>Der Vorsitzende stellt hierauf fest, welche Fragen bezüglich der
                     künftigen Stellung Wiens als Bundeshauptstadt noch zu erledigen wären. So muß
                     Wien hinsichtlich der Überweisungen und der Vertretung im Bundesrate den Ländern
                     gleichgestellt werden. Das Abgaberecht bedarf der Regelung, ferner müssen
                     gewisse Angelegenheiten, die jetzt der Landesregierung zustehen, an den
-                    Magistrat übergehen. Dr. Danneberg möchte zuwarten bis man im Rathaus offiziell
+                    Magistrat übergehen. </p> 
+                <p> Dr. Danneberg möchte zuwarten bis man im Rathaus offiziell
                     Stellung genommen hat. Die Besprechungen der Parteien sind noch nicht
                     abgeschlossen. Donnerstag Vormittag tritt der Stadtsenat zusammen, ein Beschluß
-                    wird voraussichtlich erst Freitag gefaßt werden können. Der Vorsitzende bemerkt
+                    wird voraussichtlich erst Freitag gefaßt werden können. </p> 
+                <p> Der Vorsitzende bemerkt
                     zur Frage des Abgaberechtes, daß die Gemeinde die Notwendigkeit einer Zustimmung
-                    des Landtages stets als drückende Bevormundung empfand. Abgeordneter Dr.
+                    des Landtages stets als drückende Bevormundung empfand.</p> 
+                <p> Abgeordneter Dr.
                     Weiskirchner bespricht das bisherige Verfahren und das einschlägige
                     Übereinkommen der Gemeinde Wien mit dem Landtag, wonach die Hauptstadt an den
-                    Überweisungen stets mit 50% be*) Der obige nicht ganz schlüssige Text entspricht
-                    der Originalfassung der Protokolle. 14. Sitzung 433 teiligt wurde. Für die
+                    Überweisungen stets mit 50% beteiligt wurde. Für die
                     Zukunft müßte namentlich festgestellt werden, ob Wien von den Zuschlägen des
                     Landes Niederösterreich befreit wird, ob Wien als Gemeinde und als Land zu
                     behandeln sei. Es müßte wohl die Landeszuschläge tragen, solange nicht die
@@ -613,8 +633,8 @@ Auf Anfrage des Vorsitzenden stellt Abgeordneter Dr. Seipel
                     für Wien vorteilhafter sei. Während Präsident Seitz es als unerträglich
                     bezeichnet, daß ein Verwaltungskörper von der Größe Wiens stets die Zustimmung
                     einer Mehrheit agrar. Vertreter im Landtag cinholen müsse,<pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>
-</p>
-<p>wenn er eine neue Steuer irgendwelcher Art beschließt, erblickt Abg. Dr. Seipel
+
+wenn er eine neue Steuer irgendwelcher Art beschließt, erblickt Abg. Dr. Seipel
                     im Überprüfungsrecht des Landtages einen besseren Schutz der Bevölkerung. Dr.
                     Danneberg verweist auf die möglichen Schwierigkeiten, die entstehen können, wenn
                     im Landtag eine andere Mehrheit bestünde als im Gemeinderat. Lehnt der Landtag
@@ -632,18 +652,16 @@ Auf Anfrage des Vorsitzenden stellt Abgeordneter Dr. Seipel
                     geartete Majorität des Landtages Landesumlagen beschließen, die für die Gemeinde
                     Wien katastrophal wären, da die Gemeinde 80% aller Landesumlagen zahle. Die
                     Kompliziertheit sei so groß, daß es nach seiner Anschauung zu keiner Trennung
-                    kommen könne. Der Vorsitzende faßt das Ergebnis der Beratungen dahin zusammen,
+                    kommen könne. </p>
+                <p> Der Vorsitzende faßt das Ergebnis der Beratungen dahin zusammen,
                     daß Wien die Finanzhoheit wie ein Land bekommen müsse, und zwar sowohl bezüglich
                     der Steuern als auch bezüglich der Anleihen. Der gemeinsame Aufwand müsse auf
                     Grund besonderer Vereinbarungen gedeckt werden. Prof. Dr. Kelsen’s vermittelnde
                     Anregung, daß Wien in finanzieller Hinsicht unbeschadet seiner Stellung als
                     Gemeinde die Stellung eines selbständigen Landes erhalten soll, findet die
                     Zustimmung des Unterausschusses. Der Vorsitzende fügt<pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/>
-18</p>
-<p>hinzu, daß der Magistrat Kompetenzen zu übernehmen hat, die bisher der
-                    niederösterreichischen Landesregierung zustanden 293). Auch müßte eine beson295)
-                    Vgl. Art. 110 Abs. 2 B.-VG. i. d. F. 1920. Protokolle des Unterausschusses 434
-                    dere zweite Instanz für Wien in Gestalt einer Kommission gebildet werden, die
+hinzu, daß der Magistrat Kompetenzen zu übernehmen hat, die bisher der
+                    niederösterreichischen Landesregierung zustanden. Auch müßte eine besondere zweite Instanz für Wien in Gestalt einer Kommission gebildet werden, die
                     zusammengesetzt wäre aus rechtskundigen Verwaltungsbeamten der Gemeinde Wien und
                     aus Gemeinderäten. Der administrative Instanzenzug ginge unmittelbar zu den
                     Bundesämtern. Abgeordneter Dr. Weiskirchner bespricht die Schwierigkeit einer
@@ -664,12 +682,13 @@ Auf Anfrage des Vorsitzenden stellt Abgeordneter Dr. Seipel
                     entgegenbringe. Prof. Dr. Seipel möchte einen allgemeinen Satz, der auf die
                     Notwendigkeit der Trennung hinweist, vorziehen, um nicht die Verfassung mit
                     umfangreichen detaillierten Bestimmungen zu überlasten, was nach Anschauung Dr.
-                    Weiskirchner's prinzipiell jede Statutargemeinde verlangen könne. Präsident
+                    Weiskirchner's prinzipiell jede Statutargemeinde verlangen könne. </p>
+                <p> Präsident
                     Seitz ist der Ansachuung, daß sich Östereich noch in der Revolution befinde, der
                     Bund daher<pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/>
-19</p>
-<p>auch sagen könne, diese Agenden übertrage ich in der Form, daß ich die
-                    Statthaltereibefugnisse einer gewählten Regierung übertrage. Prof. Kelsen:
+auch sagen könne, diese Agenden übertrage ich in der Form, daß ich die
+                    Statthaltereibefugnisse einer gewählten Regierung übertrage.</p> 
+                <p> Prof. Kelsen:
                     Gegenwärtig kann die Landesordnung durch Staatsgesetz abgeändert werden. Wie
                     sich aus der Staatsgesetzgebung erweisen läßt, so könnte auch durch Staatsgesetz
                     angeordnet werden, daß der Landtag aus zwei Kurien gebildet wird. Beide wählen
@@ -685,7 +704,7 @@ Auf Anfrage des Vorsitzenden stellt Abgeordneter Dr. Seipel
                     geltend machen; als Entschuldigung müsse dienen, daß es das letztemal und nach
                     der neuen Ver 14. Sitzung 435 fassung künftig unmöglich sei. Der Landtag wäre
                     ein einheitlicher Apparat, doch bestünden gewissermaßen zwei Landesausschüsse.
-                    Der Vorsitzende ersucht hierauf mit Zustimmung des Unterausschusses Prof. Dr.
+                 </p> <p>   Der Vorsitzende ersucht hierauf mit Zustimmung des Unterausschusses Prof. Dr.
                     Kelsen sobald als möglich Formulierungen seiner Anregungen vorzulegen. Übrigens
                     wäre auch eine Neuformulierung des Artikels 26 notwendig, woselbst die Gemeinde
                     Wien als gleichberechtigter Teilnehmer im Bundesrat eingefügt werden müßte. Er
@@ -694,7 +713,8 @@ Auf Anfrage des Vorsitzenden stellt Abgeordneter Dr. Seipel
                     einzigen zuerkannt hat. Prof. Dr. Seipel meint, daß der sozialdemokratischen
                     Partei auf Grund des<pb facs="#facs_21" n="21" xml:id="img_0021" break="yes"/>
                     Verhältniswahlrechtes in jedem Land ein Vertreter gesichert sei, was der
-                    Vorsitzende bezweifelt, indem er annimmt, daß in einem Landtag, der aus lauter
+                    Vorsitzende bezweifelt, indem er annimmt, daß </p>
+                <p> in einem Landtag, der aus lauter
                     Christlichzozialen und nur ein bis zwei Sozialdemokraten bestünde, sich die
                     ersteren sofort als zwei Parteien, eine städtische und eine ländliche
                     konstituieren würden. Ein Bundesrat ohne Vertretung der Tiroler- oder
@@ -709,36 +729,44 @@ Auf Anfrage des Vorsitzenden stellt Abgeordneter Dr. Seipel
                     Vorsitzende bittet um Berücksichtigung des Standpunktes entweder reine
                     Verhältnismäßigkeit, das kleinste Land einen Vertreter, die übrigen im
                     Verhältnis zur Bevölkerungszahl oder das Kompromiß, doch ziehe seine Partei den
-                    ersteren Vorschlag bei weitem vor. Artikel 27, Absatz 1 wird hierauf so
+                    ersteren Vorschlag bei weitem vor.</p>
+                <p> Artikel 27, Absatz 1 wird hierauf so
                     formuliert:</p>
 <p>(1) Im Vorsitz des Bundesrates wechseln die Länder und die Bundeshauptstadt Wien
-                    halbjährlich in alphabetischer Reihenfolge ab. Zu Artikel 28 wird kein Vorschlag
+                    halbjährlich in alphabetischer Reihenfolge ab. </p> 
+                <p> Zu Artikel 28 wird kein Vorschlag
                     vorgebracht, das sozialdemokratische Minoritätsvotum zu Artikel 29 wird
                     zurückgezogen; in Artikel 30, Absatz 2 wird die Zahl der Stimmberechtigten statt
-                    mit 300.000 mit 200.000 festgesetzt. Die Worte „im Wege der Bundesregierung“
+                    mit 300.000 mit 200.000 festgesetzt.</p> 
+                <p> Die Worte „im Wege der Bundesregierung“
                     sind so auszulegen, daß gemäß Artikel 30 die Bundesregierung auch
                     Gesetzesanträge, mit denen sie nicht einverstanden ist, als Gesetzesvorlagen
                     einzubringen hat. In Artikel 32 wünscht<pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/>
 ein sozialdemokratischer Minderheitsantrag
                     die „Mehrheit des Bundesrates“ anstatt einem „Drittel der Mitglieder des
-                    Bundes296) Siehe S. 390. 28* Protokolle des Unterausschusses 436 rates“. Das
+                    Bundesrates“. Das
                     Verlangen kann durch Sammlung der erforderlichen Unterschriften geltend gemacht
-                    werden. Bei Artikel 40 bejaht der Vorsitzende die Frage des Präsidenten Seitz,
+                    werden. </p> 
+                <p> Bei Artikel 40 bejaht der Vorsitzende die Frage des Präsidenten Seitz,
                     ob die Worte „Der Bundespräsident ordnet an“ bedeuten, daß der Bundespräsident
-                    zu verfügen hat. Der Minderheitsantrag der christlichsozialen Vertreter, der
+                    zu verfügen hat.</p>
+                <p> Der Minderheitsantrag der christlichsozialen Vertreter, der
                     Gewicht legt auf die qualifizierte Mehrheit beim Einspruch, wird von den
-                    Sozialdemokraten unbedingt abgelehnt. Zu Artikel 42 a bemerkt Min. Rat. Dr.
+                    Sozialdemokraten unbedingt abgelehnt.</p> 
+                <p> Zu Artikel 42 a bemerkt Min. Rat. Dr.
                     Froehlich daß gesetzesändernd nicht nur bedeute, daß geändert wird, sondern auch
                     daß ein neues Gesetz geschaffen werden müsse 297). Präsident Seitz stellt fest,
                     daß also die Bundesregierung beschließe und der Bundespräsident zum ausführenden
                     Organ des Kabinettsrates werde. Dies entspricht nach Außerung des Vorsitzenden
                     dem Vorgange in jeder parlamentarischen Monarchie. Auch der König von England,
                     der keinen Einfluß auf die Zusammensetzung der Regierung hat, erscheint als
-                    Ratifikant von Staatsverträgen, da er den Staat nach außen vertritt. Bei
+                    Ratifikant von Staatsverträgen, da er den Staat nach außen vertritt.</p> 
+                <p> Bei
                     Erörterung der Immunität jener Mitglieder des Bundesrates, denen die Vertretung
                     der Bundeshauptstadt obliegt, die aber als Gemeinderatsmitglieder nicht immun
                     sind, erklärt Prof. Dr. Kelsen daß es bei Annahme der Formulierung, mit der er
-                    heute betraut wurde, nur einer Übergangsbestimmung bedürfe. Der Vorsitzende
+                    heute betraut wurde, nur einer Übergangsbestimmung bedürfe.</p> 
+                <p> Der Vorsitzende
                     stellt noch fest, daß der sozialdemokratische Minderheitsantrag zu Artikel 47
                     zurückgezogen wird und schließt um ½7 Uhr abends die Sitzung.</p>
 </div>

@@ -104,8 +104,9 @@
                 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="created">
+        <revisionDesc status="structured">
             <change when="2025-02-03" who="#cfh">document automatically created</change>
+            <change when="2025-02-14" who="#m_huber">Elias: Text fertig strukturiert</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -235,40 +236,42 @@
                     Bundesgesetze zu behandeln sind. Der Vorsitzende wünscht auch eine neue
                     Formulierung des Satzes 2 in Artikel 79 und zwar aus rein technischen Gründen.
                     Weiters wird zu Artikel 82 erwähnt, daß es sich hier um dieselbe Frage handelt
-                    wie in Artikel 76 300) Ein Minoritätsvotum zu Artikel 85 wurde von den Parteien
-                    angenommen und zwar hat Absatz 3 zu lauten: „(3) Die Wähler üben ihr Wahlrecht
-                    in Wahlbezirken aus, von denen jeder ein geschlossenes Gebiet umfassen muß. Die
-                    Zahl der Abgeordneten ist auf die Wahlbezirke im Verhältnis der Zahl der
-                    Bundesangehörigen, die in ihnen nach dem Ergebnis der<pb facs="#facs_4" n="4"
-                        xml:id="img_0004" break="yes"/>letzten Volkszählung ihren Wohnsitz hatten,
-                    zu verteilen. Eine Gliederung der Wählerschaft in andere Wahlkörper ist nicht
-                    zulässig“ 301) Die anderen sozialdemokratischen Minderheitsanträge zu diesem
-                    Artikel sind zurückgezogen. Bei Artikel 87 wird die Entscheidung über die Frage,
-                    ob die Funktionen des Landeshauptmannes von denen des Landtagspräsidenten
-                    obligatorisch zu trennen seien, der Abstimmung überlassen. Bei Artikel 88
-                    entscheidet der Unterausschuß, daß die Frist für Einsprüche der Bundesregierung
-                    gegen Gesetzesbeschlüsse der Landtage mit 8 Wochen festzusetzen sei 302) Der
-                    Minderheitsantrag des Abgeordneten Leuthner zu Artikel 88 wird der Abstimmung
-                    überlassen, desgleichen zu Artikel 89 303) Absatz 4 des Artikels 91 hat auf
-                    Antrag des Abgeordneten Dr. Seipel zu lauten: „(4) Der Landeshauptmann wird
-                    durch den Bundespräsidenten, die anderen Mitglieder der Landesregierung werden
-                    durch den Landeshauptmann auf die Verfassung angelobt“ 304) Auf das
-                    Minderheitsvotum zu Artikel 91 verzichtet Dr. Danneberg, wenn festgestellt wird,
-                    daß die Mitglieder der Landesregierungen von nun an von den Ländern bezahlt
-                    werden. 290) Art. 83 Abs. 3 B.-VG. 300) Siehe S. 401. 301) Art. 95 Abs. 3 B.-VG.
-                    302) Art. 98 B.-VG 303) Siehe S. 403. 304) Art. 101 Abs. 4 B.-VG. Protokolle des
-                    Unterausschusses 438 Hierauf verliest der Vorsitzende eine Formulierung des
-                    Artikels 92, die von der Staatskanzlei ausgearbeitet wurde 305) Sekt. Rat. Dr.
-                    Mannlicher bemerkt, daß die gleichen Ausdrücke wie in Artikel 10 gewählt worden
-                    seien, da die Aufzählung sich auf die Angelegenheiten und nicht auf die
-                    einzelnen Behörden bezieht. Vom gegenwärtigen Zustand weicht der Vorschlag nur
-                    insofern ab, als die politische Behörde als verländert angesehen wird. Strittig
-                    ist die Einreihung der Agrarbehörden, die das Staatsamt für Land- und
-                    Forstwirtschaft gleichfalls hier aufgenommen wünscht 306). Sie wurde jedoch mit
-                    Rücksicht auf verwaltungsreformatorische Ideen weggelassen. Es sei nämlich eine
-                    Umgestaltung in der Richtung geplant, daß diese Behörden auch Geschäfte der
-                    jetzigen poli<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>4</p>
-                <p>tischen Behörden zu übernehmen hätten. Zu erwähnen wäre noch, daß die Agenden der
+                    wie in Artikel 76 300)</p>
+                <p> Ein Minoritätsvotum zu Artikel 85 wurde von den Parteien angenommen und zwar hat
+                    Absatz 3 zu lauten:</p>
+                <p> „(3) Die Wähler üben ihr Wahlrecht in Wahlbezirken aus, von denen jeder ein
+                    geschlossenes Gebiet umfassen muß. Die Zahl der Abgeordneten ist auf die
+                    Wahlbezirke im Verhältnis der Zahl der Bundesangehörigen, die in ihnen nach dem
+                    Ergebnis der<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>letzten
+                    Volkszählung ihren Wohnsitz hatten, zu verteilen. Eine Gliederung der
+                    Wählerschaft in andere Wahlkörper ist nicht zulässig“. </p>
+                <p> Die anderen sozialdemokratischen Minderheitsanträge zu diesem Artikel sind
+                    zurückgezogen. </p>
+                <p> Bei Artikel 87 wird die Entscheidung über die Frage, ob die Funktionen des
+                    Landeshauptmannes von denen des Landtagspräsidenten obligatorisch zu trennen
+                    seien, der Abstimmung überlassen. Bei Artikel 88 entscheidet der Unterausschuß,
+                    daß die Frist für Einsprüche der Bundesregierung gegen Gesetzesbeschlüsse der
+                    Landtage mit 8 Wochen festzusetzen sei. </p>
+                <p> Der Minderheitsantrag des Abgeordneten Leuthner zu Artikel 88 wird der
+                    Abstimmung überlassen, desgleichen zu Artikel 89. </p>
+                <p> Absatz 4 des Artikels 91 hat auf Antrag des Abgeordneten Dr. Seipel zu lauten:
+                    „(4) Der Landeshauptmann wird durch den Bundespräsidenten, die anderen
+                    Mitglieder der Landesregierung werden durch den Landeshauptmann auf die
+                    Verfassung angelobt“ 304) Auf das Minderheitsvotum zu Artikel 91 verzichtet Dr.
+                    Danneberg, wenn festgestellt wird, daß die Mitglieder der Landesregierungen von
+                    nun an von den Ländern bezahlt werden. </p>
+                <p> Hierauf verliest der Vorsitzende eine Formulierung des Artikels 92, die von der
+                    Staatskanzlei ausgearbeitet wurde. </p>
+                <p> Sekt. Rat. Dr. Mannlicher bemerkt, daß die gleichen Ausdrücke wie in Artikel 10
+                    gewählt worden seien, da die Aufzählung sich auf die Angelegenheiten und nicht
+                    auf die einzelnen Behörden bezieht. Vom gegenwärtigen Zustand weicht der
+                    Vorschlag nur insofern ab, als die politische Behörde als verländert angesehen
+                    wird. Strittig ist die Einreihung der Agrarbehörden, die das Staatsamt für Land-
+                    und Forstwirtschaft gleichfalls hier aufgenommen wünscht 306). Sie wurde jedoch
+                    mit Rücksicht auf verwaltungsreformatorische Ideen weggelassen. Es sei nämlich
+                    eine Umgestaltung in der Richtung geplant, daß diese Behörden auch Geschäfte der
+                    jetzigen poli<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/> tischen
+                    Behörden zu übernehmen hätten. Zu erwähnen wäre noch, daß die Agenden der
                     Volksgesundheit so eng mit der politischen Verwaltung zusammenhängen, daß sie
                     von dieser nicht getrennt werden können. Eine weitere Ergänzung wünscht, wie
                     Ministerialrat Dr. Froehlich mitteilt, das Staatsamt für soziale Verwaltung. Das
@@ -280,47 +283,51 @@
                     subsumieren wären. Es wäre daher wünschenswert „Arbeiterrecht, Arbeiter- und
                     Angestelltenschutz“ sagen. Der Vorsitzende sieht die praktische Durchführung
                     darin, daß man die Gewerbeinspektoren mit allen einschlägigen Agenden betrauen
-                    kann. Die Aufzählung hat, wie Min. Rat. Dr. Froehlich betont, außerordentliche
+                    kann. </p>
+                <p> Die Aufzählung hat, wie Min. Rat. Dr. Froehlich betont, außerordentliche
                     Schwierigkeiten bereitet. Es gibt eine große Zahl staatlicher Ämter, die aber
                     eigentlich Wirtschaftsstellen der staatlichen Privatwirtschaft sind, daher müßte
                     die allgemeine Fassung des Artikels 92 a gewählt werden. Erläuternd bemerkt
                     Sekt. Rat Dr. Mannlicher, daß die Forste nicht aufgezählt sind. Die bezüglichen
                     Angelegenheiten gehören als technischer, ebenso wie die Bauangelegenheiten der
                     Gesundheits-, Veterinär-, Archiv- und Bibliotheksdienst zum Wirkungskreis der
-                    politischen Verwaltung. Prof. Dr. Seipel wünscht Feststellung, welche Organe die
-                    finanziellen Angelegenheiten zwischen Bund und Ländern zu regeln haben, würde es
-                    auch vorziehen, von Justizwesen zu reden und nicht von Justizpflege 30). Er
-                    ersucht endlich um Aufklärungen zu einzelnen Punkten, welche Beamte mit diesen
+                    politischen Verwaltung.</p>
+                <p> Prof. Dr. Seipel wünscht Feststellung, welche Organe die finanziellen
+                    Angelegenheiten zwischen Bund und Ländern zu regeln haben, würde es auch
+                    vorziehen, von Justizwesen zu reden und nicht von Justizpflege 30). Er ersucht
+                    endlich um Aufklärungen zu einzelnen Punkten, welche Beamte mit diesen
                     Angelegenheiten befaßt sind. Zum Beispiel, „Waren und Viehverkehr mit dem
-                    Auslande“. Sehr allgemein ist auch 305) Art. 102 B.-VG. 306) Art. 12 Abs. 2
-                    B.-VG. und § 8 Abs. 1 VUG. 1920. 307) Art. 102 Abs. 2 B.-VG. 439 15. Sitzung die
-                    Wendung „Arbeiterrecht und Arbeiter- und Angestelltenschutz“, auf<pb
-                        facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>5</p>
-                <p>Grund deren viele neue Organe eingeführt werden könnten, während jetzt nur die
-                    Gewerbeinspektoren vorhanden sind. Sekt. Rat. Dr. Mannlicher erwähnt, daß das
-                    Staatsamt für Landund Forstwirtschaft großes Gewicht auf die Aufnahme des
-                    Veterinärdienstes gelegt hat, die aber wegen des engen Zusammenhanges mit der
-                    politischen Verwaltung unterblieben sei. Man müsse darauf bedacht sein, die
-                    Verhandlungsfähigkeit mit dem Auslande nicht zu gefährden. Eswurde an nichts
-                    mehr gedacht, als im Bedarfsfalle an den Grenzen auch Veterinärorgane
-                    anzustellen, wie dies schon früher an der russischen und serbischen Grenze
-                    gewesen sei. Der Ausdruck Justizpflege sei vom Staatsamt für Justiz gewünscht
-                    worden. Auf dem Gebiete des Arbeiterrechtes kommen derzeit nur die
-                    Gewerbeinspektoren in Betracht. Der Vorsitzende erwähnt auch die neu errichteten
-                    Einigungsämter und die Gewerbegerichte als Bundesorgane auf dem Gebiete des
-                    Arbeiterrechtes. Staatssekretär Prof. Dr. Mayr erklärt, daß an eine weitere
-                    Ausgestaltung nicht gedacht sei. Auch werden die Länder kaum Wert auf
-                    Selbständigkeit legen, da es ihnen an geeigneten Leuten mangelt. Abgeordneter
-                    Fink wünscht im Berichte eine authentische Erklärung über die Kompetenz in
-                    Fragen des Arbeiterrechtes und Arbeiterschutzes. Artikel 92 und 92 a werden nun
-                    in folgender Form beschlossen 308) „Artikel 92. (1) Im Bereiche der Länder wird
-                    die vollziehende Gewalt des Bundes entweder durch eigene Bundesbehörden
-                    (unmittelbare Bundesverwaltung) oder durch die Landesregierungen und die ihnen
-                    unterstellten Landesbehörden (mittelbare Bundesverwaltung) ausgeübt. (2)
-                    Folgende Angelegenheiten können im Rahmen des durch das Bundesverfassungsgesetz
-                    festgestellten Wirkungsbereiches des Bundes unmittelbar durch Bundesbehörden
-                        ver<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>6</p>
-                <p>sehen werden: Waren und Viehverkehr mit dem Auslande, Grenzvermarkung, Zollwesen,
+                    Auslande“. Sehr allgemein ist auch die Wendung „Arbeiterrecht und Arbeiter- und
+                    Angestelltenschutz“, auf<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+                    Grund deren viele neue Organe eingeführt werden könnten, während jetzt nur die
+                    Gewerbeinspektoren vorhanden sind. </p>
+                <p> Sekt. Rat. Dr. Mannlicher erwähnt, daß das Staatsamt für Land- und
+                    Forstwirtschaft großes Gewicht auf die Aufnahme des Veterinärdienstes gelegt
+                    hat, die aber wegen des engen Zusammenhanges mit der politischen Verwaltung
+                    unterblieben sei. Man müsse darauf bedacht sein, die Verhandlungsfähigkeit mit
+                    dem Auslande nicht zu gefährden. Eswurde an nichts mehr gedacht, als im
+                    Bedarfsfalle an den Grenzen auch Veterinärorgane anzustellen, wie dies schon
+                    früher an der russischen und serbischen Grenze gewesen sei. Der Ausdruck
+                    Justizpflege sei vom Staatsamt für Justiz gewünscht worden. Auf dem Gebiete des
+                    Arbeiterrechtes kommen derzeit nur die Gewerbeinspektoren in Betracht. Der
+                    Vorsitzende erwähnt auch die neu errichteten Einigungsämter und die
+                    Gewerbegerichte als Bundesorgane auf dem Gebiete des Arbeiterrechtes. </p>
+                <p> Staatssekretär Prof. Dr. Mayr erklärt, daß an eine weitere Ausgestaltung nicht
+                    gedacht sei. Auch werden die Länder kaum Wert auf Selbständigkeit legen, da es
+                    ihnen an geeigneten Leuten mangelt. Abgeordneter Fink wünscht im Berichte eine
+                    authentische Erklärung über die Kompetenz in Fragen des Arbeiterrechtes und
+                    Arbeiterschutzes. </p>
+                <p> Artikel 92 und 92 a werden nun in folgender Form beschlossen: </p>
+                <p>„Artikel 92. </p>
+                <p> (1) Im Bereiche der Länder wird die vollziehende Gewalt des Bundes entweder
+                    durch eigene Bundesbehörden (unmittelbare Bundesverwaltung) oder durch die
+                    Landesregierungen und die ihnen unterstellten Landesbehörden (mittelbare
+                    Bundesverwaltung) ausgeübt. </p>
+                <p> (2) Folgende Angelegenheiten können im Rahmen des durch das
+                    Bundesverfassungsgesetz festgestellten Wirkungsbereiches des Bundes unmittelbar
+                    durch Bundesbehörden ver<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+                    sehen werden: </p>
+                <p> Waren und Viehverkehr mit dem Auslande, Grenzvermarkung, Zollwesen,
                     Bundesfinanzen, Monopolwesen, Gewichts-, Normen- und Punzierungswesen,
                     Justizwesen, Verkehrswesen, Bundesstraßen, Strom- und Schiffahrtspolizei, Post-,
                     Telegraphen- und Fernsprechwesen, Bergwesen, militärische Angelegenheiten,
@@ -329,24 +336,28 @@
                     Erhaltung von Wasserstraßen, Vermessungswesen, Arbeiterrecht, Arbeiter- und
                     Angestelltenschutz, Sozialversicherungswesen, Fürsorge für Kriegsteilnehmer und
                     deren Hinterbliebene, Schul- und Erziehungswesen, Volksbildungswesen,
-                    Denkmalschutz. (3) Dem Bunde bleibt es vorbehalten, auch in den im Absatz 2 auf
-                    308) Art. 102 B.-VG. dem Sinne nach. 440 Protokolle des Unterausschusses
-                    gezählten Angelegenheiten die Landesregierungen mit der vollziehenden Gewalt des
-                    Bundes zu beauftragen. (4) Die Errichtung von eigenen Bundesbehörden für andere
-                    als die im Absatz 2 bezeichneten Angelegenheiten kann nur mit Zustimmung der
-                    beteiligten Länder erfolgen. (5) In den Angelegenheiten der mittelbaren
-                    Bundesverwaltung sind die Landesregierungen an die Weisungen der Bundesregierung
-                    sowie der einzelnen Bundesministerien gebunden; der administrative Instanzenzug
-                    geht in diesen Angelegenheiten — wenn nicht durch Bundesgesetz ausdrücklich
-                    anders bestimmt ist — bis zu den zuständigen Bundesministerien. Art. 92 a 309)
-                    „Die Bestimmungen des Artikels 92, Absatz 2 und 4, finden nicht Anwendung auf
+                    Denkmalschutz.</p>
+                <p> (3) Dem Bunde bleibt es vorbehalten, auch in den im Absatz 2 aufgezählten
+                    Angelegenheiten die Landesregierungen mit der vollziehenden Gewalt des Bundes zu
+                    beauftragen. </p> 
+                <p> (4) Die Errichtung von eigenen Bundesbehörden für andere als die im
+                    Absatz 2 bezeichneten Angelegenheiten kann nur mit Zustimmung der beteiligten
+                    Länder erfolgen. </p> 
+                <p> (5) In den Angelegenheiten der mittelbaren Bundesverwaltung
+                    sind die Landesregierungen an die Weisungen der Bundesregierung sowie der
+                    einzelnen Bundesministerien gebunden; der administrative Instanzenzug geht in
+                    diesen Angelegenheiten — wenn nicht durch Bundesgesetz ausdrücklich anders
+                    bestimmt ist — bis zu den zuständigen Bundesministerien.</p> 
+                <p> Art. 92 a </p> <p> „Die
+                    Bestimmungen des Artikels 92, Absatz 2 und 4, finden nicht Anwendung auf
                     Einrichtungen zur Besorgung der Geschäfte des Bundes als Träger von
                     Privatrechten (Artikel 14)“. Jedoch behält sich jede Partei noch nähere
                     Durchsicht vor. Ein sozialdemokratischer Minderheitsantrag zu Artikel 97 wird
-                    der Abstimmung überlassen. Zum folgenden 5. Hauptstück bemerkt der Vorsitzende
+                    der Abstimmung überlassen.</p> 
+                <p> Zum folgenden 5. Hauptstück bemerkt der Vorsitzende
                     daß prinzipielle Fragen offen geblieben seien: Die Einführung<pb facs="#facs_8"
-                        n="8" xml:id="img_0008" break="yes"/>7</p>
-                <p>von Kreisen überhaupt 310), da die Vertreter der christlichsozialen Partei gegen
+                        n="8" xml:id="img_0008" break="yes"/>
+                von Kreisen überhaupt, da die Vertreter der christlichsozialen Partei gegen
                     die Einführung von Kreisen in den größeren Ländern Stellung genommen haben;
                     ferner wünscht die sozialdemokratische Partei, daß die Leiter der Bezirks- und
                     Kreisämter zwar rechtskundige Verwaltungsbeamte, aber Organe des Bezirkes oder
@@ -358,13 +369,14 @@
                     20.000 Einwohnern zubilligen, wogegen ein anderer Vertreter und auch der
                     Abgeordnete Segur die Zahl des Entwurfes beibehalten will. Die
                     sozialdemokratische Partei ficht die einjährige Seßhaftigkeit und die
-                    Sonderbestimmungen für kleine Gemeinden mit weniger als 500 Einwohnern an. In
+                    Sonderbestimmungen für kleine Gemeinden mit weniger als 500 Einwohnern an. </p> 
+                <p> In
                     Artikel 97b beantragt Prof. Dr. Seipel die Streichung der „Kreise“, was Dr.
                     Danneberg für unannehmbar erklärt. Ersterer stellt daher einen
                     Vermittlungsantrag, die Kreise zwar zu erwähnen, aber festzusetzen, daß sie nur
-                    auf Antrag der Landesregierungen eingeführt werden können. Der Vorsitzende
-                    meint, daß die Partei dem nicht zustimmen 309) Art. 104 B.-VG. 310) Siehe S. 288
-                    f, 318 ff, 373 ff. 15. Sitzung 441 könne, da es sich um eine Art Minoritätsrecht
+                    auf Antrag der Landesregierungen eingeführt werden können. </p> 
+                <p> Der Vorsitzende
+                    meint, daß die Partei dem nicht zustimmen könne, da es sich um eine Art Minoritätsrecht
                     kleinerer Gebiete handle. Man könne ein solches Minoritätsrecht nicht von der
                     Zustimmung irgendeiner Mehrheit abhängig machen. Präsident Seitz erklärt, daß
                     die Arbeiterschaft namentlich Nordsteiermarks, den Vertretern zum Vorwurf macht,
@@ -378,167 +390,207 @@
                     Bildung von Kreisen Abstand genommen worden sei, man bedarf aber einer Sicherung
                     daß sie in Nieder- und Oberösterreich sowie in Steiermark eingeführt werden,
                     sonst sei die Zustimmung der Vertreter dieser Länder nicht erlangen. Der
-                    Unterausschuß nimmt nach längerer Debatte folgende Fassung des Artikels 97 b an:
-                    „Artikel 97 b. (1) Verwaltungssprengel und Selbstverwaltungskörper, in welche
-                    sich die Länder gliedern, sind die Ortsgemeinden und die Gebietsgemeinden. (2)
-                    Die Ortsgemeinden sind den Gebietsgemeinden und diese den Ländern untergeordnet“
-                    311) Hiegegen meldet Dr. Danneberg ein Minoritätsvotum an: Ein Antrag des
+                    Unterausschuß nimmt nach längerer Debatte folgende Fassung des Artikels 97 b an:</p> 
+                <p> 
+                    „Artikel 97 b. </p> 
+                <p> (1) Verwaltungssprengel und Selbstverwaltungskörper, in welche
+                    sich die Länder gliedern, sind die Ortsgemeinden und die Gebietsgemeinden. </p> 
+                <p> (2)
+                    Die Ortsgemeinden sind den Gebietsgemeinden und diese den Ländern untergeordnet.“</p> 
+                  <p>   Hiegegen meldet Dr. Danneberg ein Minoritätsvotum an. </p> 
+                <p> Ein Antrag des
                     Abgeordneten Fink, nur den Städten mit 20.000, nicht auch denen mit 15.000
                     Einwohnern den Anspruch auf Erklärung zu Gebietsgemeinden zuzuerkennen, wird
                     abgelehnt, da Abgeordneter Dr. Danneberg nachweist, daß es sich im Ganzen um 4
                     Gemeinden handelt, nämlich um Mödling, Wels, Eggenberg und Donawitz, denen man
-                    wohl dieselben Rechte wie Waidhofen a. d. Ybbs gewähren könne. Sinngemäß wird
-                    Artikel 97 c unter Streichung des zweiten Absatzes folgendermaßen abgeändert:
-                    „Artikel 97 c. (1) Ortsgemeinden mit mehr als 15.000 Einwohnern sind auf ihren
+                    wohl dieselben Rechte wie Waidhofen a. d. Ybbs gewähren könne.</p> 
+                <p> Sinngemäß wird
+                    Artikel 97 c unter Streichung des zweiten Absatzes folgendermaßen abgeändert:</p> 
+                <p> 
+                    „Artikel 97 c. </p>
+                <p> (1) Ortsgemeinden mit mehr als 15.000 Einwohnern sind auf ihren
                     Antrag zu Gebietsgemeinden zu erklären. Bei ihnen fällt die Gemeindeverwaltung
-                    mit der Gebietsgemeindeverwaltung zusammen. (2) Die bisherigen Städte mit
-                    eigenem Statut werden Gebietsgemeinden“ 312) Ferner hat der Beginn des Artikels
+                    mit der Gebietsgemeindeverwaltung zusammen. </p> 
+                <p> (2) Die bisherigen Städte mit
+                    eigenem Statut werden Gebietsgemeinden.“ </p>
+                <p> Ferner hat der Beginn des Artikels
                     97d zu lauten: „Die Ortsgemeinden und Gebietsgemeinden sind auch selbständige
                         Wirtschaftskörper<pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"
-                    />Zu Artikel 97 e meldet Dr. Danneberg ein sozialdemokratisches Minoritätsvotum
+                    /></p> 
+                <p> Zu Artikel 97 e meldet Dr. Danneberg ein sozialdemokratisches Minoritätsvotum
                     bezüglich der Wahl von rechtskundigen Beamten an. Prof. Dr. Seipel stellt fest,
-                    daß der erste Absatz nunmehr zu lauten hat: „(1) Die Organe der Ortsgemeinden
+                    daß der erste Absatz nunmehr zu lauten hat: </p> 
+                <p> „(1) Die Organe der Ortsgemeinden
                     sind die Ortsgemeindevertretung und das Ortsgemeindeamt, die Organe der
-                    Gebietsgemeinden sind Gebietsgemeindevertretung und das Gebietsgemeindeamt“ 314)
+                    Gebietsgemeinden sind Gebietsgemeindevertretung und das Gebietsgemeindeamt“. </p> 
+                <p> 
                     Die Bestimmungen für Gemeinden mit weniger als 500 Einwohnern können gestrichen
                     werden, hingegen kann seine Partei der Streichung des Satzes „doch kann für die
                     Wahlen in die Vertretung der Ortsgemeinde das Wahlrecht von der Dauer des
                     Aufenthaltes in der Gemeinde bis zu einem Jahre abhängig gemacht werden“ nicht
-                    zustimmen, ebenso auch nicht der Wahl der Amtsvorsteher. Der Vorsitzende
+                    zustimmen, ebenso auch nicht der Wahl der Amtsvorsteher.</p> 
+                <p> Der Vorsitzende
                     bemängelt, daß durch jede Seßhaftigkeitsklausel Gruppen von Arbeitern das
                     Gemeindewahlrecht entzogen werde, die wie Bauarbeiter, Kellner und Schneider
                     gezwungen sind, fortwährend ihren Aufenthalt zu wechseln. Vielleicht könnte man
                     diese Sonderbestimmung auf kleinere Gemeinden mit weniger als 1000 Einwohnern
-                    beschränken. Abgeordneter Clessin meint, daß sich die Schäden einer
+                    beschränken. </p> 
+                <p> Abgeordneter Clessin meint, daß sich die Schäden einer
                     fluktuierenden Wählerschaft auch in größeren Städten, zum Beispiel in Salzburg
                     bemerkbar machen können. Präsident Seitz findet den Vorschlag des Vorsitzenden
                     sehr weitgehend, da seine Partei prinzipiell der Seßhaftigkeitsklausel nie
                     zustimmen könne. Ein solcher Zustrom von Bauarbeitern, daß die Wahl in die
                     Gemeindevertretung beeinflußt werden könnte, wird bei dem Darniederliegen der
-                    Bautätigkeit noch viele Jahre nicht eintreten. Abgeordneter Clessin verweist auf
+                    Bautätigkeit noch viele Jahre nicht eintreten. </p> 
+                <p> Abgeordneter Clessin verweist auf
                     eine ähnliche Bestimmung im Deutschen Reich. Abgeordneter Weiskirchner meint,
                     daß die Seßhaftigkeitsklausel im alten Österreich viel bedeutsamer gewesen sei,
                     die Zuwande<pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>10</p>
-                <p>fer nagen Andersaatioaele, Ia Hien hielten dich in der guter Zeit etwa 60 bis
-                    89000 Bauarbeiter auf, die Saisenarbeiter waren. Abgesrdaster Fink halt die Zahl
-                    von 1000 Eznnchnern für zu geriag. So seien beim Spuller see 1000 Arbeiter
+                <p>rer waren Ändersnationale. In Wien hielten sich in der guten Zeit etwa 60 bis
+                    80.000 Bauarbeiter auf, die Saisonarbeiter waren. Abgeordneter Fink hält die
+                    Zahl von 1000 Einwohnern für zu gering. So seien beim Spuller See 1000 Arbeiter
                     beschäftigt, die mehr oder minder alle wahlberechtigt sind und in einer Gemeinde
-                    in Baracken wohnen. Es brauchte 2000 sonstiger Einwohner in der Gemeinde, damit
-                    die Ortsansässigen ihnen gegenüber zur Geltung konnen können. Der Varsitzende
-                    erklärt, daß seine Partei nie für die Sckhaftigkeit stimmen könne, daß die
-                    Abstimmung jetzt nicht erfolgen, sondern ein Kampremiß gesucht werden soll. Die
-                    Seaderbestimmung für Gemeinden veh weniger als 306 Eie veero wird gestrichen.
-                    Präsident Seitz führt hierauf aus, daß seine Parlei auf der Mahl der Antsleiter
-                    bestehen müsse. Wenn men bei Ministern und Landeshauptmännern einwendet, daß
-                    sie, die auch nicht Beante sein müssen, der earen großer Beanteusteb ungeben
-                    seren, so daß was auf ihre Spezielkensteisse ver zichten könne, während bei der
-                    Bezirkshauptmannschaft nur 2 oder 3 rechtskundige Bsante sind, deren Einfluß der
-                    Fachlich nicht Vorgebaldeteleicht unterliegen kann, so wünscht die Partei, daß
-                    nur wählbar ist, wer einen gewissen Bildungsgrad erreicht hat und also
-                    rechtskundiger Beamter ist. Dre Auswahl muß dem betreffenden Körper zustehen.
-                    Prof. Dr. Sei pel hält diese Neuerung für sehr bedenklich; Winister und
-                    Landeshauptmann seien Volksbeauftragte, diese gewählten Beanten jedoch nicht.
-                    Seine Partei wünscht die Aufrechterhaltung der Verwaltung und muß sich gegen
-                    gewählte Bezirkshauptmänner ebense wenden, wie gegen ernannte Landeshauptaänner.
-                    Abgeordneter Cless in findet, daß solche Beamte eine überragende Stellung
-                    gegenüber allen ernannten Beanten erlangen, wodurch die Verwaltung in den
-                    Ländern auseinanderfallen würde. Deshalb müsse auch er sich gegen die Mahl der
-                    Dezirkshauptmänner aussprechen.<pb facs="#facs_12" n="12" xml:id="img_0012"
-                        break="yes"/>11 Präsident Seitz meint, daß auch die Beamten des Bezirkes vom
-                    Bezirkshauptmann ergannt werden müßten. Dr. Weiskirchner befürchtet, daß bei der
-                    Einführung selcher Hahlbeamten eine sachliche Verwaltung nicht mehr möglich
-                    wäre, weil der Beamte auch für die nächste Hahl die Zufriedenheit seiner Fähler
-                    zu erwerben trachten. müsse. Der Varsitzende lehnt den Gedanken der Ernennung
-                    durch die Landesregierung ab. Es sei auch bei den Gemeinden selbstverständlich,
-                    daß ihre Beanten von der Gemeinde ernannt werden. Es sei bereits ein
-                    Zugeständnis, daß der Hahl eines rechtskundigen Bsamten zugestimmt wurde. Im
-                    Allgemeinen wäre die Kenstruktion der Stellung des preußischen Land rates zu
-                    wählen. Dr. Seipol meint, daß der Hahl der übrigen Bxamten dadurch nicht
-                    präjudiziert wäre. Der Vorschlag seiner Paris, schließe die Wahl nicht aus,
-                    möchte aber die Rezulunz sinen künftigen Versaltungsorganiaationsgesetz überrenn
-                    Es hebte zu heissen: Die Leiter der BezirkshauptMarnschaft müssen rechtskundige
-                    Verwaltungsbeamte sein. Dis Wahl kann ja künftig nermiert werden. Die Vertreter
-                    der christlichsazialen und der großdeutschen Partei bleiben schließlich bei der
-                    Fassung, wie sie der Unterausschuß beschloß, während der sozialdemokratische
-                    Eirderheitsantrag aufrecht bleibt. In den Artikelndes H. Häuptstückes haben die
-                    Kreigänter zu ectfallen. Zu Artikel 97f hat die Regierung eige Passung
-                    vorgelegt. Die Kehl des Anstruckes »Obsoren für die Sicherneit der Personen und
-                    des Eigentuma erklärt Sekt. Rat Dr.Mann Iicher damit, daß eine sachliche
-                    Aenderung des Renner schen Entaurfes nicht geebsichtigt gewesen sei, nur wäre
-                    dieser Kortlaut zweckmäßiger erschienen, da er sich an die beslehende
-                    Geueindeordnung anschließt, algo eingelehte Ausdrücke verwendel, die eineo
-                    bestimmten Inhall haben, Prof Br. k ei s« a hemerät hiez, dak der Begroff<pb
-                        facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>-12 der
-                    Sicherheitspolizei sehr strittig sei, was sich auch bei der Verhandlung mit den
-                    Vertretern der Staatsänter herausgestellt hat, iaher wurde die Bezerchnung der
-                    Gemeindeordnung gewählt. Hinzugefügt wird jedoch auf Antrag des Vorsitzenden in
-                    Klannern vörtliche Sicherheitspelizet? Dr. Bauer erwähnt auch, daß von den
-                    Ländervertretern die Frage aufgeworfen worden sei, ob die nach Artikel 97f zu
-                    erlassenden Verwaltungsgesetze als Verfassungegesetze zustandekommen müssen. Von
+                    in Baracken wohnen. Es brauchte 2000 sonstiger Einwohner in der Gemeinde,da mit
+                    die Ortsansässigen ihnen gegenüber zur Geltung kommen können.</p> 
+                <p> Der Vorsitzende
+                    erklärt, daß seine Partei nie für die Seßhaftigkeit stimmen könne, daß die
+                    Abstimmung jetzt nicht erfolgen, sondern ein Kompromiß gesucht werden soll. Die
+                    Sonderbestimmung für Gemeinden von weniger als 500 Einwohnern wird gestrichen.</p> 
+                <p> 
+                    Präsident Seitz führt hierauf aus, daß seine Partei auf der Wahl der Amtsleiter bestehen müsse. Wenn man
+                    bei Ministern und Landeshauptmännern einwendet, daß sie, die auch nicht Beamte
+                    sein müssen, von einem großen Beamtenstab umgeben seien, so daß man auf ihre
+                    Spezialkenntnisse verzichten könne, während bei der Bezirkshauptmannschaft nur 2
+                    oder 3 rechtskundige Beamte sind, deren Einfluß der fachlich nicht Vorgebildete
+                    leicht unterliegen kann, so wünscht die Partei, daß nur wählbar ist, wer einen
+                    gewissen Bildungsgrad erreicht hat und also rechtskundiger Beamter ist. Die
+                    Auswahl muß dem betreffenden Körper zustehen. Prof. Dr. Seipel hält diese
+                    Neuerung für sehr bedenklich: Minister und Landeshauptmann seien
+                    Volksbeauftragte, diese gewählten Beamten jedoch nicht. Seine Partei wünscht die
+                    Aufrechterhaltung der Verwaltung und muß sich gegen gewählte Bezirkshauptmänner
+                    ebenso wenden, wie gegen ernannte Landeshauptmänner. Abgeordneter Clessin
+                    findet, daß solche Beamte eine überragende Stellung gegenüber allen ernannten
+                    Beamten erlangen, wodurch die Verwaltung in den Ländern auseinanderfallen würde.
+                    Deshalb müsse auch er sich gegen die Wahl der Bezirkshauptmänner aussprechen.<pb
+                        facs="#facs_12" n="12" xml:id="img_0012" break="yes"/> </p> 
+                <p> Präsident Seitz meint,
+                    daß auch die Beamten des Bezirkes vom Bezirkshauptmann ernannt werden müßten.</p> 
+                <p> Dr.
+                    Weiskirchner befürchtet, daß bei der Einführung solcher Wahlbeamten eine
+                    sachliche Verwaltung nicht mehr möglich wäre, weil der Beamte auch für die
+                    nächste Wahl die Zufriedenheit seiner Wähler zu erwerben trachten müsse. </p> 
+                <p> Der
+                    Vorsitzende lehnt den Gedanken der Ernennung durch die Landesregierung ab. Es
+                    sei auch bei den Gemeinden selbstverständlich, daß ihre Beamte von der Gemeinde
+                    ernannt werden. Es sei bereits ein Zugeständnis, daß der Wahl eines
+                    rechtskundigen Beamten zugestimmt wurde. Im Allgemeinen wäre die Konstruktion
+                    der Stellung des preußischen Landrates zu wählen. </p> 
+                <p> Dr. Seipel meint, daß der Wahl
+                    der übrigen Beamten dadurch nicht präjudiziert wäre. Der Vorschlag seiner Partei
+                    schließe die Wahl nicht aus, möchte aber die Regelung einem künftigen
+                    Verwaltungsorganisationsgesetz überlassen. Es hätte zu heißen: „Die Leiter der
+                    Bezirkshauptmannschaft müssen rechtskundige Verwaltungsbeamte sein“. Die Wahl
+                    kann ja künftig normiert werden. </p> 
+                <p> Die Vertreter der christlichsozialen und der
+                    großdeutschen Partei bleiben schließlich bei der Fassung, wie sie der
+                    Unterausschuß beschloß, während der sozialdemokratiche Minderheitsantrag
+                    aufrecht bleibt. In den Artikeln des 5. Hauptstückes haben die Kreisämter zu
+                    entfallen. </p> 
+                <p> Zu Artikel 97f hat die Regierung eine Fassung vorgelegt. Die Wahl des
+                    Ausdruckes „Obsorge für die Sicherheit der Personen und des Eigentums“ erklärt
+                    Sekt. Rat Dr. Mannlicher damit, daß eine sachliche Änderung des Renner’schen
+                    Entwurfes nicht beabsichtigt gewesen sei, Protokolle des Unterausschusses 444
+                    nui wäre dieser Wortlaut zweckmäßiger erschienen, da er sich an die bestehende
+                    Gemeindeordnung anschließt, also eingelebte Ausdrücke verwendet, die einen
+                    bestimmten Inhalt haben.</p> 
+                <p> Prof. Dr. Kelsen bemerkt hiezu, daß der Begriff<pb
+                        facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>der Sicherheitspolizei
+                    sehr strittig sei, was sich auch bei der Verhandlung mit den Vertretern der
+                    Staatsämter herausgestellt hat, daher wurde die Bezeichnung der Gemeindeordnung
+                    gewählt. Hinzugefügt wird jedoch auf Antrag des Vorsitzenden in Klammern
+                    „örtliche Sicherheitspolizei“.</p> 
+                <p> Dr. Bauer erwähnt auch, daß von den
+                    Ländervertretern die Frage aufgeworfen worden sei, ob die nach Artikel 97 f zu
+                    erlassenden Verwaltungsgesetze als Verfassungsgesetze zustandekommen müssen. Von
                     christlichsozialer Seite sei daraufhin angeregt worden, dies als zweckmäßig zu
-                    erkla ren. Auch von sozialdemokratischer Seite bestünde keine Einwendung,
-                    verausgesetzt daß auch die Ausführungsgesetze in den Ländern Verfassungsgesetze
-                    sind. Während Hin.Rat Dr. Freehlich dies für zu starr findet, erklärt Dr. Seipel
-                    anderer Anschauung zu sein. Er muchte in Absatz 1 des Artikels 97 f hinzufügen
-                    »Diese Gesetze sind Bundesbeziehungsweise Landesverfassungsgesetze. Fir die
-                    Ausführung hingegen sei es schwer Verfassungegesetze zu verlangen. Vom zuwälden
-                    Standpunkte seiner Porter wäre die Formulierund Die Fostsetzung der weiteren
-                    Grundsätze erfolgt durch Bundesverfassuagsgesetz, die Ausführung liegt der
-                    Landesgesetzgebung ob" Dr. Danaeberg erwähnt hiebei die Hotwendigkeit, die
-                    Rücknirkung der Frags auf Hien zu erwägen, kan müßte vorsehen, daß die
-                    Heuprganisetien durch das Wiener Gemeindestatut zu erfolgen hat. So könnts Kien
-                    die Tätigkeit in übertrogenen Wirkungskreis nicht nach ergenen Gutdünkea
-                    orgenisieren. Die gewählten Bezirksvertreter haben nur Einfluß auf die autenemen
+                    erklären. Auch von sozialdemokratischer Seite bestünde keine Einwendung,
+                    vorausgesetzt, daß auch die Ausführungsgesetze in den Ländern Verfassungsgesetze
+                    sind. Während Min. Rat Dr. Froehlich dies für zu starr findet, erklärt Dr.
+                    Seipel, anderer Anschauung zu sein. Er möchte in Absatz 1 des Artikels 97 f
+                    hinzufügen „Diese Gesetze sind Bundes- bzw. Landesverfassungsgesetze“. Für die
+                    Ausführung hingegen sei es schwer, Verfassungsgesetze zu verlangen. Vom
+                    Standpunkte seiner Partei wäre die Formulierung zu wählen: „Die Festsetzung der
+                    weiteren Grundsätze erfolgt durch Bundesverfassungsgesetz, die Ausführung liegt
+                    der Landesgesetzgebung ob“. Dr. Danneberg erwähnt hiebei die Notwendigkeit, die
+                    Rückwirkung der Frage auf Wien zu erwägen. Man müßte vorsehen, daß die
+                    Neuorganisation durch das Wiener Gemeindestatut zu erfolgen hat. So könnte Wien
+                    die Tätigkeit im übertragenen Wirkungskreis nicht nach eigenem Gutdünken
+                    organisieren. Die gewählten Bezirksvertreter haben nur Einfluß auf die autonomen
                     Geschäfte der Stadt, das magistratische Bezirksamt war jedoch von ihnen
-                    vollständig unathängig. Man sollte doch der Bundeshauptstadt das Recht
-                    einräumen, daß sie die Verwaltungsgrundsätze durch das Gewwindextatut regelt.
-                    Han könne immerhin eine Genehmigung durch die Bundesregierung vorsehen. Mit
-                    Zustimmung des Unterausschusses graucht der Vorzitzende Praf. Dr. Kelsen nach
-                    Fuhlungnahme mit dan Rathauge seinen Vorschiag auch auf dieses Preblem zu
-                        erstrecken.<pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>13</p>
-                <p>Dr. DanReberg münscht in der Formulierung des Artikels 37f das immer
-                    wiederkehrende Hort Polizei durch ein anderes ersetzt. Der Vorsitzende spricht
-                    sich jedoch dekeßen aus, da dies traditionelle Ausdrückeaus der kameralistischen
-                    Spache seien; würden sie durch andere ersetzt, so bedürkton aro umständlicher
-                    Urklärungen. Der Uterausschuß nimmit den Artikel in folgendem Kortlaute an:
-                    "Artikel 97 f. (1) Die Festsetzung der reiteren Grundsätze für die Orgonisation
-                    der allgemennen stagtlichen Verwaltung in den Ländern nach den Art. 97 a bis I o
-                    ist Sache der BundesgeSetzgebung: die Ausführung liegt den Landesgesetzgebungen
-                    ab(2) Welche Verwaltungsgeschäfte sachlich und instanzonmäßig den Vertrelungen
-                    und Verwaltungsausschüssen sonie den Kemtern zukammen, bestimmen die
-                    Bundesgesetzgebung und die Landespesptzgebungen innerhalb ihrer
-                    verfasgungsmäßigen Zuständizkeit. (3) Hieben ist jenach den Gemeinäen ein
-                    Kirkungskreis in erster Instanz in folgenden Angelegenhriten gewährleistet. 1.)
-                    Ohsorge für die Sicherheit der Person und des Eigantums (örtliche
-                    Sicherhertspolizer), 2. HiIFs- und Kettungswesgn. 3.) Serge für die Erhaltung
-                    der Straßen. Rege, Plätze und Brücken der Grmeinde; 4.) ertliche Straßenpalizsi;
-                    G.1 Flurschutz und Flurpolizsi: 6.) Kärkt- und Leheusmittalpolizei: 7.d
-                    Gesundheitspalizer. 5.) Bau- und Fauerpolizer. In Artikel 138 werden die Horte
-                    „des Bundes oder eines landesgeslrichen, da es sich auch um eine Gemeinse
-                    handeln kann. Auch hat er auf Antrag des Prof.Dr. Seipe anstatt »über die
-                    Rechtsverletzungen zu lauten vüber BeSchwerden wegen Rechtsverletzung“ 1.<pb
-                        facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>14 Zu den folgenden
-                    Artikeln bemerkt Prof.Dr. Kel s e a, daß eine Reihe von technischen Fragen zu
-                    bereinigen wäre. Er bemerkt auch, daß zu Artikel 160 ein Antrag des Abgeerdneten
-                    Leulhner verliege, dessen Berückeichtigung ebenfalls aus lechnischen Grüaden
-                    ntwendig sei. Der Versitzende errännt, dat bei den Fertsibeerrechungen
-                    zweiFragen aufgetaucht seien Erstens: die einer Befristung und zweitens, daß es
-                    netwendig wäre, zwei Falle zu vntorscheiim Verlaufe eines Verführens den: dort
-                    in der Verfassungsgerichtstsffaut eine andere Verordnung oder auf ein Gesetz
-                    stößt, die verfassungewidrig sind, kdane man ihm das Recht nicht nehmen; unter
-                    einem auch hierüber zu entscheiden.) Ganz anders wäre der Fall, daß er auch
-                    dert, wo kein Kläger ist, als Richter auftreten sollte. Dagegen herrache
-                    allgemeine Abneigung. Nachdem er hierüber ein Einverständnig festgestellt,
-                    erwähnt der Vorsitzende noch, daß bei den Parteibesprechungen der Junsch
-                    geäukert worden kei. Uebergangsbestimmungen für die Bezirksvertretungen in
-                    Steiermark vorzusehen, um ihren Uebergang in die neu zu schaffenden
-                    Bezirksvertretungen einzuleiten. Im Artikel y ist nach der Zusatz nachzutragen:
-                    »Das Bundesgesetz über die verläufige Ausgestaltung der dermaligen
-                    Bezirksverwaltung nach Artikel &amp; wird binnea 5 Mangten nach Inkrafttreten
-                    der Verfaggung erlassen.! Die Polizeiangelegenheit soll im Zusammenhang mit. der
-                    Kiener Frage geregelt werden, daher wären in der nächsten Sitzung, die für den
-                    15. September l.J, vormittags 10" anberaumt wird, nur die Angelegenheiten der
-                    Gendarmerie und die Uebergangsbestimmungen zu behandeln. -000-</p>
+                    vollständig unabhängig. Man sollte doch der Bundeshauptstadt das Recht
+                    einräumen, daß sie die Verwaltungsgrundsätze durch das Gemeindestatut regelt.
+                    Man könne immerhin eine Genehmigung durch die Bundesregierung vorsehen. </p> 
+                <p> Mit
+                    Zustimmung des Unterausschusses ersucht der Vorsitzende Prof. Dr. Kelsen nach
+                    Fühlungnahme mit dem Rathause seinen Vor schlag auch auf dieses Problem zu
+                        erstrecken.<pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/> </p> 
+                <p> Dr.
+                    Danneberg wünscht in der Formulierung des Artikels 97f das immer wiederkehrende
+                    Wort Polizei durch ein anderes ersetzt. Der Vorsitzende spricht sich jedoch
+                    dagegen aus, da dies traditionelle Ausdrücke aus der kameralistischen Epoche
+                    seien; würden sie durch andere ersetzt, so bedürften sie umständlicher
+                    Erklärungen. Der Unterausschuß nimmt den Artikel in folgendem Wortlaute an: </p> 
+                <p> 
+                    „Artikel 97 f. </p> 
+                <p> (1) Die Festsetzung der weiteren Grundsätze für die
+                    Organisation der allgemeinen
+                    staatlichen Verwaltung in den Ländern nach den Art. 97 a bis 97e ist Sache der
+                    Bundesgesetzgebung; die Ausführung liegt den Landesgesetzgebungen ob. </p> 
+                <p> (2) Welche
+                    Verwaltungsgeschäfte sachlich und instanzenmäßig den Vertretungen und
+                    Verwaltungsausschüssen sowie den Amtern zukommen, bestimmen die
+                    Bundesgesetzgebung und die Landesgesetzgebungen innerhalb ihrer
+                    verfassungsmäßigen Zuständigkeit. </p> 
+                <p> (3) Hiebei ist jedoch den Gemeinden ein
+                    Wirkungskreis in erster Instanz in folgenden Angelegenheiten gewährleistet. </p> 
+                <p> 1.)
+                    Obsorge für die Sicherheit der Personen und des Eigentums (Ortliche
+                    Sicherheitspolizei); </p> 
+                <p> 2.) Hilfs- und Rettungswesen;</p> 
+                <p> 3.) Sorge für die Erhaltung
+                    der Straßen, Wege, Plätze und Brücken der Gemeinde; </p> <p> 4.) örtliche Straßenpolizei;</p> 
+                  <p>   5.) Flurschutz und Flurpolizei;</p> <p>  6.) Markt- und Lebensmittelpolizei;</p> <p> 7.)
+                    Gesundheitspolizei; </p> <p> 8.) Bau- und Feuerpolizei.“ </p> 
+                <p> In Artikel 138 werden die Worte
+                    „des Bundes oder eines Landes“ gestrichen, da es sich auch um eine Gemeinde
+                    handeln kann. Auch hat es auf Antrag des Prof. Dr. Seipel anstatt „Über die
+                    Rechtsverletzungen“ zu lauten „über Beschwerden wegen Rechtsverletzung“.<pb
+                        facs="#facs_15" n="15" xml:id="img_0015" break="yes"/></p> 
+                <p> Zu den folgenden
+                    Artikeln bemerkt Prof. Dr. Kelsen daß eine Reihe von technischen Fragen zu
+                    bereinigen wäre. Er bemerkt auch, daß zu Artikel 150 ein Antrag des Abgeordneten
+                    Leuthner vorliege, dessen Berücksichtigung ebenfalls aus technischen Gründen
+                    notwendig sei. Der Vorsitzende erwähnt, daß bei den Parteibesprechungen zwei
+                    Fragen aufgetaucht seien. Erstens: die einer Befristung und zweitens, daß es
+                    notwendig wäre, zwei Fälle zu unterscheiden: dort wo der Verfassungsgerichtshof
+                    im Verlaufe eines Verfahrens auf eine andere Verordnung oder auf ein Gesetz
+                    stößt, die verfassungswidrig sind, könne man ihm das Recht nicht nehmen, unter
+                    einem auch hierüber zu entscheiden). Ganz anders wäre der Fall, daß er auch
+                    dort, wo kein Kläger ist, als Richter auftreten sollte. Dagegen herrsche
+                    allgemeine Abneigung. Nachdem er hierüber ein Einverständnis festgestellt,
+                    erwähnt der Vorsitzende noch, daß bei den Parteigesprechungen der Wunsch
+                    geäußert worden sei, Übergangsbestimmungen für die Bezirksvertretungen in
+                    Steiermark vorzusehen, um ihren Übergang in die neu zu schaffenden
+                    Bezirksvertretungen einzuleiten.</p> 
+                <p> Im Artikel y ist auch der Zusatz
+                    nachzutragen: „Das Bundesgesetz über die vorläufige Ausgestaltung der
+                    dermaligen Bezirksververwaltung nach Artikel x wird binnen 6 Monaten nach
+                    Inkrafttreten der Verfassung erlassen." </p> 
+                <p> Die Polizeiangelegenheit soll im
+                    Zusammenhang mit der Wiener Frage geregelt werden, daher wären in der nächsten
+                    Sitzung, die für den 15. September 1. J. vormittags 10 Uhr anberaumt wird, nur
+                    die Angelegenheiten der Gendarmerie und die Übergangsbestimmungen zu behandeln.
+                </p>
             </div>
         </body>
     </text>
