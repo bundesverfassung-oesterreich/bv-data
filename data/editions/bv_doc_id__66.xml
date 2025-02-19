@@ -117,13 +117,10 @@
     <text type="Verfassungsentwurf">
         <body><div type="main">
                         <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
-                        <p>231 der Beilagen. — Konstituierende Nationalversammlung. </p>
-                        <fw type="pageNum">1</fw>
-                        <head>Antrag </head>
-                        <head>der</head>
-                        <head>Abgeordneten Dr. Michael Mayr, Dr. Gimpl, F. Födermayr, W. Miklas,
-                              Paulitsch, Dr. Ramek, Dr, Schneider und Genossen,</head>
-                        <head>betreffend die Grundzüge der deutschösterreichischen
+                        <p>231 der Beilagen. — Konstituierende Nationalversammlung. <fw type="pageNum">1</fw></p>
+                        
+                    <head>Antrag der Abgeordneten Dr. Michael <emph>Mayr</emph>, Dr. <emph>Gimpl</emph>, F. <emph>Födermayr</emph>, W. <emph>Miklas</emph>,
+                          <emph>Paulitsch</emph>, Dr. <emph>Ramek</emph>, Dr. <emph>Schneider</emph> und Genossen, betreffend die Grundzüge der deutschösterreichischen
                               Verfassung.</head>
                         <p>Die vornehmste Aufgabe der verfassunggebenden (Konstituierenden)
                               Nationalversammlung ist die Schaffung von Grundgesetzen über den
