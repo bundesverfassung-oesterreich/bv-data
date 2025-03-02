@@ -104,6 +104,7 @@
         <revisionDesc status="structured">
             <change when="2024-11-05" who="#cfh">document automatically created</change>
             <change when="2025-02-22" who="#s_kury">Formatierung beendet</change>
+            <change when="2025-03-02" who="#s_kury"/>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -709,11 +710,11 @@
                 <head>1. Sitzung am 15. Fe br u ar 1920.</head>
                 <p>(Beginn der Sitzung um 3 Uhr 15 Minuten.)</p>
                 <sp>
-                    <speaker>Landeshauptmann Mener:</speaker>
-                    <p> Meine jehr geehrten Herren! Die politischen Greignifse der Novembertage 1918
-                        haben mit dem Zerfall des alten Defterreichs eine Reihe staatsrechtlicher
-                        Probleme aufgerollt, deren Ziele zunächft nur in Umrissen gekennzeichnet
-                        gewefen find, die aber immer feftere Fformen angenommen haben und jekt. wo
+                    <speaker>Landeshauptmann Meyer:</speaker>
+                    <p>Meine sehr geehrten Herren! Die politischen Ereignisse der Novembertage 1918
+                        haben mit dem Zerfall des alten Oesterreichs eine Reihe staatsrechtlicher
+                        Probleme aufgerollt, deren Ziele zunächst nur in Umrissen gekennzeichnet
+                        gewesen sind, die aber immer festere Formen angenommen haben und jetzt, wo
                         wir vor der Ratifizierung des Ffriedensvertrages stehen und daran gehen
                         müssen, dem neuen Desterreich eine lebensfähige fform zu geben, gebieterisch
                         eine Löfung erfordern. Ich darf die sehr geehrten Herren daranerinnern, daß
@@ -781,7 +782,7 @@
                     </p>
                 </sp>
                 <sp>
-                    <speaker>Delegierter Refell!</speaker>
+                    <speaker>Delegierter Resel!</speaker>
                     <p>Sehr verehrte Herren! Wir Vertreter der fozialdemokratischen Partei auf
                         diefer Konferenz find der Anficht, daf keine Zufammenkunft von
                         Volksvertretern in der Republik Defterreich vorübergehen darf. ohne daß
@@ -799,7 +800,7 @@
                             xml:id="img_0008" break="yes"/></p>
                 </sp>
                 <sp>
-                    <speaker>Landeshauptmann Mener:</speaker>
+                    <speaker>Landeshauptmann Meyer:</speaker>
                     <p>Ich unterbreche also nochmalls die Sitzung. (Nach Wiedereröfffnung der
                         Sikung.) Es find drei Vorfikende vorgefchlagen worden. und zwar der Herr
                         Landeshauptmann Dr. Rintelen, der Herr Landeshauptmann Gever- und der Herr
@@ -812,7 +813,7 @@
                     <p>Ich beantrage, daß die Wahl des Vorfitzenden durch Ukklamation erfolge.</p>
                 </sp>
                 <sp>
-                    <speaker>Landeshauptmann Mener:</speaker>
+                    <speaker>Landeshauptmann Meyer:</speaker>
                     <p>Gs ift beantragt, die Wahl des Vorfitzenden per Ukklamation vorzunehmen. Ich
                         erfuche jene Herren, welche damit einverstanden find, die Hand zu erheben.
                         Angenommen. </p>
@@ -834,7 +835,7 @@
                         Präfidium den Herrn Landesrat Nottar Chriftoph. </p>
                 </sp>
                 <sp>
-                    <speaker>Landeshauptmann Mener: </speaker>
+                    <speaker>Landeshauptmann Meyer: </speaker>
                     <p>Von Seite der chriftlichfozialen Partei ift der Herr Landeshauptmann von
                         Steiermark Dr. Rintelen als Vorsitzender vorgeschlagen. Ich erfuche jene
                         Herren, welche mit diesem Antrage einverstanden find. Die Hand zu erheben.
