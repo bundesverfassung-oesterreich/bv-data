@@ -104,7 +104,9 @@
         <revisionDesc status="structured">
             <change when="2024-11-05" who="#cfh">document automatically created</change>
             <change when="2025-02-22" who="#s_kury">Formatierung beendet</change>
-            <change when="2025-03-02" who="#s_kury"/>
+            <change when="2025-03-06" who="#s_kury">Gegengelesen bis S. 2- Delegierter Resel; Fehlt
+                noch: Seitenzahlen überarbeiten; anschließend mit Anzeige der entsprechenden Seiten
+                alles bis einschließlich "Artikel" nochmal gegenlesen</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -585,28 +587,28 @@
                 <head>Entwurf einer Geschäftsordnung für die Länderkonferenz in Salzburg.</head>
                 <p><list>
                         <label> I.</label>
-                        <item>Es wird ein Vorsitzender gewählt und für die Fälle feiner Verhinderung
-                            ein Stellpertreter.  </item>
+                        <item>Es wird ein Vorsitzender gewählt und für die Fälle seiner Verhinderung
+                            ein Stellvertreter. </item>
                         <label>II. </label>
-                        <item>Für die Verhandlungen gelten die in unseren gefekgebenden
-                            Könperfchaften üblichen Grundfäßze. Wenn Antrag auf Schluß der
-                            Rednerliste geftellt und angenommen wird. fo kommen noch die
-                            vorgemerkten Redner zum Worte. Wenn Antrag auf Schlufz der Debatte
-                            geftellt und angenommen wird. fo wird Jofort zur Abstimmung über den
-                            Verhandlungsgegenstand geschritten. Ueber Unträge auf Schluß der
-                            Rednerhifte oder der Debatte wird nach Köpfen abgestimmt.</item>
+                        <item>Für die Verhandlungen gelten die in unseren gesetzgebenden
+                            Körperschaften üblichen Grundsätze. Wenn Antrag auf Schluß der
+                            Rednerliste gestellt und angenommen wird, so kommen noch die
+                            vorgemerkten Redner zum Worte. Wenn Antrag auf Schluß der Debatte
+                            gestellt und angenommen wird, so wird sofort zur Abstimmung über den
+                            Verhandlungsgegenstand geschritten. Ueber Anträge auf Schluß der
+                            Rednerliste oder der Debatte wird nach Köpfen abgestimmt.</item>
                         <label>III. </label>
-                        <item>Die meritorischen Abstimmungen werden. derart vorgenommen, daß für
+                        <item>Die meritorischen Abstimmungen werden derart vorgenommen, daß für
                             jedes Land jede Partei eine Stimme abgibt.</item>
                         <label>IV. </label>
                         <item>An der Länderkonferenz können nur die von den Ländern Delegierten
                             teilnehmen. </item>
                         <label>V.</label>
-                        <item>Der Vorsitzende beftellt einen parsitätischen Pressedienft.</item>
+                        <item>Der Vorsitzende bestellt einen parsitätischen Pressedienst.</item>
                         <label>VI. </label>
                         <item>Als Verhandlungsgrundlage dient der Vorentwurf einer
-                            Bundesstaatsverfaijung des Staatsfekretärs Dr. Mayr. Es werden der Reihe
-                            nach folgende Partien des Entwurffes zur Vessprechung gebracht:</item>
+                            Bundesstaatsverfassung des Staatsfekretärs Dr. Mayr. Es werden der Reihe
+                            nach folgende Partien des Entwurfes zur Vessprechung gebracht:</item>
                     </list></p>
                 <p>Artikel: <list>
                         <label> 1.</label>
@@ -616,36 +618,36 @@
                         <label>3. </label>
                         <item>25 - 28 der Bundesrat. </item>
                         <label>4. </label>
-                        <item>29 - 30, Absatz 1, Artikel 32-41, Weg. der Bundesgefeßgebung. </item>
+                        <item>29 - 30, Absatz 1, Artikel 32-41, Weg der Bundesgesetzgebung. </item>
                         <label>5.</label>
-                        <item>30 Absatz 2, Artikel 31. Abänderung. der Verfassung.  </item>
+                        <item>30 Absatz 2, Artikel 31. Abänderung der Verfassung. </item>
                         <label>6. </label>
                         <item>43 - 44 Stellung der Mitglieder. </item>
                         <label>7. </label>
                         <item>45 - 47 Stellung der Regierung. </item>
                         <label>8. </label>
-                        <item>48 - 54 der Bundespräfident.  </item>
+                        <item>48 - 54 der Bundespräsident. </item>
                         <label>9. </label>
                         <item>55 - 64 die Bundesregierung.  </item>
                         <label>10. </label>
                         <item>65 - 68 das Bundesheer. </item>
                         <label>11.</label>
-                        <item>69— 81 die Berichtsbarkeit. </item>
+                        <item>69— 81 die Gerichtsbarkeit. </item>
                         <label>12. </label>
-                        <item>82— 96 Gefekgebung der Länder. </item>
+                        <item>82— 96 Gesetzgebung der Länder. </item>
                         <label>13. </label>
                         <item>97—106 Rechnungskontrolle. </item>
                         <label>14. </label>
                         <item>107—108 Gleichheit der Bürger. </item>
                         <label>15. </label>
-                        <item>109 114 Freizügigkeit, Gausrecht, Briefgeheimnis. </item>
+                        <item>109 114 Freizügigkeit, Hausrecht, Briefgeheimnis. </item>
                         <label>16. </label>
-                        <item>115117. Prekfreiheit. Vereins- und Versammlungsrecht. Blaubens- und
-                            Gewiffensfreiheit.  </item>
+                        <item>115117. Pressfreiheit. Vereins- und Versammlungsrecht. Glaubens- und
+                            Gewissensfreiheit. </item>
                         <label>17. </label>
                         <item>118124. </item>
                         <label>18. </label>
-                        <item>125—126 Kunft und Wiffenfchaft.  </item>
+                        <item>125—126 Kunst und Wissenschaft. </item>
                         <label>19. </label>
                         <item>127—129. Schule.  </item>
                         <label>20. </label>
@@ -653,7 +655,7 @@
                         <label>21. </label>
                         <item>135. Arbeitsrecht. </item>
                         <label>22. </label>
-                        <item>133 134 Schutz des Gigentums. </item>
+                        <item>133 134 Schutz des Eigentums. </item>
                         <label>23. </label>
                         <item>136. Aufhebung der Freiheit.  </item>
                         <label>24. </label>
@@ -661,50 +663,49 @@
                         <label>25. </label>
                         <item>147—157. Verfassungsgerichtshof. </item>
                         <label>26. </label>
-                        <item>10 Gejekgebung und Vollziehung des Bundes. </item>
+                        <item>10 Gesetzgebung und Vollziehung des Bundes. </item>
                         <label>27. </label>
-                        <item>12 Befekgebung ohne Vollziehung.  </item>
+                        <item>12 Geseltzgebung ohne Vollziehung. </item>
                         <label>28. </label>
-                        <item>12 Rahmengefekgebung. </item>
+                        <item>12 Rahmengesetzgebung. </item>
                         <label>29. </label>
                         <item>13 Erläuterungen dazu.  </item>
                         <label>30. </label>
-                        <item>Titel und Gingang.  </item>
+                        <item>Titel und Eingang. </item>
                         <label>31. </label>
                         <item>Form der Gesetzwerdung. </item>
                     </list><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/></p>
                 <head>Teilnehmer an der Länderkonferenz.</head>
-                <p>Staatsregierung: Staatsfekretär Dr. Michael Mayr, Ministerialfekretär Dr.
-                    Mannlicher. Burgenland: Dr. Beer, Meidlinger. Kärnten: Nationalrat Gröager.
-                    Landtagsabgeordneter Dr. Pflanzl, Landesrat Schumn. Landtagsabgeordneter
-                    Walcher, Landesamtsdirektor Oskar Lobmenr. Nießerösterreich: Landechguntmann
-                    Albert Geper, Landeshauptmannftellvertreter. Johann Mayr,
-                    Landeshauptmannftellvertreter. Teop. Steiner, Landeshauptmannftellvertreter
-                    Paurenz Widholz. Landesrat Rubolf Müller. Landesrat Bölzer. Landesrat, Tojef
-                    Zwekbacher, Landesamtsdirektorftellvertreter Dr. Alois Kastner, Landesamtsrat
-                    Dr. Tosef Ganauska, Bezirkskommifsär Dr. Otto Shrbenskn. Oberötterreich:
-                    Landeshauptmannftellvertreter Dr. J. Schlegel, Landeshauptmannftellvertreter
-                    Tofef Gruber,</p>
-                <p>Landesrat Dr. Tofef Schwinner, Landtagsabgeordneter Bichl, Nationalrat, Toflef
-                    Hafner, Landesamtsdirektor Germann Uttems. Salzburg: Landeshauptmann Ing. Oskar
-                    Mener, Landeshauptmannftellvertreter Robert Breußler.
-                    Landeshauptmannfbellvertreter Dr. Franz Rehrl. Landesrat Unton Chriftoph,
-                    Landesrat Johann Lachner. Condesamtsdirektor Karl Giller-Schönaich,
-                    Landesregierungsrat Dr. FFranz Wallentin, Bezirkskommissär Rudolf
+                <p>Staatsregierung: Staatssekretär Dr. Michael Mayr, Ministerialsekretär Dr.
+                    Mannlicher. Burgenland: Dr. Beer, Meidlinger. Kärnten: Nationalrat Grögger,
+                    Landtagsabgeordneter Dr. Pflanzl, Landesrat Schumn, Landtagsabgeordneter
+                    Walcher, Landesamtsdirektor Oskar Lobmenr. Nießerösterreich: Landeshauptmann
+                    Albert Gever, Landeshauptmannstellvertreter Johann Mayr,
+                    Landeshauptmannstellvertreter Leop. Steiner, Landeshauptmannstellvertreter
+                    Laurenz Widholz, Landesrat Rudolf Müller, Landesrat Pölzer, Landesrat Josef
+                    Zwetzbacher, Landesamtsdirektorstellvertreter Dr. Alois Kastner, Landesamtsrat
+                    Dr. Josef Hanauska, Bezirkskommissär Dr. Otto Skrbensky. Oberösterreich:
+                    Landeshauptmannstellvertreter Dr. J. Schlegel, Landeshauptmannstellvertreter
+                    Josef Gruber, Landesrat Dr. Josef Schwinner, Landtagsabgeordneter Bichl,
+                    Nationalrat Josef Hafner, Landesamtsdirektor Hermann Attems. Salzburg:
+                    Landeshauptmann Jng. Oskar Meyer, Landeshauptmannstellvertreter Robert Preußler.
+                    Landeshauptmannstellvertreter Dr. Franz Rehrl. Landesrat Anton Chriftoph,
+                    Landesrat Johann Lackner, Landesamtsdirektor Karl Hiller-Schönaich,
+                    Landesregierungsrat Dr. Franz Wallentin, Bezirkskommissär Rudolf
                     Laveran-Stiebar. Steiermark: Landeshauptmann Dr. Anton Rintelen,
-                    Landeshauptmannftellvertreter Dr. Jakob Uhrer. Candesrat Klufemann. Landesrat,
-                    Johann Reiel, Landesrat Taufchmann. Landtagsabaeordnetter Reinhold Machold.
-                    Landesamtsdirektor Heinrich Manrhofer. Tirol: Landeshauptmannftellvertreter Dr.
-                    ffranz Schumacher. Landeshauptmannftellvertreter Dr. ffranz (Bruener.<pb
+                    Landeshauptmannstellvertreter Dr. Jakob Uhrer. Landesrat Klusemann, Landesrat
+                    Johann Refel, Landesrat Tauschmann, Landtagsabgeordneter Reinhold Machold.
+                    Landesamtsdirektor Heinrich Mayrhofer. Tirol: Landeshauptmannstellvertreter Dr.
+                    Franz Schumacher. Landeshauptmannstellvertreter Dr. Franz Gruener,<pb
                         facs="#facs_5" n="5" xml:id="img_0005" break="yes"
-                    />Landeshauptmannftellvertreter Dr. FFriedricht Schmidt. Landesrat Dr. Richard
-                    Steidle, Nationalrat Simon Abram. Senatspräsident Dr. Stefan Ffalfer,
-                    Landesamtsdirektor Dr. Georg Vochels. Vorarlberg: Landeshauptmann Dr. Otto
-                    Gnder, Landeshauptmannftellvertreter Preiß,</p>
-                <p>Landtagsabgeordneter Dr. Jofef Mittelberger, Landesamtsdirektor Dr. Jojef
-                    Walderdorff. Wien: Vizebürgermeister Geora Emmerling, Stadtrat Rudolf Gharet.
-                    Stadtrat Dr. Robert Danneberg, Stadtrat Baul Speifer, Stadtrat Dr. Viktor
-                    Kienböch, Bemeinderat Leopold Kunichak, Magistratsdirektor Dr. Karl Gartl.</p>
+                    />Landeshauptmannstellvertreter Dr. Friedrich Schmidt, Landesrat Dr. Richard
+                    Steidle, Nationalrat Simon Abram, Senatspräsident Dr. Stefan Falser,
+                    Landesamtsdirektor Dr. Georg Pockels. Vorarlberg: Landeshauptmann Dr. Otto
+                    Ender, Landeshauptmannstellvertreter Preiß, Landtagsabgeordneter Dr. Josef
+                    Mittelberger, Landesamtsdirektor Dr. Josef Walderdorff. Wien: Vizebürgermeister
+                    Georg Emmerling, Stadtrat Rudolf Skaret, Stadtrat Dr. Robert Danneberg, Stadtrat
+                    Paul Speiser, Stadtrat Dr. Viktor Kienböck, Gemeinderat Leopold Kunschak,
+                    Magistratsdirektor Dr. Karl Hartl.</p>
             </div><div type="main">
                 <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
                 <head>1. Sitzung am 15. Fe br u ar 1920.</head>
@@ -715,71 +716,71 @@
                         haben mit dem Zerfall des alten Oesterreichs eine Reihe staatsrechtlicher
                         Probleme aufgerollt, deren Ziele zunächst nur in Umrissen gekennzeichnet
                         gewesen sind, die aber immer festere Formen angenommen haben und jetzt, wo
-                        wir vor der Ratifizierung des Ffriedensvertrages stehen und daran gehen
-                        müssen, dem neuen Desterreich eine lebensfähige fform zu geben, gebieterisch
-                        eine Löfung erfordern. Ich darf die sehr geehrten Herren daranerinnern, daß
-                        gleich nach dem Zufammenbruche der Monarchie die deutichen Teile des alten
-                        Deiterreich der groken Mehrheit nach Erklärungen abgegeben haben, laut deren
-                        fie kraft des Selbftbestimmungsrechtes ihrer Bevölherung sich freiwillig zu
-                        gleichberechtigten Gliedern des damaligen Staates Deutschöfterreich
-                        zusammengeschloffen haben. Mag über die rechtliche Bedeutung dieser
-                        Erklärungen die Auffassung verschieden fein, so viel ift sicher, dak mit
-                        ihnen der Wille zum Ausdruche gekommen ift. dem künftigen Staate eine Forme
+                        wir vor der Ratifizierung des Friedensvertrages stehen und daran gehen
+                        müssen, dem neuen Oesterreich eine lebensfähige Form zu geben, gebieterisch
+                        eine Lösung erfordern. Ich darf die sehr geehrten Herren daran erinnem, daß
+                        gleich nach dem Zusammenbruche der Monarchie die deutschen Teile des alten
+                        Oesterreich der großen Mehrheit nach Erklärungen abgegeben haben, laut deren
+                        sie kraft des Selbstbestimmungsrechtes ihrer Bevölkerung sich freiwillig zu
+                        gleichberechtigten Gliedern des damaligen Staates Deutschösterreich
+                        zusammengeschlossen haben. Mag über die rechtliche Bedeutung dieser
+                        Erklärungen die Auffassung verschieden sein, so viel ist sicher, daß mit
+                        ihnen der Wille zum Ausdrucke gekommen ist, dem künftigen Staate eine Form
                         zu geben, die bei voller Wahrung der gemeinsamen, insbesondere
-                        gefamtstaatlichen Interefen der freien Entfaltung fehiner Glieder
-                        unterAnerkennung ihrer Selbständigkeit keine Schranken auferleat. Geither
-                        ift der Gedanke des föderativen Umbaues unferes Staatswefens nicht mehr zur
-                        Ruhe gekommen, er hat allmählich die breiteften Schichten der Bevölkerung
-                        durchdrungen, ift zu ihrem Gemeingut geworden und bildet heute den
-                        bedeutendften Programmpunkt unferer allernächften Zukunft. Dem Zuge der Zeit
-                        folgend. haben auch die in der Nationalverfammlung vertretenen grozen
+                        gesamtstaatlichen Interessen der freien Entfaltung seiner Glieder unter
+                        Anerkennung ihrer Selbständigkeit keine Schranken auferlegt. Seither ist der
+                        Gedanke des föderativen Umbaues unseres Staatswesens nicht mehr zur Ruhe
+                        gekommen. Er hat allmählich die breitesten Schichten der Bevölkerung
+                        durchdrungen, ist zu ihrem Gemeingut geworden und bildet heute den
+                        bedeutendsten Programmpunkt unserer allernächsten Zukunft. Dem Zuge der Zeit
+                        folgend, haben auch die in der Nationalversammlung vertretenen großen
                         politischen Parteien und die Landesvertretungen sich mit der Realisierung
-                        des Föderalifierungsproblems in Studien. Refolutionen. Anträgen und
-                        Entwürfen befaßt und find zu dem Ergebniffe gekommen, daß die fform des
-                        Bundesftaates den heutigen Verhältniffen und Bedürfnissen in Oefterreich am
-                        angemeifensten wäre. Auch die Staatsregierung hat mit dieser Entwicklung
-                        gleichen Schritt gehalten. Sie hat die Bundesftaatsidee aufgegriffen und
-                        durch den Mund des Staatskanzlers Dr. Renner bei der leßten Länderkonferenz
-                        ein Programm bekannt gegeben, wie nach ihrer Auffafjung die Schaffung der
+                        des Föderalisierungsproblems in Studien, Resolutionen, Anträgen und
+                        Entwürfen befaßt und sind zu dem Ergebnisse gekommen, daß die Form des
+                        Bundesstaates den heutigen Verhältnissen und Bedürfnissen in Oesterreich am
+                        angemessensten wäre. Auch die Staatsregierung hat mit dieser Entwicklung
+                        gleichen Schritt gehalten. Sie hat die Bundesstaatsidee aufgegriffen und
+                        durch den Mund des Staatskanzlers Dr. Renner bei der letzten Länderkonferenz
+                        ein Programm bekannt gegeben, wie nach ihrer Auffassung die Schaffung der
                         Verfassung am zweckmäßigsten vorzubereiten und durchzuführen wäre. Die von
-                        Dr. Renner hiebei entwickelten Richtlinien find den geehrten Herren bekannt,
-                        ich kann mich daber hier auf ihre allgemeine Erwähnung beschränken. Damit
-                        bin ich bei dem Zwecke der heutigen Tagung angelangt. Der Herr
-                        Staatsfekretär Dr. Mayr hat bei feiner kürzlichen Bereifung der Länder
-                        bereits Gelegenheit genommen, einen Verfafsungsentwurf der Staatsregierung
-                        onzukündigen, und hat, einem allgemeinen Wünsche der Länder entsprechend.
-                        Ginfluß genommen, daß der Entwurf der heutigen Tagung vorgelegt werde. Ich
-                        glaube annehmen zu können, daß sämtliche Länder unmittelbar mit dem Entwürfe
-                        beteilt worden find. Ueber den Inhalt des Gntwurfes kann ich, um nicht den
-                        Veratungen der Konferenz vorzugreifen, mir eine Kritik oder auch nur eine<pb
-                            facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>2 kurze Darftellung
-                        verfagen: fo viel darf ich aber bereits jekt bemerken, daß der Entwurf sich
-                        nur als eine erfte Redaktion diarftellt. Grift abänderungsfähig und foll
-                        erft durch die Mitarbeit und das Zufammenarbeiten der Länder zu einem
-                        wohnlichen Bau ausgeftaltet werden. In dieser Richtung durch gemeinjame
-                        Beratungen das Veftmögliche zu schaffen, ift die vornehmfte Aufgabe unferer
+                        Dr. Renner hiebei entwickelten Richtlinien sind den geehrten Herren bekannt,
+                        ich kann mich daher hier auf ihre allgemeine Erwähnung beschränken. Damit
+                        bin ich bei dem Zwecke der heutigen Tagung angelegt. Der Herr Staatssekretär
+                        Dr. Mayr hat bei seiner kürzlichen Bereisung der Länder bereits Gelegenheit
+                        genommen, einen Verfassungsentwurf der Staatsregierung anzukündigen, und
+                        hat, einem allgemeinen Wunsche der Länder entsprechend, Einfluß genommen,
+                        daß der Entwurf der heutigen Tagung vorgelegt werde. Ich glaube annehmen zu
+                        können, daß sämtliche Länder unmittelbar mit dem Entwurfe beteilt worden
+                        sind. Ueber den Inhalt des Entwurfes kann ich, um nicht den Beratungen der
+                        Konferenz vorzugreifen, mir einer Kritik oder auch nur eine <pb
+                            facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>kurze Darstellung
+                        versagen; so viel darf ich aber bereits jetzt bemerken, daß der Entwurf sich
+                        nur als eine erste Redaktion darstellt. Er ist abänderungsfähig und soll
+                        erst durch die Mitarbeit und das Zusammenarbeiten der Länder zu einem
+                        wohnlichen Bau ausgestaltet werden. In dieser Richtung durch gemeinsame
+                        Beratungen das Bestmögliche zu schaffen, ist die vornehmste Aufgabe unserer
                         gegenwärtigen Tagung. Wird sie dieser Aufgabe gerecht, dann wird sie ein
-                        Markstein in der Entwicklung unserer Verfafsung bilden und auf den Inhalt
-                        unjerer politischen Zukunft richtunggebenden Einflußz nehmen. Meine sehr
-                        geehrten Herren! Großz find die Aufgaben, die sie in den nächften Tagen zu
-                        bewältigen haben, verantwortungsvolle Beschlüffe werden von Ihnen zu faffen
-                        fein; es gilt zum Seile und ffrommen unferes Staatswefens und feiner
-                        Bevölkerung, die nach Wiederkehr geordneter Verhältnifse und innerem
-                        Ffrieden fehnlichftes Verlangen trägt, das Hösisle zu leisten. Daß dieses
-                        Ziel erreicht werde, ift mein inniafter Wunsch, den ich als Landeshauptmann
-                        von Salzburg der Tagung zum Geleite gebe. As Gausherrn obliegt mir noch die
-                        überaus angenehme Pflicht, für die freundliche Wayl der Stadt Salzburg als
-                        Verfammlungsortes der Konferenz ganz besonders zu danken. Mögen Ihnen die
-                        Stunden, die Sie in unferer Mitte weilen, beweifen, daß wir die Ehre zu
+                        Markstein in der Entwicklung unserer Verfassung bilden und auf den Inhalt
+                        unserer politischen Zukunft richtunggebenden Einfluß nehmen. Meine sehr
+                        geehrten Herren! Groß sind die Aufgaben, die sie in den nächsten Tagen zu
+                        bewältigen haben, verantwortungsvolle Beschlüsse werden von Ihnen zu fassen
+                        sein; es gilt zum Heile und Frommen unseres Staatswesens und seiner
+                        Bevölkerung, die nach Wiederkehr geordneter Verhältnisse und innerem Frieden
+                        sehnlichstes Verlangen trägt, das Höchste zu leisten. Daß dieses Ziel
+                        erreicht werde, ist mein innigster Wunsch, den ich als Landeshauptmann von
+                        Salzburg der Tagung zum Geleite gebe. Als Hausherrn obliegt mir noch die
+                        überaus angenehme Pflicht, für die freundliche Wahl der Stadt Salzburg als
+                        Versammlungsortes der Konferenz ganz besonders zu danken. Mögen Ihnen die
+                        Stunden, die Sie in unserer Mitte weilen, beweisen, daß wir die Ehre zu
                         schätzen wissen, die der Stadt Salzburg durch die Abhaltung der Konferenz in
                         ihren Mauern zuteil wurde. Mit meinem weiteren Danke an den Herrn
-                        Staatsfekretär Dr. Manr und die Herren Vertreter der Länder und der Stadt
-                        Wien für ihr Grsscheinen, das bei den heutigen Verkehrsverhältnissen
-                        sicherlich nicht zu den Lebensgenüfen zu zählen ift, erlaube ich mir nun die
-                        Verhandlungen der Tagung einzuleiten. Gs wird vor allem notwendig fein, die
-                        Wahl eines Präfidiums beziehungsweise eines Vorsitzenden vorzunehmen, und zu
-                        diesem Behüje erlaube ich mir, die Sitzung auf einige Zeit zu unterbrechen.
-                    </p>
+                        Staatssekretär Dr. Mayr und die Herren Vertreter der Länder und der Stadt
+                        Wien für ihr Erscheinen, das bei den heutigen Verkehrsverhältnissen
+                        sicherlich nicht zu den Lebensgenüssen zu zählen ist, erlaube ich mir nun
+                        die Verhandlungen der Tagung einzuleiten. Es wird vor allem notwendig sein,
+                        die Wahl des Präsidiums beziehungsweise eines Vorsitzenden vorzunehmen, und
+                        zu diesem Behufe erlaube ich mir, die Sitzung auf einige Zeit zu
+                        unterbrechen.  </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Resel!</speaker>
@@ -2515,7 +2516,7 @@
                         allerwichtiafte und dringendfte frage in der gegenwärtigen Zeit die Löfung
                             <pb facs="#facs_33" n="33" xml:id="img_0033" break="yes"/>﻿der
                         Verfassungsfrage sei. Wir Sozialdemokraten hatten fchon, wie der Herr
-                        Kollege Refel schon gefugt hat. erklärt, daß in dem Momente der allgemeinen
+                        Kollege Resel schon gefugt hat. erklärt, daß in dem Momente der allgemeinen
                         Not und des Glendes, das in alen Zündern, herricht. momentan nicht die
                         Verfassungsfrage als die wichtigfte zu betrachten fei, fondern wir
                         betrachten die Vermögensabgabe und die Wehrreform als das Notwendiafte im
@@ -2554,7 +2555,7 @@
                         geographische Lage? Wovon fcheiden uns die Gebirge anders abals von
                         Defterreich2 Und weithin find wir ein offenes Land gegen die Schweiz und
                         gegenDeutschland. Sie müffen sich daher. nach den Arqumenten des Herrn
-                        Refel, die er heute gebracht hat, nicht wundern, daß bei uns die Entwicklung
+                        Resel, die er heute gebracht hat, nicht wundern, daß bei uns die Entwicklung
                         diefen Gang genommen hat. Und ich jage Ihnen. wir haben uns unfere Teilnahme
                         an der Arbeit der heutigen Konferenz viel tiefer vorgeftellt als die nuklofe
                         Generaldebatte des Verfafsungsentwurfes. Wir kamen ganz anderer Meinung
@@ -2592,7 +2593,7 @@
                         Individualität, darüber kommen sie nicht hinweg, das Gefühl ift tief
                         verankert im Volke. Das Gefühl der Landeseinheit und des Willens zum
                         Ffortbeftande des Landes, damit müffen Sie rechnen, als praktische
-                        Staatsmänner. Gs geht nicht an, wie der Herr Abgeordnete Refel arqumentiert
+                        Staatsmänner. Gs geht nicht an, wie der Herr Abgeordnete Resel arqumentiert
                         hat: Wien ift eine riefig große Stadt, eingerichtet die Zentrale eines
                         großen Reiches zu fein mit vielen Beamten ufw., ergo müfsen Sie einen
                         zentralen Staat fchaffen, fonft bleiben in Wien die Wohnungen leer. Mit
@@ -5245,7 +5246,7 @@
                             xml:id="img_0075" break="yes"/></p>
                 </sp>
                 <sp>
-                    <speaker>Delenierter Zwetbacher:</speaker>
+                    <speaker>Delenierter Zwetzbacher:</speaker>
                     <p>Ich beantlage, im Ehinvernehmen mit fänrtlichen Parteien, Schluß der
                         Rednerlifte. </p>
                 </sp>
