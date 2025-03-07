@@ -104,8 +104,9 @@
                 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="created">
+        <revisionDesc status="structured">
             <change when="2025-02-13" who="#cfh">document automatically created</change>
+            <change when="2025-03-07" who="#e_kordt">Text fertig strukturiert</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -262,7 +263,7 @@
                 <head>Protokoll der 16. Sitzung des Unterausschusses des Verfassungsausschusses vom
                     15. September 1920.</head>
                 <p>Beginn 10 Uhr Vormittag.</p>
-                <p> Anwesend:</p>
+                <p>Anwesend:</p>
                 <list>
                     <item>Dr. Otto Bauer als Vorsitzender </item>
                     <item>Präsident Karl Seitz</item>
@@ -288,46 +289,49 @@
                 <list>
                     <item>Prof. Dr. Hans Kelsen als Experte des Verfassungsausschusses </item>
                 </list>
-                <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/> Zu Beginn der Sitzung
-                    gibt Prof. Dr. Seipel folgende Erklärung ab, um deren vertrauliche Behandlung er
-                    ersucht, wobei jedoch die Aufnahme in das Protokoll zugestanden ist. Der
-                    christlich-soziale Parteivorstand hat in seiner gestrigen Sitzung Beschlüsse
-                    gefaßt, die dem Unterausschuß ehestens zur Kenntnis gebracht werden müßten. Sie
-                    betreffen die Kompetenz im Schulwesen und die Gebietsgemeinde. Die
-                    christlichsoziale Partei kann einer Kompetenzabgrenzung, die das gesamte
-                    Schulwesen einschließlich der Volks- und Bürgerschulen der Kompetenz des Bundes
-                    zuweist, nicht zustimmen. Sie fordert, daß die Lehrpersonen an den öffentlichen
-                    Volks- und Bürgerschulen Landesangestellte sind und vom Lande ernannt werden.
-                    Die Partei kann ferner der Verweisung der Schulaufsicht in die Kompetenz des
-                    Bundes nach Gesetzgebung und Vollziehung nur zustimmen, wenn die Zusammensetzung
-                    der Behörde innerhalb eines Bundesrahmengesetzes von den Ländern geregelt werden
-                    kann, wobei die Bundesgesetzgebung wohl den Personenkreis, aus dem die
-                    Mitglieder der Landes-, Bezirks- und Ortsschulräte zu berufen sein werden. nicht
-                    aber auch die Zahl innerhalb der Gruppen anzugeben hätte. Einer Verfassung, die
-                    auch nur grundsätzlich die Einführung von Kreisgemeinden vorsieht, kann die
-                    Partei nicht zustimmen. Ebenso erklärt sie es für unannehmbar, daß alle
-                    Gemeinden von 15.000 Einwohnem aufwärts Statutarstädte bzw. Bezirksgemeinden
-                    werden sollen. Auch soll in der Verfassung nicht der Frage vorgegriffen werden,
-                    ob die Leiter der Gebietsgemeindeämter durch Wahl zu bestellen seien. Die
-                    Regelung hätte im Bundesverwaltungsgesetz zu erfolgen, das sich die Partei als
-                    Rahmengesetz vorstellt, in dem die Freiheit der Länder nicht allzusehr
-                    eingeschränkt wird. Der Vorsitzende erklärt, daß die Parteien diese Erklärung ad
-                    referendum nehmen und erteilt Prof. Dr. Kelsen das Wort zu seinem Entwurf über
-                    die Bundeshauptstadt Wien. Dieser bemerkt einleitend, daß noch eine technische
-                    Lesung erforder<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>lich sein
-                    würde, um namentlich alle auf Wien bezüglichen Punkte zu überprüfen. Die Wiener
-                    Angelegenheiten sollen in einem besonderen Hauptstück geregelt werden, das 447
-                    16. Sitzung nach dem Hauptstück über die Gemeinde einzuschalten wäre; denn es
-                    betrifft sowohl die Vollziehung in den Ländern als auch Gemeindefragen. Der
-                    Referent hat die Entwürfe mit dem Magistratsdirektor Dr. Hartl ausgearbeitet und
-                    eine endgiltige Regelung versucht. Das Land Niederösterreich soll nach Analogie
-                    der Schweiz — Basel Land und Basel Stadt in zwei Halbkantone gegliedert werden.
-                    Für den ersten Artikel A werden zwei Formulierungen vorgeschlagen. Er befaßt
-                    sich mit der Bildung zweier Kurien. Für die gemeinsamen Angelegenheiten müßten
-                    beide Kurien zusammentreten und auf Grund einer gemeinsamen Landesverfassung
-                    vorgehen. Die Konstruktion wäre ähnlich, wie seinerzeit zwischen Österreich und
-                    Ungarn. Doch soll ein gemeinsamer Gesetzgebungskörper geschaffen werden, der
-                    nach Majoritätsbeschlüssen vorgeht. In Angelegenheiten des übertragenen
+                <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw type="pageNum">2</fw>
+                    Zu Beginn der Sitzung gibt Prof. Dr. Seipel folgende Erklärung ab, um deren
+                    vertrauliche Behandlung er ersucht, wobei jedoch die Aufnahme in das Protokoll
+                    zugestanden ist. Der christlich-soziale Parteivorstand hat in seiner gestrigen
+                    Sitzung Beschlüsse gefaßt, die dem Unterausschuß ehestens zur Kenntnis gebracht
+                    werden müßten. Sie betreffen die Kompetenz im Schulwesen und die
+                    Gebietsgemeinde. Die christlichsoziale Partei kann einer Kompetenzabgrenzung,
+                    die das gesamte Schulwesen einschließlich der Volks- und Bürgerschulen der
+                    Kompetenz des Bundes zuweist, nicht zustimmen. Sie fordert, daß die Lehrpersonen
+                    an den öffentlichen Volks- und Bürgerschulen Landesangestellte sind und vom
+                    Lande ernannt werden. Die Partei kann ferner der Verweisung der Schulaufsicht in
+                    die Kompetenz des Bundes nach Gesetzgebung und Vollziehung nur zustimmen, wenn
+                    die Zusammensetzung der Behörde innerhalb eines Bundesrahmengesetzes von den
+                    Ländern geregelt werden kann, wobei die Bundesgesetzgebung wohl den
+                    Personenkreis, aus dem die Mitglieder der Landes-, Bezirks- und Ortsschulräte zu
+                    berufen sein werden. nicht aber auch die Zahl innerhalb der Gruppen anzugeben
+                    hätte.</p>
+                <p>Einer Verfassung, die auch nur grundsätzlich die Einführung von Kreisgemeinden
+                    vorsieht, kann die Partei nicht zustimmen. Ebenso erklärt sie es für
+                    unannehmbar, daß alle Gemeinden von 15.000 Einwohnem aufwärts Statutarstädte
+                    bzw. Bezirksgemeinden werden sollen. Auch soll in der Verfassung nicht der Frage
+                    vorgegriffen werden, ob die Leiter der Gebietsgemeindeämter durch Wahl zu
+                    bestellen seien. Die Regelung hätte im Bundesverwaltungsgesetz zu erfolgen, das
+                    sich die Partei als Rahmengesetz vorstellt, in dem die Freiheit der Länder nicht
+                    allzusehr eingeschränkt wird.</p>
+                <p>Der Vorsitzende erklärt, daß die Parteien diese Erklärung ad referendum nehmen
+                    und erteilt Prof. Dr. Kelsen das Wort zu seinem Entwurf über die
+                    Bundeshauptstadt Wien. Dieser bemerkt einleitend, daß noch eine technische
+                    Lesung erforder<pb facs="#facs_4" n="4" xml:id="img_0004" break="no"/><fw
+                        type="pageNum">3</fw>lich sein würde, um namentlich alle auf Wien
+                    bezüglichen Punkte zu überprüfen. Die Wiener Angelegenheiten sollen in einem
+                    besonderen Hauptstück geregelt werden, das 447 16. Sitzung nach dem Hauptstück
+                    über die Gemeinde einzuschalten wäre; denn es betrifft sowohl die Vollziehung in
+                    den Ländern als auch Gemeindefragen. Der Referent hat die Entwürfe mit dem
+                    Magistratsdirektor Dr. Hartl ausgearbeitet und eine endgiltige Regelung
+                    versucht. Das Land Niederösterreich soll nach Analogie der Schweiz — Basel Land
+                    und Basel Stadt in zwei Halbkantone gegliedert werden. Für den ersten Artikel A
+                    werden zwei Formulierungen vorgeschlagen. Er befaßt sich mit der Bildung zweier
+                    Kurien. Für die gemeinsamen Angelegenheiten müßten beide Kurien zusammentreten
+                    und auf Grund einer gemeinsamen Landesverfassung vorgehen. Die Konstruktion wäre
+                    ähnlich, wie seinerzeit zwischen Österreich und Ungarn. Doch soll ein
+                    gemeinsamer Gesetzgebungskörper geschaffen werden, der nach
+                    Majoritätsbeschlüssen vorgeht. In Angelegenheiten des übertragenen
                     Wirkungskreises ist die Trennung vollständig durchgeführt. Die Stellung der
                     Kurien ist nicht vollständig, denn für selbständige Angelegenheiten Wiens ist
                     nicht die Kurie Stadt kompetent, sondern der vollzählige Gemeinderat. Dieser hat
@@ -336,19 +340,21 @@
                     Niederösterreich und Gesetze Wiens. Für die Kosten der gemeinsam verbleibenden
                     Angelegenheiten wird durch Vereinbarungen zwischen beiden „Landesteilen“
                     vorgesorgt. Der Bürgermeister hat für Wien die Stellung eines Landeshauptmannes,
-                    der Stadtsenat die einer Landesregierung. Die schwierigste Frage ist die
-                    Verwaltung der gemeinsamen Angelegenheiten. Sie hätte durch eine vom gemeinsamen
-                    Landtag aus seiner Mitte nach dem Verhältniswahlrecht zu wählende Kommission als
-                    gemeinsame Landesregierung zu erfolgen, um nicht neue Verwaltungsapparate
-                    aufkommen zu lassen. Als Vorsitzender und<pb facs="#facs_5" n="5"
-                        xml:id="img_0005" break="yes"/>dessen Stellvertreter hätten abwechselnd der
+                    der Stadtsenat die einer Landesregierung.</p>
+                <p>Die schwierigste Frage ist die Verwaltung der gemeinsamen Angelegenheiten. Sie
+                    hätte durch eine vom gemeinsamen Landtag aus seiner Mitte nach dem
+                    Verhältniswahlrecht zu wählende Kommission als gemeinsame Landesregierung zu
+                    erfolgen, um nicht neue Verwaltungsapparate aufkommen zu lassen. Als
+                    Vorsitzender und<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><fw
+                        type="pageNum">4</fw>dessen Stellvertreter hätten abwechselnd der
                     Bürgermeister und der Landeshauptmann zu fungieren. Für die endgiltige
                     Auseinandersetzung müßte ein übereinstimmendes Gesetz des Landes
-                    Niederösterreich und der Gemeinde Wien genügen. Im Augenblicke des
-                    Inkrafttretens der Verfassung müßte der gemeinsame Landtag sogleich einen
-                    Gesetzesbeschluß fassen und die Angelegenheiten feststellen, die gemeinsam sind.
-                    Bis zu dieser Feststellung sind alle Angelegenheiten als gemeinsam anzusehen.
-                    Was den Instanzenzug anlangt, sollen grundsätzlich zwei Instanzen bestehen. In
+                    Niederösterreich und der Gemeinde Wien genügen.</p>
+                <p>Im Augenblicke des Inkrafttretens der Verfassung müßte der gemeinsame Landtag
+                    sogleich einen Gesetzesbeschluß fassen und die Angelegenheiten feststellen, die
+                    gemeinsam sind. Bis zu dieser Feststellung sind alle Angelegenheiten als
+                    gemeinsam anzusehen.</p>
+                <p>Was den Instanzenzug anlangt, sollen grundsätzlich zwei Instanzen bestehen. In
                     den Übergangsbestimmungen wäre das erforderliche zu erklären. Es könnte etwa der
                     Bürgermeister in zwei Instanzen entscheiden, er könnte auch die magistratischen
                     Bezirksämter ermächtigen, unter seiner Verantwortung zu entscheiden. Der
@@ -356,89 +362,115 @@
                     Bundesbehörde. Im Bundesverwaltungsgesetz müßten besondere Bestimmungen für den
                     Bundesstaat Wien getroffen werden. Eine früher erörterte Konstruktion mit einer
                     Protokolle des Unterausschusses 448 Rechtskommission als Rekurseinstanz wäre mit
-                    der Verantwortlichkeit des Bürgermeisters unvereinbar. Der Vorsitzende meint,
-                    man könnte entweder auf eine Instanz verzichten oder folgende Verfahrensart
-                    wählen: 1. Instanz: Magistratische Bezirksämter, 2. Instanz: Bürgermeister oder
-                    1. Instanz: Magistrat und darüber ein Organ des Bürgermeisters als 2. Instanz,
-                    welch letzere Form Prof. Dr. Kelsen nicht für wünschenswert hält. Was die
-                    Formulierung des Artikels A anlangt, hält es der Vorsitzende für unnötig, in die
-                    Kurie Stadt, die nur sehr selten zusammentreten wird, besondere Funktionäre zu
-                    wählen: Auch Prof. Dr. Seipel hält die Einführung indirekt gewählter
-                    Landtagsabgeordneter für sehr bedenklich. Dr. Danneberg sieht in dem Vorgang,
-                    soviel auch gegen indirekte Wahlen spreche, den typischen Fall einer Delegation
-                    im Sinne des alten Staatsrechts. Der Vorsitzende möchte namentlich die Worte
-                    „aus seiner Mitte“ streichen und den Parteien die Freiheit geben, zu wählen, wen
-                    sie wollen. Durch das Verhältniswahl<pb facs="#facs_6" n="6" xml:id="img_0006"
-                        break="yes"/> recht sei überdies die Benachteiligung einer Partei
-                    ausgeschlossen. Das Verfahren wäre so zu regeln wie beim Bundesrat und bei den
-                    Landesregierungen. In der Regel werden sich die Gemeinderäte wohl selbst
-                    delegieren. Der Unterausschuß beschließt: 317) „Artikel A. (1) Der Landtag von
-                    Niederösterreich gliedert sich in zwei Kurien, die eine (Kurie Land) wird
-                    gebildet von den Abgeordneten des Landes ausschließlich Wiens, die andere Kurie
-                    (Kurie Stadt) aus den Abgeordne ten, welche der Wiener Gemeinderat im Wege der
-                    Verhältniswahl entsendet. (2) Die Zahl der Abgeordneten wäre auf die beiden
-                    Kurien im Verhältnis der Zahl der Bundesbürger, die am Tage der letzten
-                    Volkszählung in den beiden Landesteilen ihren Wohnsitz hatten, zu verteilen. Zu
-                    Artikel B bemerkt Sektionsrat Dr. Mannlicher, daß die Bezeichnung „selbständiger
-                    Wirkungskreis“ bereits in Artikel 13 a, Absatz 2 enthalten ist. Beschlossen
-                    wird: „Art. B. Als gemeinsamer Landtag treten beide Kurien zur Gesetzgebung in
-                    allen Angelegenheiten des selbständigen Wirkungskreises zusammen, die von der
-                    gemeinsamen Landesverfassung für gemeinsam erklärt werden. Zu diesen
-                    Angelegenheiten gehört insbesondere die gemeinsame Landesverfassung selbst. 317)
-                    Diese von H. Kelsen vorgeschlagenen Bestimmungen waren bis zum Jahre 1929 in den
-                    Art. 108 ff enthalten. 449 16. Sitzung Art. C. (1) In den gemeinsamen
-                    Angelegenheiten hat jeder der beiden Landesteile die Stellung eines
-                    selbständigen Landes. (2) In diesen Angelegenheiten hat für Wien der Gemeinderat
-                    der Stadt Wien, für Niederösterreich ausschließlich Wiens die Kurie Land die
-                    Stellung des Landtages. Art. D. (1) Zu den nicht gemeinsamen Angelegenheiten
-                    gehört die Verfassung<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
-                    jedes der beiden Landesteile sowie die Wahl der Mitglieder zum Bundesrat. (2)
-                    Ebenso sieht die Gesetzgebung hinsichtlich der Abgaben, soweit sie in den
-                    Wirkungskreis der Länder fällt, den Gemeinderat der Stadt Wien und dem Landtage
-                    (Kurie Land) zu. (3) Die Aufbringung der Kosten für die gemeinsamen
-                    Angelegenheiten regelt die gemeinsame Landesverfassung. Was die Deckung der
-                    gemeinsamen Auslagen anlangt, so können entweder Matrikularbeiträge festgesetzt
-                    oder ein Teil der Ertragssteuern dem gemeinsamen Lande zugewiesen werden. Die
-                    Einrichtung unterscheidet sich, wie Prof. Dr. Kelsen bemerkt, wesentlich dadurch
-                    von dem seinerzeitigen Verhältnis Österreichs zu Ungarn, daß es keine
-                    Regnikolardeputation gibt, sondern daß im gemeinsamen Landtag der Beschluß der
-                    Majorität entscheidet. Der Vorsitzende würde eine Verkürzung des Instanzenzuges
-                    begrüßen. Er findet besonders den heutigen Zustand widersinnig, da die
-                    Landesregierung als II. Instanz weniger gegliedert ist, als der Magistrat als I.
-                    Instanz. Was die Frage der Immunität anlangt, hält er die ausdrückliche
-                    Erwähnung für unnötig; die Regelung kann der Landesgesetzgebung überlassen
-                    bleiben. Im weiteren Verlaufe der Debatte erklärt es Dr. Danneberg für
-                    selbstverständlich, daß die Bestimmungen der Artikel 90 und 91 auch auf den
-                    Wiener Gemeinderat anwendbar sein müssen. Angenommen wird mit Mehrheitsbeschluß
-                    des Unterausschusses: „Art. E. Für beide Landesteile gelten die Bestimmungen des
-                    4. Hauptstückes. für Wien hat dabei der vom Gemeinderat gewählte Bürgermeister
-                    auch die Stellung eines Landeshauptmannes, der vom Gemeinderat gewählte
-                    Stadtsenat auch die Stellung einer Landesregierung und der Magistratsdirektor
-                    der Stadt Wien auch die Stellung eines Landesamtsdirektors.“ und „Art. F. (1)
-                    Die Verwaltung der gemeinsamen Angelegenheiten erfolgt durch eine vom
+                    der Verantwortlichkeit des Bürgermeisters unvereinbar.</p>
+                <p>Der Vorsitzende meint, man könnte entweder auf eine Instanz verzichten oder
+                    folgende Verfahrensart wählen: 1. Instanz: Magistratische Bezirksämter, 2.
+                    Instanz: Bürgermeister oder 1. Instanz: Magistrat und darüber ein Organ des
+                    Bürgermeisters als 2. Instanz, welch letzere Form Prof. Dr. Kelsen nicht für
+                    wünschenswert hält.</p>
+                <p>Was die Formulierung des Artikels A anlangt, hält es der Vorsitzende für unnötig,
+                    in die Kurie Stadt, die nur sehr selten zusammentreten wird, besondere
+                    Funktionäre zu wählen: Auch Prof. Dr. Seipel hält die Einführung indirekt
+                    gewählter Landtagsabgeordneter für sehr bedenklich. Dr. Danneberg sieht in dem
+                    Vorgang, soviel auch gegen indirekte Wahlen spreche, den typischen Fall einer
+                    Delegation im Sinne des alten Staatsrechts. Der Vorsitzende möchte namentlich
+                    die Worte „aus seiner Mitte“ streichen und den Parteien die Freiheit geben, zu
+                    wählen, wen sie wollen. Durch das Verhältniswahl<pb facs="#facs_6" n="6"
+                        xml:id="img_0006" break="no"/><fw type="pageNum">5</fw> recht sei überdies
+                    die Benachteiligung einer Partei ausgeschlossen. Das Verfahren wäre so zu regeln
+                    wie beim Bundesrat und bei den Landesregierungen. In der Regel werden sich die
+                    Gemeinderäte wohl selbst delegieren.</p>
+                <p>Der Unterausschuß beschließt:</p>
+                <quote>
+                    <p>„Artikel A.</p>
+                    <p>(1) Der Landtag von Niederösterreich gliedert sich in zwei Kurien, die eine
+                        (Kurie Land) wird gebildet von den Abgeordneten des Landes ausschließlich
+                        Wiens, die andere Kurie (Kurie Stadt) aus den Abgeordne ten, welche der
+                        Wiener Gemeinderat im Wege der Verhältniswahl entsendet.</p>
+                    <p>(2) Die Zahl der Abgeordneten wäre auf die beiden Kurien im Verhältnis der
+                        Zahl der Bundesbürger, die am Tage der letzten Volkszählung in den beiden
+                        Landesteilen ihren Wohnsitz hatten, zu verteilen.</p>
+                </quote>
+                <p>Zu Artikel B bemerkt Sektionsrat Dr. Mannlicher, daß die Bezeichnung
+                    „selbständiger Wirkungskreis“ bereits in Artikel 13 a, Absatz 2 enthalten
+                    ist.</p>
+                <p>Beschlossen wird:</p>
+                <quote>
+                    <p>„Art. B.</p>
+                    <p>Als gemeinsamer Landtag treten beide Kurien zur Gesetzgebung in allen
+                        Angelegenheiten des selbständigen Wirkungskreises zusammen, die von der
+                        gemeinsamen Landesverfassung für gemeinsam erklärt werden. Zu diesen
+                        Angelegenheiten gehört insbesondere die gemeinsame Landesverfassung
+                        selbst.</p>
+                    <p>Art. C.</p>
+                    <p>(1) In den gemeinsamen Angelegenheiten hat jeder der beiden Landesteile die
+                        Stellung eines selbständigen Landes.</p>
+                    <p>(2) In diesen Angelegenheiten hat für Wien der Gemeinderat der Stadt Wien,
+                        für Niederösterreich ausschließlich Wiens die Kurie Land die Stellung des
+                        Landtages.</p>
+                    <p>Art. D.</p>
+                    <p>(1) Zu den nicht gemeinsamen Angelegenheiten gehört die Verfassung<pb
+                            facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum"
+                            >6</fw> jedes der beiden Landesteile sowie die Wahl der Mitglieder zum
+                        Bundesrat.</p>
+                    <p>(2) Ebenso sieht die Gesetzgebung hinsichtlich der Abgaben, soweit sie in den
+                        Wirkungskreis der Länder fällt, den Gemeinderat der Stadt Wien und dem
+                        Landtage (Kurie Land) zu.</p>
+                    <p>(3) Die Aufbringung der Kosten für die gemeinsamen Angelegenheiten regelt die
+                        gemeinsame Landesverfassung.</p>
+                </quote>
+                <p>Was die Deckung der gemeinsamen Auslagen anlangt, so können entweder
+                    Matrikularbeiträge festgesetzt oder ein Teil der Ertragssteuern dem gemeinsamen
+                    Lande zugewiesen werden. Die Einrichtung unterscheidet sich, wie Prof. Dr.
+                    Kelsen bemerkt, wesentlich dadurch von dem seinerzeitigen Verhältnis Österreichs
+                    zu Ungarn, daß es keine Regnikolardeputation gibt, sondern daß im gemeinsamen
+                    Landtag der Beschluß der Majorität entscheidet.</p>
+                <p>Der Vorsitzende würde eine Verkürzung des Instanzenzuges begrüßen. Er findet
+                    besonders den heutigen Zustand widersinnig, da die Landesregierung als II.
+                    Instanz weniger gegliedert ist, als der Magistrat als I. Instanz. Was die Frage
+                    der Immunität anlangt, hält er die ausdrückliche Erwähnung für unnötig; die
+                    Regelung kann der Landesgesetzgebung überlassen bleiben. Im weiteren Verlaufe
+                    der Debatte erklärt es Dr. Danneberg für selbstverständlich, daß die
+                    Bestimmungen der Artikel 90 und 91 auch auf den Wiener Gemeinderat anwendbar
+                    sein müssen.</p>
+                <p>Angenommen wird mit Mehrheitsbeschluß des Unterausschusses:</p>
+                <quote>
+                    <p>„Art. E.</p>
+                    <p>Für beide Landesteile gelten die Bestimmungen des 4. Hauptstückes. für Wien
+                        hat dabei der vom Gemeinderat gewählte Bürgermeister auch die Stellung eines
+                        Landeshauptmannes, der vom Gemeinderat gewählte Stadtsenat auch die Stellung
+                        einer Landesregierung und der Magistratsdirektor der Stadt Wien auch die
+                        Stellung eines Landesamtsdirektors.“</p>
+                </quote>
+                <p>und „Art. F.</p>
+                <p>(1) Die Verwaltung der gemeinsamen Angelegenheiten erfolgt durch eine vom
                     gemeinsamen Landtag aus seiner Mitte nach dem Verhältnis Protokolle des
                     Unterausschusses 450 wahlrecht zu wählende Verwaltungskommission als gemeinsame
-                        Landesregierung.<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/> (2)
-                    Als Vorsitzender und dessen Stellvertreter fungieren abwechselnd der
+                    Landesregierung.</p>
+                <p><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw type="pageNum"
+                    >7</fw>(2) Als Vorsitzender und dessen Stellvertreter fungieren abwechselnd der
                     Bürgermeister der Stadt Wien und der Landeshauptmann von Niederösterreich (Kurie
-                    Land). Prof. Dr. Seipel wünscht Feststellung, daß diese beiden Artikel durch
+                    Land)."</p>
+                <p>Prof. Dr. Seipel wünscht Feststellung, daß diese beiden Artikel durch
                     Mehrheitsbeschluß zustande gekommen sind und meldet Minderheitsanträge seiner
-                    Partei an. Da sich Präsident Seitz gegen das Alternieren ausspricht, weist Prof.
-                    Dr. Kelsen darauf hin, daß ein eigener Vorsitzender ein neuer Landeshauptmann
-                    wäre, sodaß man 3 Landeshauptmänner hätte, was vom Gesichtspunkte der
-                    möglichsten Einfachheit zu vermeiden wäre. Die Aufgaben dieser Kommission
-                    dürften sich wie der Vorsitzende annimmt, etwa mit denen des alten
-                    Landesausschusses decken und zwar hätte sie zu sorgen für die Spitäler,
-                    humanitären Anstalten, Landeseisenbahnen, die im Eigentum des Landes
-                    befindlichen Schulen, wobei auch diese Angelegenheiten möglichst aufzuteilen
-                    wären, Abgeordneter Kunschak hält auch seinerseits die Stellung des Vorsitzenden
-                    in der gemeinsamen Landesregierung für ähnlich mit der des Vorsitzenden im alten
-                    Landesausschusse, der nicht gewählt, sondern vom Kaiser ernannt und schon
-                    deshalb von geringem Einfluß gewesen sei. Bezüglich des 5. Hauptstückes hält
-                    Prof. Dr. Kelsen eine besondere Bestimmung nicht für nötig, er hält es jedoch
-                    für möglich, daß bei der Hauptlesung darauf zurückgegriffen werde. Auf Grund der
-                    Beschlüsse des Unterausschusses wird auch die Übergangsbestimmung ergänzt
-                    werden. Der Vorsitzende geht hierauf zur Besprechung der von der Staatskanzlei
+                    Partei an.</p>
+                <p>Da sich Präsident Seitz gegen das Alternieren ausspricht, weist Prof. Dr. Kelsen
+                    darauf hin, daß ein eigener Vorsitzender ein neuer Landeshauptmann wäre, sodaß
+                    man 3 Landeshauptmänner hätte, was vom Gesichtspunkte der möglichsten
+                    Einfachheit zu vermeiden wäre. Die Aufgaben dieser Kommission dürften sich wie
+                    der Vorsitzende annimmt, etwa mit denen des alten Landesausschusses decken und
+                    zwar hätte sie zu sorgen für die Spitäler, humanitären Anstalten,
+                    Landeseisenbahnen, die im Eigentum des Landes befindlichen Schulen, wobei auch
+                    diese Angelegenheiten möglichst aufzuteilen wären, Abgeordneter Kunschak hält
+                    auch seinerseits die Stellung des Vorsitzenden in der gemeinsamen
+                    Landesregierung für ähnlich mit der des Vorsitzenden im alten Landesausschusse,
+                    der nicht gewählt, sondern vom Kaiser ernannt und schon deshalb von geringem
+                    Einfluß gewesen sei.</p>
+                <p>Bezüglich des 5. Hauptstückes hält Prof. Dr. Kelsen eine besondere Bestimmung
+                    nicht für nötig, er hält es jedoch für möglich, daß bei der Hauptlesung darauf
+                    zurückgegriffen werde. Auf Grund der Beschlüsse des Unterausschusses wird auch
+                    die Übergangsbestimmung ergänzt werden.</p>
+                <p>Der Vorsitzende geht hierauf zur Besprechung der von der Staatskanzlei
                     ausgearbeiteten Übergangsbestimmungen, die als Bundesgesetz und nicht als
                     Bestandteil der Bundesverfassung gedacht sind, über. Ministerialrat Dr.
                     Froehlich hielte es für eine schwere Belastung der Verfassung, sollte man mehr
@@ -446,20 +478,21 @@
                     wesentlich erschwert. Man könnte sich begnügen einen Schlußartikel in die
                     Verfassung aufzunehmen, der erklärt, daß die Übergangsbestimmungen in einem
                     eigenen Gesetz, das zum Bestandteil der Verfassung erklärt wird, enthalten
-                        sind,<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/> wobei jedoch
-                    für dieses Gesetz die Bestimmungen über die 2/3 Majorität und die
-                    Volksabstimmung nicht zu gelten hätten. Die Zeit zur Fertigstellung dieses
-                    Entwurfes war so kurz, daß wahrscheinlich noch Ergänzungen erforderlich sein
-                    dürften, es wäre daher gefährlich, bei jeder oft geringfügigen Änderung den
-                    Apparat der Volksabstimmung in Bewegung zu setzen. Da die Verfassung auch der
-                    Bevölkerung in Fleisch und Blut übergehen und in den Schulen unterrichtet werden
-                    soll, wären diese Übergangsbestimmungen eine überaus schwere Belastung. Die
-                    Arbeit war dadurch erschwert, daß der Zeitpunkt des Inkraft 16. Sitzung 451
+                        sind,<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><fw
+                        type="pageNum">8</fw> wobei jedoch für dieses Gesetz die Bestimmungen über
+                    die 2/3 Majorität und die Volksabstimmung nicht zu gelten hätten. Die Zeit zur
+                    Fertigstellung dieses Entwurfes war so kurz, daß wahrscheinlich noch Ergänzungen
+                    erforderlich sein dürften, es wäre daher gefährlich, bei jeder oft geringfügigen
+                    Änderung den Apparat der Volksabstimmung in Bewegung zu setzen. Da die
+                    Verfassung auch der Bevölkerung in Fleisch und Blut übergehen und in den Schulen
+                    unterrichtet werden soll, wären diese Übergangsbestimmungen eine überaus schwere
+                    Belastung.</p>
+                <p>Die Arbeit war dadurch erschwert, daß der Zeitpunkt des Inkraft 16. Sitzung 451
                     tretens der Verfassung noch nicht feststeht. Der Entwurf ist abgestellt auf den
                     Tag des Zusammentretens des neuen Nationalrates; sollte ein anderer Tag gewählt
-                    werden, so würde dies noch einige Änderungen erfordern. Präsident Seitz verweist
-                    hinsichtlich der Richterernennung auf die Notwendigkeit eines
-                    Richterernennungsgesetzes und übergibt ein bezügliches Memorandum.
+                    werden, so würde dies noch einige Änderungen erfordern.</p>
+                <p>Präsident Seitz verweist hinsichtlich der Richterernennung auf die Notwendigkeit
+                    eines Richterernennungsgesetzes und übergibt ein bezügliches Memorandum.
                     Ministerialrat Dr. Froehlich erwähnt, daß die Frage bei den Parteienberatungen
                     behandelt aber offen gelassen worden sei. Die Vertreter des Justizamtes hätten
                     es für wünschenswert gehalten, auch die Bindung an den Vorschlag hinein zu
@@ -468,64 +501,79 @@
                     erklärt, daß seine Partei der Ansicht ist, der Bundespräsident sei an den
                     Vorschlag der Regierung oder des Ministers gebunden, letzterer aber nicht an den
                     des Senates. Die Staatskanzlei wird hierüber mit dem Justizamt noch Fühlung
-                    nehmen. Bei Beratung des I. Teiles „Allgemeine Bestimmungen“ beantragt der
-                    Vorsitzende die Streichung des Beisatzes „nach Maßgabe des Inkrafttretens der
-                    Bestimmungen des letzteren Gesetzes“. Ministerialrat Dr. Froehlich begründet
-                    diese Worte mit der Möglichkeit, daß die verschiedenen Bestimmungen des
-                    Verfassungsgesetzes zu verschiedenen Zeiten in Kraft treten, sodaß auch die
-                    Änderung der Gesetze entsprechend zu erfolgen hätte. Abgeordnete Clessin<pb
-                        facs="#facs_10" n="10" xml:id="img_0010" break="yes"/> schließt sich den
+                    nehmen.</p>
+                <p>Bei Beratung des I. Teiles „Allgemeine Bestimmungen“ beantragt der Vorsitzende
+                    die Streichung des Beisatzes „nach Maßgabe des Inkrafttretens der Bestimmungen
+                    des letzteren Gesetzes“. Ministerialrat Dr. Froehlich begründet diese Worte mit
+                    der Möglichkeit, daß die verschiedenen Bestimmungen des Verfassungsgesetzes zu
+                    verschiedenen Zeiten in Kraft treten, sodaß auch die Änderung der Gesetze
+                    entsprechend zu erfolgen hätte. Abgeordneter Clessin<pb facs="#facs_10" n="10"
+                        xml:id="img_0010" break="yes"/><fw type="pageNum">9</fw> schließt sich den
                     Streichungsantrag an und wünscht auch das Wort „insofern“ durch „insoweit“
                     ersetzt. Den Titel des Verfassungsgesetzes wünscht der Vorsitzende offen zu
-                    lassen, auch soll das Wort „Österreich“ gestrichen werden. Beschlossen wird:
-                    318) § 1. Alle Gesetze und Vollzugsanweisungen (Verordnungen) des Staates und
-                    der Länder gelten weiter, insoweit sie nicht mit den Bestimmungen des Gesetzes
-                    vom ... StGBl. Nr. ... betreffend die Verfassung der Republik
-                    (Verfassungsgesetz) im Widerspruch stehen. Die §§ 2 bis 4 werden ohne Änderung
-                    angenommen, sie lauten § 2. (1) In den Angelegenheiten der Artikel 10 und 11 des
-                    Bundesverfassungsgesetzes werden die Staatsgesetze einschließlich der
-                    Reichsgesetze des ehemaligen Staates Österreich, welche gemäß § 16 des
-                    Beschlusses über die grundlegenden Einrichtungen der Staatsgewalt vom 30.
-                    Oktober 1918, StGBl. Nr. 1, für die Republik Österreich in Geltung gesetzt
-                    wurden, sowie die Landesgesetze — letztere für das Land, in dem sie erlassen
-                    worden sind — Bundesgesetze im Sinne des Bundesverfassungsgesetzes. 318) Vgl.
-                    die §§ 1 ff. des V-UG. 1920. 452 Protokolle des Unterausschusses (2) Die
-                    Bestimmungen des Absatzes 1 gelten sinngemäß auch für die auf Grund der
-                    betreffenden Gesetze ergangenen Vollzugsanweisungen (Verordnungen). § 3. (1) Die
-                    Landesgesetze, welche die im Artikel 12 des Bundesverfassungsgesetzes
-                    aufgezählten Angelegenheiten regeln, bleiben weiter Landesgesetze im Sinne des
-                    Bundesverfassungsgesetzes. Sobald jedoch in diesen Angelegenheiten Grundsätze
-                    durch Bundesgesetz festgesetzt werden, sind solche Landesgesetze gemäß Artikel
-                    13, Absatz 2 binnen der bundesgesetzlich festgelegten Frist abzuändern. (2) Sind
-                    die im Artikel 12 bezeichneten Angelegenheiten aber zur Gänze durch
-                    Staatsgesetze, einschließlich früherer Reichsgesetze<pb facs="#facs_11" n="11"
-                        xml:id="img_0011" break="yes"/>geregelt, so bleibt ein solches Gesetz als
-                    Bundesgesetz bis zum 31. Dezember 1924 in Giltigkeit, soweit es nicht schon
-                    vorher durch ein die gleiche Angelegenheit im Sinne des Artikels 12 regelndes
-                    Bundesgesetz außer Kraft gesetzt wird. Mit 1. Jänner 1925 erlischt die
-                    Wirksamkeit derartiger Gesetze; die Landesgesetzgebungen können sodann die
-                    Angelegenheit frei regeln, solange nicht der Bund von den ihm nach Artikel 12
-                    zustehenden Gesetzgebungsrecht Gebrauch macht. (3) Obige Bestimmungen erstrecken
-                    sich auch auf die auf Grund der betreffenden Gesetze ergangenen
-                    Vollzugsanweisungen (Verordnungen). § 4. (1) Die in den Angelegenheiten, welche
-                    nach Artikel 13, Absatz 1, des Bundesverfassungsgesetzes ausschließlich in die
-                    Gesetzgebung der Länder fallen, bestehenden Landesgesetze bleiben Landesgesetze
-                    im Sinne des Bundesverfassungsgesetzes. (2) Soweit solche Angelegenheiten bisher
-                    durch Staatsgesetze, einschließlich früherer Reichsgesetze, geregelt sind,
-                    gelten diese, in jedem Lande als Landesgesetze im Sinne des
-                    Bundesverfassungsgesetzes. (3) Die Bestimmungen der beiden ersten Absätze gelten
-                    sinngemäß auch für die auf Grund der betreffenden Gesetze ergangenen
-                    Vollzugsanweisungen (Verordnungen). § 5 behandelt, wie Prof. Dr. Kelsen
-                    ausführt, eines der schwierigen Probleme. Da die Bestimmungen der Verfassung mit
-                    zahlreichen Normen der materiellen Gesetzgebung in Widerspruch stehen, die sich
-                    heute kaum übersehen lassen, sei man genötigt von „sinngemäßer Abänderung“ zu
-                    sprechen. Es müsse der Vernunft und dem guten Willen der interpretierenden
-                    Behörden und im Zweifel der Entscheidung der Bundesregierung überlassen bleiben.
-                    Der Nationalrat hat stets die Möglichkeit, offene Fragen durch Gesetz zu lösen
-                    aber bis dahin müsse die Verordnungsgewalt eingreifen. Der Vorsitzende erblickt
-                    eine Gefahr in der Konkurrenz der Bundes- und der Landesregierungen und möchte
-                    erwägen, ob man solche Verordnungen nicht an besondere Voraussetzungen<pb
-                        facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>binden sollte, etwa
+                    lassen, auch soll das Wort „Österreich“ gestrichen werden.</p>
+                <p>Beschlossen wird:</p>
+                <quote>
+                    <p>"§ 1.</p>
+                    <p>Alle Gesetze und Vollzugsanweisungen (Verordnungen) des Staates und der
+                        Länder gelten weiter, insoweit sie nicht mit den Bestimmungen des Gesetzes
+                        vom ... StGBl. Nr. ... betreffend die Verfassung der Republik
+                        (Verfassungsgesetz) im Widerspruch stehen."</p>
+                </quote>
+                <p>Die §§ 2 bis 4 werden ohne Änderung angenommen, sie lauten</p>
+                <quote>
+                    <p>"§ 2.</p>
+                    <p>(1) In den Angelegenheiten der Artikel 10 und 11 des
+                        Bundesverfassungsgesetzes werden die Staatsgesetze einschließlich der
+                        Reichsgesetze des ehemaligen Staates Österreich, welche gemäß § 16 des
+                        Beschlusses über die grundlegenden Einrichtungen der Staatsgewalt vom 30.
+                        Oktober 1918, StGBl. Nr. 1, für die Republik Österreich in Geltung gesetzt
+                        wurden, sowie die Landesgesetze — letztere für das Land, in dem sie erlassen
+                        worden sind — Bundesgesetze im Sinne des Bundesverfassungsgesetzes.</p>
+                    <p>(2) Die Bestimmungen des Absatzes 1 gelten sinngemäß auch für die auf Grund
+                        der betreffenden Gesetze ergangenen Vollzugsanweisungen (Verordnungen).</p>
+                    <p>§ 3.</p>
+                    <p>(1) Die Landesgesetze, welche die im Artikel 12 des Bundesverfassungsgesetzes
+                        aufgezählten Angelegenheiten regeln, bleiben weiter Landesgesetze im Sinne
+                        des Bundesverfassungsgesetzes. Sobald jedoch in diesen Angelegenheiten
+                        Grundsätze durch Bundesgesetz festgesetzt werden, sind solche Landesgesetze
+                        gemäß Artikel 13, Absatz 2 binnen der bundesgesetzlich festgelegten Frist
+                        abzuändern.</p>
+                    <p>(2) Sind die im Artikel 12 bezeichneten Angelegenheiten aber zur Gänze durch
+                        Staatsgesetze, einschließlich früherer Reichsgesetze<pb facs="#facs_11"
+                            n="11" xml:id="img_0011" break="yes"/><fw type="pageNum"
+                        >10</fw>geregelt, so bleibt ein solches Gesetz als Bundesgesetz bis zum 31.
+                        Dezember 1924 in Giltigkeit, soweit es nicht schon vorher durch ein die
+                        gleiche Angelegenheit im Sinne des Artikels 12 regelndes Bundesgesetz außer
+                        Kraft gesetzt wird. Mit 1. Jänner 1925 erlischt die Wirksamkeit derartiger
+                        Gesetze; die Landesgesetzgebungen können sodann die Angelegenheit frei
+                        regeln, solange nicht der Bund von den ihm nach Artikel 12 zustehenden
+                        Gesetzgebungsrecht Gebrauch macht.</p>
+                    <p>(3) Obige Bestimmungen erstrecken sich auch auf die auf Grund der
+                        betreffenden Gesetze ergangenen Vollzugsanweisungen (Verordnungen).</p>
+                    <p>§ 4.</p>
+                    <p>(1) Die in den Angelegenheiten, welche nach Artikel 13, Absatz 1, des
+                        Bundesverfassungsgesetzes ausschließlich in die Gesetzgebung der Länder
+                        fallen, bestehenden Landesgesetze bleiben Landesgesetze im Sinne des
+                        Bundesverfassungsgesetzes.</p>
+                    <p>(2) Soweit solche Angelegenheiten bisher durch Staatsgesetze, einschließlich
+                        früherer Reichsgesetze, geregelt sind, gelten diese, in jedem Lande als
+                        Landesgesetze im Sinne des Bundesverfassungsgesetzes.</p>
+                    <p>(3) Die Bestimmungen der beiden ersten Absätze gelten sinngemäß auch für die
+                        auf Grund der betreffenden Gesetze ergangenen Vollzugsanweisungen
+                        (Verordnungen)."</p>
+                </quote>
+                <p>§ 5 behandelt, wie Prof. Dr. Kelsen ausführt, eines der schwierigen Probleme. Da
+                    die Bestimmungen der Verfassung mit zahlreichen Normen der materiellen
+                    Gesetzgebung in Widerspruch stehen, die sich heute kaum übersehen lassen, sei
+                    man genötigt von „sinngemäßer Abänderung“ zu sprechen. Es müsse der Vernunft und
+                    dem guten Willen der interpretierenden Behörden und im Zweifel der Entscheidung
+                    der Bundesregierung überlassen bleiben. Der Nationalrat hat stets die
+                    Möglichkeit, offene Fragen durch Gesetz zu lösen aber bis dahin müsse die
+                    Verordnungsgewalt eingreifen. Der Vorsitzende erblickt eine Gefahr in der
+                    Konkurrenz der Bundes- und der Landesregierungen und möchte erwägen, ob man
+                    solche Verordnungen nicht an besondere Voraussetzungen<pb facs="#facs_12" n="12"
+                        xml:id="img_0012" break="yes"/><fw type="pageNum">11</fw>binden sollte, etwa
                     unter Beiziehung des Hauptausschusses. Prof. Dr. Kelsen erblickt darin eine
                     Verzögerung, die dem Bedürfnis raschester Erledigung nicht Rechnung trägt.
                     Besonders bedenklich findet der Vorsitzende, daß im Augenblick des
@@ -540,74 +588,91 @@
                     negativen Kompetenzkonflikte keine allzugroße Gefahr. Auch eine Befristung
                     solcher Verordnungen wie sie der Vorsitzende anregt, sei nicht geeignet, die
                     Schwierigkeiten zu beheben, da im Zeitpunkte des Erlöschens wieder ein
-                    gefährliches Vakuum eintritt. Ministerialrat Dr. Froehlich meint, daß sich die
-                    Bestimmungen weniger auf materiell-rechtliche als auf formell-rechtliche
-                    Angelegenheiten erstrecken dürften. So soll, wie Prof. Dr. Kelsen erwähnt, z. B.
-                    die Frage des Landesschulrates gelöst werden. Er ist heute zusammengesetzt aus
-                    Vertretern des Staates und des Landes. Durch die Verfassung würde diese
-                    Bestimmung sinnlos, sodaß es sich um Neuregelung der Zusammensetzung handeln
-                    werde. Der Unterausschuß beschließt folgenden Wortlaut: § 5 (1) Insoweit die
-                    Bestimmungen der im § 1 bezeichneten Gesetze und Vollzugsanweisungen
-                    (Verordnungen) mit den organisatorischen Bestimmungen des
-                    Bundesverfassungsgesetzes im Widerspruch stehen — namentlich was Zuständigkeit
-                    und Zusammensetzung der Behörden sowie deren Eigenschaft als Bundes- und
-                    Landesbehörden anbelangt gelten sie als sinngemäß abgeändert. Insbesondere endet
-                    demgemäß in den<pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"
-                    />Angelegenheiten, die nunmehr in der Vollziehung der Länder stehen, der
-                    Instanzenzug bei der Landesregierung. (2) Soferne sich auf Grund dieser
-                    Auslegungsregel Zweifel ergeben können, hat nach den die Zuständigkeit regelnden
-                    Bestimmungen des Bundesverfassungsgesetzes entweder die Bundesregierung oder die
-                    berufene Landesregierung diese Angelegenheit bis zur Erlassung einer
-                    gesetzlichen Bestimmung im Sinne des Bundesverfassungsgesetzes vorläufig durch
-                    Verordnung zu regeln. Zum 2. Absatz bemerkt Ministerialrat Dr. Fröhlich, daß
-                    wegen der Verschiedenheit im Sprachgebrauch der Gesetze vor dem Umsturze hier
-                    Protokolle des Unterausschusses 454 eine besondere Formulierung über die
-                    Bezeichnung „Regierung“ eingefügt sei. Präsident Seitz findet, daß nunmehr
-                    eigentlich alles auf das Kabinett abgestellt sei, bei einzelnen Punkten der
-                    Verfassung dürfte doch mehr an den einzelnen Staatssekretär gedacht worden sein.
-                    Bei der technischen Überprüfung des Entwurfes wird noch klarzustellen sein, wo
-                    überall die Gesamtregierung gemeint sei. Der Unterausschuß beschließt den § 6 im
-                    Wortlaute des Entwurfes. § 6. (1) Die in besonderen Gesetzen der bisherigen
-                    Organe des Staates und der Länder übertragenen Befugnisse gehen im Rahmen dieser
-                    Verfassung auf die entsprechenden Organe des Bundes und der Länder über. Demnach
-                    treten namentlich an die Stelle der Nationalversammlung der Nationalrat, an die
-                    Stelle des Präsidenten der Nationalversammlung, soweit er zur Ausübung der
-                    Regierungsgewalt berufen war, der Bundespräsident, an die Stelle der
-                    Staatsregierung die Bundesregierung, an die Stelle der Staatssekretäre die
-                    Bundesminister, an die Stelle der Unterstaatssekretäre die Staatssekretäre, an
-                    die Stelle des Staatsrechnungshofes der Rechnungshof usw. (2) Die nach dem
-                    Gesetz vom 24. Juli 1917, RGBl. Nr. 307, mit welchem die Regierung ermächtigt
-                    wird, aus Anlaß der durch den Kriegszustand verursachten außerordentlichen
-                    Verhältnisse die notwendigen Verfügungen auf wirtschaftlichem Gebiete zu
-                    treffen, der Regierung <pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"
-                    /> zustehenden Befugnisse gehen sowohl auf die Bundesregierung, als auch auf die
-                    einzelnen Bundesminister über. Zum folgenden Paragraph bemerkt der Vorsitzende,
-                    er wisse nicht, ob seine Partei zustimmt, daß die innere Verwaltung in die Hand
-                    der Länder übergeht, ohne daß die Demokratisierung dieser Behörde sichergestellt
-                    ist. Sektionsrat Dr. Mannlicher bringt den Einspruch des Staatsamtes für Land-
-                    und Forstwirtschaft gegen die Verländerung zur Kenntnis, ist aber der
-                    Anschauung, daß den § 7 schon die Bestimmungen des Artikels 92 präjudizieren, in
-                    denen vorgesehen ist, daß der Bund auf diesem Gebiete keine Behörde haben kann.
-                    Zu erwähnen sei noch, daß dieser Paragraph die Gegenwart behandelt, hingegen
-                    Artikel 92 die Zukunft. Einen Abänderungsantrag bringt der Vorsitzende zu § 7,
-                    Absatz 1 ein, demzufolge zwischen die Worte „werden“ und „Behörden eingeschaltet
-                    wird „nach Inkrafttreten der im Artikel 97f vorgesehenen Verwaltungsgesetze“.
-                    Wichtig wäre auch, wie Prof. Dr. Kelsen meint, die Festsetzung der Worte: „bis
-                    zu diesem Zeitpunkte sind sie Bundesbehörden“. Die Frage der Schule ist, wie
-                    Sektionsrat Dr. Mannlicher feststellt, hier noch nicht berücksichtigt. Der 1.
-                    Absatz des § 7 wird folgendermaßen formuliert: 455 16. Sitzung § 7. (1) Die
-                    staatlichen Behörden der allgemeinen politischen Verwaltung in den Ländern
-                    (Landesregierungen, Bezirkshauptmannschaften einschließlich der bei diesen
-                    Amtern vereinigten besonderen Dienstzweige (bau- und forsttechnischer Dienst,
-                    Gesundheitsdienst, Veterinärdienst, Archive und Bibliotheksdienst,
-                    Rechnungsdienst) und die Agrarbehörden erster und zweiter Instanz sowie die
-                    Behörden und Ämter der bisherigen autonomen Verwaltung in den Ländern
-                    (Landesämter, Bezirksausschüsse, Gemeinden) werden nach Inkrafttreten der im
-                    Artikel 97f vorgesehenen Verwaltungsgesetzes Behörden (Amter) des Landes im
-                    Sinne des Bundesverfassungsgesetzes. Bis zu diesem Zeitpunkte sind sie
-                    Bundesbehörden. Doch findet Abgeordneter Fink den Paragraph sehr weitgehend,<pb
-                        facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>solange man nicht
-                    genau weiß, ob die taxative Aufzählung dieses Absatzes vollzählig ist.
+                    gefährliches Vakuum eintritt.</p>
+                <p>Ministerialrat Dr. Froehlich meint, daß sich die Bestimmungen weniger auf
+                    materiell-rechtliche als auf formell-rechtliche Angelegenheiten erstrecken
+                    dürften. So soll, wie Prof. Dr. Kelsen erwähnt, z. B. die Frage des
+                    Landesschulrates gelöst werden. Er ist heute zusammengesetzt aus Vertretern des
+                    Staates und des Landes. Durch die Verfassung würde diese Bestimmung sinnlos,
+                    sodaß es sich um Neuregelung der Zusammensetzung handeln werde.</p>
+                <p>Der Unterausschuß beschließt folgenden Wortlaut:</p>
+                <quote>
+                    <p>§ 5.</p>
+                    <p>(1) Insoweit die Bestimmungen der im § 1 bezeichneten Gesetze und
+                        Vollzugsanweisungen (Verordnungen) mit den organisatorischen Bestimmungen
+                        des Bundesverfassungsgesetzes im Widerspruch stehen — namentlich was
+                        Zuständigkeit und Zusammensetzung der Behörden sowie deren Eigenschaft als
+                        Bundes- und Landesbehörden anbelangt gelten sie als sinngemäß abgeändert.
+                        Insbesondere endet demgemäß in den<pb facs="#facs_13" n="13"
+                            xml:id="img_0013" break="yes"/><fw type="pageNum"
+                        >12</fw>Angelegenheiten, die nunmehr in der Vollziehung der Länder stehen,
+                        der Instanzenzug bei der Landesregierung.</p>
+                    <p>(2) Soferne sich auf Grund dieser Auslegungsregel Zweifel ergeben können, hat
+                        nach den die Zuständigkeit regelnden Bestimmungen des
+                        Bundesverfassungsgesetzes entweder die Bundesregierung oder die berufene
+                        Landesregierung diese Angelegenheit bis zur Erlassung einer gesetzlichen
+                        Bestimmung im Sinne des Bundesverfassungsgesetzes vorläufig durch Verordnung
+                        zu regeln."</p>
+                </quote>
+                <p>Zum 2. Absatz bemerkt Ministerialrat Dr. Fröhlich, daß wegen der Verschiedenheit
+                    im Sprachgebrauch der Gesetze vor dem Umsturze hier Protokolle des
+                    Unterausschusses 454 eine besondere Formulierung über die Bezeichnung
+                    „Regierung“ eingefügt sei. Präsident Seitz findet, daß nunmehr eigentlich alles
+                    auf das Kabinett abgestellt sei, bei einzelnen Punkten der Verfassung dürfte
+                    doch mehr an den einzelnen Staatssekretär gedacht worden sein. Bei der
+                    technischen Überprüfung des Entwurfes wird noch klarzustellen sein, wo überall
+                    die Gesamtregierung gemeint sei.</p>
+                <p>Der Unterausschuß beschließt den § 6 im Wortlaute des Entwurfes.</p>
+                <quote>
+                    <p>§ 6.</p>
+                    <p>(1) Die in besonderen Gesetzen der bisherigen Organe des Staates und der
+                        Länder übertragenen Befugnisse gehen im Rahmen dieser Verfassung auf die
+                        entsprechenden Organe des Bundes und der Länder über. Demnach treten
+                        namentlich an die Stelle der Nationalversammlung der Nationalrat, an die
+                        Stelle des Präsidenten der Nationalversammlung, soweit er zur Ausübung der
+                        Regierungsgewalt berufen war, der Bundespräsident, an die Stelle der
+                        Staatsregierung die Bundesregierung, an die Stelle der Staatssekretäre die
+                        Bundesminister, an die Stelle der Unterstaatssekretäre die Staatssekretäre,
+                        an die Stelle des Staatsrechnungshofes der Rechnungshof usw.</p>
+                    <p>(2) Die nach dem Gesetz vom 24. Juli 1917, RGBl. Nr. 307, mit welchem die
+                        Regierung ermächtigt wird, aus Anlaß der durch den Kriegszustand
+                        verursachten außerordentlichen Verhältnisse die notwendigen Verfügungen auf
+                        wirtschaftlichem Gebiete zu treffen, der Regierung <pb facs="#facs_14"
+                            n="14" xml:id="img_0014" break="yes"/><fw type="pageNum">13</fw>
+                        zustehenden Befugnisse gehen sowohl auf die Bundesregierung, als auch auf
+                        die einzelnen Bundesminister über."</p>
+                </quote>
+                <p>Zum folgenden Paragraph bemerkt der Vorsitzende, er wisse nicht, ob seine Partei
+                    zustimmt, daß die innere Verwaltung in die Hand der Länder übergeht, ohne daß
+                    die Demokratisierung dieser Behörde sichergestellt ist. Sektionsrat Dr.
+                    Mannlicher bringt den Einspruch des Staatsamtes für Land- und Forstwirtschaft
+                    gegen die Verländerung zur Kenntnis, ist aber der Anschauung, daß den § 7 schon
+                    die Bestimmungen des Artikels 92 präjudizieren, in denen vorgesehen ist, daß der
+                    Bund auf diesem Gebiete keine Behörde haben kann. Zu erwähnen sei noch, daß
+                    dieser Paragraph die Gegenwart behandelt, hingegen Artikel 92 die Zukunft.</p>
+                <p>Einen Abänderungsantrag bringt der Vorsitzende zu § 7, Absatz 1 ein, demzufolge
+                    zwischen die Worte „werden“ und „Behörden eingeschaltet wird „nach Inkrafttreten
+                    der im Artikel 97f vorgesehenen Verwaltungsgesetze“. Wichtig wäre auch, wie
+                    Prof. Dr. Kelsen meint, die Festsetzung der Worte: „bis zu diesem Zeitpunkte
+                    sind sie Bundesbehörden“. Die Frage der Schule ist, wie Sektionsrat Dr.
+                    Mannlicher feststellt, hier noch nicht berücksichtigt.</p>
+                <p>Der 1. Absatz des § 7 wird folgendermaßen formuliert:</p>
+                <quote>
+                    <p>"§ 7.</p>
+                    <p>(1) Die staatlichen Behörden der allgemeinen politischen Verwaltung in den
+                        Ländern (Landesregierungen, Bezirkshauptmannschaften einschließlich der bei
+                        diesen Amtern vereinigten besonderen Dienstzweige (bau- und forsttechnischer
+                        Dienst, Gesundheitsdienst, Veterinärdienst, Archive und Bibliotheksdienst,
+                        Rechnungsdienst) und die Agrarbehörden erster und zweiter Instanz sowie die
+                        Behörden und Ämter der bisherigen autonomen Verwaltung in den Ländern
+                        (Landesämter, Bezirksausschüsse, Gemeinden) werden nach Inkrafttreten der im
+                        Artikel 97f vorgesehenen Verwaltungsgesetzes Behörden (Amter) des Landes im
+                        Sinne des Bundesverfassungsgesetzes. Bis zu diesem Zeitpunkte sind sie
+                        Bundesbehörden."</p>
+                </quote>
+                <p>Doch findet Abgeordneter Fink den Paragraph sehr weitgehend,<pb facs="#facs_15"
+                        n="15" xml:id="img_0015" break="yes"/><fw type="pageNum">14</fw>solange man
+                    nicht genau weiß, ob die taxative Aufzählung dieses Absatzes vollzählig ist.
                     Abgeordneter Clessin verweist namentlich auf das Schulwesen, das wie Sektionsrat
                     Dr. Mannlicher mitteilt, noch nicht behandelt werden konnte, da der
                     Unterausschuß keinen Beschluß darüber gefaßt habe. Auch die Formulierung des § 8
@@ -633,71 +698,90 @@
                     keine Vorteile; die gewählte Vertretung träte nur neben die Hauptmannschaft,
                     ohne daß ihre Kompetenz geregelt wäre. Auch sei die sofortige Konstituierung
                     nicht möglich. Auf seinen Antrag wird schließlich die Entscheidung über die §§ 7
-                    und 8 den Parteiberatungen überlassen. Protokolle des Unterausschusses 456 Der
-                    Unterausschuß unterbricht hierauf die Beratungen von ½1 Uhr<pb facs="#facs_16"
-                        n="16" xml:id="img_0016" break="yes"/>bis 3 Uhr 45 Minuten nachmittags. Nach
-                    kurzer Besprechung werden die §§ 8, 9 und 10 in der vorgelegten Fassung
-                    angenommen. Sie lauten: § 8. (1) Sämtliche Angestellte der im § 7, Absatz 1,
-                    bezeichneten Behörden mit Ausnahme der Bezirksausschüsse und der Gemeinden sind
-                    Angestellte des Landes (Artikel 14 d, Absatz 2 des Bundesverfassungsgesetzes).
-                    Die Rechtsstellung der Angestellten der Bezirksausschüsse und der Gemeinden wird
-                    vorläufig nicht geändert. (2) Die Angestellten der nicht im § 7, Absatz 1,
-                    bezeichneten staatlichen Behörden werden Angestellte des Bundes. (3) Die bei
-                    staatlichen Anstalten angestellten Personen werden Angestellte des Bundes, die
-                    Angestellten bei Landesanstalten Angestellte der Länder; die Angestellten bei
-                    Anstalten der Bezirke, Gemeinden und sonstiger öffentlicher Körperschaften
-                    bleiben Angestellte dieser Körperschaften. § 9. (1) Die den Ländern als ehemals
-                    autonomen Körperschaften gehörenden oder von ihnen verwalteten Vermögenschaften,
-                    einschließlich der Fonds und Anstalten, gehen in das Vermögen oder die
-                    Verwaltung der Länder im Sinne des Bundesverfassungsgesetzes über. (2) Alles
-                    übrige staatliche Vermögen ist Vermögen des Bundes, soweit nicht im Folgendem
-                    Ausnahmen festgesetzt sind. (3) Dasjenige Vermögen, das ausschließlich dem
-                    ständigen Dienstbetrieb einer Behörde dient, die im Sinne dieser Verfassung
-                    Landesbehörde Bezirksausschüsse und Gemeinden nicht inbegriffen —ist, wird
-                    Landesvermögen. Dient das Vermögen auch den Zwecken einer eigenen Bundesbehörde
-                    (Artikel 92, Absatz 1 des Bundesverfassungsgesetzes) oder sonst unmittelbar für
-                    Zwecke des Bundes, so sind Rechte und Pflichten zwischen Bund und Land im
-                    Verhältnis der tatsächlichen Inanspruchnahme im Zeitpunkt des Inkrafttretens des
-                    Bundesverfassungsgesetzes auseinanderzusetzen. Die Auseinandersetzung,<pb
-                        facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>und zwar auch mit
-                    Wirkung gegen Dritte, besorgt in jedem Lande eine Kommission, bestehend aus
-                    einem vom Präsidenten des zuständigen Oberlandesgerichtes aus den Richtern des
-                    Landes zu bestimmenden Vorsitzenden und aus je einem von der Bundesregierung und
-                    von der Landesregierung zu ernennenden Beisitzer. Das Verfahren wird durch
-                    Verordnung der Bundesregierung geregelt. § 10. Das Gesetz vom 8. Mai 1919,
-                    St.Gbl. Nr. 257, über das Staatswappen und das Staatssiegel der Republik
-                    Deutschösterreich, bleibt mit den durch 457 16. Sitzung Artikel 2 und 5 des
-                    Gesetzes vom 21. Oktober 1919, StGBl. Nr. 484, über die Staatsform, erfolgten
-                    Abänderungen als Bundesverfassungsgesetz in Geltung. Zu § 11 bemerkt
-                    Ministerialrat Dr. Froehlich, es wäre möglich, daß das eingebrachte Gesetz über
-                    das Burgenland noch vor der Verfassung in Kraft tritt, daher sei es notwendig
-                    geworden, durch die Übergangsbestimmungen zu verhindern, daß die Verfassung
-                    dieses Gesetzes derogiert. Der Paragraph lautet: § 11. Zu Art. 2, Absatz 3: Die
-                    näheren Bestimmungen über die Aufnahme des Burgenlandes als selbständiges und
-                    gleichberechtigtes Land in den Bund regelt ein besonderes
-                    Bundesverfassungsgesetz. Die Fassung der § 12 ruft Bedenken bei den
-                    christlich-sozialen Vertretern hervor, die, wie Abgeordneter Fink erklärt, wohl
-                    auch für ein allmähliches Aufhören der Kriegswirtschaft sind, aber allgemeine
-                    Bestimmungen oder doch einen längeren Zeitraum hiefür fordern müssen. Sind ja
-                    auch, wie Abgeordneter Dr. Aigner erwähnt, Verkehrsbeschränkungen nicht bloß
-                    einseitig im Interesse der Länder verfügt worden, sondern auch im Auftrage der
-                    Staatsämter (z. B. im Vorjahre in Oberösterreich). Auch sind solche
-                    Beschränkungen im Interesse der Länder mitunter unerläßlich. Der Verbrauch an
-                    Schlachtpferden hätte die ganze oberösterreichische Pferdezucht ruiniert, wenn
-                    nicht ein Ausfuhrverbot erlassen worden wäre. Ministerialrat Dr. <pb
-                        facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>Froehlich
-                    bemerkthiezu, daß das Einvernehmen mit dem Volksernährungsamt in dieser
-                    Angelegenheit hergestellt worden sei. Einzelne Verkehrsbeschränkungen von Waren
-                    sind von den Zentralstellen selbst entweder durch Staatsgesetz oder auf Grund
-                    solcher Gesetze erlassen, so z. B. die Höchstpreise. Derartige Beschränkungen
-                    sind verfassungsmäßig begründet und können auch auf Grund der neuen Verfassung
-                    erfolgen. Der Vorsitzende hält eine Fühlungnahme mit den Staatsämtern für
-                    Volksernährung und für Handel unerläßlich; Verkehrsbeschränkungen sollen für die
-                    Zeit der Kriegsnachwirkungen mit Zustimmung der Bundesregierung zulässig sein.
-                    Die geltenden Verordnungen können während einer Übergangsfrist von kurzer Dauer
+                    und 8 den Parteiberatungen überlassen.</p>
+                <p>Der Unterausschuß unterbricht hierauf die Beratungen von ½1 Uhr<pb
+                        facs="#facs_16" n="16" xml:id="img_0016" break="yes"/><fw type="pageNum"
+                        >15</fw>bis 3 Uhr 45 Minuten nachmittags.</p>
+                <p>Nach kurzer Besprechung werden die §§ 8, 9 und 10 in der vorgelegten Fassung
+                    angenommen. Sie lauten:</p>
+                <quote>
+                    <p>"§ 8.</p>
+                    <p>(1) Sämtliche Angestellte der im § 7, Absatz 1, bezeichneten Behörden mit
+                        Ausnahme der Bezirksausschüsse und der Gemeinden sind Angestellte des Landes
+                        (Artikel 14 d, Absatz 2 des Bundesverfassungsgesetzes). Die Rechtsstellung
+                        der Angestellten der Bezirksausschüsse und der Gemeinden wird vorläufig
+                        nicht geändert.</p>
+                    <p>(2) Die Angestellten der nicht im § 7, Absatz 1, bezeichneten staatlichen
+                        Behörden werden Angestellte des Bundes.</p>
+                    <p>(3) Die bei staatlichen Anstalten angestellten Personen werden Angestellte
+                        des Bundes, die Angestellten bei Landesanstalten Angestellte der Länder; die
+                        Angestellten bei Anstalten der Bezirke, Gemeinden und sonstiger öffentlicher
+                        Körperschaften bleiben Angestellte dieser Körperschaften.</p>
+                    <p>§ 9.</p>
+                    <p>(1) Die den Ländern als ehemals autonomen Körperschaften gehörenden oder von
+                        ihnen verwalteten Vermögenschaften, einschließlich der Fonds und Anstalten,
+                        gehen in das Vermögen oder die Verwaltung der Länder im Sinne des
+                        Bundesverfassungsgesetzes über.</p>
+                    <p>(2) Alles übrige staatliche Vermögen ist Vermögen des Bundes, soweit nicht im
+                        Folgendem Ausnahmen festgesetzt sind.</p>
+                    <p>(3) Dasjenige Vermögen, das ausschließlich dem ständigen Dienstbetrieb einer
+                        Behörde dient, die im Sinne dieser Verfassung Landesbehörde
+                        Bezirksausschüsse und Gemeinden nicht inbegriffen —ist, wird Landesvermögen.
+                        Dient das Vermögen auch den Zwecken einer eigenen Bundesbehörde (Artikel 92,
+                        Absatz 1 des Bundesverfassungsgesetzes) oder sonst unmittelbar für Zwecke
+                        des Bundes, so sind Rechte und Pflichten zwischen Bund und Land im
+                        Verhältnis der tatsächlichen Inanspruchnahme im Zeitpunkt des Inkrafttretens
+                        des Bundesverfassungsgesetzes auseinanderzusetzen. Die
+                            Auseinandersetzung,<pb facs="#facs_17" n="17" xml:id="img_0017"
+                            break="yes"/><fw type="pageNum">16</fw>und zwar auch mit Wirkung gegen
+                        Dritte, besorgt in jedem Lande eine Kommission, bestehend aus einem vom
+                        Präsidenten des zuständigen Oberlandesgerichtes aus den Richtern des Landes
+                        zu bestimmenden Vorsitzenden und aus je einem von der Bundesregierung und
+                        von der Landesregierung zu ernennenden Beisitzer. Das Verfahren wird durch
+                        Verordnung der Bundesregierung geregelt.</p>
+                    <p>§ 10.</p>
+                    <p>Das Gesetz vom 8. Mai 1919, St.Gbl. Nr. 257, über das Staatswappen und das
+                        Staatssiegel der Republik Deutschösterreich, bleibt mit den durch 457 16.
+                        Sitzung Artikel 2 und 5 des Gesetzes vom 21. Oktober 1919, StGBl. Nr. 484,
+                        über die Staatsform, erfolgten Abänderungen als Bundesverfassungsgesetz in
+                        Geltung."</p>
+                </quote>
+                <p>Zu § 11 bemerkt Ministerialrat Dr. Froehlich, es wäre möglich, daß das
+                    eingebrachte Gesetz über das Burgenland noch vor der Verfassung in Kraft tritt,
+                    daher sei es notwendig geworden, durch die Übergangsbestimmungen zu verhindern,
+                    daß die Verfassung dieses Gesetzes derogiert. Der Paragraph lautet:</p>
+                <quote>
+                    <p>"§ 11.</p>
+                    <p>Zu Art. 2, Absatz 3:</p>
+                    <p>Die näheren Bestimmungen über die Aufnahme des Burgenlandes als selbständiges
+                        und gleichberechtigtes Land in den Bund regelt ein besonderes
+                        Bundesverfassungsgesetz."</p>
+                </quote>
+                <p>Die Fassung der § 12 ruft Bedenken bei den christlich-sozialen Vertretern hervor,
+                    die, wie Abgeordneter Fink erklärt, wohl auch für ein allmähliches Aufhören der
+                    Kriegswirtschaft sind, aber allgemeine Bestimmungen oder doch einen längeren
+                    Zeitraum hiefür fordern müssen. Sind ja auch, wie Abgeordneter Dr. Aigner
+                    erwähnt, Verkehrsbeschränkungen nicht bloß einseitig im Interesse der Länder
+                    verfügt worden, sondern auch im Auftrage der Staatsämter (z. B. im Vorjahre in
+                    Oberösterreich). Auch sind solche Beschränkungen im Interesse der Länder
+                    mitunter unerläßlich. Der Verbrauch an Schlachtpferden hätte die ganze
+                    oberösterreichische Pferdezucht ruiniert, wenn nicht ein Ausfuhrverbot erlassen
+                    worden wäre. Ministerialrat Dr. <pb facs="#facs_18" n="18" xml:id="img_0018"
+                        break="yes"/><fw type="pageNum">17</fw>Froehlich bemerkt hiezu, daß das
+                    Einvernehmen mit dem Volksernährungsamt in dieser Angelegenheit hergestellt
+                    worden sei. Einzelne Verkehrsbeschränkungen von Waren sind von den
+                    Zentralstellen selbst entweder durch Staatsgesetz oder auf Grund solcher Gesetze
+                    erlassen, so z. B. die Höchstpreise. Derartige Beschränkungen sind
+                    verfassungsmäßig begründet und können auch auf Grund der neuen Verfassung
+                    erfolgen.</p>
+                <p>Der Vorsitzende hält eine Fühlungnahme mit den Staatsämtern für Volksernährung
+                    und für Handel unerläßlich; Verkehrsbeschränkungen sollen für die Zeit der
+                    Kriegsnachwirkungen mit Zustimmung der Bundesregierung zulässig sein. Die
+                    geltenden Verordnungen können während einer Übergangsfrist von kurzer Dauer
                     aufrecht erhalten bleiben und auch bis zu einem bestimmten Zeitpunkt erneuert
-                    werden. Der Unterausschuß beschließt den § 12 einstweilen unerledigt zu lassen.
-                    Gegen die Ausdehnung des Verordnungsrechtes im § 13 spricht sich sowohl der
+                    werden. Der Unterausschuß beschließt den § 12 einstweilen unerledigt zu
+                    lassen.</p>
+                <p>Gegen die Ausdehnung des Verordnungsrechtes im § 13 spricht sich sowohl der
                     Vorsitzende als auch Prof. Dr. Seipel aus. Die Frage, welcher Gemeinde
                     heimatlose Staatsbürger oder Personen, die auf Grund des Staatsvertrages von St.
                     Germain die österreichische Staatsbürgerschaft erlangen, angehören, kann während
@@ -706,279 +790,406 @@
                     des erwähnten Vertrages habe wie Ministerialrat Dr. Froehlich ausführt, nach
                     allgemeiner Änsicht auch der Tschechoslowaken nur suppletorische Bedeutung,
                     allerdings hat sich Polen gegenüber Deutschland auf einen anderen Standpunkt
-                    gestellt. Für § 13 nimmt der Unterausschuß folgenden Grundgedanken an dessen
-                    Formulierung er der technischen Lesung vorbehält: Staatsbürger der Republik
-                    Österreich, die in keiner österreichischen Gemeinde das Heimatrecht haben, sind
-                    Bundesbürger. Ihre Zuweisung an eine Gemeinde der Republik wird durch ein
-                    besonderes Gesetz geregelt. Der folgende Paragraph wird in 2 Paragraphen zerlegt
-                    und zwar<pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/>lautet er: §
-                    14. Zu Artikel 10. (1) Die Verwaltung der Staatsstraßen (ehemalige
-                    Reichsstraßen) ist bis zur Erlassung des im Artikel 10, Zahl 8 vorgesehenen
-                    Bundesgesetzes über die Erklärung von Straßenzügen als Bundesstraßen nach den
-                    bestehenden Vorschriften durch die bisher mit dieser Verwaltung betrauten Organe
-                    aus Bundesmitteln zu besorgen. (2) Die Feststellung jener Gewässer, deren
-                    Regulierung und Instandhaltung nach Artikel 10, Zahl 9, Aufgabe des Bundes ist,
-                    erfolgt im Einvernehmen mit den einzelnen Ländern. Bis zu dieser Feststellung
-                    ist die Regulierung und Instandhaltung dieser Gewässer nach den bestehenden
-                    Vorschriften durch die bisher damit betrauten Organe vorbehaltlich einer
-                    nachträglichen Aufteilung der Kosten weiter zu führen. § 14 d. (1) Gemäß Artikel
-                    10. Zahl 14, steht für die Fortdauer der durch die kriegerischen Ereignisse der
-                    Jahre 1914 bis 1918 hervorgerufenen außerordentlichen Verhältnisse bezüglich der
-                    zur Sicherung der einheitlichen Führung der Wirtschaft notwendig erscheinenden
-                    Maßnahmen, insbesondere in Angelegenheiten der Versorgung der Bevölkerung mit
-                    Bedarfsgegenständen, die Gesetzgebung und die Vollziehung dem Bunde zu. (2) Der
-                    Zeitpunkt von dem an die erwähnten außerordentlichen Verhältnisse als behoben
-                    anzusehen sind, wird durch Bundesgesetz festgestellt. Angenommen wird ferner §
-                    15 unter Streichung der Schlußworte: § 15. Zu Artikel 14 g. Die Bestimmungen des
-                    Gesetzes vom 12. Juli 1872, RGBl. Nr. 112, womit zur Durchführung des Artikels 9
-                    des Staatsgrundgesetzes vom 21. Dezember 1867, RGBl. Nr. 144, über die
-                    richterliche Gewalt, das Klagerecht der Parteien wegen der von richterlichen
-                    Beamten in<pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/>Ausübung 459
-                    16. Sitzung zugefügten Rechtsverletzungen geregelt ihrer amtlichen Wirksamkeit
-                    bis zur Erlassung des zur Durchführung wird (Syndikatsgesetz), bleiber des
-                    Artikels 14 g erforderlichen Gesetzes in Wirksamkeit.“ Im § 16 soll auf Antrag
-                    des Vorsitzenden das Datum offen „Bureau des Nationalrates“, „Kanzlei der
-                    gelassen werden und anstatt gesagt werden. Nationalrates § 16. Zu Artikel 15.
-                    (1) Die auf Grund des Gesetzes über die Wahlordnung für die Nationalversammlung
-                    vom 20. Juli 1920, StGBl. Nr. 316, gewählte Nationalversammlung ist der erste
-                    Nationalrat im Sinne des Bundesverfassungsgesetzes. (2) Die Gesetze vom 20. Juli
-                    1920, StGBl. Nr. 317, über die Wahl und Einberufung der Nationalversammlung, und
-                    vom 20. Juli 1920, StGBl. Nr. 316, über die Wahlordnung für die
-                    Nationalversammlung, bleiben für dem ersten Nationalrat in Kraft. Die
-                    Gesetzgebungsperiode des ersten Nationalrates bleibt demnach mit drei Jahren
-                    festgesetzt und beginnt mit dem Tage seines Zusammentrittes; der Nationalrat
-                    tritt jedoch ohne besondere Verlautbarung der Einberufung am ... Uhr vormittags
-                    im Sitzungssaal der Nationalversammlung zur ersten Sitzung zusammen. (3) Die
-                    Mitglieder des Nationalrates haben, soweit nicht im Bundesverfassungsgesetze
-                    anders bestimmt ist, bis zu neuer gesetzlicher Regelung die Rechte und Pflichten
-                    der Mitglieder der Nationalversammlung Sie haben auf die Aufforderung des
-                    Präsidenten der Nationalversammlung über Namensaufruf durch die Worte „Ich
-                    gelobe“ unverbrüchliche Treue der Republik, dann stete und volle Beobachtung der
-                    Verfassungsgesetze und aller anderen Gesetze und gewissenhafte Erfüllung ihrer
-                    Pflichten anzugeloben. (4) Die Beamten und Diener der Nationalversammlung werden
-                    Angestellte der Kanzlei des Nationalrates; sie sind hinsichtlich ihrer Stellung,
-                    ihrer Pflichten und Rechte den Bundesangestellten gleichgehalten. <pb
-                        facs="#facs_21" n="21" xml:id="img_0021" break="yes"/>Auch in § 17 wünscht
-                    der Vorsitzende den Zeitpunkt des Zusammentrittes offengelassen. Bei der
-                    Aufzählung wünscht Prof. Dr. Kelsen ausdrückliche Feststellung, daß Wien und
-                    Niederösterreich für den Bundesrat gesondert in Betracht kommen: Angenommen
-                    wird: § 17. Zu Artikel 26 und 27. (1) In den ersten Bundesrat wählen: 12
-                    Mitglieder Wien 10 Mitglieder Niederösterreich 6 Mitglieder Steiermark 460
-                    Protokolle des Unterausschusses Oberösterreich 6 Mitglieder Tirol 3 Mitglieder
-                    Kärnten 3 Mitglieder Salzburg 3 Mitglieder Vorarlberg 3 Mitglieder (2) Im
-                    gegebenen Zeitpunkt wird die Anzahl der vom Burgenlande entstehenden Mitglieder
-                    nach Artikel 26 ermittelt: (3) Der Bundesrat tritt zu seiner ersten Sitzung am
-                    ... in dem vom Bundeskanzler bezeichneten Sitzungsraume des Parlamentsgebäudes
-                    zusammen. Den ersten Vorsitz führt der älteste der vom Lande Kärnten entsendeten
-                    Mitglieder. § 18. Zu Artikel 42. (1) Bis zur Erlassung des im Artikel 42, Absatz
-                    2, vorgesehenen Gesetzes gelten die Bestimmungen des Gesetzes vom 12. November
-                    1918, StGBl. 7, über die Kundmachung von Gesetzen und Verordnungen durch das
-                    Staatsgesetzblatt, soweit sie nicht durch das Bundesverfassungsgesetz abgeändert
-                    sind, sinngemäß für das Bundesgesetzblatt, wobei § 5 dieses Gesetzes Anwendung
-                    findet. (2) Als erste Verlautbarungen des Bundesgesetzblattes sind das
-                    Bundesverfassungsgesetz und dieses Gesetz neu kundzumachen; die so neu
-                    verlautbarten Texte werden dann die maßgebenden.<pb facs="#facs_22" n="22"
-                        xml:id="img_0022" break="yes"/>§ 19. Zu Artikel 42 c. Das Gesetz vom 13.
-                    April 1920, StGBl. Nr. 180, über die Mitwirkung der Nationalversammlung an der
-                    Regelung von Eisenbahntarifen, Post-, Telegraphen und Telephongebühren und
-                    Preisen der Monopolgegenstände sowie von Bezügen der in staatlichen Betrieben
-                    Beschäftigten, gilt als das im Artikel 42 c vorgesehene Bundesverfassungsgesetz,
-                    wobei § 5 dieses Gesetzes Anwendung findet. Der Vorsitzende hält es mit
-                    Rücksicht auf die vielen Sollenitätsakte — Aufwartung der Gesandten,
-                    Überreichung neuer Beglaubigungsschreiben unserer Gesandten im Auslande — für
-                    unzweckmäßig, eine längere vacatio eintreten zu lassen. Der Bundesrat wäre daher
-                    möglichst gleichzeitig einzuberufen, damit die Wahl des Bundespräsidenten rasch
-                    erfolgen kann. Ministerialrat Dr. Froehlich meint, daß nach streng
-                    staatsrechtlicher Auffassung die Verfassung mit dem Tage des Zusammentrittes des
-                    Nationalrates in Kraft tritt und erst dann die Wahl des Bundespräsidenten
-                    stattfinden könne. Auch müsse der Bundesrat, ehe die Präsidentenwahl stattfinden
-                    könne, einen Vorsitzenden wählen, wofür eine gewisse Zeit freigegeben werden
-                    sollte. Es müsse auch ein Organ 16. Sitzung 461 vorhanden sein, das bis zur Wahl
-                    die wichtigsten Amtshandlungen des Bundespräsidenten vornimmt, wie Ernennungen,
-                    Begnadigungen, Empfänge von Gesandten, formelle Ratifikation eines bereits
-                    früher genehmigten Vertrages. Prof. Dr. Seipel schlägt zur Vermeidung von
-                    Schwierigkeiten vor, den Präsidenten der Nationalversammlung bis zur Wahl des
-                    neuen Bundespräsidenten mit diesen Funktionen zu betrauen. § 20 erhält folgende
-                    Fassung: § 20. Zu Artikel 49 und 51. (1) Zur 1. Wahl eines Bundespräsidenten
-                    tritt die Bundesversammlung (Artikel 29 a) ohne besondere Einberufung am ... um
-                    11 Uhr vormittags im Parlamentsgebäude zusammen. (2) Kann die Angelobung des
-                    neuegewählten Präsidenten nicht noch in derselben Sitzung der Bundesversammlung
-                    erfolgen, so hat die<pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"
-                    />Bundeskanzlei die Bundesversammlung auf den nächstmöglichen Zeitpunkt zur
-                    Angelobung des Bundespräsidenten einzuberufen. (3) Bis zur Angelobung des
-                    Bundespräsidenten werden alle ihm übertragenen Funktionen vom Präsidenten der
-                    konstituierenden Nationalversammlung versehen. Bei Besprechung des § 21 ist
-                    Prof. Dr. Seipel der Änsicht, daß gemäß § 1, modifiziert durch § 5, die
-                    gegenwärtige Dienstpragmatik gilt, solange nicht nach Artikel 10 des
-                    Verfassungsgesetzes ein Dienstrecht für die mit behördlichen Funktionen
-                    betrauten Organe geschaffen sind. § 21. Zu Artikel 54, Absatz 3. (1) Das Gesetz
-                    vom 26. Februar 1920, StGBI. Nr. 94, womit Artikel 7 des Gesetzes vom 14. März
-                    1919, StGBl. Nr. 180, über die Staatsregierung ergänzt wird, gilt als einfaches
-                    Bundesgesetz im Sinne des Artikels 64, Absatz 3. (2) Die nach den bisher
-                    bestehenden Gesetzen dem Präsidenten der Nationalversammlung zustehenden
-                    Bestätigungsrechte gehen auf den Bundespräsidenten über, soweit nicht durch den
-                    Übergang zum Bundesstaat solche Bestimmungen als abgeändert anzusehen sind. (3)
-                    Unvorgreiflich der Neuregelung des Dienstrechtes der Bundesangestellten steht
-                    dem Bundespräsidenten auch das Recht zu, von den Disziplinarbehörden über
-                    Bundesangestellte verhängte Disziplinarstrafen zu erlassen und zu mildern, deren
-                    Rechtsfolgen nachzusehen, sowie anzuordnen, daß ein Disziplinarverfahren wieder
-                    eingestellt werde. Im 1. Absatz des Entwurfes für § 22 hält der Vorsitzende das
-                    Wort die „dermalige“ Staatsregierung für bedenklich, weil ja ein Wechsel
-                    eintreten könnte, sodaß auf seinen Antrag dieses Wort gestrichen wird. 
-                    
-                    
-                    
-                    Unr
-                    Paragraph lautet. § 22. Zu EFtikel 58. 12) sis zur wahi einer Bunsseregierung
-                    gendd erbikel so führt<pb facs="#facs_24" n="24" xml:id="img_0024" break="yes"
-                    />23 Die Stanteregierung die Geschäfte der Bundssregierung. (2) Die
-                    Staatekanzlei und die Stantsänter führen ihre Geschtt ze bie zur Erlassung des
-                    Im Artizel St, Absatz 2, vofgesehenen Bundesgesetzes mit ihren vieherigen
-                    Aufträgen und Vollmachten vofläuEte ale Bundeskanzierant und Bundesminiaterien
-                    foft.! Ferner wird angenommens § 23. Zu Artikel 69. Das auf Grund des
-                    Nehrgesetzes vom 18.März 1920, St.O.Bl Ms. 222, gebildets Aeer ist das
-                    Bundecheer im Sinne des Bundesverfassungsgenstzes. Der Entwurf des § 24 wurde
-                    auf Runach des Stastsantee für Justiz wegen der Sohöffengsrichte so gefaßt, wie
-                    er zur Annahme gelangt! v§ 24. Zu Axtikel 82. Die geltenien Bestinzungen über
-                    die Zuständigkeit und Eusnaner Zützung der Ziräl-und Strafgerlchte bleiben bie
-                    auf weiteren in KT2 Dagegen gendut sich Abgeeränster Fink gegen die von der
-                    Staatskahzist verganshene Neuwahl der Landtage. Der folgende Parazraph lantst
-                    daher§ 250 Die besteienden Volkevertratungen in den Ländern (handtagen) sind die
-                    ersten Landtage in Sinne der Bundes Verfassungsgesitzes. Angenomnen wird§ 28. Zu
-                    Artikel 88. 12) Die Jestimmungen des Artlkess sö finden euch Anwandung auf
-                    Landerrasetze, weiche vor den Irkrafttreten des Bundesverfasgungs gesetrst
-                    berohloesen worden sind, enferne die Btaatereglerung hzezn noch nicht in Dinne
-                    der Artikei Ie und 15 des Geretzes von 11 Were 3579, Sr. 5BI.Nr.119. über die
-                    Nelksvertretung, Steliung genonman wat oder die in den letatuezogenen
-                    Gegetzdestellen bestlapten frisder</p>
-                <p>332<pb facs="#facs_25" n="25" xml:id="img_0025" break="yes"/>24 noch micht
-                    verstrichen sind. Für die Berechnung der Frist des Krbikols 8s, Abs. 2,glit der
-                    Tag des Einlangens des Gesetzes bei der Stasteregisrung als der Tag des
-                    Einlangens hel der Bundssreglarlwg(2) Vorstellungen der Steatsregierung gegen
-                    Landesgesebze, über gelche der Landtag in Zestpunkte des Inkrafttrotens des
-                    BundsoVerfaggungsgegstzeg noch nicht nouerlich Beschluß gefalt hab.esllen als
-                    Vorsteltungen der Bundsersgierungs "821 Dio in Wirksankeit stohenden
-                    Landesverfasgungen (Landesordrungen) gelten, someit sie nicht durch das
-                    Bundesverfasgungsgesetz. als abgeändert arzuschen sind, vorläufig als die in
-                    Jetztorom vom gesohens Landesverzagsung. Die Landtage werden binnen einen Jahr
-                    nach Inkrofitreten des Bundesverfasgungsgesetzos nous Landesrer feggungen
-                    beschließen. Sowohl der Voreitzende, als auch Professor Dr. Seipe1 spricht sich
-                    gegen die in Entwurf vergesehens Neurahl der Landesregierungen aus"§ 28 (1) Die
-                    Landasregierungen setzen ihre Tätigkeil als Lundesregierungen im Sinne des
-                    Verfassungegesetzes fort(2) Die Angelobung der Landeshauptmänner im Sinne des
-                    Art. 82. Abs- 4 erfolgt durch den Bundespräsidenten binnen 14 Tagen nach dassen
-                    Mahl. Der Landeshauptmann führt jedoch auch schon vor der angelöbung nach
-                    Inkrafttreten des Bundesverfasgungegesetzen die Geschäfte des Landeshaupimannes
-                    im Sinne des Bundesverfasgungsgepotzes. (3) Die nach dem Inkrafttreten des
-                    Bundesverfassungsgesetzes. fällig werdenden Bezüge der Mitglieder der
-                    Landesregierungen tragen. die Länder! Ministerialrat Dr. Froehlich bemerkt
-                    hiezu, die Worte „im Sinne des Bundesverfasgungsgesetzes" bedeuten, daß der
-                        Lano1o<pb facs="#facs_26" n="26" xml:id="img_0026" break="yes"/>26-
-                    hauptmann die Verantwortung trägt. Zu Art. 2s bemerkt der Vorgitzende, daß die
-                    Zeitbestimmung nachzutragen sei. Auch hält Professer Dr. Kelsen einen Zusatz
-                    bezüglich der Gemeinde Wien für nötige Zur Festsetzung des Wir kungskreises der
-                    Bezirksvertretungen bemerkt der Vorsitzende, daß dies Sache des Bundes seig die
-                    Ausführung aber der Landesgesetzgebung obliegt. Die dermalige Bezirksverwaltung
-                    soll bestehen bleiben, jedoch wird im Bereich jeder Bezirkshauptmannschaft eine
-                    BeZitkevertretung gewählt. "820. zu Art. 87 a - 97e. (2) Els zur Einrichtung der
-                    allgeneinen staatlichen Vernaltung in den Ländern nach den Bestimmungen der Art.
-                    87 a - 81e bleibt die dermalige Bezirksverwaltung bestehen, jedoch wird in
-                    Borolcho joder Bozirkshauptmannschaft eine Bertrusvortrotung gewahlt. werden.
-                    (2) In den Stadten mit ofgenem Statut übernimnt die Geweindevertretung zuglesch
-                    die aufgeben der BezirkovertrotungsBiese Aufgäben können einem besonderen
-                    Ausschusse der Gemeindevertretung übertragen werden. (3), In den Bereichen der
-                    Bezirkshauptmannschaften wird die Wahi auf Grund des gloichen,geheimen,
-                    vergönlichen und unmittolbaren Rahlrechtes aller Bundesbürger durckgeführt, die
-                    im Beroiche der Bezirkshauptmannschaft ihren ordentlichen Wohneitz haben. Die
-                    Anzaht der Wondete der Bezirksvertretungen wird auf die Gerichtsbozirke nach dem
-                    Verhältnisnahtrecht der dort wohnhaften Bundesburger auzgeteilt. Die
-                    Bestimmungen des Nrt. 87 e, Abs. 2, finden sinngengse anrendung. (4) In die
-                    Bezirksvertrotung sind nur Porgonen wählbar, die in Bereiche der
-                    Bezlrushauptmannschaft ihren ordentlichen Wohwitz hepen und zum Landtage wühlher
-                    sind. 333<pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/>260 (od, Die
-                    näheren Bestimnungen der Durchführung dieser Wahlen worden von der
-                    Lansoggegotzgebung getroffen. (8) Die Festsetzung der reiteren Grundestzo für
-                    die vorlöufige Ausgestaltung der dermaligen Bezirksvermaltung noch den
-                    voranslenenden Bestimmungen ist Sache der Bundesgesotzgeburg, ihro Ausfat rung
-                    liegt den Landosgesetzen stAngenommen wird forner. 830 Zu Artikel 881 (2) Der
-                    Bishwrige Staatsrochnungshof wird zum Rechnungshof in Sinne des
-                    BundesVerfassungsgesctros. (2) Eis zur Mahl des Präsidenten des Rochnungehofes
-                    verslaht. der Prypident des Stastprochnungehofos desvon Frukbionen. 8 31- Zu
-                    Artikel 146s (2) Der dermalige Verwaltungsgerichtetof wird
-                    Verwaltungsgezichtcher im Sinne des Bundes-Verfasrungsgesetzse. (2) sein
-                    Prasident und die Mitglieder bleiben bis zu der genad frt. 145 erzolgenden
-                    Neubesetzung Im Anto- Die Noubesetung nat his l.Sänrer 1al zu erfolgen. (3)
-                    Innerhalb dieses Zeitraumes können der Präsident und die Mitglieder des
-                    Verwaltungsgerichtshofes im Sinng des Art. 78 Absetzk, der
-                    Bundes-Verfasgungsgesetzos auch ohne die sonst vorgeschriebenen Förmlichkeiten
-                    in den Ruhestand versetzt werden, insoferne sie nicht gemäß Art. 145 neu ernannt
-                    werden. " Zu § 32 wird ein weiterer Vorschlag der Staatskanzlei in Aussicht
-                    gestellt. Zu § 33 bemerkt Professor Dr. Kelsen daß zwar eine Frist gesetzt
-                    werden könnte, daß dies aber keine Sanktion wäre, weil man den Nationalrat nicht
-                    zur Wahl des Verfassungsgerichtshofes<pb facs="#facs_28" n="28"
-                        xml:id="img_0028" break="yes"/>27</p>
-                <p>zwingen könne. Der Unterausschuß entschließt sich für die von der Staatekanzlei
-                    vorgelegte Fasgung. "§33 Zu Artikel 147 (2) Der dermalige Verfassungsgerichtahof
-                    wird zum Verfasgungsgerichtghor im Sinne des Bundesvorfasgungsgosolics. (2) Doin
-                    Prasident, sein Vizepräsident, die Mitglieder und Ereatzmanner bielhen bis zu
-                    der genus Art. 166 erfolgenden Neubesetzung im Amte. Zu § 34 bemerkt
-                    Ministerialrat Dr. Froehlich, daß der Kreis der Personen, die unter
-                    Ministerverantwertlichkeit stehen, durch die Zitierung des Art. IBl umschrieben
-                    ist. Zur Erhebung der Ministeranklage iet nach der neuen Fasgung immer ein
-                    Verfaesungsgesetz - 2/3 Majorität - notwendig. Professor Dr. Kelsen findet es
-                    mißlich, daß nicht gleich ein Gesetz über die Ministerverantwortlichkeit gemacht
-                    werden kann. Man muß sich die Schwierigkeit vor Augen halten, daß die sinngemäße
-                    Anwendung in der Hand der Regierung liegt. Auch wäre die Frage zu lösen, ob der
-                    Bundesrat an die Stelle des Herrenhauses tritt. Der Umkreis der
-                    Verantwortlichkeit ist in der Verfassung festgelegt, doch fehlt das Verfahren.
-                    Der Vorsitzende meint, daß dieser jederzeit durch den Nationalrat geregelt
-                    werden könne. Der Unterausschuß beschließt der vorgebrachten Bedenken halber den
-                    § 34 einetweilen zurückzustellen,und neue Vorschläge der Staatskanzlei
-                    abzuwarten. Beschlossen wirds " §35 zu Artikel 157. Die Gesetzo, welche die
-                    Ergenisatton und das Verfahren des dermaligen Verfasgungsgerlchtnhofes wegeln,
-                    gelten hia auf weitares als das im Frt. 161 vorgesehens Bundesgegetz Zum Entwurf
-                    des § 38, bei dem der Vorgitzende die technischen Schwierigkeiten herverüpbt,
-                    bamerkt Sektionsrat Dr. Mann334<pb facs="#facs_29" n="29" xml:id="img_0029"
-                        break="yes"/>28 1i eh e r, daß man die Möglichkeit gehabt hätta, eine Art
-                    Liquidierung durchzuführen, was sich aber wohl kaum bewahren dürfte. Die
-                    Schwierigkeit liegt darin, daß die künftige Bundesregierung Kompetenzen
-                    wahrnehmen würde, die sie de facto nicht mehr hat. Auch ist zu bedenken, daß die
-                    zweite Instanz gewöhnlich unter dem Gesichtspunkte entschleden hat, daß noch
-                    eine dritte Instanz besteht. Die Staatsänter, die von der vorgeschlagenen Lösung
-                    an meisten getroffen werden, sind damit einverstanden. Der Unterausschuß
-                    beschließt hierauf auch die §§ 38 und 37 in folgender Fassunge III)
-                    Schlußbestimmungen. § 38 (1)Die im Zeitpunkte des Inkrafttretens des
-                    Bundesverfassungsgesetzes bei den Verwaltungsbehörden anhängigen angelegenhdton
-                    werden unter Berücksichtigung der Bestimmungen des § 5 dieses Gesetzes reiter
-                    behandelt. (2) Soferne es sich jedoch um Angelegenheiten handelt,die nunmehr in
-                    den eigenen Wirkungshreis der Länder fallen und in welchem die Landesbehörden
-                    bereits entschleden haben,ihre Entscheidung aber nach den bisherigen
-                    gesetzlichen Bestimmungen noch nicht in Rechtskraft ernachsen ist, hat die
-                    Landesbehörde im Falle als ein Rechtsmittel eingebracht wurde oder innerhalb der
-                    Rechtsmittolfrist eingebracht wird, selbst über dieses Rechtsmittel neuerlich
-                    und endgiltig zu entscheiden. Soferne solche Angelegenheiten bereite. bei den
-                    Staatsäntern anhängig sind, haben diese sie den zuständigen Landesbehörden
-                    unverzüglich zur Entscheidung abzutreten. 887 (1) Dieses Gesetz tritt zugleich
-                    mit dem Bundes -Verfassungsgeertz in Kraft. (2) Mit seinem Vollzug ist die
-                    Bundssroglerung betraut1<pb facs="#facs_30" n="30" xml:id="img_0030" break="yes"
-                    />28- Zur Frage der finanziellen Vorschriften teilt Ministerialrat Dr. Froehlich
-                    mit, daß mit dem Staatsamte der Finanzen, abgesehen von den Parteiberatungen,
-                    noch spezielle Beoprechungen abgehalten wurden, webei festgestellt wurde, daß
-                    für einig Fragen Uebergangsbestimmungen notwendig sind,namentlich über die
-                    Verwendung der im Voranschlag ausgeworfenen Post für die politische
-                    Verwaltung.Das Staatsamt hat mitgeteilt, daß es auf Grund der
-                    Parteibesprechungen zweifelles nötig sein wird, zugleich mit der Verfassung auch
-                    ein Gesetz über die finanziellen Fragen einzubringene Der Vorgitzende bemerkt
-                    abschließend, daß die Artikel über Gendarmerie und Polizei zurückgestellt worden
-                    seien, da namentlich die letztere Frage unmittelbar mit der Stellung Wiens und
-                    der des Bürgermeisters als Landeshauptmann zusammenhängt-Eine Beratung des
-                    Unterausschusses hierüber sei zwecklos, solange nicht eine Verständigung, der
-                    Parteien erzielt worden sel. Da Professor Dr. Kelsen noch auf die Schwierigkeit
-                    der technischen Lösung hindeutet, die durch die ausstehende Entscheldung über
-                    Wien, über die Gendarnris und die Schuls behindert sei, erklärt der Voreftzande
-                    daß die Regierung von dem Ergebnis der Farteibsratungen verständigt wird und
-                    dann der endgiltige Text feptgestellt werden sollDie nächsts Sitzung wird im
-                    Laufe der nächsten Woche stattEinden335</p>
+                    gestellt.</p>
+                <p>Für § 13 nimmt der Unterausschuß folgenden Grundgedanken an dessen Formulierung
+                    er der technischen Lesung vorbehält: Staatsbürger der Republik Österreich, die
+                    in keiner österreichischen Gemeinde das Heimatrecht haben, sind Bundesbürger.
+                    Ihre Zuweisung an eine Gemeinde der Republik wird durch ein besonderes Gesetz
+                    geregelt.</p>
+                <p>Der folgende Paragraph wird in 2 Paragraphen zerlegt und zwar<pb facs="#facs_19"
+                        n="19" xml:id="img_0019" break="yes"/><fw type="pageNum">18</fw>lautet
+                    er:</p>
+                <quote>
+                    <p>"§14.</p>
+                    <p>Zu Artikel 10.</p>
+                    <p>(1) Die Verwaltung der Staatsstraßen (ehemalige Reichsstraßen) ist bis zur
+                        Erlassung des im Artikel 10, Zahl 8 vorgesehenen Bundesgesetzes über die
+                        Erklärung von Straßenzügen als Bundesstraßen nach den bestehenden
+                        Vorschriften durch die bisher mit dieser Verwaltung betrauten Organe aus
+                        Bundesmitteln zu besorgen.</p>
+                    <p>(2) Die Feststellung jener Gewässer, deren Regulierung und Instandhaltung
+                        nach Artikel 10, Zahl 9, Aufgabe des Bundes ist, erfolgt im Einvernehmen mit
+                        den einzelnen Ländern. Bis zu dieser Feststellung ist die Regulierung und
+                        Instandhaltung dieser Gewässer nach den bestehenden Vorschriften durch die
+                        bisher damit betrauten Organe vorbehaltlich einer nachträglichen Aufteilung
+                        der Kosten weiter zu führen.</p>
+                    <p>§ 14 a.</p>
+                    <p>(1) Gemäß Artikel 10. Zahl 14, steht für die Fortdauer der durch die
+                        kriegerischen Ereignisse der Jahre 1914 bis 1918 hervorgerufenen
+                        außerordentlichen Verhältnisse bezüglich der zur Sicherung der einheitlichen
+                        Führung der Wirtschaft notwendig erscheinenden Maßnahmen, insbesondere in
+                        Angelegenheiten der Versorgung der Bevölkerung mit Bedarfsgegenständen, die
+                        Gesetzgebung und die Vollziehung dem Bunde zu.</p>
+                    <p>(2) Der Zeitpunkt von dem an die erwähnten außerordentlichen Verhältnisse als
+                        behoben anzusehen sind, wird durch Bundesgesetz festgestellt."</p>
+                </quote>
+                <p>Angenommen wird ferner § 15 unter Streichung der Schlußworte:</p>
+                <quote>
+                    <p>"§ 15.</p>
+                    <p>Zu Artikel 14 g.</p>
+                    <p>Die Bestimmungen des Gesetzes vom 12. Juli 1872, RGBl. Nr. 112, womit zur
+                        Durchführung des Artikels 9 des Staatsgrundgesetzes vom 21. Dezember 1867,
+                        RGBl. Nr. 144, über die richterliche Gewalt, das Klagerecht der Parteien
+                        wegen der von richterlichen Beamten in<pb facs="#facs_20" n="20"
+                            xml:id="img_0020" break="yes"/><fw type="pageNum">19</fw>Ausübung ihrer
+                        amtlichen Wirksamkeit zugefügten Rechtsverletzungen geregelt wird
+                        (Syndikatsgesetz), bleiben bis zur Erlassung des zur Durchführung des
+                        Artikels 14 g erorderlichen Gesetzes in Wirksamkeit."</p>
+                </quote>
+                <p>Im § 16 soll auf Antrag des Vorsitzenden das Datum offen gelassen werden und
+                    anstatt "Bureau des Nationalrats", "Kanzlei der Nationalrates" gesagt
+                    werden.</p>
+                <quote>
+                    <p> "§ 16.</p>
+                    <p>Zu Artikel 15.</p>
+                    <p>(1) Die auf Grund des Gesetzes über die Wahlordnung für die
+                        Nationalversammlung vom 20. Juli 1920, StGBl. Nr. 316, gewählte
+                        Nationalversammlung ist der erste Nationalrat im Sinne des
+                        Bundesverfassungsgesetzes.</p>
+                    <p>(2) Die Gesetze vom 20. Juli 1920, StGBl. Nr. 317, über die Wahl und
+                        Einberufung der Nationalversammlung, und vom 20. Juli 1920, StGBl. Nr. 316,
+                        über die Wahlordnung für die Nationalversammlung, bleiben für dem ersten
+                        Nationalrat in Kraft. Die Gesetzgebungsperiode des ersten Nationalrates
+                        bleibt demnach mit drei Jahren festgesetzt und beginnt mit dem Tage seines
+                        Zusammentrittes; der Nationalrat tritt jedoch ohne besondere Verlautbarung
+                        der Einberufung am ... Uhr vormittags im Sitzungssaal der
+                        Nationalversammlung zur ersten Sitzung zusammen.</p>
+                    <p>(3) Die Mitglieder des Nationalrates haben, soweit nicht im
+                        Bundesverfassungsgesetze anders bestimmt ist, bis zu neuer gesetzlicher
+                        Regelung die Rechte und Pflichten der Mitglieder der Nationalversammlung Sie
+                        haben auf die Aufforderung des Präsidenten der Nationalversammlung über
+                        Namensaufruf durch die Worte „Ich gelobe“ unverbrüchliche Treue der
+                        Republik, dann stete und volle Beobachtung der Verfassungsgesetze und aller
+                        anderen Gesetze und gewissenhafte Erfüllung ihrer Pflichten anzugeloben.</p>
+                    <p>(4) Die Beamten und Diener der Nationalversammlung werden Angestellte der
+                        Kanzlei des Nationalrates; sie sind hinsichtlich ihrer Stellung, ihrer
+                        Pflichten und Rechte den Bundesangestellten gleichgehalten." </p>
+                </quote>
+                <p><pb facs="#facs_21" n="21" xml:id="img_0021" break="yes"/><fw type="pageNum"
+                        >20</fw>Auch in § 17 wünscht der Vorsitzende den Zeitpunkt des
+                    Zusammentrittes offengelassen. Bei der Aufzählung wünscht Prof. Dr. Kelsen
+                    ausdrückliche Feststellung, daß Wien und Niederösterreich für den Bundesrat
+                    gesondert in Betracht kommen.</p>
+                <p>Angenommen wird:</p>
+                <quote>
+                    <p>"§ 17.</p>
+                    <p>Zu Artikel 26 und 27.</p>
+                    <p>(1) In den ersten Bundesrat wählen:</p>
+                    <p>Wien 12 Mitglieder </p>
+                    <p> Niederösterreich 10 Mitglieder</p>
+                    <p>Steiermark 6 Mitglieder </p>
+                    <p>Oberösterreich 6 Mitglieder</p>
+                    <p>Tirol 3 Mitglieder</p>
+                    <p> Kärnten 3 Mitglieder</p>
+                    <p>Salzburg 3 Mitglieder</p>
+                    <p>Vorarlberg 3 Mitglieder</p>
+                    <p> (2) Im gegebenen Zeitpunkt wird die Anzahl der vom Burgenlande entstehenden
+                        Mitglieder nach Artikel 26 ermittelt.</p>
+                    <p>(3) Der Bundesrat tritt zu seiner ersten Sitzung am ... in dem vom
+                        Bundeskanzler bezeichneten Sitzungsraume des Parlamentsgebäudes zusammen.
+                        Den ersten Vorsitz führt der älteste der vom Lande Kärnten entsendeten
+                        Mitglieder.</p>
+                    <p>§ 18.</p>
+                    <p>Zu Artikel 42.</p>
+                    <p>(1) Bis zur Erlassung des im Artikel 42, Absatz 2, vorgesehenen Gesetzes
+                        gelten die Bestimmungen des Gesetzes vom 12. November 1918, StGBl. 7, über
+                        die Kundmachung von Gesetzen und Verordnungen durch das Staatsgesetzblatt,
+                        soweit sie nicht durch das Bundesverfassungsgesetz abgeändert sind,
+                        sinngemäß für das Bundesgesetzblatt, wobei § 5 dieses Gesetzes Anwendung
+                        findet.</p>
+                    <p>(2) Als erste Verlautbarungen des Bundesgesetzblattes sind das
+                        Bundesverfassungsgesetz und dieses Gesetz neu kundzumachen; die so neu
+                        verlautbarten Texte werden dann die maßgebenden.</p>
+                    <p><pb facs="#facs_22" n="22"
+                            xml:id="img_0022" break="yes"/><fw type="pageNum">21</fw>§ 19.</p>
+                    <p>Zu Artikel 42 c.</p>
+                    <p>Das Gesetz vom 13. April 1920, StGBl. Nr. 180, über die Mitwirkung der
+                        Nationalversammlung an der Regelung von Eisenbahntarifen, Post-, Telegraphen
+                        und Telephongebühren und Preisen der Monopolgegenstände sowie von Bezügen
+                        der in staatlichen Betrieben Beschäftigten, gilt als das im Artikel 42 c
+                        vorgesehene Bundesverfassungsgesetz, wobei § 5 dieses Gesetzes Anwendung
+                        findet."</p>
+                </quote>
+                <p>Der Vorsitzende hält es mit Rücksicht auf die vielen Sollenitätsakte — Aufwartung
+                    der Gesandten, Überreichung neuer Beglaubigungsschreiben unserer Gesandten im
+                    Auslande — für unzweckmäßig, eine längere vacatio eintreten zu lassen. Der
+                    Bundesrat wäre daher möglichst gleichzeitig einzuberufen, damit die Wahl des
+                    Bundespräsidenten rasch erfolgen kann. Ministerialrat Dr. Froehlich meint, daß
+                    nach streng staatsrechtlicher Auffassung die Verfassung mit dem Tage des
+                    Zusammentrittes des Nationalrates in Kraft tritt und erst dann die Wahl des
+                    Bundespräsidenten stattfinden könne. Auch müsse der Bundesrat, ehe die
+                    Präsidentenwahl stattfinden könne, einen Vorsitzenden wählen, wofür eine gewisse
+                    Zeit freigegeben werden sollte. Es müsse auch ein Organ 16. Sitzung 461
+                    vorhanden sein, das bis zur Wahl die wichtigsten Amtshandlungen des
+                    Bundespräsidenten vornimmt, wie Ernennungen, Begnadigungen, Empfänge von
+                    Gesandten, formelle Ratifikation eines bereits früher genehmigten Vertrages.
+                    Prof. Dr. Seipel schlägt zur Vermeidung von Schwierigkeiten vor, den Präsidenten
+                    der Nationalversammlung bis zur Wahl des neuen Bundespräsidenten mit diesen
+                    Funktionen zu betrauen.</p>
+                <p>§ 20 erhält folgende Fassung:</p>
+                <quote>
+                    <p>"§ 20.</p>
+                    <p>Zu Artikel 49 und 51.</p>
+                    <p>(1) Zur 1. Wahl eines Bundespräsidenten tritt die Bundesversammlung (Artikel
+                        29 a) ohne besondere Einberufung am ... um 11 Uhr vormittags im
+                        Parlamentsgebäude zusammen.</p>
+                    <p>(2) Kann die Angelobung des neuegewählten Präsidenten nicht noch in derselben
+                        Sitzung der Bundesversammlung erfolgen, so hat die<pb facs="#facs_23" n="23"
+                            xml:id="img_0023" break="yes"/><fw type="pageNum">22</fw>Bundeskanzlei
+                        die Bundesversammlung auf den nächstmöglichen Zeitpunkt zur Angelobung des
+                        Bundespräsidenten einzuberufen.</p>
+                    <p>(3) Bis zur Angelobung des Bundespräsidenten werden alle ihm übertragenen
+                        Funktionen vom Präsidenten der konstituierenden Nationalversammlung
+                        versehen."</p>
+                </quote>
+                <p>Bei Besprechung des § 21 ist Prof. Dr. Seipel der Ansicht, daß gemäß § 1,
+                    modifiziert durch § 5, die gegenwärtige Dienstpragmatik gilt, solange nicht nach
+                    Artikel 10 des Verfassungsgesetzes ein Dienstrecht für die mit behördlichen
+                    Funktionen betrauten Organe geschaffen wird.</p>
+                <quote>
+                    <p>"§ 21.</p>
+                    <p>Zu Artikel 54, Absatz 3.</p>
+                    <p>(1) Das Gesetz vom 26. Februar 1920, StGBI. Nr. 94, womit Artikel 7 des
+                        Gesetzes vom 14. März 1919, StGBl. Nr. 180, über die Staatsregierung ergänzt
+                        wird, gilt als einfaches Bundesgesetz im Sinne des Artikels 64, Absatz
+                        3.</p>
+                    <p>(2) Die nach den bisher bestehenden Gesetzen dem Präsidenten der
+                        Nationalversammlung zustehenden Bestätigungsrechte gehen auf den
+                        Bundespräsidenten über, soweit nicht durch den Übergang zum Bundesstaat
+                        solche Bestimmungen als abgeändert anzusehen sind.</p>
+                    <p>(3) Unvorgreiflich der Neuregelung des Dienstrechtes der Bundesangestellten
+                        steht dem Bundespräsidenten auch das Recht zu, von den Disziplinarbehörden
+                        über Bundesangestellte verhängte Disziplinarstrafen zu erlassen und zu
+                        mildern, deren Rechtsfolgen nachzusehen, sowie anzuordnen, daß ein
+                        Disziplinarverfahren wieder eingestellt werde."</p>
+                </quote>
+                <p>Im 1. Absatz des Entwurfes für § 22 hält der Vorsitzende das Wort die „dermalige“
+                    Staatsregierung für bedenklich, weil ja ein Wechsel eintreten könnte, sodaß auf
+                    seinen Antrag dieses Wort gestrichen wird.</p>
+
+
+
+                <quote>
+                    <p>Der Paragraph lautet:</p>
+                    <p>§ 22.</p>
+                    <p>Zu Artikel 58.</p>
+                    <p>(1) Bis zur Wahl einer Bundesregierung gemäß Artikel 60 führt <pb
+                            facs="#facs_24" n="24" xml:id="img_0024" break="yes"/><fw type="pageNum"
+                            >23</fw> die Staatsregierung die Geschäfte der Bundesregierung.</p>
+                    <p>(2) Die Staatskanzlei und die Staatsämter führen ihre Geschäfte bis zur
+                        Erlassung des im Artikel 64, Absatz 2, vorgesehenen Bundesgesetzes mit ihren
+                        bisherigen Aufträgen und Vollmachten vorläufig als Bundeskanzleramt und
+                        Bundesministerien fort."</p>
+                </quote>
+                <p>Ferner wird angenommen:</p>
+                <quote>
+                    <p>§ 23.</p>
+                    <p>Zu Artikel 69.</p>
+                    <p>Das auf Grund des Wehrgesetzes vom 18. März 1920, StGBl. Nr. 122, gebildete
+                        Heer ist das Bundesheer im Sinne des Bundesverfassungsgesetzes."</p>
+                </quote>
+                <p>Der Entwurf des § 24 wurde auf Wunsch des Staatsamtes für Justiz wegen der
+                    Schöffengerichte so gefaßt, wie er zur Annahme gelangt:</p>
+                <quote>
+                    <p>"§ 24.</p>
+                    <p>Zu Artikel 81.</p>
+                    <p>Die geltenden Bestimmungen über die Zuständigkeit und Zusammensetzung der
+                        Zivil- und Strafgerichte bleiben bis auf weiteres in Kraft."</p>
+                </quote>
+                <p>Dagegen wendet sich Abgeordneter Fink gegen die von der Staatskanzlei vorgesehene
+                    Neuwahl der Landtage. Der folgende Paragraph lautet daher:</p>
+                <quote>
+                    <p>§ 25.</p>
+                    <p>Die bestehenden Volksvertretungen in den Ländern (Landtage) sind die ersten
+                        Landtage im Sinne des Bundes-Verfassungsgesetzes."</p>
+                </quote>
+                <p>Angenommen wird:</p>
+                <quote>
+                    <p>§ 26.</p>
+                    <p>Zu Artikel 88.</p>
+                    <p>(1) Die Bestimmungen des Artikels 88 finden auch Anwendung auf Landesgesetze,
+                        welche vor dem Inkrafttreten des Bundesverfassungsgesetzes beschlossen
+                        worden sind, soferne die Staatsregierung hiezu noch nicht im Sinne der
+                        Artikel 14 und 15 des Gesetzes vom 15. März 1919, StGBl. Nr. 179, über die
+                        Volksvertretung, Stellung genommen hat oder die in den letztbezogenen
+                        Gesetzesstellen bestimmten Fristen<pb facs="#facs_25" n="25"
+                            xml:id="img_0025" break="yes"/><fw type="pageNum">24</fw> noch nicht
+                        verstrichen sind. Für die Berechnung der Frist des Artikels 88, Abs. 2, gilt
+                        der Tag des Einlangens des Gesetzes bei der Staatsregierung als der Tag des
+                        Einlangens bei der Bundesregierung.</p>
+                    <p>(2) Vorstellungen der Staatsregierung gegen Landesgesetze, über welche der
+                        Landtag im Zeitpunkte des Inkrafttretens des BundesVerfassungsgesetzes noch
+                        nicht neuerlich Beschluß gefaßt hat, gelten als Vorstellungen der
+                        Bundesregierung."</p>
+                </quote>
+                <quote>
+                    <p>§ 27.</p>
+                    <p>Die in Wirksamkeit stehenden Landesverfassungen (Landesordnungen) gelten,
+                        soweit sie nicht durch das Bundesverfassungsgesetz als abgeändert anzusehen
+                        sind, vorläufig als die in letzterem vorgesehene Landesverfassung. Die
+                        Landtage werden binnen einem Jahr nach Inkrafttreten des
+                        Bundesverfassungsgesetzes neue Landesverfassungen beschließen."</p>
+                </quote>
+                <p>Sowohl der Vorsitzende, als auch Professor Dr. Seipel spricht sich gegen die im
+                    Entwurf vorgesehene Neuwahl der Landesregierungen aus.</p>
+                <quote>
+                    <p>"§ 28.</p>
+                    <p>(1) Die Landesregierungen setzten ihre Tätigkeit als Landesregierungen im
+                        Sinne des Verfassungsgesetzes fort.</p>
+                    <p>(2) Die Angelobung der Landeshauptmänner im Sinne des Art. 91, Absatz 4,
+                        erfolgt durch den Bundespräsidenten binnen 14 Tagen nach dessen Wahl. Der
+                        Landeshauptmann führt jedoch auch schon vor der Angelobung nach
+                        Inkrafttreten des Bundesverfassungsgesetzes die Geschäfte des
+                        Landeshauptmannes im Sinne des Bundesverfassungsgesetzes.</p>
+                    <p>(3) Die nach dem Inkrafttreten des Bundesverfassungsgesetzes fällig werdenden
+                        Bezüge der Mitglieder der Landesregierungen tragen die Länder."</p>
+                </quote>
+                <p>Ministerialrat Dr. Froehlich bemerkt hiezu, daß die Worte „im Sinne des
+                    Bundesverfassungsgesetzes“ bedeuten, daß der Lan<pb facs="#facs_26" n="26"
+                        xml:id="img_0026" break="no"/><fw type="pageNum">25</fw>deshauptmann die
+                    Verantwortung trägt.</p>
+                <p>Zu Art. 29 bemerkt der Vorsitzende, daß die Zeitbestimmung nachzutragen sei. Auch
+                    hält Professor Dr. Kelsen einen Zusatz bezüglich der Gemeinde Wien für nötig.
+                    Zur Festsetzung des Wirkungskreises der Bezirksvertretungen bemerkt der
+                    Vorsitzende, daß dies Sache des Bundes sei, die Ausführung aber der
+                    Landesgesetzgebung obliegt. Die dermalige Bezirksverwaltung soll bestehen
+                    bleiben, jedoch wird im Bereich jeder Bezirkshauptmannschaft eine
+                    Bezirksvertretung gewählt.</p>
+                <quote>
+                    <p>"§ 29.</p>
+                    <p>zu Art. 97 a—97 e.</p>
+                    <p>(1) Bis zur Einrichtung der allgemeinen staatlichen Verwaltung in den Ländern
+                        nach den Bestimmungen der Art. 97 a—97 e bleibt die dermalige
+                        Bezirksverwaltung bestehen, jedoch wird im Bereiche jeder
+                        Bezirkshauptmannschaft eine Bezirksvertretung gewählt werden.</p>
+                    <p>(2) In den Städten mit eigenem Statut übernimmt die Gemeindevertretung
+                        zugleich die Aufgaben der Bezirksvertretung. Diese Aufgaben können einem
+                        besonderen Ausschusse der Gemeindevertretung übertragen werden.</p>
+                    <p>(3) In den Bereichen der Bezirkshauptmannschaften wird die Wahl auf Grund des
+                        gleichen, geheimen, persönlichen und unmittelbaren Wahlrechtes aller
+                        Bundesbürger durchgeführt, die im Bereiche der Bezirkshauptmannschaft ihren
+                        ordentlichen Wohnsitz haben. Die Anzahl der Mandate der Bezirksvertretungen
+                        wird auf die Gerichtsbezirke nach dem Ver hältniswahlrecht der dort
+                        wohnhaften Bürger aufgeteilt. Die Bestimmungen des Art. 97 e, Abs. 2, finden
+                        sinngemäße Anwendung.</p>
+                    <p>(4) In die Bezirksvertretung sind nur Personen wählbar, die im Bereiche der
+                        Bezirkshauptmannschaft ihren ordentlichen Wohnsitz haben und zum Landtage
+                        wählbar sind.</p>
+                    <p><pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/><fw type="pageNum"
+                            >26</fw>(5) Die näheren Bestimmungen der Durchführung dieser Wahlen
+                        werden von der Landesgesetzgebung getroffen.</p>
+                    <p>(6) Die Festsetzung der weiteren Grundsätze für die vorläufige Ausgestaltung
+                        der dermaligen Bezirksverwaltung nach den voranstehenden Bestimmungen ist
+                        Sache der Bundesgesetzgebung; ihre Ausführung liegt den Landesgesetzen
+                        ob."</p>
+                </quote>
+                <p>Angenommen wird ferner:</p>
+                <quote>
+                    <p>"§ 30.</p>
+                    <p>Zu Artikel 99.</p>
+                    <p>(1) Der bisherige Staatsrechnungshof wird zum Rechnungshof im Sinne des
+                        Bundes-Verfassungsgesetzes.</p>
+                    <p>(2) Bis zur Wahl des Präsidenten des Rechnungshofes versieht der Präsident
+                        des Staatsrechnungshofes dessen Funktionen.</p>
+                    <p>§ 31.</p>
+                    <p>Zu Artikel 145.</p>
+                    <p>(1) Der dermalige Verwaltungsgerichtshof wird Verwaltungsgerichtshof im Sinne
+                        des Bundes-Verfassungsgesetzes.</p>
+                    <p>(2) Sein Präsident und die Mitglieder bleiben bis zu der gemäß Art. 145
+                        erfolgenden Neubesetzung im Amte. Die Neubesetzung hat bis 1. Jänner 1921 zu
+                        erfolgen.</p>
+                    <p>(3) Innerhalb dieses Zeitraumes können der Präsident und die Mitglieder des
+                        Verwaltungsgerichtshofes im Sinne des Art. 78, Absatz 2 des
+                        Bundes-Verfassungsgesetzes auch ohne die sonst vorgeschriebenen
+                        Förmlichkeiten in den Ruhestand versetzt werden, insoferne sie nicht gemäß
+                        Artikel 145 neu ernannt werden."</p>
+                </quote>
+                <p>Zu § 32 wird ein weiterer Vorschlag der Staatskanzlei in Aussicht gestellt.</p>
+                <p>Zu § 33 bemerkt Professor Dr. Kelsen daß zwar eine Frist gesetzt werden könnte,
+                    daß dies aber keine Sanktion wäre, weil man den Nationalrat nicht zur Wahl des
+                        Verfassungsgerichtshofes<pb facs="#facs_28" n="28" xml:id="img_0028"
+                        break="yes"/><fw type="pageNum">27</fw> zwingen könne. Der Unterausschuß
+                    entschließt sich für die von der Staatskanzlei vorgelegte Fassung.</p>
+                <quote>
+                    <p>"§ 33.</p>
+                    <p>Zu Artikel 147.</p>
+                    <p>(1) Der dermalige Verfassungsgerichtshof wird zum Verfassungsgerichtshof im
+                        Sinne des Bundesverfassungsgesetzes.</p>
+                    <p>(2) Sein Präsident, sein Vizepräsident, die Mitglieder und Ersatzmänner
+                        bleiben bis zu der gemäß Art. 155 erfolgenden Neubesetzung im Amte."</p>
+                </quote>
+                <p>Zu § 34 bemerkt Ministerialrat Dr. Froehlich, daß der Kreis der Personen, die
+                    unter Ministerverantwortlichkeit stehen, durch die Zitierung des Art. 152
+                    umschrieben ist. Zur Erhebung der Ministeranklage ist nach der neuen Fassung
+                    immer ein Verfassungsgesetz — 2/3 Majorität — notwendig. Professor Dr. Kelsen
+                    findet es mißlich, daß nicht gleich ein Gesetz über die
+                    Ministerverantwortlichkeit gemacht werden kann. Man muß sich die Schwierigkeit
+                    vor Augen halten, daß die sinngemäße Anwendung in der Hand der Regierung liegt.
+                    Auch wäre die Frage zu lösen, ob der Bundesrat an die Stelle des Herrenhauses
+                    tritt. Der Umkreis der Verantwortlichkeit ist in der Verfassung festgelegt, doch
+                    fehlt das Verfahren. Der Vorsitzende meint, daß dieses jederzeit durch den
+                    Nationalrat geregelt werden könne. Der Unterausschuß beschließt der
+                    vorgebrachten Bedenken halber den § 34 einstweilen zurückzustellen, und neue
+                    Vorschläge der Staatskanzlei abzuwarten.</p>
+                <p>Beschlossen wird:</p>
+                    <quote><p>"§ 35.</p>
+                    <p>Zu Artikel 157.</p>
+                    <p>Die Gesetze, welche die Organisation und
+                    das Verfahren des dermaligen Verfassungsgerichtshofes regeln, gelten bis auf
+                    weiteres als das im Art. 157 vorgesehene Bundesgesetz."</p></quote> 
+                <p>Zum Entwurf des § 36, bei dem der Vorsitzende, die technischen Schwierigkeiten
+                    hervorhebt, bemerkt Sektionsrat Dr. Mann<pb facs="#facs_29" n="29"
+                        xml:id="img_0029" break="no"/><fw type="pageNum">28</fw>licher, daß man die
+                    Möglichkeit gehabt hätte, eine Art Liquidierung durchzuführen, was sich aber
+                    wohl kaum bewähren dürfte. Die Schwierigkeit liegt darin, daß die künftige
+                    Bundesregierung Kompetenzen wahrnehmen würde, die sie de facto nicht mehr hat.
+                    Auch ist zu bedenken, daß die zweite Instanz gewöhnlich unter dem Gesichtspunkte
+                    entschieden hat, daß noch eine dritte Instanz besteht. Die Staatsämter, die von
+                    der vorgeschlagenen Lösung am meisten getroffen werden sind damit einverstanden.
+                    Der Unterausschuß beschließt hierauf auch die §§ 36 und 37 in folgender
+                    Fassung:</p>
+                <quote><p>"III. Schlußbestimmungen.</p>
+                <p>§ 38.</p>
+                <p>(1) Die im Zeitpunkte des
+                    Inkrafttretens des Bundesverfassungsgesetzes bei den Verwaltungsbehörden
+                    anhängigen Angelegenheiten werden unter Berücksichtigung der Bestimmungen des §
+                    5 dieses Gesetzes weiter behandelt.</p>
+                <p>(2) Soferne es sich jedoch um
+                    Angelegenheiten handelt, die nunmehr in den eigenen Wirkungskreis der Länder
+                    fallen und in welchem die Landesbehörden bereits entschieden haben, ihre
+                    Entscheidung aber nach den bisherigen gesetzlichen Bestimmungen noch nicht in
+                    Rechtskraft erwachsen ist, hat die Landesbehörde im Falle als ein Rechtsmittel
+                    eingebracht wurde oder innerhalb der Rechtsmittelfrist eingebracht wird, selbst
+                    über diese Rechtsmittel neuerlich und endgiltig zu entscheiden. Soferne solche
+                    Angelegenheiten bereits bei den Staatsämtern anhängig sind, haben diese sie den
+                    zuständigen Landesbehörden unverzüglich zur Entscheidung abzutreten.</p>
+                <p>§ 37.</p>
+                <p>(1)
+                    Dieses Gesetz tritt zugleich mit dem Bundes-Verfassungsgesetz in Kraft.</p>
+                <p>(2) Mit
+                    seinem Vollzug ist die Bundesregierung betraut."</p></quote> 
+                <p><pb facs="#facs_30" n="30" xml:id="img_0030" break="yes"
+                /><fw type="pageNum">29</fw>Zur Frage der finanziellen
+                    Vorschriften teilt Ministerialrat Dr. Froehlich mit, daß mit dem Staatsamte für
+                    Finanzen, abgesehen von den Parteiberatungen, noch spezielle Besprechungen
+                    abgehalten wurden, wobei festgestellt wurde, daß für einige Fragen
+                    Übergangsbestimmungen notwendig sind, namentlich über die Verwendung der im
+                    Voranschlag ausgeworfenen Post für die politische Verwaltung. Das Staatsamt hat
+                    mitgeteilt, daß es auf Grund der Parteibesprechungen zweifellos nötig sein wird,
+                    zugleich mit der Verfassung auch ein Gesetz über die finanziellen Fragen
+                    einzubringen.</p>
+                <p>Der Vorsitzende bemerkt abschließend, daß die Artikel über
+                    Gendarmerie und Polizei zurückgestellt worden seien 320), da namentlich die
+                    letztere Frage unmittelbar mit der Stellung Wiens und der des Bürgermeisters als
+                    Landeshauptmann zusammenhängt. Eine Beratung des Unterausschusses hierüber sei
+                    zwecklos, solange nicht eine Verständigung der Parteien erzielt worden sei. Da
+                    Professor Dr. Kelsen noch auf die Schwierigkeit der technischen Lösung
+                    hindeutet, die durch die ausstehende Entscheidung über Wien, über die
+                    Gendarmerie und die Schule behindert sei, erklärt der Vorsitzende, daß die
+                    Regierung von dem Ergebnis der Parteiberatungen verständigt wird und dann der
+                    endgiltige Text festgestellt werden soll.</p>
+                <p>Die nächste Sitzung wird im Laufe der
+                    nächsten Woche stattfinden.</p>
             </div>
         </body>
     </text>
