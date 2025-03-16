@@ -104,9 +104,9 @@
         <revisionDesc status="structured">
             <change when="2024-11-05" who="#cfh">document automatically created</change>
             <change when="2025-02-22" who="#s_kury">Formatierung beendet</change>
-            <change when="2025-03-16" who="#s_kury">Gegengelesen bis S. 25- "Sever: Wir"; Fehlt
-                noch: Seitenzahlen überarbeiten; anschließend mit Anzeige der entsprechenden Seiten
-                alles bis einschließlich "Artikel" nochmal gegenlesen</change>
+            <change when="2025-03-16" who="#s_kury">Gegengelesen bis S. 25; Fehlt noch: Seitenzahlen
+                überarbeiten; anschließend mit Anzeige der entsprechenden Seiten alles bis
+                einschließlich "Artikel" nochmal gegenlesen</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
