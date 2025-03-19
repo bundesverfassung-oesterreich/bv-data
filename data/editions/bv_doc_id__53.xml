@@ -3,7 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Protokoll der 18. Sitzung des Subkomitees des Verfassungsausschusses vom 23. September 1920</title>
+                <title type="main">Protokoll der 18. Sitzung des Subkomitees des
+                    Verfassungsausschusses vom 23. September 1920</title>
                 <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
@@ -29,23 +30,24 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
-                    </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372"
+                        >Peter Andorfer </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
-                    </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X"
+                        >Carl Friedrich Haak </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
-                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital
+                        Humanities and Cultural Heritage an der Österreichischen Akademie der
+                        Wissenschaften</orgName>
                 </publisher>
                 <publisher>
-                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
-                        Verfassungsgeschichte</orgName>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für
+                        Rechts- und Verfassungsgeschichte</orgName>
                 </publisher>
                 <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
                 <date when="2023">2023</date>
@@ -64,25 +66,31 @@
             <sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
-                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
-                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
-                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/101 ex 1920</idno>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
+                            Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik
+                            (Wien)</repository>
+                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/101
+                            ex 1920</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <author role="acdh:hasAuthor">Unterausschuss des Verfassungsausschusses</author>
-                            <title>Protokoll der 18. Sitzung des Subkomitees des Verfassungsausschusses vom 23. September 1920</title>
-                            <note type="editor">Protokoll der 18. Sitzung des Subkomitees des Verfassungsausschusses vom 23. September 1920, Lithographie, Zustand gut, ohne Anmerkungen</note>
+                            <author role="acdh:hasAuthor">Unterausschuss des
+                                Verfassungsausschusses</author>
+                            <title>Protokoll der 18. Sitzung des Subkomitees des
+                                Verfassungsausschusses vom 23. September 1920</title>
+                            <note type="editor">Protokoll der 18. Sitzung des Subkomitees des
+                                Verfassungsausschusses vom 23. September 1920, Lithographie, Zustand
+                                gut, ohne Anmerkungen</note>
                         </msItem>
                     </msContents>
                     <physDesc>
-                        <objectDesc form="Lithographie">
-                        </objectDesc>
-                        <handDesc>
-                        </handDesc>
+                        <objectDesc form="Lithographie"> </objectDesc>
+                        <handDesc> </handDesc>
                     </physDesc>
                     <history>
-                        <origin notBefore-iso="1920-09-23" notAfter-iso="1920-09-23">23. September 1920</origin>
+                        <origin notBefore-iso="1920-09-23" notAfter-iso="1920-09-23">23. September
+                            1920</origin>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -92,64 +100,1137 @@
                 <p/>
             </abstract>
             <creation>
-                <date notBefore-iso="1920-09-23" notAfter-iso="1920-09-23">
-                    23. September 1920
+                <date notBefore-iso="1920-09-23" notAfter-iso="1920-09-23"> 23. September 1920
                 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="created">
-            <change when="2025-03-17" who="#cfh">document automatically created</change>
+        <revisionDesc status="structured">
+            <change when="2025-03-05" who="#cfh">document automatically created</change>
+            <change when="2025-03-19" who="#e_kordt">Text fertig strukturiert</change>
         </revisionDesc>
     </teiHeader>
-    <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3068" lry="4792" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0134/full/full/0/default.jpg" width="3068px" height="4792px"/></surface><surface ulx="0" uly="0" lrx="3053" lry="4833" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0135/full/full/0/default.jpg" width="3053px" height="4833px"/></surface><surface ulx="0" uly="0" lrx="3068" lry="4807" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0136/full/full/0/default.jpg" width="3068px" height="4807px"/></surface><surface ulx="0" uly="0" lrx="3045" lry="4861" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0137/full/full/0/default.jpg" width="3045px" height="4861px"/></surface><surface ulx="0" uly="0" lrx="3066" lry="4816" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0138/full/full/0/default.jpg" width="3066px" height="4816px"/></surface><surface ulx="0" uly="0" lrx="3025" lry="4833" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0140/full/full/0/default.jpg" width="3025px" height="4833px"/></surface><surface ulx="0" uly="0" lrx="3110" lry="4874" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0141/full/full/0/default.jpg" width="3110px" height="4874px"/></surface><surface ulx="0" uly="0" lrx="3029" lry="4821" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0142/full/full/0/default.jpg" width="3029px" height="4821px"/></surface><surface ulx="0" uly="0" lrx="3068" lry="4828" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0143/full/full/0/default.jpg" width="3068px" height="4828px"/></surface><surface ulx="0" uly="0" lrx="3025" lry="4813" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0144/full/full/0/default.jpg" width="3025px" height="4813px"/></surface><surface ulx="0" uly="0" lrx="3054" lry="4822" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0145/full/full/0/default.jpg" width="3054px" height="4822px"/></surface><surface ulx="0" uly="0" lrx="3031" lry="4860" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0146/full/full/0/default.jpg" width="3031px" height="4860px"/></surface><surface ulx="0" uly="0" lrx="3055" lry="4834" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0147/full/full/0/default.jpg" width="3055px" height="4834px"/></surface><surface ulx="0" uly="0" lrx="3066" lry="4974" xml:id="facs_15"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0148/full/full/0/default.jpg" width="3066px" height="4974px"/></surface><surface ulx="0" uly="0" lrx="3045" lry="4906" xml:id="facs_16"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0149/full/full/0/default.jpg" width="3045px" height="4906px"/></surface><surface ulx="0" uly="0" lrx="3024" lry="4960" xml:id="facs_17"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0150/full/full/0/default.jpg" width="3024px" height="4960px"/></surface><surface ulx="0" uly="0" lrx="3065" lry="4931" xml:id="facs_18"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0151/full/full/0/default.jpg" width="3065px" height="4931px"/></surface><surface ulx="0" uly="0" lrx="3028" lry="4965" xml:id="facs_19"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0152/full/full/0/default.jpg" width="3028px" height="4965px"/></surface><surface ulx="0" uly="0" lrx="3051" lry="4947" xml:id="facs_20"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0153/full/full/0/default.jpg" width="3051px" height="4947px"/></surface><surface ulx="0" uly="0" lrx="3089" lry="4949" xml:id="facs_21"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0154/full/full/0/default.jpg" width="3089px" height="4949px"/></surface><surface ulx="0" uly="0" lrx="3126" lry="4933" xml:id="facs_22"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0155/full/full/0/default.jpg" width="3126px" height="4933px"/></surface><surface ulx="0" uly="0" lrx="3101" lry="4969" xml:id="facs_23"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0156/full/full/0/default.jpg" width="3101px" height="4969px"/></surface><surface ulx="0" uly="0" lrx="3128" lry="4910" xml:id="facs_24"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0157/full/full/0/default.jpg" width="3128px" height="4910px"/></surface><surface ulx="0" uly="0" lrx="3110" lry="4965" xml:id="facs_25"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0158/full/full/0/default.jpg" width="3110px" height="4965px"/></surface><surface ulx="0" uly="0" lrx="3127" lry="4883" xml:id="facs_26"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0159/full/full/0/default.jpg" width="3127px" height="4883px"/></surface><surface ulx="0" uly="0" lrx="3094" lry="4970" xml:id="facs_27"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0160/full/full/0/default.jpg" width="3094px" height="4970px"/></surface><surface ulx="0" uly="0" lrx="3114" lry="4888" xml:id="facs_28"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0161/full/full/0/default.jpg" width="3114px" height="4888px"/></surface><surface ulx="0" uly="0" lrx="3067" lry="4983" xml:id="facs_29"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0162/full/full/0/default.jpg" width="3067px" height="4983px"/></surface><surface ulx="0" uly="0" lrx="3127" lry="4870" xml:id="facs_30"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0163/full/full/0/default.jpg" width="3127px" height="4870px"/></surface><surface ulx="0" uly="0" lrx="3059" lry="4921" xml:id="facs_31"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0164/full/full/0/default.jpg" width="3059px" height="4921px"/></surface><surface ulx="0" uly="0" lrx="3141" lry="4875" xml:id="facs_32"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0165/full/full/0/default.jpg" width="3141px" height="4875px"/></surface><surface ulx="0" uly="0" lrx="3068" lry="4946" xml:id="facs_33"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0166/full/full/0/default.jpg" width="3068px" height="4946px"/></surface><surface ulx="0" uly="0" lrx="3124" lry="4910" xml:id="facs_34"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0167/full/full/0/default.jpg" width="3124px" height="4910px"/></surface><surface ulx="0" uly="0" lrx="3125" lry="4912" xml:id="facs_35"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0168/full/full/0/default.jpg" width="3125px" height="4912px"/></surface></facsimile>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+        <surface ulx="0" uly="0" lrx="3068" lry="4792" xml:id="facs_2">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0134/full/full/0/default.jpg"
+                width="3068px" height="4792px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3053" lry="4833" xml:id="facs_3">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0135/full/full/0/default.jpg"
+                width="3053px" height="4833px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3068" lry="4807" xml:id="facs_4">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0136/full/full/0/default.jpg"
+                width="3068px" height="4807px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3045" lry="4861" xml:id="facs_5">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0137/full/full/0/default.jpg"
+                width="3045px" height="4861px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3066" lry="4816" xml:id="facs_6">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0138/full/full/0/default.jpg"
+                width="3066px" height="4816px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3025" lry="4833" xml:id="facs_7">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0140/full/full/0/default.jpg"
+                width="3025px" height="4833px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3110" lry="4874" xml:id="facs_8">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0141/full/full/0/default.jpg"
+                width="3110px" height="4874px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3029" lry="4821" xml:id="facs_9">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0142/full/full/0/default.jpg"
+                width="3029px" height="4821px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3068" lry="4828" xml:id="facs_10">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0143/full/full/0/default.jpg"
+                width="3068px" height="4828px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3025" lry="4813" xml:id="facs_11">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0144/full/full/0/default.jpg"
+                width="3025px" height="4813px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3054" lry="4822" xml:id="facs_12">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0145/full/full/0/default.jpg"
+                width="3054px" height="4822px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3031" lry="4860" xml:id="facs_13">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0146/full/full/0/default.jpg"
+                width="3031px" height="4860px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3055" lry="4834" xml:id="facs_14">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0147/full/full/0/default.jpg"
+                width="3055px" height="4834px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3066" lry="4974" xml:id="facs_15">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0148/full/full/0/default.jpg"
+                width="3066px" height="4974px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3045" lry="4906" xml:id="facs_16">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0149/full/full/0/default.jpg"
+                width="3045px" height="4906px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3024" lry="4960" xml:id="facs_17">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0150/full/full/0/default.jpg"
+                width="3024px" height="4960px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3065" lry="4931" xml:id="facs_18">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0151/full/full/0/default.jpg"
+                width="3065px" height="4931px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3028" lry="4965" xml:id="facs_19">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0152/full/full/0/default.jpg"
+                width="3028px" height="4965px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3051" lry="4947" xml:id="facs_20">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0153/full/full/0/default.jpg"
+                width="3051px" height="4947px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3089" lry="4949" xml:id="facs_21">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0154/full/full/0/default.jpg"
+                width="3089px" height="4949px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3126" lry="4933" xml:id="facs_22">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0155/full/full/0/default.jpg"
+                width="3126px" height="4933px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3101" lry="4969" xml:id="facs_23">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0156/full/full/0/default.jpg"
+                width="3101px" height="4969px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3128" lry="4910" xml:id="facs_24">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0157/full/full/0/default.jpg"
+                width="3128px" height="4910px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3110" lry="4965" xml:id="facs_25">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0158/full/full/0/default.jpg"
+                width="3110px" height="4965px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3127" lry="4883" xml:id="facs_26">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0159/full/full/0/default.jpg"
+                width="3127px" height="4883px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3094" lry="4970" xml:id="facs_27">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0160/full/full/0/default.jpg"
+                width="3094px" height="4970px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3114" lry="4888" xml:id="facs_28">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0161/full/full/0/default.jpg"
+                width="3114px" height="4888px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3067" lry="4983" xml:id="facs_29">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0162/full/full/0/default.jpg"
+                width="3067px" height="4983px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3127" lry="4870" xml:id="facs_30">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0163/full/full/0/default.jpg"
+                width="3127px" height="4870px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3059" lry="4921" xml:id="facs_31">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0164/full/full/0/default.jpg"
+                width="3059px" height="4921px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3141" lry="4875" xml:id="facs_32">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0165/full/full/0/default.jpg"
+                width="3141px" height="4875px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3068" lry="4946" xml:id="facs_33">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0166/full/full/0/default.jpg"
+                width="3068px" height="4946px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3124" lry="4910" xml:id="facs_34">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0167/full/full/0/default.jpg"
+                width="3124px" height="4910px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3125" lry="4912" xml:id="facs_35">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0168/full/full/0/default.jpg"
+                width="3125px" height="4912px"/>
+        </surface>
+    </facsimile>
     <text type="Sitzungsprotokoll">
-        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><p>protoro der 19. Sitzung das Unterausschusses des Verfangungsausschusses vom 23. September 1920. Beginn: 25 Ise war vormittags. Anwegend; pr. Otto Bauer als Vorsitzonder, Dr. JossiAigner, Dr. Heinrich glessin, Dr. Rebert Bannsberg, Jodok pink. professer Br. Ienaz Seipel. Präsldent Karl g1t2, staatssekretär Profeeser Br. Wichzal Magr. von der staatekanzlet: win- Rat Dro Gzerg Fröhlich, sektlonsrat Dr. Eibert KxBrlIchEr. win- Vizosckratär Dr. Aäsls Horxl, nts Schriftfährer. aneenenemmen Untversitätaprofesser Br. Hans kel sen ale Experte des Verfassungsauzschusses. ervernen min. kat ing. Eutz Gär sre r ven MerE el- Saeuverständiger zu den Verhandlungen über das Flektriaitätsmesen, 4at<pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>2 Der Unterausschues setzt die tachnische Lezung des Antwurfss, beginnend ran Art. l1,fort. Auf Anregung des Min. Rates Dr. Fröhlich wird beschlessen, den Punkkl des Ahsatzes1 folgenderwassen zu forunlieren, verufliche Vertretungen, sogelt sin nicht unter den Artikells faller, zu funkt d desselben Absatzeg wird auf Anregung des Win. Ratas Br. Frählich beschloeser sie Worte bstriebstschnische Verschriften beim“ in der Erwägung zu streichen, dase dieser Zusatz überflüssig iet und nur zu Auslegungsschwierigkeiten führen könnte. Zu denselben Punkts macht der Vorsitzends aufmerkkam, dass das Waffenwesen aus den seiben gründen wie militäriache Angelegenheltsh in den Art1o gehören würde, da die Bedlngungen der Varleihung von Waffenpäeren u.e.W. fülr das ganze Euhatsgebiet einheitlich sein sellten. Ahgseräneterpr. iesein bewerkt, dass die sfcräarliche Einheitlichkeit auch durch eine detaillierte Gesotzgenung der Bunds« auf diesem Jebiste sichergestellt wein könnte. Der Unterausschuse lehnt den sozialdemokratischen Antrag auf verlegung des Wafferwegens in den Artikel io abDie Punkte s und 7 werden offen gelassen in erst in den in Rüksicht genommenen Parteibssprechungen bereinigt zu werden. ner Funkt 8 erhält folgende Formulierung: "verwaltungs- und Verwaltungestrafverfahren einschliseslich der Zwangsvollstreckung sowie die allgemeinen Bestimmungen des Verwaltungestrafrechten auch in Angelegenheiten, in denen die Gesatzgebung den Ländern zusteht." Auf Anregung des Min. Rates Dr. pröhlich beschliesst der Unterausschues den Eingang folgendermassen zu formulieren: Bundessache ist die Gesetzgebung über die grundsätze, Landessachs. -" Der PunktWasserrecht der die Ziffar sa erhalten soll, wird gleichfalle den Parteibesprechungen vorkskalten. Zu Punkt 7 wird die sinfache Per-<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>3</p><p>mulisrung Hauwesen“ zum Beschluss erhoben. Im Punkt 3 wird auf Beschluss dae Ausschusses das Nort "Organs“ durch "Angestellten“ ersetzt. Im Artikel 13 wird dan arste Vort wann" durch "Sewelt" erretzt und in der letzten Zeils des 1. Absatzes vor dem Wort Wirkungebereicher das Wort aelbständigen? einggechaltst. Im 2. Punkt traten folgende srilistische Känderungen ein: Der Eingang hat zu lauten; "someit dem Bund blase die Gesatzgebung über die Grundsätze vorbehalten iet, der 2. und 3. Satz erhalten auf Anregung des Min. Ratex Br. Fröhli ch felgenden Wortlaut: par Bundesgesetz kann für die Erlassung der Kunführungsgesetze eine Friet bestimmen, die ohne Zustimmung Sra Bundesratss nicht kürzer als suche Monate und nicht länger als ein Jahr sein darf. Wird disse Friet von einem Lande nicht eingehalten, so geht die Zuständigkeit zur Erlassung des AuaFührungsgesetzts für diesss Land auf den Bund über.“ Min. Rat Dr. xrühli ch regt an, dem Punkte noch folgenden Satz anzufügen: "Sobald das fand das Ausführungsgeretz briassen hat, tritt das Ausführungegeastz des Bunden äusser kraftr. Der Voreitzende äussert gegen die Anfügung dieses Satzen Redenken. Profoesor Seitelarinnert daran, dass die St.R. aufgefordert worden sei, eine Formulierung zu finden, wodurck «in Schutz gegen die Ebstruierung der Acsführungegssatzgebung der Länder geboten werde, und bemarkt, dass er in dem vorgeschlagenen Zusatz diesen Schutz erblicke, der Zusatz wird besshlossen. An Stelle der Punkte 3 und 2 regt Min. Ret. Dr. Fröklich folgende Formuliarung an: Wenn ein Akt der Vollzishung sines fander in den Angelegenbeitet der Artikel 11 und 12 für mehrere Zänder wirkkam werden soll, so haben dis betelligten Zänder zunächst einvurnammlich vorzugehen. falle els sich nicht einigen können, geht die Zuständigkeit zu einem solchen Akt auf Ankrag eines Zandes an das zuxtärdige zundesministerium über. Das Mäßere könnendig nach den</p><p>11<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>4</p><p>Art. 11 und 12 ergahenden Bundesgssatze regelt". Abgeordnster nanneberg bemerkt, dass die neue Formulierung eine meritorische Aenderung zu Ungunsten der Bundexkompetenz bedeute und Abgeordnster Duuer stellt fest, dass die Worte; für mehrere Zänder wirksam werden soll“ dieselben Auslegungeschwierigkeiten bedingen wie die Worte "für mehrere Länder Rechtswirksamksit äussern". Min. Rat Dr. Fröhlich stellt fest, dass sich nach seiner Auffaesung sowie nach der den Experten der Verfassungeausschussen die vorgeschlagene Formulierurg im Rahmen einer textlichen Kenderung halts und dass ei« Immathin eine gewisee Klärung mit sich bringe. Eine völligeinanfreie Fermulierung könne nicht gefunden werden, da die grenzen zwischen dem gebiete der Verwaltungenkte, die für sin anderes Jand wirkeam sind und die es nicht sind, ausserordentlich verschwommen seien. Die von der Staatskanzlei vorgeschlagene Formulierung habe sich insbesondere auf dem gebiets des Kassarrechtes bewährt.. Der Kuaschuss beschlieest im Einne des vm Professer Swip« aufgenommenen Jorechlages der Staatekanzlei. Ueberdier wird einvernehmlich festgestallt, dase die beschlosgene Vormullerung eine Bestimmung im Hebergangsgesetze bedings. zu Punkt 5,der nunmehr die Z. 4 erhält, schlägt Min. Rat Dr. Fröalish vor, zwischen die Forte das Racht zu und die Einhaltung“ die Werte einzuschalten: zur Ermöglichung der Geltendmachung dee Beschwerderechter nach Artikel 153, Abratz 2r, per vorsitzende spricht sich gegen diese Einschaltung aus, da sin das im Punkt 4 fostgesetzte Recht des Bundes in unerwünschter Weise einschränke. Der Ausschuse bsschliesst gegen den eozialdemokratischen Stimman im Sinne das von der Staxtskanzlsi gemachten Vorschängen. Punkt 6 erhält zifier 6. Art. 13a wird in der folgenden von Min. Rat pr. Fr ö ià ch vorgeschlagenen veränderten Fassung zum Beschluss erheben; "(1) nie Länder sind verpflichtst, Massnahmen zu tref-<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>5</p><p>fen, die in ihrem seihständigen Wirkungshurrieh zur Burchführung von Staatsverträgen erforderlich werden; kommt ein Zund dieser verpflichtung nicht rechtzeitig nach, so gcht din Zuständigkeit zu solchen Massnahmen, inshesondere auch zur Erlassung der aotwendigen Gesatzu, auf den Bund über (2) Ebense hat der Bund in Burcnführung von Verträgen mit fremden Staaten das Ueberwachungsrecht auch in solchen Angelegenheiten, die zur selbständigen Wirkungsberzich der Länder gehören. Hiebei steken dem Bunde die gluichen Rechts gegenüber den Zändern zu, wie bei den Angelegsnhsiten der mittalbaren Bundseverwallung (Artikei 52) " Zum 2. Punkt bemerkt Win Rat Dr. pT6hlish, dase die Streichung des Wortes Gebereinkommen" aus dem grunde erwünecht sei, weil der Begriff "Verträgs“ in einem anfassenden, auch alle Hehereinkommen inbeziehenden Sinne verfassungenässig festgelagt werden sollIn Artiksl l4 wird auf Anregung des Win- Rates Fr. Fröhliok die von ihm als überflüssig bezeichnets Exemplifikation "Eigentümer, Unternahmer, Pächter u.e.M" strichen. Eins längere Debatts entspinnt sich über die von Win. Rat Dr. p röhlich angeregte Einschaltung eines 2. Absatzds von folgendem Vorklaut; "Ehanso ist der Bund unbeschadet der den Ländern auf dum Gsbiete dur Gegetagskung und Vollzishung zuelchenden Befugnissa berächtigt, zur Förderung das wirtschaftlichen und kulturellen Lebens auf allen gehisten Unternehmungen und Einrichtungen zu schaffen und zu erhalten, veranstaltungen zu troffen und finanzialla Mittal zür verfügung zu stellen" Min. Rat. Dr. »Föhlich bemerkt hiszu, dass in verschiedenen Zentralstellen Besorzniess entstanden srien, ob die in diesem Artikel vergeeduenen Unternehnungen und veranstaltungen des Bündse in den Zändern, z.B dhs Anhaltung einer Ausstellung und ähnliches, 113<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>6</p><p>mangels einer solchen ausdrücklichen verfaseungemäseigen Lesitimation möglich seien Der Vorsitzende erklärt einen solchen Zusatz, wofern in dieser Richtung Zweifel bestünden, für erwünscht, Professor Dr. Seipelund Dr. Clesein erklären ihn für überflüssig, da sich ein solches Recht des Bundes von selbst verstehe. Die Einschaltung dieses Absatzen wird abgelehnt,zugleich jedoch festgestellt, dass die einvernehmliche Auslegung, die der Ausschuss dem Artikel gegeben habe, im Ausschuse berichte festgehalten werde. Zu Art. 14 a beantragt Professer Dr. S e i pei unter Hinweis auf die Parteiverabredungen Streichung des l. Absatzes. Der Antrag wird abgelehnt, wogegen der Antragsteller Einspruch erhebt. Nach Art. 14 a wird auf Verschlag das Professers Kels en an Stelle des bisherigen Artikels 6d folgender Artikel I4 aa eingeschaltet.„(2) Die gesamte stantliche Verwaltung darf nur auf Grund der Gesetze ausgeübt werden. (2) Jede Verwaltungsbehbras kann im Rahmen der Gesatze innerhalb ihres Wirkungebereiches Verordnungen erlassen.? Im Artikel 1s b werden im 1.Absatze die Warte „vollziehende Gewalt durch das Wort „Vollziehung" ersetzt. Im 2. Abratze wird das Fort „gesante" gestrichen und im 3. Absatze die Horte „nach Maßgabe der Bundesverfassung oder der Landesverfaerungen" durch die Worte, soweit ss die Bundesverfassung oder die Landesverfassis bestimmt," ereetzt. (Im Art. 24« erhält der 1. Satz folgende Formulierung, Unter der Lettung der Volksbeauftragten führen nach den Bestimmungen der Gesetze auf Zeit gewühlte Organe oder ernannte berufsmässige Organe die Bundes- oder die Landesverwaltung." Im Artikel i4d wird das Wort„Organe" an vier Stellen durch das Wort „Angestellten ersetzt. Nach dem 1. Absatz wird folgende Zitierung eingeschaltet:( Artikel 10,Zl.15, und Artikel 12, Z1.8)". Im 3. Absatz treten an Stelle der Worte, „durch die 1.<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>7</p><p>Gesetze über die die Korte, im Zusammenhänge mit der ". Absatz 4 und 6 des Artikels I4 d werden gemäß einer von Win-Rat Dr. Fr SRli ch gegebenen Anregung unter Berücksichtigung einer von Professor Dr. § e 1 p s 1 beantragten Hodifikation in folgender Fassung beschlossens, (d) Die Wöglichkest des Fechsels zwischen den Dienste bein Bunde, den ländern und den Gemeinden bieiht den öffentlichen Angestellten jederzeit gewahrt. Der Dienstrechsel wird in Elnvernehnen der zur Ausübung der DienstLoheit berufenen Stellen vollzogen. Durch Bundesgesetz können besondere Einrichtungen zur Erleichterung des Dienstrechsels geschaffen werden.(5) Antstitel für die Organs des Bundes, der länder und der Gemeinden können durch Jundesgesetz festgesetzt werden. Sie sind gesetzlich geschützt?. Zu den Artikeln I4e und l4 es beantragt Profeeser Dr.3e1 p e I deren vöilige Eliminierung gegen Aufnahme eines Funktes betreffend Polizei und Gendarmerie in den Artikel 10. Der vor si tzends beantragt eins Einschränkung in der Richtungdaß das Vermaltungsgesetz bestinnen werde, wann und unter welchen Bedingungen den Gemeinden Verfügung über die Polizet zustehe. Der Unterausschuss beschließt die Aufnahme eines Punktes mit dem Titel „Bundespolizet und Bundesgendarneris“ in den Artikst 10 sowie die Auknahme der von Vorsilzenden bsan tragten Einschränkung an einer erst zu bestimmenden Stelle. Artiksl 14 f erhält folgende Formulierunge, Ails Organs des Bundes, der Länder und der Gemsinden sind in Rahnen ihres gsbetzwäseigen Wirkungskraises zur wechselseitigen Hiifsletstung verpflichtst?. Zu Art. 24 g werden zunächst auf Anregung des Min.Rates Fröklich sinige stilistische Aenderungen des L.kteatzes beschlossen. Zum zweiten Absatz beantragt Abgserdnster(les s in dis Statuisrung der prinkren Haftung der dort genannten oetordtichen drvorecherion dr als Meceore 11<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>8</p><p>Angestellten und Funktionäre. Der Unterausschues lehnt diesen Antrag ab, beschließt jedoch die Streichung jener Einschränkung ken, wonach der Geschädigte nur dann die öffentlichen Körperschaften haftbar machen kann, wenn er von deren Angestellten und senstigen Funktionären keinen Schadenersatz erlangen kann. Der Artikel 14 g erhält mithin folgende Formulierungs„(1) Alle mit Aufgaben der Bundes-, Landes- oder Gemeindeverwaltung oder der Gerichtsbarkeit betrauten Perennen sind für jeden bei der Ausübung ihrer Tätigkeit durch vorsätzliche oder grobfahrlaseige Rechtsverletzung wem immer zugefügten Schaden haftbar. Der Bund, die Lnder oder die Gemeinden haften für die Rechtsverletzungen der von ihnen bestellten Personen. (2) Dae Rähere regelt ein Bundesgesetz." Das zweite Hauptstück erhält den Titel „Gesetzgebung des Bundes", der erste Abschnitt den Titel „Nationalrat". Im Art. 16 werden die Worte „genetzgebende Gewalt" durch das Wort „Gesetzgebung" ersetzt.-- Prefensor Kelsen macht auf Grund eines vorliegenden wiesenschaftlichen Gutachtens zu demselben Artikel auch noch aufmerkean, daß die Feststeilung, wonach die Gesetzgebung des Bundes vom Nationalrat gemeinsam mit dem Bundesrats augzeüht werde, zu eng sei, da hiebei die Gegetzgebung durch dan Bundesvolk unberücksichtigt bleibe. Der yorsitzende bemerkt hiezu, daß se gar nicht Aufgabe des Art. 15 sei, alle Wegs der Bundesgesetzgebung erschöpfend aufzuzählen. Ein Antrag im Sinne der von Professer Kelsen gege benen Ahregung wird nicht gestellt. Im Art. 18 wird zunächst zwiechen die Korte „gleichen, direkten" im ersten Absatz das Wort „unmittelbaren" eingeschaltet.Der zweite Absatz erhält auf Vorschlag des Profeesore Kels en folgende Formulierung.„(2) Das Bundengebiet wird inner halb der Landesgrenzen in räumlich geschlossene Nahlkreise getellt. Die Zahl der Abgeordneten ist auf die Wahlberechtigten oi-<pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>9</p><p>nes Zatikrelass (Maklkörper( im Terhältnie der Bürgerzahl der Zehlbreist, äste der Zeht der Fundesbärger zu vertellen, die nach dem Ergehriesz der letzten Valkaränlung in den Kahlkreisen ihren ordentliehen Wahnsilz hatten. Eine Eliederung der wählerschaft in andere Wahlkörper ist nicht zulässig.“ Professor K eisen macht zu demseihen Artihel aufmerksam, dass von wlasenschaftIlcher Seite bemerkt wurde, dass die Zahl der Mitglieder des Natibnalrates im Gegansatz zur Zahl der Mitglieder des Bundesrates verfassungsmässig nicht fastgelegt sei. Der Unterausschuss findet diese Anregung in der Erwägung nicht aufzigrelfen, weil eine Kindung der einfachen Gesetzgebung in dieder Richtung nicht erwünscht sei. Der ersts und zweite Absetz des Artikels 23 urhalten 2i same insamen Verschlag des Gegetgebungsdienstes der Staatskanzlal und des Professurs kelsen falgende Fassung! /2/ Die becstzgebanrsperidde des Nationalrates dauert vier Jahre, vom Tage soines ersten Zusaumertrittes an gerechnet, jedenfalls aber bis zu dem Tage, an dem der neue Nationalrat zusammentritt. (2/ Der neugewählte Nationalret ler vam Bundespräsidenten längstens innerhalh 30 Tagen nach der Wahl einzuterufan- Diese Ist von der Bundesregierung ad anzuordnen, dass der neigewählte Natlmalrat am Tage nach dem ablauf des vierten Jahres der Gesstgebungsperlode zusarmentreten kann. zu Artikel 23 beentragt Dr. Danneberg gemäss dem übereinstimmenden Wunsche der gegenwärtigen drei Präsidenren feigende Formülterung des ersten Absatzes: Der Natlonalrat wählt aus setner Mitte den Präsidanten, den zweiten und den dritten Präsidenten." Der Unterausschuss besohl lesst antragsgemäss, Hach Axt. 23 wird auf Beschläss des Ausschasses feigender Art. 23 a eingeschaltet: zu einem Beschluss des Nationalrates ist, abwein in diesem Gesetze nicht anderes bestimmt ist, die Anwesenheit von mindestens einem Dritzel der Mitglieder und ein unbeelagte Kehrheit der abgegedenen sPPforderiien-. 114<pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>10</p><p>Der trefte Absatz des Art. 8t erhalt nach geringflgigen stilistischen Aenderungen folgende Foruulierung, „Die Oeffentlichkeit wird ausgeschloesen, wenn eg vom Vorsitzenden oder einen Fünftel der anwesenden Mitglieder verlangt und vom Nationalrat nach Entfernung der Zuhörer beschlossen wird.“ Der nächste Unterabschnitt erhalt den Pitel, Bundesrat. Der Unterausschues beschließt zunächst, daß die einvernehmlich vom Gesotzgebungedienst der Staatskanzlet und von Professor kelsen fermulierten ersten drei Abeätze die folgende Fassung erhalten. Af In Bundeerat sind die Lnder im Verhaltnie zur Bürgerzahl im Lende genus den folgenden Bestimmungen vertreten. /2/ Für die Vertretung und Stellung in Bundserste gelten Wien und Niederdeterreichuand fartikel 87 A bis Artiksl 87sV7) als selbständige Lander. 13; Das Land mit der größten Bürgerzahl entsandet zuölf, jedes andere land soviele Mitglieder, als den Verhältnie seiner Brgerzahl zur erstangeführten Bürgerzahl entspricht, wobel Reste Über die Hälfte der Verhältaiszahl als voll gelten.Jedem Land gebührt jedoch eine Vertretung von wenigstene drei Mitgliedern. Für jedes Mitglied wird ein Krentemenn bestellt." Professor Kelsen führt des reiteren aus, daß der Entwurf bieher eine Anordnung vermissen lasse. in welcher Form die Zahl der von jedem Land zu entwendenden Bundesratemitglieder fixlert wird. Be wird daher folgender Absatz 4 beantragle, De Zahl dar dennach von jeder Land zu entsendenden Mitglieder sird vor Bundesprasidenten nach jeder allgemeinen Volkszählung festgesetzt." Der Ausschuss beschließt in diesem Sinns. Die Absätze 1 bie8 und 8 den bieherigen Artikel» 20 werden in einen neuen Artiket 20 e vereinigt. In bleberigen Absatz 6 wind das Wort „deleglorter durch das Wort „entsendster? grsatzt. Der Absatz7, wennch die Mitglieder des Bundesrates bei der Lamibung ihres Mandatee an keinen Auftrag gebunden sind, wird en disser Stelle gestrichen. Ueber den L.Absatz des Art. 28a 1.<pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>11</p><p>wird auf Antrag das Professors S eipel getrennt abgestimmt. Die Worta bis",gewählt," werden einstimmig angenommen. Der Zusatz: " jedach muss wenigstens ein Mandat der Partel zufallen, welche die zweithöchste Anzalel ven Sitzen im Landtsge oder, wenn mehrere Parteien die gleiche Anzahl von Sitzen habens die zweithächste zahl von Mählerstimmen bei der letzten Landtagswahl aufweistt gegen die Stimmerier christlichsoelalen Vertrater angenommen. Im Art. 27 werden nach dem Horte Mhänder die Worts rund din Bundeshaugtstadt Wlend gestrichen; ferner entfällt der Zeabsatz in der Erwägung, dass diese Detallbastimming der Geschäftsordnung zu Überlaasen wärs. Dagegen wird auf Vorschlag des ProfessorsFesen folgender 2. Absatz aufgenommen: "Als Vorsizzender fungiert der an erster Stelle entsandete Vertreter des zum Veraitzs berufenen Landes, die Bestellung der Steilverzrater regelt dle Geschäftserdnung des Bundesrates,"Der Absatz wird als Absatz2 in den Artitel 28 verlegt. Art, 28 erhält auf Vorschlag des Praf.Kelsen felgende Fassung: " zu einem Beschluss des Bundesrates ist, soweit In diesem Gesetze nicht anders bestimmt ist, die Anwesenheit von mindestens einem Drittel der Mitglieder und die unbedingte Mehrheit der abgegebenen Stimmen erforderlich."- Infolge der Aufnahme des 4. Absatzes des Art. 2) in den Art. 28 aus sessen 2. Absatz erhält der gegenwärtige 2. Absatz des Art. 28 die Ziffer (3/, Der neue Z. Absatz erhält folgenden Nortlaut? Der Bundesrat gibt sich seine Geschäftsprdnung durch Beschluss, Dieser Beschluss kann nur bei Anwesenheft der Hälfte der Mitgifedes mit einer Lehrheit von zwei Dritteln der abgegehenen Stimmen gefasst werden.e Der folgende Unterabschnitt erhält den Titei Bundesversammlung“- Ruf Auregung des ProfessorsKalsen werden des 2. bis 5. Absatz des Art. 28 a in etwas veränderter Fassung und Rathenfolgs in einen nauen Art. 29 aa zusammengefaest. Der neue Arl ikei 33 aa erhält foigenden Wortlaut? " /1/ Die Bundesversamm1 115<pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>12</p><p>lung wird - abgesehen von den Fälden das Arlikels S2. Absatz 2. des Artikels 53, Absatz 3, und des Artikels 57. Absatz 2 - vom Bundespräsidenten einberufen. Der Vorsitz wird abweckselnd vom Präsidenten das Watlonalrates und vom Vorsitzenden des Bundesratas, das Erste Wal von jenang geführt. /2/ In der Bundesversammlung wird die Geschaftserdnung des Nationalrates sinngewägs angewandet. (3/ Wat ianalrat und Bundesrat können den Gegenstand der Abstimmung vorher auch gesondert beraten. /t) Die Bestimmungen des Artikels z5 gelten auch für die Sitzungen der Kundesversamplung.Van Artlkal 32 erhält der 1. Absatz in folgender Formusl ierung die Ziffer 232: " zu einem Eeschlusse des Nationalrates ist; soheit in diesem Gesetze nicht andereäbestimml ist. die Angesenheit von mindestens einem Drittel der Mitglieder und die unbedingte Mehrzahl der abgegohenen Stimmen erforderlich."Dar Artlkel 32 tritt an Stelle des gegenwärtigen Artkal 31, wobel im 2. Absatz an Stalle der Worte "in diesem Actikalt dns Wort "verfasungsgesatzliche gesetzt wird und im 3. Absatz, 3. Zeilefdie Worte " ein Gesetz überk, in der S.Zeile das Wort "unde gestrichen werden endlich In der G.Zelle an Stelle des und" das Wart Ender" gesetzt wird. Artikel 25 Wirz zum detikal 32, eoben der Antanz z Zeuten iat: srin Grselzesbeschluss des Balimalrates ist vor sehner Beurkendung durch den Dundesprästaenten einer Folksahstiin iming zu unterzichenewenn. Artskel 31, Msatz 3 wird zusammen mit Artlkel 3z. zum neuen artikel 33, wabei der erste aösstz marnehr zi Lautan het: vfif verfassungsgesetze oder in einfachen fesetzen enthaltene Verfassungsbestimmnzen können vom Natisnalrat mur in fürssenheit.. beschlessen werden; sie sind künftlehte als solchs (erfassungsgssetze, Versassungsbestimmunge) ausdrück1irs zu bezesehnent, und. im Z. Ausalz / jetzt frt. 33) statt aestelse aenderunge vreiländerunge; statt sgenüss art 33r zu Ertzen iat: Egemäss Art. 23. 1.<pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>13- Die Artikel 31, 37 und 40 bleiben in Kumerierung und rortlavt unverändert. Art, 41 wird folgendermassen stilistiach neu formul iert: "Bundesgesetze und Sie in Artikel 12 a bezeichneten Staatsverträge werden mit Berufung auf den Geschäuss des Nätionalrates, Bundesgesetze, die auf einer Valksabstimmung beruhen, mit Berufung auf das Erzebnts der Volksekstimming kundgemacht.O Im Artikel 42 werden die Worte" andere Bestimmung getroffen istr durch die Horte ersetzt?anders bestimmt ist?. Nact. Art. 42b wird der hieherige Art. 47 als Artikel 42 bi eingeschaltet, darauf folzt der bisherige Artikel 48 aus Artikal 42 hhh. In art. 42 e bleibt es entzegen der Anregung des Gesetzgehungsdienstes der Staatskanziel sowie des ProfessersKèls e n, 123 Hart tFundesverfassungsgesetzt durch das Wort "Bundesgesetz“ zu ersetzen, bal der ursprünglichen Fassung. Nach Artikel 12 e wird auf anregung des Geselzgehungsdienstes der Staatskanzlel ein neuer Artikel 42 d folgenden Wertlautes eingeschaltet? Eausser den in den Artikeln 42 a bis 12 « und sonst in diesem Gesetze vorgesehenen Fällen der Mitwirkung des Nationalrates und des Bundesrates an der Volizichung das Bundes findet eine selche Mitwirkung des Nationalrates durch den aus seiner Mitta nach dem Grundsatze der Verhältnfswahl gewählten Hauptausschuss stat?. Diesem liegt die Mitwirkung an der Bestellung der Bundesregierung oh (Artikel EO, Absatz 2.( Ausserdem kann durch Bundesgesetze fastgasetzt werden, dass bestimmte Verordnungen der Bundesregierung an das Einvernehmen mit dem Hauptausschusse gebunden sind."Zu Artikel 43. 2. Abeatz »giht Prof. kelsen die Anragung, die Warte "verhaftst odere vor den Worten behördlich verfolgt werden“, aus den Grunde zu streichen, weil die Verhaftung nur eine Farm der hehördlichen Verfoigung sei; der Unterausschwas macht sich jedoch diese Anregung nicht zu elgen. Hingegen werden auf Anregung des Prof. F al s e n im 2. Abselz die 16 116<pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>-34 Wortet während der Gesetzgebungsparfoder gestrichen, das Wort "der Verhaft“ durch des Wort vale Haft“ ersetzt urd nach dem Worte Verfolgung“ das Wort füverheunt eingeschaltet. In Artikel 45, 2. Absatz werden die Werte" und Funktlenärer gestrichen. - Die Einleitung des 3. Absatzes hat zu lauten? "Bewerben sie sich um Mandste im Nationalrat, ... Artikal aE wird zum Artikal 62a: da die Axtikel 47 und 48 Als Ark.42bbU.42 bbo in den Unterabschnitt " verlegt wurden, entfällt auch der Unterabschritt "4Stellung der Fundesregierung im Nationairat, im Bundesrat und in der Bundesversammlung. Das dritta Hauptstück erhält den Titel Vollziehung des Bundes“, sein erster Abschnitt heisst Verwaltung“, der erste Unterabeehnftt Bundespräsfdentr. (Der erste Absrtz des Artikels 48 erhält unter Berücksichtlgung einer Anregung des Prefassore Kelsen auf Antrag des Professers Selpe1 folgende Fassung: "/2/ der Bundespräaldent wird von der Bundesversammlung gemäss Artlkel 2§ « in geheimer Abstimmung gewählt.“ - Die Bestimmng des zwalten Ahsatzss, wonach einmalige Wiederwahl zulässig ist. wird folgendermassen geändert: Eine Niederwahl für die unmittelbar folgende Funktlansperiode ist nur einmal zulässigr.Im drikten Absatz wird das Wort kaktive vor dem Mar? Wahlrecht" gestrlchen. - Im viertan Absatz hat es statt der Worte voder ehemals refterender Husar zu heissen koder solcher Familich, die eiemals regiert habenr. - Der Schlussatz des fünfen Absatzes hat zu luuter: Die Wahlgänge warden solänge wiederuolt, bis slch eine unbodingte Mahrheit für eine Person ergibt." zu ertUed Sd bewerke Professer Ke l s en. dess der Ausdruck Kkörgerschaft“ Juristisch unzutraffend sei. Im Artikel 50 werden demnach dis Worte fesier pelitischen Körperschaft? durch die Warte Erainum allgemeinen Vartretungskärper ersetzt.<pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>15</p><p>Der Schlussatz des Art. 52, zweiter absatz erhält folgende fassung: spricht zich der Hatlonairat dafür aus, hat der Bundeskanzler die Bundesversammlung sofort einzuberufen." In Artikat 53 werden die Herte vin letzterem Falle bis zu der Wahl seines Nachfelgersr gestrichen. Im zweiten Absatz hat ee statt die Keuzahl auszulben und durchzuführen? zu heissen: räie Bunderversammlung zur Wauwahl des Bundespräsidenten einzuberufen.“- Professer kelsen bemerkt zu dtesem Artikel, dass einer der wissanschaftlichem Sutaenter die Anregung gegeben habe, dass Im falle der Vertrelung des Bundespräsidenten durch den Burdeskanzler der Bundeckanrler durck des Vizekanzler zu vertreten gei. Ein Antrag in dieser Richtung Wird jedoch nicht gestellt. Im axt 176i 54, zwalter Absatz, wird der Puakt h folgenderassen formulfertg ddzr Schaffang und Ferieitung von Berufstitelnr. -en der Szitza des Punktesc ist; um (geserelles Amnestien auszuschliminzusehalten, "für Einzelfäller. Weiters werden die Schlussvorts dieses Punktes in folgender Weise enger gefasst r..... und die Filgung vor Verurteflungen im tnadenwege, ferner die Wiederscklagung des strafgtrichtl4- chau Verfahrens hal der ven artswagen zu verfolgenden strafbaser Hartlungen, Artiket 55 ertalt auf anrerung das Kiristerialrates Froehlich folgenden zweiten Absetz. Oer Bungesprast denz kann zum Abschlusse bestimnter Axtegorien von Steatsverträenodie nicht unker die Bestimneng des Artikels a2 a fallen, die Bundesregierung oder die zuständigen Hitglieder dar Bundesregierung ermächtiver.“ 4jedurch sell die bisheriga Beaxis der Regierung“ - und Ressertühereinkammer sanktiontart- und damit zurlsich die inna stastlsche Regelung dieser Unts+1r mst der völkerrechtlichen Frarts in Einkleug gebracht werian. - Er bicherigen Paxt dasselben irtfkals: das sntunche die Ihsstraffterl erhätz, wird das Vort Pressorimissig ge117<pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>-16- strichen. Artikel 57 erhält auf übereinstimmenden Vorschlag des Ministerfstretes Froehlich und des Professors Kels en folgende Fassung: " (1/ Der Bundespräsident ist für die Ausübung seiner Funktionen der Bundesversammlung gemäss Artikel 152 verantwortlich. - (2( zur Geltendmachung dieser Verantwortung ist die Bundesversammlung auf Beschluss des Hationalrates oder des Bundesrates vom Bundeskanzler einzuberufen. (3( zu einem Beschluss, mit welchem eine Anklage im Sinne des Artikels 152 erhoben wird- beäart es der Anwesenheit von mehr als der Hälfte der Mitglieder jedes der beiden Vertretungskörper und einer Kehrheit von zwei Pritteln der abgegebenen Stimmen." Der Eingang des Artikels 58 hot statt Mit der Regierungsgewalt des Bunder“ zu lauten: Mit den obersten Vervaltungsgeschäften das Bundes“. Artikai 59 antzällt an disser Stelle, da er in veränderter Fassung bereits als Artikel 14 aa Aufnahme gefunden hat. Im Arlikel 6d treten an stelle der Absätze 1 bis3 folgende zxel Absätze: "/1/ Die Bunderregierung wird vom Hatienalrat in namentlicher Abstimmung auf einen vom Hauptausschuss zu erstattenden Gesamtverschlag gewählt. - /2/ In die Bundesregierung kann nur gewählt werden, wer zum Nationalrat wählbar Ist; die Mitglieder der Bundesregterung müssen nicht dem Nationelhat angehören. -- Professor Kelsen regt die Streichung des bisherigen 4., nunmehr 3. Absarzes an, da durch den Artikel 61 genügend für die Bildung einer provisorischen Regierung Vorsorge getreffen sei. Prösident se itz spricht sich für die Leibehaltung der Bestimmung aus. Professer selpei ist ebenfalls für die Beibghaltung einer derartigen Best inraung, möchte jedoch dem Erfordernisse einer Neuwahl der Regierung durch den ansammentretenden Nationalrat vor der anderen aöglichkeit einer blossen Vertrauenserteilung an die vam Haupt-<pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>-17- ausschuss besteilte Regierung den Vorzug geben. Der Absatz wird schliesslich in folgender Fassung beschlossen; "/3/ ist der Nationalrat nicht versammelt, so wird die Bundesregierung vorläufig vom Haupteusschüsse bestellt; sobald der Nationalret zusammentritt, hat die Wahl zu erfolgen,“ im Artikei el a werden die Worte "atum desr gestrichenI Artikel 6lh wird auf Anregung des Ministerfalrates kr oehlIch der Ausdruck blaftenden Beamten“ durch höheren Beaniten“ ersetzt. Nach, Artikel 62 ist als neuer Artikti 62 a der bisherige Artikel 46 einzuschalten. Artikel 63 erhält folgenden zweiten Absatz: "/2/ zu einem Beschlüsse, mit welchem eine Anklage gewäss Artikel 152 erhoben wird, bedarf es der Anwesenheft von mehr als der Hälfte der Mitglisder.n Artikel 64 erhält felgenden neuen Ahsatz 3: " Mit der Leftung des Bundeskanzlaramtes lat der Zundeskanzler, mit der Leitung der anderen Bundesministerien je ein Bundesminister betraut. Im bicherigen 3-enunmehr 4. Absatz des Artikels 61 wird ver Bundesminlstert das Wort "übrigen eingeschaltet und das Wort Fführung“ durch das Wort zeitung“ ersetzt. Desgleichen wird im Artikei 66, 1, Absatzedas Wort vührung" durch Leitung ersetzt. Der Schlussatz des 2. Absatzes hat zu lauten: Adie in gleicher Weise wie die Bundesminister bestellt werden und aus dem Anke scheiden“, Der Abschnitt B erhält die Ueberschrift Gerichtshorkeitv. zu Artikel 73 bemerkt Ministeriairet Froch1 i cl, dass nach der gegetwärtige, Formulierung des dritten Absatzes Ausnahmsgerichte nur üner Zivilpersonen und nicht auch über Militärpersonen judizieren können. Der Ausdruck win der Strasprozessordnung“ sei näml ich zu eng und müsse zweckmägs,118<pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/>-18- serweise durch den Ausdruck durch die Gesetze über das Verfahren in Strafsachent ersetzt werden. - Der vjerte Absatz wird gestrichen, um im Hauptstück über die Verfassungsgarantien Aufnahme zufinden. Der erste Absatz des Artikels 76 erhält folgende Farmulierung? "Dle Richter werden, sofern nicht in diesem Gesetz oder in der Gerichtsverfassung anderes bestimmt ist, gemäss dem antrage dsr Bundaeragterung von Bundespräsidenten oder auf Grund seiner Ermächtigung vam zuständigen Bundesminister ernannt; die Bundesregierung oder der Kundesminister hat Besetzungsvorschläge der durch die Gerichtsverfassung hiezu herufenen Sangte stazuholen. Der Elngang des Artikels 78 hat zu leuten: "in der Gerichtsverfassunge. Im Artikel 79 wird der Ausdruck assatlent durch das Wort "Auflebung erastzt. Der Absatz 3 das Artikals bl erhalt folgende neue Fassung: "Im Strafverfehren wegen anderer strafbarer Handiungen nehmen Schöffen an der Rechtssprechung teil, wenn die zu verhängende strafe ein vom Gesefr. zu bestimmendes Mass überschreftet. Artikel62 wird folgendermassen formuliert: robersteInstanz in Zivil - und Strafrechtssachen ist der Oherste Gerichtshaf in Wienr, - abgeordneter 5leas ln heantrag zu liesem Artikei eine angloge Bestiumung zugunsten des Präsidenten des obarsten Gerientshofes, wie sie im irtikei 156 zugunsten des Präsidenten des Verfassungsgerichtshofes enthalten iat. -- Nachdem Professorkelsen bemerkt hat, dass nach den von ihm gemeinsam mit dem sesetzgebungsdienst der Staatskanzlei verfassten Ahänderungsvorschlägen der Artikel 156 gestrichen werden soll, wird der Antrag des Abgebrannten ols s s 1n abgelehnt. professer Kelsan schlägt die Eliminierung des artikeis de vor und bemerkt, daes mehrere der vortlegenden wissenschaftzichen eutachtef feststetden, dass namentlichdem graien<pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/>-23- Absatze des Artikel» e4 eine praktlsche Bedautung mangle. Ministerialrat Froehlich spricht sich für die Beibehaltung dieses Artikels aus, da die blosse Tatsache der Strelchung dieses ichen in der Dezember-Verfassung enthaltenen Artikels zu Missdeutungen Anlass geben könnte. Der Unterausschuss beschliesst den Artikel unverändert zu belassen. Das vierte Hauptstück — Gesetzgebung und Vollziehung der Lander— wird mit dem fünften Hauptstück --»Wiederösterreich unaWien“ —- sowie mit dem sechsten Huaptstück —» gemeinden“ — zu einem gemeinsamen Hauptstück unter dem erstbezeichusten rital vereinigt. Das bieherige vierte Hauptstlick wird zum Unterabschnitt A Allgemeine Bestimmungen“. Der Artikel 85 erhält folgende neue Formullerung: »/1/ Die Gesetzgebung der Länder wird durch die Landtage ausgeübt. Deren Hitglieder werden auf Grund des gleichen, unmit telharen, geheimen und persönlichen VerAAltniswahlrechtes, aller nach den Landtagsnahlordnungen wahlberechtigten männlichen und weiblichen Bundesangehörigen gewählt, die in dem Lande ihren ordentlichen Wohnsitz haben. — /2/ Die Landtagswahlordnungen dürfen die Bedingungen des aktiven und passiven Fahlrachtes nicht enger zlehen, als die Wahlordnung zum Nationalrat. -- (3/ Die wähler üben ihr Hahlrecht in Wahlkreisen aus, von denen jeder ein geschlossenes Gebiet umfassen muss. Die Zahl der Abgenräneten ist auf die Wahlkreise im Verhältnis der Bürgerzahl zu verteilen. Eine Altederung der Wählerschaft in andere Wahlkörzer ist nicht zulässig.“ Die Schlussworte des Artlkels 87 haben zu lauten: rund die Kundmachung durch den Landeshauptmann im Landesgesetzblatte erforderlicht. Im Artikei es wird in der zweiten Zeile das Nort verfolgtert durch der ersetzt; die Horte "der Bundesregierung oderv werden gestrichen. -- Der zweite Absatz dessalbar Artikels erhält folgeude Formalierung? "/2/ Wegen tefährdung von Bundesinteres119<pb facs="#facs_21" n="21" xml:id="img_0021" break="yes"/>-20- sen kann die Zuniseregierung gegen der Gesetzecheschluss sines Landtagna binnen acht Wochen von dem Tagsan dam der däretirsheschäuse beim zuständigen Bundssminister eingelangt ist, sine mit begründung verschenen Einspruch erhehen. In diesem felte darz der besstrasbeschluss nur kandgemacht werden, wann itm der lenstar wfederhelt." Zu Axtikel s bemerkt ProfessorKelsanein wisserschaftlict er Gutachter habe aufmarksem gemacht, dass die Vertreter des aufzalögenden iandtages, da sie bai diesem Beschlusse Partei seien, von der 1berimrung ausgeschlossen sein autlan. Der Unterausachuss beschlfässt dargamäes die anfügung folgenden Schlusssatzas an den Abestz1: An der Abstiemmng dürfan die Vertrater des anfratisenden landtsgas nicht beflnatmeng an Es sit seinnt sich üher die Frage eine Debatte,th die Vartrater des aufzuläsender Lanftages überhaupt an der betreffenden Sttzung des Bundesrates tellzuneher berechtigt sein allen, bezlehurgeweist ob sie bei der Ermittlung des Quorums mitzurechnen seien. Profasser K oisen mackt aufmerksam, dass es im Interesse der betraffenden Landtagamitgileder gelegen sei, sich an der Sitzung nicht zu betelligen. Ein Antrag auf Aufnahme einer einschlägigen 3est Immung in den Arlikel wird Rlch geszellt, a Er zwaiter Ausatz des Artiwels hat es statt nach durchgeführter Wahl“ ainfach zu heissen: FrxEh der. Rehlr Im Artikal 32, Abaatz1, haber die ersten Warte »pie Vollzishung" zu lauten. In viarten Absetz werden nach dem Worte Mandehesplmnaun lie Harte Ver Antritt des Auest eingefügt. Fr: Artikai 32 erhalt der 1. Absatz folgende neue Fari21erung:" Im Bersiche der Länder wird die Vollzichung des Bundes, swett nicht sigene Bundesbehörden bestehen funmittelbars Bundesverwal ung/, durch den Landeshaaplmann und die idum unlggstellten Lendssbswerden ausgeübe (mittelsere Burdeswermaltwe zum zweiten Abestz Äasser der Vorgitzende Gedenken wegen der<pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/>21. tarativen Aufzählung. Es wird der Beschluss gefasst, in die Aufzühlung noch die Punkte: schutz von Warken. Äustern und anderen Wafenbezeichnungen, tachnisches Versicherungswesen, Lydregraphischer oienst, ferner Furdespritzel und Bundesgundarmerie aufzunetmen. Im übrigen wird der Geselzgebungsdienst der Stadtskanzleiermächtigt, die einzelnen Gagenstäade in einer den Kompetenzbest immungen analogen Relhenfolge zu ordnen. -- Im dritten Absatzwerden die Warte die Landesregierung“ durch die Norte "den LonAsshauptmann und die Warta vollzlehende Gewalt“ durch das Wort Volltehung" ersetzt. -- Nach dem vierten Absatz wird folgender fünfter Absatz angefügt: EInwiemelt die Landeshauptmänner über àie Bundespolizei und die Bundesgendarmarle verfügen, wird durch das Im ArtlZel 97. Absstz 1, bezeichnete Bundesgesetz geragelt." Auf Anfegung des Professors sisen erhäll der flnfte Absatz des Artikels s2 die Artiwelnummer "92 ar. in dem neuen Artikel werden die Horte "sind die Landesreglerungen“ durch die Worte ist der Landeshauptmann“ ersetzt. Der Artikel 492 ar, der nunmehr die Ziffer 492 hr erhält, hat folgendermassen zu lauten: "Die Bestimngen des Artikals 92 sind auf Einrichtungen zur Besergung der Im Artikel l4 bezeichneten Geschäfte des Bundes nicht anzuwenden.“ Ir Artikel 93, erster Absatz entfallen die Harte oder sein Stellvertreterr. Der zweite Absatz wird stilistisch folgendermessen neu formultert: Die Mitglieder der Landesregierung sind dem Landtage genärs Artikei 152 verantwortlich.“ -- Auk genrinsame Anregung des Kinisterjalates FrnehI l eh und des Professors Kelsen wird folgender dritdr Ahsalz eingefügt? "zu einem Beschlusse, mit dem eine Anklage Im Sinne des Artikels 152 erheben wird, bedarf es der Angesenheit der Hälfte der Mitglleder." Der erstt Satz das Artikels 94 erhält folgenden neuan wortlaut: " Zur Leitung des gesamten inneren Dienstes des Amt-5 der Landesregterung wird ein rechtskundiger Verwaltungsbeamer als Landesamtsdirektor bestellt." 140<pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"/>22 Im Artikel 87 hat es statt WWirkungskrefsts“ Wirkungsbereiches“ und statt anzuzeigen“ rzur kenntals zu bringen“ zu heissen. zu Artikal 97/1 bemerkt Professor Solpel, dass es eine Inkonsequanz sei, wenn die Kurie Land aus unmittelbaren Wahlen hervorgehe, die Kurie Stadt jedoch vom Winner Jameinderat deleetert werde. Der irtikel wird in folgender neuen Fassung beschlossen: r(1/ Der Londtag von Niederösterreich glielert sich in zwet Kurien. Die eine skurie Land( wird gebildet von den Abgeordneten des Landes ausschliesslich Wien. Die Wahl der anderen Abgeordneten skurie Stadt( wird durch die Verfassung der Bundeshauptstadt Wien geregelt. - /2( Die Zahi der Abgeordneten ist auf die beiden Kurien im Verhältnis der Bürgerzahl zu verteilen. Im Artikel S7(i1 hat es statt "Bloss als gemeinsamer Landtag" richtig zu heissen "als Lundtag von Niederösterreicht. Perner wird das Hart Wirkungskreises durch das Hert EWirkungsbereichesr ersetzt. Der Axtikel 37/7l1. zweiter Absatz, wird in folgender Weise geändert und ergänzt: EIn diesen Angelegenheiten hat für wien der Gemeinderat der Stadt Wien, für Niederösterreich - Land die Kürie Land die Stellung des Landtages. Die Bestimmungen des Artikels 43 gelten sinngemäss auch für die Mitglieder des Wiener Gemeinderates. Im Artikei 97st wird der erste Absatz folgendermassen geändert: rfür beide Landesteile gelten die allgemeinen Bestimmungen dieses Hauptstückes." per Artikel 97/V1, arater Absatze wird gemäss dem Antrage des Dr. Seipel, der zweite Absatz gemäss dem Antrage des Dr. banneberg neu formuliert; der Artikal hat nunmehr folgende fassung: "/1/ Die gumeinsamen Angelegenheiten werden durch eine vom handtage von Niederösterreich aus seiner Kitte nach dem Verhältnisrahlrecht zu wählende Verwaltungskemmissten verwaltst.“ -- /2) Der Bürgermeister der städe Wien und der Landsshauptmann von<pb facs="#facs_24" n="24" xml:id="img_0024" break="yes"/>23 Niederösterreich-Land sohören der Verwalturgskommi-sion in und führen abwechseind den Vorsitz. Auf Anregung des Kinisterialtates Frdehlich und Professer k-l sen wird folgender heuer Artikel 37/411 eingefügt: Ein selbständiges Land Wien kann durch übereinstimmende Gesetze des Wiener Gemeinderates und des Landtages von Niederisterreich Land gebildet werden.“ zum Unterabschhit4 Gemeinden gibt Professer + eis en die Erklärung ab, dass er sowie der Gesetzgebungsdienst der Staatskanzlel sich bei den Abänderungsverschlägen zu diesem abschnitte die grösste Zurückhaltung auferlegen werden, da rechtstechnisch etwa erwünschtenAbänderungen politlsche Kompromisse entgegenstünden. Dr. Danneberg beantragt den über die Gemeinden hantsinden Unterabschnitt zu einem selbständigen sechsten Hauptstück zu machen. Der Antrag wird abgelahnt, sodass es bei der risherigen Eintellung verbleibt. Im Artikel s7e wird die Ziffer5100 aur20.00erhöht. Im Artikel 97e werden die letzten vier sätze des zweiten absatzes unter Berücksichtigung von Ergänzungsvorschlägen der Staatskanziel sowie auf frund eines Antrages des Professors s e ipel auf Umstellung der Sätze folgendermassen formuliert: ble Wahlerdnung kann bestimmen, dass die Wähler ihr Wahirecht in Wahlkreisen ausüben, von denen jeder ein geschlossenes Geblet umfassen mus „ Eine Aljederung der Wählerschaft in andere Mahizörper ist nicht zulässig. für die Wahlen in die Rebietsgemeindevartretungen ist der Gerichtsbezirk k.ahreis: Die Fahi der Abgesrdneten ist auf die Hanlireise im Verhültnis der Bürgerzahl zu verteilen.“ -- Ferner wird folgander dritte Absatz eingefügt: in die Geliatsgemeindavirtretngen sind zur Perzcnen Fähliar, die im Ferelche der Srbietsgemeinde ihren ordentlichen Wehnaitz aben und zur Landtag urhlbar sind.“ 121<pb facs="#facs_25" n="25" xml:id="img_0025" break="yes"/>-24- Das siebente Hauptstück "Rechnungskontrolle des Bundes“ wird zum fünften Hauptstück. In Artikel 99, 4. Absatz,wird der Ausdruck "politischen Körperschaft“ durch den Ausdruck allgemeinen VertretungsKörzer“ ersetzt. Im selben Absatze werden nach dem Worte "BundesFeglerung“ folgende Worte elngefügt: " oder einer Landesreglerung.4 Im Artikel 10d werden die Worte in Bezug auf durch die Worts thineichtlich der ersetzt. Ahnisterialrat Froehlich schlägt vor, folgenden neuen Art. 193 a aufzunehmen: "Durch die Landesverfassungsgesetze können dem Rechnungshafe die Ihm nach diesem Gesetze bezüglich der Gebarung des Bundes zustehenden Funktlonen auch bezüglich der geharung des Landes übertragen werden.“ -Hinisterialrat Fr oehlich bemerkt hiezu, dass durch diese Bestimmung den Ländern die Möglichkeit geboten werden sollsich des Rechnungshofss zur Kontrolle der Landesgebarung zu bedienen, ohne dass selbstverständlich ein Zwang in dieser Einaieht begründet werden soll. Der Vorsitzende und abgeordnete Olessin sprechen sich in Anbetracht des reinfakultat iven Ohrakters dieser Bestimmung für diese Ergänzung ausAbgeordneter Fin k erhebt Bedenken. Der neue Artikel wird zum Beschluss erheben. Der Titel achtes Hauptstückk von den Grund - und Freiheitsrechten wird gestrichen. Hiedurch wird das bisherlge neunte Hauptstück zum sechsten Hauptstück mit dem Untertitel xAarantien der Verfassung und Verwaltung“. Professor Kelsen hebt den prinzipiellen Charakter dieses Hauptstückes für das Wirksamwerden der Verfassung hervor und bemerkt, dass Im Rahmen dieses Hauptslückes ziemlich einschneldende meritorische Aenderungen und rechtstechnische Verbesserungen erforderlich seinn.<pb facs="#facs_26" n="26" xml:id="img_0026" break="yes"/>25- Der Abänderungsvorschlag den Experten und des Eiesetzgabungedienstes der Staatekanzlel geht Lahln, dem Aptikel 138 feigende Fastung zu gebent „(2) Wer durch eine rechtwidrige Entscheidurg oder Verfügung einer Vermaltungsbehörde in seiren Rechten verletzt zu sein behauptet, kann nach Erschäpfung des administratfven Instanzenzuges Beschwerde beim Verwaltungsgerichtskot erheben. (2) Erachtet in den Angelegenheiten der Aptlkel l1 und 12 der zuständige Bundesminister die Interessen des Bundes durch einer rschtenidrige Entscheidung oder Verfügung einer Landenbehörde ver lstzt, ao kann auch er namens des Bunder wegen der Rechtsverletzung belm Verwaltungsgerichtchef Beschwerde erheben. (3) Eine Rechtsver13tzung liage nicht vor, aoweit die Behörde nach den Bsstimmungen des Geastzes zur Entscheidung oder Verfigung nach freism Ermessen befügt war und von diesem Ermessen im Sinns des Gesetzes Gebrauch gemacht hat." Prefessor kelsen bemerkt hiezu, daß in der nöuen Fnesung des Artikals 138 sin Beschwerderecht der Landsersgierung gegen Entscheldungen oder Verfügungen einer Bundesbehörde, wie sie der bieherige Artikel 13d vorgesehen hatte, nicht mehr vorgssahen sei.Dieser Ausschluss der Beschwerderechtes der Landearegierung sei dadurch bedingt, dass anderenfalls den Landesrsglerungen auch die Möglichkeit der Beschwerde gegen Entacheidungen oder Verfägungen offan stünde, die die Bundsentnisterien auf Grund das Rechtamittelzugss von den Landesregierungen zu ihnen in 3-Instanz treffen. Dem Einwande des Vorsitzenden,daß derurtigs Beschwerden soriees von Verraftungsgerichtshof abgerlesse xander Würtan,halt Profsssor kelse n entgegen, daß bei der anscräcklichen Statulsrung der Klagelsgltinatlon,+is als den 1rt.138 zu entnehmen sei, für den Verwaltungsgerichtahss nicht ess wöglichkalt der Abweisung der Beschresde bestehs. Fer Wors ltz « n ds schebt das reitoren dagegen Bedanken, daß dus Beschrirderscht das Bundesninistera zuf die Fllls des Art.21 121<pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/>26. und 12 siagsochränkt sei Profretorkleen erwidert, dass dises -überdiee auch sachlien gerechtfortigte- Einsckrankung als entsprechende Kompenration für den Wegfall des Beschwerderechtss der Landssregierunzanzuschen esi. - Bei der Abetimnung wird der vorgsschlagene naus Text zum Beschluss erhoben u.zw, der einschränkende Paseus in den Angelegenheiten des Art. 11 und 12 gegen die Stimnen der sozialdenokratischch Verireter. Der neus Art. 139, der sich inhaltlich mit dem bieherigen 2. Absalz des Artikals 13d deckt, erhält folgenden Wortlaut: "für Angelegenheiten, in denen die Beechwerde an den Verkaltungsgurichtshof zulässig ist, kann der administrative Inetanzenzug durch Bundes- oder Landsagssetz gemäee den Zuetändigksttehestimnungen der Artikel 1o bis 15 abgekürzt werden?. Zu Art. 140 regt Min. Rat Dr. Fröhlich ganäes einem Wunsche des Staatsamtee für Juetiz an, den 3. Punkt in folgender Weier zu ergänzen: rüber die eine Kollegialbehörde zu entschwiden oder zu verfügen hat, der in erster oder höharer nar Ausschuze beschliasst in diseem Sinns. Instanz wenigstene ein Richter angehört/ Dar t. Punkt (freive Ermeesen) entfällt, da er bareite im Art. 139 Berücksichtigung gefunden kat. - Weitere Wird zu diesem Art. festgestellt, dass bezüglich der Polizeistrafsachtn. für die nunmehr die Zuständigkeit des Verwaltungsgerichtshofse begründet werden soll, »inIsbergangsbestiaurung zu träffen sein wird. Im Art. 145, 3. Absatz, wird folgander Zusatz angefugts neoweit nicht die Erhärds nuch den Bestimmungen der Gerätzue zur entscheidung oder Verfugung nach freiem Kraseeen befügt iets zu Art. 144 macht Sektionsrat Dr. Hannlicher ann Vorschlag, den 3. Asatz auf folgende Weiss zu änderne von den Mitgliedern des Verwallungsgerichtehofee müssen wenigstans sbenso viels die Eignung zum Richteramts haben, als rechts kundige verwaltungsbsamts unter ihnen sind."-Gegen diees Be-<pb facs="#facs_28" n="28" xml:id="img_0028" break="yes"/>27 stlamung wird eingewendet, daß sie Ihren Zuack, die Berufung der entsprochenden Anzahl von Verwaltungsjurieten in den Verwaltungsgerichtahof zu sichern, eigentlich nicht erfülle, da sie die Möglichkeit offen lasse, daß überhaupt keine juristisch gebildeten Richter berufen werden. Professer Kel&amp;an bemerkt, das das bicherige Erfordernie der Qualifikation der Hälfte der Mitglieder zum Richteramte nach einer in PachKraisen verbreiteten Meinung gegenwärtig nicht mehr gerechtfertigt sei,weil die Verwaltungspraxis schon genügend juristisch durchgebildet sei,um eine entsprechende Auslese für den VerWaltungsgerichtehof zu gestatten. Abgeordneter Dr. Clees ia beantragt die Fassunge „wenigstens die Hälfte der Ultglieder müssen Verwaltungebsante sein. Die Händerungsantrage der Stautskanzlei und der Abgeordnsten Elses in werden abgelehnt, es bleibt bei der bisherigen Fassung des
-      </p><div type="article">
-<head>Art. 144.
-      </head>
-<p type="legal_section">art. 148 wird folgendermassen formuliert,Die Verwaltungsgerichtsbarkeit und die Organieation des Verwaltungsgerichtshofes werden durch Bundesgesetz geregelt.“ Zu Art. 147 bis 162 liegen Abänderungeverschläge des Gesetzgebungedienstes der Staatskanzlei und des Experten des Unterausschueses vor. Professor Keleen begründet sie kurz und stellt auf Anfrage fest, daß die Inmundtkt der Volksssauftragten ihrer Anklage vor der Verfesenngegerschtehsfe nicht in Wege stehe; ferner daß die Erhebung der Anklage sowie das Verfahren durch das Gesetz über den Verfasgungsgerichicher gereg lt werden lisse. Die Abänderungevorschlägs werden chns Dohatte genehnigt, sodaß die Art. folgenden Wortlaut erhalten. „Artiksl 147. Der Verfassungegerichtahet erkennt über alle Ansprüche an den Sund, die Länder oder die densinden, die in ordentiichen Rechtswege nicht auszutragen sind. 111<pb facs="#facs_29" n="29" xml:id="img_0029" break="yes"/>28 AFzzkei 248 Der Terfaeaungegsfichtehat erkennt ferner ider Kompelenzkonflikte »a) zwiechen Gerichten und Verwaltungsbrhörden; ) zwischen dem Vermaltungegefichtstaf und den Gerichten, inabesondete auch zulechen dem Verweltungegerichtshef und dem Verfaeaungegerichtshet seltetg of zwischen dan Findern unteretfanser ennie zwixchen einen Land und dem BundA5tZel 145.
-      </p><p type="legal_section"><label>12)</label> Der Verfareengegerichteh erkannt über boestentdrig keft von Verordnurgen einar Eandse- oder Landssbshörsa auf Aitfeg einen Gerichter, anfetne aber eins selche Verozdnung die Verausgetzax eisse Erkerninlenss das Verfargungsgerlchthefes beiden aell, von Antewegen; Aber Gagetzrlärigkeit von Verordnungen einer Landertehürde auch auf Antrag der Bunder reglerneg -hter beseereldriglest ven Farerenungen staar BanEsabehörde auch au Aattag strar Lenersglerutg 1al tar Erkenntaie der Verfarenugsgerleilsesea, als dan die Vererdzung ale gesesenddrie aufgehrben sirs, verpflichtet dea erständige Behörde zuf unverelelletet Fratanshung der Aurzsting; die Aufhstung teitt an Tage der Kandrachung in Erafe. KFEI 62
-      </p>
-<p type="legal_section"><label>(2)</label> Dar Verfaeerhgegetlanlchet erkannt über Verfakanngee224LxkbL vaR LahRGEEBBEEEER Auf KlFR af Lundaereglstrg, shar der Exesungenieftghaft sen Kuntsegersren au! Antre dirsr uiusersglerung, sefern aber ein mlches wrestz die Varsse. estrang sinee Erenpfasse der Verkrenggerleltenses den asfl, ver Aute reger. (2) Der da Kbensze I sradkate Intrar kann jederzeit geetellt werden; er ist von Antragsteller seferr Ent zugzändigen Landrafegierung dder der Fundesgegierung beKanntzngeben. (3) Das Erkenntain dex Verfangungsgerichtshofer, air den ein Gapetz als varfasaungsridfig aufgehoben wird. verpfllehtst den Burfeskanzler oder den zustäniger Landes-<pb facs="#facs_30" n="30" xml:id="img_0030" break="yes"/>-29- nauptmann zur unverzüglichen Kundmachung der Aufhebung: die Aufhebung tritt an Tage der Kundmachung in Kraft, wenn nicht der Verfassungsgerichtshof für das Aussarkrafttreten eine Frix bertiamt. Diese Frist darf sachs Monate nicht überschreiten.
-</p>
-<p type="legal_section"><label>(4)</label> Die Bestimmung des Artikels 79, Absatzl, gilt nicht für die Trüfung der Verfaasungsmässigkeit von Gesetzen durch den Verfassungegerichtehof.
-      </p>
-</div>
-<div type="article">
-<head>Artikel 152.
-      </head>
-<p type="legal_section">Der Verfassungsgerichtehof erkennt über Anfachtungen von Hahlen zum Nationalrate, zum Bundesrate, zu den Landtagen und allen anderen allgemeinen Vertretungskörpern und auf Antrag einen dieser Vertretungskörpor auf Erklärung des Mandatsverlustes eines seiner Mitglieder.
-      </p></div>
-<div type="article">
-<head>Artikel 152.
-      </head>
-<p type="legal_section">(I) Der Verfassungsgerichtshof erkennt über die Aklage, mit der die verfassungsmässige Verantwortlichkeit der obersten Bundes - und Landesorgane für die durch ihre Amtstätigkeit erfolgten schuldhaften Rechtsverletzungen geltand gemacht wird.
-</p><p type="legal_section"><label>(2)</label> Die Anklage kann erheben werdens a) gegen den Bundespräsidenten wegen Verletzung der Bundesverfassungs durch Beschluß der Bundesversammlung; - b) gegen die Mitglieder der Bundesregierurg und die ihnem hinsichtlich der Verantwortlichkeit glsichgestellten Organe wegen Gesetzesverletuung: durch Beschluß das Nationel rates; - e) gegen die Mitglieder einer Landesregierung und die ihnen hinsichtlich der Verantwortlichkeit durch die Lanuezverfag curg gleichgestellten Organe wegen Gesetzesverletaung durch Leschlus des zuständigen Landtagseg - di gegen einen Lendestauntmann wegen Geestzosverletzung sowie wegen Richttsfolgung der Veroränungen oder sonstigen Erordnungen der Bundse in Argelegerkeiten der mittelbaren Bundasverwaltunge durch Beam luß der Bundeggegirrung,- (3) Des verurtellende Erkenntnis des Vrfuerungege 1 124<pb facs="#facs_31" n="31" xml:id="img_0031" break="yes"/>30. richtchofer hat auf verluet des Autse, unter hesondere erschwefenden Umständen auch auf zeitlichen Verluet der politiechen Rechte zu lauten; bei geringfügigen Rechtsverletzungen in den in Absatz 2 unter d. erwanntsu Fällen kann sich der Verfagcungegerichtezof darauf beschränken, fostzustellen, dass eine Rechtsverletzung vorliegt. Artixol 152a. Die Anklage gegen die in Art. 162 bezeichneten Perscuse kann auch wegen etrafgerichtlich zu verfolgender Handlungen erhoben werden, die mit der Amtelätigkeit des Anzuklugenden in Vereindung stehen. In diesem Falls wiri der Verfassungegerichtehof allein zuständige die bai den ordentlichen Strafgerichten etwa beralts anhängige Unterauchung gaht auf ihn über Der Verfassungegsricatehcf kann in solchen Fällen nebst Artikel 152, Abratz 3, auch die stratgssetzlichen Bestinngungen anwenden." pur Art. 153, 1. Ahsatz, wird folgandernaesen formuliert: "(1) Der Verfaesungegerichtshof erkennt über Beschworden wegen verletzung der verfassungsmäetig gewährleisteten Rechte durch die Entscheidung oder Varfügung einer Ierwaltungebeherde nach Erschäpfung des naministrallven Instanzenzugee. - (2) Das stattgabende Erkanntnis des Verlassungegerlehtshafte bewirkt die Aufhebung der verfaesungewidrigen Antscheidung oder Verfügung Die Behörden sind bei der neu zu troffenden Entscheidung oder verfüzung an die Rechtsamschauung des Verfassungegerichtsnofes gebunden" Eins aben gestrichen- Bestimnung wird als folgenahs Art.
-      </p>
-<p type="legal_section"><label>153</label>a eingeschaltet;" Der verfassungsgerichtehof erkennt über verletzungen des Völkerrechtes nach den Bestimmungen eines besondaren Bundesgesetzer." Art. 155 erhält auf Anregung des Profsesers kelsen der es für bedenklich erklärt. ie Arzahl der Mitglieder der<pb facs="#facs_32" n="32" xml:id="img_0032" break="yes"/>31. Verfassungsgerichteshofes bereite verfasgungegesetzlich festzulegen, folgenden Wertlaut: "(1) Der Verfassungsgerichtshof hat seinen sitz in Wien. - (2) Er bsstcht aus einem Präsidenten, einem Vizeprasidenten, ferner der erforderlichen Anzahl von Mitgliedern und Ersatzmitgliodern - (3) Der Präsident, der Vizepräeident sowi- die Hälfte der Witglieder und Ersatzmitglieder werden vem Nationalrats, die andere Hälfte der Mitglieder und Ersatzmitglieder vom Bundesrat auf Lebeurdauer gewählt." - Der Vorsitzende stellt in dieeem Zusammenhang zur Diekuesion, ob es nicht zweckmässig wäre, die Mitglieder des Verfassungsgerichtshofse nach dem Verhältniewahlrecht entsprachend der Stärke der Parteien zu beetellen, ferner chnicht für eins Anzahl der Mitglieder die Eignung zum Richturamte gefordert werden sollte, ProfessorKolesn schlägt demgegenüber vor, beim gegenwärtigen Rechtezustande zu beharren, der sich bewährt habe. Ein Antrag wird nicht geetellt. Art. 156 wird ggetrichen. ner gesstzgebungedienst der Staatekanzlei schlägt folgenden Wortlaut des "7. Hauptetückse. Schluesvsstimmungen“ vor-
-      </p>
-</div>
-<div type="article">
-<head>Artikel 158.
-      </head>
-<p type="legal_section"><label>(1)</label> Äusesr dissem gsestzs sind im Sinne der Artikele 31, Abs- 2 Verfaesungegesetze. StaatsgrundgsRutz vom 2l. Brzuuber
-      </p><p type="legal_section"><label>1867</label>, R.G.Bl.Nr. 142, über die allgemeinen Rechte der Siaatzbürgir für die im Reicherate vertretenen Känigraichs und Länder, -Greatz vom 27. Oktcber 1862, R.G.Bl. Hr. 37, zum Schutze der Erreönlicher Präinsitz - Gesutz vom 27. Oktober 1862, R.G.P1 Nr. Ss, zum Schulze des Hausrechtss; Beschluse der provieoriechen Nationalvarsammlung van 30. Oktober 191S, St.G.Bl.Nr.3; - Gesetz vom 3. April 1919, St.G.Bl.Nr. 203, betreffend die Lundeeverweisund und die Uebernahme des Vermögens des Hauses Haheburg-zothgen; - Gsestz vom 3. April 1919, st.G.Bl. Hr. Zi1, über die Aufhebung des Adele, der weltlichen Ritter- und Demenorden und gewieser Titel und würden. - (2) Verfaszungsherlimmungen im Sinne 125<pb facs="#facs_33" n="33" xml:id="img_0033" break="yes"/>-32- den Artikels 33, Absatz d Kind, Abschnitt Vdes IIl teiles den Staatsvertrages von St. Germain vom 10. September 1919,St.C. Bl. Nr. 302; Poragraph 21, Abr.2, des Geretzes vom 10. Juni 1920, St.G.Bl„Nr. 250, über das Zollrecht und das Zellverfahren (Zollgssetz). ArtIhel 150. Der Vebergang zu der durch diesen Fesetz eingeführeen hundesstantlichen Verfassung wird durch ein eigenes, zugleich mit dienem Geaste in Krafl tretendes Verfessungsgegetz geregelt. Auf die Abänderung das eben erwähnten Verfassungsgeselzen ale Anstimmungen des Ark. finden mit Ausnahme der 85.
-      </p>
-<p type="legal_section"><label>33</label>, Ahs- 2 keine Anwendung. Artikel 16B.
-      </p>
-<p type="legal_section"><label>(1)</label> Dieses Gesetz tritt am Tage des ersten Zusammentretens des Fatiansientes in kraft, aewell nicht durch das im Art.
-      </p>
-<p type="legal_section"><label>153</label> bezeicknete Gesetz Ausnehmen festgesetzt werden, - (2) BiBestinnungen des Art.42, Abe.l, und des Art.35, Abs.2, treten jedoch am Tage der Kundmachang in Kraft, wabei bit zum Inkrafttreten der anderen Bestimmungen dieses Gesetzes dan dem Ratierdirrte zustehende benchmigungsracht wan der Natlanstversammlung ausgrübt wird.
-      </p>
-</div>
-<div type="article">
-<head>Artikel 261.
-      </head>
-<p type="legal_section">Mit dem Vollange diesta baaktzes iat die Staateregierung Betrauz,4 Eil dam ir Art.15ß enthadinnen Krtälag bemerkt Prafarser Ke ls e n, daß das Stantsgrundgesetz vem 21.Dezembar 1657, K.GeEl.Nr. 242, im Art. 20 die Suapenaien von Grundrachten versehe und das bei Rezeptien des vollen Faxtes der Stastsgrunngtsetzes auch dan gegenwärtige Ganatz über den Ausnahmezuztwi vom 5. Mai 1880,R.O.El.Nr. 66, rezipiert sel. Es wird demnach dem Art. 158 falgender 3.Atsrtz angefügts„Artikel 20 das Ersetzes vom Ll,Mxmber 167,F. G.Bl. Fr. 142, sowte das auf prund dieres Ariftels erlaesene Sraete vor 5.4st<pb facs="#facs_34" n="34" xml:id="img_0034" break="yes"/>33
-      </p><p type="legal_section"><label>1569</label>, R. G. Bl. Nr. 66, treten aueser kraft." par voreitzunde stellt die frags, ch fürten im Hatalog derruzidierten Verfaesungegsautze ausgescaloesen anien Win- Rat Dr. Fröhlich übernimmt -e, das Verzeichnis nochmals zu sichten und allfällige Streichungen und Ergänzungen in der Sitzung der Verfaerungeaueschusset anzurugen. Der vorsitzende eröffnet sodann dis behatte über die vorläufig noch offen gebliebenen Kompetenzbestimmungen und erteilt dem Profsssor s» ipe1 das Wort. Dr. seipel referiert über den Punkt Elektrizitäteweren und bemarkt, dem Kompromisse zwischen den Partsien entepreche es in grossen Zügen, dass die technische Seits des Flektrizitätswegens im Art. 10, dis wirtschaftlichs Seite im Art. 12 behandelt werde, Profsesor pr. Se ip«l kritisiert unter di esem gsrichtspunkts die von Mine Rat Gärt n er in der Sitzung vom 22. September 1920 vorgetragenen Vorechläge, die auch auf wirtschaftlichem gebiete auf eine Zentralleierung der Elektrizitätewesens hinausliefen. seine Partei könne nur zugestehen, dass die Hormalieierung und Typleierung elsktriecher Anlagen und Einrichtungen, ferner Sicherheitemaesnahmen nach Art. 10 behandelt werdeng die übrigen Angelegenheiten des Elektrizitätewesens müseen unter Art. 12 fallen. Der y orsi t2«n de hält dem entgegen, dass jedenfalls auch das Elektrizitätewegsrecht, die Begründung von Zwangsbenützungerechten, die Maeeregaln für die techniech zweckmäseige Mutzbarmachung der Wasserkräfts, endlich die Bahnkraftwerke nach Gssetzebing und Vollziehung dem Bunde vorbehalten werden. müesten; insbssondere sei es ein um rträglicher Gedanke, dass die Flektrifizierung der Bahnen vom guten Willen der zänder abhängen solls. Der voreitsen de stellt auch feet, dass 124<pb facs="#facs_35" n="35" xml:id="img_0035" break="yes"/>10/101- 110 33- dar Entwurf des Herrn Staatssekretäre Way + im Punkte Elektrizitätswegen den gesantelaatlichen Erfordernissen besser Rechnung getragen habs, als die nunmehr vorliegenden Vorschläge der christlichsozialen Partal. Professor seipe1 bemerkt demgsgenüher inchesondere, dass nach den ihm von technjecher seite erteilter Informationen eine reinliche Scheidung zwischen Bahnkraftwerken und anderen Kraftwerken nicht vorgenommen werden känne und dass mithin die Enanspruchnahme einer Kompetang des Bundes für Bahnkraftwerks nur ein Imweg sei, um sr ziemlich alle Fragen des Flektrizitätswesens für den Bund in Anspruck zu nehmen. Für den Elektrizitätebsdarf der Zahnen müsse eben im Vereinharungewegs Vorsorge getroffen. werden per Experte Win Rat Gärtner vertritt in längeren Ausfährungen vom tschnischen Standpunkte seins, übsr di? ven chrietlichsozialer seits dem Bunde eingeräumten Matarian hinausgehenden Vorschlägs, und glaubt als technische windesterfordernices inhseondara das gtärkstramwegeracht nicht weniger als die Normalieierung und Typleierung elaktri scher Anlagen, ferner die Bahnkraftwerke in Anspruch nehmen zu eollen. Zur prare der Bahnkraftwarke bemerkt er, das Gebist der slektrischen zugeförderung und ihre Erfordernisse seien hauts so geklärt, dase eine hexondere Reachtung der Bahnkraftwerke bei Aufrechterhaltung aller anderen Interaeeer möglich sei. Fragen de Balmverkahres seien allgemeiner Natur und beträfen das Bunderganze Nach längerer Wechaelrede wird festgestellt, dase nicht bloss über der Flektrizitätswesen und Wagserrecht, sondern auch übzr da- Schulwesen, das gesundheftzwesen, die Bodenreform und ans stratsbürgerrecht eine Einigung noch nicht erzizft und dast die Klärung lieger fragen besonderen neverlichen ParteiEnvereinbärungen varzubehalten esi. ner vorsitzende schlivast mit dieser reststellung um
-      </p>
-<p type="legal_section"><label>7</label> Ihr abende die heutige Sitzung und damit zugleich die 3itzun an des Interautschusese.</p>
-</div>
-</div></body>
+        <body>
+            <div type="main">
+                <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+                <head>Protokoll der 18. Sitzung des Unterausschusses des Verfassungsausschusses vom 23.
+                    September 1920.</head>
+                <p>Beginn: 10 1/4 Uhr Vormittags.</p>
+                <p>Anwesend:</p>
+                <list>
+                    <item>Dr. Otto Bauer als Vorsitzender,</item>
+                    <item>Dr. Josef Aigner,</item>
+                    <item>Dr. Heinrich Clessin,</item>
+                    <item>Dr. Robert Danneberg,</item>
+                    <item>Jodok Fink,</item>
+                    <item>Prof. Dr. Ignaz Seipel.</item>
+                </list>
+                <list>
+                    <item>Präsident Karl Seitz,</item>
+                    <item>Staatssekretär Prof. Dr. Michael Mayr.</item>
+                </list>
+                <p>Von der Staatskanzlei:</p>
+                <list>
+                    <item>Ministerialrat Dr. Geord Fröhlich,</item>
+                    <item>Sektionsrat Dr. Egbert Mannlicher,</item>
+                    <item>Min.Vizesekretär Dr. Adolf Merkl als Schriftführer.</item>
+                </list>
+                <list>
+                    <item>Universitätsprofessor Dr. Hans Kelsen als Experte des
+                        Verfassungsausschusses.</item>
+                </list>
+                <list>
+                    <item>Min. Rat Ing. Emil Gärtnerer vom WEWA als Sachverständiger zu den
+                        VErhandlungen über das Elektrizitätswesen.</item>
+                </list>
+                <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw type="pageNum"
+                    >2</fw>Der Unterausschuß setzt die technische Lesung des Entwurfes, beginnend
+                    vom Art. 11 fort:</p>
+                <p>Auf Anregung des Min. Rat. Dr. Froehlich wird beschlossen, den Punkt 1 des
+                    Absatzes 1 folgendermaßen zu formulieren: „berufliche Vertretungen, soweit sie
+                    nicht unter den Artikel 10 fallen“ Zu Punkt 5 desselben Absatzes wird auf
+                    Anregung des Min. Rat. Dr. Froehlich beschlossen die Worte „betriebstechnische
+                    Vorschriften beim“ in der Erwägung zu streichen, daß dieser Zusatz überflüssig
+                    ist und nur zu Auslegungsschwierigkeiten führen könnte. Zu demselben Punkte
+                    macht der Vorsitzende aufmerksam, daß das Waffenwesen aus demselben Grunde wie
+                    militärische Angelegenheiten in den Art. 10 gehören würde, da die Bedingungen
+                    der Verleihung von Waffenpässen usw. für das ganze Staatsgebiet einheitlich sein
+                    sollten. Abgeordneter Dr. Clessin bemerkt, daß die erforderliche Einheitlichkeit
+                    auch durch eine detaillierte Gesetzgebung des Bundes auf diesem Gebiete
+                    sichergestellt sein könnte. Der Unterausschuß lehnt den sozialdemokratischen
+                    Antrag auf Verlegung des Waffenwesens in den Artikel 10 ab. Die Punkte 6 und 7
+                    werden offen gelassen, um zuerst in den in Aussicht genommenen
+                    Parteibesprechungen bereinigt zu werden. Der Punkt 8 erhält folgende
+                    Formulierung: „Verwaltungs- und Verwaltungsstrafverfahren einschließlich der
+                    Zwangsvollstreckung sowie die allgemeinen Bestimmungen des
+                    Verwaltungsstrafrechtes auch in Angelegenheiten, in denen die Gesetzgebung den
+                    Ländern zusteht“.</p>
+                <p>Auf Anregung des Min. Rat. Dr. Froehlich beschließt der Unterausschuß den Eingang
+                    folgendermaßen zu formulieren: Bundessache ist die Gesetzgebung über die
+                    Grundsätze, Landessache ...“ Der Punkt „Wasserrecht“ der die Ziffer 6 a erhalten
+                    soll, wird gleichfalls den Parteibesprechungen vorbehalten. Zu Punkt 7 wird die
+                    einfache For<pb facs="#facs_4" n="4" xml:id="img_0004" break="no"/><fw
+                        type="pageNum">3</fw>mulierung „Bauwesen“ zum Beschluß erhoben. Im Punkt 8
+                    wird auf Beschluß des Ausschusses das Wort „Organe“ durch „Angestellten“
+                    ersetzt.</p>
+                <p>Im Art. 13 wird das erste Wort „Wenn“ durch „Soweit“ ersetzt und in der letzten
+                    Zeile des 1. Absatzes vor dem Wort „Wirkungsbereiche“ das Wort „selbständigen“
+                    eingeschaltet. Im 2. Punkt treten folgende stilistische Änderungen ein: Der
+                    Eingang hat zu lauten: „Soweit dem Bund bloß die Gesetzgebung über die
+                    Grundsätze vorbehalten “ der 2. und 3. Satz erhalten auf Anregung des Min. Rates
+                    Dr. Froehlich folgenden Wortlaut: „Das Bundesgesetz kann für die Erlassung der
+                    Ausführungsgesetze eine Frist bestimmen, die ohne Zustimmung des Bundesrates
+                    nicht kürzer als sechs Monate und nicht länger als ein Jahr sein darf. Wird
+                    diese Frist von einem Lande nicht eingehalten, so geht die Zuständigkeit zur
+                    Erlassung des Ausführungsgesetzes für dieses Land auf den Bund über“ 330) Min.
+                    Rat-Dr. Froehlich regt an, dem Punkte noch folgenden Satz anzufügen: „Sobald das
+                    Land das Ausführungsgesetz erlassen hat, tritt das Ausführungsgesetz des Bundes
+                    außer Kraft.“ Der Vorsitzende äußert gegen die Anfügung dieses Satzes Bedenken.
+                    Professor Seipel erinnert daran, daß die St. K. aufgefordert worden sei, eine
+                    Formulierung zu finden, wodurch ein Schutz gegen die Obstruierung der
+                    Ausführungsgesetzgebung der Länder geboten werde, und bemerkt, daß er in dem
+                    vorgeschlagenen Zusatz diesen Schutz erblicke. Der Zusatz wird beschlos329)
+                    Siehe S. 384. 330) Art. 15 Abs. 6 B.-VG. 476 Protokolle des Unterausschusses
+                    sen. An Stelle der Punkte 3 und 4 regt Min. Rat Dr. Froehlich folgende
+                    Formulierung an: „Wenn ein Akt der Vollziehung eines Landes in den
+                    Angelegenheiten der Artikel 11 und 12 für mehrere Länder wirksam werden soll, so
+                    haben die beteiligten Länder zunächst einvernehmlich vorzugehen. Falls sie sich
+                    nicht einigen können, geht die Zuständigkeit zu einem solchen Akt auf Antrag
+                    eines Landes an das zuständige Bundesministerium über. Das Nähere können die
+                    nach den<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><fw
+                        type="pageNum">4</fw> Art. 11 und 12 ergehenden Bundesgesetze regeln.“
+                    Abgeordneter Dr. Danneberg bemerkt, daß die neue Formulierung eine meritorische
+                    Änderung zu Ungunsten der Bundeskompetenz bedeute und Abgeordneter Bauer stellt
+                    fest, daß die Worte „für mehrere Länder wirksam werden soll“ dieselben
+                    Auslegungsschwierigkeiten bedingen wie die Worte „für mehrere Länder
+                    Rechtswirksamkeit äußern“. Min. Rat Dr. Froehlich stellt fest, daß sich nach
+                    seiner Auffassung sowie nach der des Experten des Verfassungsausschusses die
+                    vorgeschlagene Formulierung im Rahmen einer textlichen Änderung halte und daß
+                    sie immerhin eine gewisse Klärung mit sich bringe. Eine völlig einwandfreie
+                    Formulierung könne nicht gefunden werden, da die Grenzen zwischen dem Gebiete
+                    der Verwaltungsakte, die für ein anderes Land wirksam sind und die es nicht
+                    sind, außerordentlich verschwommen seien. Die von der Staatskanzlei
+                    vorgeschlagene Formulierung habe sich insbesondere auf dem Gebiete des
+                    Wasserrechtes bewährt. Der Ausschuß beschließt im Sinne des von Professor Seipel
+                    aufgenommenen Vorschlages der Staatskanzlei. Überdies wird einvernehmlich
+                    festgestellt, daß die beschlossene Formulierung eine Bestimmung im
+                    Übergangsgesetze bedinge. Zu Punkt 5, der nunmehr die Z. 4 erhält, schlägt Min.
+                    Rat Dr. Froehlich vor, zwischen die Worte „das Recht zu“ und „die Einhaltung“
+                    die Worte einzuschalten: „zur Ermöglichung der Geltendmachung des
+                    Beschwerderechtes nach Artikel 138, Absatz 2“. Der Vorsitzende spricht sich
+                    gegen diese Einschaltung aus, da sie das im Punkt 4 festgesetzte Recht des
+                    Bundes in unerwünschter Weise einschränke. Der Ausschuß beschließt gegen die
+                    sozialdemokratischen Stimmen im Sinne des von der Staatskanzlei gemachten
+                    Vorschlages, Punkt 6 erhält Ziffer 5.</p>
+                <p>Art. 13 a wird in der folgenden von Min. Rat. Dr. Froehlich vorgeschlagen
+                    veränderten Fassung zum Beschluß erhoben: „(1) Die Länder sind verpflichtet,
+                    Maßnahmen zu tref<pb facs="#facs_6" n="6" xml:id="img_0006" break="no"/><fw
+                        type="pageNum">5</fw>fen, die in ihrem selbständigen Wirkungsbereich zur
+                    Durchführung von Staatsverträgen erforderlich werden; kommt ein Land dieser
+                    Verpflichtung nicht rechtzeitig nach, so geht die Zuständigkeit zu solchen
+                    Maßnahmen, insbesondere auch zur Erlassung der notwendigen Gesetze, auf den Bund
+                    über. Ebenso hat der Bund in Durchführung von Verträgen mit fremden Staaten das
+                    Überwachungsrecht auch in solchen Angelegenheiten, die zum selbständigen
+                    Wirkungsbereich der Länder gehören. Hiebei stehen dem Bunde die gleichen Rechte
+                    gegenüber den Ländern zu, wie bei den Angelegenheiten der mittelbaren
+                    Bundesverwaltung (Artikel 92)“ Zum 2. Punkt bemerkt Min. Rat Dr. Froehlich, daß
+                    die Streichung des Wortes „Übereinkommen“ aus dem Grunde erwünscht sei, weil der
+                    Begriff „Verträge“ in einem umfassenden, auch alle Übereinkommen einbeziehenden
+                    Sinne verfassungsmäßig festgelegt werden sollte.</p>
+                <p>Im Artikel 14 wird auf Anregung des Min. Rates Dr. Froehlich die von ihm als
+                    überflüssig bezeichnete Exemplifikation „Eigentümer, Unternehmer, Pächter usw.“
+                    gestrichen. Eine längere Debatte entspinnt sich über die von Min. Rat Dr.
+                    Froehlich angeregte Einschaltung eines 2. Absatzes von folgendem Wortlaut:
+                    „Ebenso ist der Bund unbeschadet der den Ländern auf dem Gebiete der
+                    Gesetzgebung und Vollziehung zustehenden Befugnisse berechtigt, zur Förderung
+                    des wirtschaftlichen und kulturellen Lebens auf allen Gebieten Unternehmungen
+                    und Einrichtungen zu schaffen und zu erhalten, Veranstaltungen zu treffen und
+                    finanzielle Mittel zur Verfügung zu stellen.“ Min. Rat. Dr. Froehlich bemerkt
+                    hiezu, daß in verschiedenen Zentralstellen Besorgnisse entstanden seien, ob die
+                    in diesem Artikel vorgesehenen Unternehmungen und Veranstaltungen des Bundes in
+                    den Ländern, z. B. die Abhaltung einer Ausstellung und ähnliches <pb
+                        facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum"
+                        >6</fw> mangels einer solchen ausdrücklichen verfassungsmäßigen Legitimation
+                    möglich seien. Der Vorsitzende erklärt einen solchen Zusatz, wofern in dieser
+                    Richtung Zweifel bestünden, für erwünscht, Professor Dr. Seipel und Dr. Clessin
+                    erklären ihn für überflüssig, da sich ein solches Recht des Bundes von selbst
+                    verstehe. Die Einschaltung dieses Absatzes wird abgelehnt, zugleich jedoch
+                    festgestellt, daß die einvernehmliche Auslegung, die der Ausschuß dem Artikel
+                    gegeben habe, im Ausschußberichte festgehalten werde. Zu Art. 14 a beantragt
+                    Professor Dr. Seipel unter Hinweis auf die Parteiverabredungen Streichung des 1.
+                    Absatzes. Der Antrag wird abgelehnt, wogegen der Antragsteller Einspruch
+                    erhebt.</p>
+                <p>Nach Art. 14 a wird auf Vorschlag des Professors Kelsen an Stelle des bisherigen
+                    Artikels 59 folgender Artikel 14 aa eingeschaltet: (1) Die gesamte staatliche
+                    Verwaltung darf nur auf Grund der Gesetze ausgeübt werden. (2) Jede
+                    Verwaltungsbehörde kann im Rahmen der Gesetze innerhalb ihres Wirkungsbereiches
+                    Verordnungen erlassen“.</p>
+                <p>Im Artikel 14 b werden im 1. Absatz die Worte „vollziehende Gewalt“ durch das
+                    Wort „Vollziehung“ ersetzt. Im 2. Absatz wird das Wort „gegestrichen und im 3.
+                    Absatze die Worte „nach Maßgabe der Bundesverfassung oder der
+                    Landesverfassungen“ durch die Worte „soweit es die Bundesverfassung oder die
+                    Landesverfassung bestimmt“, ersetzt.</p>
+                <p>Im Art. 14 c erhält der 1. Satz folgende Formulierung: „Unter der Leitung der
+                    Volksbeauftragten führen nach den Bestimmungen der Gesetze auf Zeit gewählte
+                    Organe oder ernannte berufs335) mäßige Organe die Bundes- oder die
+                    Landesverwaltung."</p>
+                <p>Im Artikel 14 d wird das Wort „Organe“ an vier Stellen durch das Wort
+                    „Angestellten“ ersetzt. Nach dem 1. Absatz wird folgende Zitierung
+                    eingeschaltet: (Artikel 10, Z. 15 und Artikel 12, Z. 8). „Im 3. Absatz treten an
+                    Stelle der Worte: „durch die <pb facs="#facs_8" n="8" xml:id="img_0008"
+                        break="yes"/><fw type="pageNum">7</fw> Gesetze über die“ die Worte „im
+                    Zusammenhang mit der“. Absatz 4 und 5 des Artikels 14 d werden gemäß einer von
+                    Min.-Rat Dr. Froehlich gegebenen Anregung unter Berücksichtigung einer von
+                    Professor Dr. Seipel beantragten Modifikation in folgender Fassung beschlossen:
+                    „(4) Die Möglichkeit des Wechsels zwischen dem Dienste beim Bunde, den Ländern
+                    und den Gemeinden bleibt den öffentlichen Angestellten jederzeit gewahrt. Der
+                    Dienstwechsel wird im Einvernehmen der zur Ausübung der Diensthoheit berufenen
+                    Stellen vollzogen. Durch Bundesgesetz können besondere Einrichtungen zur
+                    Erleichterung des Dienstwechsels geschaffen werden. (5) Amtstitel für die Organe
+                    des Bundes, der Länder und der Gemeinden können durch Bundesgesetz festgesetzt
+                    werden. Sie sind gesetzlich geschützt“.</p>
+                <p>Zu den Artikeln 14 e und 14 ee beantragt Professor Dr. Seipel deren völlige
+                    Eliminierung gegen Aufnahme eines Punktes betreffend Polizei und Gendarmerie in
+                    den Artikeln 10 337). Der Vorsitzende beantragt eine Einschränkung in der
+                    Richtung, daß das Verwaltungsgesetz bestimmen werde, wann und unter welchen
+                    Bedingungen den Gemeinden Verfügung über die Polizei zustehe. Der Unterausschuß
+                    beschließt die Aufnahme eines Punktes mit dem Titel „Bundespolizei und
+                    Bundesgendarmerie“ in den Artikel 10 sowie die Aufnahme der vom Vorsitzenden
+                    beantragten Einschränkung an einer erst zu bestimmenden Stelle.</p>
+                <p>Artikel 14 f erhält folgende Formulierung: „Alle Organe des Bundes, der Länder
+                    und der Gemeinden sind in Rahmen ihres gesetzmäßigen Wirkungskreises zur
+                    wechselseitigen Hilfeleistung verpflichtet“.</p>
+                <p>Zu Artikel 14 g werden zunächst auf Anregung des Min.Rates Froehlich einige
+                    stilistische Änderungen des 1. Absatzes beschlossen. Zum zweiten Absatz
+                    beantragt Abgeordneter Clessin die Statuierung der primären Haftung der dort
+                    genannten öffentlichen Körperschaften für die Rechtsverletzungen ihrer<pb
+                        facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><fw type="pageNum"
+                        >8</fw> Angestellten und Funktionäre. Der Unterausschuß lehnt diesen Antrag
+                    ab, beschließt jedoch die Streichung jener Einschränkungen, wonach der
+                    Geschädigte nur dann die öffentlichen Körperschaften haftbar machen kann, wenn
+                    er von deren Angestellten und sonstigen Funktionären keinen Schadenersatz
+                    erlangen kann. Der Artikel 14 g erhält mithin folgende Formulierung: „(1) Alle
+                    mit Aufgaben der Bundes-, Landes- oder Gemeindeverwaltung oder der
+                    Gerichtsbarkeit betrauten Personen sind für jeden bei der Ausübung ihrer
+                    Tätigkeit durch vorsätzliche oder grobfahrlässige Rechtsverletzung wem immer
+                    zugefügten Schaden haftbar. Der Bund, die Länder oder die Gemeinden haften für
+                    die Rechtsverletzungen der von ihnen bestellten Personen. (2) Das Nähere regelt
+                    ein Bundesgesetz“.</p>
+                <p/>
+                <p>Das zweite Hauptstück erhält den Titel: „Gesetzgebung des Bundes der erste
+                    Abschnitt den Titel: „Nationalrat“. Im Art. 15 340) werden die Worte
+                    „gesetzgebende Gewalt“ durch das Wort „Gesetzgebung“ ersetzt. — Professor Kelsen
+                    macht auf Grund eines vorliegenden wissenschaftlichen Gutachtens zu demselben
+                    Artikel auch noch aufmerksam, daß die Feststellung, wonach die Gesetzgebung des
+                    Bundes vom Nationalrat gemeinsam mit dem Bundesrat ausgeübt werde, zu eng sei,
+                    da hiebei die Gesetzgebung durch das Bundesvolk unberücksichtigt bleibe. Der
+                    Vorsitzende bemerkt hiezu, daß es gar nicht Aufgabe des Art. 15 sei, alle Wege
+                    der Bundesgesetzgebung erschöpfend aufzuzählen. Ein Antrag im Sinne der von
+                    Professor Kelsen gegebenen Anregung wird nicht gestellt.</p>
+                <p>Im Art. 19 wird zunächst zwischen die Worte „gleichen, direkten“ im ersten Absatz
+                    das Wort „unmittelbaren“ eingeschaltet. Der zweite Absatz erhält auf Vorschlag
+                    des Professors Kelsen folgende Formulierung: „(2) Das Bundesgebiet wird
+                    innerhalb der Landesgrenzen in räumlich geschlossene Wahlkreise geteilt. Die
+                    Zahl der Abgeordneten ist auf die Wahlberechtigten ei<pb facs="#facs_10" n="10"
+                        xml:id="img_0010" break="no"/><fw type="pageNum">9</fw>nes Wahlkreises
+                    (Wahlkörper) im Verhältnis der Bürgerzahl der Wahlkreise, d. i. der Zahl der
+                    Bundesbürger zu verteilen, die nach dem Ergebnis der letzten Volkszählung in den
+                    Wahlkreisen ihren ordentlichen Wohnsitz hatten. Eine Gliederung der Wählerschaft
+                    in andere Wahlkörper ist nicht zulässig.“ Professor Kelsen macht zu demselben
+                    Artikel aufmerksam, daß von wissenschaftlicher Seite bemerkt wurde, daß die Zahl
+                    der Mitglieder des Nationalrates im Gegensatz zur Zahl der Mitglieder des
+                    Bundesrates verfassungsmäßig nicht festgelegt sei. Der Unterausschuß findet
+                    diese Anregung in der Erwägung nicht aufzugreifen, weil eine Bindung der
+                    einfachen Gesetzgebung in dieser Richtung nicht erwünscht sei.</p>
+                <p>Der erste und zweite Absatz des Artikels 20 erhalten auf gemeinsamen Vorschlag
+                    des Gesetzgebungsdienstes der Staatskanzlei und des Professors Kelsen folgende
+                    Fassung: „(1) Die Gesetzgebungsperiode des Nationalrates dauert vier Jahre, vom
+                    Tage seines ersten Zusammentrittes an gerechnet, jedenfalls aber bis zu dem
+                    Tage, an dem der neue Nationalrat zusammentritt. (2) Der neugewählte Nationalrat
+                    ist vom Bundespräsidenten längstens innerhalb 30 Tagen nach der Wahl
+                    einzuberufen. Diese ist von der Bundesregierung so anzuordnen, daß der
+                    neugewählte Nationalrat am Tage nach dem Ablauf des vierten Jahres der
+                    Gesetzgebungsperiode zusammentreten kann."</p>
+                <p>Zu Artikel 23 beantragt Dr. Danneberg gemäß dem übereinstimmenden Wunsche der
+                    gegenwärtigen drei Präsidenten, folgende Formulierung des ersten Absatzes: „Der
+                    Nationalrat wählt aus seiner Mitte den Präsidenten, den zweiten und den dritten
+                    Präsidenten."</p>
+                <p>Der Unterausschuß beschließt antragsgemäß:</p>
+                <p>Nach Art. 23 wird auf Beschluß des Ausschusses folgender Art. 23 a eingeschaltet:
+                    „Zu einem Beschluß des Nationalrates ist, soweit in diesem Gesetze nichts
+                    anderes bestimmt ist, die Anwesenheit von mindestens einem Drittel der
+                    Mitglieder und die unbedingte Mehrheit der abgegebenen Stimmen
+                    erforderlich".</p>
+                <p><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><fw type="pageNum"
+                        >10</fw>Der zweite Absatz des Art. 24 erhält nach geringfügigen
+                    stilistischen Änderungen folgende Formulierung: „Die Öffentlichkeit wird
+                    ausgeschlossen, wenn es vom Vorsitzenden oder einem Fünftel der anwesenden
+                    Mitglieder verlangt und vom Nationalrat nach Entfernung der Zuhörer beschlossen
+                    wird."</p>
+                <p>Der nächste Unterabschnitt erhält den Titel: „Bundesrat“. Der Unterausschuß
+                    beschließt zunächst, daß die einvernehmlich vom Gesetzgebungsdienst der
+                    Staatskanzlei und vom Professor Kelsen formulierten ersten drei Absätze die
+                    folgende Fassung erhalten: „(1) Im Bundesrat sind die Länder im Verhältnis zur
+                    Bürgerzahl im Lande gemäß den folgenden Bestimmungen vertreten. (2) Für die
+                    Vertretung und Stellung im Bundesrate gelten Wien und Niederösterreich-Land
+                    (Artikel 97/1 bis Artikel 97/6) als selbständige Länder. (3) Das Land mit der
+                    größten Bürgerzahl entsendet zwölf, jedes andere Land soviele Mitglieder, als
+                    dem Verhältnis seiner Bürgerzahl zur erstangeführten Bürgerzahl entspricht,
+                    wobei Reste über die Hälfte der Verhältniszahl als voll gelten. Jedem Land
+                    gebührt jedoch eine Vertretung von wenigstens drei Mitgliedern. Für jedes
+                    Mitglied wird ein Ersatzmann bestellt.“ Professor Kelsen führt des weiteren aus,
+                    daß der Entwurf bisher eine Anordnung vermissen lasse, in welcher Form die Zahl
+                    der von jedem Land zu entsendenden Bundesratsmitglieder fixiert wird. Es wird
+                    daher folgender Absatz 4 beantragt: „Die Zahl der demnach von jedem Land zu
+                    entsendenden Mitglieder wird vom Bundespräsidenten nach jeder allgemeinen
+                    Volkszählung festgesetzi Der Ausschuß beschließt in diesem Sinne.</p>
+                <p>Die Absätze 4 bis 6 und 8 des bisherigen Artikels 26 werden in einem neuen
+                    Artikel 26 a vereinigt. Im bisherigen Absatz 6 wird das Wort „delegierten“ durch
+                    das Wort „entsendeten“ ersetzt. Der Absatz 7, wonach die Mitglieder des
+                    Bundesrates bei der Ausübung ihres Mandates an keinen Auftrag gebunden sind,
+                    wird an dieser Stelle gestrichen. Uber den 1. Absatz des Art. 26 a<pb
+                        facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><fw type="pageNum"
+                        >11</fw> wird auf Antrag des Professors Seipel getrennt abgestimmt. Die
+                    Worte bis „... gewählt“ werden einstimmig angenommen. Der Zusatz: „jedoch muß
+                    wenigstens ein Mandat der Partei zufallen, welche die zweithöchste Anzahl von
+                    Sitzen im Landtage oder, wenn mehrere Parteien die gleiche Anzahl von Sitzen
+                    haben, die zweithöchste Zahl von Wählerstimmen bei der letzten Landtagswahl
+                    aufweist gegen die Stimme der christlichsozialen Vertreter angenommen.</p>
+                <p>Im Artikel 27 werden nach dem Worte „Länder“ die Worte „und die Bundeshauptstadt
+                    Wien“ gestrichen; ferner entfällt der 2. Absatz in der Erwägung, daß diese
+                    Detailbestimmung der Geschäftsordnung zu überlassen wäre. Dagegen wird auf
+                    Vorschlag des Professors Kelsen folgender 2. Absatz aufgenommen: „Als
+                    Vorsitzender fungiert der an erster Stelle entsendete Vertreter des zum Vorsitze
+                    berufenen Landes; die Bestellung der Stellvertreter regelt die Geschäftsordnung
+                    des Bundesrates. Der Absatz 4 wird als Absatz 2 in den Artikel 28 verlegt.</p>
+                <p>Art. 28 erhält auf Vorschlag des Prof. Kelsen folgende Fassung: „Zu einem
+                    Beschluß des Bundesrates ist, soweit in diesem Gesetze nicht anders bestimmt
+                    ist, die Anwesenheit von mindestens einem Drittel der Mitglieder und die
+                    unbedingte Mehrheit der abgegebenen Stimmen erforderlich. Infolge der Aufnahme
+                    des 4. Absatzes des Art. 27 in den Art. 28 aus dessen 2. Absatz erhält der
+                    gegenwärtige 2. Absatz des Art. 28 die Ziffer 3. Der neue 2. Absatz erhält
+                    folgenden Wortlaut: „Der Bundesrat gibt sich seine Geschäftsordnung durch
+                    Beschluß. Dieser Beschluß kann nur bei Anwesenheit der Hälfte der Mitglieder mit
+                    einer Mehrheit von zwei Dritteln der abgegebenen Stimmen gefaßt werden.“</p>
+                <p>Der folgende Unterabschnitt erhält den Titel „Bundesversammlung“ Auf Anregung des
+                    Professors Kelsen werden der 2. bis 5. Absatz des Art. 29 a in etwas veränderter
+                    Fassung und Reihenfolge in einen neuen Art. 29 aa zusammengefaßt. Der neue
+                    Artikel 29 aa erhält folgenden Wortlaut: „(1) Die Bundesversamm<pb
+                        facs="#facs_13" n="13" xml:id="img_0013" break="no"/><fw type="pageNum"
+                        >12</fw>lung wird — abgesehen von den Fällen des Artikels 52, Absatz 2, des
+                    Artikels 53, Absatz 2, und des Artikels 57, Absatz 2 — vom Bundespräsidenten
+                    einberufen. Der Vorsitz wird abwechselnd vom Präsidenten des Nationalrates und
+                    vom Vorsitzenden des Bundesrates, das erstemal von jenem, geführt. (2) In der
+                    Bundesversammlung wird die Geschäftsordnung des Nationalrates sinngemäß
+                    angewendet. (3) Nationalrat und Bundesrat können den Gegenstand der Abstimmung
+                    vorher auch gesondert beraten. (4) Die Bestimmungen des Artikel 25 gelten auch
+                    für die Sitzungen der Bundesversammlung.</p>
+                <p>Von Artikel 31 erhält der 1. Absatz in folgender Formulierung die Ziffer 23 a:
+                    „Zu einem Beschluß des Nationalrates ist, soweit in diesem Gesetz nicht anderes
+                    bestimmt ist, die Anwesenheit von mindestens einem Drittel der Mitglieder und
+                    die unbedingte Mehrzahl der abgegebenen Stimmen erforderlich."</p>
+                <p>Der Artikel 38 tritt an Stelle des gegenwärtigen Artikel 31, wobei im 2. Absatz
+                    an Stelle der Worte „in diesem Artikel“ das Wort „verfassungsgesetzlich“ gesetzt
+                    wird und im 5. Absatz, 3. Zeile die Worte „ein Gesetz über“, in der 4. Zeile das
+                    Wort „und“ gestrichen werden; endlich in der 6. Zeile an Stelle des „und“ das
+                    Wort „oder“ gesetzt wird.</p>
+                <p>Artikel 33 wird zum Artikel 32, wobei der Anfang zu lauten hat: „Ein
+                    Gesetzesbeschluß des Nationalrates ist vor seiner Beurkundung durch den
+                    Bundespräsidenten einer Volksabstimmung zu unterziehen, wenn..." </p>
+                <p>Artikel 31, Absatz 2 wird zusammen mit Artikel 32 zum neuen Artikel 33, wobei der
+                    erste Absatz nunmehr zu lauten hat: „(1) Verfassungsgesetze oder in einfachen
+                    Gesetzen enthaltene Verfassungsbestimmungen können vom Nationalrat nur in
+                    Anwesenheit ... beschlossen werden; sie sind künftighin als solche
+                    („Verfassungsgesetz“, „Verfassungsbestimmung“) ausdrücklich zu bezeichnen“; und
+                    im 2. Absatz (jetzt Art. 32) statt „teilweise Änderung“ „Teiländerung“, statt
+                    „gemäß Art. 38“ zu setzen ist: „gemäß Art. 33..."</p>
+                <p><pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><fw type="pageNum"
+                        >13</fw>Die Artikel 34, 37 und 40 bleiben in Numerierung und Wortlaut
+                    unverändert.</p>
+                <p>Art. 41 wird folgendermaßen stilistisch neu formuliert: „Bundesgesetze und die in
+                    Artikel 42 a bezeichneten Staatsverträge werden mit Berufung auf den Beschluß
+                    des Nationalrates, Bundesgesetze, die auf einer Volksabstimmung beruhen, mit
+                    Berufung auf das Ergebnis der Volksabstimmung kundgemacht.</p>
+                <p>Im Art. 42 werden die Worte: „andere Bestimmung getroffen ist“ durch die Worte
+                    ersetzt: „anderes bestimmt ist.</p>
+                <p>Nach Art. 42 b wird der bisherige Art. 47 als Artikel 42 bb eingeschaltet, darauf
+                    folgt der bisherige Artikel 48 als Artikel 42 bbb.</p>
+                <p>In Art. 42 c bleibt es entgegen der Anregung des Gesetzgebungsdienstes der
+                    Staatskanzlei sowie des Professor Kelsen, das Wort „Bundesverfassungsgesetz“
+                    durch das Wort „Bundesgesetz“ zu ersetzen, bei der ursprünglichen Fassung.</p>
+                <p>Nach Artikel 42 c wird auf Anregung des Gesetzgebungsdienstes der Staatskanzlei
+                    ein neuer Artikel 42 d folgenden Wortlautes eingeschaltet: „Außer den in den
+                    Artikeln 42 a bis 42 c und sonst in diesem Gesetz vorgesehenen Fällen der
+                    Mitwirkung des Nationalrates und des Bundesrates an der Vollziehung des Bundes
+                    findet eine solche Mitwirkung des Nationalrates durch den aus seiner Mitte nach
+                    dem Grundsatze der Verhältniswahl gewählten Hauptausschuß statt: Diesem liegt
+                    die Mitwirkung an der Bestellung der Bundesregierung ob (Artikel 60, Absatz 2).
+                    Außerdem kann durch Bundesgesetze festgesetzt werden, daß bestimmte Verordnungen
+                    der Bundesregierung an das Einvernehmen mit dem Hauptausschuß gebunden
+                    sind."</p>
+                <p>Zu Artikel 43, 2. Absatz gibt Prof. Kelsen die Anregung, die Worte „verhaftet
+                    oder“ vor den Worten „behördlich verfolgt werden“ aus dem Grunde zu streichen,
+                    weil die Verhaftung nur eine Form der behördlichen Verfolgung sei, der
+                    Unterausschuß macht sich jedoch diese Anregung nicht zu eigen. Hingegen werden
+                    auf Anregung des Prof. Kelsen im 2. Absatz die<pb facs="#facs_15" n="15"
+                        xml:id="img_0015" break="yes"/><fw type="pageNum">14</fw> Worte „während der
+                    Gesetzgebungsperiode“ gestrichen, das Wort „der Verhaft“ durch das Wort „die
+                    Haft“ ersetzt und nach dem Worte „Verfolgung“ das Wort „überhaupt“
+                    eingeschaltet.</p>
+                <p>In Artikel 45, 2. Absatz werden die Worte „und Funktionäre gestrichen“ — Die
+                    Einleitung des 3. Absatzes hat zu lauten: „Bewerben sie sich um Mandate im
+                    Nationalrat..."</p>
+                <p>Artikel 46 wird zum Artikel 62 a; da die Artikel 47 und 48 als Art. 42 bb und 42
+                    bbb in den Unterabschnitt E verlegt werden, entfällt auch der Unterabschnitt:
+                    „G. Stellung der Bundesregierung im Nationalrat, im Bundesrat und in der
+                    Bundesversammlung.</p>
+                <p>Das dritte Hauptstück erhält den Titel „Vollziehung des Bundes“, sein erster
+                    Abschnitt heißt „Verwaltung“, der erste Unterabschnitt „Bundespräsident.“</p>
+                <p>Der erste Absatz des Artikels 49 erhält unter Berücksichtigung einer Anregung des
+                    Professors Kelsen auf Antrag des Professors Seipel folgende Fassung: (1) Der
+                    Bundespräsident wird von der Bundesversammlung gemäß Artikel 29 a in geheimer
+                    Abstimmung gewählt.“ — Die Bestimmung des zweiten Absatzes, wonach einmalige
+                    Wiederwahl zulässig ist, wird folgendermaßen geändert: „Eine Wiederwahl für die
+                    unmittelbar folgende Funktionsperiode ist nur einmal zulässig. Im dritten Absatz
+                    wird das Wort „aktive“ vor dem Wort „Wahlrecht gestrichen. — Im vierten Absatz
+                    hat es statt der Worte „oder ehemals regierender Häuser“ zu heißen „oder solcher
+                    Familien, die ehemals regiert haben“. — Der Schlußsatz des fünften Absatzes hat
+                    zu lauten: „Die Wahlgänge werden solange wiederholt, bis sich eine unbedingte
+                    Mehrheit für eine Person ergibt.“</p>
+                <p>Zu Artikel 50 bemerkte Professor Kelsen, daß der Ausdruck „Körperschaft“
+                    juristisch unzutreffend sei. Im Artitkel 50 werden demnach die Worte „keiner
+                    politischen Körperschaft“ durch die Worte „keinem allgemeinen Vertretungskörper“
+                    ersetzt.</p>
+                <p><pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/><fw type="pageNum"
+                        >15</fw>Der Schlußsatz des Art. 52, zweiter Absatz erhält folgende Fassung:
+                    „Spricht sich der Nationalrat dafür aus, hat der Bundeskanzler die
+                    Bundesversammlung sofort einzuberufen.</p>
+                <p>In Artikel 53 werden die Worte „in letzterem Falle bis zu der Wahl seines
+                    Nachfolgers“ gestrichen. Im zweiten Absatz hat es statt „die Neuwahl auszuüben
+                    und durchzuführen“ zu heißen: „die BundesversammProfessor lung zur Neuwahl des
+                    Bundespräsidenten einzuberufen“. — Kelsen bemerkt zu diesem Artikel, daß einer
+                    der wissenschaftlichen Gutachter die Anregung gegeben habe, daß im Falle der
+                    Vertretung des Bundespräsidenten durch den Bundeskanzler der Bundeskanzler durch
+                    den Vizekanzler zu vertreten sei. Ein Antrag in dieser Richtung wird jedoch
+                    nicht gestellt.</p>
+                <p>Im Artikel 54 zweiter Absatz, wird der Punkt b folgendermaßen formuliert: „die
+                    Schaffung und Verleihung von Berufstiteln“. An der Spitze des Punktes c ist, um
+                    generelle Amnestien auszuschließen, einzuschalten, „für Einzelfälle.“ Weiters
+                    werden die Schlußworte enger gefaßt.“ ... und die Tilgung von Verurteilungen im
+                    Gnadenwege; ferner die Niederschlagung des strafgerichtlichen Verfahrens bei den
+                    von amtswegen zu verfolgenden strafbaren Handlungen.“</p>
+                <p>Artikel 55 erhält auf Anregung des Ministerialrates Dr. Froehlich folgenden
+                    zweiten Absatz: „Der Bundespräsident kann zum Abschlusse bestimmter Kategorien
+                    von Staatsverträgen, die nicht unter die Bestimmung des Artikels 52 a fallen,
+                    die Bundesregierung oder die zuständigen Mitglieder der Bundesregierung
+                    ermächtigen“. Hiedurch soll die bisherige Praxis der Regierungsund
+                    Ressortübereinkommen sanktioniert, und damit zugleich die innerstaatliche
+                    Regelung dieser Materie mit der völkerrechtlichen Praxis in Einklang gebracht
+                    werden. — Im bisherigen Text desselben Artikels, der nunmehr die Absatzziffer 1
+                    erhält, wird das Wort „ressortmäßig ge<pb facs="#facs_17" n="17"
+                        xml:id="img_0017" break="no"/>
+                    <fw type="pageNum">16</fw>strichen.</p>
+                <p>Artikel 57 erhält auf übereinstimmenden Vorschlag des Ministerialrates Froehlich
+                    und des Professors Kelsen folgende Fassung: (1) Der Bundespräsident ist für die
+                    Ausübung seiner Funktionen der Bundesversammlung gemaß Artikel 152
+                    verantwortlich. (2) Zur Geltendmachung dieser Verantwortung ist die
+                    Bundesversammlung auf Beschluß des Nationalrates oder des Bundesrates vom
+                    Bundeskanzler einzuberufen. (3) Zu einem Beschlusse mit welchem eine Anklage im
+                    Sinne des Artikels 152 erhoben wird, bedarf es der Anwesenheit von mehr als der
+                    Hälfte der Mitglieder jedes der beiden Vertretungskörper und einer Mehrheit von
+                    zwei Dritteln der abgegebenen Stimmen.“</p>
+                <p>Der Eingang des Artikels 58 hat statt „mit der Regierungsgewalt des Bundes“ zu
+                    lauten: „Mit den obersten Verwaltungsgeschäften des Bundes."</p>
+                <p>Artikel 59 entfällt an dieser Stelle, da er in verändeter Fassung, bereits als
+                    Artikel 14 aa Aufnahme gefunden hat.</p>
+                <p>Im Artikel 60 treten an Stelle der Absätze 1 bis 3 folgende zwei Absätze: (1) Die
+                    Bundesregierung wird vom Nationalrat in namentlicher Abstimmung auf einen vom
+                    Hauptausschuß zu erstattenden Gesamtvorschlag gewählt. (2) In die
+                    Bundesregierung kann nur gewählt werden, wer zum Nationalrat wählbar ist; die
+                    Mitglieder der Bundesregierung müssen nicht dem Nationalrat angehören.“
+                    Professor Kelsen regt die Streichung des bisherigen 4., nunmehr 3. Absatzes an,
+                    da durch den Artikel 61 genügend für die Bildung einer provisorischen Regierung
+                    Vorsorge getroffen sei. Präsident Seitz spricht sich für die Beibehaltung der
+                    Bestimmung aus. Professor Seipel ist ebenfalls für die Beibehaltung einer
+                    derartigen Bestimmung, möchte jedoch dem Erfordernisse einer Neuwahl der
+                    Regierung durch den zusammentretenden Nationalrat vor der anderen Möglichkeit
+                    einer bloßen Vertrauenserteilung an die vom Haupt<pb facs="#facs_18" n="18"
+                        xml:id="img_0018" break="no"/>
+                    <fw type="pageNum">17</fw>ausschuß bestellte Regierung den Vorzug geben. Der
+                    Absatz wird schließlich in folgender Fassung beschlossen: (3) Ist der
+                    Nationalrat nicht versammelt, so wird die Bundesregierung vorläufig vom
+                    Hauptausschuß bestellt; sobald der Nationalrat zusammentritt, hat die Wahl zu
+                    erfolgen.“</p>
+                <p>Im Artikel 61 a werden die Worte „Datum des“ gestrichen.</p>
+                <p>Im Artikel 61 b wird auf Anregung des Ministerialrates Froehlich der Ausdruck
+                    „leitenden Beamten“ durch „höheren Beamten“ ersetzt.</p>
+                <p>Nach Artikel 62 ist als neuer Artikel 62 a der bisherige Artikel 46
+                    einzuschalten.</p>
+                <p>Artikel 63 erhält folgenden zweiten Absatz: „(2) Zu einem Beschlusse, mit welchem
+                    eine Anklage gemaß Artikel 152 erhoben wird, bedarf es der Anwesenheit von mehr
+                    als der Hälfte der Mitglieder.“</p>
+                <p>Artikel 64 erhält folgenden neuen Absatz 3: "Mit der Leitung des
+                    Bundeskanzleramtes ist der Bundeskanzler mit der Leitung der anderen
+                    Bundesministerien je ein Bundesminister betraut. Im bisherigen 3. nunmehr 4.
+                    Absatz des Artikels 64 wird vor Bundesminister das Wort „übrigen“ eingeschaltet
+                    und das Wort „Führung durch das Wort „Leitung“ ersetzt.</p>
+                <p>Desgleichen wird im Artikel 66, 1. Absatz, das Wort „Führung“ durch „Leitung“
+                    ersetzt. Der Schlußabsatz des 2. Absatzes hat zu lauten: „die in gleicher Weise
+                    wie die Bundesminister bestellt werden und aus dem Amte scheiden“.</p>
+                <p/>
+                <p>Der Abschnitt B erhält die Überschrift „Gerichtsbarkeit“.</p>
+                <p>Zu Artikel 73 bemerkt Ministerialrat Froehlich, daß nach der gegenwärtigen
+                    Formulierung des dritten Absatzes Ausnahmsgerichte nur über Zivilpersonen und
+                    nicht auch über Militärpersonen judizieren können. Der Ausdruck „in der
+                    Strafprozeßordnung“ sei nämlich zu eng und müsse zweckmässi<pb facs="#facs_19"
+                        n="19" xml:id="img_0019" break="no"/>
+                    <fw type="pageNum">18</fw>gerweise durch den Ausdruck „durch die Gesetze über
+                    das Verfahren in Strafsachen“ ersetzt werden. Der vierte Absatz wird gestrichen,
+                    um im Hauptstück über die Verfassungsgarantien Aufnahme zu finden.</p>
+                <p>Der erste Absatz des Artikels 76 erhält folgende Formulierung: „Die Richter
+                    werden, sofern nicht in diesem Gesetz oder in der Gerichtsverfassung anderes
+                    bestimmt ist, gemäß dem Antrage der Bundesregierung vom Bundespräsidenten oder
+                    auf Grund seiner Ermächtigung vom zuständigen Bundesminister ernannt: die
+                    Bundesregierung oder der Bundesminister hat Besetzungsvorschläge der durch die
+                    Gerichtsverfassung hiezu berufenen Senate einzuholen.“</p>
+                <p>Der Eingang des Artikels 78 hat zu lauten: „In der Gerichtsverfassung“.</p>
+                <p>Im Artikel 79 wird der Ausdruck „Kassation“ durch das Wort „Aufhebung“
+                    ersetzt.</p>
+                <p>Der Absatz 3 des Artikels 81 erhält folgende neue Fassung: „Im Strafverfahren
+                    wegen anderer strafbarer Handlungen nehmen Schöffen an der Rechtssprechung teil,
+                    wenn die zu verhängende Strafe ein vom Gesetz zu bestimmendes Maß
+                    überschreitet.“</p>
+                <p> Artikel 82 wird folgendermaßen formuliert: „Oberste Instanz in Zivil- und
+                    Strafrechtssachen ist der Oberste Gerichtshof in Wien“. - Abgeordneter Clessin
+                    beantragt zu diesem Artikel eine analoge Bestimmung zugunsten des Präsidenten
+                    des Obersten Gerichtshofes, wie sie im Artikel 156 zugunsten des Präsidenten des
+                    Verfassungsgerichtshofes enthalten ist. — Nachdem Professor Kelsen bemerkt hat,
+                    daß nach den von ihm gemeinsam mit dem Gesetzgebungsdienst der Staatskanzlei
+                    verfaßten Abänderungsvorschlägen der Artikel 156 gestrichen werden soll, wird
+                    der Antrag des Abgeordneten Clessin abgelehnt.</p>
+                <p>Professor Kelsen schlägt die Eliminierung des Artikels 84 vor und bemerkt, daß
+                    mehrere der vorliegenden wissenschaftlichen Gutachten feststellen, daß
+                    namentlich dem zweiten<pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/>
+                    <fw type="pageNum">19</fw> Absatze des Artikels 84 eine praktische Bedeutung
+                    mangle. Ministerialrat Froehlich spricht sich für die Beibehaltung dieses
+                    Artikels aus, da die bloße Tatsache der Streichung dieses schon in der
+                    Dezember-Verfassung enthaltenen Artikels zu Mißdeutungen Anlaß geben könnte. Der
+                    Unterausschuß beschließt, den Artikel unverändert zu belassen.</p>
+                <p/>
+                <p>Das vierte Hauptstück — „Gesetzgebung und Vollziehung der Länder“ — wird mit dem
+                    fünften Hauptstück — „Niederösterreich und Wien" — sowie mit dem sechsten
+                    Hauptstück — „Gemeinden“ — zu einem gemeinsamen Hauptstück unter dem
+                    erstbezeichneten Titel vereinigt. Das bisherige vierte Hauptstück wird zum
+                    Unterabschnitt „A Allgemeine Bestimmungen“.</p>
+                <p>Der Artikel 85 erhält folgende neue Formulierung: (1) Die Gesetzgebung der Länder
+                    wird durch die Landtage ausgeübt. Deren Mitglieder werden auf Grund des
+                    gleichen, unmittelbaren geheimen und persönlichen Verhältniswahlrechtes, aller
+                    nach den Landtagswahlordnungen wahlberechtigten männlichen und weiblichen
+                    Bundesangehörigen gewählt, die in dem Lande ihren ordentlichen Wohnsitz haben.
+                    (2) Die Landtagswahlordnungen dürfen die Bedingungen des aktiven und passiven
+                    Wahlrechtes nicht enger ziehen, als die Wahlordnung zum Nationalrat. (3) Die
+                    Wähler üben ihr Wahlrecht in Wahlkreisen aus, von denen jeder ein geschlossenes
+                    Gebiet umfassen muß. Die Zahl der Abgeordneten ist auf die Wahlkreise im
+                    Verhältnis der Bürgerzahl zu verteilen. Eine Gliederung der Wählerschaft in
+                    andere Wahlkörper ist nicht zulässig.</p>
+                <p>Die Schlußworte des Artikels 87 haben zu lauten: „und die Kundmachung durch den
+                    Landeshauptmann im Landesgesetzblatte erforderlich“.</p>
+                <p>Im Artikel 88 wird in der zweiten Zeile das Wort „erfolgter“ durch „der“ ersetzt;
+                    die Worte „der Bundesregierung oder“ werden gestrichen. — Der zweite Absatz
+                    desselben Artikels erhält folgende Formulierung: „(2) Wegen Gefährdung von
+                        Bundesinteres<pb facs="#facs_21" n="21" xml:id="img_0021" break="no"/>
+                    <fw type="pageNum">20</fw>sen kann die Bundesregierung gegen den
+                    Gesetzesbeschluß eines Landtages binnen acht Wochen von dem Tag an, an dem der
+                    Gesetzesbeschluß beim zuständigen Bundesminister eingelangt ist, einen mit
+                    Begründung versehenen Einspruch erheben. In diesem Falle darf der
+                    Gesetzesbeschluß nur kundgemacht werden, wenn ihn der Landtag wiederholt.“</p>
+                <p>Zu Artikel 90 bemerkt Professor Kelsen, ein wissenschaftlicher Gutachter habe
+                    aufmerksam gemacht, daß die Vertreter des aufzulösenden Landtages, da sie bei
+                    diesem Beschlusse Partei seien, von der Abstimmung ausgeschlossen sein sollen.
+                    Der Unterausschuß beschließt demgemäß die Anfügung folgenden Schlußsatzes an den
+                    Absatz 1: „An der Abstimmung dürfen die Vertreter des aufzulösenden Landtages
+                    nicht teilnehmen. Es entspinnt sich über die Frage eine Debatte, ob die
+                    Vertreter des aufzulösenden Landtages überhaupt an der betreffenden Sitzung des
+                    Bundesrates teilzunehmen berechtigt sein sollen, bzw. ob sie bei der Ermittlung
+                    des Quorums mitzurechnen seien. Professor Kelsen macht aufmerksam, daß es im
+                    Interesse der betreffenden Landtagsmitglieder gelegen sei, sich an der Sitzung
+                    nicht zu beteiligen. Ein Antrag auf Aufnahme einer einschlägigen Bestimmung in
+                    dem Artikel wird nicht gestellt. — Im zweiten Absatz des Artikels hat es statt
+                    „nach durchgeführter Wahl“ einfach zu heißen „nach der Wahl.“</p>
+                <p>Im Artikel 91, Absatz 1, haben die ersten Worte „Die Vollziehung zu lauten. Im
+                    vierten Absatz werden nach dem Worte „Landeshauptmann“ die Worte „Vor Antritt
+                    des Amtes“ eingefügt.</p>
+                <p>Im Artikel 92 erhält der 1. Absatz folgende neue Formulierung: „Im Bereiche der
+                    Länder wird die Vollziehung des Bundes, soweit nicht eigene Bundesbehörden
+                    bestehen (unmittelbare Bundesverwaltung), durch den Landeshauptmann und die ihm
+                    unterstellten Landesbehörden ausgeübt (mittelbare Bundesverwaltung)“. Zum
+                    zweiten Absatz äußert der Vorsitzende Bedenken wegen der<pb facs="#facs_22"
+                        n="22" xml:id="img_0022" break="yes"/>
+                    <fw type="pageNum">21</fw> taxativen Aufzählung. Es wird der Beschluß gefaßt, in
+                    die Aufzählung noch die Punkte: „Schutz von Marken, Mustern und anderen
+                    Warenbezeichnungen, technisches Versicherungswesen, hydrographischer Dienst,
+                    ferner Bundespolizei und Bundesgendarmerie“ aufzunehmen. Im übrigen wird der
+                    Gesetzgebungsdienst der Staatskanzlei ermächtigt, die einzelnen Gegenstände in
+                    einer den Kompetenzbestimmungen analogen Reihenfolge zu ordnen. Im dritten
+                    Absatz werden die Worte „die Landesregierung“ durch die Worte „den
+                    Landeshauptmann“ und die Worte „vollziehende Gewalt“ durch das Wort
+                    „Vollziehung“ ersetzt. — Nach dem vierten Absatz wird folgender fünfter Absatz
+                    angefügt: „Inwieweit die Landeshauptmänner über die Bundespolizei und die
+                    Bundesgendarmerie verfügen, wird durch das im Artikel 97, Absatz 1, bezeichnete
+                    Bundesgesetz geregelt."</p>
+                <p>Auf Anregung des Professors Kelsen erhält der fünfte Absatz des Artikels 92 die
+                    Artikelnummer „92 a“, in dem neuen Artikel werden die Worte „sind die
+                    Landesregierungen“ durch die Worte „ist der Landeshauptmann“ ersetzt.</p>
+                <p>Der Artikel „92 a“, der nunmehr die Ziffer „92 b“ erhält, hat folgendermaßen zu
+                    lauten: „Die Bestimmungen des Artikels 92 sind auf Einrichtungen zur Besorgung
+                    der im Artikel 14 bezeichneten Geschäfte des Bundes nicht anzuwenden.“</p>
+                <p>Im Artikel 93, erster Absatz entfallen die Worte „oder sein Stellvertreter“. Der
+                    zweite Absatz wird stilistisch folgendermaßen neu formuliert: „Die Mitglieder
+                    der Landesregierung sind dem Landtage gemäß Artikel 152 verantwortlich.“ Auf
+                    gemeinsame Anregung des Ministerialrates Froehlich und des Professors Kelsen
+                    wird folgender dritter Absatz eingefügt: „Zu einem Beschlusse, mit dem eine
+                    Anklage im Sinne des Artikels 152 erhoben wird, bedarf es der Anwesenheit der
+                    Hälfte der Mitglieder."</p>
+                <p>Der erste Satz des Artikels 94 erhält folgenden neuen Wortlaut: „Zur Leitung des
+                    gesamten inneren Dienstes des Amtes der Landesregierung wird ein rechtskundiger
+                    Verwaltungsbeamter als Landesamtsdirektor bestellt.“</p>
+                <p><pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"/>
+                    <fw type="pageNum">22</fw>Im Artikel 97 hat es statt „Wirkungskreises“
+                    „Wirkungsbereiches“ und statt „anzuzeigen“ „Zur Kenntnis zu bringen“ zu
+                    heißen.</p>
+                <p> Zu Artikel 97/I bemerkt Professor Seipel, daß es eine Inkonsequenz sei, wenn die
+                    Kurie Land aus unmittelbaren Wahlen hervorgehe, die Kurie Stadt jedoch vom
+                    Wiener Gemeinderat delegiert werde. Der Artikel wird in folgender neuer Fassung
+                    beschlossen: (1) Der Landtag von Niederösterreich gliedert sich in zwei Kurien.
+                    Die eine (Kurie Land) wird gebildet von den Abgeordneten des Landes
+                    einschließlich Wien. Die Wahl der anderen Abgeordneten (Kurie Stadt) wird durch
+                    die Verfassung der Bundeshauptstadt Wien geregelt. (2) Die Zahl der Abgeordneten
+                    ist auf die beiden Kurien im Verhältnis der Bürgerzahl zu verteilen.“</p>
+                <p>Im Artikel 97/II hat es statt „Bloß als gemeinsamer Landtag“ richtig zu heißen
+                    „Als Landtag von Niederösterreich“. Ferner wird das Wort „Wirkungskreises“ durch
+                    das Wort „Wirkungsbereiches“ ersetzt.</p>
+                <p>Der Artikel 97/III zweiter Absatz wird in folgender Weise geändert und ergänzt:
+                    „In diesen Angelegenheiten hat für Wien der Gemeinderat der Stadt Wien, für
+                    Niederösterreich-Land die Kurie Land die Stellung des Landtages. Die
+                    Bestimmungen des Artikels 43 gelten sinngemäß auch für die Mitglieder des Wiener
+                    Gemeinderates.</p>
+                <p>Im Artikel 97/V wird der erste Absatz folgendermaßen geändert: „Für beide
+                    Landesteile gelten die allgemeinen Bestimmungen dieses Hauptstückes“.</p>
+                <p> Der Artikel 97/VI, erster Absatz, wird sinngemäß dem Antrage des Dr. Seipel, der
+                    zweite Absatz gemäß dem Antrage des Dr. Danneberg neu formuliert; der Artikel
+                    hat nunmehr folgende Fassung: „(1) Die gemeinsamen Angelegenheiten werden durch
+                    eine vom Landtage von Niederösterreich aus seiner Mitte nach dem
+                    Verhältniswahlrecht zu wählende Verwaltungskommission verwaltet.“ (2) Der
+                    Bürgermeister der Stadt Wien und der Landeshauptmann von<pb facs="#facs_24"
+                        n="24" xml:id="img_0024" break="yes"/>
+                    <fw type="pageNum">23</fw> Niederösterreich-Land gehören der
+                    Verwaltungskommission an und führen abwechselnd den Vorsitz.</p>
+                <p>Auf Anregung des Ministerialrates Froehlich und Professor Kelsen wird folgender
+                    neuer Artikel 97/VII eingefügt: „Ein selbständiges Land Wien kann durch
+                    übereinstimmende Gesetze des Wiener Gemeinderates und des Landtages von
+                    Niederösterreich Land gebildet werden.“</p>
+                <p/>
+                <p>Zum Unterabschnitt „Gemeinden“ gibt Professor Kelsen die Erklärung ab, daß er
+                    sowie der Gesetzgebungsdienst der Staatskanzlei sich bei den
+                    Abänderungsvorschlägen zu diesem Abschnitte die größte Zurückhaltung auferlegen
+                    werde, da rechtstechnisch etwa erwünschten Abänderungen politische Kompromisse
+                    entgegenstünden.</p>
+                <p>Dr. Danneberg beantragt den über die Gemeinden handelnden Unterabschnitt zu einem
+                    selbständigen sechsten Hauptstück zu machen. Der Antrag wird abgelehnt, sodaß es
+                    bei der bisherigen Einteilung verbleibt.</p>
+                <p>Im Artikel 97 c wird die Ziffer „15.000“ auf „20.000“ erhöht.</p>
+                <p>Im Artikel 97 e werden die letzten vier Sätze des zweiten Absatzes unter
+                    Berücksichtigung von Ergänzungsvorschlägen der Staatskanzlei sowie auf Grund
+                    eines Antrages des Professors Seipel auf Umstellung der Sätze folgendermaßen
+                    formuliert: „Die Wahlordnung kann bestimmen, daß die Wähler ihr Wahlrecht in
+                    Wahlkreisen ausüben, von denen jeder ein geschlossenes Gebiet umfassen muß. Eine
+                    Gliederung der Wählerschaft in andere Wahlkörper ist nicht zulässig. Für die
+                    Wahlen in die Gebietsgemeindevertretungen ist der Gerichtsbezirk Wahlkreis. Die
+                    Zahl der Abgeordneten ist auf die Wahlkreise im Verhältnis der Bürgerzahl zu
+                    verteilen“ Ferner wird folgender dritte Absatz eingefügt: „In die
+                    Gebietsgemeindevertretungen sind nur Personen wählbar, die im Bereiche der
+                    Gebietsgemeinde ihren ordentlichen Wohnsitz haben und zum Landtag wählbar
+                    sind.“</p>
+                <p><pb facs="#facs_25" n="25" xml:id="img_0025" break="yes"/>
+                    <fw type="pageNum">24</fw>Das siebente Hauptstück „Rechnungskontrolle des
+                    Bundes“ wird zum fünften Hauptstück.</p>
+                <p>Im Artikel 99, 4. Absatz, wird der Ausdruck „politischen Körperschaft durch den
+                    Ausdruck „allgemeinen Vertretungskörper“ ersetzt. Im selben Absatz werden nach
+                    dem Worte „Bundesregierung“ folgende Worte ingefügt: „oder einer
+                    Landesregierung“.</p>
+                <p>Im Artikel 100 werden die Worte „in bezug auf“ durch die Worte „hinsichtlich der“
+                    ersetzt.</p>
+                <p>Ministerialrat Froehlich schlägt vor, folgenden neuen Artikel 103 a aufzunehmen:
+                    „Durch die Landesverfassungsgesetze können dem Rechnungshofe die ihm nach diesem
+                    Gesetze bezüglich der Gebarung des Bundes zustehenden Funktionen auch bezüglich
+                    der Gebarung des Landes übertragen werden“. - Ministerialrat Froehlich bemerkt
+                    hiezu, daß durch diese Bestimmung den Ländern die Möglichkeit geboten werden
+                    soll, sich des Rechnungshofes zur Kontrolle der Landesgebarung zu bedienen, ohne
+                    daß selbstverständlich ein Zwang in dieser Hinsicht begründet werden soll. Der
+                    Vorsitzende und Abgeordnete Clessin sprechen sich in Anbetracht des rein
+                    fakultativen Charakters dieser Bestimmung für diese Ergänzung aus. Abgeordneter
+                    Fink erhebt Bedenken. Der neue Artikel wird zum Beschluß erhoben.</p>
+                <p/>
+                <p>Der Titel „Achtes Hauptstück“ von den Grund- und Freiheitsrechten wird
+                    gestrichen. Hiedurch wird das bisherige neunte Hauptstück zum sechsten
+                    Hauptstück mit dem Untertitel „Garantien der Verfassung und Verwaltung".</p>
+                <p>Professor Kelsen hebt den prinzipiellen Charakter dieses Hauptstückes für das
+                    Wirksamwerden, der Verfassung hervor und bemerkt, daß im Rahmen dieses
+                    Hauptstückes ziemlich einschneidende meritorische Änderungen und
+                    rechtstechnische Verbesserungen erforderlich seien.</p>
+                <p><pb facs="#facs_26" n="26" xml:id="img_0026" break="yes"/>
+                    <fw type="pageNum">25</fw>Der Abänderungsvorschlag des Experten und des
+                    Gesetzgebungsdienstes der Staatskanzlei geht dahin, dem Artikel 138 folgende
+                    Fassung zu geben: „(1) Wer durch eine rechtswidrige Entscheidung oder Verfügung
+                    einer Verwaltungsbehörde in seinen Rechten verletzt zu sein behauptet, kann nach
+                    Erschöpfung des administrativen Instanzenzuges Beschwerde beim
+                    Verwaltungsgerichtshof erheben. (2) Erachtet in den Angelegenheiten der Artikel
+                    11 und 12 der zuständige Bundesminister die Interessen des Bundes durch eine
+                    rechtswidrige Entscheidung oder Verfügung einer Landesbehörde verletzt, so kann
+                    auch er namens des Bundes wegen der Rechtsverletzung beim Verwaltungsgerichtshof
+                    Beschwerde erheben 1oi) (3) Eine Rechtsverletzung liegt nicht vor, soweit die
+                    Behörde nach den Bestimmungen des Gesetzes zur Entscheidung oder Verfügung nach
+                    freiem Ermessen befugt war und von diesem Ermessen im Sinne des Gesetzes
+                    Gebrauch gemacht hat 402)“ Professor Kelsen bemerkt hiezu, daß in der neuen
+                    Fassung des Artikels 138 ein Beschwerderecht der Landesregierung gegen
+                    Entscheidungen oder Verfügungen einer Bundesbehörde, wie sie der bisherige
+                    Artikel 139 vorgesehen hatte, nicht mehr vorgesehen sei. Dieser Ausschluß des
+                    Beschwerderechtes der Landesregierung sei dadurch bedingt, daß andernfalls den
+                    Landesregierungen auch die Möglichkeit der Beschwerde gegen Entscheidungen oder
+                    Verfügungen offen stünde, die die Bundesministerien auf Grund des
+                    Rechtsmittelzuges von den Landesregierungen zu ihnen in 3. Instanz treffen. Dem
+                    Einwande des Vorsitzenden, daß deiartige Beschwerden sowieso vom
+                    Verwaltungsgerichtshof abgewiesen werden würden, hält Professor Kelsen entgegen,
+                    daß bei der ausdrücklichen Statuierung der Klagelegitimation, wie sie dem
+                    Artikel 139 zu entnehmen sei, für den Verwaltungsgerichtshof nicht die
+                    Möglichkeit der Abweisung der Beschwerde bestehe. Der Vorsitzende erhebt des
+                    weiteren dagegen Bedenken, daß das Beschwerderecht des Bundesministers auf die
+                    Fülle des Art. 11<pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/>
+                    <fw type="pageNum">26</fw> und 12 eingeschränkt sei. Prof. Kelsen erwidert, daß
+                    diese — überdies auch sachlich gerechtfertigte — Einschränkung als entsprechende
+                    Kompensation für den Wegfall des Beschwerderechtes der Landesregierungen
+                    anzusehen sei. Bei der Abstimmung wird der vorgeschlagene Text zum Beschluß
+                    erhoben u. zw. der einschränkende Passus „in den Angelegenheiten des Art. 11 und
+                    12“ gegen die Stimmen der sozialdemokratischen Vertreter.</p>
+                <p>Der neue Artikel 139, der sich inhaltlich mit den bisherigen 2. Absatz des
+                    Artikels 138 deckt, erhält folgenden Wortlaut: „Für Angelegenheiten, in denen
+                    die Beschwerde an den Verwaltungsgerichtshof zulässig ist, kann der
+                    administrative Instanzenzug durch Bundes- und Landesgesetze gemäß den
+                    Zuständigkeitsbestimmungen der Artikel 10 bis 13 abgekürzt werden“.</p>
+                <p>Zu Art. 140 regt Min. Rat Froehlich gemäß einem Wunsche des Staatsamtes für
+                    Justiz an, den 3. Punkt in folgender Weise zu ergänzen: „Über die eine
+                    Kollegialbehörde zu entscheiden oder zu verfügen hat, der in erster oder höherer
+                    Instanz wenigstens ein Richter angehört. Der Ausschuß beschließt in diesem
+                    Sinne. Der 4. Punkt (freies Ermessen) entfällt, da er bereits im Art. 138
+                    Berücksichtigung gefunden hat. — Weiters wird zu diesem Artikel festgestellt,
+                    daß bezüglich der Polizeistrafsachen, für die nunmehr die Zuständigkeit des
+                    Verwaltungsgerichtshofes begründet werden soll, eine Übergangsbestimmung zu
+                    treffen sein wird.</p>
+                <p>Im Art. 143, 3. Absatz, wird folgender Zusatz angefügt: „soweit nicht die Behörde
+                    nach den Bestimmungen des Gesetzes zur Entscheidung oder Verfügung nach freiem
+                    Ermessen befugt ist.“</p>
+                <p>Zu Art. 144 macht Sektionsrat Dr. Mannlicher den Vorschlag, den 3. Absatz auf
+                    folgende Weise zu ändern: „Von den Mitgliedern des Verwaltungsgerichtshofes
+                    müssen wenigstens ebensoviele die Eignung zum Richteramte haben, als
+                    rechtskundige Verwaltungsbeamte unter ihnen sind.“ -Gegen diese Be<pb
+                        facs="#facs_28" n="28" xml:id="img_0028" break="no"/>
+                    <fw type="pageNum">27</fw>stimmung wird eingewendet, daß sie ihren Zweck, die
+                    Berufung der entsprechenden Anzahl von Verwaltungsjuristen in den
+                    Verwaltungsgerichtshof zu sichern, eigentlich nicht erfülle, da sie die
+                    Möglichkeit offen lasse, daß überhaupt keine juristisch gebildeten Richter
+                    berufen werden. Prof. Kelsen bemerkt, daß das bisherige Erfordernis der
+                    Qualifikation der Hälfte der Mitglieder zum Richteramte nach einer in
+                    Fachkreisen verbreiteten Meinung gegenwärtig nicht mehr gerechtfertigt sei, weil
+                    sie Verwaltungspraxis schon genügend juristisch durchgebildet sei, um eine
+                    entsprechende Auslese für den Verwaltungsgerichtshof zu gestatten. Abgeordneter
+                    Dr. Clessin beantragt die Fassung: „wenigstens die Hälfte der Mitglieder müssen
+                    Verwaltungsbeamte ein. Die Abänderungsanträge der Staatskanzlei und des
+                    Abgeordneten Clessin werden abgelehnt; es bleibt bei der bisherigen Fassung des
+                    Art. 144.</p>
+                <p>Art. 146 wird folgendermaßen formuliert:„Die Verwaltungsgerichtsbarkeit und die
+                    Organisation des Verwaltungsgerichtshofes werden durch Bundesgesetz
+                    geregelt.“</p>
+                <p>Zu Art. 147 bis 152 liegen Abänderungsvorschläge des Gesetzgebungsdienstes der
+                    Staatskanzlei und des Experten des Unterausschusses vor. Professor Kelsen
+                    begründet sie kurz und stellt auf Anfrage fest, daß die Immunität der
+                    Volksbeauftragten ihrer Anklage vor dem Verfassungsgerichtshofe nicht im Wege
+                    stehe; ferner daß die Erhebung der Anklage sowie das Verfahren durch Gesetz über
+                    den Verfassungsgerichtshof geregelt werden müsse. Die Abänderungsvorschläge
+                    werden ohne Debatte genehmigt, sodaß die Artikel folgenden Wortlaut
+                    erhalten:</p>
+                <quote>
+                    <p>„Artikel 147.</p>
+                    <p>Der Verfassungsgerichtshof erkennt über alle Ansprüche an den Bund, die
+                        Länder oder die Gemeinden, die im ordentlichen Rechtswege nicht auszutragen
+                        sind.</p>
+                    <p><pb facs="#facs_29" n="29" xml:id="img_0029" break="yes"/>
+                        <fw type="pageNum">28</fw>Artikel 148.</p>
+                    <p>Der Verfassungsgerichtshof erkennt ferner über Kompetenzkonflikte: a)
+                        zwischen Gerichten und Verwaltungsbehörden; b) zwischen dem
+                        Verwaltungsgerichtshof und den Gerichten, insbesondere auch zwischen dem
+                        Verwaltungsgerichtshof und dem Verfassungsgerichtshof selbst; c) zwischen
+                        den Ländern untereinander sowie zwischen einem Land und dem Bund.</p>
+                    <p>Artikel 149.</p>
+                    <p>(1) Der Verfassungsgerichtshof erkennt über Gesetzwidrigkeit von Verordnungen
+                        einer Bundes- oder einer Landesbehörde auf Antrag eines Gerichtes, soferne
+                        aber eine solche Verordnung die Voraussetzung eines Erkenntnisses des
+                        Verfassungsgerichtshofes bilden soll, von Amtswegen; über Gesetzwidrigkeit
+                        von Verordnungen einer Landesbehörde auch auf Antrag der Bundesregierung;
+                        über Gesetzwidrigkeit von Verordnungen einer Bundesbehörde auch auf Antrag
+                        einer Landesregierung. (2) Das Erkenntnis des Verfassungsgerichtshofes, mit
+                        dem die Verordnung als gesetzwidrig aufgehoben wird, verpflichtet die
+                        zuständige Behörde zur unverzüglichen Kundmachung der Aufhebung; die
+                        Aufhebung tritt am Tage der Kundmachung in Kraft.</p>
+                    <p>Artikel 150.</p>
+                    <p>(1) Der Verfassungsgerichtshof erkennt über Verfassungswidrigkeit von
+                        Landesgesetzen auf Antrag der Bundesregierung, über Verfassungswidrigkeit
+                        von Bundesgesetzen auf Antrag einer Landesregierung, sofern aber ein solches
+                        Gesetz die Voraussetzung eines Erkenntnisses des Verfassungsgerichtshofes
+                        bilden soll, von Amts wegen. (2) Der im Absatz 1 erwähnte Antrag kann
+                        jederzeit gestellt werden; er ist vom Antragsteller sofort der zuständigen
+                        Landesregierung oder der Bundesregierung bekanntzugeben. (3) Das Erkenntnis
+                        des Verfassungsgerichtshofes, mit dem ein Gesetz als verfassungswidrig
+                        aufgehoben wird, verpflichtet den Bundeskanzler oder den zuständigen
+                            Landes<pb facs="#facs_30" n="30" xml:id="img_0030" break="no"/>
+                        <fw type="pageNum">29</fw>hauptmann zur unverzüglichen Kundmachung der
+                        Aufhebung; die Aufhebung tritt am Tage der Kundmachung in Kraft, wenn nicht
+                        der Verfassungsgerichtshof für das Außerkrafttreten eine Frist bestimmt.
+                        Diese Frist darf sechs Monate nicht überschreiten. (4) Die Bestimmung des
+                        Artikels 79 Absatz 1, gilt nicht für die Prüfung der Verfassungsmäßigkeit
+                        von Gesetzen durch den Verfassungsgerichtshof.</p>
+                    <p>Artikel 151. Der Verfassungsgerichtshof erkennt über Anfechtungen von Wahlen
+                        zum Nationalrate, zum Bundesrate, zu den Landtagen und allen anderen
+                        allgemeinen Vertretungskörpern und auf Antrag eines dieser Vertretungskörper
+                        auf Erklärung des Mandatsverlustes eines seiner Mitglieder.</p>
+                    <p>Artikel 152. (1) Der Verfassungsgerichtshof erkennt über Anklage, mit der die
+                        verfassungsmäßige Verantwortlichkeit der obersten Bundes- und Landesorgane
+                        für die durch ihre Amtstätigkeit erfolgten schuldhaften Rechtsverletzungen
+                        geltend gemacht wird. (2) Die Anklage kann erhoben werden: a) gegen den
+                        Bundespräsidenten wegen Verletzung der Bundesverfassung; durch Beschluß der
+                        Bundesversammlung; b) gegen die Mitglieder der Bundesregierung und die ihnen
+                        hinsichtlich der Verantwortlichkeit gleichgestellten Organe wegen
+                        Gesetzesverletzung; durch Beschluß des Nationalrates; c) gegen die
+                        Mitglieder einer Landesregierung und die ihnen hinsichtlich der
+                        Verantwortlichkeit durch die Landesverfassung gleichgestellten Organe wegen
+                        Gesetzesverletzung durch Beschluß des zuständigen Landtages; d) gegen einen
+                        Landeshauptmann wegen Gesetzesverletzung, sowie gegen Nichtbefolgung der
+                        Verordnungen oder sonstigen Anordnungen des Bundes in Angelegenheiten der
+                        mittelbaren Bundesverwaltung durch Beschluß der Bundesregierung. (3) Das
+                        verurteilende Erkenntnis des Verfassungsge<pb facs="#facs_31" n="31"
+                            xml:id="img_0031" break="no"/>
+                        <fw type="pageNum">30</fw>richtshofes hat auf Verlust des Amtes, unter
+                        besonders erschwerenden Umständen auch auf zeitlichen Verlust der
+                        politischen Rechte zu lauten; bei geringfügigen Rechtsverletzungen in den in
+                        Absatz 2 unter d erwähnten Fällen kann sich der Verfassungsgerichtshof
+                        darauf beschränken, festzustellen, daß eine Rechtsverletzung vorliegt.</p>
+                    <p>Artikel 152 a.</p>
+                    <p>Die Anklage gegen die in Art. 152 bezeichneten Personen kann auch wegen
+                        strafgerichtlich zu verfolgender Handlungen erhoben werden, die mit der
+                        Amtstätigkeit des Anklagenden in Verbindung stehen. In diesem Falle wird der
+                        Verfassungsgerichtshof allein zuständig; die bei den ordentlichen
+                        Strafgerichten etwa bereits anhängige Untersuchung geht auf ihn über. Der
+                        Verfassungsgerichtshof kann in solchen Fällen nebst Artikel 152, Absatz 3,
+                        auch die strafgesetzlichen Bestimmungen anwenden.“</p>
+                    <p>Der Art. 153, 1. Absatz wird folgendermaßen formuliert: „(1) Der
+                        Verfassungsgerichtshof erkennt über Beschwerden wegen Verletzung der
+                        verfassungsmäßig gewährleisteten Rechte durch die Entscheidung oder
+                        Verfügung einer Verwaltungsbehörde nach Erschöpfung des administrativen
+                        Instanzenzuges. (2) Das stattgebende Erkenntnis des Verfassungsgerichtshofes
+                        bewirkt die Aufhebung der verfassungswidrigen Entscheidung oder Verfügung.
+                        Die Behörden sind bei der neu zu treffenden Entscheidung oder Verfügung an
+                        die Rechtsanschauung des Verfassungsgerichtshofes gebunden“.</p>
+                </quote>
+                <p>Eine oben gestrichene Bestimmung wird als folgender Artikel 153 a eingeschaltet:
+                    „Der Verfassungsgerichtshof erkennt über Verletzungen des Völkerrechtes nach den
+                    Bestimmungen eines besonderen Bundesgesetzes.“</p>
+                <p>Art. 155 erhält auf Anregung des Professors Kelsen, der es für bedenklich
+                    erklärt, die Anzahl der Mitglieder des<pb facs="#facs_32" n="32"
+                        xml:id="img_0032" break="yes"/>
+                    <fw type="pageNum">31</fw> Verfassungsgerichtshofes bereits
+                    verfassungsgesetzlich festzulegen, folgenden Wortlaut:</p>
+                <p>„(1) Der Verfassungsgerichtshof hat seinen Sitz in Wien. (2) Er besteht aus einem
+                    Präsidenten, einem Vizepräsidenten, ferner der erforderlichen Anzahl von
+                    Mitgliedern und Ersatzmitgliedern. (3) Der Präsident, der Vizepräsident sowie
+                    die Hälfte der Mitglieder und Ersatzmitglieder werden vom Nationalrate, die
+                    andere Hälfte der Mitglieder und Ersatzmitglieder vom Bundesrat auf Lebensdauer
+                    gewählt“ 117 Der Vorsitzende stellt in diesem Zusammenhang zur Diskussion, ob es
+                    nicht zweckmäßig wäre, die Mitglieder des Verfassungsgerichtshofes nach dem
+                    Verhältniswahlrecht entsprechend der Stärke der Parteien zu bestellen, ferner ob
+                    nicht für eine Anzahl der Mitglieder die Eignung zum Richteramte gefordert
+                    werden sollte. Professor Kelsen schlägt demgegenüber vor beim gegenwärtigen
+                    Rechtszustande zu beharren, der sich bewährt habe. Ein Antrag wird nicht
+                    gestellt.</p>
+                <p>Art. 156 wird gestrichen.</p>
+                <p>Der Gesetzgebungsdienst der Staatskanzlei schlägt folgenden Wortlaut des „7.
+                    Hauptstückes: Schlußbestimmungen“ vor:</p>
+                <quote>
+                    <p>Artikel 158</p>
+
+                    <p>(1) Außer diesem Gesetze sind im Sinne des Artikels 31, Abs. 2
+                        Verfassungsgesetze: Staatsgrundgesetz vom 21. Dezember 1867, RGBl. Nr. 142,
+                        über die allgemeinen Rechte der Staatsbürger für die im Reichsrate
+                        vertretenen Königreiche und Länder; Gesetz vom 27. Oktober 1862, RGBl. Nr.
+                        87, zum Schutze der persönlichen Freiheit; Gesetz vom 27. Oktober 1862,
+                        RGBl. Nr. 88, zum Schutz des Hausrechtes; Beschluß der provisorischen
+                        Nationalversammlung vom 30. Oktober 1918, StGBI. Nr. 3; Gesetz vom 3. April
+                        1919, StGBl. Nr. 209, betreffend die Landesverweisung und die Übernahme des
+                        Vermögens des Hauses HabsburgLothringen; Gesetz vom 3. April 1919, StGBl.
+                        Nr. 211, Über die Aufhebung des Adels, der weltlichen Ritter- und Damenorden
+                        und gewisser Titel und Würden. (2) Verfassungsbestimmungen im Sinne<pb
+                            facs="#facs_33" n="33" xml:id="img_0033" break="yes"/>
+                        <fw type="pageNum">32</fw> des Artikels 33, Absatz 1, sind Abschnitt V des
+                        III. Teiles den Staatsvertrag von St. Germain vom 10. September 1919, StGBl.
+                        Nr. 302; Paragraph 21, Absatz 2, des Gesetzes vom 10. Juni 1920, StGBl. Nr.
+                        250, über das Zollrecht und das Zollverfahren (Zollgesetz).</p>
+                    <p>Artikel 159. Der Übergang zu der durch dieses Gesetz eingeführten
+                        bundesstaatlichen Verfassung wird durch ein eigenes, zugleich mit diesem
+                        Gesetz in Kraft tretendes Verfassungsgesetz geregelt. Auf die Abänderung des
+                        eben erwähnten Verfassungsgesetzes finden mit Ausnahme der §§ ... die
+                        Bestimmungen des Art. 33, Abs. 2 keine Anwendung.</p>
+                    <p> Artikel 160</p>
+                    <p>(1) Dieses Gesetz tritt am Tage des ersten Zusammentretens des Nationalrates
+                        in Kraft, soweit nicht durch das im Artikel 159 bezeichnete Gesetz Ausnahmen
+                        festgesetzt werden. (2) Die Bestimmungen des Art. 42, Abs. 1 und des Art.
+                        55, Abs. 2 treten jedoch am Tage der Kundmachung in Kraft, wobei bis zum
+                        Inkrafttreten der anderen Bestimmungen dieser Gesetze das dem Nationalrate
+                        zustehende Genehmigungsrecht von der Nationalversammlung ausgeübt wird.</p>
+                    <p>Artikel 161</p>
+                    <p>Mit dem Vollzuge dieses Gesetzes ist die Staatsregierung betraut.“</p>
+                </quote>
+                <p>Zu dem im Art. 158 enthaltenen Katalog bemerkt Prof. Kelsen, daß das
+                    Staatsgrundgesetz vom 21. Dezember 1867, RGBI. Nr. 142, im Art. 20 die
+                    Suspension von Grundrechten vorsehe und daß bei Rezeption des vollen Textes des
+                    Staatsgrundgesetzes auch das gegenwärtige Gesetz über den Ausnahmszustand vom 5.
+                    Mai 1869, RGBI. Nr. 66, rezipiert sei. Es wird demnach dem Art. 158 folgender 3.
+                    Absatz angefügt: „Artikel 20 des Gesetzes vom 21. Dezember 1867, RGBI. Nr. 142,
+                    sowie das auf Grund dieses Artikels erlassene Gesetz vom 5. Mai<pb
+                        facs="#facs_34" n="34" xml:id="img_0034" break="yes"/>
+                    <fw type="pageNum">33</fw> 1869, RGBI. Nr. 66, treten außer Kraft.</p>
+                <p>Der Vorsitzende stellt die Frage, ob Lücken im Katalog der rezipierten
+                    Verfassungsgesetze ausgeschlossen seien. Min. Rat Dr. Froehlich übernimmt es,
+                    das Verzeichnis nochmals zu sichten und allfällige Streichungen und Ergänzungen
+                    in der Sitzung des Verfassungsausschusses anzuregen.</p>
+                <p>Der Vorsitzende eröffnet sodann die Debatte über die vorläufig noch offen
+                    gebliebenen Kompetenzbestimmungen und erteilt dem Professor Seipel das Wort. Dr.
+                    Seipel referiert über den Punkt Elektrizitätswesen und bemerkt, dem Kompromisse
+                    zwischen den Parteien entspreche des in großen Zügen, daß die technische Seite
+                    des Elektrizitätswesens im Art. 10, die wirtschaftliche Seite im Art. 12
+                    behandelt werde. Professor Dr. Seipel kritisiert unter diesem Gesichtspunkte die
+                    von Min. Rat Gärtner in der Sitzung vom 22. September 1920 vorgetragenen
+                    Vorschläge, die auch auf wirtschaftlichem Gebiete auf eine Zentralisierung des
+                    Elektrizitätswesens hinausliefe. Seine Partei könne nur zugestehen, daß die
+                    Normalisierung und Typisierung elektrischer Anlagen und Einrichtungen, ferner
+                    Sicherheitsmaßnahmen nach Art. 10 behandelt werden; die übrigen Angelegenheiten
+                    des Elektrizitätswesens müssen unter Art. 12 fallen. Der Vorsitzende hält dem
+                    entgegen, daß jedenfalls auch das Elektrizitätswegerecht, die Begründung von
+                    Zwangsbenützungsrechten, die Maßregeln für die technisch zweckmäßige
+                    Nutzbarmachung der Wasserkräfte, endlich die Bahnkraftwerke nach Gesetzgebung
+                    und Vollziehung dem Bunde vorbehalten werden müßten; insbesondere sei es ein
+                    unerträglicher Gedanke, daß die Elektrifizierung der 421) Art. 152 B.-VG. 92*
+                    Verfassungstext 500 Bahnen vom guten Willen der Länder abhängen solle. Der
+                    Vorsitzende stellt auch fest, dass<pb facs="#facs_35" n="35" xml:id="img_0035"
+                        break="yes"/>
+                    <fw type="pageNum">34</fw> der Entwurf des Herrn Staatssekretärs Mayr im Punkte
+                    Elektrizitätswesen den gesamtstaatlichen Erfordernissen besser Rechnung getragen
+                    habe als die nunmehr vorliegenden Vorschläge der christlichsozialen Partei.
+                    Professor Dr. Seipel bemerkt demgegenüber insbesondere, daß nach den ihm von
+                    technischer Seite erteilten Informationen eine reinliche Scheidung zwischen
+                    Bahnkraftwerken und anderen Kraftwerken nicht vorgenommen werden könne und daß
+                    mithin die Inanspruchnahme einer Kompetenz des Bundes für Bahnkraftwerke nur ein
+                    Umweg sei, um so ziemlich alle Fragen des Elektrizitätswesens für den Bund in
+                    Anspruch zu nehmen. Für den Elektrizitätsbedarf der Bahnen müsse eben im
+                    Vereinbarungswege Vorsorge getroffen werden. Der Experte Min. Rat Gärtner
+                    vertritt in längeren Ausführungen vom technischen Standpunkte seine, über die
+                    von christlichsozialer Seite dem Bunde eingeräumten Materien hinausgehenden
+                    Vorschläge, und glaubt als technische Mindesterfordernisse insbesondere das
+                    Starkstromwegerecht nicht weniger als die Normalisierung und Typisierung
+                    elektrischer Anlagen, ferner die Bahnkraftwerke in Anspruch nehmen zu sollen.
+                    Zur Frage der Bahnkraftwerke bemerkt er, das Gebiet der elektrischen
+                    Zugsförderungen und ihre Erfordernisse seien heute so geklärt, daß eine
+                    besondere Beachtung der Bahnkraftwerke bei Aufrechterhaltung aller anderen
+                    Interessen möglich sei. Fragen des Bahnverkehres seien allgemeiner Natur und
+                    beträfen das Bundesganze</p>
+                <p>Nach längerer Wechselrede wird festgestellt, daß nicht bloß über das
+                    Elektrizitätswesen und Wasserrecht, sondern auch über das Schulwesen, das
+                    Gesundheitswesen, die Bodenreform und das Staatsbürgerrecht eine Einigung noch
+                    nicht erzielt und daß die Klärung dieser Fragen besonderen neuerlichen
+                    Parteivereinbarungen vorzubehalten sei.</p>
+                <p/>
+                <p>Der Vorsitzende schließt mit dieser Feststellung um ½7 Uhr abends die heutige
+                    Sitzung und damit zugleich die Sitzungen des Unterausschusses.</p>
+            </div>
+        </body>
     </text>
 </TEI>
