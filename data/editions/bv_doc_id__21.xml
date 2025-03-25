@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">UA Entwurf 15.September 1920</title>
+                <title type="main">Unterausschuß Entwurf 15.September 1920</title>
                 <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
@@ -70,9 +70,16 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <author role="acdh:hasAuthor">Unterausschuss des Verfassungsausschusses</author>
+                            <author role="acdh:hasAuthor">Unterausschuß Entwurf 15. September
+                                                1920</author>
                             <title>UA Entwurf 15.September 1920</title>
-                            <note type="editor">UA 15. September (Titel des Dokuments: "Entwurf eines Gesetzes, womit die Republik Österreich als Bundesstaat eingerichtet wird, Fassung nach dem Stande der Beratungen am 15. September 1920"), Zustand gut, einige handschriftliche Ergänzungen in Bleistift, 157 Artikel</note>
+                            <note type="editor">Unterausschuß Entwurf 15. September 1920 (Titel des
+                                                Dokuments: "Entwurf eines Gesetzes, womit die
+                                                Republik Österreich als Bundesstaat eingerichtet
+                                                wird, Fassung nach dem Stande der Beratungen am 15.
+                                                September 1920"), Zustand gut, einige
+                                                handschriftliche Ergänzungen in Bleistift, 157
+                                                Artikel</note>
                         </msItem>
                     </msContents>
                     <physDesc>

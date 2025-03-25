@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">VfA Entwurf KNV Beilage</title>
+                <title type="main">Verfassungsausschuß Entwurf 1920</title>
                 <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
@@ -70,9 +70,12 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <author role="acdh:hasAuthor">Verfassungsausschuss</author>
+                            <author role="acdh:hasAuthor">Verfassungsausschuß Entwurf 1920</author>
                             <title>VfA Entwurf KNV Beilage</title>
-                            <note type="editor">VfA Entwurf (Titel des Dokuments: "Antrag des Verfassungsausschusses") KNV Beilage 991, Zustand gut, wenige Anmerkungen, 153 Artikel</note>
+              <note type="type_x5r_1nf_52c">Verfassungsausschuß Entwurf 1920</note>
+                            <note type="editor">Verfassungsausschuß Entwurf 1920 (Titel des
+                Dokuments: "Antrag des Verfassungsausschusses") KNV Beilage 991, Zustand gut, wenige
+                Anmerkungen, 153 Artikel</note>
                         </msItem>
                     </msContents>
                     <physDesc>
