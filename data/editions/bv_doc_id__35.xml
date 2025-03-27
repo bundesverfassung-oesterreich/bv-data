@@ -1641,15 +1641,27 @@
                     </div>
                     <div type="article">
                         <head>§ 43.</head>
-                        <p type="legal_section">Jede Commission zählt drei Mitglieder und zwei
-                            Beisitzer. Kein Mitglied des Staatsrats darf mehr als drei Kommissionen
-                            angehören. Jede für ans[?] jede Commission bestellt der Praesident einen
-                            Kom Mitglied zum Kommissionsleiter. und eine folgende Commissionen sind
-                            müssen ständig ausgerichtet sein: <list>
+                        <p type="legal_section">Jede Commission zählt drei Mitglieder <add>und zwei
+                                Beisitzer</add>. Kein Mitglied des Staatsrats darf mehr als drei
+                            Kommissionen angehören. <del>Jede für</del>
+                            <add>Aus</add> jeder Commission bestellt der Praesident ein<choice>
+                                <del>en Kom</del>
+                                <add>Mitglied</add>
+                            </choice>  zum Kommissionsleiter<choice>
+                                <del>und eine</del>
+                                <add>.</add>
+                            </choice>
+                            <choice>
+                                <sic>f</sic>
+                                <corr>F</corr>
+                            </choice>olgende Commissionen <choice>
+                                <del>sind</del>
+                                <add>müssen</add>
+                            </choice>  ständig ausgerichtet sein: <list>
                                 <label>1. </label>
                                 <item>Die Verfassungskommission </item>
                                 <label>2. </label>
-                                <item>Die auswärtige Kommission  </item>
+                                <item>Die auswärtige Kommission </item>
                                 <label>3. </label>
                                 <item>Die Heereskommission </item>
                                 <label>4. </label>
@@ -1659,19 +1671,26 @@
                                 <label>6. </label>
                                 <item>Die Unterrichtskommission </item>
                                 <label>7. </label>
-                                <item> Die Finanzkommission  </item>
+                                <item> Die Finanzkommission </item>
                                 <label>8. </label>
                                 <item>Die Hauptkommission für Volkswirtschaft, welche sich vereinigt
-                                    aus den Unterkommissionen für Ackerbau, für Gewerbe u Industrie
-                                    und Handel für Verkehrswesen, für soziale Verwaltung und für
-                                    Volksernährung. </item>
+                                    aus den Unterkommissionen für Ackerbau, für Gewerbe<choice>
+                                        <sic/>
+                                        <corr>,</corr>
+                                    </choice>
+                                    <del>u</del> Industrie und Handel, für Verkehrswesen, für
+                                    soziale Verwaltung und für Volksernährung.</item>
                             </list></p>
                         <p type="legal_section">Außerdem können nach Bedarf fallweise oder ständig
-                            besondere Kommissionen eingerichtet Der Praesident des Staatsrats bildet
-                            außerwerden. dem mit den Leitern aller Commissionen zusammen unter
-                            seinem Vorsitz als 9. die ArbeitsKommission mit der Aufgabe, die
-                            Geschäfte zuer[?] auf die Commissionen zu verteilen, deren Arbeiter in
-                            Einklang zu halten und den Fortgang der Geschäfte in zu [?] von
+                            besondere Commissionen eingerichtet werden.</p>
+                        <p type="legal_section">Der Praesident des Staatsrats bildet außerdem <choice>
+                                <del>mit</del>
+                                <add>aus</add>
+                            </choice> den Leitern aller Commissionen zusammen unter seinem Vorsitz
+                            als </p>
+                        <p type="legal_section">9. die Arbeitskommission mit der Aufgabe, die
+                            Geschäfte auf die Commissionen zu verteilen, deren Arbeiter in Einklang
+                            zu halten und den Fortgang der Geschäfte<del>[?] zu</del>
                             wahrzunehmen.</p>
                     </div>
                     <pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/>
@@ -1681,44 +1700,66 @@
                         <p type="legal_section">Die Commissionsleiter sind befugt, allein oder durch
                             die Kommissionsmitglieder, in die ihrem Wirkungskreise entsprechenden
                             Zweige der Staatsverwaltung ohne Beinflußung oder Hemmung des
-                            Geschäftsganges Einblick zu nehmen und über ihm Wahrnehmungen im
-                            Staatsrat zu berichten die zur Reform führender Vors Vorlagen
-                            auszuarbeiten und die zur Besetzung der Staatssekretariate dien
-                            diensamen Vorschläge zu erstatten.</p>
+                            Geschäftsganges Einblick zu nehmen und über ihre Wahrnehmungen im
+                            Staatsrat zu berichten, die zur Reform führenden <choice>
+                                <del>Vors</del>
+                                <add>Vorlagen</add>
+                            </choice>  auszuarbeiten und die zur Besetzung der Staatssekretariate <choice>
+                                <del>dien</del>
+                                <add>diensamen</add>
+                            </choice>  Vorschläge zu erstatten.</p>
                     </div>
                     <div type="article">
                         <head>§ 45.</head>
                         <p type="legal_section">Der Staatsrat erläßt auf Grund des Berichtes und der
-                            Anträge des Staatskanzlers und der mit dem Berichten der Sache
-                            Verwaltungszweig betrauten Staatssekretäre und nach Anhörung ihrer mit
-                            der Angelegenheit befaßten zuständigen Commission die Verordnungen und
-                            Verfügungen, welche zur Durchführung der Gesetze und der sonstigen
-                            Beschlüsse der Nationalversammlung an die Staatsbürger zu richten sind.
-                        </p>
+                            Anträge des Staatskanzlers und der mit <choice>
+                                <sic>dem berührten Verwaltungszweig</sic>
+                                <corr>der Sache</corr>
+                            </choice>   betrauten Staatssekretäre und nach Anhörung ihrer <choice>
+                                <sic>mit der Angelegenheit befaßten</sic>
+                                <corr>zuständigen</corr>
+                            </choice>  Commission die Verordnungen und Verfügungen, welche zur
+                            Durchführung der Gesetze und der sonstigen Beschlüsse der
+                            Nationalversammlung an die Staatsbürger zu richten sind.</p>
                     </div>
                     <div type="article">
                         <head>§ 46.</head>
-                        <p type="legal_section">[Kurzschrift]</p>
-                        <p type="legal_section">Die unmittelbare Dienstgewalt über die Regierung übt
-                            der Staatsrat einging aus allein durch die Person seines Praesidenten.
-                            Dieser vollzieht die Ernennung des Staatskanzlers und der
-                            Staatssekretäre. Weder der Staatsrat nach seine Kommissionen noch
-                            einzelne seiner Mitglieder führen unmittelbar Agenden der Verwaltung.
-                            Der Staatsrat erläßt diejenige Anweisungen, die er zur Durchführung der
-                            Gesetze durch an Behörde und Ämter [unleserlich] erforderlich hält,
+                        <p type="legal_section">Die unmittelbare Dienstgewalt über <choice>
+                                <sic>die Regierung</sic>
+                                <corr>[Kurzschrift]</corr>
+                            </choice> übt der Staatsrat einzig aus allein durch die Person seines
+                            Praesidenten. <del>Dieser vollzieht die Ernennung des Staatskanzlers und
+                                der Staatssekretäre.</del> Weder der Staatsrat nach seine
+                            Kommissionen noch einzelne seiner Mitglieder führen unmittelbar Agenden
+                            der Verwaltung. </p>
+                        <p type="legal_section">Der Staatsrat erläßt diejenige Anweisungen, die er
+                            zur Durchführung der Gesetze <choice>
+                                <del>durch</del>
+                                <add>an</add>
+                            </choice>  Behörde und Ämter <add>[unleserlich]</add> erforderlich hält,
                             schriftlich an den Staatskanzler. Diese Anweisungen sind vom
                             Praesidenten des Staatsrats und vom Leiter der an ihrer Verberatung
                             beteiligte Commission zu fertigen. Staatskanzler, Staatssekretäre und
-                            alle ihnen nachgeordneten Stellen sind an diese Anweisungen gebunden</p>
+                            alle ihnen nachgeordneten Stellen sind an diese Anweisungen
+                            gebunden.</p>
                     </div>
                     <pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"/>
                     <fw type="pageNum">23 </fw>
                     <div type="article">
                         <head>§ 47.</head>
-                        <p type="legal_section">Der Staatsrat und seine Kommissionen sind ständig im
+                        <p type="legal_section">Der Staatsrat und seine Commissionen sind ständig im
                             Amt, auch in der Zeit, wo die Nationalversammlung nicht tagt. Seine
-                            Anträge u Vollmachten erlöschen erst, nachdem der neu gewä eingesetzte
-                            Staatsrat und dessen Kommissionen die Geschäfte übernommen haben.</p>
+                            Anträge u<choice>
+                                <sic/>
+                                <corr>nd</corr>
+                            </choice> Vollmachten erlöschen erst, nachdem der neu <choice>
+                                <del>gewä<choice>
+                                        <sic/>
+                                        <corr>hlte</corr>
+                                    </choice></del>
+                                <add>eingesetzte</add>
+                            </choice>  Staatsrat und dessen Kommissionen die Geschäfte übernommen
+                            haben.</p>
                     </div>
                 </div>
                 <pb facs="#facs_24" n="24" xml:id="img_0024" break="yes"/>
@@ -1730,6 +1771,10 @@
                             <add>Die Verwaltung im Besonderen</add>
                         </choice></head>
                     <div type="article">
+                        <head><fw type="pageNum"><choice>
+                                    <sic>12</sic>
+                                    <corr>24</corr>
+                                </choice></fw></head>
                         <head><choice>
                                 <del><choice>
                                         <del>§ 34</del>
@@ -1737,10 +1782,15 @@
                                     </choice></del>
                                 <add>§ 48</add>
                             </choice></head>
-                        <p type="legal_section">Auf Grund der Gesetze und der Anweisungen des StR
-                            Vollzugsausschusses führen die Behörden und Ämter die Verwaltung des
-                            Freistaats. Die Regierung und die ihr nachgeordneten Für die
-                            Gesetzlichkeit.</p>
+                        <p type="legal_section">Auf Grund der Gesetze und der Anweisungen des <choice>
+                                <sic>Vollzugsausschusses</sic>
+                                <corr>StR</corr>
+                            </choice> führen <add>die Regierung und die ihr nachgeordneten</add>
+                            <del>die</del> Behörden u<choice>
+                                <sic/>
+                                <corr>nd</corr>
+                            </choice> Ämter die Verwaltung des Freistaats. <del>Für die
+                                Gesetzlichkeit.</del></p>
                     </div>
                     <div type="article">
                         <head><choice>
@@ -1750,11 +1800,21 @@
                                     </choice></del>
                                 <add>§ 49</add>
                             </choice></head>
-                        <p type="legal_section">An der Spitze der Verwaltung Regierung steht der
-                            Staatskanzler. Er ist der oberste Chef aller Behörden und Ämter, der
-                            höchste Vorgesetzte aller Beamten und B öffentlichen Staatsbedien-
-                            Bediensteten mit alleiniger Ausnahme der Richter) und sowie der
-                            Offiziere u. Soldaten der bewaffneten Macht.</p>
+                        <p type="legal_section">An der Spitze der <choice>
+                                <del>Verwaltung</del>
+                                <add>Regierung</add>
+                            </choice>  steht der Staatskanzler. Er ist der oberste Chef aller
+                            Behörden und Ämter, der höchste Vorgesetzte aller <choice>
+                                <del>Beamten und B</del>
+                                <add>öffentlichen</add>
+                            </choice>
+                            <choice>
+                                <del>Staatsb</del>
+                                <add>B</add>
+                            </choice>ediensteten mit alleiniger Ausnahme der Richter) <choice>
+                                <del>und</del>
+                                <add>sowie</add>
+                            </choice>  der Offiziere u. Soldaten der bewaffneten Macht.</p>
                     </div>
                     <div type="article">
                         <head><choice>
@@ -1767,11 +1827,21 @@
                         <p type="legal_section">Der Staatskanzler ist vor allem für die
                             Gesetzlichkeit, Einheitlichkeit und Stetigkeit der Verwaltung
                             verantwortlich. Alle nachgeordneten Behörden und Ämter, Beamten und
-                            Diener des Staates schulden seinen Dienstbefehlen unmittelbar Gehorsam.
-                            Verordnungen und Verfügungen die sich nicht an die ihm nachgeordneten
-                            Stellen, sondern an die Staatsbürger selbst richten, zu erlassen ist er
-                            der Kanzler nicht befugt, solche Verordnungen u Verfügungen sind nichtig
-                            andernfalls nichtig. (gehen vom Staatsrate aus und)</p>
+                            Diener des Staates schulden seinen Dienstbefehlen unmittelbar Gehorsam. </p>
+                        <p type="legal_section">Verordnungen und Verfügungen, die sich nicht an die
+                            ihm nachgeordneten Stellen, sondern an die Staatsbürger selbst richten,
+                            zu erlassen ist <choice>
+                                <del>er</del>
+                                <add>der Kanzler</add>
+                            </choice>  nicht befugt<choice>
+                                <sic>,</sic>
+                                <corr>.</corr>
+                            </choice>
+                            <del>solche Verordnungen u<choice>
+                                    <sic/>
+                                    <corr>nd</corr>
+                                </choice> Verfügungen sind nichtig andernfalls nichtig. (gehen vom
+                                Staatsrate aus und)</del></p>
                     </div>
                     <div type="article">
                         <head><choice>
@@ -1781,72 +1851,118 @@
                                     </choice></del>
                                 <add>§ 57</add>
                             </choice></head>
-                        <p>Die zentrale Staatsverwaltung besorgen führen die nachstehenden Ämter
-                            Behörden. <list>
-                                <label>1.  </label>
-                                <item>Das Staatskanzleramt, dem die allgemeine Übersicht über die
-                                    genannten alle Verwaltungsgeschäfte, die Geschäftsverteilung,
-                                    die Leitung zwei oder mehreren Ämtern obliegender Geschäfte, die
-                                    Beschleunigung des Geschäftsgangs und o, die Austragung von
-                                    Fällen zweifelhafter Zuständigkeit, das Zusammenwirken in
-                                    Geschäften, an denen zwei oder mehrere Ämter Behörden beteiligt
-                                    sind, die Aufsicht über die Geschäftsführung und die
-                                    Beschleunigung des Geschäftsganges obli obliegt. obliegen. </item>
+                        <p>Die zentrale Staatsverwaltung <choice>
+                                <sic>besorgen</sic>
+                                <corr>führen</corr>
+                            </choice>  die nachstehenden <choice>
+                                <sic>Ämter</sic>
+                                <corr>Behörden</corr>
+                            </choice> . <list>
+                                <label>1. </label>
+                                <item>Das Staatskanzleramt, dem die <del>allgemeine</del> Übersicht
+                                    über  <choice>
+                                        <sic>alle</sic>
+                                        <corr>die genannten</corr>
+                                    </choice> Verwaltungsgeschäfte, die Geschäftsverteilung,
+                                        <del>die Leitung zwei oder mehreren Ämtern obliegender
+                                        Geschäfte, die Beschleunigung des Geschäftsgangs und
+                                    o</del>, die Austragung von Fällen zweifelhafter Zuständigkeit,
+                                    das Zusammenwirken in Geschäften, an denen zwei oder mehrere <choice>
+                                        <del>Ämter</del>
+                                        <add>Behörden</add>
+                                    </choice>  beteiligt sind, die Aufsicht über die
+                                    Geschäftsführung und die Beschleunigung des Geschäftsganges <choice>
+                                        <del>obliegt</del>
+                                        <add>obliegen</add>
+                                    </choice>. </item>
                                 <pb facs="#facs_25" n="25" xml:id="img_0025" break="yes"/>
-                                <fw type="pageNum">23</fw>
-                                <label>2.  </label>
-                                <item>Das Staats auswärtige Amt </item>
+                                <fw type="pageNum">13</fw>
+                                <label>2. </label>
+                                <item>Das <del>Staatsa<choice>
+                                            <sic/>
+                                            <corr>mt</corr>
+                                        </choice></del>auswärtige Amt </item>
                                 <label>3. </label>
-                                <item>Das Staatsamt für Inneres </item>
+                                <item>Das Staatsamt für Inneres</item>
                                 <label>4. </label>
                                 <item><choice>
-                                        <del>Das Staatsjustizamt des Staatsheeresamt </del>
-                                        <add>Das Staatsamt für Heerwesen </add>
+                                        <del>Das Staatsjustizamt </del>
+                                        <add><del>Das Staatsheeresamt</del> Das Staatsamt für
+                                            Heerwesen </add>
                                     </choice>
                                 </item>
-                                <label>5.  </label>
-                                <item>Das Staatsjustizamt  </item>
-                                <label>6. </label>
-                                <item>Das Staatsamt-Unterrichtsamt  </item>
-                                <label>7. </label>
-                                <item>Das Staat Staatsamt für Volkswirtschaft dem <list>
+                                <add><label>5. </label><item>Das Staatsjustizamt</item></add>
+                                <label><choice>
+                                        <del>5.</del>
+                                        <add>6. </add>
+                                    </choice></label>
+                                <item>Das Staats<del>amt</del>-Unterrichtsamt </item>
+                                <label><choice>
+                                        <del>6.</del>
+                                        <add>7. </add>
+                                    </choice></label>
+                                <item>Das <del>Staat</del> Staatsamt für Volkswirtschaft, dem <list>
                                         <label>a) </label>
-                                        <item>ein des Staatsamt für Ackerbau-, Vie Forste, u. Vieh
-                                            amt Forstwirtschaft und Viehzucht  </item>
+                                        <item>
+                                            <choice>
+                                                <del>das</del>
+                                                <add>ein</add>
+                                            </choice> Staats<choice>
+                                                <del>amt für</del>
+                                                <add>-</add>
+                                            </choice> Ackerbau<add>amt</add>, <del>Vie<choice>
+                                                  <sic/>
+                                                  <corr>h</corr>
+                                                </choice> Forste, u. Vieh Forstwirtschaft u
+                                                Viehzucht </del></item>
                                         <label>b) </label>
-                                        <item>des Staats-Industrieamt  </item>
+                                        <item><choice>
+                                                <sic>des</sic>
+                                                <corr>ein</corr>
+                                            </choice> Staats-Industrieamt </item>
                                         <label>c) </label>
-                                        <item>des Staats-Handelsamt und und das Staatsbauamt und  </item>
+                                        <item><choice>
+                                                <sic>des</sic>
+                                                <corr>ein</corr>
+                                            </choice> Staats- Handelsamt <del>und und</del>
+                                        </item>
                                         <label>d) </label>
-                                        <item>ein Staatsarbeitsamt </item>
-                                        <label>e)  </label>
-                                        <item>das Staatsarbeitsamt und  </item>
+                                        <item><del>ein Staatsarbeitsamt </del><add>das Staatsbauamt
+                                                  <del>und</del>
+                                            </add></item>
+                                        <label>e) </label>
+                                        <item>das Staatsarbeitsamt und </item>
                                         <label>f) </label>
-                                        <item>das Staats-Ernährungsamt eingegliedert sind. </item>
-                                    </list>
-                                </item>
-                                <label>8. </label>
-                                <item> Das Staatsverkehrsamt, dem  <list>
+                                        <item>das Staats-Ernährungsamt </item>
+                                    </list>eingegliedert sind.  </item>
+                                <label><choice>
+                                        <sic>8. </sic>
+                                        <corr>9.</corr>
+                                    </choice></label>
+                                <item> Das Staatsverkehrsamt, dem <list>
                                         <label>a) </label>
-                                        <item>das Staatseisenbahnamt  </item>
+                                        <item>das Staatseisenbahnamt </item>
                                         <label>b) </label>
                                         <item>das Staatsamt für Fuß u Seeschiffahrt und </item>
                                         <label>c) </label>
                                         <item>das Staatspostamt (Post, Telegraphie, Telephon)
                                         </item>
                                     </list><p type="legal_section">eingeglieder sein.</p></item>
-                                <label>9.  </label>
-                                <item>Das Staatsschatzamt, dem  <list>
+                                <label><choice>
+                                        <sic>8.</sic>
+                                        <corr>9.</corr>
+                                    </choice></label>
+                                <item>Das Staatsschatzamt, dem <list>
                                         <item><list>
                                                 <label>a) </label>
-                                                <item>das Staatsamt für direkte Besteuerung  </item>
+                                                <item>das Staatsamt für direkte Besteuerung </item>
                                                 <label>b) </label>
                                                 <item>das Staatsamt für Verkehrs- und
                                                   Verbrauchsabgaben und </item>
-                                                <label>c)  </label>
-                                                <item>das Staatsgebürenamt und  </item>
+                                                <label>c) </label>
+                                                <item><del>das Staatsgebürenamt und </del></item>
                                                 <label>d) </label>
-                                                <item>das Staatsmonopalsamt eingegliedert sein.
+                                                <item>das Staatsmonopalsamt eingegliedert sind.
                                                 </item>
                                             </list></item>
                                     </list></item>
@@ -1860,14 +1976,32 @@
                                 </choice>
                                 <add>§ 52</add>
                             </choice></head>
-                        <p type="legal_section">Steht der Staatskanzler, an der Spitze jedes der
-                            unter 2 bis 9 genannte Staatsämter ein Staatssekretär, an der Spitze der
-                            unter 6,7 und 8 angeführten angegliederten Ämter ein Unterstaatssekretär
-                            Der Staatskanzler, die Staatssekretäre und Unterstaatssekretäre sind der
-                            Nationalversammlung einzeln und insgesamt für die Führung der Verwaltung
-                            verantwortlich. Ihre Ernennung erfolgt auf Beschluß des Staatsrats, die
-                            Ausfertigung der Ernennung ist vom Praesidenten und vom Vorsitzenden der
-                            Verfassungskommission zu zeichnen. </p>
+                        <p type="legal_section">An der Spitze <del>der erwähnten acht</del> des
+                            Staatskanzleramts steht der Staatskanzler, an der Spitze jedes der unter
+                            2 bis <choice>
+                                <sic>8</sic>
+                                <corr>9</corr>
+                            </choice> genannten Staatsämter ein Staatssekretär, an der Spitze der
+                            unter 6,7<choice>
+                                <del>,</del>
+                                <add> und</add>
+                            </choice>8 angeführten angegliederten Ämter ein Unterstaatssekretär.</p>
+                        <p type="legal_section"> Der Staatskanzler, die Staatssekretäre und
+                            Unterstaatssekretäre <add>bilden unter Vorsitz des Staatskanzlers in
+                                ihrer Gesamtheit den Kanzlerrat oder die Regierung<choice>
+                                    <sic/>
+                                    <corr>.</corr>
+                                </choice> Sie</add> sind der Nationalversammlung einzeln und
+                            insgesamt für die Führung der <del>S</del> Verwaltung verantwortlich. </p>
+                        <p type="legal_section">Ihre Ernennung erfolgt auf Beschluß des Staatsrats,
+                            die Ausfertigung der Ernennung ist vom Praesidenten und vom Vorsitzenden
+                            der Verfassungskommission zu zeichnen<add> und bei der Berufung des
+                                Kanzlers vom scheidenden Kanzler, bei der eines Staatssekretärs vom
+                                Kanzler, bei der eines Unterstaatssekretärs vom zuständigen
+                                Staatssekretär gegenzuzeichnen <choice>
+                                    <sic>.</sic>
+                                    <corr/>
+                                </choice></add>.</p>
                     </div>
                     <div type="article">
                         <head><choice>
@@ -1881,8 +2015,13 @@
                                 <add>§ 53</add>
                             </choice></head>
                         <p>Der Kanzlerrat steht durch die Person des Staatskanzlers in unmittelbaren
-                            Verkehr mit dem Praesidenten des Vollzugsausschusses StR. Außerdem hat
-                            jeder Staatssekretär das Recht Unterstaatssekretär</p>
+                            Verkehr mit dem Praesidenten des <choice>
+                                <sic>Vollzugsausschusses</sic>
+                                <corr>StR</corr>
+                            </choice> . Außerdem hat jeder Staatssekretär <add>u<choice>
+                                    <sic/>
+                                    <corr>nd</corr>
+                                </choice> Unterstaatssekretär</add> das Recht </p>
                         <p>
                             <pb facs="#facs_26" n="26" xml:id="img_0026" break="yes"/><fw
                                 type="pageNum">14</fw> und die Pflicht, allein oder mit dem Kanzler
