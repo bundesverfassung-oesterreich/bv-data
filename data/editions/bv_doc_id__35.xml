@@ -1486,7 +1486,7 @@
                                     <add> b)</add>
                                 </choice> Die Landes<choice>
                                     <sic/>
-                                    <corr/>
+                                    <corr>-</corr>
                                 </choice>
                                 <add> und Kreis</add>gesetzgebung.</head>
                             <div type="article">
@@ -2024,20 +2024,41 @@
                                 </choice> Unterstaatssekretär</add> das Recht </p>
                         <p>
                             <pb facs="#facs_26" n="26" xml:id="img_0026" break="yes"/><fw
-                                type="pageNum">14</fw> und die Pflicht, allein oder mit dem Kanzler
-                            in der seinen Verwaltungszweig berührenden Kommission des
-                            Vollzugsauschusses StR zu erscheinen. Auf Verlangen Weisung des
-                            Praesidentes des Vollzugsaus schusses oder auf Beschluß des Senates
-                            Volkshauses oder Senates haben die Mitglieder des Kanzlerrates in den
-                            beiden ges Körpern der Nationalversammlung zu erscheinen wie und in
-                            deren Ausschüssen Der Kanzlerrat hat das Recht, in allen Argelegenheiten
-                            der Gesetzgebung auch ohne Auftrag des Vollzugsausschusses StR
-                            Gesetzesvorlagen auszuarbeiten, und ihm zu unterbreiten. Lehnt dieser
-                            die Vorlage Einbringung an die Nationalversammlung ab, so kann der
-                            Kanzlerrat gegen diese Ablehnung unter Anschluß des Entwurfes eine
-                            motivierte Vorstellung an die Nationalversammlung richten. Über diese
-                            Vorstellung muß binnen drei zwei Monaten eine ein Beschluß der
-                            Nationalversammlung eingeholt werden.</p>
+                                type="pageNum">14</fw> und die Pflicht, <add>allein oder mit dem
+                                Kanzler</add> in der seinen Verwaltungszweig berührenden Kommission
+                            des <choice>
+                                <del>Vollzugsauschusses</del>
+                                <add>StR</add>
+                            </choice>  zu erscheinen. Auf <choice>
+                                <sic>Verlangen</sic>
+                                <corr>Weisung</corr>
+                            </choice>  des Praesidentes des <choice>
+                                <del>Vollzugsausschusses</del>
+                                <add>StR</add>
+                            </choice> oder auf Beschluß des <choice>
+                                <sic>Senates</sic>
+                                <corr>Volkshauses</corr>
+                            </choice>  oder Senates haben die Mitglieder des Kanzlerrates in den
+                            beiden <del>ges</del> Körpern der Nationalversammlung <add>
+                                <choice>
+                                    <del>und</del>
+                                    <add>wie</add>
+                                </choice> in deren Ausschüssen</add> zu erscheinen. </p>
+                        <p>Der Kanzlerrat hat das Recht, in allen Angelegenheiten der Gesetzgebung
+                            auch ohne Auftrag des <choice>
+                                <del>Vollzugsausschusses</del>
+                                <add>StR</add>
+                            </choice>  Gesetzesvorlagen auszuarbeiten, <del>und ihm</del> zu
+                            unterbreiten. Lehnt dieser die <choice>
+                                <del>Vorlage</del>
+                                <add>Einbringung</add>
+                            </choice>  an die Nationalversammlung ab, so kann der Kanzlerrat gegen
+                            diese Ablehnung unter Anschluß des Entwurfes eine motivierte Vorstellung
+                            an die Nationalversammlung richten. Über diese Vorstellung muß binnen <choice>
+                                <del>drei</del>
+                                <add>zwei</add>
+                            </choice>  Monaten ein<del>e</del> Beschluß der Nationalversammlung
+                            eingeholt werden.</p>
                     </div>
                     <div type="article">
                         <head><choice>
@@ -2053,216 +2074,496 @@
                                         <add>§ 54</add>
                                     </choice></add>
                             </choice></head>
-                        <p type="legal_section">Die Mittelsteller der Staatsverwaltung ist, die
-                            Landesregierung. In jeder Provinz wird mit dem Sitze in der
-                            Landeshauptstadt eine Landesregierung errichtet, welche unter einem die
-                            bisher sogenannte landesfürstliche und die bisher sogenannte "autonome"
-                            Verwaltung führt. zweiter Instanz führt. Die Scheidung in
-                            landesfürstliche Verwaltung ist aufgehoben. Bis zur Be Erlassung eines
-                            eigenen (und autonome) Kompetenzgesetzes bleibt die bisherige
-                            Kompetenzverteilung aufrecht.<pb facs="#facs_27" n="27"
+                        <p type="legal_section"><del>Die</del> Mittelstelle<del>r</del> der
+                            Staatsverwaltung ist die Landesregierung. In jeder <del>Provinz wird mit
+                                dem Sitze in der</del> Landeshauptstadt eine Landesregierung
+                            errichtet, welche <del>unter einem</del> die bisher sogenannte
+                            landesfürstliche und <del>die bisher sogenannte</del> „autonome“
+                            Verwaltung zweiter Instanz <add>unter einem</add>
+                            <del>führt</del>. Die Scheidung in landesfürstliche <add>und
+                                autonome</add> Verwaltung ist aufgehoben. Bis zur <del>Be</del>
+                            Erlassung eines eigenen  Kompetenzgesetzes <choice>
+                                <del>bleiben</del>
+                                <add>bleibt</add>
+                            </choice>
+                            <del>die</del>
+                            <choice>
+                                <del>bisherigen</del>
+                                <add>bisherige</add>
+                            </choice> Kompetenzverteilung aufrecht.<pb facs="#facs_27" n="27"
                                 xml:id="img_0027" break="yes"/><fw type="pageNum">15</fw>
                         </p>
+                        <p><label><del><choice>
+                                        <sic>§ 42 </sic>
+                                        <corr>41</corr>
+                                    </choice></del><add>§ 55</add></label></p>
+                        <p type="legal_section">Jeder Landtag bestellt aus seiner Mitte einen
+                            Landesausschuß, dieser <choice>
+                                <del>gibt </del>
+                                <add>wählt</add>
+                            </choice>
+                            <del>als seinem</del> zur Führung des Vorsitzes den Landeshauptmann und
+                            zwei Stellvertreter. Außerdem verteilt er die Berichterstattung über die
+                            Agenden der bisherigen autonomen Landesverwaltung auf die einzelnen
+                            Mitglieder des Landesausschusses auf und führt die <add>Agenden</add> in
+                            der bisherigen Weise. <add>In diesen Angelegenheiten ist der
+                                Landesausschß dem Landtag verantwortlich.</add></p>
                     </div>
                 </div>
                 <div type="section">
                     <div type="section">
-                        <p>§ 52[?] 56 §43 § 42 Der Landeshauptmann und seine beiden Stellvertreter
-                            bilden zusammen die Landesregierung. Sie führt Kolle Körperschaftlich
-                            diejenigen Agenden, die durch das Gesetz vom 19. Mai 1868 No. 44. RgBl.
-                            über die Errichtung der politischen Verwaltungsbehörde (§2 - 9) dem
-                            LandesChef vorbest zugewiesen ist sind, und zwar nach den Weisungen des
-                            Staatskanzlers und der zuständigen Staatssekretäre, wobei sie diesen
-                            allein, beziehungsweise der Nationalversammlung allein und nicht dem
-                            Landtage verantwortlich ist und ausschließt § 53 57 § 43 44.</p>
-                        <p>Erledigt[?] allgemeinen Staatsgesetzen, nachdem d[?]
-                            Durchführungsverordnungen[?] des Staatsrats und nach den</p>
-                        <p>Durch besondere Dienstauweisungen können von den in § 43 § 52 berührten
-                            Angelegenheiten allgemein oder fallweise einzelne wie die
-                            Angelegenheiten der Staatspolizei, dem Landeshauptmann zur persönlichen
-                            Erledigung vorbehalten werden. § 45 44 § 54 58 Am Vororte des Kreises,
-                            und am Sitze des Kreistages werden Kreisregierungen errichtet. als
-                            oberste und zusammenfassende Lokalverwaltungstellen Der Kreistag
-                            bestellt aus seiner Mitte</p>
-                        <p>und der Kreis- und und Landesgerichte<pb facs="#facs_28" n="28"
-                                xml:id="img_0028" break="yes"/>16 einen Kreisausschuß von 17 sieben
-                            Mitgliedern, dieser aus seiner Mitte den V als Vorsitzenden den
-                            Kreishauptmann und zwei Stellvertreter. Der Kreisausschuß führt
-                            diejenige Agenden, welche bisher in einiger Ländern wie in Böhmen und in
-                            der Steiermark den Bezirksvertretungen übertragen waren. durch besondere
-                            Gesetze werden Außerdem gehen auf ihm die Angelegenheiten der
-                            Bezirksstraßenausschüsse und die Leitung[?] u. Beaufsichtigung der der
-                            Bezirksarmenräte übertragen. In diesen Funktionen ist der Kreisausschuß
-                            dem Kreistage verantwortlich. § 46 45 §59 55 </p>
+                        <p><label>§ 56 <del>§43</del>
+                                <del>§ 42 </del></label> Der Landeshauptmann und seine beiden
+                            Stellvertreter bilden zusammen die Landesregierung. Sie führt
+                                <del>kolle</del> körperschaftlich diejenigen Agenden, die durch das
+                            Gesetz vom 19. Mai 1868 No. 44. RgBl. über die Errichtung der
+                            politischen Verwaltungsbehörde (§2–9) dem Landeschef <choice>
+                                <del>vorbeh</del>
+                                <add>zugewiesen</add>
+                            </choice>
+                            <choice>
+                                <del>ist</del>
+                                <add>sind</add>
+                            </choice>, und zwar nach den <add>allgemeinen Staatsgesetzen, nach den
+                                Durchführungsverordnungen des Staatsrats und nach den</add>
+                            Weisungen des Staatskanzlers und der zuständigen Staatssekretäre,
+                                <add>wobei sie</add> diesen allein, beziehungsweise der
+                            Nationalversammlung <del>allein</del> und nicht dem Landtage
+                            verantwortlich ist <del>und ausschließli</del>
+                        </p>
+                        <p><del><label>§ 44. § 53 § 57 § 43 </label></del></p>
+                        <p>Durch besondere Dienstauweisungen können von den in <choice>
+                                <del>§ 43</del>
+                                <add>§ 52</add>
+                            </choice> berührten Angelegenheiten allgemein oder fallweise einzelne
+                            wie die Angelegenheiten der Staatspolizei, dem <choice>
+                                <del>Landeshauptmännern</del>
+                                <add>Landeshauptmann</add>
+                            </choice> zur persönlichen Erledigung vorbehalten werden. </p>
+                        <p><label><choice>
+                                    <del>§ 45 44 § 54 </del>
+                                    <add>§ 58</add>
+                                </choice>
+                            </label> Am Vororte des Kreises, <del>und</del> am Sitze des Kreistages
+                                <add>und der Kreis- und Landesgerichte</add>werden Kreisregierungen
+                                <add> als oberste und zusammenfassende
+                            Lokalverwaltungstellen</add>errichtet. Der Kreistag bestellt aus seiner
+                            Mitte</p>
+                        <p><pb facs="#facs_28" n="28" xml:id="img_0028" break="yes"/><fw
+                                type="pageNum">16 </fw>einen Kreisausschuß von <choice>
+                                <del>17</del>
+                                <add>sieben</add>
+                            </choice>  Mitgliedern, dieser aus seiner Mitte <choice>
+                                <del>den V</del>
+                                <add>als</add>
+                            </choice>  Vorsitzenden den Kreishauptmann und zwei Stellvertreter. </p>
+                        <p>Der Kreisausschuß führt diejenige Agenden, welche bisher in einigen
+                            Ländern wie in Böhmen und in der Steiermark den Bezirksvertretungen
+                            übertragen waren.</p>
+                        <p>Außerdem <choice>
+                                <del>gehen auf</del>
+                                <add>werden</add>
+                            </choice> ihm <choice>
+                                <del>die Angelegenheiten</del>
+                                <add>durch besondere Gesetze</add>
+                            </choice>
+                            <add> die Leitung u. Beaufsichtigung</add> der Bezirksstraßenausschüsse
+                            und der Bezirksarmenräte übertragen. </p>
+                        <p>In diesen Funktionen ist der Kreisausschuß dem Kreistage verantwortlich. </p>
+                        <p><label><del>§ 46 45 §59 55 </del>
+                            </label></p>
                         <p>Der Kreishauptmann und seine Stellvertreter bilden die Kreisregierung.
-                            Auf sie geht die gesamte Kompetenz über, die durch das erwähnte Gesetz
+                            Auf sie geht die gesammte Kompetenz über, die durch das erwähnte Gesetz
                             vom 19. Mai 1868, §§ 10 bis 14 den Bezirkshauptmannschaften zugewiesen
                             ist, und die Kreisregierung führt diese Geschäfte nach den allgemeinen
-                            Staatsgesetzen, nach den Durchführungsverordnungen des Staatsrates und
-                            sowie nach den Weisungen der übergeordneten</p>
-                        <p>Behörden, darin nur diesen und nicht dem Kreistage verantwortlich. Durch
-                            besondere Dienstanweisungen können von diesen Angelegenheiten einzelne
-                            fallweise oder allgemein dem Kreishauptmann vorbehalten werden. 847. §
-                            56 60 Der Kreisregierung zur Seite steht das Kreisamt. Für die Leitung
-                            der Kanzleigeschäfte bestellt, ist der Kreisamts- und dem Kreishauptmann
-                                verantwortlich,<pb facs="#facs_29" n="29" xml:id="img_0029"
-                                break="yes"/>17 leiter. Das Kreisamt hat außer den Fachabteilungen
-                            an seinem Sitze exponierte Abteilungen außerhalb dieses Sitzes am Sitze
-                            für jeden Gerichtsbezirks. Diese Bezirksämter stehen unter der Leitung
-                            des Amtmannes. Sie sind Teile des Kreisamts und ihm gegenüber keine
-                            Instanz. Der Amtmann führt die Geschäfte einfacher oder dringlicher Art
-                            im Namen des Kreishauptmanns. [Fühlt sich eine Partei gegen durch eine
-                            Verfügung oder Entscheidung des Amtmanns beschwert, so steht ihr das
-                            Recht unmittelbarer persönlicher, mündlicher telephonischer oder
-                            drahtlicher oder schriftlicher</p>
-                        <p>Vorstellung an den Amtschef zu. Erfolgt keine Vorstellung oder wird diese
-                            abgewiesen, so geht gilt die Verfügung oder Entscheidung als vom
-                            Kreisamt erflossen[?]. Die bestehenden Bezirkshauptmannschaften und
-                            Bezirksvertretungen werden aufgelassen, beziehungsweise in die
-                            Kreisregierungen und teilweise die Bezirksämter überführt. §.40 49 § 47
-                            Der Rechtszug geht, einerlei ob im eigenen oder übertragenen
+                            Staatsgesetzen, nach den Durchführungsverordnungen des Staatsrates <choice>
+                                <del>und</del>
+                                <add>sowie</add>
+                            </choice>  nach den Weisungen der übergeordneten Behörden, darin nur
+                            diesen und nicht dem Kreistage verantwortlich. </p>
+                        <p>Durch besondere Dienstanweisungen können von diesen Angelegenheiten
+                            einzelne fallweise oder allgemein dem Kreishauptmann vorbehalten werden. </p>
+                        <p><label><del>§47. 46 § 56 60</del>
+                            </label>
+                        </p>
+                        <p>Der Kreisregierung zur Seite steht das Kreisamt. Für die Leitung der
+                            Kanzleigeschäfte bestellt <add>und dem Kreishauptmann
+                                verantwortlich</add> ist der Kreisamts- <pb facs="#facs_29" n="29"
+                                xml:id="img_0029" break="yes"/><fw type="pageNum">17</fw> leiter.
+                            Das Kreisamt hat außer den Fachabteilungen an seinem Sitze exponierte
+                            Abteilungen außerhalb <choice>
+                                <del>dieses Sitzes</del>
+                                <add>am Sitze für</add>
+                            </choice> jeden Gerichtsbezirk<add>s</add>. Diese Bezirksämter stehen
+                            unter der Leitung des Amtmannes. Sie sind Teile des Kreisamts und ihm
+                            gegenüber keine Instanz. Der Amtmann führt <del>die</del> Geschäfte
+                            einfacher oder dringlicher Art im Namen des Kreishauptmanns. [Fühlt sich
+                            eine Partei <choice>
+                                <del>gegen</del>
+                                <add>durch</add>
+                            </choice>  eine Verfügung oder Entscheidung des Amtmanns beschwert, so
+                            steht ihr das Recht unmittelbar<del>er</del> persönlicher, mündlicher
+                            telephonischer <choice>
+                                <del>oder</del>
+                                <add>,</add>
+                            </choice> drahtlicher oder schriftlicher Vorstellung an den Amtschef zu.
+                            Erfolgt keine Vorstellung oder wird diese abgewiesen, so <choice>
+                                <del>geht</del>
+                                <add>gilt</add>
+                            </choice>  die Verfügung oder Entscheidung als vom Kreisamt
+                            erflossen.]</p>
+                        <p>Die bestehenden Bezirkshauptmannschaften <del>und
+                                Bezirksvertretungen</del> werden aufgelassen, beziehungsweise in
+                                <add>die</add> Kreisregierung<add>en</add> und <add>teilweise in
+                                die</add> Bezirksämter überführt. </p>
+                        <p><label><del>§. 48 49 § 47</del>
+                            </label> Der Rechtszug geht, einerlei ob im eigenen oder übertragenen
                             Wirkungskreise, von der Gemeinde einheitlich im Wege des Bezirksamts an
                             die Kreisregierung.</p>
-                        <p>Das ob erwähnte Kompetenzgesetz wird feststellen, in welchen
+                        <p>Das <del>ob</del> erwähnte Kompetenzgesetz wird feststellen, in welchen
                             Angelegenheiten der Rechtszug bei der Kreis- oder bei der
-                            Landesregierung abschließt und in welchen er bis zur zu zum den
-                            Staatsämtern offensteht. § 57 61 Die Verfassung der Gemeinden wird durch
-                            eine als Staatsgesetz zu erlassende Gemeindeordnung neu geregelt. Im
+                            Landesregierung abschließt und in welchen er bis <choice>
+                                <del>zu den Staatsämtern</del>
+                                <add>zum Staatsamt</add>
+                            </choice>  offensteht. </p>
+                        <p><label><choice>
+                                    <del>§ 57  </del>
+                                    <add>61</add>
+                                </choice>
+                            </label> Die Verfassung der <emph>Gemeinden</emph> wird durch eine als
+                            Staatsgesetz zu erlassende <emph>Gemeindeordnung</emph> neu geregelt. Im
                             Rahmen derselben werden die Landtage durch Landesgesetz und in dessen
-                            Rahmen Anordnungen der Kreistage die Einrichtungen[?] der Gemeinden im
-                            Einzelnen regeln ordnen.<pb facs="#facs_30" n="30" xml:id="img_0030"
-                                break="yes"/>§ 58 § 62 § 47 zwei[?]</p>
-                        <p>Der öffentliche Dienst staats- und Die deutschen, innerhalb des deutschen
-                            Siedlungs- und Verwaltungsgebietes (§1 u 2) (§5 u 6) der im Reichsrat
-                            vertreten Königreiche und Länder angestellten und tätigen Beamte und
-                            Diener werden in den öffentlichen Dienst des Freistaates übernommen,
-                            hören jedoch auf, einen Gesamtstatus Inbilden. Nur Die In den
-                            Zentralämtern tätigen Bediensteten werden Staatsdiener, die in den
-                            Ländern Bedienstet Staatsbedienstete, in der Ländern</p>
-                        <p>Je nach der Dienststufe</p>
-                        <p>tätige Landes- oder Kreisbedienstete. Die Besoldung erfolgt demnach
-                            [durch den Staat, das Land oder den Kreis, sobald die finanzielle
+                            Rahmen Anordnungen der Kreistage die Einrichtungen der Gemeinden im
+                            Einzelnen <choice>
+                                <del>regeln</del>
+                                <add>ordnen</add>
+                            </choice> .<pb facs="#facs_30" n="30" xml:id="img_0030" break="yes"/><choice>
+                                <del>§ 47 [?] § 58</del>
+                                <add>§ 62</add>
+                            </choice>
+                        </p>
+                        <p><head><del>Der öffentliche Dienst </del></head></p>
+                        <p>Die deutschen, innerhalb des <choice>
+                                <del>deutschen Siedlungs-</del>
+                                <add>staats- und</add>
+                            </choice> und Verwaltungsgebietes (§<choice>
+                                <del>1</del>
+                                <add>5</add>
+                            </choice> u<choice>
+                                <sic/>
+                                <corr>nd</corr>
+                            </choice>
+                            <choice>
+                                <del>2</del>
+                                <add>6</add>
+                            </choice>) <del>der im Reichsrat vertreten Königreiche und Länder</del>
+                            angestellten <add>und tätigen</add> Beamte und Diener werden in den
+                                <emph>öffentlichen Dienst</emph> des Freistaates übernommen, hören
+                            jedoch auf, einen Gesamtstatus zu bilden. <del>Nur</del>
+                            <del>Die</del> In den Zentralämtern tätigen Bediensteten werden
+                                <del>Staatsdiener, die in den Ländern Bedienstet</del>
+                            Staatsbedienstete, in der Ländern tätige Landes- oder Kreisbedienstete.
+                            Die Besoldung erfolgt demnach <add>Je nach der Dienststufe</add> durch
+                            den Staat, das Land oder den Kreis, sobald die finanzielle
                             Auseinandersetzung zwischen diesen Verwaltungskörpern vollzogen ist.
-                            Öffentliche Beamte müssen auf allen drei Diensststufen verwendet worden
-                            sein, bevor sie in selbständige Stellungen aufrücken können. Durch die
-                            Neuregelung dürfen das die bestehenden Rechtsverhältnisse und Bezüge der
-                            Beamten nicht verschlechtert werden. in Hinkunft.<pb facs="#facs_31"
-                                n="31" xml:id="img_0031" break="yes"/>18 Dritter Abschnitt C. Von
-                            der richterlichen Gewalt § 63 57 § 50 48 Gerichtsbarkeit Alle
-                            richterliche Gewalt wird im Namen des Volkes und Gesetzes ausgeübt, alle
-                            Urteile werden im Namen im Auftrag des Freistattes des Volkes und
-                            Gesetzes gefertigt. Die Einrichtung und Zuständigkeit der Gerichte wird
+                                <add>Öffentliche Beamte müssen in Hinkunft auf allen drei
+                                Diensststufen verwendet worden sein, bevor sie in selbständige
+                                Stellungen aufrücken können.</add> Durch die Neuregelung <choice>
+                                <del>darf</del>
+                                <add>dürfen</add>
+                            </choice>
+                            <choice>
+                                <del>das</del>
+                                <add>die</add>
+                            </choice>  bestehenden Rechtsverhältnisse und Bezüge der Beamten nicht
+                            verschlechtert werden. <pb facs="#facs_31" n="31" xml:id="img_0031"
+                                break="yes"/><fw type="pageNum">18</fw>
+                            <choice>
+                                <del>C. Von der richterlichen Gewalt</del>
+                                <add>Dritter Abschnitt </add>
+                            </choice>
+                            <label><del>§ 50 § 63 57 48</del>
+                            </label> Alle <choice>
+                                <del>richterliche Gewalt</del>
+                                <add>Gerichtsbarkeit</add>
+                            </choice> wird im Namen des Volkes <del>und Gesetzes</del> ausgeübt,
+                            alle Urteile werden im Namen des Volkes und <choice>
+                                <del>Gesetzes</del>
+                                <add>im Auftrag des Freistattes</add>
+                            </choice> gefertigt. Die Einrichtung und Zuständigkeit der Gerichte wird
                             durch Gesetze festgestellt und kann nur durch die gesetzgebende Gewalt
                             abgeändert werden.</p>
-                        <p>49 §60 64 § 51. zwey Teile Die Richter werden entweder aus dem Volke auf
-                            Zeit bestellt oder, zum Teile aus beruflich vorauf Grund ihrer
-                            beruflichen gebildeten Vorbildung auf Lebensdauer ernannt. § 52 §50 §65
-                            In den Strafrechtspflege haben bei Verbrechen, mit die mit der Strafe
-                            des Todes oder mit Freiheitsstrafen von einem Jahre und mehr bedroht
-                            sind, sowie bei allen politischen[?] und durch Druckschriften verübten
-                            Verbrechen und Vergehen haben allein aus dem Volke bestellte Geschworene
-                            über die Schuldfrage zu entscheiden, bei allen Vergehen ernannte
-                            Berufsrichter nicht ohne aus dem Volke bestellte Schöffen. In der
-                            Zivilrechtspflege sind bei der Urteilsfällung in allen Streitfragen
-                            Streitsachen von fachlicher und technischer Eigenart oder von
-                            beträchtlichem Werte des Streitgegenstandes Laienrichter mit von
-                            fachlichem u technischem Wissen oder mit hoher Geschäftserfahrung
-                            beizuziehen oder berufliche Schiedsgerichte vorzusehen. § 53 § 67 § 60
-                            62 Die Bestellung der Geschworenen und Schöff und Schöffen wird, durch
-                            ein besonderes Gesetz neugeregelt werden, ohne Verzug<pb facs="#facs_32"
-                                n="32" xml:id="img_0032" break="yes"/>19 § 63 67 § 53 § 52 Die
-                            Ernennung der beruflich vorgebildeten Richter erfolgt durch die das
-                            Justizcommission Kollegium die N[?] der Nationalversammlung (§ 40) Es
-                            Sie besteht aus sieben Mitgliedern, von denen drei durch das Volkshaus
-                            vier, und drei durch den Senat berufen werden. Die Berichterstattung
-                            über die Ernennungen</p>
-                        <p>der Richter, jedoch steht ohne Stimmrecht, steht dem Staatssekretär des
-                            Justizamts zu. Die Ernennung wird vom Vorsitzenden der des
-                            Justizkommision kollegium direktoriums[?] und unter Gegenzeichnung des
-                            Staatssekretärs ausgefertigt und erfolgt im Namen des Auftrage des
-                            Staates und Volkes von Südostdeutschland. Freistaats. § 64 68 § 54 § 53
-                            Die Richter sind in Ausübung ihres richterlichen Amtes selbständig,
-                            unabhängig und u.s.w. unverletzlich ... (Artikel) 6 des
-                            Staatsgrundgesetzes vom 21 Dezember 1867 R.g.Bl. No. 144. §54 §65 §69 §
-                            55 Bis zur allgemeinen Reform der Verwaltung bleibt ein
+                        <p><label><del>§ 51. 49 §60 64</del>
+                            </label> Die Richter werden<choice>
+                                <del> entweder</del>
+                                <add>zum Teile</add>
+                            </choice> aus dem Volke auf Zeit bestellt <del>oder</del>, zum Teile <choice>
+                                <del>aus beruflich vorgebildeten</del>
+                                <add>auf Grund ihrer beruflichen</add>
+                            </choice>  Vorbildung auf Lebensdauer ernannt. </p>
+                        <p><label>§ 52 §50 §65 </label></p>
+                        <p><add>In den Strafrechtspflege haben</add> bei Verbrechen, <del>mit</del>
+                            die mit der Strafe des Todes oder mit Freiheitsstrafen von einem Jahre
+                            und mehr bedroht sind, sowie bei allen politischen und durch
+                            Druckschriften verübten Verbrechen und Vergehen <del>haben</del>
+                            <add>allein</add> aus dem Volke bestellte <emph>Geschworene</emph> über
+                            die Schuldfrage zu entscheiden, bei allen Vergehen ernannte
+                            Berufsrichter nicht ohne aus dem Volke bestellte <emph>Schöffen</emph>. </p>
+                        <p>In der Zivilrechtspflege sind <add>bei</add> der Urteilsfällung in allen <choice>
+                                <del>Streitfragen</del>
+                                <add>Streitsachen</add>
+                            </choice>  von fachlicher und technischer Eigenart oder von
+                            beträchtlichem Werte des Streitgegenstandes <emph>Laienrichter</emph>
+                            <choice>
+                                <del>mit</del>
+                                <add>von</add>
+                            </choice>  fachlichem u technischem Wissen oder mit hoher
+                            Geschäftserfahrung beizuziehen oder berufliche
+                                <emph>Schiedsgerichte</emph> vorzusehen. </p>
+                        <p><label><choice>
+                                    <del>§ 53 § 67  62</del>
+                                    <add>§ 60</add>
+                                </choice>
+                            </label>  Die Bestellung der Geschworenen <choice>
+                                <del>und Schöff</del>
+                                <add>und Schöffen</add>
+                            </choice>  wird <add>ohne Verzug</add> durch ein besonderes Gesetz
+                            neugeregelt werden.<pb facs="#facs_32" n="32" xml:id="img_0032"
+                                break="yes"/><fw type="pageNum">19</fw>
+                            <label><del>§ 53 § 63 67 § 52</del>
+                            </label> Die Ernennung der beruflich vorgebildeten Richter erfolgt durch <choice>
+                                <del>die</del>
+                                <add>das</add>
+                            </choice>  Justiz<choice>
+                                <del>commission</del>
+                                <add>kollegium</add>
+                            </choice>  der Nationalversammlung <add>[unleserlich]</add> (§ 40)<choice>
+                                <sic/>
+                                <corr>.</corr>
+                            </choice></p>
+                        <p><choice>
+                                <del>Sie</del>
+                                <add>Es </add>
+                            </choice> besteht aus sieben Mitgliedern, von denen <choice>
+                                <del>drei</del>
+                                <add>vier</add>
+                            </choice> durch das Volkshaus und drei durch den Senat berufen werden.
+                            Die Berichterstattung über die Ernennungen der Richter<choice>
+                                <del>, jedoch</del>
+                                <add>steht</add>
+                            </choice>  ohne Stimmrecht<del>, steht</del> dem Staatssekretär des
+                            Justizamts zu. Die Ernennung wird vom Vorsitzenden <choice>
+                                <del>der</del>
+                                <add>des</add>
+                            </choice>  Justiz<choice>
+                                <del>commision</del>
+                                <add>kollegiumsdirektoriums</add>
+                            </choice>
+                            <del>und</del> unter Gegenzeichnung des Staatssekretärs ausgefertigt und
+                            erfolgt im <choice>
+                                <del>Namen  des Staates und Volkes von</del>
+                                <add>Auftrage des Freistaats</add>
+                            </choice> Südostdeutschland. .</p>
+                        <p><label><del>§ 54. § 53 § 64 68</del>
+                            </label>   Die Richter sind in Ausübung ihres richterlichen Amtes
+                            selbständig, unabhängig und unverletzlich … <add>u.s.w. </add> (Artikel
+                            6 des Staatsgrundgesetzes vom 21 Dezember 1867 R.g.Bl. No. 144. </p>
+                        <p><label><del>§ 55 §54 §65 §69</del>
+                            </label>  Bis zur allgemeinen Reform der Verwaltung bleibt ein
                             Verwaltungsgerichtshof nach den Bestimmungen des Gesetzes vom 22. Okt
-                            1875 RgBl Nr. 1875 RgBl No. 36 ex 1876 aufrecht. Das Reichsgerichte
-                            (Gesetz vom 18. April 1869. No 44 RgBl) und der Staatsgerichtshof
-                            (Gesetz vom 25. Juli 1867 RgBl No. 107[?] / worden durch ein besonderes
-                            Gesetz miteinander verschmolzen.<pb facs="#facs_33" n="33"
-                                xml:id="img_0033" break="yes"/>§ 66 70 Sämtliche Angehörige der
-                            bewaffneten Macht sind auf die Verfassung zu beeiden und geloen dem
-                            Freistaat Deutschösterreich Treue und Gehorsam.</p>
-                        <p>Vierter Abschnitt Von der richterlichen[?] Gewalt w ! bewaffneten Macht.
-                            § 66 71 § 56 § 55 Die gefä[?] wehrfähige Bürgerschaft des Staates wird
-                            nach dem von der Nationalversammlung beschlossenen Wehrgesetze auf Grund
-                            der jährlich zu bewilligenden Wehrvorlage zum Waffen im Waffendienste
-                            ausgebildet und bleibt mit Ausnahme der Ausbildungszeit in im ihrem
-                            bürgerlichen Rechtsverhältnisse Rechts- und Lebensverhältnis. Das
-                            stehende Heer ist abgeschafft, die Kazernierung bereits nach Wehrgesetz
-                            ausgebildeter Mannschaften ist untersagt. Die wehrfähige Mannschaft wird
-                            ganz oder teilweise durch Staatsratsbeschluß aufgeboten, die Aufgebote
-                            stehen unter der dem Befehl des Oberbefehlshabers.</p>
-                        <p>§ 68 72 § 56 § 57 Der Oberbefehlshaber wird vom Heeresdirektorium
-                            kollegium[?] nach Anhörung und Gegenzeichnung des Staats ------sekretärs
-                            für Heereswesen ernannt. Die Ausfertigung vorgeschlagen und vom
-                            Praesidenten des Staatsrats ernannt. Das Heereskollegium direktorium
-                            besteht aus sieben Mitgliedern von denen 4 das Volkshaus, 3 der Senat
-                            entsendet. Die Ausfertigung der Ernennung erfolgt vom Praesidenten des
-                            Staatsrats unter Mitfer¬<pb facs="#facs_34" n="34" xml:id="img_0034"
-                                break="yes"/>§ 74 Die bewaffnete Macht beruht auf der allgemeinen,
-                            gleichen ausnahmslosen Wehrpflicht aller Staatsbürger. Die
-                            Organisation[?] Wehrpflicht und auf der Kriegsleistungspflicht der
-                            gesamten Volkswirtschaft und die Organisation der Wehrmacht wird durch
-                            ein besonderes Wehrgesetz festgestellt, die Kriegsleistungspflicht durch
-                            ein besonderes Heeresdienstgesetz geordnet. § 71 75 § 17 jetzt[?] 581[?]
-                            Die Stärke der Wehrmacht wird durch ein Staatsgesetz im Wege emer.
-                            alljährlich vom Staatssekretär des Heeresamts einzubringender
-                            Wehrvorlage und zwar immer auf die Dauer eines Jahres festgesetzt. § 72
-                            76 § 18 jetzt 57[?] 60 Ausserdem besteht in jedem Lande ein
-                            Landesschützenkorps dessen Einrichtung durch ein Staatsgesetz geregelt
-                            wird. In allen Orten von tausend und mehr Einwohnern muss eine
-                            Landesschützenkompagnie mindestens bestehen.</p>
-                        <p>§ 73 77 § 19. jetzt 58[?] 61 Die bewaffnete Macht Zur Unterdrückung
-                            innerer Unruhen und zur Erzwin gung der Befolgung der von Gesetzen und
-                            der behördlichen Verfügungen, kann können die bewaffnete Macht nur mit
-                            Zustimmung des Vollzugsausschusses, die Landesschützenkorps nur mit
+                            1875 <del>RgBl Nr. 1875</del>
+                            <add>RgBl</add> No. 36 ex 1876 aufrecht. </p>
+                        <p>Das Reichsgerichte (Gesetz vom 18. April 1869. No 44 RgBl) und der
+                            Staatsgerichtshof (Gesetz vom 25. Juli 1867 RgBl. No. 101 / wurden durch
+                            ein besonderes Gesetz miteinander verschmolzen.<pb facs="#facs_33"
+                                n="33" xml:id="img_0033" break="yes"/><label>§<choice>
+                                    <del> 66 </del>
+                                    <add>70</add>
+                                </choice>
+                            </label> Sämtliche Angehörige der bewaffneten Macht sind auf die
+                            Verfassung zu <emph>beeiden</emph> und geloben dem Freistaat
+                            Deutschösterreich Treue und Gehorsam.</p>
+                        <p><head>Vierter Abschnitt </head>Von der <choice>
+                                <del>richterlichen[?] Gewalt</del>
+                                <add>bewaffneten Macht</add>
+                            </choice> . </p>
+                        <p><label><del>§ 56 § 55 § 66 71</del>
+                            </label>  Die <choice>
+                                <del>gefä[?]</del>
+                                <add>wehrfähige</add>
+                            </choice>  Bürgerschaft des Staates wird nach dem von der
+                            Nationalversammlung beschlossenen Wehrgesetze auf Grund der jährlich zu
+                            bewilligenden Wehrvorlage <choice>
+                                <del>zum Waffen</del>
+                                <add> im Waffendienste</add>
+                            </choice> ausgebildet und bleibt mit Ausnahme der Ausbildungszeit <choice>
+                                <del>in ihrem</del>
+                                <add>im</add>
+                            </choice> bürgerlichen <choice>
+                                <del>Rechtsverhältnisse</del>
+                                <add>Rechts- und Lebensverhältnis</add>
+                            </choice>. </p>
+                        <p>Das stehende Heer ist abgeschafft, die Kazernierung bereits <add>nach
+                                Wehrgesetz</add> ausgebildeter Mannschaften ist untersagt. </p>
+                        <p>Die wehrfähige Mannschaft wird <add> durch Staatsratsbeschluß</add> ganz
+                            oder teilweise <del> durch Staatsratsbeschluß</del> aufgeboten, die
+                            Aufgebote stehen unter <choice>
+                                <del>der</del>
+                                <add>dem</add>
+                            </choice>  Befehl des Oberbefehlshabers.</p>
+                        <p><label><del>§ 57 § 56  § 68 72</del>
+                            </label>  Der Oberbefehlshaber wird vom Heeres<choice>
+                                <del>kollegium[?]</del>
+                                <add>direktorium</add>
+                            </choice><choice>
+                                <sic> und Gegenzeichnung des Staats ------</sic>
+                                <corr>nach Anhörung</corr>
+                            </choice>sekretärs für Heerwesen <del>ernannt. Die Ausfertigung</del>
+                            vorgeschlagen und vom Praesidenten des Staatsrats ernannt. Das Heeres<choice>
+                                <del>kollegium</del>
+                                <add>direktorium</add>
+                            </choice>  besteht aus sieben Mitgliedern von denen 4 das Volkshaus, 3
+                            der Senat entsendet. Die Ausfertigung der Ernennung erfolgt vom
+                            Praesidenten des Staatsrats unter
+                                <?oxy_comment_start author="zuegel.n" timestamp="20250328T141112+0100" comment="Fortsetzung des Textes nicht auf nächster, sondern auf übernächster Seite"?>Mitfer<?oxy_comment_end?>¬<pb
+                                facs="#facs_34" n="34" xml:id="img_0034" break="yes"/><add><label>§
+                                    74 </label></add> Die bewaffnete Macht beruht auf der
+                            allgemeinen, gleichen ausnahmslosen Wehrpflicht aller Staatsbürger
+                                <add>und auf der Kriegsleistungspflicht der gesamten
+                                Volkswirtschaft</add>. Die <choice>
+                                <del>Organisation</del>
+                                <add>Wehrpflicht</add>
+                            </choice>
+                            <add>und die Organisation</add> der Wehrmacht wird durch ein besonderes
+                            Wehrgesetz <del>festgestellt</del>, <add>die Kriegsleistungspflicht
+                                durch ein besonderes Heeresdienstgesetz geordnet.</add>
+                        </p>
+                        <p><label>§ 17 § 71 75 jetzt[?] 581[?]  </label>Die Stärke der Wehrmacht
+                            wird durch <del>ein Staatsgesetz</del><add> im Wege emer. alljährlich
+                                vom Staatssekretär des Heeresamts einzubringenden
+                                Wehrvorlage</add><del> und zwar immer</del> au<choice>
+                                <sic>df</sic>
+                                <corr>f</corr>
+                            </choice> die Dauer eines Jahres festgesetzt. </p>
+                        <p><label><del>§ 18 § 72 76 jetzt 57[?] 60</del>
+                            </label>
+                        </p>
+                        <p>Ausserdem besteht in jedem Lande ein Landesschützenkorps dessen
+                            Einrichtung durch <del>ein</del> Staatsgesetz geregelt wird. In allen
+                            Orten von tausend und mehr Einwohnern muss <add>mindestens</add>eine
+                            Landesschützenkompagnie <del>mindestens</del> bestehen.</p>
+                        <p><label><del>§ 19. § 73 77 jetzt 58[?] 61 </del>
+                            </label><del>Die bewaffnete Macht</del> Zur Unterdrückung innerer
+                            Unruhen und zur Erzwin gung der Befolgung <choice>
+                                <del>der</del>
+                                <add>von</add>
+                            </choice>  Gesetze<add>n</add> und <del>der</del> behördlichen
+                                Verfügungen<del>,</del>
+                            <choice>
+                                <del>kann</del>
+                                <add>können</add>
+                            </choice>  die bewaffnete Macht nur mit Zustimmung des
+                                Vollzugsausschusses<add>,</add> die Landesschützenkorps nur mit
                             Zustimmung des Landesausschusses und bloss in dem vom Gesetze bestimmten
                             Fällen und Formen verwendet werden.<pb facs="#facs_35" n="35"
-                                xml:id="img_0035" break="yes"/>21 31 tigung des Wachtzande[?] des
-                            Heereskollegiums direktoriums und unter Gegenzeichnung das
-                            Staatssekretärs für Heerwesen. In gleicher Weise erfolgt die Ernennung
-                            aller Generäle oder bewaffneten Macht. § 63 73 69. §69. In gleicher
-                            Weise § 58 57 wird der Chef des Generalstabs berufen ernannt. Dieser der
-                            Oberbefehlshaber beruft unter [?] Gegenzeichnung des Staatsekretärs für
-                            Heerwesen die hiezu besonders ausgebildeten Offiziere in den
-                            Generalstab. Der Oberbefehlshaber und der Chef das Generalstabs sind der
+                                xml:id="img_0035" break="yes"/><fw type="pageNum">21</fw> tigung des
+                            Vorsitzenden des Heeres<choice>
+                                <del>kollegiums </del>
+                                <add>direktoriums</add>
+                            </choice> und unter Gegenzeichnung das Staatssekretärs <add>für
+                                Heerwesen</add>. <del>In gleicher Weise erfolgt die Ernennung aller
+                                Generäle der bewaffneten Macht.</del>
+                            <add>§ 63 73 69. §69.</add>
+                            <del>§ 58 57</del> In gleicher Weise wird der Chef des Generalstabs <choice>
+                                <del>berufen</del>
+                                <add>ernannt</add>
+                            </choice>. Dieser <del>der Oberbefehlshaber</del> beruft unter
+                            Gegenzeichnung des Staatsekretärs für Heerwesen die hiezu besonders
+                            ausgebildeten Offiziere in den Generalstab. </p>
+                        <p>Der Oberbefehlshaber und der Chef das Generalstabs sind der
                             Nationalversammlung verantwortlich.</p>
-                        <p>§ 59 58 früher 16 § 70 74 §60 50 [?] früher 17 § 75 74 60 [?] früher 18
-                            72 76 62 68 früher 19 73 77 </p>
+                        <p><list>
+                                <item><choice>
+                                        <del>§ 59</del>
+                                        <add>§ 58 </add>
+                                    </choice> früher 16 § <choice>
+                                        <del>70 </del>
+                                        <add>74 </add>
+                                    </choice>
+                                </item>
+                                <item>
+                                    <choice>
+                                        <del>§60 </del>
+                                        <add>§ 59</add>
+                                    </choice>50 [?] früher 17 § <choice>
+                                        <del>74</del>
+                                        <add>75</add>
+                                    </choice></item>
+                                <item><choice>
+                                        <del>§ 61</del>
+                                        <add>§ 60</add>
+                                    </choice> früher 18 <choice>
+                                        <del>72</del>
+                                        <add>76</add>
+                                    </choice>
+                                </item>
+                                <item>
+                                    <choice>
+                                        <del>62</del>
+                                        <add>61[?]</add>
+                                    </choice> früher 19 <choice>
+                                        <del>73</del>
+                                        <add>77</add>
+                                    </choice>
+                                </item>
+                            </list>
+                        </p>
                         <div type="section">
-                            <p>fünfter Titel IV Abschnitt fünfter Titel! Vom Staatshaushalt und den
-                                Staatsschulden § 69. § 75 74</p>
-                            <p>§ .. 78 74 Das Haushaltsjahr des Freistaates beginnt am ersten Juli
-                                jeden Jahres und endet am auf den letzten Juni des darauffolgenden
-                                Jahres.</p>
+                            <p><head>Fünfter Titel</head>
+                                <head><del>IV Abschnitt</del></head>
+                                <note type="comment">fünfter Titel!</note> Vom Staatshaushalt und
+                                den Staatsschulden </p>
+                            <p><label><choice>
+                                        <del>§ ... 78</del>
+                                        <add>§ 74</add>
+                                    </choice>
+                                </label> Das Haushaltsjahr des Freistaates beginnt am ersten Juli
+                                jeden Jahres und endet <choice>
+                                    <del>am</del>
+                                    <add>nach dem</add>
+                                </choice>  letzten Juni des darauffolgenden Jahres.</p>
+                            <p><choice>
+                                    <del>§ 69. 75</del>
+                                    <add> § 79</add>
+                                </choice></p>
                             <p>Alle Steuern und Abgaben werden durch Staatsgesetz geregelt.
-                                Staatsgesetze bestimmen die Quellen und die Arten der Steuern, die u
-                                Abgaben, die durch zur den Haushalt der Länder u Gemeinden die
-                                Kreise und Gemeinden zu dienen haben. Die Haushalte des Staates, der
-                                Länder, der Kreise u. der Gemeinden bieden solidarisch den
-                                öffentlichen Haushalt des Freistaates. Durch Landesgesetz,
-                                Kreisanordnung u Gemeindebeschluß wird festgesetzt, in welcher Weise
-                                die Be Quellen und Arten der ihnen überlassenen Steuern u Abgaben
-                                    nutzbar<pb facs="#facs_36" n="36" xml:id="img_0036" break="yes"
-                                />22 gemacht werden. Diese Gesetze, Anordnungen und Beschlüsse
-                                unterliegen der Genehmigung der Natu[?] Die bezüglichen
-                                Gemeindebeschlüsse müssen vom Kreistage, die Anordnungen der Kreise
-                                vom Landtage die Landesgesetze vom Staatsrat genehmigt werden. § 62
-                                §76 70. Die Einnahmen u Ausgaben des Staates müssen alljährlich (§
-                                23) di im Staatsvoranschlag von der Nationalversammlung angesprochen
-                                werden. Das StaatsHaushaltgesetz ist der staatliche Geberung[?] im
-                                Verwaltungsjahre zu Grunde zu legen.</p>
+                                Staatsgesetze bestimmen die Quellen und die Arten der Steuern<choice>
+                                    <del>, die</del>
+                                    <add>u<choice>
+                                            <sic/>
+                                            <corr>nd</corr>
+                                        </choice></add>
+                                </choice>  Abgaben, die<del> durch zur</del> den Haushalt der Länder
+                                    <del>u Gemeinden die, </del> Kreise und Gemeinden <add>zu</add>
+                                dienen <add>haben</add>. Die Haushalte des Staates, der Länder, der
+                                Kreise u. der Gemeinden bilden solidarisch den öffentlichen Haushalt
+                                des Freistaates. Durch Landesgesetz, Kreisanordnung u<choice>
+                                    <sic/>
+                                    <corr>nd</corr>
+                                </choice> Gemeindebeschluß wird festgesetzt, in welcher Weise die
+                                    <del>Be</del> Quellen und Arten der ihnen überlassenen Steuern u<choice>
+                                    <sic/>
+                                    <corr>nd</corr>
+                                </choice> Abgaben nutzbar<pb facs="#facs_36" n="36"
+                                    xml:id="img_0036" break="yes"/>22 gemacht werden. Diese Gesetze,
+                                Anordnungen und Beschlüsse unterliegen der Genehmigung der Natu[?]
+                                Die bezüglichen Gemeindebeschlüsse müssen vom Kreistage, die
+                                Anordnungen der Kreise vom Landtage die Landesgesetze vom Staatsrat
+                                genehmigt werden. § 62 §76 70. Die Einnahmen u Ausgaben des Staates
+                                müssen alljährlich (§ 23) di im Staatsvoranschlag von der
+                                Nationalversammlung angesprochen werden. Das StaatsHaushaltgesetz
+                                ist der staatliche Geberung[?] im Verwaltungsjahre zu Grunde zu
+                                legen.</p>
                             <p>§77 81 § 65 Der Staatskanzler sekretär des Schatzamts ist dafür vera
                                 hat längstens drei Monate nach Schluß des Verwaltungsjahres den
                                 Staatsrechnungsabschluß samt den nötigen Unterlagen dem Rechnungs
