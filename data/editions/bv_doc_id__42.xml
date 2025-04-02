@@ -103,8 +103,10 @@
                 <date notBefore-iso="1920-08-20" notAfter-iso="1920-08-20"> 20. August 1920 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="created">
+        <revisionDesc status="structured">
             <change when="2025-03-17" who="#cfh">document automatically created</change>
+            <change when="2025-04-02" who="#e_kordt">Text strukturiert und Text ersetzt aus
+                Ermacora</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -223,381 +225,440 @@
                     <item>Ministerialvizesekretär Dr. Kurt Frieberger als Schriftführer.</item>
                 </list>
                 <list>
-                    <item>Prof. Dr. Hans Kelsen, als Experte des Verfassungsausschusses.</item>
+                    <item>Prof. Dr. Hans Kelsen als Experte des Verfassungsausschusses.</item>
                 </list>
-                <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>-2- Die Stastskanzler
-                    legt zu Beginn der Verhandlung die im Sinne des bei der letzten Sitzung
-                    erhaltenen Auftrages verfabten Formulierungnmehrerer Artikel ver. Zum ersten
-                    dieser Artikel wird ein Zusetzantrag Dr. Dannebergs woder, wenn mehrere farteren
-                    die gleiche Anzahl von Sitzen haben, die zwerthochste Zahl von Wählerstimmen bei
-                    der letzten Landtagsnahl- (einzuschalten in Aosatz 4 nach slandtagen)e
-                    engesohndgendedeß suf Beschluß des Unterausschusses die Fessung nunmehr zu
-                    lauten hat: "Art. 26. (1) Im Bundesrete sind die Länder im Verhältnisse zu ihrer
-                    Einwohnerzahl gemäß den folgenden Bestimmungen vertreten. (2) Das Land mit der
-                    großten Einwehnerzahl entsendet 12 Mitglieder. jedes andere land so viele
-                    Untglieder, als den Verhältnisse seiner Kionennerzahl zur erst angeführten
-                    Einnchnerzehl entspricht, wobei Reste über die Mälfte der Verhältniszahl als
-                    vell gelten. Jedem lande gebührt jedoch eine Vertretung von wenigstens drei
-                    Mitgliedern. (3) Fur jedes Mitglied wird ein Ersatzmann bestellt. (4) Die
-                    Urtglieder des Bundesrates und deren Frestznänner werden von den Landtagen nach
-                    den Grundsatze der Verhältnismahl gewählt, jedoch muß wenigstens ein Kandat der
-                    Parter zufallen, welche die zuerthächste Anzahl von Sitzen in Landtbggeoder,
-                    wenn mehrere Farteien die gleicheenzahl von Sitzen hsten, die zverthöchste Zahl
-                    von Mählerstimmen bei der letzten landtagswahl aufweist. Dei gleichen Anspruchen
-                    mehrerer Parteien entscheidet das Irs. (5) in den Bindesrat kann nur gemählt
-                    werden, verfzunLafdtage wählbar ist. (6) Bei der Ausübung inres Mondates sind
-                    die Mitglieder an keinen Auftrag gebunden. (7) Die Bestimmungen dieses Artikels
-                    konnen nur abgeändert werden, wenn in Bundesrate - abgesehen von der für dessen
-                    Beschlußfassung überhaupt erforderlichen Stimmennehrheit-<pb facs="#facs_4"
-                        n="4" xml:id="img_0004" break="yes"/>-3- die Mehrheit der Vertreter von
-                    wenigstens vier Ländern die Aenderung angensamen hat." Es wird hierauf ein
-                    verläufig mit Z bezeichneter Artikel der Beratung unterzogen. Er wird in
-                    folgender Fassung abgeneumen: (1) Natzonalrat und bundesrat treten als
-                    Bundesversammlung in gemeinsaner öffentlicher Sitzung zur Mahl des
-                    Bundespräsidenten und zu dessen Angelobung, dann zur Beschluß fassung über eine
-                    Kriegserkierung am Sitze des laticnalrates zusammen:(2) Jede der beiden
-                    Körperschaften kann den Gegenstend der Abstimmung vorher auch gesondert bereten.
-                    (3) Die Einberufung der Bundesversammlung erfolgt durch den Bundespräsidenten.
-                    Der Vorsitz wird abwechselnd vom Fräsidenten des Nationalrates und vom
-                    Versitzenden des Bundesretes, das erstemel vom Erstgeneanten, geführt. (4) In
-                    der Bundesversammlung findet die Geschäftsordnung des Nationaltates sinngemäße
-                    Anwendung." Da die Frege der Verfolgung des Bundespräsidenten mitRucksicht auf
-                    die äußere Wirkung hier nicht behendelt wird, briagt der Varsztzende den hiefür
-                    maßgebenden Art.52 zur Abstimmung. Er hat zu leuten: "1rt. 32. (1) Eine
-                    behordliche Verfolgung des Bundespräsidenten ist nur zulässig, wenn ihr die
-                    Bundesversammlung zugestimmt het. (2) Der Antrag auf Verfolgung des
-                    Bundespräsidenten ist von der zuständigen Behorde beim Naticaalrat zu stellen,
-                    weicher beschließt, ob die Bundesversammlung damit zu befassen. ist. Spricht
-                    sich der Nationalrat für die Befassung aus, hat der Bundeskanzler die
-                    Bundesversammlung innerhalt drei Wechen einzuberuten.“ Eine Anregung Prof. Dr.
-                    Kelsens, daß bei der Ab-<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"
-                    />-4-</p>
-                <p>stimmung die Parteren entsprechend ihrer Mitgliederzahl in beiden Korperschaften
-                    vertreten sein sollten, findet keine Zustimmung, da der Versitzende
-                    Schwierigkeiten hinsichtlich der jewels auszuscheidenden Ueberzähligen
-                    befürchtet. Auch der Einwand des Abg. Leuthaer gegen die Oeffentlichkeit und
-                    gemeinsame Beratung, wodurch eine Art Oberparlament entstehe, wird nicht
-                    berücksichtigt. 263. Auch Art. Z8swird in der vorgelegten Passung angenommen:
-                    "1rt. 28. (3) Die Sitzungen des Fundeerstes sind öffentlich. Die oeffentlichkert
-                    kann jedoch genäß der Bestinmungen der Geschäftserdnung durch Beschluß
-                    aufgehoben werden. Die Bestimnungen des Art.25 gelten auch für öffentliche
-                    Sitzungen des Bundesrates und seiner Ausschüsse." Der Vorsitzeade stellt fost,
-                    daß auf Grund des Art.25 wahrhertsgetreue Verhandlungsberichte von jeder
-                    Verantwertung frei bleiben. zur Frage der Formulierung des Art. 69 bemerkt Min.
-                    Rat Fr. Frcehlich, daß die Staatskanzler mit der Verlege von drei Varianten
-                    betraut gewesen sei. Eine hätte dem franzosischen Muster zu entsprechen, nech
-                    einer anderen käme die Stichwahl der alten Reichsnahserddandnung zur Anwendung.
-                    die dritte Ferm enthaltet der Linzer Entnurf (sGewählt ist. rer die meisten
-                    Stimmen auf sich vereinigt.«). Eo gäbe noch ein viertes Systen nach
-                    französischen Beispiel, daß nach eider bestimmten Anzahl von Wahlgängen die
-                    relative llajtrität zu entscheiden hätte. Noch einer Wechselrede, in deren
-                    Verlauf der Versitzende den Grundsatz der relotiven Majorität wegen der klaren
-                    Porteiverhältnisse, durch die sich unsere Vertretungekörper von den politisch
-                    sehr zersplitterten französischen unterscheiden, für genugend erklärt und
-                    Prof.Dr. Kels ea zu beden ken gibt, daß bei einer Parterenkoalitibanderen
-                    allfällige Spreagung auch die Stellung, des Präsidenten erschüttern näßte<pb
-                        facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>-5- wird befurwortet von
-                    den Abgeordaeten Dr. Danaeberg. Fia k und Dr. Seipel das franzosische Beispiel
-                    gewählt und folgende Faasung beschlossen: "Art. 43. (1)Der Lundespräsident wird
-                    von der Bundesversammlung gemäßArt. Z in namentlicher Abstimmung mit
-                    Stimmzetteln gewählt. (2) Sein Amt dauert Jahre. Einmalige Wiederwahl ist
-                    zulässie. (3) Zum Buadespräsidenten kann aur gewählt werden, wer des aktive
-                    Hahlrecht zum Netirnelrat hat und vor dem l. Jänner des Jahres der Kahl das
-                    35.lebens jehr überschritten hat. (4) Ausgeschlessen von der Wühlbarkeit sind
-                    Mitglieder regierender oder ehemals regierender Häuser. (5) Gewählt ist, wer
-                    mehr als die Hälfte aller abgegebenen Stimmen für sich hat. kommt eine solche
-                    Mehrheit nicht zustande, werden die Wahlgänge solange wiederhelt, bis sich eine
-                    unbediagte Mehrheit für eine ferson ergibt.Dr.ADa aae berg mecht aufmerksam, daß
-                    in den Art.10 die Mahl des Bundespräsidenten aufzunehmen wäre. Abg. A b r a m
-                    referiert hierauf über den 4.Abschnitt der Verfassung: »Von der Gesetzgebung und
-                    Vollziehung der Länder- und bespricht die Stellung der Geweinde im kunktigen
-                    Bundesstaate. In letzterer Hinsicht enthalten die greßdeutschen und
-                    christlichsozialen Untwürfe nichts oder wenig, bedeutend mehr der Entwurf Dr.
-                    Renners. und der sozialdemokratische Ertwurf (904 der Beilagen). Der
-                    Berichterstatter verreist auf die Forderung seiner Partei nach Schaffung von
+                <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
+                    <fw type="pageNum">- 2 -</fw>Die Staatskanzlei legt zu Beginn der Verhandlung
+                    die im Sinne des bei der letzten Sitzung erhaltenen Auftrages verfaßten
+                    Formulierungen mehrerer Artikel vor. Zum ersten dieser Artikel wird ein
+                    Zusatzantrag Dr. Dannebergs „oder, wenn mehrere Parteien die gleiche Anzahl von
+                    Sitzen haben, die zweithöchste Zahl von Wählerstimmen bei der letzten
+                    Landtagswahl“ (einzuschalten in Absatz 4 nach „Landtage“) angenommen, so daß auf
+                    Beschluß des Unterausschusses die Fassung nunmehr zu lauten hat:</p>
+                <quote>
+                    <p>"Art. 26.</p>
+                    <p>(1) Im Bundesrate sind die Länder im Verhältnisse zu ihrer Einwohnerzahl
+                        gemäß den folgenden Bestimmungen vertreten.</p>
+                    <p>(2) Das Land mit der größten Einwohnerzahl entsendet 12 Mitglieder, jedes
+                        andere Land so viele Mitglieder, als dem Verhältnisse seiner Einwohnerzahl
+                        zur erst angeführten Einwohnerzahl entspricht, wobei Reste über die Hälfte
+                        der Verhältniszahl als voll gelten. Jedem Landes gebührt jedoch eine
+                        Vertretung von wenigstens drei Mitgliedern.</p>
+                    <p>(3) Für jedes Mitglied wird ein Ersatzmann bestellt.</p>
+                    <p>(4) Die Mitglieder des Bundesrates und deren Ersatzmänner werden von den
+                        Landtagen nach dem Grundsatze der Verhältniswahl gewählt, jedoch muß
+                        wenigstens ein Mandat der Partei zufallen, welche die zweithöchste Anzahl
+                        von Sitzen im Landtage oder wenn mehrere Parteien die gleiche Anzahl von
+                        Sitzen haben, die zweithöchste Zahl von Wählerstimmen bei der letzten
+                        Landtagswahl aufweist. Bei gleichen Ansprüchen mehrerer Parteien entscheidet
+                        das Los.</p>
+                    <p>(5) In den Bundesrat kann nur gewählt werden, wer zum Landtage wählbar
+                        ist.</p>
+                    <p>(6) Bei der Ausübung ihres Mandates sind die Mitglieder an keinen Auftrag
+                        gebunden.</p>
+                    <p>(7) Die Bestimmungen dieses Artikels können nur abgeändert werden, wenn im
+                        Bundesrate — abgesehen von der für dessen Beschlußfassung überhaupt
+                        erforderlichen Stimmenmehrheit<pb facs="#facs_4" n="4" xml:id="img_0004"
+                            break="yes"/>
+                        <fw type="pageNum">- 3 -</fw> die Mehrheit der Vertreter von wenigstens vier
+                        Ländern die Änderung angenommen hat."</p>
+                </quote>
+                <p>Es wird hierauf ein vorläufig mit Z bezeichneter Artikel der Beratung unterzogen.
+                    Er wird in folgender Fassung angenommen:</p>
+                <quote>
+                    <p>„(1) Nationalrat und Bundesrat treten als Bundesversammlung in gemeinsamer
+                        öffentlicher Sitzung zur Wahl des Bundespräsidenten und zu dessen
+                        Angelobung, dann zur Beschlußfassung über eine Kriegserklärung am Sitze des
+                        Nationalrates zusammen.</p>
+                    <p>(2) Jeder der beiden Körperschaften kann den Gegenstand der Abstimmung vorher
+                        auch gesondert beraten.</p>
+                    <p>(3) Die Einberufung der Bundesversammlung erfolgt durch den
+                        Bundespräsidenten. Der Vorsitz wird abwechselnd vom Präsidenten des
+                        Nationalrates und vom Vorsitzenden des Bundesrates das erstemal vom
+                        Erstgenannten geführt.</p>
+                    <p>(4) In der Bundesversammlung findet die Geschäftsordnung des Nationalrates
+                        sinngemäße Anwendung.“</p>
+                </quote>
+                <p>Da die Frage der Verfolgung des Bundespräsidenten mit Rücksicht auf die äußere
+                    Wirkung hier nicht behandelt wird, bringt der Vorsitzende den hiefür maßgebenden
+                    Art. 52 zur Abstimmung. Er hat zu lauten:</p>
+                <quote>
+                    <p>„Art. 52</p>
+                    <p>(1) Eine behördliche Verfolgung des Bundespräsidenten ist nur zulässig, wenn
+                        ihr die Bundesversammlung zugestimmt hat.</p>
+                    <p>(2) Der Antrag auf Verfolgung des Bundespräsidenten ist von der zuständigen
+                        Behörde beim Nationalrat zu stellen, welcher beschließt, ob die
+                        Bundesversammlung damit zu befassen ist. Spricht sich der Nationalrat für
+                        die Befassung aus, hat der Bundeskanzler die Bundesversammlung innerhalb
+                        drei Wochen einzuberufen.“</p>
+                </quote>
+                <p>Eine Anregung Prof. Dr. Kelsens, daß bei der Ab<pb facs="#facs_5" n="5"
+                        xml:id="img_0005" break="no"/>
+                    <fw type="pageNum">- 4 -</fw>stimmung die Parteien entsprechend ihrer
+                    Mitgliederzahl in beiden Körperschaften vertreten sein sollten, findet keine
+                    Zustimmung, da der Vorsitzende Schwierigkeiten hinsichtlich der jeweils
+                    auszuscheidenden Überzähligen befürchtet.</p>
+                <p>Auch der Einwand des Abg. Leuthner gegen die Öffentlichkeit und gemeinsame
+                    Beratung, wodurch eine Art Oberparlament entstehe, wird nicht
+                    berücksichtigt.</p>
+                <p>Auch Art. 28 Abs. 3 wird in der vorgelegten Fassung angenommen:</p>
+                <quote>
+                    <p>„Art. 28</p>
+                    <p>(3) Die Sitzungen des Bundesrates sind öffentlich. Die Öffentlichkeit kann
+                        jedoch gemäß der Bestimmungen der Geschäftsordnung durch Beschluß aufgehoben
+                        werden. Die Bestimmungen des Art. 25 gelten auch für öffentliche Sitzungen
+                        des Bundesrates und seiner Ausschüsse.“</p>
+                </quote>
+                <p>Der Vorsitzende stellt fest, daß auf Grund des Art. 25 wahrheitsgetreue
+                    Verhandlungsberichte von jeder Verantwortung frei bleiben.</p>
+                <p>Zur Frage der Formulierung des Art. 49 bemerkt Min.-Rat Dr. Froehlich, daß die
+                    Staatskanzlei mit der Vorlage von drei Varianten betraut gewesen sei. Eine hätte
+                    dem französischen Muster zu entsprechen, nach einer anderen käme die Stichwahl
+                    der alten Reichswahlordnung zur Anwendung, die dritte Form enthaltet der Linzer
+                    Entwurf („Gewählt ist, wer die meisten Stimmen auf sich vereinigt.“) Es gäbe
+                    noch ein viertes System nach französischem Beispiel, daß nach einer bestimmten
+                    Anzahl von Wahlgängen die relative Majorität zu entscheiden hätte.</p>
+                <p>Nach einer Wechselrede, in deren Verlauf der Vorsitzende den Grundsatz der
+                    relativen Majorität wegen der klaren Parteiverhältnisse, durch die sich unsere
+                    Vertretungskörper von den politisch sehr zersplitterten französischen
+                    unterscheiden, für genügend erklärt und Prof. Kelsen zu bedenken gibt, daß bei
+                    einer Parteienkoalition deren allfällige Sprengung auch die Stellung des
+                    Präsidenten erschüttern müßte,<pb facs="#facs_6" n="6" xml:id="img_0006"
+                        break="yes"/>
+                    <fw type="pageNum">- 5 -</fw> wird befürwortet von den Abgeordneten Dr.
+                    Danneberg, Fink und Dr. Seipel das französische Beispiel gewählt und folgende
+                    Fassung beschlossen:</p>
+                <quote>
+                    <p>„Art. 49</p>
+                    <p>(1) Der Bundespräsident wird von der Bundesversammlung gemäß Art. X in
+                        namentlicher Abstimmung mit Stimmzetteln gewählt.</p>
+                    <p>(2) Sein Amt dauert ... Jahre. Einmalige Wiederwahl ist zulässig.</p>
+                    <p>(3) Zum Bundespräsidenten kann nur gewählt werden, wer das aktive Wahlrecht
+                        zum Nationalrat hat und vor dem 1. Jänner des Jahres der Wahl das 35.
+                        Lebensjahr überschritten hat.</p>
+                    <p>(4) Ausgeschlossen von der Wählbarkeit sind Mitglieder regierender oder
+                        ehemals regierender Häuser.</p>
+                    <p>(5) Gewählt ist, wer mehr als die Hälfte aller abgegebenen Stimmen für sich
+                        hat. Kommt eine solche Mehrheit nicht zustande, werden die Wahlgänge solange
+                        wiederholt, bis sich eine unbedingte Mehrheit für eine Person ergibt."</p>
+                </quote>
+                <p>Dr. Danneberg macht aufmerksam, daß in den Art. 10 die Wahl des Bundespräsidenten
+                    aufzunehmen wäre.</p>
+                <p>Abg. Abram referiert hierauf über den 4. Abschnitt der Verfassung: „Von der
+                    Gesetzgebung und Vollziehung der Länder“ und bespricht die Stellung der Gemeinde
+                    im künftigen Bundesstaate 10). In letzterer Hinsicht enthalten die großdeutschen
+                    und christlichsozialen Entwürfe nichts oder wenig, bedeutend mehr der Entwurf
+                    Dr. Renners, und der sozialdemokratische Entwurf (904 der Beilagen).</p>
+                <p>Der Berichterstatter verweist auf die Forderung seiner Partei nach Schaffung von
                     Kreisgemeinden, da für die Arbeiterschaft die Schaffung einer Verfassung ohne
-                    durchgreifende Verwaltungsreform nicht denkbar sei. Bei Bildung der Kreiswer
-                    gemeinden müsse aiehsich nach seiner personlichen Auffassung nicht auf eine
-                    bestimmte Eignchnerzahl festlegen, vielmehr könne in Gebirgsgegenden mit wenig
-                    Industrie und geringerer Besiedlung die Gemeinde auch einen Kleiagren Bruchterl
-                        der<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>-6- Bevolkerung
-                    umfassen. Er hält es auch für möglich Grenzgebiete aus Grunden der
-                    Verkehrspolitik und gleichertiger wirtschaftlicher wie sozieler Verhältnisse
-                    ohne Rücksicht auf die Landesgrenzen zu solchen Gebietskörperschaften zu
-                    vereinigen. So wäre das untere Pustertal an Kärnten, der Lungau eventuell an
-                    Steiermark anzugliedern. Die bestehende bürckretische Behordenergenisation der
-                    den ungeheuren Aufgaben, die nach dem Zusammenbruche zu losen sind, wie die
-                    Bekämpfung der Tuberkulose und der Geschlechtskrankheiten somie verschiedener
-                    anderer Uebelstände in keiner Weise gewachsen. Die allgemeine Hebung des
-                    Gesundhertszustandes, namentlich der Jugend, konne nur von demokratisch
-                    verwalteten Kreisen erzielt werden. Dazu bedürfe es der Schaffung von
-                    Kreisgemeinden und deredemokratisierung der Verwaltung im Kreise und im
-                    politischen Bezirke. Der Varsitzende stellt fest, daß der Gegenstend in drei
-                    Teile zerfelle: 1. Die Bestimmungen des 4. Abschnittes im Linzer Entwurfe Art.
-                    26 fk. , 2. die Bestimmungen des 5.Abschaittes im 904 der Beilegen, Art.94 ff.,
-                    auch behandelt im Mayr-Rennerschen Entwurfe, V. Hauptstuck, Art.116 ff. und 3.
-                    der Teil des sozialdemokratischen Entwurkes, der die Aenderung der Landesgrenzen
-                    und die Aenderung der Lendesgebiete versieht. Nach seinem Vorschlage sollen
-                    zuerst die Bestimmungen über die Gemeinde und anschließend daran die über die
-                    Aenderung der Landesgrenzen behandelt werden. Dr. Seipel schließt sich den
-                    Verschlag an, kann aber nur allgemeine Erklärungen zu diesen Fragen abgeben.
-                    Nach Anschauung seiner Partei entspreche es dem Charakter einer foderalistischen
-                    Verfassung, daß die Ordnung der inneren Angelegenheiten in den Ländern den
-                    Länder- selbst überlassen bleibt. Zugegeben wird das große Interesse, das der
-                    Bund an der Verwaltung in den einzelnen Ländern nehmen muß. Insbesondere muß der
-                    Gemeinde ihre Selbstverwaltung durch den<pb facs="#facs_8" n="8"
-                        xml:id="img_0008" break="yes"/>-7- kund garantiert ffrtf4 und eine
-                    Bestimmung aufgenommen werden, die eine wirklich demckratische Selbstverwaltung
-                    in der Gemeinde sichert. Seine Partei erwartet die baldige Schafkung eines
-                    Bundesgesetzes über die Verwaltungserganisation; die Herstellung der Ordnung in
-                    der Gemeinde müsse den Ländern überlassen bleiben. Eine Regeluag dieses
-                    Fragenkomplexes sei erst möglich, wenn die Gesetzgebung auf Grund der neuen
-                    Verfassung im Geage ist und die Länder ihrer Meinung im Bundesrate Geltung
-                    verschaffen können. Erlääßt eine Nationalversammlung, der kein Bundesrat zur
-                    Seite steht, ein Gesetz über die Gemeindeverwaltung, so werden dies die Länder
-                    als Oktrey empfinden. In der Verfassung wurde eine Bestimmung wie Art.18 in 888
-                    der Beilagen, noch dem Uuster der deutschen Reichsverfassung formuliert,
-                    vollkommen ausreichen: »Gemeinden und Gemeindeverbände haben das Recht der
-                    Selbstverwaltung innerhalb der Schranken der Gesetzen. Der Vorsztzende pflichtet
-                    dem Verredner bei, daß die Verfassung nur allgemeine Grundsätze enthalten könne
-                    und den Ländern eine gewisse Freiheit lassen müsse. Mit dem allgemeinen Frinzip
-                    in der christlichsozialen Passung könne man weder aus sachlichen aoch aus
-                    polrtischen Grunden das Auslangen finden. Im wesentlichen handle es sich hier
-                    weniger um Fragen des Gemeinderechtes als um solche der Behordenergenisation.
-                    Die doppeßte Puaktion der Bezirkshauptmannschaft, die einerseits als Orgen des
-                    Landes der Landesgesetzgebung unterworken andrerseits als Organ des Bundes mit
-                    der Vollziehung der Bunf desgesetze betraut ist, nötige hier zu prinzipiellen
-                    Feststellungen. Da der Unsturz Reich und Länder ungestaltet habe, könne die
-                    Bezirkshauptmandschaft in ihrer jetzigen unveränderten Gestalt aus zwei Grüaden
-                    nicht erhalten bleiben: l. sei für eine rein burokratische
+                    durchgreifende Verwaltungsreform nicht denkbar sei. Bei Bildung der
+                    Kreisgemeinden müsse man sich nach seiner persönlichen Auffassung nicht auf eine
+                    bestimmte Einwohnerzahl festlegen, vielmehr könne in Gebirgsgegenden mit wenig
+                    Industrie und geringerer Besiedlung die Gemeinde auch einen kleineren Bruchteil
+                        der<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+                    <fw type="pageNum">- 6 -</fw> Bevölkerung umfassen. Er hält es auch für möglich,
+                    Grenzgebiete aus Gründen der Verkehrspolitik und gleichartiger wirtschaftlicher
+                    wie sozialer Verhältnisse ohne Rücksicht auf die Landesgrenze zu solchen
+                    Gebietskörperschaften zu vereinigen. So wäre das untere Pustertal an Kärnten,
+                    der Lungau eventuell an Steiermark anzugliedern. Die bestehende bürokratische
+                    Behördenorganisation sei den ungeheuren Aufgaben, die nach dem Zusammenbruche zu
+                    lösen sind, wie die Bekämpfung der Tuberkulose und der Geschlechtskrankheiten
+                    sowie verschiedener anderer Übelstände in keiner Weise gewachsen. Die allgemeine
+                    Hebung des Gesundheitszustandes, namentlich der Jugend, könne nur von
+                    demokratisch verwalteten Kreisen erzielt werden. Dazu bedürfe es der Schaffung
+                    von Kreisgemeinden und der Demokratisierung der Verwaltung im Kreise und im
+                    politischen Bezirke.</p>
+                <p>Der Vorsitzende stellt fest, daß der Gegenstand in drei Teile zerfalle: 1. Die
+                    Bestimmungen des Abschnittes im Linzer Entwurfe Art. 85 ff., 2. die Bestimmungen
+                    des Abschnittes in 904 der Beilagen, Art. 94 ff., auch behandelt im
+                    Mayr-Rennerschen Entwurfe, V. Hauptstück, Art. 116 ff. und 3. Teil des
+                    sozialdemokratischen Entwurfes, der die Änderung der Landesgrenzen und die
+                    Änderung der Landesgebiete vorsieht. Nach seinem Vorschlage sollen zuerst die
+                    Bestimmungen über die Gemeinde und anschließend daran die über die Änderung der
+                    Landesgrenzen behandelt werden.</p>
+                <p>Dr. Seipel schließt sich dem Vorschlag an, kann aber nur allgemeine Erklärungen
+                    zu diesen Fragen abgeben. Nach Anschauung seiner Partei entspreche es dem
+                    Charakter einer föderalistischen Verfassung, daß die Ordnung der inneren
+                    Angelegenheiten in den Ländern, den Ländern selbst überlassen bleibt. Zugegeben
+                    wird das große Interesse, das der Bund an der Verwaltung in den einzelnen
+                    Ländern nehmen muß. Insbesondere muß der Gemeinde ihre Selbstverwaltung durch
+                        den<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
+                    <fw type="pageNum">- 7 -</fw> Bund garantiert und eine Bestimmung aufgenommen
+                    werden, die eine wirklich demokratische Selbstverwaltung in der Gemeinde
+                    sichert. Seine Partei erwartet die baldige Schaffung eines Bundesgesetzes über
+                    die Verwaltungsorganisation; die Herstellung der Ordnung in der Gemeinde müsse
+                    den Ländern überlassen bleiben. Eine Regelung dieses Fragenkomplexes sei erst
+                    möglich, wenn die Gesetzgebung auf Grund der neuen Verfassung im Gange ist und
+                    die Länder ihrer Meinung im Bundesrate Geltung verschaffen können. Erläßt eine
+                    Nationalversammlung, der kein Bundesrat zur Seite steht, ein Gesetz über die
+                    Gemeindeverwaltung, so werden dies die Länder als Oktroy empfinden. In der
+                    Verfassung würde eine Bestimmung wie Art. 18 in 888 der Beilagen, nach dem
+                    Muster der deutschen Reichsverfassung formuliert, vollkommen ausreichen:
+                    „Gemeinden und Gemeindeverbände haben das Recht der Selbstverwaltung innerhalb
+                    der Schranken der Gesetze“.</p>
+                <p>Der Vorsitzende pflichtet dem Vorredner bei, daß die Verfassung nur allgemeine
+                    Grundsätze enthalten könne und den Ländern eine gewisse Freiheit lassen müsse.
+                    Mit dem allgemeinen Prinzip in der christlichsozialen Verfassung könne man weder
+                    aus sachlichen noch aus politischen Gründen das Auslangen finden. Im
+                    wesentlichen handle es sich hier weniger um Fragen des Gemeinderechtes als um
+                    solche der Behordenorganisation. Die doppelte Funktion der
+                    Bezirkshauptmannschaft, die einerseits als Organ des Landes der
+                    Landesgesetzgebung unterworfen ist, nötige hier zu prinzipiellen
+                    Feststellungen.</p>
+                <p>Da der Umsturz Reich und Länder umgestaltet habe, könne die
+                    Bezirkshauptmannschaft in ihrer jetzigen unveränderten Gestalt aus zwei Gründen
+                    nicht erhalten bleiben: 1. sei für eine rein bürokratische
                     Verwaltungsorganisation in einem demokratischen Staate, der auf der
-                    Selbstverwaltung beruhet kein Raum, 2. entspreche ihre heutige ferm nichten
-                        geänder-<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>-8- ten
-                    sozielen und wirtschaftlichen Verhältnissea. Namentlich die
-                    kriegswirtschaftliche Verwaltung, die im Deutschen Reiche mir se greßen ürfeige
-                    auf den Kreisen aufgebaut war, habe gezeigt, daß wir dringend lokale
-                    Selbstvermaltungskorper mit eigenen Vermögen in den Bezirken erricnten müssen.
-                    Die sczioldemokratische Partei bringt dem Gedanken des Foderalisnus, der blaß
-                    den tatsächlichen Machtverhältnissen entgegenkennt, wenig Sympathie entgegen.
-                    Sie hat den Bundesrat zugestanden, aber nur unter der Veraussetzung, daß sie
-                    ihrer Mählerschaft die Festlegung des denckratischen Prinzips in der
-                    Lckalverwaltung, die Demckratisierung der Bezirkshauptmennschaft garantieren
-                    kann. die Bevolkerung hat das Bedürfnis die Vermaltung zu kontrellieren und es
-                    besteht Gefahr, daß, wenn dies nicht verfassungsmässig geregelt wird die
-                    sogenannten illegalen Uebergriffe von Klassenergenssstienen nicht aufhören. Der
-                    Kreis, der in kleinen Kändern allerdings nicht aotig. in Niederosterreich
-                    degegen scgar histerisch gegeben ist. soll den Ländern nichts von ihrer
-                    Kompetenz nehmen, sondern an die Stelle der demckratischen
+                    Selbstverwaltung beruhe, kein Raum, 2. entspreche ihre heutige Form nicht den
+                        geänder<pb facs="#facs_9" n="9" xml:id="img_0009" break="no"/>
+                    <fw type="pageNum">- 8 -</fw>ten sozialen und wirtschaftlichen Verhältnissen.
+                    Namentlich die kriegswirtschaftliche Verwaltung, die im Deutschen Reiche mit so
+                    großem Erfolge auf den Kreisen aufgebaut war, habe gezeigt, daß wir dringend
+                    lokale Selbstverwaltungskörper mit eigenem Vermögen in den Bezirken errichten
+                    müssen.</p>
+                <p>Die sozialdemokratische Partei bringt dem Gedanken des Föderalismus, der bloß den
+                    tatsächlichen Machtverhältnissen entgegenkommt, weniger Sympathie entgegen. Sie
+                    hat den Bundesrat zugestanden, aber nur unter der Voraussetzung, daß sie ihrer
+                    Wählerschaft die Festlegung des demokratischen Prinzips in der Lokalverwaltung,
+                    die Demokratisierung der Bezirkshauptmannschaft garantieren kann.</p>
+                <p>Die Bevölkerung hat das Bedürfnis, die Verwaltung zu kontrollieren und es besteht
+                    Gefahr, daß, wenn dies nicht verfassungsmäßig geregelt wird, die sogenannten
+                    illegalen Übergriffe von Klassenorganisationen nicht aufhören.</p>
+                <p>Der Kreis, der in kleinen Ländern allerdings nicht nötig, in Niederösterreich
+                    dagegen sogar historisch gegeben ist, soll den Ländern nichts von ihrer
+                    Kompetenz nehmen, sondern an die Stelle der demokratischen
                     Bezirkshauptmannschaft treten. Das Beispiel für die Organisation des Kreises ist
-                    die englische ürafschaft. An der Spitze sel der gewählte Kreishauptmenn stehen,
-                    der in Bundesangelegenheiten als Bundesin Landesangelegenheiten als Landesorgen,
-                    in solchen des Kreises als selbständiges Orgen handelt. Srase Stellung
-                    entspricht der des Landeshauptmannes. Die Tschecheslowakei hat an die Spitze
-                    einer gewählten Kauvertretung ein ernenntes Orgen bestellt. Die
-                    sozialdemckratische Partei steht auf den Standpunkt, daß der Kreishauptmann zu
-                    wählen ist. Die Art. der Ausernanderlegung der Kempetenzen von Bund, Land und
-                    Kreis wäre in der Verfassung nur prinzipiell festzulegen. Derzeit ist der Bezirk
-                    einerseits zu ghabn, gedaß man exponierter Organe am Sitze der Bezirksgerichtey)
-                    bedork. andrerseits zu klein, daß man ihrer mehrerenzu einem Kreise<pb
-                        facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>-9- zusanmenlegen mus.
-                    im gegenwartigen Augeablick kann man wegen der Schwierigkeit von Neubauten.
-                    Uebersiedlungen und wegen der Kostspieligkeit der Materialbeschaffung eine
-                    durchgreifende Neuregelung nicht durchführen, andrerseits erträgt die
-                    Bevölkerung keine weitere Verzogerung der Demokratisierung. Bis zur Durchkuhruag
-                    der Kreiseinteilung ist vorläufig ein Uebergangszustand zu schaffen, indem in
-                    den bestehenden Bezirken Bezirksvertretungen auf Grund des allgemeinen
-                    Kahlrechtes oder aus den Gereindevertretungen gewehlt werden. Diese Korperschaft
-                    hätte die Geschäfte der bestehenden Konkurrenzen zu übernehmen oder an die Seite
-                    des Bezirkshauptmannes zu treten in Ausübung eines Kontrellrechtes. Diese
-                    vorläufige Demokratisierung soll prinzipiell in der Verfassung ausgesprochen
-                    werden, die Durchführung oder Ausfuhrungsgesetzen überlassen bleiben. Er bittet
-                    folgende Grundsätze zu erortern: 1. Das frinzip, daß die großemehälander in
-                    Kreise einzuteilen sind, soll in der Verfassung festgelegt werden; die
-                    Einzelheiten wären durch Bundesgesetze zu regela: 2. Diese Kreise sind
-                    demekratisch zu organisieren. Es wäre eine Einigung zu erzielen, in welcher Form
-                    diese Orgenisation zu unschreiben sei: 3. Bis zur Durchfunrung dieser
-                    Orgenisation wäre durch teilweise Demckratisierung den Wünschen der
-                    Arbeiterschaft eatgegenzukommen, indeuidem Bezirkshauptmanne eine genählte
-                    Bezirksvertretung beigegeben wird, deren nähere Kompetenzen durch
-                    Spezialgesetzgebung zu regeln sind. Was die Gemeinde anlangt, wären wie gewisse
-                    Grundrechte der Individuen auch gewisse Grundrechte der Gemeinde in die
-                    Verfassung aufzunehmen. Nach dem englichen Prinzip desnuatio nelen Minimumsr
-                    wäre ein gewisses Mindestmaß durbhclienstag durch die Staatsgeselzgebung
-                    vorzuschreiben. Festzulegen wärreaueuch, weichen größeren Gemeidden das Recht
-                    auf die Stellung als Kreisgemeinde zuzuserkennen sei.<pb facs="#facs_11" n="11"
-                        xml:id="img_0011" break="yes"/>-10- Die Beratunger werden um 12 Uhr mittags
-                    unterbrachen und um Psank Uhr nachmittggs wieder aufgenemmen. Eine Aaregung des
-                    Ng. Fr. Se1fel hurzgefabte Grunt sätze zu fermulieren, betrachtet der
-                    Vorsitzende als Verschla den sezialdemekratischen Entwurk. Abschaitt V (904 der
-                    Beilagen) Artikelwerseddvebbagenkon. Dr. Seifel würde als Eznlertung Art. 116
-                    des Kennerschen Entnurfes empfehlen: aJedes Land ordaet im Rahmen dieser
-                    Verfassung die Einrichtungen der Gemeinden in einer besonderen Gemeindeordnung
-                    selbständig Dr. Daaaeberg wäre einverstanden, wenn gewisse Prinzipien für diese
-                    Geasindeerdnung, die etwas anderes wäre, als wir heute darunter verstehen,
-                    formuliert werden, doch einigt sich der Unterausschuß unEr Antrag des
-                    Staatssekretärs Dr. Ma Ir aoch nicht zu feruulieren, sondern Prinzipien
-                    festzulegen. Sei Besprechung des Art. 55 (504 d.B.) weint lr. Seip1 dat eine
-                    Einteilung in Kreise durch Bundesgesetz von den ländern als schwere
-                    Einschränkung empfunden würde. Hiegegen macht der Versitzende geltend, daß dem
-                    sunde, der die Auslagen für die innere Verwaltung zu tragen het, auch ein
-                    Einfluß zugestanden werden muß. Staatssekretär Dr. Ma yr. gibt seiner Anschauung
-                    Ausdruck, daß die Bezirkshauptmannschakten nicht Organe des Fundes, sondern der
-                    Länder sein werden. Ihre Aufgaben sind entweder Aufgaben der Landesregierung
-                    oder Aufgaben der Bunfesregierung im übertragenen Wirkuagskreise. Auch Dr. Seif
-                    el ist der Aaschauung. daß eine Staatsverwaltung wie bisher auf Grund der neuen
-                    Verfassung nicht mehr existieren wird. Mudesagenden, für die nicht eigene
-                    Kundesorgane vorgesehen sind, werden die Landesergane ausführen. Ueber die
-                    Frage, ob die Länder iu Stande wären, die<pb facs="#facs_12" n="12"
-                        xml:id="img_0012" break="yes"/>-11- Rosten der Verenkhuderwaltung zu tragen,
-                    sind der Versitzende und Stastssekretar dr. Mayr entgegengesetzter Rescheus Auch
-                    letzterer ist aber der Ansicht, daß die Einrichtung übermässiger
-                    Verwaltungsapporste durch den Kund verhindert. werden müsse. Dr. Seipel gibt die
-                    Zustimmung seiner Pertei kund. daß grundsätzlich die Gliederung in Kreise nur in
-                    größeren lindern vorgenounen darf. Der Verartzende stellt Gest, das zugleich die
-                    Bezirksgensinde zugestanden wird. Gegenüber der Fassuag des Art. 96 verhält sich
-                    Dr. Seiel ablehnend und Stastssekretär tr. Mayr erklärt: Mir haben in allen
-                    bisherigen Aschnitten eine wirkliche Bundesverfassung also Teilung der
-                    Verwaltung zwischen Bund und Ländern zu schaffen getrachtet. Eine
-                    Ausnahmestellung simmt nur der Bundesrat ein, der keine dem Nationalrat gleict
-                    wertige Korperschaft ist. Nun darf auf den Gebiete der Gemeinde der einmal
-                    festgelegte Grundsatz nicht durchbrechen werden. daß die Verfassung einen
-                    Ausgleich zwischen Fund und Ländera bildet. Dem hält der Varsilzende entgegen,
-                    daß von seiner Partei stets die Sicherung des Selfgeuerament innerhalb der
-                    Bundesglieder gefordert werden sei. Prof.Dr. Kel sea stellt fest, daß bicher
-                    beabsichtigt war, daß der Bund nur mittelbar auf die Unterbehörden durch die
-                    Landesbehörde Ingerenz einnt. Die Rezirksgemeinde erhielte also die Aufträge von
-                    der landesbenörde einmal als Bundestehorde ein anderesmal als Lendesbehorde.
-                    Entscherdend ist, eo die ernannten Leanten von der landes- oder von der
-                    Bundesbehorde ernannt werden sehlen. bezuglich des Art.I vezuerfelt
-                    Staatssekretär dr. Ua y r. ob die Denekratisierung bereits soweit gedienen sei,
-                    daß man zur Mahl von Kreishsuptnännern schreiten könne. Mererdaeter less in
-                    befürchtet den langel genügender fähiger Ver-<pb facs="#facs_13" n="13"
-                        xml:id="img_0013" break="yes"/>-12- waltungsfachmänner: schen jetzt
-                    bedurkten die gemählten Lendesoreene mehrerer zugeteilter Beamten, die sie in
-                    die Verwaltung einfuhren. Der Varsitzende erklärt, daß er such sehr wohl der
-                    Fall sein könne, daß für diese Stelle im Kreise aur rechtskundige Beaute wir in
-                    Deutschland die Oberbürgermeister gemahlt werden konnen. Ausschleggebend sei,
-                    daß keine Ernennung von oben, sondern Wahl erfolge. Abg. lessin kritisiert die
-                    Stellung der heutigen gewählten Bürgermeister in Statutargemeiaden, die sich vor
-                    allem um die Cuast ihrer Parter behühen mußten. Es sei unumgänglich aotwendig,
-                    daß an die Spitze größerer Verwaltungskorper, wenn schon nicht rechtskundige, so
-                    doch Personen mit entsprechender Vorbildung treten, die den Beruf auf
-                    Lebensdauer ausüben. Die Mahl von Kreishauptmännern bringe eine unnutze
-                    Verteuerung und noch größere Dezentralisaticn mit sich. Dr. Danaeberg betont,
-                    daß auch bei den Ländern Sparmaßnahmen bezüglich der Verwaltungskorper Platz
-                    greifen mußten. Mangel an geeigneten Personlichkeiten befürchte ernicht, da nur
-                    etwa 25 Kreisheuptmänner zu wählen wären. Staatssekretar Dr. UeIr niumt gegen
-                    ein etwaiges Mißtreuen in die Beamtenschaft Stellung, aus deren Kreisen man
-                    leicht die deppelte Anzahl befähigter Personen für diese Stellen finden könne.
-                    Der Vorsitzende erklärt sich chneweiteres bereit die Bestimmung aufzunehmen, daß
-                    zum Kreishauptmann nur ein fachlich ausgebildeter Berufsbeanter gewählt werden
-                    kenn. Alg. Cless in beantragt fräsentation des Kreishauptmannes durch die
-                    Kreisvertretung und Erkennung durch das Land. Schlieblich wird jedoch entgegen
+                    die englische Grafschaft. An der Spitze soll der gewählte Kreishauptmann stehen,
+                    der in Bundesangelegenheiten als Bundes-, in Landesangelegenheiten als
+                    Landesorgan, in solchen des Kreises als selbständiges Organ handelt. Seine
+                    Stellung entspricht der des Landeshauptmannes. Die Tschechoslowakei hat an die
+                    Spitze einer gewählten Gauvertretung ein ernanntes Organ bestellt. Die
+                    sozialdemokratische Partei steht auf dem Standpunkt, daß der Kreishauptmann zu
+                    wählen ist. Die Art der Auseinanderlegung der Kompetenzen von Bund, Land und
+                    Kreis wäre in der Verfassung nur prinzipiell festzulegen.</p>
+                <p>Derzeit ist der Bezirk einerseits zu groß, sodaß man exponierter Organe am Sitze
+                    des Bezirksgerichtes bedarf, andrerseits zu klein, daß man ihrer mehrere zu
+                    einem Kreise<pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>
+                    <fw type="pageNum">- 9 -</fw> zusammenlegen muß.</p>
+                <p>Im gegenwärtigen Augenblick kann man wegen der Schwierigkeit von Neubauten,
+                    Übersiedlungen und wegen der Kostspieligkeit der Materialbeschaffung eine
+                    durchgreifende Neuregelung nicht durchführen, andererseits erträgt die
+                    Bevölkerung keine weitere Verzögerung der Demokratisierung. Bis zur Durchführung
+                    der Kreiseinteilung ist vorläufig ein Übergangszustand zu schaffen, indem in den
+                    bestehenden Bezirken Bezirksvertretungen auf Grund des allgemeinen Wahlrechtes
+                    oder aus den Gemeindevertretungen gewählt werden. Diese Körperschaft hätte die
+                    Geschäfte der bestehenden Konkurrenzen zu übernehmen oder an die Seite des
+                    Bezirkshauptmannes zu treten in Ausübung eines Kontrollrechtes. Diese vorläufige
+                    Demokratisierung soll prinzipiell in der Verfassung ausgesprochen werden, die
+                    Durchführung aber Ausführungsgesetzen überlassen bleiben. Er bittet folgende
+                    Grundzüge zu erörtern:</p>
+                <p>1. Das Prinzip, daß die größeren Länder in Kreise einzuteilen sind, soll in der
+                    Verfassung festgelegt werden; die Einzelheiten wären durch Bundesgesetze zu
+                    regeln;</p>
+                <p>2. Diese Kreise sind demokratisch zu organisieren. Es wäre eine Einigung zu
+                    erzielen, in welcher Form diese Organisation zu umschreiben sei;</p>
+                <p>3. Bis zur Durchführung dieser Organisation wäre durch teilweise Demokratisierung
+                    den Wünschen der Arbeiterschaft entgegenzukommen, indem dem Bezirkshauptmanne
+                    eine gewählte Bezirksvertretung beigegeben wird, deren nähere Kompetenzen durch
+                    Spezialgesetzgebung zu regeln sind.</p>
+                <p>Was die Gemeinde anlangt, wären wie gewisse Grundrechte der Individuen auch
+                    gewisse Grundrechte der Gemeinde in die Verfassung aufzunehmen. Nach dem
+                    englischen Prinzip des „nationalen Minimums“ wäre ein gewisses Mindestmaß durch
+                    den Staat durch die Staatsgesetzgebung vorzuschreiben. Festzulegen wäre auch,
+                    welchen größeren Gemeinden das Recht auf die Stellung als Kreisgemeinde
+                    zuzuerkennen sei.</p>
+                <p><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
+                    <fw type="pageNum">- 10 -</fw>Die Beratungen werden um 12 Uhr mittags
+                    unterbrochen und um 1/2 2 Uhr nachmittags wieder aufgenommen.</p>
+                <p/>
+                <p>Eine Anregung des Abg. Dr. Seipel, kurzgefaßte Grundsätze zu formulieren,
+                    betrachtet der Vorsitzende als Vorschlag, den sozialdemokratischen Entwurf,
+                    Abschnitt V (904 der Beilagen) artikelweise durchzugehen. Dr. Seipel würde als
+                    Einleitung Art. 116 des Renner’schen Entwurfes empfehlen: „Jedes Land ordnet im
+                    Rahmen dieser Verfassung die Einrichtungen der Gemeinden in einer besonderen
+                    Gemeindeordnung selbständig.“ Dr. Danneberg wäre einverstanden, wenn gewisse
+                    Prinzipien für diese Gemeindeordnung, die etwas anderes wäre, als wir heute
+                    darunter verstehen, formuliert werden, doch einigt sich der Unterausschuß auf
+                    Antrag des Staatssekretärs Dr. Mayr noch nicht zu formulieren, sondern
+                    Prinzipien festzulegen.</p>
+                <p>Bei Besprechung des Art. 95 (904 d. B.) meint Dr. Seipel daß eine Einteilung in
+                    Kreise durch Bundesgesetz von den Ländern als schwere Einschränkung empfunden
+                    würde. Hiegegen macht der Vorsitzende geltend, daß dem Bunde, der die Auslagen
+                    für die innere Verwaltung zu tragen hat, auch ein Einfluß zugestanden werden
+                    muß. Staatssekretär Dr. Mayr gibt seiner Anschauung Ausdruck, daß die
+                    Bezirkshauptmannschaften nicht Organe des Bundes, sondern der Länder sein
+                    werden. Ihre Aufgaben sind entweder Aufgaben der Landesregierung oder Aufgaben
+                    der Bundesregierung im übertragenen Wirkungskreise. Auch Dr. Seipel ist der
+                    Anschauung, daß eine Staatsverwaltung wie bisher auf Grund der neuen Verfassung
+                    nicht mehr existieren wird. Bundesagenden, für die nicht eigene Bundesorgane
+                    vorgesehen sind, werden die Landesorgane ausführen.</p>
+                <p>Über die Frage, ob die Länder im Stande wären, die<pb facs="#facs_12" n="12"
+                        xml:id="img_0012" break="yes"/>
+                    <fw type="pageNum">- 11 -</fw> Kosten der Verwaltung zu tragen, sind der
+                    Vorsitzende und Staatssekretär Dr. Mayr entgegengesetzter Meinung. Auch
+                    letzterer ist aber der Ansicht, daß die Einrichtung übermäßiger
+                    Verwaltungsapparate durch den Bund verhindert werden müsse.</p>
+                <p>Dr. Seipel gibt die Zustimmung seiner Partei kund, daß grundsätzlich die
+                    Gliederung in Kreise nur in größeren Ländern vorgenommen werden darf. Der
+                    Vorsitzende stellt fest, daß zugleich die Bezirksgemeinde zugestanden wird.</p>
+                <p>Gegenüber der Fassung des Art. 96 verhält sich Dr. Seipel ablehnend und
+                    Staatssekretär Dr. Mayr erklärt:</p>
+                <p>Wir haben in allen bisherigen Abschnitten eine wirkliche Bundesverfassung also
+                    Teilung der Verwaltung zwischen Bund und Ländern zu schaffen getrachtet. Eine
+                    Ausnahmestellung nimmt nur der Bundesrat ein, der keine dem Nationalrat
+                    gleichwertige Körperschaft ist. Nun darf auf dem Gebiete der Gemeinde der einmal
+                    festgelegte Grundsatz nicht durchbrochen werden, daß die Verfassung einen
+                    Ausgleich zwischen Bund und Ländern bildet.</p>
+                <p>Dem hält der Vorsitzende entgegen, daß von seiner Partei stets die Sicherung des
+                    Selfgovernment innerhalb der Bundesglieder gefordert worden sei.</p>
+                <p>Prof. Dr. Kelsen stellt fest, daß bisher beabsichtigt war, daß der Bund nur
+                    mittelbar auf die Unterbehörden durch die Landesbehörde Ingerenz nimmt. Die
+                    Bezirksgemeinde erhielte also die Aufträge von der Landesbehörde einmal als
+                    Bundesbehörde ein anderesmal als Landesbehörde. Entscheidend ist, ob die
+                    ernannten Beamten von der Landesoder von der Bundesbehörde ernannt werden
+                    sollen.</p>
+                <p>Bezüglich des Art. 97 bezweifelt Staatssekretär Dr. Mayr, ob die Demokratisierung
+                    bereits soweit gediehen sei, daß man zur Wahl von Kreishauptmännern schreiten
+                    könne. Abgeordneter Clessin befürchtet den Mangel genügender fähiger Ver<pb
+                        facs="#facs_13" n="13" xml:id="img_0013" break="no"/>
+                    <fw type="pageNum">- 12 -</fw>waltungsfachmänner; schon jetzt bedürften die
+                    gewählten Landesorgane mehrerer zugeteilter Beamten, die sie in die Verwaltung
+                    einführen. Der Vorsitzende erklärt, daß es auch sehr wohl der Fall sein könne,
+                    daß für diese Stelle im Kreise nur rechtskundige Beamte wie in Deutschland die
+                    Oberbürgermeister gewählt werden können. Ausschlaggebend sei, daß keine
+                    Ernennung von oben, sondern Wahl erfolge.</p>
+                <p>Abg. Clessin kritisiert die Stellung der heutigen gewählten Bürgermeister in
+                    Statutargemeinden, die sich vor allem um die Gunst ihrer Partei bemühen müßten.
+                    Es sei unumgänglich notwenig, daß an die Spite größerer Verwaltungskörper, wenn
+                    schon nicht rechtskundige, so doch Personen mit entsprechender Vorbildung
+                    treten, die den Beruf auf Lebensdauer ausüben. Die Wahl von Kreishauptmännern
+                    bringe eine unnütze Verteuerung und noch größere Dezentralisation mit sich.</p>
+                <p>Dr. Danneberg ebtont, daß auch bei den Ländern Sparmaßnahmen bezüglich der
+                    Verwaltungskörper Platz greifen müssten. mAngel an geeigneten Persönlichkeiten
+                    befürchte er nicht, da nur etwa 25 Kreishauptmänner zu wählen wären.
+                    Staatssekretär Dr. Mayr nimmt gegen ein etwaiges Mißtrauen in die Beamtenschaft
+                    Stellung, aus deren Kreisen man leicht die doppelte Anzahl befähigter Personen
+                    für diese Stellen finden könne. Der Vorsitzende erklärt sich ohneweiteres bereit
+                    die Bestimmung aufzunehmen, daß zum Kreishauptmann nur ein fachlich
+                    ausgebildeter Berufsbeamter gewählt werden kann.</p>
+                <p>Abg. Clessin beantragt Präsentation des Kreishauptmannes durch die
+                    Kreisvertretung und Ernennung durch das Land. Schließlich wird jedoch entgegen
                     diesem Antrage und dem Antrage des Berichterstatters Abram, daß der
-                    Kreishauptmann von der Kreisvertretung zu wählen sei, der Antrag des Abg. Dr. S
-                    ei p e l angenommen: Eine Bestimmung über die Wahl des Kreishauptmannes ist in
-                    die Verfassung nicht aufzu-<pb facs="#facs_14" n="14" xml:id="img_0014"
-                        break="yes"/>-13.neluen. Seht. Rst lr. Wennlicher neint unter dinners auf
-                    die Schulverwaltung, daß die Freee zu klären wäre, inniefern die
-                    Selbstverwaltung durch pelitische, inriefern sie durch Berufsvertreter geführt
-                    werden soll. durch eine Bestimmung in der Verfassung mußte letztere Möglichkeit
-                    gedeckt werden. Daraufhin lagt der Varsztzende dis Staatskanzlei ein mit
-                    Benutzung der verliegenten Antrurfe niefur allgemeine Grundsatze zu formulieren.
-                    Der großdeutsche Entwurf sehe Berufskammern vor, eine ähnliche Bitte sei auch
-                    von einer Sputatzen des niederosterreichischen Geverbevereins vorgetragen
-                    worden. Der Staatssekretar Dr. Mayr erwähnt hiezu. daß im Deutschen Reiche ein
-                    ausführliches Sondergesetz über diese isterie in Beretung sei. zu frt. So bis
-                    lod bewerkt der Versitzende, daß eine kürzere Fossung möglich wäre, Art. 1ol
-                    wäre znecknässiger. zu belassen. Dr. Seipel verreist auf Art. lis des
-                    Kennerschen Entwurfes, werauf sich eine Debatte über das Keimatrecht. das wir
-                    wie Kin-fal tr. Frrehlich erläutert, wegen des Stastsverirages von St.Geruein
-                    vor der Hand berbehalten müssen. Gegen die Aufnahne ven Bestinnungen über die
-                    Sebhoftifhert renden sich sracht der Versitzende als auch Dr. Denneberg, jedoch
-                    gelangt ein diesbezüglicher Antrag des Arg.Cl e ss in zur Anehne: „jedech kann
-                    durch landesgesetz die Fahlberechtigung von der Deuer des Aufenthaltes in der
-                    Geneinde bis zu einen Jahr abhanzig gemacht werden.« (Krt.16Z. Ne.I 11 504
-                    d.P.). hach längerer Beratung über die Frage, welchen Städten die Stellung von
-                    Kreisgeneinden einzuraumen ser, ob solchen mit mehr als 10.O0v oder nur seichen
-                    mit merr als 13.600 Kinnchnern wird unter Kinners auf die groben finenziellen
-                    lasten der Vermittlungsantrag des Vorsitzenden angenommen: 12<pb facs="#facs_15"
-                        n="15" xml:id="img_0015" break="yes"/>-14- städten mit mehr als 15.000
-                    Einwehnern ist auf ihren Antrag zirksgemeinden die Stellung von Kreisdendagn zu
-                    verleihen.Die Fermulierung eines Verschlages für den Wirkungskreis der Bezirks-
-                    und Kreisgemeinden wird der Stagtskanzlei aufgetragen. Unter Vorbehalt der
-                    späteren Fermulierung wird Art. 104. dessen Aufzühlung herne taxative ist.
-                    angenommen. zu Art. 105 beantragt abg. Cles sin zum Schutze der Gemeinden vor
-                    Ausbeutung im Gesetze Verkehrungen zu treffen, werauf dieser Artikel
-                    vorbehaltlich der endgiltigen Formulierung im folgenden Mortlaut angenommen
-                    wird: „Kreis- und Ortsgemeinden haben das Recht Vermögen aller Art zu besitzen,
-                    wirtschaftliche Unternehmungen zu betreiben und innerhalb der Landes- und
-                    Bundesgesetze ihren Haushalt seltständig zu führen und abgaben auszuschreiben.
-                    Der Varsitzende erorlert dei Beratung dieses Artikels die Frage der Größe der
-                    Kreise. Sollen nur zwer bis drei politische Bezirke einen Kreis bilden, durften
-                    sich Bezirksgemeinden ersparen lassen. Un der künftigen Gesetzgebung nicht
-                    vorzugreifen, wäre es ratsam von Kreis-, Bezirke- und Ortsgemeinden zu sprechen.
-                    Dr. Se i pel macht aufmerksam, daß im Kennerschen Entwurfe Art.l16. Abs.2
-                    Geweinden auch die Gerichtsbezirke sind, wemit jedlch nach Anschauung des
-                    Varsitzenden wehl nur eine Art von Axpesituren der Gemeindeverwaltung großerer
-                    Gebiete geweigt sein durfte. Die Wahl von Bezirkshauptmännern hält ir. Seipel
-                    gegenwärlig für sehr gekährlich: er meint, daß die bestehen den Behorden in der
-                    Uebergangszeit unbediagt beizubehalten wären. Der Varsitzende nimmt an, daß im
-                    Unterausschuß die Anschauung herrscht, es seien Bezirksvertretungen zu wählen.
-                    die zum bicherigen Bezirkshauptmanne hinzutreten; über das Zusammenwirken beider
-                    soll das erforderliche durch ein besonderes Gesetz geregelt werden. Fr.
-                    Dennebere <pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>-15- ist der
-                    Ueberzeugung, daß die Aenderung der Verwaltung unterster Instenz heute viel
-                    schmeriger ist als ivenermalen leiten, nan müsse alse fur die Uebergangazeit,
-                    die Jahre dauern kena, Üebergangsbestimmungen festsetzen, für die Art.1C6 (904
-                    d. B.) Richtung gebend wäre. Werrigens hätten sich viele Bezirkshauptmänner
-                    bereits aus eigenem Ankriebe beratende Korperschaften geschaffen. Der
-                    Varsitzende erwahat, daß die Schäfkung von Bezirksvertretuagen bereits im
-                    Gesetze vom 1862 (5. März AcBl. Ur. 18) vorgesehen und 1als neuerlich
-                    zugesichert werden sei. Die Ueberleitung der bestehenden Bezirksorganisationen
-                    (Bezirkskoakurrenzen, Stroßen- und Aruenwesen). die zwar meist inne
-                    richtsbezirken eingerichtet sind, mußte verbereitet werden. Nach Anschauung
-                    seiner Partei muß die Bevolkerung sehen, daß ein unmittelbarer Schritt zur
-                    Demokretisierung in der Verkassunggegeebtheaseri. Niewert man im einzelnen geht,
-                    ist Sache eines eigenen Gesetzes, das sn eine kurze Frist zu binden wäre. Mit
-                    der Neueinrichtung ist der erste Schule der Bevölkeruag fur die Demckratie in
-                    der Verwaltung gegeben. Fr wünscht die Keinung der Stastskanzlei darüber zu
-                    hören, ob nicht ein Bundesrehmengesetz erforderlich wäre, damit die
-                    Kemzstenzenterlung in den Landern nicht in verschiedener weise erfolgt; die
-                    Grundsätze der Verwaltungsorgenisstien in den Ländern seien durch Bundesgesetz
-                    zu regeln. während die Betarlbestiumungen der landesgesetzgebung überlassen.
-                    bleiben. Abg. Dr. S ei p el macht darauf aufmerksam, daß nach dem Hertleute des
-                    Art.106 die Bezirksvertretungen scfort zu nählen wärden. Sekt.Eat Dr. Maaalicher
-                    findet es actwendig. daß die Steatsregierung erklart, welche lgenden der
-                    Bezifksheuptaran allein, welche er unter Mitwirkung der gewählten Vertretung
-                    enledigenghathat: dazu wäre eine dopfelte Gesetz-<pb facs="#facs_17" n="17"
-                        xml:id="img_0017" break="yes"/>-16- gebung erforderlich. Prof. tr. Kelsen
-                    ist der Aesicht. daß bei Bestimmung der Grundzuge durch Fundesrahnengesetz sich
-                    ine tsatzugtstaek Frist nech den allgemeinen niefur beschlessenen Regeln ergebe
-                    und scart eine ausdrückliche Zertabgabe zu Gesetzestert entfallen konnte. 1bg.
-                    Fi nk erortert Schnierigterten in der Durchführung, de einzelne kleinere Länder
-                    gar keine Bezirkseinteilung haben, sodaß es besser wäre diesen in der Verfassung
-                    keine derartigen Verschrieten zu geben. Berade durch das Fehlen von
-                    Bezirksvertretungen habe sich die Kriegswirtschaft in Verarlberg erfolgreicher
-                    als in den üorigen ländern regela lassen. Die Durchfunrungskrist ser zu kurz.
-                    Der Vorsitzende betent, daß die heute festgelegten Prinzipren eine wesentliche
-                    Kcazessich seiner Partei seien, denn diese habe niederhelt erklärt, daß keine
-                    Verfassung ohne gleichzertige Vermaltungsrefern in Kraft treten dürfe. Das die
-                    von einzelnen Mitzliedern befürchtete Zersplitterung der Vermaltung durch
-                    Sonderbestrebungen der Kreisgeneinden oder Bezirksvertretungen anlangt, werde
-                    man strenge darauf bedacht sein, eine scherfe Kentrelle durch Verhaltungs- und
-                    Verfassungsgerichtsbarkert durchzufunren. Eine wichtige frage sei auch, nie den
-                    Gemeinden in der Bezirksvertretung eine verhältnisnässige Vertretung zu sichern
-                    sei. Er stellt mierauf Useereinstimmung des Unterausschusses über folgende
-                    Prinzipren fest: den Bezirksnauptnane wird eine Berirksvertretung beigegoben.
-                    das Nahlrecht und die frt der Uitwirkung zn der eutlichen Tätiekert des
-                    Bezirkshauftaannes wird durch Bundesrahmengesetz geregelt. Iir Frist fur die
-                    Durchfuhrung ist auch (zu regeln, desgleichen, ob darekte oder indirekte Mahl
-                    auf den Geneindevertretungen, webei eine verhältnisnässige Vertretung
-                        gesichert<pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>-17-
-                    werden muß. li: nächste Sitzung wird auf Sanstag den 21. August 10Uhr vermittags
-                    anberaunt. die nächste auf Mentsz den 25. August gleichfalls 1e Uhr vermittage.
-                    auf der nicnsten Tageserdnung stehen die noch unerledigten teile des Referates
-                    Abr am. Nach deren lurchberatung wird der Unterausschuß den Verfassyngsentwurf
-                    von Anfang an artikelweise überprufen.</p>
+                    Kreishauptmann von der Kreisvertretung zu wählen sei, der Antrag des Abg. Dr.
+                    Seipel angenommen: Eine Bestimmung über die Wahl des Kreishauptmannes ist in die
+                    Verfassung nicht aufzu<pb facs="#facs_14" n="14" xml:id="img_0014" break="no"/>
+                    <fw type="pageNum">- 13 -</fw>nehmen.</p>
+                <p>Sekt.-Rat Dr. Mannlicher meint unter Hinweis auf die Schulverwaltung, daß die
+                    Frage zu klären wäre, inwiefern die Selbstverwaltung durch politische, inwiefern
+                    sie durch Berufsvertreter geführt werden soll. Durch eine Bestimmung in der
+                    Verfassung müßte letztere Möglichkeit gedeckt werden. Daraufhin lädt der
+                    Vorsitzende die Staatskanzlei ein mit Benützung der vorliegenden Entwürfe hiefür
+                    allgemeine Grundsätze zu formulieren. Der großdeutsche Entwurf sehe
+                    Berufskammern vor, eine ähnliche Bitte sei auch von einer Deputation des
+                    niederösterreichischen Gewerbevereines vorgetragen worden. Der Staatssekretär
+                    Dr. Mayr erwähnt hiezu, daß im Deutschen Reiche ein ausführliches Sondergesetz
+                    über diese Materie in Beratung sei.</p>
+                <p>Zu Art. 98 bis 100 bemerkt der Vorsitzende, daß eine kürzere Fassung möglich
+                    wäre, Art. 101 wäre zweckmäßiger zu belassen.</p>
+                <p>Dr. Seipel verweist auf Art. 118 des Renner’schen Entwurfes, worauf sich eine
+                    Debatte über das Heimatrecht, das wir, wie Min.-Rat Dr. Froehlich erläutert,
+                    wegen des Staatsvertrages von St. Germain vorderhand beibehalten müssen. Gegen
+                    die Aufnahme von Bestimmungen über die Seßhaftigkeit wenden sich sowohl der
+                    Vorsitzende als auch Dr. Danneberg, jedoch gelangt ein diesbezüglicher Antrag
+                    des Abg. Clessin zur Annahme: „jedoch kann durch Landesgesetz die
+                    Wahlberechtigung von der Dauer des Aufenthaltes in der Gemeinde bis zu einem
+                    Jahr abhängig gemacht werden.“ (Art. 102, Abs. 1 in 904 d. B.)</p>
+                <p>Nach längerer Beratung über die Frage, welchen Städten die Stellung von
+                    Kreisgemeinden einzuräumen sei, ob solchen mit mehr als 10.000 oder nur solchen
+                    mit mehr als 15.000 Einwohnern wird unter Hinweis auf die großen finanziellen
+                    Lasten der Vermittlungsantrag des Vorsitzenden angenommen:<pb facs="#facs_15"
+                        n="15" xml:id="img_0015" break="yes"/>
+                    <fw type="pageNum">- 14 -</fw> Städten mit mehr als 15.000 Einwohnern, ist auf
+                    ihren Antrag die Stellung von Kreis- oder Bezirksgemeinden zu verleihen.</p>
+                <p>Die Formulierung eines Vorschlages für den Wirkungskreis der Bezirks- und
+                    Kreisgemeinden wird der Staatskanzlei aufgetragen.</p>
+                <p>Unter Vorbehalt der späteren Formulierung wird Art. 104, dessen Aufzählung eine
+                    taxative ist, angenommen.</p>
+                <p>Zu Art. 105 beantragt Abg. Clessin zum Schutze der Gemeinden vor Ausbeutung im
+                    Gesetze Vorkehrungen zu treffen, worauf dieser Artikel vorbehaltlich der
+                    endgiltigen Formulierung im folgenden Wortlaut angenommen wird: „Kreis und
+                    Ortsgemeinden haben das Recht, Vermögen aller Art zu besitzen, wirtschaftliche
+                    Unternehmungen zu betreiben und innerhalb der Landes- und Bundesgesetze ihren
+                    Haushalt selbständig zu führen und Abgaben auszuschreiben.“</p>
+                <p>Der Vorsitzende erörtert bei Beratung dieses Artikels die Frage der Größe der
+                    Kreise. Sollen nur zwei bis drei politische Bezirke einen Kreis bilden, dürften
+                    sich Bezirksgemeinden ersparen lassen. Um der künftigen Gesetzgebung nicht
+                    vorzugreifen, wäre es ratsam, von Kreis-, Bezirks- und Ortsgemeinden zu
+                    sprechen. Dr. Seipel macht aufmerksam, daß im Renner’schen Entwurfe Art. 116,
+                    Abs. 2 Gemeinden auch die Gerichtsbezirke sind, womit jedoch nach Anschauung des
+                    Vorsitzenden wohl nur eine Art von Exposituren der Gemeindeverwaltung größerer
+                    Gebiete gemeint sein dürfte.</p>
+                <p>Die Wahl von Bezirkshauptmännern hält Dr. Seipel gegenwärtig für sehr gefährlich;
+                    er meint, daß die bestehenden Behörden in der Übergangszeit unbedingt
+                    beizubehalten wären. Der Vorsitzende nimmt an, daß im Unterausschuß die
+                    Anschauung herrscht, es seien Bezirksvertretungen zu wählen, die zum bisherigen
+                    Bezirkshauptmanne hinzutreten: Über das Zusammenwirken beider soll das
+                    Erforderliche durch ein besonderes Gesetz geregelt werden. Dr. Danneberg<pb
+                        facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>
+                    <fw type="pageNum">- 15 -</fw> ist der Überzeugung, daß die Änderung der
+                    Verwaltung unterster Instanz heute viel schwieriger ist, als in normalen Zeiten,
+                    man müsse also für die Übergangszeit, die Jahre dauern kann,
+                    Übergangsbestimmungen festsetzen, für die Art. 106 (904 d. B.) Richtung gebend
+                    wäre. Übrigens hätten sich viele Bezirkshauptmänner bereits aus eigenem Antriebe
+                    beratende Körperschaften geschaffen.</p>
+                <p>Der Vorsitzende erwähnt, daß die Schaffung von Bezirksvertretungen bereits im
+                    Gesetze von 1862 (5. März, RGBI. Nr. 18) vorgesehen und 1918 neuerlich
+                    zugesichert worden sei. Die Überleitung der bestehenden Bezirksorganisationen
+                    (Bezirkskonkurrenzen, Straßen- und Armenwesen), die zwar meist in
+                    Gerichtsbezirken eingerichtet sind, mußte vorbereitet werden. Nach Anschauung
+                    seiner Partei muß die Bevölkerung sehen, daß ein unmittelbarer Schritt zur
+                    Demokratisierung in der Verfassung gegeben sei. Wieweit man im einzelnen geht,
+                    ist Sache eines eigenen Gesetzes, das an eine kurze Frist zu binden wäre. Mit
+                    der Neueinrichtung ist der erste Schritt der Bevölkerung für die Demokratie in
+                    der 7. Sitzung 325 Verwaltung gegeben. Er wünscht die Meinung der Staatskanzlei
+                    darüber zu hören, ob nicht ein Bundesrahmengesetz erforderlich wäre, damit die
+                    Kompetenzenteilung in den Ländern nicht in verschiedener Weise erfolgt; die
+                    Grundsätze der Verwaltungsorganisation in den Ländern seien durch Bundesgesetz
+                    zu regeln, während die Detailbestimmungen der Landesgesetzgebung überlassen
+                    bleiben.</p>
+                <p>Abg. Dr. Seipel macht darauf aufmerksam, daß nach dem Wortlaute des Art. 106 die
+                    Bezirksvertretungen sofort zu wählen wären.</p>
+                <p>Sekt.-Rat Dr. Mannlicher findet es notwendig, daß die Staatsregierung erklärt,
+                    welche Agenden der Bezirkshauptmann allein, welche er unter Mitwirkung der
+                    gewählten Vertretung zu erledigen hat; dazu wäre eine doppelte Gesetz<pb
+                        facs="#facs_17" n="17" xml:id="img_0017" break="no"/>
+                    <fw type="pageNum">- 16 -</fw>gebung erforderlich. Prof. Dr. Kelsen ist der
+                    Änsicht, daß bei Bestimmung der Grundzüge durch Bundesrahmengesetz sich die
+                    Frist nach den allgemeinen hiefür beschlossenen Regeln und somit eine
+                    ausdrückliche Zeitangabe im Gesetzestext entfallen könnte.</p>
+                <p>Abg. Fink erörtert Schwierigkeiten in der Durchführung, da einzelne kleinere
+                    Länder gar keine Bezirkseinteilung haben, sodaß es besser wäre diesen in der
+                    Verfassung keine derartigen Vorschriften zu geben. Gerade durch das Fehlen von
+                    Bezirksvertretungen habe sich die Kriegswirtschaft in Vorarlberg erfolgreicher
+                    als in den übrigen Ländern regeln lassen. Die Durchführungsfrist sei zu
+                    kurz.</p>
+                <p>Der Vorsitzende betont, daß die heute festgelegten Prinzipien eine wesentliche
+                    Konzession seiner Partei seine, denn diese habe wiederholt erklärt, daß keine
+                    Verfassung ohne gleichzeitige Verwaltungsreform in Kraft treten dürfe. Was die
+                    von einzelnen Mitgliedern befürchtete Zersplitterung der Verwaltung durch
+                    Sonderbestrebungen der Kreisgemeinden oder Bezirksvertretungen anlangt, werde
+                    man strenge darauf bedacht sein, eine scharfe Kontrolle durch Verwaltungs- und
+                    Verfassungsgerichtsbarkeit durchzuführen.</p>
+                <p>Eine wichtige Frage sei auch, wie den Gemeinden in der Bezirksvertretung eine
+                    verhältnismäßige Vertretung zu sichern sei. Er stellt hierauf Übereinstimmung
+                    des Unterausschusses über folgende Prinzipien fest:</p>
+                <p>Dem Bezirkshauptmann wird eine Bezirksvertretung beigegeben.</p>
+                <p>Das Wahlrecht und die Art der Mitwirkung an der amtlichen Tätigkeit des
+                    Bezirkshauptmannes wird durch Bundesrahmengesetz geregelt.</p>
+                <p>Die Frist für die Durchführung ist noch zu regeln, desgleichen, ob direkte oder
+                    indirekte Wahl aus den Gemeindevertretungen, wobei eine verhältnismäßige
+                    Vertretung gesichert<pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>
+                    <fw type="pageNum">- 17 -</fw> werden muß.</p>
+                <p>Die nächste Sitzung wird auf Samstag den 21. August 10 Uhr vormittags anberaumt,
+                    die nächste auf Montag den 23. August gleichfalls 10 Uhr vormittags.</p>
+                <p>Auf der nächsten Tagesordnung stehen die noch unerledigten Teile des Referates
+                    Abram. Nach deren Durchberatung wird der Unterausschuß den Verfassungsentwurf
+                    von Anfang an artikelweise überprüfen. </p>
             </div>
         </body>
     </text>
