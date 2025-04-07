@@ -521,26 +521,27 @@
                             </choice> Abschnitt.</add></head>
                     <del><head> Von der öffentlichen Gewalt <del>überhaupt.</del>
                         </head></del>
-                    <div type="article">
-                        <del><head>§ 11.</head></del>
-                        <p type="legal_section"><del>Die öffentliche Gewalt <del>darf nur auf die in
-                                    dieser Verfassung festgesetzte Weise ausgeübt werden</del>
-                                <del>wird</del>
-                                <add>wird im Namen und Auftrag des Volkes</add>
-                                <add>durch getrennte Organe </add>
-                                <del>au<choice>
-                                        <sic/>
-                                        <corr>f</corr>
-                                    </choice></del>
-                                <add>in geordneter Verbindung ausgeübt. Das alle Gewalten
-                                    verbindende Organ ist der Vollzugsausschuß <choice>
-                                        <del>(Staatsrat)</del>
-                                        <add>der Nationalversammlung (Staatsrat).</add>
-                                    </choice></add>
-                            </del><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><fw
-                                type="pageNum">6</fw></p>
-                    </div>
+                    <del><div type="article">
+                        <head>§ 11.</head>
+                        <p type="legal_section">Die öffentliche Gewalt <del>darf nur auf die in
+                                dieser Verfassung festgesetzte Weise ausgeübt werden</del>
+                            <del>wird</del>
+                            <add>wird im Namen und Auftrag des Volkes</add>
+                            <add>durch getrennte Organe </add>
+                            <del>au<choice>
+                                    <sic/>
+                                    <corr>f</corr>
+                                </choice></del>
+                            <add>in geordneter Verbindung ausgeübt. Das alle Gewalten verbindende
+                                Organ ist der Vollzugsausschuß <choice>
+                                    <del>(Staatsrat)</del>
+                                    <add>der Nationalversammlung (Staatsrat).</add>
+                                </choice></add>
+                        </p>
+                    </div></del>
                     <div type="section">
+                        <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
+                        <fw type="pageNum">6</fw>
                         <head>A. Von der gesetzgebenden Gewalt</head>
                         <div type="section">
                             <head>1. Die Staatsgesetzgebung</head>
@@ -740,10 +741,10 @@
                                     nicht ausgenommen oder ausgeschlossen ist und innerhal<choice>
                                         <sic> </sic>
                                         <corr/>
-                                    </choice>b des Staatsgeb<choice>
-                                        <del>ei</del>
-                                        <add>ie</add>
-                                    </choice>ietes ,<corr>,</corr> in der Gemeinde<choice>
+                                    </choice>b des Staatsgeb<del>ei</del><add>ie</add>ietes<choice>
+                                        <del> ,</del>
+                                        <add>,</add>
+                                    </choice> in der Gemeinde<choice>
                                         <sic> ,</sic>
                                         <corr>,</corr>
                                     </choice> wo das Wahlrecht auszuüben ist, in der Wählerliste
@@ -844,8 +845,8 @@
                                         <add>i</add>
                                     </choice>cht überschreiten. </p>
                             </div>
-                            <div type="article">
-                                <del><head>§ <choice>
+                            <del><div type="article">
+                                <head>§ <choice>
                                             <del>26.</del>
                                             <add>22</add>
                                         </choice></head><p type="legal_section">Das Abgeordnetenhaus
@@ -855,8 +856,8 @@
                                         der Senat seine Geschäfts- und Hausordnung selbständig. Die
                                         Wahlen zum Volkshause <del>und zu</del> finden am 1. Sonntag
                                         des Monates März statt. Die Wahlen zum Senate am 3. Sonntag
-                                        dieses [bricht ab]</p></del>
-                            </div>
+                                        dieses [bricht ab]</p>
+                            </div></del>
                         </div>
                     </div>
                 </div>
@@ -1865,11 +1866,11 @@
                                 <add>§ 57</add>
                             </choice></head>
                         <p>Die zentrale Staatsverwaltung <choice>
-                                <sic>besorgen</sic>
-                                <corr>führen</corr>
+                                <del>besorgen</del>
+                                <add>führen</add>
                             </choice>  die nachstehenden <choice>
-                                <sic>Ämter</sic>
-                                <corr>Behörden</corr>
+                                <del>Ämter</del>
+                                <add>Behörden</add>
                             </choice> . <list>
                                 <label>1. </label>
                                 <item>Das Staatskanzleramt, dem die <del>allgemeine</del> Übersicht
@@ -1979,8 +1980,8 @@
                                                 <label>b) </label>
                                                 <item>das Staatsamt für Verkehrs- und
                                                   Verbrauchsabgaben und </item>
-                                                <del><label>c) </label></del>
-                                                <item><del>das Staatsgebürenamt und </del></item>
+                                                <del><label>c) </label>
+                                                <item>das Staatsgebührenamt und </item></del>
                                                 <label><choice>
                                                   <del>d) </del>
                                                   <add>c)</add>
@@ -2405,10 +2406,10 @@
                             </label> Sämtliche Angehörige der bewaffneten Macht sind auf die
                             Verfassung zu <emph>beeiden</emph> und geloben dem Freistaat
                             Deutschösterreich Treue und Gehorsam.</p>
-                        <p><head>Vierter Abschnitt </head>Von der <choice>
+                        <p><head>Vierter Abschnitt Von der <choice>
                                 <del>richterlichen[?] Gewalt</del>
                                 <add>bewaffneten Macht</add>
-                            </choice> . </p>
+                            </choice> .</head></p>
                         <p><label><del>§ 56 § 55 § 66 71</del>
                             </label>  Die <choice>
                                 <del>gefä[?]</del>
@@ -2601,7 +2602,7 @@
                                     <del>kanzler</del>
                                     <add>sekretär</add>
                                 </choice>
-                                <choice> ist dafür vera<add> des Schatzamts</add></choice> hat
+                                <choice><del> ist dafür vera</del><add> des Schatzamts</add></choice> hat
                                 längstens drei Monate nach Schluß des Verwaltungsjahres den
                                 Staatsrechnungsabschluß <add>samt den nötigen Unterlagen</add>  dem
                                 Rechnungs hofe <del>zu</del> vorzulegen. Der Rechnungshof ist ein
