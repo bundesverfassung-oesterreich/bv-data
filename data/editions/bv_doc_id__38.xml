@@ -103,9 +103,10 @@
                 <date notBefore-iso="1920-07-20" notAfter-iso="1920-07-20"> 20. Juli 1920 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="structured">
+        <revisionDesc status="text_correct">
             <change when="2025-03-17" who="#cfh">document automatically created</change>
             <change when="2025-03-24" who="#e_kordt">Text strukturiert</change>
+            <change when="2025-04-10" who="#e_kordt">Text gegengelesen</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -169,99 +170,106 @@
                 <p>Beginn 6 Uhr Nachmittag.</p>
                 <p>Anwesend:</p>
                 <list>
-                    <item>Dr. Ignaz Seipel als Vorsitzender.</item>
-                    <item>Dr. Heinrich Clessin als Berichterstatter.</item>
-                    <item>Dr. Josef Aigner,</item>
-                    <item>Dr. Robert Danneberg,</item>
-                    <item>Dr. Arnold Eisler,</item>
-                    <item>Matthias Eldersch,</item>
-                    <item>Jodok Fink.</item>
+                    <item>Dr. Ignaz <emph>Seipel</emph> als Vorsitzender.</item>
+                    <item>Dr. Heinrich <emph>Clessin</emph> als Berichterstatter.</item>
+                    <item>Dr. Josef <emph>Aigner</emph>,</item>
+                    <item>Dr. Robert <emph>Danneberg</emph>,</item>
+                    <item>Dr. Arnold <emph>Eisler</emph>,</item>
+                    <item>Matthias <emph>Eldersch</emph>,</item>
+                    <item>Jodok <emph>Fink</emph>.</item>
                 </list>
                 <list>
-                    <item>Staatssekretär Prof.Dr. Michael Mayr.</item>
+                    <item>Staatssekretär Prof.Dr. Michael <emph>Mayr</emph>.</item>
                 </list>
                 <p>Von der Staatskanzlei: </p>
                 <list>
-                    <item>Min.Rat Dr. Georg Froehlich,</item>
-                    <item>Sektionsrat Dr. Egbert Mannlicher,</item>
-                    <item>Oberfinanzrat Dr. Karl Moser, </item>
-                    <item> Min.Vizesekretär Dr. Adolf Merkl als Schriftführer.</item>
+                    <item>Min.Rat Dr. Georg <emph>Froehlich</emph>,</item>
+                    <item>Sekt.Rat Dr. Egbert <emph>Mannlicher</emph>,</item>
+                    <item>Oberfinanzrat Dr. Karl <emph>Moser</emph>, </item>
+                    <item> Min.Vizesekretär Dr. Adolf <emph>Merkl</emph> als Schriftführer.</item>
                 </list>
                 <list>
-                    <item>Prof. Dr. Hans Kelsen, als Experte des Verfassungsausschusses.</item>
+                    <item>Prof. Dr. Hans <emph>Kelsen</emph>, als Experte des
+                        Verfassungsausschusses.</item>
                 </list>
                 <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
-                    <fw type="pageNum">- 2 -</fw>Der Vorsitzende stellt einleitend fest, daß die
-                    Abstimmung über die Punkte 9, 10, 12 und 13 des Art. 10 des Linzer Entwurfes
-                    noch ausstehe. Staatssekretär Dr. Mayr teilt mit, daß in der Staatskanzlei ein
-                    eigener Artikel über die Gendarmerie ausgearbeitet wurde, der an die Stelle des
-                    Pkt. 12 des Art. 10 zu treten hätte. Vervielfältigungen der Neuformulierungen
-                    werden verteilt. Dr. Danneberg beantragt, den Pkt. 12 erst in der nächsten
-                    Sitzung zu behandeln. (Angenommen.)</p>
-                <p>Hierauf leitet der Berichterstatter die Debatte zu Pkt. 9 des Art. 10 ein. Fink
-                    beantragt, den Pkt. 9 folgendermaßen zu formulieren: „Das gesamte Arbeiterrecht
-                    und der Arbeiter- und Angestelltenschutz sowie das Sozialversicherungswesen,
-                    soweit es sich nicht um land- und forstwirtschaftliche Arbeiter und Angestellte
-                    handelt; das Vertragsversicherungswesen.“</p>
-                <p>Eldersch beantragt, die Formulierung des Linzer Entwurfes unter Streichung des
-                    Passus über die Ausnehmung der land- und forstwirtschaftlichen Arbeiter und
-                    Angestellten beizubehalten und betont zur Begründung seines Antrages
-                    insbesondere, daß die Sozialversicherung schon aus versicherungstechnischen
-                    Gründen nicht länderweise getrennt, sondern für das gesamte kleine Staatsgebiet
-                    gemeinsam organisiert sein müsse. Fink hält hingegen eine länderweise getrennte
-                    Organisation des Sozialversicherungswesens für möglich und erklärt, daß seine
-                    Partei auf die Ausscheidung der Sozialversicherung der land- und
-                    forstwirtschaftlichen Arbeiter aus dem übrigen Versicherungswesen großes Gewicht
-                    lege Auf eine Anfrage des Vorsitzenden gibt Eldersch die Erklärung ab, daß seine
-                    Partei auf ihrem gesamten Antrag zu Pkt. 9 beharre, sich jedoch aus sachlichen
-                    Gründen ganz besonders gegen eine länderweise Zerschlagung des
-                    Sozialversicherungswesens aussprechen müsse. Staats sekretar Dr. Mayr verweist
-                    darauf, daß die vorliegende Fassung des Pkt. 9 in Linz die Zustimmung des
-                    überwiegenden Teiles der Ländervertreter gefunden habe und daß in ihr ein
-                    Kompromiß zwischen den<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
+                    <fw type="pageNum">- 2 -</fw>Der <emph>Vorsitzende</emph> stellt einleitend
+                    fest, daß die Abstimmung über die Punkte 9, 10, 12 und 13 des Art. 10 des Linzer
+                    Entwurfes noch ausstehe. Staatssekretär <emph>Dr. Mayr</emph> teilt mit, daß in
+                    der Staatskanzlei ein eigener Artikel über die Gendarmerie ausgearbeitet wurde,
+                    der an die Stelle des Pkt. 12 des Art. 10 zu treten hätte. Vervielfältigungen
+                    der Neuformulierungen werden verteilt. Dr. <emph>Danneberg</emph> beantragt, den
+                    Pkt. 12 erst in der nächsten Sitzung zu behandeln. (Angenommen.)</p>
+                <p>Hierauf leitet der <emph>Berichterstatter</emph> die Debatte zu Pkt. 9 des Art.
+                    10 ein. <emph>Fink</emph> beantragt, den Pkt. 9 folgendermaßen zu formulieren:
+                    „Das gesamte Arbeiterrecht und der Arbeiter- und Angestelltenschutz sowie das
+                    Sozialversicherungswesen, soweit es sich nicht um land- und forstwirtschaftliche
+                    Arbeiter und Angestellten handelt; das Vertragsversicherungswesen.“</p>
+                <p><emph>Eldersch</emph> beantragt, die Formulierung des Linzer Entwurfes unter
+                    Streichung des Passus über die Ausnehmung der land- und forstwirtschaftlichen
+                    Arbeiter und Angestellten beizubehalten und betont zur Begründung seines
+                    Antrages insbesondere, daß die Sozialversicherung schon aus
+                    versicherungstechnischen Gründen nicht länderweise getrennt, sondern für das
+                    gesamte kleine Staatsgebiet gemeinsam organisiert sein müsse. <emph>Fink</emph>
+                    hält hingegen eine länderweise getrennte Organisation des
+                    Sozialversicherungswesens für möglich und erklärt, daß seine Partei auf die
+                    Ausscheidung der Sozialversicherung der land- und forstwirtschaftlichen Arbeiter
+                    aus dem übrigen Versicherungswesen großes Gewicht lege. Auf eine Anfrage des
+                        <emph>Vorsitzenden</emph> gibt <emph>Eldersch</emph> die Erklärung ab, daß
+                    seine Partei auf ihrem gesamten Antrag zu Pkt. 9 beharre, sich jedoch aus
+                    sachlichen Gründen ganz besonders gegen eine länderweise Zerschlagung des
+                    Sozialversicherungswesens aussprechen müsse. Staatssekretar <emph>Dr.
+                        Mayr</emph> verweist darauf, daß die vorliegende Fassung des Pkt. 9 in Linz
+                    die Zustimmung des überwiegenden Teiles der Ländervertreter gefunden habe und
+                    daß in ihr ein Kompromiß zwischen den<pb facs="#facs_4" n="4" xml:id="img_0004"
+                        break="yes"/>
                     <fw type="pageNum">- 3 -</fw> beiden entgegengesetzten Parteistandpunkten
                     gefunden werden solle, indem sie das gesamte Sozialversicherungswesen dem Bunde
                     vorbehalte, das Arbeiterrecht und den Arbeiterschutz jedoch, soweit es sich um
-                    landund forstwirtschaftliche Arbeiter und Angestellte handelt, den Ländern
-                    übertrage. Der Berichterstatter gibt der Meinung Ausdruck, daß das Material zur
-                    Beantwortung der Frage nur von einem Versicherungstechniker bekanntgegeben
-                    werden könne und beantragt, daß das Subkomitée einen solchen einvernehme. Der
-                    Antrag wird angenommen und zu seiner Durchführung die Vertagung der Verhandlung
-                    des Pkt. 9 beschlossen. Staatssekretär Dr. Mayr erklärt, die Staatskanzlei werde
-                    es übernehmen, einen versicherungstechnischen Fachmann zur nächsten Sitzung
-                    einzuladen.</p>
-                <p>Der Berichterstatter leitet nunmehr die Debatte zum Pkt. 10 des Art. 10 ein.
-                    Eldersch und Danneberg beantragten, an die Stelle der gegenwärtigen Bestimmungen
-                    der Art. 10, 11 und 12 über das Schulwesen folgenden einzigen Punkt des Art. 10
-                    treten zu lassen: „10. Das gesamte Schul- und Erziehungswesen; das
-                    Volksbildungswesen; Für den Fall der Nichtannahme dieses Vorschlages werden
-                    folgende Punkte beantragt:</p>
-                <p>Im Art. 10 Punkt 10. „Das Hochschulwesen einschließlich der Lehrerbildung; die
+                    land- und forstwirtschaftliche Arbeiter und Angestellte handelt, den Ländern
+                    übertrage. Der <emph>Berichterstatter</emph> gibt der Meinung Ausdruck, daß das
+                    Material zur Beantwortung der Frage nur von einem Versicherungstechniker
+                    bekanntgegeben werden könne und beantragt, daß das Subkomitee einen solchen
+                    einvernehme. Der Antrag wird angenommen und zu seiner Durchführung die Vertagung
+                    der Verhandlung des Pkt. 9 beschlossen. Staatssekretär <emph>Dr. Mayr</emph>
+                    erklärt, die Staatskanzlei werde es übernehmen, einen versicherungstechnischen
+                    Fachmann zur nächsten Sitzung einzuladen.</p>
+                <p>Der <emph>Berichterstatter</emph> leitet nunmehr die Debatte zum Pkt. 10 des Art.
+                    10 ein. <emph>Eldersch</emph> und <emph>Danneberg</emph> beantragten an die
+                    Stelle der gegenwärtigen Bestimmungen der Art. 10, 11 und 12 über das Schulwesen
+                    folgenden einzigen Punkt des Art. 10 treten zu lassen: „P.10 Das gesamte Schul-
+                    und Erziehungswesen; das Volksbildungswesen;" Für den Fall der Nichtannahme
+                    dieses Vorschlages werden folgende Punkte beantragt:</p>
+                <p>Im Art. 10 "P.10 Das Hochschulwesen einschließlich der Lehrerbildung; die
                     pädagogisch-didaktische Einrichtung des gesamten Schulwesens; das Dienstrecht
                     einschließlich der Ernennung und Besoldung der Lehrer aller Schularten; die
                     Einrichtung und Verwaltung von mittleren Schulen; die Schulaufsicht über das
                     gesamte Schul-, Erziehungs- und Bildungswesen; das Verfahren über die
                     Zulässigkeit der Lehrbücher; die Staatserziehungsanstalten; die Erziehung und
-                    berufliche Ausbildung der Sorgenkinder (Blinde, Taubstumme, Schwachsinnige).</p>
-                <p>Im Art. 11: nach Punkt 8: „das Privatschulwesen und der Privatunterricht: der
-                    Denkmal-, Heimat- und Naturschutz.“</p>
-                <p>Im Art. 12: „Die Regelung der Grundsätze obliegt der Bundesgesetzgebung... für
-                    die Errichtung und Erhal<pb facs="#facs_5" n="5" xml:id="img_0005" break="no"/>
+                    berufliche Ausbildung der Sorgenkinder (Blinde, Taubstumme,
+                    Schwachsinnige)."</p>
+                <p>Im Art. 11: "<emph>nach Punkt 8:</emph> „das Privatschulwesen und der
+                    Privatunterricht: der Denkmal-, Heimat- und Naturschutz.“</p>
+                <p>Im Art. 12: „Die Regelung der Grundsätze obliegt der Bundesgesetzgebung
+                    .......... für die Errichtung und Erhal<pb facs="#facs_5" n="5"
+                        xml:id="img_0005" break="no"/>
                     <fw type="pageNum">- 4 -</fw>tung der Pflichtschulen; das Volksbildungswesen;
                     das Stiftungswesen.“</p>
-                <p>Fink ersucht um Vervielfältigung dieser Anträge und beantragt Vertagung der
-                    Beratung aller Bestimmungen über das Schulwesen, bis die Parteien Gelegenheit
-                    gehabt haben, die neuen Anträge näher kennen zu lernen. (Angenommen.)</p>
-                <p>Eldersch macht in diesem Zusammenhange aufmerksam, daß der Art. 10, Punkt 104)
-                    auch die zentrale Behandlung des Kultuswesens vorsehe. Die sozialdemokratische
-                    Partei behalte sich vor, für das Kultuswesen die Gleichstellung mit den
-                    Angelegenheiten des Unterrichts zu beantragen. Staatssekretär Dr. Mayr bemerkt,
-                    daß er eine Gleichbehandlung des Kultus mit dem Unterrichtswesen nicht für
-                    sachlich geboten erachte; insbesondere sei in Betracht zu ziehen, daß eine
-                    zentrale Behandlung des Kultuswesens schon wegen des Übergreifens der Sprengel
-                    der Episkopate über die Ländergrenze kaum zu umgehen sei. Auch spreche für die
-                    Beibehaltung des Passus über den Kultus im Punkte 10 die gegenwärtige
-                    Rechtslage, wogegen Eldersch bemerkt, daß unter diesem Gesichtspunkte auch das
+                <p><emph>Fink</emph> ersucht um Vervielfältigung dieser Anträge und beantragt
+                    Vertagung der Beratung aller Bestimmungen über das Schulwesen, bis die Parteien
+                    Gelegenheit gehabt haben, die neuen Anträge näher kennen zu lernen.
+                    (Angenommen).</p>
+                <p><emph>Eldersch</emph> macht in diesem Zusammenhange aufmerksam, daß der Art. 10,
+                    Punkt 10, auch die zentrale Behandlung des Kultuswesens vorsehe. Die
+                    sozialdemokratische Partei behalte sich vor, für das Kultuswesen die
+                    Gleichstellung mit den Angelegenheiten des Unterrichts zu beantragen.
+                    Staatssekretär <emph>Dr. Mayr</emph> bemerkt, daß er eine Gleichbehandlung des
+                    Kultus mit dem Unterrichtswesen nicht für sachlich geboten erachte; insbesondere
+                    sei in Betracht zu ziehen, daß eine <add>zentrale Behandlung</add> des
+                    Kultuswesens schon wegen des Übergreifens der Sprengel der Episkopate über die
+                    Ländergrenze kaum zu umgehen sei. Auch spreche für die Beibehaltung des Passus
+                    über den Kultus im Punkte 10 die gegenwärtige Rechtslage, wogegen
+                        <emph>Eldersch</emph> bemerkt, daß unter diesem Gesichtspunkte auch das
                     Unterrichtswesen nicht in dem von der christlichsozialen Partei gewünschten Maße
                     verländert werden dürfe.</p>
                 <p>Nach kurzer Debatte wird vom Punkt 10 des Linzer Entwurfes der mit den Worten
@@ -269,58 +277,62 @@
                     Bibliotheksdienstes,“ beginnende Teil mit den von christlichsozialer Seite
                     beantragten Schlußworten „und nicht schon bisher von den Ländern autonom
                     verwaltet wurden“, jedoch mit Ausnahme des Passus über das Kultuswesen zum
-                    Beschluß erhoben. Min.-Rat. Dr. Froehlich macht aufmerksam, daß die Einschaltung
-                    der Nahrungsmittelkontrolle in den Art. 10 grundsätzlich beschlossen wurde und
-                    nur die örtliche Stellung dieses Punktes fraglich geblieben ist. Es wird
-                    beschlossen, die Angelegenheit „Nahrungsmittelkontrolle“ in den das
-                    Heilmittelwesen behandelnden Punkt einzu<pb facs="#facs_6" n="6"
+                    Beschluß erhoben. Min.-Rat. <emph>Dr. Froehlich</emph> macht aufmerksam, daß die
+                    Einschaltung der Nahrungsmittelkontrolle in den Art. 10 grundsätzlich
+                    beschlossen wurde und nur die örtliche Stellung dieses Punktes fraglich
+                    geblieben ist. Es wird beschlossen, die Angelegenheit „Nahrungsmittelkontrolle“
+                    in den das Heilmittelwesen behandelnden Punkt einzu<pb facs="#facs_6" n="6"
                         xml:id="img_0006" break="no"/>
                     <fw type="pageNum">- 5 -</fw>reihen.</p>
-                <p>Der Berichterstatter eröffnet die Debatte über den Punkt 13 und ersucht die
-                    Regierungsvertreter um Bekanntgabe der von ihnen ausgearbeiteten Formulierung
-                    der Bestimmungen über das Dienstrecht der öffentlichen Angestellten. Sekt.-Rat.
-                    Dr. Mannlicher macht auf Einladung des Herrn Staatssekretärs Dr. Mayr die
-                    Mitteilung, daß eine neue Formulierung der dienstrechtlichen Bestimmungen in der
-                    Staatskanzlei ausgearbeitet, in der Kürze der Zeit jedoch noch nicht über diesen
-                    Punkt das nötige Einvernehmen mit dem Staatsamte für Finanzen hergestellt worden
-                    sei. Die zur Verteilung gebrachte Formulierung enthalte als Mindesterfordernis
-                    des Punktes 13 die Angelegenheiten: „Einrichtung der Bundesämter und sonstiger
-                    Bundesbehörden. Dienstrecht der Bundesangestellten“, wozu jedoch nach den
+                <p>Der <emph>Berichterstatter erö</emph>ffnet die Debatte über den Punkt 13 und
+                    ersucht die Regierungsvertreter um Bekanntgabe der von ihnen ausgearbeiteten
+                    Formulierung der Bestimmungen über das Dienstrecht der öffentlichen
+                    Angestellten. Sekt.Rat. <emph>Dr. Mannlicher</emph> macht auf Einladung des
+                    Herrn Staatssekretärs <emph>Dr. Mayr</emph> die Mitteilung, daß eine neue
+                    Formulierung der dienstrechtlichen Bestimmungen in der Staatskanzlei
+                    ausgearbeitet, in der Kürze der Zeit jedoch noch nicht über diesen Punkt das
+                    nötige Einvernehmen mit dem Staatsamte für Finanzen hergestellt worden sei. Die
+                    zur Verteilung gebrachte Formulierung enthalte als Mindesterfordernis des Pkt.
+                    13 die Angelegenheiten „Einrichtung der Bundesämter und sonstiger
+                    Bundesbehörden, Dienstrecht der Bundesangestellten“, wozu jedoch nach den
                     Absichten der Staatskanzlei ein eigener Artikel über das Dienstrecht,
                     insbesondere zur Sicherung der Freizügigkeit zwischen Bundes- und Landesdienst
                     und den verschiedenen Landesdiensten untereinander hinzutreten solle. Er stellt
                     die Beibringung einer solchen Formulierung für die nächste Zeit in Aussicht und
-                    schlägt vor, die Behandlung dieser Angelegenheit bis dahin zu vertagen. In
-                    diesem Sinne wird Beschluß gefaßt.</p>
-                <p>Der Berichterstatter eröffnet auf Ersuchen des Vorsitzenden die Debatte über den
-                    Artikel 11. Fink beantragt Beibehaltung des Einganges in der Fassung des Linzer
-                    Entwurfes mit der Begründung, daß die Länder auf dem Standpunkte stünden, daß
-                    sie die Kompetenzen dem Bunde übertragen. Der Vorsitzende erinnert daran, daß im
-                    Eingang des Art. 10 eine indifferente Formulierung gewählt wurde, stellt jedoch
-                    nach neuerlicher Stellungnahme Fink’s fest, daß die christlichsoziale Partei auf
-                    einer dem Länderstandpunkte Rechnung tragenden Formulierung beharre. Dr.
-                    Danneberg lehnt eine deratige Formulierung ab, bemerkt jedoch, daß gegen den
-                    Ausdruck „selbständige Länder“ im Art. 2 von sozialdemokratischer Seite keine
-                        wesentli<pb facs="#facs_7" n="7" xml:id="img_0007" break="no"/>
+                    schlägt vor, die Behandlung dieser Angelegenheit bis dahin zu vertagen. Indiesem
+                    Sinne wird Beschluß gefaßt.</p>
+                <p>Der <emph>Berichterstatter</emph> eröffnet auf Ersuchen des
+                        <emph>Vorsitzenden</emph> die Debatte über den Artikel 11. <emph>Fink</emph>
+                    beantragt Beibehaltung des Einganges in der Fassung des Linzer Entwurfes mit der
+                    Begründung, daß die Länder auf dem Standpunkte stünden, daß <emph>sie</emph> die
+                    Kompetenzen dem Bunde übertragen. Der <emph>Vorsitzende</emph> erinnert daran,
+                    daß im Eingang des Art. 10 eine indifferente Formulierung gewählt wurde, stellt
+                    jedoch nach neuerlicher Stellungnahme <emph>Fink’s</emph> fest, daß die
+                    christlichsoziale Partei auf einer dem Länderstandpunkte Rechnung tragenden
+                    Formulierung beharre. <emph>Dr. Danneberg</emph> lehnt eine deratige
+                    Formulierung ab, bemerkt jedoch, daß gegen den Ausdruck „selbständige Länder“ im
+                    Art. 2 von sozialdemokratischer Seite keine wesentli<pb facs="#facs_7" n="7"
+                        xml:id="img_0007" break="no"/>
                     <fw type="pageNum">- 6 -</fw>chen Schwierigkeiten erhoben würden, wenn der
                     Eingang des Art. 11 wie der des Art. 10 in indifferenter Weise formuliert würde.
                     Es wird sodann die Fassung: „Bundessache ist die Gesetzgebung, Landessache die
-                    Vollziehung in folgenden Angelegenheiten ...“*) zum Beschluß erhoben. Von
+                    Vollziehung in folgenden Angelegenheiten" .... zum Beschluß erhoben. Von
                     christlichsozialer Seite wird die Fassung: „Der Gesetzgebung des Bundes wird
                     übertragen“ als Minoritätsvotum angemeldet.</p>
                 <p>Zu Punkt 1 des Art. 11 (Staatsbürgerschaft und Heimatrecht) konstatiert der
-                    Berichterstatter, daß durch die Abstimmung zu Art. 10 die Fassung des Linzer
-                    Entwurfes angenommen erscheint. Auch Punkt 2 ist durch die Abstimmung zu Art. 10
-                    erledigt und zwar in der Weise, daß „die Angelegenheiten der Presse“ in den
-                    Artikel 10 eingeschaltet wurden.</p>
-                <p>Punkt 3 des Art. 11 soll nach einem Antrage Dr. Danneberg folgendermaßen lauten:
-                    „die nicht im Artikel 10 angeführten beruflichen Vertretungen“. Dr. Aigner
-                    erklärt sich mit dieser Formulierung einverstanden und beantragt den Zusatz (wie
-                    im Linzer Entwurf) „mit Ausnahme jener auf land- und forstwirtschaftlichem
-                    Gebiete“. Der Antrag Dr. Danneberg wird angenommen, der Antrag Dr. Aigner
+                        <emph>Berichterstatter</emph>, daß durch die Abstimmung zu Art. 10 die
+                    Fassung des Linzer Entwurfes angenommen erscheint. Auch Punkt 2 ist durch die
+                    Abstimmung zu Art. 10 erledigt und zwar in der Weise, daß „die Angelegenheiten
+                    der Presse“ in den Artikel 10 eingeschaltet wurden.</p>
+                <p>Punkt 3 des Art. 11 soll nach einem Antrage <emph>Dris Danneberg</emph>
+                    folgendermaßen lauten: „die nicht im Artikel 10 angeführten beruflichen
+                    Vertretungen“. <emph>Dr. Aigner</emph> erklärt sich mit dieser Formulierung
+                    einverstanden und beantragt den Zusatz (wie im Linzer Entwurf) „mit Ausnahme
+                    jener auf land- und forstwirtschaftlichem Gebiete“. Der Antrag <emph>Dris
+                        Danneberg</emph> wird angenommen, der Antrag <emph>Dris Aigner</emph>
                     abgelehnt und letzterer Antrag als Minderheitsvotum angemeldet.</p>
-                <p>Zu Punkt 4 stellt der Berichterstatter fest, daß der Gegenstand durch die
-                    Abstimmung zu Art. 10 erledigt ist.</p>
+                <p>Zu Punkt 4 stellt der <emph>Berichterstatter</emph> fest, daß der Gegenstand
+                    durch die Abstimmung zu Art. 10 erledigt ist.</p>
                 <p>Punkt 5 wird in der Fassung des Linzer Entwurfes angenommen.</p>
                 <p>Punkt 6 wird gemäß dem zu Punkt 10 des Art. 10 gestellten sozialdemokratischen
                     Antrage als Schulsache vorläufig ausgeschieden.</p>
@@ -332,91 +344,96 @@
                     <fw type="pageNum">- 7 -</fw>stimmungen über die Besteuerung der
                     Bundesunternehmungen“ angenommen. Dieser Passus wird von sozialdemokratischer
                     Seite als Minoritätsvotum angemeldet.</p>
-                <p>Zu Punkt 9 beantragt Staatssekretär Dr. Mayr den einschränkenden Zusatz: „die
-                    betriebstechnischen Vorschriften beim Kraftfahrwesen“ Punkt 9 wird sodann in der
-                    Fassung des Linzer Entwurfes mit der vorerwähnten Modifikation zum Beschluß
-                    erhoben. Von sozialdemokratischer Seite wird der Antrag auf Beibehaltung der
-                    Fassung des Linzer Entwurfes („das Kraftfahrwesen“) als Minoritätsvotum
+                <p>Zu Punkt 9 beantragt Staatssekretär <emph>Dr. Mayr</emph> den einschränkenden
+                    Zusatz: „die betriebstechnischen Vorschriften beim Kraftfahrwesen“. Punkt 9 wird
+                    sodann in der Fassung des Linzer Entwurfes mit der vorerwähnten Modifikation zum
+                    Beschluß erhoben. Von sozialdemokratischer Seite wird der Antrag auf
+                    Beibehaltung der Fassung des Linzer Entwurfes („das Kraftfahrwesen“) als
+                    Minoritätsvotum angemeldet.</p>
+                <p>Zu Punkt 10 wird die Eliminierung des „Wasserrechtes“ <del>und Verlegung dieser
+                        Angelegenheit in den Art. 12</del> beschlossen. Bezüglich des
+                    „Elektrizitätswesens“ beantragt der <emph>Berichterstatter</emph> Beibehaltung
+                    als Punkt 10 im Art. 11. Der Antrag wird angenommen; von christlichsozialer
+                    Seite wird die Eliminierung des „Elektrizitätswesens“ als Minoritätsvotum
                     angemeldet.</p>
-                <p>Zu Punkt 10 wird die Eliminierung des „Wasserrechtes“ beschlossen. Bezüglich des
-                    „Elektrizitätswesens“ beantragt der Berichterstatter Beibehaltung als Punkt 10
-                    im Art. 11. Der Antrag wird angenommen; von christlichsozialer Seite wird die
-                    Eliminierung des „Elektrizitätswesens“ als Minoritätsvotum angemeldet.</p>
-                <p>Zu Punkt 11 beantragt der Berichterstatter Beibehaltung. Pkt. 6 handelte von der
-                    pädogogisch-didaktischen Einrichtung des mittleren und niederen Schulwesens; ein
-                    derartiger Kompetenztatbestand findet sich im B.-VG. nicht. Punkt 11 wird gemäß
-                    dem Antrage in der Fassung: „das Volkswohnungs- und Pflegestättenwesen; das
-                    Leichen- und Bestattungswesen zum Beschluß erhoben.</p>
+                <p>Zu Punkt 11 beantragt der <emph>Berichterstatter</emph> Beibehaltung des
+                    "Leichen- und Begräbniswesens" an dieser Stelle mit der textlichen Aenderung in
+                    "Leichen- und Bestattungswesen". Punkt 11 wird gemäß dem Antrage in der Fassung:
+                    „das Volkswohnungs- und Pflegestättenwesen; das Leichen- und Bestattungswesen
+                    zum Beschluß erhoben.</p>
                 <p>Punkt 12 des Art. 11 wird in der Fassung des Linzer Entwurfes unverändert
                     angenommen.</p>
-                <p>Zu Absatz 2 des Art. 11 beantragt Dr. Danneberg die Formulierung gemäß dem
-                    sozialdemokratischen Verfassungsentwurf („Hinsichtlich der vorangeführten
-                    Angelegenheiten steht dem Bunde das Verordnungsrecht zu“), eventuell
-                    Beibehaltung des Absatzes 2 in der Fassung des Linzer Entwurfes. Dieser Antrag
-                    und Eventualantrag werden abgelehnt. Von sozialdemokratischer Seite wird ein
-                    Minoritätsvotum angemeldet.</p>
-                <p>Zu Absatz 3 beantragt Staatssekretär Dr. Mayr die Aufnahme dieser Bestimmung in
-                    einen selbständigen auf Art. 11 folgenden<pb facs="#facs_9" n="9"
+                <p>Zu Absatz 2 des Art. 11 beantragt <emph>Dr. Danneberg</emph> die Formulierung
+                    gemäß dem sozialdemokratischen Verfassungsentwurf („Hinsichtlich der
+                    vorangeführten Angelegenheiten steht dem Bunde das Verordnungsrecht zu“),
+                    eventuell Beibehaltung des Absatzes 2 in der Fassung des Linzer Entwurfes.
+                    Dieser Antrag und Eventualantrag werden abgelehnt. Von sozialdemokratischer
+                    Seite wird ein Minoritätsvotum angemeldet.</p>
+                <p>Zu Absatz 3 beantragt Staatssekretär <emph>Dr. Mayr</emph> die Aufnahme dieser
+                    Bestimmung in einen selbständigen auf Art. 11 folgenden<pb facs="#facs_9" n="9"
                         xml:id="img_0009" break="yes"/>
-                    <fw type="pageNum">- 8 -</fw> Artikel. Der Antrag wird mit der von Dr. Danneberg
-                    beantragten Modifikation angenommen, wonach die Bestimmung über die Rezeption
-                    des Völkerrechtes als neuer Artikel dem gegenwärtigen Art. 12 angereiht werden
-                    sol1.</p>
-                <p>Der Berichterstatter eröffnet die Debatte über den Art. 12.</p>
+                    <fw type="pageNum">- 8 -</fw> Artikel. Der Antrag wird mit der von <emph>Dr.
+                        Danneberg</emph> beantragten Modifikation angenommen, wonach die Bestimmung
+                    über die Rezeption des Völkerrechtes als neuer Artikel dem gegenwärtigen Art. 12
+                    angereiht werden sol1.</p>
+                <p>Der <emph>Berichterstatter</emph> eröffnet die Debatte über den Art. 12.</p>
                 <p>Zu Absatz 1 wird von christlichsozialer Seite vor dem Worte „Grundsatz“ die
                     Einschaltung „allgemeinen“ beantragt. Der Antrag wird abgelehnt und als
                     Minoritätsvotum angemeldet.</p>
                 <p>Zu Punkt 1 des Art. 12 beantragen die sozialdemokratischen Vertreter die
                     Beibehaltung, die christlichsozialen Vertreter Streichung dieser Bestimmung.
-                    Staatssekretär Dr. Mayr bemerkt, daß verschiedene Gründe für die Beibehaltung
-                    dieses Passus sprächen. Die Gründe werden des Näheren von Sekt.-Rat Dr.
-                    Mannlicher und Professor Dr. Kelsen ausgeführt. Sektionsrat Dr. Mannlicher
-                    verweist darauf, daß die verschiedenen materiellen Verwaltungsgesetze mit einem
-                    bestimmten gegebenen Behördenorganismus rechnen, der nur schwerlich länderweise
-                    verschieden organisiert werden könnte. Professor Kelsen betont, daß die
-                    Aufrechterhaltung der Bestimmung die Voraussetzung für das in Aussicht genommene
-                    Kompromiß über die Organisation der Gemeinden sei, da nur auf Grund einer
-                    derartigen verfassungsrechtlichen Ermächtigung die Gemeindeorganisation in ihren
-                    Grundsätzen durch ein Bundesgesetz geregelt werden könnte. Der Berichterstatter
-                    beantragt in diesem Zusammenhang die Einschaltung der „Gemeindegesetzgebung“ als
-                    eigenen Punkt nach Punkt 1, zieht jedoch diesen Antrag nach der Feststellung
-                    Fink’s, daß das Gemeindewesen vorderhand ausgeschaltet sein solle, zurück. Punkt
-                    1 wird sodann in der Fassung des Linzer Entwurfes angenommen; von
-                    christlichsozialer Seite wird der Antrag auf Streichung des Punktes als
-                    Minoritätsvotum angemeldet.</p>
+                    Staatssekretär <emph>Dr. Mayr</emph> bemerkt, daß verschiedene Gründe für die
+                    Beibehaltung dieses Passus sprächen. Die Gründe werden des Näheren von Sekt.Rat
+                        <emph>Dr. Mannlicher</emph> und Professor <emph>Dr. Kelsen</emph>
+                    ausgeführt. Sektionsrat <emph>Dr. Mannlicher</emph> verweist darauf, daß die
+                    verschiedenen materiellen Verwaltungsgesetze mit einem bestimmten<choice>
+                        <sic/>
+                        <corr> </corr>
+                    </choice>gegebenen Behördenorganismus rechnen, der nur schwerlich länderweise
+                    verschieden organisiert werden könnte. <emph>Professor Kelsen</emph> betont, daß
+                    die Aufrechterhaltung der Bestimmung die Voraussetzung für das in Aussicht
+                    genommene Kompromiß über die Organisation der Gemeinden sei, da nur auf Grund
+                    einer derartigen verfassungsrechtlichen Ermächtigung die Gemeindeorganisation in
+                    ihren Grundsätzen durch ein Bundesgesetz geregelt werden könnte. Der
+                        <emph>Berichterstatter</emph> beantragt in diesem Zusammenhang die
+                    Einschaltung der „Gemeindegesetzgebung“ als eigenen Punkt nach Punkt 1, zieht
+                    jedoch diesen Antrag nach der Feststellung <emph>Fink’s</emph>, daß das
+                    Gemeindewesen vorderhand ausgeschaltet sein solle, zurück. Punkt 1 wird sodann
+                    in der Fassung des Linzer Entwurfes angenommen; von christlichsozialer Seite
+                    wird der Antrag auf Streichung des Punktes als Minoritätsvotum angemeldet.</p>
                 <p>Punkt 3 des Art. 12 wird unter Streichung des Schlußpassus: „Die Ausgrabung und
-                    Überführung von Leichen“ was durch Punkt 11 des Art. 11 des Linzer Entwurfes
+                    Ueberführung von Leichen“ was durch Punkt 11 des Art. 11 des Linzer Entwurfes
                     geregelt ist — zum Beschluß er<pb facs="#facs_10" n="10" xml:id="img_0010"
                         break="no"/>
                     <fw type="pageNum">- 9 -</fw>hoben.</p>
-                <p>Die Punkte 4 und 5 des Art. 12 des Linzer
-                    Entwurfes werden unverändert zum Beschluß erhoben. Professor Kelsen gibt in
-                    diesem Zusammenhang auf eine Anfrage Dr. Danneberg die Aufklärung, daß es im
-                    Wesen eines Rahmengesetzes gelegen sei, daß der Rahmengesetzgeber auch jedwedes
-                    Ausführungsgesetz in der betreffenden Materie ausschließen kann, indem z. B. ein
-                    Rahmengesetz denkbar ist, das die Rechtsinstitute der Abschiebung oder
-                    Abschaffung überhaupt aufhebt. In diesem Zusammenhange tauche die schwierige
-                    Frage der juristischen Qualifikation der bestehenden und rezipierten Gesetze in
-                    der Richtung auf, ob sie als Bundes- oder Landesgesetze, als Rahmen- oder
-                    Ausführungsgesetze zu gelten hätten, eine Frage, die in den
-                    Übergangsbestimmungen zu lösen sein werde.</p>
+                <p>Die Punkte 4 und 5 des Art. 12 des Linzer Entwurfes werden unverändert zum
+                    Beschluß erhoben. <emph>Professor Kelsen</emph> gibt in diesem Zusammenhang auf
+                    eine Anfrage <emph>Dris Danneberg</emph> die Aufklärung, daß es im Wesen eines
+                    Rahmengesetzes gelegen sei, daß der Rahmengesetzgeber auch jedwedes
+                    Ausführungsgesetz in der betreffenden Materie <emph>ausschließen</emph> kann,
+                    indem z. B. ein Rahmengesetz denkbar ist, das die Rechtsinstitute der
+                    Abschiebung oder Abschaffung überhaupt aufhebt. In diesem Zusammenhange tauche
+                    die schwierige Frage der juristischen Qualifikation der bestehenden und
+                    rezipierten Gesetze in der Richtung auf, ob sie als Bundes- oder Landesgesetze,
+                    als Rahmen- oder Ausführungsgesetze zu gelten hätten, eine Frage, die in den
+                    Uebergangsbestimmungen zu lösen sein werde.</p>
                 <p>Punkt 6 des Art. 12 bleibt mit
                     Rücksicht auf Punkt 9 des Art. 10 außer Betracht; desgleichen Punkt 7 mit
                     Rücksicht auf Punkt 3 des Artikels 11.</p>
-                <p>Zu Punkt 8 wird von christlichsozialer
-                    Seite wegen Nichtübernahme des Elektrizitätswesens aus dem Punkte 10 des Art. 11
-                    ein Minoritätsvotum angemeldet. Der Berichterstatter beantragt ferner zu Punkt 8
+                <p>Zu Punkt 8 wird von christlichsozialer Seite wegen Nichtübernahme des
+                    Elektrizitätswesens aus dem Punkte 10 des Art. 11 ein Minoritätsvotum
+                    angemeldet. Der <emph>Berichterstatter</emph> beantragt ferner zu Punkt 8
                     Eliminierung des Passus: „die Bodenreform (agrarische Operationen,
-                    Wiederbesiedlung usw.) und die Bodenentschuldung“ und Verlegung desselben in den
-                    Artikel 10. (Angenommen). Gemäß einem Antrage Dr. Dannebergs wird ferner im
-                    Punkt 8 die Ausnahme der Forst- und Weideservituten gestrichen.
-                    (Christlichsoziales Minoritäsvotum).</p>
-                <p>Der Berichterstatter beantragt die
-                    Grundsätze des Bauwesens als eigenen Punkt in den Art. 12 aufzunehmen.
-                    Staatssekretär Dr. Mayr spricht sich gegen den Antrag mit der Begründung aus,
-                    daß schon heute die Baugesetzgebung Landessache sei. Der Antrag Dr. Clessin wird
-                    angenommen. (Christlichsoziales Minoritätsvotum).</p>
-                <p>Der Punkt 9 wird in folgender Fassung angenommen: „Dienstrecht der Organe der
+                    Wiederbesiedlung u.s.w.) und die Bodenentschuldung<add>“</add> und Verlegung
+                    desselben in den Artikel 10. (Angenommen). Gemäß einem Antrage <emph>Dris
+                        Danneberg</emph> wird ferner im Punkt 8 die Ausnahme der Forst- und
+                    Weideservituten gestrichen. (Christlichsoziales Minoritäsvotum).</p>
+                <p>Der <emph>Berichterstatter</emph> beantragt die Grundsätze des Bauwesens als
+                    eigenen Punkt in den Art. 12 aufzunehmen. Staatssekretär Dr. Mayr spricht sich
+                    gegen den Antrag mit der Begründung aus, daß schon heute die Baugesetzgebung
+                    Landessache sei. Der Antrag <emph>Dris Clessin</emph> wird angenommen.
+                    (Christlichsoziales Minoritätsvotum).</p>
+                <p>Der Pkt. 9 wird in folgender Fassung angenommen: „Dienstrecht der Organe der
                     Länder, die behördliche Auf<pb facs="#facs_11" n="11" xml:id="img_0011"
                         break="no"/>
                     <fw type="pageNum">- 10 -</fw>gaben zu besorgen haben“. Der Vorsitzende macht in

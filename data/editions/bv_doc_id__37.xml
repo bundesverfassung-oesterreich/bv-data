@@ -104,9 +104,10 @@
                 <date notBefore-iso="1920-07-12" notAfter-iso="1920-07-12"> 12. Juli 1920 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="structured">
+        <revisionDesc status="text_correct">
             <change when="2025-03-17" who="#cfh">document automatically created</change>
             <change when="2025-03-20" who="#e_kordt">Text strukturiert</change>
+            <change when="2025-04-10" who="#e_kordt">Text fertig gegengelesen</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -210,213 +211,232 @@
         <body>
             <div type="main">
                 <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
-                <head type="main">Protokoll der 2. Sitzung des Subkomitées des
+                <head type="main">Protokoll der (zweiten) Sitzung des Subkomitées des
                     Verfassungsausschusses vom 12. Juli 1920.</head>
                 <p>Beginn 10h20 Uhr Vormittag.</p>
                 <p>Anwesend:</p>
                 <list>
-                    <item>Dr. Otto Bauer, als Vorsitzender,</item>
-                    <item>Dr. Josef Aigner,</item>
-                    <item>Heinrich Clessin, als Berichterstatter,</item>
-                    <item>Dr. Robert Danneberg,</item>
-                    <item>Mathias Eldersch,</item>
-                    <item>Jodok Fink,</item>
-                    <item>Dr. Ignaz Seipel</item>
+                    <item>Dr. Otto <emph>Bauer</emph>, als Vorsitzender,</item>
+                    <item>Dr. Josef <emph>Aigner</emph>,</item>
+                    <item>Heinrich <emph>Clessin</emph>, als Berichterstatter,</item>
+                    <item>Dr. Robert <emph>Danneberg</emph>,</item>
+                    <item>Mathias <emph>Eldersch</emph>,</item>
+                    <item>Jodok Fin<del>c</del>k,</item>
+                    <item>Dr. Ignaz <emph>Seipel</emph></item>
                 </list>
                 <list>
-                    <item>Staatssekretär Prof.Dr. Michael Mayr.</item>
+                    <item>Staatssekretär Prof.Dr. Michael <emph>Mayr</emph>.</item>
                 </list>
                 <p>Von der Staatskanzlei: </p>
                 <list>
-                    <item>Min.Rat Dr. Georg Froehlich,</item>
-                    <item>Sektionsrat Dr. Egbert Mannlicher,</item>
-                    <item>Oberfinanzrat Dr. Karl Moser, </item>
-                    <item> Min.Vizesekretär Dr. Kurt Frieberger, als Schriftführer.</item>
+                    <item>Min.Rat Dr. Georg <emph>Froehlich</emph>,</item>
+                    <item>Sektionsrat Dr. Egbert <emph>Mannlicher</emph>,</item>
+                    <item>Oberfinanzrat Dr. Karl <emph>Moser</emph>, </item>
+                    <item> Min.Vizesekretär Dr. Kurt <emph>Frieberger</emph>, als
+                        Schriftführer.</item>
                 </list>
                 <list>
-                    <item>Prof. Dr. Hans Kelsen, als Experte des Verfassungsausschusses.</item>
+                    <item>Prof. Dr. Hans <emph>Kelsen</emph>, als Experte des
+                        Verfassungsausschusses.</item>
                 </list>
                 <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw type="pageNum">- 2
-                        -</fw>Nach Eröffnung der Sitzung macht Dr. Danneberg darauf aufmerksam, daß
-                    über die Kompetenz hinsichtlich „Bundesverfassung und Bundesgerichtsbarkeit,
-                    Einrichtung der Bundesgesetzgebung“ (Art. 25, Pkt. 1 des Renner’schen Entwurfes)
-                    im Linzer Entwurfe nichts enthalten sei und Prof. Dr. Kelsen bemerkte ergänzend,
-                    daß diese Materien wohl an die Spitze des Art. 10 zu setzen und mit denen des
-                    Punktes 3 zu vereinigen wären. Desgleichen gehören hierher die Angelegenheiten
-                    der Wahlen zum Bundestage, der Wahl des Bundespräsidenten und die
-                    Volksabstimmungen, was mit der Frage der Bürgerlisten und der der Neubildung von
-                    Ländern zusammenhänge.</p>
+                        -</fw>Nach Eröffnung der Sitzung macht <emph>Dr. Danneberg</emph> darauf
+                    aufmerksam, daß über die Kompetenz hinsichtlich „Bundesverfassung und
+                    Bundesgerichtsbarkeit, Einrichtung der Bundesgesetzgebung“ (Art. 25, Pkt. 1 des
+                    Renner’schen Entwurfes) im Linzer Entwurfe nichts enthalten sei und Prof.
+                        <emph>Dr. Kelsen</emph> bemerkte ergänzend, daß diese Materien wohl an die
+                    Spitze des Art. 10 zu setzen und mit denen des Punktes 3 zu vereinigen wären.
+                    Desgleichen gehören hieher die Angelegenheiten der Wahlen zum Bundestage, der
+                    Wahl des Bundespräsidenten und die Volksabstimmungen, was mit der Frage der
+                    Bürgerlisten und der der Neubildung von Ländern zusammenhänge.</p>
                 <p>Allerdings wird durch eine solche Festlegung der Bundeszuständigkeit, wie
-                    Staatssekretär Dr. Mayr erwähnt, ein Vorarlberger Landesgesetz über die
-                    Volksabstimmung derogiert 21). Nachdem Min. Rat Dr. Froehlich die ausdrückliche
-                    Erwähnung der Wahlen zum Bundestage wegen der notwendigen Vorbereitung durch den
-                    Bund befürwortet und Dr. Seipel sich für eine klare Stilisierung des bisherigen
-                    Punktes 3 ausspricht, beantragt der Vorsitzende, in Art. 10 an erster Stelle
-                    folgendes einzuschalten:</p>
+                    Staatssekretär <emph>Dr. Mayr</emph> erwähnt, ein Vorarlberger Landesgesetz über
+                    die Volksabstimmung derogiert. Nachdem Min.Rat <emph>Dr. Froehlich</emph> die
+                    ausdrückliche Erwähnung der Wahlen zum Bundestage wegen der notwendigen
+                    Vorbereitung durch den Bund befürwortet und <emph>Dr. Seipel</emph> sich für
+                    eine klarere Stilisierung des bisherigen Punktes 3 ausspricht, beantragt der
+                        <emph>Vorsitzende</emph> in Art. 10 an erster Stelle folgendes
+                    einzuschalten:</p>
                 <quote>
-                    <p>„1. Bundesverfassung, insbeson<pb facs="#facs_4" n="4" xml:id="img_0004"
-                            break="no"/><fw type="pageNum">- 3 -</fw>dere Wahlen zum Bundestag,
-                        Volksabstimmungen im ganzen Bundesgebiete, Verfassungsgerichtsbarkeit.“</p>
+                    <p>„1. <emph>Bundesverfassung, insbeson</emph><pb facs="#facs_4" n="4"
+                            xml:id="img_0004" break="no"/><fw type="pageNum">- 3 -</fw><emph>dere
+                            Wahlen zum Bundestag, Volksabstimmungen im ganzen Bundesgebiete,
+                            Verfassungsgerichtsbarkeit.</emph>“</p>
                 </quote>
                 <p>Sollte der Bundespräsident vom ganzen Volke gewählt werden, so könne man die
-                    erforderlichen Bestimmungen später aufnehmen. Der Antrag wird in der
-                    vorzitierten Fassung angenommen, und festgestellt, daß der bisherige Punkt 1
-                    (auswärtige Angelegenheiten) nunmehr Punkt 2, der bisherige Punkt 2 (Regelung
-                    und Überwachung der Eintritte usw.) Punkt 3 wird, während der Punkt 3 in der
-                    Fassung der Linzer Entwurfes entfällt.</p>
+                    erforderlichen Bestimmungen später aufnehmen. Der <emph>Antrag</emph> wird in
+                    der vorzitierten Fassung <emph>angenommen</emph>, und festgestellt, daß der
+                    bisherige Punkt 1 (auswärtige Angelegenheiten) nunmehr Punkt 2, der bisherige
+                    Punkt2 (Regelung und Ueberwachung des Eintritts usw.) Pkt. 3 wird, während der
+                    Punkt 3 in der Fassung des Linzer Entwurfes entfällt.</p>
                 <p>Hierauf wird die Beratung dort fortgesetzt, wo sie am Vortage abgebrochen wurde
-                    und seitens Dr. Dannebergs beantragt, unter Abänderung des Punktes 6 der mit dem
-                    Worte „Urheberrecht“ zu schließen hätte, Punkt 7 des Art. 11 an dieser Stelle
-                    des Art. 10 einzufügen und im Sinne des Art. 25, Pkt. 9 (Entwurf Dr. Renner)
-                    auszugestalten. Staatssekretär Dr. Mayr schlägt gleichfalls vor, die
-                    Gewerbeangelegenheiten aus Art. 11 hieher zu setzen, da sich die Interessen
-                    sämtlicher Länder für einheitliche Gesetzgebung und Verwaltung auf dem Gebiete
-                    des Gewerbes und der Industrie ausgesprochen hätten. Um diesem Wunsche gerecht
-                    zu werden, müsse aber eine Zentralstelle<pb facs="#facs_5" n="5"
-                        xml:id="img_0005" break="yes"/><fw type="pageNum">- 4 -</fw> in oberster
-                    Instanz entscheiden. Nach längerer Beratung über die Formulierung, an der sich
-                    Dr. Danneberg und M. Eldersch mit dem Wunsche nach Einbeziehung des Munitions-,
-                    Schieß- und Sprengmittelwesens sowie des gewerblichen und technischen
-                    Versuchswesens, ferner der Vorsitzende und J. Fink beteiligen, macht Min. Rat
-                    Dr. Froehlich darauf aufmerksam, daß das technische Versuchswesen bisher keine
-                    eigene Gesetzgebung erfordert habe; soweit es sich beim Munitions-, Schieß- und
+                    und seitens <emph>Dr. Dannebergs</emph> beantragt, unter Abänderung des Punktes
+                    6 der mit dem Worte „Urheberrecht“ zu schließen hätte, Punkt 7 des Art. 11 an
+                    dieser Stelle des Art. 10 einzufügen und im Sinne des Art. 25, Pkt. 9 (Entwurf
+                    Dr. Renner) auszugestalten. Staatssekretär <emph>Dr. Mayr</emph> schlägt
+                    gleichfalls vor, die Gewerbeangelegenheiten aus Art. 11 hieher zu setzen, da
+                    sich die Interessen sämtlicher Länder für einheitliche Gesetzgebung und
+                    Verwaltung auf dem Gebiete des Gewerbes und der Industrie ausgesprochen hätten.
+                    Um diesem Wunsche gerecht zu werden, müsse aber eine Zentralstelle<pb
+                        facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><fw type="pageNum">- 4
+                        -</fw> in oberster Instanz entscheiden. Nach längerer Beratung über die
+                    Formulierung, an der sich <emph>Dr. Danneberg</emph> und <emph>M.
+                        Eldersch</emph> mit dem Wunsche nach Einbeziehung des Munitions-, Schieß-
+                    und Sprengmittelwesens sowie des gewerblichen und technischen Versuchswesens,
+                    ferner der <emph>Vorsitzende</emph> und <emph>J. Fin<choice>
+                            <sic>c</sic>
+                            <corr/>
+                        </choice>k</emph> beteiligen, macht Min.Rat <emph>Dr. Froehlich</emph>
+                    darauf aufmerksam, daß das technische Versuchswesen bisher keine eigene
+                    Gesetzgebung erfordert habe; soweit es sich beim Munitions-, Schieß- und
                     Sprengmittelwesen um Monopolfragen handle, genüge die bezügliche Bestimmung des
                     Art. 10, im übrigen werde man mit Art. 11 das Auslangen finden, weil
-                    Schwierigkeiten bei der Durchführung nicht zu gewärtigen sind. Dr. Danneberg
-                    zieht hierauf seinen Antrag, betreffend das gewerbliche und technische
-                    Versuchswesen zurück.</p>
-                <p>Was die vorgeschlagene Fassung des Punktes 7 anlangt, schlägt Dr. Seipel anstelle
-                    der „Angelegenheiten des Gewerbes und der Industrie“ den Ausdruck „allgemeine
-                    Gewerbeordnung“ vor, zieht aber nach einer Erläuterung des Staatssekretärs Dr.
-                    Mayr, daß die Gewerbeordnung wohl de lege lata, nicht aber de lege ferenda ein
-                    geschlossenes Ganzes bilde, diesen Antrag zurück. Auf eine Anfrage J. Finks,
-                        wer<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><fw
-                        type="pageNum">- 5 -</fw> die Gewerbeinspektoren zu ernennen haben werde,
-                    betont der Vorsitzende, daß diese Angelegenheit des Arbeiterrechtes unbedingt
-                    Bundessache bleiben müsse. Eine Verfassung, die diese Kompetenz den Ländern
-                    überläßt, wird nie die Zustimmung der Sozialdemokraten erlangen. Pkt. 7 wird
-                    hierauf in der vorgeschlagenen Fassung (Angelegenheiten des Gewerbes und der
-                    Industrie; Bekämpfung des unlauteren Wettbewerbes; Patentwesen sowie Marken- und
-                    Musterschutz; Ingenieur- und Ziviltechnikerwesen; Handels- und Gewerbekammern)
-                    angenommen. der Antrag Dr. Dannebergs, das Waffen-, Munitions und
-                    Sprengstoffwesen in diesem Punkt aufzunehmen, wird abgelehnt.</p>
-                <p>Dr. Seipel meldet ein Minoritätsvotum an.</p>
-                <p>Nach Pkt. 7 wäre nach Ansicht Dr. Dannebergs aus Pkt. 11 des Entwurfes Dr. Renner
-                    aufzunehmen: „Ernährungswesen, Nahrungsmittelkontrolle; Gesundheitswesen
-                    einschließlich Mutterschafts- SäuglingsJugend- und Altersfürsorge, jedoch mit
-                    Ausschluß des Leichenbestattungswesens, des Gemeindesanitätswesens, des Hilfs-
-                    und Rettungswesens; Wohnungswesen."</p>
+                    Schwierigkeiten bei der Durchführung nicht zu gewärtigen sind. <emph>Dr.
+                        Danneberg</emph> zieht hierauf seinen Antrag, betreffend das gewerbliche und
+                    technische Versuchswesen zurück.</p>
+                <p>Was die vorgeschlagene Fassung des Punktes 7 anlangt, schlägt <emph>Dr.
+                        Seipel</emph> anstelle der „Angelegenheiten des Gewerbes und der Industrie“
+                    den Ausdruck „allgemeine Gewerbeordnung“ vor, zieht aber nach einer Erläuterung
+                    des Staatssekretärs <emph>Dr. Mayr</emph>, daß die Gewerbeordnung wohl de lege
+                    lata, nicht aber de lege ferenda ein geschlossenes Ganzes bilde, diesen Antrag
+                    zurück. Auf eine Anfrage <emph>J. Fin<choice>
+                            <sic>c</sic>
+                            <corr/>
+                        </choice>ks</emph>, wer<pb facs="#facs_6" n="6" xml:id="img_0006"
+                        break="yes"/><fw type="pageNum">- 5 -</fw> die Gewerbeinspektoren zu
+                    ernennen haben werde, betont der <emph>Vorsitzende</emph>, daß diese
+                    Angelegenheit des Arbeiterrechtes unbedingt Bundessache bleiben müsse. Eine
+                    Verfassung, die diese Kompetenz den Ländern überläßt, wird nie die Zustimmung
+                    der Sozialdemokraten erlangen. Art. 7 wird hierauf in der vorgeschlagenen
+                    Fassung (<emph>Angelegenheiten des Gewerbes und der Industrie; Bekämpfung des
+                        unlauteren Wettbewerbes; Patentwesen sowie Marken- und Musterschutz;
+                        Ingenieur- und Ziviltechnikerwesen; Handels- und Gewerbekammern</emph>)
+                        <emph>angenommen</emph>, der <emph>Antrag Dr. Dannebergs</emph>, das
+                    Waffen-, Munitions und Sprengstoffwesen in diesem Punkt aufzunehmen, wird
+                        <emph>abgelehnt</emph>.</p>
+                <p><emph>Dr. Seipel</emph> meldet ein Minoritätsvotum an.</p>
+                <p>Nach Pkt. 7 wäre nach Ansicht <emph>Dr. Dannebergs</emph> aus Pkt. 11 des
+                    Entwurfes Dr. Renner aufzunehmen: Ernährungswesen, Nahrungsmittelkontrolle;
+                    Gesundheitswesen einschließlich Mutterschafts- Säuglings-, Jugend- und
+                    Altersfürsorge, jedoch mit Ausschluß des Leichenbestattungswesens, des
+                    Gemeindesanitätswesens, des Hilfs- und Rettungswesens; Wohnungswesen."</p>
                 <p>Der Berichterstatter weist nach, daß diese Belange im Art. 12 zum Teil enthalten
                     sind; die Bundeskompetenz in Ernährungsangelegenheiten durch Art. 10,<pb
                         facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum">- 6
                         -</fw> Pkt. 11 gesichert (die aus Anlaß eines Krieges, insbesondere im
                     Gefolge eines solchen zur Sicherung der einheitlichen Führung der Wirtschaft
                     notwendig erscheinenden Maßnahmen, insbesondere auch hinsichtlich der Versorgung
-                    der Bevölkerung mit Bedarfsgegenständen), welche Formulierung, wie
+                    der Bevölkerung mit Bedarfsgegenständen<add>),</add> welche Formulierung, wie
                     Staatssekretär Dr. Mayr erwähnt, auf Grund gemeinsamer Beratungen in den
                     Länderkonferenzen festgelegt und mit Vertretern des Ernährungsamtes vereinbart
                     worden sei. Jedenfalls geht der vorliegende Entwurf im einzelnen viel weiter als
                     alle übrigen Verfassungen; will man aber noch gründlicher sein, so kann man in
-                    die Übergangsbestimmungen das entsprechende aufnehmen. Die Regelung des
+                    die Uebergangsbestimmungen das entsprechende aufnehmen. Die Regelung des
                     Ernährungswesens wird als vorübergehend angesehen, wie auch das Ernährungsamt
                     nicht dauernd erhalten bleiben soll. Die nahrungswirtschaftlichen Beziehungen
-                    zum Ausland, auf deren Wichtigkeit M. Eldersch verweist, fallen unter die
-                    Bundeskompetenz in auswärtigen Angelegenheiten, der Schutz vor Fälschungen durch
-                    die Nahrungsmittel kontrolle unter das Gesundheitswesen, vgl. Art. 11, Pkt. 11,
-                    dessen Fassung auf einen Vorschlag der zuständigen Fachleute zurückgeht. Zur
-                    Forderung M. Eldersch, eigens das Ernährungswesen zu erwähnen, da im<pb
-                        facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">- 7
-                        -</fw> Entwurf nur von der Versorgung der Bevölkerung mit
-                    Bedarfsgegenständen die Rede sei, bemerkt Min.-Vizesekretär Dr. Frieberger, daß
-                    nach der das gesamte Ernährungswesen grundlegenden kais. Verordnung (die
-                    letzterlassene, noch geltende vom 24. März 1917, R.G.Bl. Nr. 131) der Begriff
-                    Bedarfsgegenstand ausdrücklich auch Lebensund Futtermittel umfaßt.</p>
-                <p>Von den die Debatte abschließenden Anträgen Dr. Dannebergs, wird der eine auf
-                    Einschaltung des Wortes „Ernährungswesen“ abgelehnt, der andere auf Einfügung
-                    der „Nahrungsmittelkontrolle“ in Art. 10, Pkt. 10 nach Befürwortung durch Dr.
-                    Seipel angenommen. Da Dr. Danneberg auch das Gesundheitswesen in Pkt. 10
-                    verwiesen wünscht, der laut Erläuterung des Berichterstatters bereits die
-                    Bekämpfung übertragbarer Krankheiten von Menschen und Tieren enthält, wird
-                    schließlich die von ihm beantragte Formulierung im folgenden Wortlaute
-                    angenommen: „Das Gesundheits- und das Verterinärwesen, jedoch mit Ausnahme der
-                    Heil- und Pflegeanstalten und Ambulatorien, des Kurorte-, Leichenund
-                    Begräbniswesens sowie des Gemeindesanitätsdienstes und Rettungswesens“.</p>
+                    zum Ausland, auf deren Wichtigkeit <emph>M. Eldersch</emph> verweist, fallen
+                    unter die Bundeskompetenz in auswärtigen Angelegenheiten, der Schutz vor
+                    Fälschungen durch die Nahrungsmittelkontrolle unter das Gesundheitswesen, vgl.
+                    Art. 11, Pkt. 11, dessen Fassung auf einen Vorschlag der zuständigen Fachleute
+                    zurückgeht. Zur Forderung <emph>M. Eldersch</emph>, eigens das Ernährungswesen
+                    zu erwähnen, da im<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw
+                        type="pageNum">- 7 -</fw> Entwurf nur von der Versorgung der Bevölkerung mit
+                    Bedarfsgegenständen die Rede sei, bemerkt Min.Vizesekretär <emph>Dr.
+                        Frieberger</emph>, daß nach der das gesamte Ernährungswesen grundlegenden
+                    kais. Verordnung (die letzterlassene, noch geltende vom 24. März 1917, R.G.Bl.
+                    No. 131) der Begriff Bedarfsgegenstand ausdrücklich auch Lebens- und
+                    Futtermittel umfaßt.</p>
+                <p>Von den die Debatte abschließenden Anträgen <emph>Dr. Danneberg</emph> wird der
+                    eine auf Einschaltung des Wortes „Ernährungswesen“ abgelehnt, der andere auf
+                    Einfügung der „<emph>Nahrungsmittelkontrolle</emph>“ in Art. 10, Pkt. 10 nach
+                    Befürwortung durch <emph>Dr. Seipel</emph>
+                    <emph>angenommen</emph>. Da Dr. Danneberg auch das Gesundheitswesen in Pkt. 10
+                    verwiesen wünscht, der laut Erläuterung des <emph>Berichterstatters</emph>
+                    bereits die Bekämpfung übertragbarer Krankheiten von Menschen und Tieren
+                    enthält, wird schließlich die von ihm beantragte Formulierung im folgenden
+                    Wortlaute <emph>angenommen:</emph> „Das Gesundheits- und das Verterinärwesen,
+                    jedoch mit Ausnahme der Heil- und Pflegeanstalten und Ambulatorien, des
+                    Kurorte-, Leichen- und Begräbniswesens sowie des Gemeindesanitätsdienstes und
+                    Rettungswesen.“</p>
                 <p>Auch das „Volkswohnung- und Volkspflegestättenwesen“ wünscht Dr.<pb
                         facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
-                    <fw type="pageNum">- 8 -</fw> Danneberg im Gegensatz zu Dr. Mayr, der die
+                    <fw type="pageNum">- 8 -</fw>
+                    <emph>Danneberg</emph> im Gegensatz zu <emph>Dr. Mayr</emph>, der die
                     Kompetenzzuweisung des Art. 11 für genügend erachtet, in Art. 10 aufzunehmen.
-                    Seinen Antrag unterstützt M. Eldersch durch den Hinweis, daß wegen der
-                    Unmöglichkeit von Neubauten gerade auf diesem Gebiete in nächster Zeit viel zu
-                    tun sein wird; auch der Wohnungsfürsorgefonds wird von einer Zentralstelle
-                    (Staatsamt für soziale Verwaltung) verwaltet.</p>
-                <p>Der Vorsitzende bemerkt hiezu, daß der Ausdruck Wohnungswesen verschiedenes
-                    einschließe, so z. B. Bauordnung, Mieterschutz, etc., Gebiete auf denen der
-                    Wiedereintritt voller Freiheit vielleicht ausgeschlossen ist.</p>
-                <p>Sekt. Rat. Dr. Mannlicher stellt fest, daß die Kompetenz für den Mieterschutz als
-                    Bestandteil des Zivilrechtes, nämlich als Modifikation des Vertragsrechtes,
-                    durch den Pkt. 6 des Art. 10 geregelt sei. Alle diesbezüglichen Maßnahmen gehen
-                    vom Staatsamt für Justiz aus.</p>
-                <p>In den Anschauungen der sozialdemokratischen Parteivertreter erblickt Dr. Seipel
-                    Zentralisierungstendenzen, die umso weiter gehen, als die Wohnungsfrage aufs
-                    innigste mit lokalen Verhältnissen zusammenhängt, weshalb die Vollziehung der
-                    einschlägigen Bundesgesetze den Ländern gewahrt bleiben muß. Staatssekretär Dr.
-                    Mayr richtet, unterstützt vom Vorred<pb facs="#facs_10" n="10" xml:id="img_0010"
-                        break="no"/>
+                    Seinen Antrag unterstützt <emph>M. Eldersch</emph> durch den Hinweis, daß wegen
+                    der Unmöglichkeit von Neubauten gerade auf diesem Gebiete in nächster Zeit viel
+                    zu tun sein wird; auch der Wohnungsfürsorgefond wird von einer Zentralstelle
+                    (St.A.f.soz.Verwaltung) verwaltet.</p>
+                <p>Der <emph>Vorsitzende</emph> bemerkt hiezu, daß der Ausdruck Wohnungswesen
+                    verschiedenes einschließe, so z. B. Bauordnung, Mieterschutz, etz., Gebiete auf
+                    denen der Wiedereintritt voller Freiheit vielleicht ausgeschlossen ist.</p>
+                <p>Sekt. Rat. <emph>Dr. Mannlicher</emph> stellt fest, daß die Kompetenz für den
+                    Mieterschutz als Bestandteil des Zivilrechtes, nämlich als Modifikation des
+                    Vertragsrechtes, durch den Pkt. 6 des Art. 10 geregelt sei. Alle diesbezüglichen
+                    Maßnahmen gehen vom Staatsamt für Justiz aus.</p>
+                <p>In den Anschauungen der sozialdemokratischen Parteivertreter erblickt <emph>Dr.
+                        Seipel</emph> Zentralisierungstendenzen, die umso weiter gehen, als die
+                    Wohnungsfrage aufs innigste mit lokalen Verhältnissen zusammenhängt, weshalb die
+                    Vollziehung der einschlägigen Bundesgesetze den Ländern gewahrt bleiben muß.
+                    Staatssekretär Dr. Mayr richtet, unterstützt vom Vorred<pb facs="#facs_10"
+                        n="10" xml:id="img_0010" break="no"/>
                     <fw type="pageNum">- 9 -</fw>ner, bei diesem Anlaß an das Subkomitée die
                     Mahnung, in diesem grundlegenden Gesetze keine Details regeln zu wollen, um die
                     Gefahr einer baldigen Aufhebung der Verfassung möglichst zu vermeiden. Das
                     Studium der Schweizer Verfassung lehrt, daß sie fortwährend ergänzt wird, wie es
                     der Zeit entspricht. Man soll sich daher bei Dingen, deren Entwicklung nicht
-                    abzusehen ist, nicht binden. Das Staatsamt für soziale Verwaltung hat seinen
-                    Wirkungskreis genügend verteidigt und war der Anschauung, daß der Fonds
-                    einheitlich verwaltet werden muß, wie es die Bestimmungen des Art. 10, Pkt. 10
-                    ermöglichen. Hinsichtlich der Enteignungsgesetze muß aber den Ländern die
-                    Durchführung usw. überlassen werden, da man ihnen sonst die Rechte nimmt, die
-                    ihnen nach beschlossenen Gesetzen zustehen.</p>
-                <p>Bei der folgenden Abstimmung werden die Anträge Eldersch auf Einfügung des
-                    „Volkswohnungs- und Volkspflegestättenwesens“ in den Art. 10 abgelehnt;
-                    desgleichen der Antrag Dr. Dannebergs bebezüglich des Wohnungswesens.</p>
-                <p>Der Vorsitzende geht hierauf zur Beratung des Art. 10, Pkt. 9 über, in dem Dr.
-                    Danneberg den Besitz, „soweit es sich nicht um land- und forstwirtschaftliche
-                    Arbeiter und Angestellte handelt gestrichen wünscht. Nach sei<pb facs="#facs_11"
-                        n="11" xml:id="img_0011" break="no"/>
+                    abzusehen ist, nicht binden. Das St.A.f.soz.Verwaltung hat seinen Wirkungskreis
+                    genügend verteidigt und war der Anschauung, daß der Fonds einheitlich verwaltet
+                    werden muß, wie es die Bestimmungen des Art. 10, Pkt. 10 ermöglichen.
+                    Hinsichtlich der Enteignungsgesetze muß aber den Ländern die Durchführung usw.
+                    überlassen werden, da man ihnen sonst die Rechte nimmt, die ihnen nach
+                    beschlossenen Gesetzen zustehen.</p>
+                <p>Bei der folgenden Abstimmung werden die Anträge <emph>Eldersch</emph> auf
+                    Einfügung des „Volkswohnungs- und Volkspflegestättenwesens“ in den Art. 10
+                    abgelehnt; desgleichen der Antrag <emph>Dr. Dannebergs</emph> bebezüglich des
+                    Wohnungswesens.</p>
+                <p>Der <emph>Vorsitzende</emph> geht hierauf zur Beratung des Art. 10, Pkt. 9 über,
+                    in dem <emph>Dr. Danneberg</emph> den Beisatz, „soweit es sich nicht um land-
+                    und forstwirtschaftliche Arbeiten und Angestellte handelt" gestrichen wünscht.
+                    Nach sei<pb facs="#facs_11" n="11" xml:id="img_0011" break="no"/>
                     <fw type="pageNum">- 10 -</fw>nen Ausführungen wäre die Formulierung, wie sie
-                    nach Angabe des Staatssekretärs Dr. Mayr auf der Linzer Länderkonferenz und von
-                    den Landwirtschaftsvertretern in der Nationalversammlung dezidiert gefordert
-                    wurde, eine Zersplitterung des gesamten Versicherungswesens. Zahlreiche Arbeiter
-                    sind ja nach der Jahreszeit bald in gewerblichen Betrieben — als Bauarbeiter u.
-                    dgl. — bald in landRübenzuckerfabrikation — beschäftigt. Die
-                    wiederwirtschaftlichenholte Umschreibung in den verschiedenen Krankenkassen
+                    nach Angabe des Staatssekretärs <emph>Dr. Mayr</emph> auf der Linzer
+                    Länderkonferenz und von den Landwirtschaftsvertretern in der Nationalversammlung
+                    dezidiert gefordert wurde, eine Zersplitterung des gesamten Versicherungswesens.
+                    Zahlreiche Arbeiter sind je nach der Jahreszeit bald in gewerblichen Betrieben —
+                    als Bauarbeiter u. dgl. — bald in landwirtschaftlichen — Rübenzuckerfabrikation
+                    — beschäftigt. Die wiederholte Umschreibung in den verschiedenen Krankenkassen
                     würde außerordentliche Kosten verursachen.</p>
-                <p>Dem Hinweise Dr. Seipels, daß Art. 12 hiefür die Rahmengesetzgebung vorsehe, hält
-                    M. Eldersch entgegen, daß das Krankenversicherungsgesetz vom Jahre 1888 die
-                    Regelung der Krankenversicherung für die land- und forstwirtschaftlichen
-                    Arbeiter den Landtagen überlassen habe, die 32 Jahre auf diesem Gebiete nichts
-                    getan haben. Auch der Vorsitzende wendet sich dagegen, daß bisher
-                    reichsgesetzlich geregelte Materien den Ländern überlassen werden, wie z. B. das
-                    Recht der Güterbeamten. In Angelegenheiten des Arbeiterschutzes läßt sich
-                    vielleicht ein Kompromiß erhoffen, so daß eventl. die Angelegenheit von Art. 12
-                    in Art. 11 verlegt werden könnte. Die<pb facs="#facs_12" n="12"
-                        xml:id="img_0012" break="yes"/>
+                <p>Dem Hinweise <emph>Dr. Seipels</emph>, daß Art. 12 hiefür die Rahmengesetzgebung
+                    vorsehe, hält <emph>M. Eldersch</emph> entgegen, daß das
+                    Krankenversicherungsgesetz vom Jahre 1888 die Regelung der Krankenversicherung
+                    für die land- und forstwirtschaftlichen Arbeiter den Landtagen überlassen habe,
+                    die 32 Jahre auf diesem Gebiete nichts getan haben. Auch der
+                        <emph>Vorsitzende</emph> wendet sich dagegen, daß bisher reichsgesetzlich
+                    geregelte Materien den Ländern überlassen werden, wie z. B. das Recht der
+                    Güterbeamten. In Angelegenheiten des Arbeiterschutzes läßt sich vielleicht ein
+                    Kompromiß erhoffen, so daß eventl. die Angelegenheit von Art. 12 in Art. 11
+                    verlegt werden könnte. Die<pb facs="#facs_12" n="12" xml:id="img_0012"
+                        break="yes"/>
                     <fw type="pageNum">- 11 -</fw> land- und forstwirtschaftlichen Arbeiter legen
                     auf diese Regelung besonderen Wert. Auch der Zusammenhang mit der Alters- und
                     Invaliditätsversicherung macht die Einheitlichkeit unentbehrlich. Die Länder
                     würden zugunsten der Städte wegen der Riskengemeinschaft schwer belastet, da die
-                    Arbeiter ihre Jugend in der Stadt das Alter auf dem Lande zu verbringen trachten
-                    und überdies die Lebensdauer bei den landwirtschaftlichen Berufen größer sei,
-                    wie bei den industriellen.</p>
-                <p>Dr. Seipel nimmt dies zur Kenntnis, ohne jedoch die heutige Abstimmung davon
-                    beeinflussen zu lassen, worauf ein Vertagungstrag des Berichtserstatters
-                    angenommen wird.</p>
+                    Arbeiter ihre<del>r</del> Jugend in der Stadt, das Alter auf dem Lande zu
+                    verbringen trachten und überdies die Lebensdauer bei den landwirtschaftlichen
+                    Berufen größer sei, wie bei den industriellen.</p>
+                <p><emph>Dr. Seipel</emph> nimmt dies zur Kenntnis, ohne jedoch die heutige
+                    Abstimmung davon beeinflussen zu lassen, worauf ein <emph>Vertagungstrag</emph>
+                    des Berichtserstatters angenommen wird.</p>
                 <p>Als nächstfolgender Punkt hätte über Antrag der sozialdemokratischen Partei</p>
                 <p>„9 a. Vereins- und Versammlungsrecht; Angelegenheiten der Presse“ zu folgen,
-                    ferner wünscht Dr. Danneberg hier auch aus Pkt. 5 des Art. 25 (Entwurf Dr.
-                    Renner) „Staatsbürgerschaft und Heimatrecht; Personalstandes-Angelegenheiten“
-                    einzureihen.</p>
-                <p>Staatssekretär Dr. Mayr meint, daß der bisherige Wirkungskreis der
+                    ferner wünscht <emph>Dr. Danneberg</emph> hier auch aus Pkt. 5 des Art. 25
+                    (Entwurf Dr. Renner) „Staatsbürgerschaft und Heimatrecht;
+                    Personalstandes-Angelegenheiten“ einzureihen.</p>
+                <p>Staatssekretär <emph>Dr. Mayr</emph> meint, daß der bisherige Wirkungskreis der
                     landesfürstlichen Behörden nunmehr, da die Länder Staaten werden, auch in die
-                    Zuständigkeit der Länder fallen müsse. Eine Anfrage M. Eldersch, was zu
-                    geschehen habe, wenn sich ein Verein über me<choice>
+                    Zuständigkeit der Länder fallen müsse. Eine Anfrage <emph>M. Eldersch</emph>'
+                    was zu geschehen habe, wenn sich ein Verein über me<choice>
                         <sic/>
                         <corr>h</corr>
                     </choice><pb facs="#facs_13" n="13" xml:id="img_0013" break="no"/>
@@ -424,20 +444,24 @@
                     Staatssekretär mit dem Hinweise auf den Art. 13, Abs. 2 („soferne ein Akt der
                     vollziehenden Gewalt für mehrere Länder Rechtswirksamkeit äußern soll, geht die
                     Zuständigkeit für diesen vollziehenden Akt auf den Bund über“.) Die
-                    Staatsbürgerschaft regelt Art. 4: „(1) Jeder Landesbürger ist Angehöriger des
+                    Staatsbürgerschaft regelt Art. 4: („(1) Jeder Landesbürger ist Angehöriger des
                     Bundes.</p>
-                <quote><p>(2) Die Landesbürgerschaft ist an die Heimatberechtigung in der Gemeinde eines
-                    Landes gebunden“.)</p></quote>
-                <p>Prof. Dr. Kelsen hält zwar den Art. 13 für anwendbar, doch müßte er eine andere
-                    Fassung erhalten, weil er jetzt nur auf das Wasserrecht abgestellt sei.</p>
-                <p>Was die Angelegenheiten der Presse anlangt, schlägt Sekt. Rat. Dr. Mannlicher den
-                    Ausdruck „Pressewesen“ vor, da sonst nur die Angelegenheiten der Journalistik
-                    verstanden werden könnten.</p>
-                <p>Der Vorsitzende nimmt diese Anregung zur Kenntnis und hält die Bundeskompetenz
-                    für notwendig, da im Staate das Gegeneinanderwirken verschiedener Kräfte eine
-                    rein parteimäßige Handhabung der einschlägigen Gesetze auf die Dauer unmöglich
-                    mache, anders im Falle der Verländerung, wo im engeren Rahmen der parteimäßige
-                        Einfluß<pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>
+                <quote>
+                    <p>(2) Die Landesbürgerschaft ist an die Heimatberechtigung in der Gemeinde
+                        eines Landes gebunden“.)</p>
+                </quote>
+                <p>Prof. <emph>Dr. Kelsen</emph> hält zwar den Art. 13 für anwendbar, doch müßte er
+                    eine andere Fassung erhalten, weil er jetzt nur auf das Wasserrecht abgestellt
+                    sei.</p>
+                <p>Was die Angelegenheiten der Presse anlangt, schlägt Sekt. Rat. <emph>Dr.
+                        Mannlicher</emph> den Ausdruck „Pressewesen“ vor, da sonst nur die
+                    Angelegenheiten der Journalistik verstanden werden könnten.</p>
+                <p>Der <emph>Vorsitzende</emph> nimmt diese Anregung zur Kenntnis und hält die
+                    Bundeskompetenz für notwendig, da im Staate das Gegeneinanderwirken
+                    verschiedener Kräfte eine rein parteimäßige Handhabung der einschlägigen Gesetze
+                    auf die Dauer unmöglich mache, anders im Falle der Verländerung, wo im engeren
+                    Rahmen der parteimäßige Einfluß<pb facs="#facs_14" n="14" xml:id="img_0014"
+                        break="yes"/>
                     <fw type="pageNum">- 13 -</fw> überwiege. Auch bei einheitlicher Gesetzgebung
                     sei Vollziehung durch die Länder eine Gefahr, da z. B. das objektive Verfahren
                     noch nicht aufgehoben sei, aber derzeit nicht gehandhabt werde; es könne daher
@@ -448,14 +472,15 @@
                     Arbeiterschaft hervorrufen. Der Verband der Metallarbeiter hat zufällig seinen
                     Sitz in Wien, der der Bergarbeiter in Graz, die Organisation selbst erstreckt
                     sich jedoch über das ganze Reich. Wie soll nun das Recht solcher Vereine
-                    länderweise geregelt werden. Staatssekretär Dr. Mayr gibt zu bedenken, daß die
-                    Vertreter der Länder in Salzburg und Linz großen Wert darauf gelegt haben, daß
-                    die in Verhandlung stehenden Materien den Ländern belassen bleibe, wogegen Dr.
-                    Danneberg feststellt, daß dies nicht der Standpunkt der sozialdemokratischen
-                    Ländervertreter gewesen sei.</p>
-                <p>Der Vorsitzende erklärt, so großen Wert er auf die Meinung der Mehrheit der
-                    Ländervertreter lege, dennoch von seiner Stellungsnahme nicht abgehen zu<pb
-                        facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>
+                        länderwei<del>l</del>se geregelt werden. Staatssekretär <emph>Dr.
+                        Mayr</emph> gibt zu bedenken, daß die Vertreter der Länder in Salzburg und
+                    Linz großen Wert darauf gelegt haben, daß die in Verhandlung stehenden Materien
+                    den Ländern belassen bleibe, wogegen <emph>Dr. Danneberg</emph> feststellt, daß
+                    dies nicht der Standpunkt der sozialdemokratischen Ländervertreter gewesen
+                    sei.</p>
+                <p>Der <emph>Vorsitzende</emph> erklärt, so großen Wert er auf die Meinung der
+                    Mehrheit der Ländervertreter lege, dennoch von seiner Stellungsnahme nicht
+                    abgehen zu<pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>
                     <fw type="pageNum">- 14 -</fw> können und bringt die Anträge zur Abstimmung.</p>
                 <p>Die Einschaltung folgender Angelegenheiten in den Art. 10:</p>
                 <list>
@@ -465,100 +490,103 @@
                     <item>Personenstandsangelegenheiten einschließlich des Matrikenwesen und der
                         Namensänderung</item>
                 </list>
-                <p>werden vom Subkomitée abgelehnt, hingegen wird die Aufnahme der Angelegenheiten
-                    der Presse angenommen und zwar wird der Ausdruck „Pressewesen“ in den Punkt 8
-                    des Art. 10 eingeschaltet.</p>
-                <p>Auf Antrag Dr. Dannebergs werden nunmehr Pkt. 11 und 13 durchberaten, Pkt. 10
-                    hingegen einstweilen zurückgestellt, worauf Pkt. 11 nach kurzer Debatte, an der
-                    sich der Berichterstatter, Dr. Danneberg und Staatssekretär Dr. Mayr beteiligen,
-                    im folgenden Wortlaute angenommen wird: „11. Die militärischen Angelegenheiten;
-                    die Kriegsschadensangelegenheiten und die Fürsorge für Kriegsteilnehmer und
-                    deren Hinterbliebene; das Kriegsgräberwesen; die aus Anlaß eines Krieges oder
-                    infolge eines solchen zur Sicherung der einheitlichen Führung der Wirtschaft
+                <p>werden vom Subkomitee abgelehnt, hingegen wird die Aufnahme der Angelegenheiten
+                    der Presse <emph>angenommen</emph> und zwar wird der Ausdruck
+                        „<emph>Pressewesen</emph>“ in den Punkt 8 des Art. 10 eingeschaltet.</p>
+                <p>Auf Antrag <emph>Dr. Dannebergs</emph> werden nunmehr Pkt. 11 und 13
+                    durchberaten, Pkt. 10 hingegen einstweilen zurückgestellt, worauf Pkt. 11 nach
+                    kurzer Debatte, an der sich der <emph>Berichterstatter</emph>, <emph>Dr.
+                        Danneberg</emph> und Staatssekretär <emph>Dr. Mayr</emph> beteiligen, im
+                    folgenden Wortlaute angenommen wird: „11. Die militärischen Angelegenheiten; die
+                    Kriegsschadensangelegenheiten und die Fürsorge für Kriegsteilnehmer und deren
+                    Hinterbliebene; das Kruegsgräberwesen; die aus Anlaß eines Krieges oder infolge
+                    eines solchen zur Sicherung<del>s</del> der einheitlichen Führung der Wirtschaft
                     notwendig erscheinenden Maßnahmen, insbesondere auch hinsichtlich der Versorgung
-                    der Bevölkerung mit Bedarfsgegenständen“;</p>
-                <p>Zu Pkt. 13 bemerkt Sekt.-Rat Dr. Mann<pb facs="#facs_16" n="16" xml:id="img_0016"
-                        break="yes"/>
-                    <fw type="pageNum">- 15 -</fw>licher, daß für die Formulierung dieses Punktes
-                    die Anschauung maßgebend gewesen sei, im Dienstrechte sei auch das
-                    Disziplinarrecht inbegriffen. Da aber die Stilisierung des Entwurfes sehr
+                    der Bevölkerung mit Bedarfsgegenständen;</p>
+                <p>Zu Pkt. 13 bemerkt Sekt.-Rat <emph>Dr. Mann</emph><pb facs="#facs_16" n="16"
+                        xml:id="img_0016" break="no"/>
+                    <fw type="pageNum">- 15 -</fw><emph>licher</emph>, daß für die Formulierung
+                    dieses Punktes die Anschauung maßgebend gewesen sei, im Dienstrechte sei auch
+                    das Disziplinarrecht inbegriffen. Da aber die Stilisierung des Entwurfes sehr
                     schwerfällig klinge, würde es sich empfehlen, ob nicht die Frage der Stellung
                     der Beamtenschaft im Bunde einem eigenen Artikel vorzubehalten wäre. Sowohl von
                     Seiten der Staatsbeamtenschaft als auch von Seiten der Ländervertreter wird Wert
                     daraufgelegt, daß die Freizügigkeit der Beamten gewahrt bleiben muß, nur gegen
                     das Aufoktroyieren eines Beamten nehmen die Länder Stellung. Auch hinsichtlich
                     der Bezüge und Pensionen können sich Schwierigkeiten ergeben.</p>
-                <p>Ein Antrag Dr. Seipels, die Regierung zur Formulierung eines solchen Artikels bis
-                    zur nächsten Sitzung einzuladen, wird hierauf angenommen.</p>
+                <p>Ein Antrag <emph>Dr. Seipels</emph>, die Regierung zur Formulierung eines solchen
+                    Artikels bis zur nächsten Sitzung einzuladen, wird hierauf angenommen.</p>
                 <p><pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>
                     <fw type="pageNum">- 16 -</fw>Bei der Beratung des Punktes 12 verweist der
-                    Berichterstatter auf Dr. Renners Entwurf, der folgendes unter ausschließliche
-                    Bundeskompetenz stellt: „Staats- und Sicherheitspolizei mit Ausnahme der
-                    Ortspolizei, Gendarmerie "). In gleicher Weise spricht sich auch M. Eldersch für
-                    die Einschaltung der Gendarmerie an dieser Stelle aus, denn bei einer
-                    Einschränkung des Verfügungsrechtes, wie sie der Linzer Entwurf mit sich
-                    brächte, gäbe es keinen Rechtszug mehr an das Staatsamt für Inneres. Man müßte
-                    gewärtigen, daß jeder Landeshauptmann jede Gendarmeriebeistellung verweigere. Er
-                    entgegnete dem Einwande Dr. Seipels, daß ja für Notstand und Unruhen das
-                    Verfügungsrecht des Bundes für die zeitweilige Verwendung von Teilen der
-                    Gendarmerie außerhalb des Landesbereiches gewahrt sei, daß einzelne Länder sich
-                    schon jetzt in Angelegenheiten des inneren Dienstes einmengen; er befürchtet bei
-                    Inkrafttreten des Linzer Entwurfes eine Minderung des Wertes der Gendarmerie. Er
-                    wendet sich aber vor allem nachdrücklich dagegen, daß die Sicherheitspolizei,
-                    die überall Landessache ist, in Wien Reichssache sein soll.</p>
-                <p>Dr. Seipel meint, daß man darin nur dem amerikanischen Beispiele folge, während
-                    Dr. Mayr betont, daß die Fassung des vorliegenden Entwurfes mit Zustim<pb
-                        facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>
+                        <emph>Berichterstatter</emph> auf Dr. Renners Entwurf, der folgendes unter
+                    ausschließliche Bundeskompetenz stellt: „Staats- und Sicherheitspolizei mit
+                    Ausnahme der Ortspolizei, Gendarmerie "). In gleicher Weise spricht sich auch M.
+                        <emph>Eldersch</emph> für die Einschaltung der Gendarmerie an dieser Stelle
+                    aus, denn bei einer Einschränkung des Verfügungsrechtes, wie sie der Linzer
+                    Entwurf mit sich brächte, gäbe es keinen Rechtszug mehr an das Staatsamt für
+                    Inneres. Man müßte gewärtigen, daß jeder Landeshauptmann jede
+                    Gendarmeriebeistellung verweigere. Er entgegnete dem Einwande <emph>Dr.
+                        Seipels</emph>, daß ja für Notstand und Unruhen das Verfügungsrecht des
+                    Bundes für die zeitweilige Verwendung von Teilen der Gendarmerie außerhalb des
+                    Landesbereiches gewahrt sei, daß einzelne Länder sich schon jetzt in
+                    Angelegenheiten des inneren Dienstes einmengen; er befürchtet bei Inkrafttreten
+                    des Linzer Entwurfes eine Minderung des Wertes der Gendarmerie. Er wendet sich
+                    aber vor allem nachdrücklich dagegen, daß die Sicherheitspolizei, die überall
+                    Landessache ist, in Wien Reichssache sein soll.</p>
+                <p><emph>Dr. Seipel</emph> meint, daß man darin nur dem amerikanischen Beispiele
+                    folge, während <emph>Dr. Mayr</emph> betont, daß die Fassung des vorliegenden
+                    Entwurfes mit Zustim<pb facs="#facs_18" n="18" xml:id="img_0018" break="no"/>
                     <fw type="pageNum">- 17 -</fw>mung der Fachmänner aus den Staatsämtern gewählt
                     worden sei, um den geltenden Zustand tunlichst aufrecht zu erhalten.</p>
                 <p>Der Berichterstatter bemerkt hiezu, daß nach der Textierung des Art. 10 Pkt. 12
-                    erst ein Gesetz erfließen müßte, wie das Verfügungs recht auszuüben sei. Bei
+                    erst ein Gesetz erfließen müßte, wie das Verfügungsrecht auszuüben sei. Bei
                     Beratung eines solchen Gesetzes werde es an der Zeit sein, über die Einzelheiten
                     des Verfügungsrechtes zu verhandeln. Grundsätzlich bestehe nach der Verfassung
                     ein Verfügungsrecht des Bundes. Im Gegensatz zu dieser Auffassung schließt
-                    jedoch M. Eldersch, daß das Verfügungsrecht ausgenommen und nur bei Notstand und
-                    Unruhen zugestanden ist.</p>
-                <p>Zurückgreifend auf den Renner’schen Entwurf ersucht der Vorsitzende, sich auf das
-                    eine oder andere Prinzip festzulegen, das für Wien ebenso wie für die Länder zu
-                    gelten hätte: entweder verfügt der Landeshauptmann über die Sicherheitsorgane
-                    aller Art oder aber es verfügt darüber der Staatssekretär. Derzeit ist die
-                    Sicherheitspolizei in Wien Sache des Staates und es bedarf eines Gesetzes, um
-                    diesen Zustand zu ändern. Vor einer Behandlung Wiens aber, die ungünstiger wäre,
-                    als die der Länder, müsse gewarnt werden. Was die Formulierung des Entwurfes
-                    anlangt, sei die Fassung „innere Einrichtung, Ausrüstung,<pb facs="#facs_19"
-                        n="19" xml:id="img_0019" break="yes"/>
+                    jedoch <emph>M. Eldersch</emph>, daß das Verfügungsrecht ausgenommen
+                        <del>ist</del> und nur bei Notstand und Unruhen zugestanden ist.</p>
+                <p>Zurückgreifend auf den Renner’schen Entwurf ersucht der <emph>Vorsitzende</emph>
+                    sich auf das eine oder andere Prinzip festzulegen, das für Wien ebenso wie für
+                    die Länder zu gelten hätte: entweder verfügt der Landeshauptmann über die
+                    Sicherheitsorgane aller Art oder aber es verfügt darüber der Staatssekretär.
+                    Derzeit ist die Sicherheitspolizei in Wien Sache des Staates und es bedarf eines
+                    Gesetzes, um diesen Zustand zu ändern. Vor einer Behandlung Wiens aber, die
+                    ungünstiger wäre, als die der Länder, müsse gewarnt werden. Was die Formulierung
+                    des Entwurfes anlangt, sei die Fassung „innere Einrichtung, Ausrüstung<pb
+                        facs="#facs_19" n="19" xml:id="img_0019" break="yes"/>
                     <fw type="pageNum">- 18 -</fw> und Ausbildung der Gendarmerie einschließlich der
                     Dienstvorschriften“ nicht glücklich. Das Ernennungsrecht, das dem Staatssekretär
                     verbleiben müsse, falle unter keinen dieser Ausdrücke. Auch das Verfügungsrecht
                     sei zwar juristisch wohl klargestellt, doch dürfte die praktische Handhabe auf
-                    Schwierigkeiten stoßen.</p>
-                <p>Dr. Seipel hätte nichts gegen eine bessere und umfassendere Stilisierung, kann
-                    sich aber dem „entweder-oder“ des Vorsitzenden nicht anschließen. Seine Partei
-                    hat wiederholt erwogen, die staatliche Sicherheitspolizei auch auf die
-                    Landeshauptstädte auszudehnen, wie z. B. auf Linz. Immerhin müßte die
-                    Stilisierung zum Ausdruck bringen, daß ein willkürliches Verlegen der
-                    Gendarmerie, z. B. eine ausschließliche Dotierung Vorarlbergs mit Wiener
-                    Mannschaft unzulässig ist, und nicht etwa zur Wahlzeit plötzlich die gesamte
-                    Gendarmerie ausgewechselt wird. Wien ist insoferne im Vorteil, daß seine
-                    Polizei, auch wenn sie staatlich ist, an Ort und Stelle bleibt, während die
-                    Gendarmerie in den Ländern nach Gutdünken des Staatssekretärs disloziert
-                    wird.</p>
-                <p>Der Vorsitzende betont, daß sich die Bedenken nur gegen das Recht zum Hinschicken
-                    der Gendarmerie wenden. Das<pb facs="#facs_20" n="20" xml:id="img_0020"
-                        break="yes"/>
-                    <fw type="pageNum">- 19 -</fw> Recht, sie abzuziehen, kann dem Staatssekretär
-                    nicht genommen werden. Übrigens kann mit Zustimmung des Bürgermeisters auch in
-                    Wien Gendarmerie verwendet werden. Über Anregung des Vorsitzenden wird die
-                    Regierung eingeladen, eine Formulierung des Inhaltes vorzulegen, daß die
-                    Gendarmerie grundsätzlich der Kompetenz des Bundes unterstellt bleibt, daß aber
-                    ein eigener Artikel in die Verfassung eingeschaltet wird, der die
+                    Schwierigkeiten stossen.</p>
+                <p><emph>Dr. Seipel</emph> hätte nichts gegen eine bessere und umfassendere
+                    Stilisierung, kann sich aber dem „entweder-oder“ des Vorsitzenden nicht
+                    anschließen. Seine Partei hat wiederholt erwogen, die staatliche
+                    Sicherheitspolizei auch auf die Landeshauptstädte auszudehnen, wie z. B. auf
+                    Linz. Immerhin müßte die Stilisierung zum Ausdruck bringen, daß ein
+                    willkürliches Verlegen der Gendarmerie, z. B. eine ausschließliche Dotierung
+                    Vorarlbergs mit Wiener Mannschaft, unzulässig ist.und nicht etwa zur Wahlzeit
+                    plötzlich die gesamte Gendarmerie ausgewechselt wird. Wien ist insoferne im
+                    Vorteil, daß seine Polizei, auch wenn sie staatlich ist, an Ort und Stelle
+                    bleibt, während die Gendarmerie in den Ländern nach Gutdünken des
+                    Staatssekretärs disloziert wird.</p>
+                <p>Der <emph>Vorsitzende</emph> betont, daß sich die Bedenken nur gegen das Recht
+                    zum Hinschicken der Gendarmerie wenden. Das<pb facs="#facs_20" n="20"
+                        xml:id="img_0020" break="yes"/>
+                    <fw type="pageNum">- 19 -</fw> Recht sie abzuziehen kann dem Staatssekretär
+                    nicht genommen werden. Uebrigens kann mit Zustimmung des Bürgermeisters auch in
+                    Wien Gendarmerie verwendet werden. Ueber Anregung des <emph>Vorsitzenden</emph>
+                    wird die Regierung eingeladen, eine Formulierung des Inhaltes vorzulegen, daß
+                    die Gendarmerie grundsätzlich der Kompetenz des Bundes unterstellt bleibt, daß
+                    aber ein eigener Artikel in die Verfassung eingeschaltet wird, der die
                     Verfügungsgewalt innerhalb eines gewissen gesetzlichen Rahmens sichert; analog
                     müßte auch die Wiener Sicherheitspolizei Bundessache bleiben, nur daß dem
                     Bürgermeister das Verfügungsrecht zustünde, d. h. es müßte in einem eigenen
                     Artikel bestimmt werden, inwieferne der Bürgermeister und der Staatssekretär zu
-                    verfügen hätten. Ein Vertagungsantrag dieses Gegenstandes gelangt sohin zur
-                    Annahme. Hierauf wird um 12 Uhr 30 Min. die Sitzung geschlossen, Zeit und Stunde
-                    der nächsten Verhandlung können derzeit noch nicht festgestellt werden.</p>
+                    verfügen hätten. Ein <emph>Vertagungsantrag</emph> dieses Gegenstandes gelangt
+                    sohin zur <emph>Annahme</emph>. Hierauf wird um 12 Uhr 30 Min. die Sitzung
+                    geschlossen, Zeit und Stunde der nächsten Verhandlung können derzeit noch nicht
+                    festgestellt werden.</p>
             </div>
         </body>
     </text>
