@@ -104,9 +104,9 @@
         <revisionDesc status="structured">
             <change when="2024-11-05" who="#cfh">document automatically created</change>
             <change when="2025-02-22" who="#s_kury">Formatierung beendet</change>
-            <change when="2025-03-16" who="#s_kury">Gegengelesen bis S. 73- Christoph; Fehlt noch:
-                Seitenzahlen überarbeiten; anschließend mit Anzeige der entsprechenden Seiten alles
-                bis einschließlich "Artikel" nochmal gegenlesen</change>
+            <change when="2025-03-16" who="#s_kury">Gegengelesen beendet-> ACHTUNG, fehlt noch:
+                Seitenzahl 2 einfügen- mit Anzeige der entsprechenden Seite alles bis einschließlich
+                "Artikel" nochmal gegenlesen</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -5357,358 +5357,352 @@
                             xml:id="img_0078" break="yes"/></p>
                 </sp>
                 <head>3. Sitzung am 17. Februar 1920.</head>
-                <p>Vorsitzender: Dandeshauptmann Dr. Rintelen. (Beginn der Sitzung um 9 Uhr 15 Min.) </p>
+                <p>Vorsitzender: Landeshauptmann Dr. Rintelen. (Beginn der Sitzung um 9 Uhr 15 Min.) </p>
                 <sp>
                     <speaker>Vorsitzender Dr. Rintelen:</speaker>
-                    <p>Die Sitzung ist eröffnet. Ich erteile bem Herrn Landesrat Schumn das
-                        Wort.</p>
+                    <p> Die Sitzung ist eröffnet. Ich erteile dem Herrn Landesrat Schumy das Wort. </p>
                 </sp>
                 <sp>
-                    <speaker>Landesrat Schumn: </speaker>
-                    <p>Meine sehr geehrten Herren! Bei den Verfaffungskämpfen hat immer die Ffrage
-                        der Landeskammern beziehungsweife des Bundesrates eine befondere Rolle
-                        gefpielt. Ich verweife darauf, dak in diefer Ffrage beifpielsweife bei der
-                        Beratung der Verfafsung der Vereinigten Stadten im Jahre 1787 fehr große
-                        Rämpfe ftattgefunden. haben, fo daß Gefahr vorhanden war, daß das ganze Werk
-                        in die Brüche geht. Gbenfo hat die Beratung der Schweizer Verfaffung
-                        biezüglich des Ständerates ziemlich große Schwierigkeiten bereitet. Wir
-                        dürfen nicht außzeracht lafjen, dak bei uns in Defterreich dieser Gegenstand
-                        deshualb Schwierigkeiten bereitet, weil er in die Machtverhältnisse
-                        wefentlich eingreift. Die Länderkammer wird in jeder Verfassung. felbft wenn
-                        deren Wirkungskreis eingeschränkt ift. einen ziemlichen Ginflußz befitzen.
+                    <speaker>Landesrat Schumy: </speaker>
+                    <p>Meine sehr geehrten Herren! Bei den Verfassungskämpfen hat immer die Frage
+                        der Landeskammern beziehungsweise des Bundesrates eine besondere Rolle
+                        gespielt. Ich verweise darauf, daß in dieser Frage beispielsweise bei der
+                        Beratung der Verfassung der Vereinigten Staaten im Jahre 1787 sehr große
+                        Kämpfe stattgefunden haben, so daß Gefahr vorhanden war, daß das ganze Werk
+                        in die Brüche geht. Ebenso hat die Beratung der Schweizer Verfassung
+                        bezüglich des Ständerates ziemlich große Schwierigkeiten bereitet. Wir
+                        dürfen nicht außeracht lassen, daß bei uns in Oesterreich dieser Gegenstand
+                        deshalb Schwierigkeiten bereitet, weil er in die Machtverhältnisse
+                        wesentlich eingreift. Die Länderkammer wird in jeder Verfassung, selbst wenn
+                        deren Wirkungskreis eingeschränkt ist, einen ziemlichen Einfluß besitzen.
                         Daher betrachten alle Parteien die Gestaltung der Länderkammer vom
-                        Standpunkt des Kräfteverhältnifses. Bei uns fpielt Wieneine große Kolle.
-                        Seien wir nur offen: hätten wir die Wiener FFrage nicht. wäre nicht dieser
-                        mächtige Faktok von zweieinhalb Millionen Ginwohnern, bei einer
-                        Gefamteinwohnerzahl von sechs- bis fechseinhalb Millionen Einwohnern. dann
-                        würde wahrscheinlich diese FFrage weniger Schwierigkeiten bereiten. Die
-                        Bedenken, die gegen den Bundesrat vorgebracht worden find, sind einigermaken
-                        berechtigt. Ich will namentlich zu dem Standpunkt der Minorität fagen, daß
-                        durch die indirckte Wahl das Gewicht der Minorität verkleinert wird. Gsliegt
-                        eine Verkleinerung insbesonders darin, daß eine geringe Anzahl von
-                        Abgeordneten eines Landes allenfalls nicht zur Vertretung gelangen knn.
-                        Beispielsweife würde im Kärntner Landtag mit ungefähr 40 Mitgliedern,
-                        wahrscheinlich auf eine Minorität von fünf bis jechs Abgeordneten bei
-                        Entfendung von nur drei Vertretern keine Rückficht genommen werden können.
-                        Daweben ist auch zu berückfichtigen, daß die Kräfteverschiebung, die da
-                        ftattgefunden hat, auch nachteilige Ffolgen haben kann. Ich denke mir die
-                        Sache in dem Sinne, daß etwa much die einzelnen Berufe einen Nachteil
-                        verspüren könnten. Gs hat schon der Herr Nationalrat Gröger darauf
-                        hingewiefen, daß allenfalls die Arbeitergefetz gebung nachteilig beeinflußt
+                        Standpunkt des Kräfteverhältnisses. Bei uns spielt Wien einen große Rolle.
+                        Seien wir nur offen: hätten wir die Wiener Frage nicht, wäre nicht dieser
+                        mächtige Faktor von zweieinhalb Millionen Einwohnern, bei einer
+                        Gesamteinwohnerzahl von sechs- bis sechseinhalb Millionen Einwohnern, dann
+                        würde wahrscheinlich diese Frage weniger Schwierigkeiten bereiten. Die
+                        Bedenken, die gegen den Bundesrat vorgebracht worden sind, sind einigermaßen
+                        berechtigt. Ich will namentlich zu dem Standpunkt der Minorität sagen, daß
+                        durch die indirekte Wahl das Gewicht der Minorität verkleinert wird. Es
+                        liegt eine Verkleinerung insbesondere darin, daß eine geringe Anzahl von
+                        Abgeordneten eines Landes allenfalls nicht zur Vertretung gelangen kann.
+                        Beispielsweise würde im Kärntner Landtag mit ungefähr 40 Mitgliedern,
+                        wahrscheinlich auf eine Minorität von fünf bis sechs Abgeordneten bei
+                        Entsendung von nur drei Vertretern keine Rücksicht genommen werden können.
+                        Daneben ist auch zu berücksichtigen, daß die Kräfteverschiebung, die da
+                        stattgefunden hat, auch nachteilige Folgen haben kann. Ich denke mit die
+                        Sache in dem Sinne, daß etwa auch die einzelnen Berufe einen Nachteil
+                        verspüren könnten. Es hat schon der Herr Nationalrat Gröger darauf
+                        hingewiesen, daß allenfalls die Arbeitergesetzgebung nachteilig beeinflußt
                         werden könnte. Wenn ich auch hier allerdings nicht das im Auge habe, aber
-                        die Befürchtung ift für die agrarische Gefetzgebung nicht unsbegründet. Ich
-                        fürchte, daß es gerade vom Standpunkte der agrarischen Gefekgebung fchlecht
-                        fein könnte, wenn die Landeskammern entscheiden würden. Ueberhaupt ift es
-                        erwünfcht, wenn wir bei diesem Anlaßz auch einmal über die Ffrage
-                        nachdenken, ob hier nicht an Stelle des Bundesrates eine Ständevertretung zu
-                        setzen wäre. Auf die Gefahr hin, daß der Gedanke rechtionär genannt wird.
-                        erachte ich mich für verpflichtet, diesen Gedanken hier einmal aufzuwerfen.
-                        Die Befeke werden im Bundestag und im Bundesrat wahrscheinlich nur von
-                        politiichen Gesichtspunkten aus betrachtet werden. Es fcheint uns aber
-                        imumerhin zwech-<pb facs="#facs_79" n="79" xml:id="img_0079" break="yes"/>74
-                        mäßig, wenn jede einzelne Gefekesvorlage auch von rein beruflichen
-                        beziehungsweise jachlichen Standpunkt nus erwogen wird. Auch erscheint mir
+                        die Befürchtung ist für die agrarische Gesetzgebung nicht unbegründet. Ich
+                        fürchte, daß es gerade vom Standpunkte der agrarischen Gesetzgebung schlecht
+                        sein könnte, wenn die Landeskammern entscheiden würden. Ueberhaupt ist es
+                        erwünscht, wenn wir bei diesem Anlaß auch einmal über die Frage nachdenken,
+                        ob hier nicht an Stelle des Bundesrates eine Ständevertretung“ zu setzen
+                        wäre. Auf die Gefahr hin, daß der Gedanke reaktionär genannt wird, erachte
+                        ich mich für verpflichtet, diesen Gedanken hier einmal aufzuwerfen. Die
+                        Gesetze werden im Bundestag und im Bundesrat wahrscheinlich nur von
+                        politischen Gesichtspunkten aus betrachtet werden. Es scheint uns aber
+                        immerhin zweck-<pb facs="#facs_79" n="79" xml:id="img_0079" break="yes"
+                        />mäßig, wenn jede einzelne Gesetzesvorlage auch von rein beruflichen
+                        beziehungsweise fachlichen Standpunkt aus erwogen wird. Auch erscheint mir
                         zweckmäßig, daß nicht immer allein die politische Machtgruppierung zur
-                        Geltung gelange, sondern daß auch die einzelnen Verufe nach ihrer Stärke und
-                        nach ihren Machtverhältniffen zum Ausdruch kommenIch denke dabei auch noch
-                        daran, daß gerade die berufliche Vertretung allenfills die Möglichkeit
-                        bieten würde. die einzelnen Räte in der Verfaffung gefetzlich zu verankern.
-                        Ich weiß zwar, daß eine Strömung befteht, die Näte in der Verfassung nicht
-                        festzulegen und ihnen keinen gefetzlichen Wirkungskreis feftzufeken. Ullein,
-                        ich meine, es ift doch vom Standpunkt der Konfolidierung unjeres
-                        Staatswefens und der Verwaltung erwünfcht, daß wir diese Blüte der neuen
-                        politischen Entwicklung auf ein Wirkungsgesiet verweisen, und da glaube ich,
-                        wären insbefondere die Verufskammern die geeigneten Stellen, um ihnen
-                        angemeffenen Wirkungskreis zuzuweien. Ich jehe aber undererseits ein, daß
-                        die Verhandlungen in der Ffrage der Grrichtung der Länderkammern schon zu
-                        weit vorgeschritten find. um noch an eine Verwirklichung diefer Idee zu
-                        fchreiten. Ich fehe auch ein, daß die Verufsvertretung nicht geeignet fein
-                        würde, alle Gefeke richtig zu beurteilen, weil nicht alle Befeke eine nur
+                        Geltung gelange, sondern daß auch die einzelnen Berufe nach ihrer Stärke und
+                        nach ihren Machtverhältnissen zum Ausdruck kommen. Ich denke dabei auch noch
+                        daran, daß gerade die berufliche Vertretung allenfalls die Möglichkeit
+                        bieten würde, die einzelnen Räte in der Verfassung gesetzlich zu verankern.
+                        Ich weiß zwar, daß eine Strömung besteht, die Räte in der Verfassung nicht
+                        festzulegen und ihnen keinen gesetzlichen Wirkungskreis festzusetzen.
+                        Allein, ich meine, es ist doch vom Standpunkt der Konsolidierung unseres
+                        Staatswesens und der Verwaltung erwünscht, daß wir diese Blüte der neuen
+                        politischen Entwicklung auf ein Wirkungsgebiet verweisen, und da glaube ich,
+                        wären insbesondere die Berufskammern die geeigneten Stellen, um ihnen
+                        angemessenen Wirkungskreis zuzuweisen. Ich sehe aber andererseits ein, daß
+                        die Verhandlungen in der Frage der Errichtung der Länderkammern schon zu
+                        weit vorgeschritten sind, um noch an eine Verwirklichung dieser Idee zu
+                        schreiten. Ich sehe auch ein, daß die Berufsvertretung nicht geeignet sein
+                        würde, alle Gesetze richtig zu beurteilen, weil nicht alle Gesetze eine nur
                         wirtschaftliche Tragweite haben, sondern auch in anderen Belangen von
-                        Wichtigkeit fein können. Geftern hat der Delegierte Herr Professor
-                        Mittelbarger den Standpunkt vertreten, daß jedes Land mit einer gleichen
-                        Anzahl von Stimmen vertreten ein foll und hat dies damit begründet, daß
-                        diese gleichmäßige Vertretung demokratisch ift. Ich pflichte dem inn Prinzip
-                        bei: es ist durchaus demokratisch, wenn jedes Gebiet in gleicher Zahl
-                        vertreiten ift. Wir dürfen nicht auferacht laffen, daß wir hier zwei
-                        verschiedene Größen beionders berückfichtigen müfsen; die eine Bröke ist
-                        Wien. die anderen Größzen sind die drei großen Länder Steiermuark,
-                        Niederöfterreich und Oberöfterreich, gegenüber den kleineren Ländern und es
-                        ift zu begrüken, wenn insbesondere Wien fagt, daß es sich gegen eine etwaige
+                        Wichtigkeit sein können. Gestern hat der Delegierte Herr Professor
+                        Mittelberger der Standpunkt vertreten, daß jedes Land mit einer gleichen
+                        Anzahl von Stimmen vertreten sein soll und hat dies damit begründet, daß
+                        diese gleichmäßige Vertretung demokratisch ist. Ich pflichte dem im Prinzip
+                        bei; es ist durchaus demokratisch, wenn jedes Gebiet in gleicher Zahl
+                        vertreten ist. Wir dürfen nicht außeracht lassen, daß wir hier zwei
+                        verschiedene Größen besonders berücksichtigen müssen; die eine Größe ist
+                        Wien, die anderen Größen sind die drei großen Länder Steiermark,
+                        Niederösterreich und Oberösterreich, gegenüber den kleineren Ländern und es
+                        ist zu begrüßen, wenn insbesondere Wien sagt, daß es sich gegen eine etwaige
                         Majorisierung durch die kleinen wehren müsse. Ich bin mir vollständig dessen
-                        bewußt, daß eine gleichftarke Vertretung aller Bestandteile unferes
-                        Bundesftaates nicht erreichbar ift und es dürfte daher zweckmäßig sein, daß
-                        man auf die Gröken- und auf die Kräfteverhältnisse einigermaßen Rücksicht
-                        nimmt, wobei ich ausdrücklich bemerke, diaß die Grofen die Kleinen und die
-                        Kleinen die Grofen erdrücken und die Angft vor Wien einerfeits und die
-                        Giferfucht der Wiener auf ihne tatfächliche Bevölkerungsftärke und auf ihre
-                        politische und wirtschaftliche Macht andererseits. Ich glambe, es läßzt sich
-                        in der Sache wohl ein Ausweg finden. Der Delegierte Kunchak hat geftern
-                        bereits in Umriffen einen Vorschlag gemacht. Detr sich mit meiner Unfchauung
-                        durchaus decht. Die Vorlage ift etwas willkürlich geraten. Im Urtikel 25
-                        fehren wir, diß jedem Lande drei Vertreter zugedacht find, je ein Vertreter
-                        mehr für die größeren LänderOberöfterreich und Steiekmark und für Wien- und
-                        Niederöfterreich um zwei mehr. Wenngleich wir letzten Gndes so ziemlich auf
-                        dasfelbe hinauskommen wie bei der Aufftellung eines prinzipiellen
-                        Schlüffels, so bleibt die Sache doch immer willkürlich und es wäre
-                        vorzuziehen, daß man die Machtverhältnifse nach der Bevölkerungsftärke
+                        bewußt, daß eine gleichstarke Vertretung aller Bestandteile unseres
+                        Bundesstaates nicht erreichbar ist und es dürfte daher zweckmäßig sein, daß
+                        man auf die Größen- und auf die Kräfteverhältnisse einigermaßen Rücksicht
+                        nimmt, wobei ich ausdrücklich bemerke, daß die Großen die Kleinen und die
+                        Kleinen die Großen erdrücken und die Angst vor Wien einerseits und die
+                        Eifersucht der Wiener auf die tatsächliche Bevölkerungsstärke und auf ihre
+                        politische und wirtschaftliche Macht andererseits. Ich glaube, es läßt sich
+                        in der Sache wohl ein Ausweg finden. Der Delegierte Kunschak hat gestern
+                        bereits in Umrissen einen Vorschlag gemacht, der sich mit meiner Anschauung
+                        durchaus deckt. Die Vorlage ist etwas willkürlich geraten. Im Artikel 25
+                        sehen wir, daß jedem Lande drei Vertreter zugedacht sind, je ein Vertreter
+                        mehr für die größeren Länder Oberösterreich und Steiermark und für Wien und
+                        Niederösterreich um zwei mehr. Wenngleich wir letzten Endes so ziemlich auf
+                        dasselbe hinauskommen wie bei der Aufstellung eines prinzipiellen
+                        Schlüssels, so bleibt die Sache doch immer willkürlich und es wäre
+                        vorzuziehen, daß man die Machtverhältnisse nach der Bevölkerungsstärke
                         berechnet, wobei ich natürlich, um mit Prof. Mittelberger zu sprechen, nicht
-                        an eine Beteiligung im Sinne einer Uktiengefellschaft denke, sondern
-                        Rautelen geschaffen. wissen will, daß eine zu weit gehende Majoriierung
-                        nicht platzgreifen kann. Ich erkube mir daher, den Antrag zu ftellen, zu
-                        Urt. 25, al. 1: „In den Bundsksrat entfende jeder Landtag drei Mitglieder,
-                        Länder über 400.000 Ginwohner entfenden für je weitere 400.000. wobei der
-                        Ueberschuß, der der Einwohnerzahl des kleinften Landes gleichkommt, voll
+                        an eine Beteiligung im Sinne einer Aktiengesellschaft denke, sondern
+                        Kautelen geschaffen wissen will, daß eine zu weit gehende Majorisierung
+                        nicht platzgreifen kann. Ich erlaube mir daher, den Antrag zu stellen zu
+                        Art. 25, al. 1: „In den Bundesrat entsende jeder Landtag drei Mitglieder,
+                        Länder über 400.000 Einwohner entsenden für je weitere 400.000, wobei der
+                        Ueberschuß, der der Einwohnerzahl des kleinsten Landes gleichkommt, voll
                         gerechnet wird. Die gesamte Mitgliederzahl eines Landes darf jedoch ein
-                        Fünftel aller Stimmen nicht üerschreiten.“ Der letzte Passus ist ein
-                        Analogon zum Art. 61 der deutschen Verfaffung und es ift ein Fünftel
-                        infoferne angemessen, als voraussichtlich etwa 35 Delegierte in den
-                        Bundesrat entfendet werden, und bei diefem Kräfteverhältnis nach diesem
-                        Schlüffel auf Wien sieben Mandäté Fällen würden. Es würde, also der
-                        Schlüffel in diesem Ffalle nicht überschritten werden. Ich lege ausdrücklich
-                        Wert darauf, daß diese Majorisierungsklaufel ent-<pb facs="#facs_80" n="80"
-                            xml:id="img_0080" break="yes"/>halten fei. damit nach außzenhin zum
-                        Ausdruch komme. man habe der etwaigen fpäteren Majorisierung der kleinen
-                        Länder durch die Stadt Wien einen Damm gefekt dadurch, daß man erklärt, mehr
-                        als ein Fünftel aller Stimmen dürfen einem Lunde nicht zukommen. Gs ift im
-                        Art. 25 im erften Abfak noch davon die Rede, daß der Bundestag die Dauer
-                        einer Sitzungsperiode habe. Ich gebe zu bedenken, daß ein jährlicher Wechfel
-                        der Bundesratsmitglieder keineswegs im Intereffe einer konfinuierlichen
-                        ftetigen Arbeit gelegen ift. Wir wünschen überall in der Verwaltung, daß ein
-                        nicht zu oftmaliger Wechfel ftattfindet und stehen auch in der Ffrage des
-                        Bundespräfidenten auf dem Standpunkt, daß derfelbe nicht jedes Jahr
-                        gewechfelt wird, damit er sich in die Materie einarbeiten und auf dem
-                        Laufenden bleiben kann. ch würde daher, ohne einen Untrag zu ftellen.
-                        empfehlen, den Gedanken zu erwägen. ob nicht die Ffunktionsdauer, die
-                        GeJetzgebungsperiode des Bundesrates, ebenfo wie es beim Bundestag der Fall
-                        ift, auf vier Jahre zu erftreben wäre. Ich konnte keinen definitiven Antrag
-                        ftellen, weil wir in Kollision kommen könnten mit der Gefetzgebungsperiode
-                        der einzelnen Bandtage. Und es wiro Sache des Herrn Staatsfekretärs Dr.
-                        Manrsein. aus diefer Schwierigkeit herauszukommen. Ich bitte daher am
-                        Schluffe der Verhanslungen meinen Antrag zur Abstimmung zu bringen. </p>
+                        Fünftel aller Stimmen nicht überschreiten.“ Der letzte Passus ist ein
+                        Analogon zum Art. 61 der deutschen Verfassung und es ist ein Fünftel
+                        insoferne angemessen, als voraussichtlich etwa 35 Delegierte in den
+                        Bundesrat entsendet werden, und bei diesem Kräfteverhältnis nach diesem
+                        Schlüssel auf Wien sieben Mandate fallen würden. Es würde also der Schlüssel
+                        in diesem Falle nicht überschritten werden. Ich lege ausdrücklich Wert
+                        darauf, daß diese Majorisierungsklausel ent-<pb facs="#facs_80" n="80"
+                            xml:id="img_0080" break="yes"/>halten sei, damit nach außenhin zum
+                        Ausdruck komme, man habe der etwaigen späteren Majorisierung der kleinen
+                        Länder durch die Stadt Wien einen Damm gesetzt dadurch, daß man erklärt,
+                        mehr als ein Fünftel aller Stimmen dürfen einem Lande nicht zukommen. Es ist
+                        im Art. 25 im ersten Absatz noch davon die Rede, daß der Bundestag die Dauer
+                        einer Sitzungsperiode habe. Ich gebe zu bedenken, daß ein jährlicher Wechsel
+                        der Bundesratsmitglieder keineswegs im Interesse einer kontinuierlichen
+                        stetigen Arbeit gelegen ist.“ Wir wünschen überall in der Verwaltung, daß
+                        ein nicht zu oftmaliger Wechsel stattfindet und stehen auch in der Frage des
+                        Bundespräsidenten auf dem Standpunkt, daß derselbe nicht jedes Jahr
+                        gewechselt wird, damit er sich in die Materie einarbeiten und auf dem
+                        Laufenden bleiben kann. Ich würde daher, ohne einen Antrag zu stellen,
+                        empfehlen, den Gedanken zu erwägen, ob nicht die Funktionsdauer, die
+                        Gesetzgebungsperiode des Bundesrates, ebenso wie es beim Bundestag der Fall
+                        ist, auf vier Jahre zu erstreben wäre. Ich konnte keinen definitiven Antrag
+                        stellen, weil wir in Kollision kommen könnten mit der Gesetzgebungsperiode
+                        der einzelnen Landtage. Und es wird Sache des Herrn Staatssekretärs Dr. Mayr
+                        sein, aus dieser Schwierigkeit herauszukommen. Ich bitte daher im Schlusse
+                        der Verhandlungen meinen Antrag zur Abstimmung zu bringen. </p>
                 </sp>
                 <sp>
-                    <speaker>Delegierter THSt. Dr. Schumacher: </speaker>
-                    <p>Meine hochverehrten Harren! Ich habe namens der Mehrheitsparteien fim Tiroler
-                        Landtag zu erklären, daß wir vollkommen auf dem Standpunkt ftehen. der
-                        geftern vom Herrn ProfefsorDr. Mittelberger hier vertreten und begründet
-                        worden ift. Man mag diejen Standpunkt einen intranfigenten nennen, man wird
-                        aber zugeben müffen, daß es ein konfequenter Standpunkt ift. Wir wollen, daß
-                        die Länder in der Länderkammer zu Wort kommen und deshalbgleichberechtiat
-                        feien. Diesem Standpunkt fteht der andere gegenüber. der geftern von einem
-                        Herrn von dieser Seite betont worden ift, daß nämlich die
-                        fozialdemokratische Purtei abfolüt nicht in der Lage fei. irgend welche
+                    <speaker>Delegierter LHSt. Dr. Schumacher: </speaker>
+                    <p>Meine hochverehrten Herren! Ich habe namens der Mehrheitsparteien im Tiroler
+                        Landtag zu erklären, daß wir vollkommen auf dem Standpunkt stehen, der
+                        gestern vom Herrn Professor Dr. Mittelberger hier vertreten und begründet
+                        worden ist. Man mag diesen Standpunkt einen intransigenten nennen, man wird
+                        aber zugeben müssen, daß es ein konsequenter Standpunkt ist. Wir wollen, daß
+                        die Länder in der Länderkammer zu Wort kommen und deshalb gleichberechtigt
+                        seien. Diesem Standpunkt steht der andere gegenüber, der gestern von einem
+                        Herrn von dieser Seite betont worden ist, daß nämlich die
+                        sozialdemokratische Partei absolut nicht in der Lage ist, irgend welche
                         Konzession zu machen. Es ist nun sehr bedauerlich, daß diese beiden
                         Standpunkte sich nicht vereinigen lassen. Denn so kommen wir hier nicht
-                        weiter und wir find doch zufammengekommen, so weniaftens faffe ich den Zwech
-                        der Länderkonferenz zum guten Teil auf. um uns gegeneitig in dieser Frage
+                        weiter und wir sind doch zusammengekommen, so wenigstens fasse ich den Zweck
+                        der Länderkonferenz zum guten Teil auf, um uns gegenseitig in dieser Frage
                         weiter zu helfen und damit in dem Verfassungswerk überhaupt weiter zu
-                        kommen. Nun möchte ich aber doch nicht alle Höffnung, duß wir zu einer
-                        Unnäherung kommen, fallen laffen. Ich verweife darauf, daß die Ffrage einer
-                        zweiten Kammer mit den Herren von der fozialdemokratischen Partei doch noch
+                        kommen. Nun möchte ich aber doch nicht alle Hoffnung, daß wir zu einer
+                        Annäherung kommen, fallen lassen. Ich verweise darauf, daß die Frage einer
+                        zweiten Kammer mit den Herren von der sozialdemokratischen Partei doch noch
                         besprochen werden könnte, nachdem einer ihrer Parteiführer, eigentlich eines
-                        ihrer erften Parteihäupter. der Herr Präfident Seik, in einer Besprechung
-                        mit dem Herrn StaatsJekretär Dr. Manr. wie wir aus dem amtlichen Protokoll
-                        wiffen, erklärt hat, daß die zweite Kiammer eine instematische und nütiliche
-                        Einrichtung fei. Sier hätten wir aljo bereits einen Anknüpfungspunkt
-                        gefunden. Ich möchte noch auf einen zweiten Unknüpfungspunkt verweifen, den
-                        heute auch schon der Herr Landesrat Schumn angedeutet hat. Der Herr
-                        Abgeordnete Gruber hat geftern die Befürchtung ausgesprochen, daß bei dem
-                        Beftande der Pönderkammern der Arbeiterfchukgefekgebung eine Gefiahr drohen
-                        könnte. Ich möchte darauf aufmerksam machen, dak schon nach dem hier
-                        vorliegenden Entwurf gewiffe Gegenftände verlassungsrechtlich feftgelegt
-                        fird, bei denen die Länderkammern nicht darein zu reden haben. Das wäre zum
-                        Beispiel die wichtige Entscheidung über Krieg und Ffrieden, das wäre das
-                        ganze Budgetrecht des Staates, das wäre das Steuerrecht des Staates. Wenn
-                        der HerrAbgeondnete Gruber jlagte, die Arbeiterschukgefekgebung fei dadurch
-                        gefährdet fo ließe sich ja vielleicht darüber reden. daß der Kreis
-                        derLänderangelegenheiten, welcher von der Zustimmung der Länderkammer
-                        abhängt, ausgenommen fein foll. und nur vom Bundesratallein zu entfcheiden
-                        fei, umd daß diese Ungelegenheit ausgenommen wird und die
-                        Arbeiterchukgefekgebung unter diejenigen Objekte aufgenommen werde. Sie
-                        verfaffungsrechtlich von der Zustimmung der Länderkammer unabhängig und
-                        überhrsupt ider Verhandlung bei der Länderkammer entzogen find. Damit wären
-                        wir wieder einen Schritt uns näher gekommen. Ein anderer Weg der
-                            Unnäherung<pb facs="#facs_81" n="81" xml:id="img_0081" break="yes"/>76
-                        ist schon geftern vom Herrn Aba. Kunschak bekont und heute vom Herrn Dr.
-                        Schumn durch einen formellen Untrag vertreten worden. Gs handelt sich hier
-                        darum, zu der gleichmäßigen Vertretung der Länder, ddie ihnen zukommen soll,
-                        noch für die Länder mit stärkerer Bevölkerung einen entsprechenden Zusschlag
-                        an Mandaten zu gewähren. Ich muß gestehen, daß uns der Weg der weniger
-                        fumpathische ift als jener, den ich früher angezeigt habe, und zwar aus dem
-                        Grunde, weil auf dieje Weife der Charakter dder Länderkammer doch wllzu
-                        ftark vorwischt wird. Wir stehen auf dem Standpunkt, daß die Länder in der
-                        Länderkammer als felbständig zu betrachten find und dahher gleiches
-                        Stimmrecht haben follen. Mit dem Untrage Schumn wird aber dieses Prinzip
-                        idurchbrochen und es wird auch in der Länderkammer das Majoritätsprinzip
-                        eingeführt, wenigstens teilweise bis zu einem gewissen Maße. Allein, wenn
-                        auch damit unseren Grundfätzen vollständie Gewalt angetan wird, fo halte ich
-                        doch dafür. daß im Interefse der Unnäherungider Barteien und um der großen
-                        frage der Verfafsung weiter zu helfen, wir uns zu einer Konzession werden
-                        bequemen müffen und deshalb habe ich Die Ehre zu erklären, daß wir Tiroler
-                        in folgender Weife in der vorliegenden Ffrage erklären, wir find
-                        grundsätzlich für die Länderkammer mit gleicher Befchickung aus allen
-                        Ländern. Kommt eine folche nicht zustande, so ist der Bundesrat im Sinne des
-                        Antrages Schumn das Ueukerfte, womit wir uns abfinden können. </p>
+                        ihrer ersten Parteihäupter, der Herr Präsident Seitz, in einer Besprechung
+                        mit dem Herrn Staatssekretär Dr. Mayr, wie wir aus dem amtlichen Protokoll
+                        wissen, erklärt hat, daß die zweite Kammer eine systematische und nützliche
+                        Einrichtung sei. Hier hätten wir also bereits einen Anknüpfungspunkt
+                        gefunden. Ich möchte noch auf einen zweiten Anknüpfungspunkt verweisen, den
+                        heute auch schon der Herr Landesrat Schumy angedeutet hat. Der Herr
+                        Abgeordnete Gruber hat gestern die Befürchtung ausgesprochen, daß bei dem
+                        Bestande der Länderkammern der Arbeiterschutzgesetzgebung eine Gefahr drohen
+                        könnte. Ich möchte darauf aufmerksam machen, daß schon nach dem hier
+                        vorliegenden Entwurf gewisse Gegenstände verfassungsrechtlich festgelegt
+                        sind, bei denen die Länderkammern nicht darein zu reden haben. Da wäre zum
+                        Beispiel die wichtige Entscheidung über Krieg und Frieden,“ das wäre das
+                        ganze Budgetrecht des Staates,“ das wäre das Steuerrecht“ des Staates. Wenn
+                        der Herr Abgeordnete Gruber sagte, die Arbeiterschutzgesetzgebung sei
+                        dadurch gefährdet, so ließe sich ja vielleicht darüber reden, daß der Kreis
+                        der Länderangelegenheiten, welcher von der Zustimmung der Länderkammer
+                        abhängt, ausgenommen sein soll, und nur vom Bundesrat allein zu entscheiden
+                        sei, und daß diese Angelegenheit ausgenommen wird und die
+                        Arbeiterschutzgesetzgebung unter diejenigen Objekte aufgenommen wurde, die
+                        verfassungsrechtlich von der Zustimmung der Länderkammer unabhängig und
+                        überhaupt der Verhandlung bei der Länderkammer entzogen sind. Damit wären
+                        wir wieder einen Schritt uns näher gekommen. Ein anderer Weg der Annäherung
+                            <pb facs="#facs_81" n="81" xml:id="img_0081" break="yes"/>ist schon
+                        gestern von Herrn Abg. Kunschak betont und heute vom Herrn Dr. Schumy durch
+                        einen formellen Antrag vertreten worden. Es handelt sich hier darum, zu der
+                        gleichmäßigen Vertretung der Länder, die ihnen zukommen soll, noch für die
+                        Länder mit stärkerer Bevölkerung einen entsprechenden Zuschlag an Mandaten
+                        zu gewähren. Ich muß gestehen, daß uns der Weg der weniger sympathische ist
+                        als jener, den ich früher angezeigt habe, und zwar aus dem Grunde, weil auf
+                        diese Weise der Charakter der Länderkammer doch allzu stark verwischt wird.
+                        Wir stehen auf dem Standpunkt, daß die Länder in der Länderkammer als
+                        selbständig zu betrachten sind und daher gleiches Stimmrecht haben sollen.
+                        Mit dem Antrage Schumy wird also dieses Prinzip durchbrochen und es wird
+                        auch in der Länderkammer das Majoritätsprinzip eingeführt, wenigstens
+                        teilweise bis zu einem gewissen Maße. Allein, wenn auch damit unseren
+                        Grundsätzen vollständig Gewalt angetan wird, so halte ich doch dafür, daß im
+                        Interesse der Annäherung der Parteien und um der großen Frage der Verfassung
+                        weiter zu helfen, wir uns zu einer Konzession werden bequemen müssen und
+                        deshalb habe ich die Ehre zu erklären, daß wir Tiroler in folgender Weise in
+                        der vorliegenden Frage erklären, wir sind grundsätzlich für die Länderkammer
+                        mit gleicher Beschickung aus allen Ländern. Kommt eine solche nicht
+                        zustande, so ist der Bundesrat im Sinne des Antrages Schumy das Aeußerste,
+                        womit wir uns abfinden können. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Dr. Danneberg:</speaker>
-                    <p>Ich glaube, daß die Deblatte, die wir hier abführen, außerordentlich
-                        fruchtbar ift. weil hier das erftemal Gelegenheit gehoten ift, den
-                        Stamdpunkt der Herren aus den einzelnen Ländern im Detail kennen zu lernen.
-                        Gs ift nur bediauerlich, daß infolge der Feftjetung der Redezeit auf zehn
-                        Minuten, gerade diese außerordentlich wichtige Ffrage nur so knapp erörtert
-                        werden kann. Geftatten Sie mir daher, daß ich nur ganz kurz unjeren
-                        Standpunkt in der Ungelegenheit noch einmal durlege. Daß das Problem der
-                        Länderkammer oder des Bunderates ein außzerordentlich kompliziertes ift, das
-                        zeigt schon die Fülle ider Unträge und Anregungen, die wir hier in diefem
-                        Haufe bei der kurzen Debatte vernommen haben. Wir haben mancherleiStandpunkt
-                        hier kennen gelernt, und mancherlei Kompromißzvorschläge erhalten; dem
-                        gegenüber, meine Herren, möchte ich folgendes feftstellen: Die Ffrage der
-                        Länderkammer wird von den Sozialdemokraten betrachtet unterdem
-                        Gefichtspunkte der Demokratie. In einem demokratischen Staate müffen die
-                        Körperschften, wdie über die Gefeßgebung zu entscheiden haben, fo
-                        eingerichtet fein, daß der Wille des Volkes zum Ausdruche kommtDas geschieht
-                        in den Ländern durch die Landtage, die auf Grund des gleichen Wahlrechtes
-                        gewählt find, das geschieht für den ganzen Staat durch die auf eben
-                        derfelben Grundlage gewählte Nationalversammlung. Wenn eine
-                        Kompetenzverteilung in einem Bundesftadte zwischen Staat und Länder erfolgt,
-                        so entscheiden die Länder nach idemokratischen Grundfätzen über die
-                        Ungelegenheiten die ihnen bei der Kompetenzverteilung übertragen worden
-                        find. Wenn wir aber für die Entscheidungen, die für den ganzen Staat zu
-                        treffen sind, neben der Nationalversammlung noch eine aidere Körperschaft
-                        fekzen, so würde hier der Wille der Mehrheit nicht zum Ausdrucke kommen,
-                        wenn eine Körperschhaft nach irgend einem Softem konftruiert würde, welche
-                        diesen Willen zum Ausdtruche nicht gelangen läßt. Und eine Länderkammer in
-                        dem Sinne wie fie Prof. Mittelberger vorgeschlagen hat, könnte den Willen
-                        des Volkes für den ganzen Staat nicht so zum Ausdruch kommen laffen. Wenn
-                        dagegen eingewendet wird, daß die Länder ja Individualitäten feien, die
-                        einander gleichgeftellt werden müffen, wie groß auch immer sie fein mögen,
-                        so muß doch gefagt werden, daß es sich hier bei der Gefehgebung, die dem
-                        Burde bleiben joll, um Ungelegenheiten handelt, die nicht die Länder als
-                        Individislitäten angehen, sondern die Geamtbevölkerung des Staates, fo daß
-                        alljo nicht die Individualitäten ider Länder abzustimmen. haben, sondern die
-                        Gefamtbevölkerung zu entscheiden hat. Ihr Wille wird nur klar zum Ausdruche
-                        kommen, wenn eine Kamnver nach einem Grundfaße eingerichtet wird, der
-                            diefen<pb facs="#facs_82" n="82" xml:id="img_0082" break="yes"/>Willen
-                        tatsächlich zum Ausdruche gelangen läßt. Das ist der Gedanke, von idem wir
-                        uns leiten laffen. Sie fehen, meine Herren, daas bedeutet nicht, daß wir
-                        etwas in Wien diejenigen find. die die anderen erfchlagen wollen, die die
-                        kleinen Länder unterdrüchen wollen. Meine Herren! Die Länder fird nicht die
-                        Unterdrüchten, weil fie die Dinge, die ihrer Kompetenz zufallen, felbständig
-                        entscheiden. Inden Dingen, welche die Gefamtbevölkerung des Staates angehen,
-                        muß die Gefamtbevölkerung entscheiden, und zwar in einer fform, welche den
-                        Willen der Gefamtbevölkerung zum Ausdrucke kommen läkt. Aber nicht um idie
-                        Unterdrückung der kleinen Länder handelt es ich, fondern um die befte
-                        Methode, den Willen des Volkes feftzuftellen. Unter diesem Gefichtspunkte
-                        betrachten wir die frage der Känderkammer, und wenn schon eine fein foll, fo
-                        ftehen wir grurdfätllich auf dem Voden des Ginkammerfuftems, das ift
-                        bekannt. Denn eine Kammer kann nach unferer Anficht über die
-                        gefamtftaatlichen Intereffen nur dann eine Entscheidung haben, wenn sie nach
-                        dem Proporzinstem zufammengesetzt wird. so daß, wenn die Länder delegieren
-                        und nicht die ganze Bevölkerung wählt, Die Länder entiprechend ihrer
-                        Bevölkerungszahl delegieren müffen. Eine folche Länderkammer ftellen wir uns
-                        aber auch in ihrer kompetenz landers vor, als es sich der Entwurf des Herrn
-                        Staatsfekretärs Dr. Mayr denkt. Gs hat bereits geftern der Herr Abgeordnete
-                        Kunfchak eine Parallelé gezogen zwischen den Vorschlägen im Entwürfe und der
-                        deutschen Reichsverfassung. Erhat manches gefunden in den Vorschlägen bes
-                        Herrn Staatsfekretärs Dr. Manr, das ihm demokratischer erscheint, als das,
-                        was in der deutschen Reichsverfaffung steht. Das ift unzweifelhaft richtig,
-                        was die Delegation anbelangt. Über auch das Umgekehrte kann man feftstellen.
-                        Die Länder, bezw. der Bundesrat des Herrn Staatsfekretärs Dr. Mayr erscheint
-                        wirklich als ein Herrenhaus neben der Nationallversammlung, neben dem
-                        Bunßestag, und wiederholt kommt ein Wort vor, das uns unmöglich erscheint in
-                        diejem Entwürfe, nämlich das Wort „Genehmigung“. Es müfsen alle Gefeke, mit
-                        Ausnahme von ganz wenigen, die in der Nationalversammlung beschlofsen.
-                        werden. gleichlautend vom Bundesrat genehmigt werden; das heißt, wir haben
-                        hier ein Herrenhaus in der alten Fform, nur anders zufammengefekt. Unß wenn
-                        es fo zufammengefeßt ift wie die Herren meinen, dann wird es eben ein Stius,
+                    <p>Ich glaube, daß die Debatte, die wir hier abführen, außerordentlich fruchtbar
+                        ist, weil hier das erstemal Gelegenheit geboten ist, den Standpunkt der
+                        Herren aus den einzelnen Ländern im Detail kennen zu lernen. Es ist nur
+                        bedauerlich, daß infolge der Festsetzung der Redezeit auf zehn Minuten,
+                        gerade diese außerordentlich wichtige Frage nur so knapp erörtert werden
+                        kann. Gestatten Sie mir daher, daß ich nur ganz kurz unseren Standpunkt in
+                        der Angelegenheit noch einmal darlege. Daß das Problem der Länderkammer oder
+                        des Bundesrates ein außerordentlich kompliziertes ist, das zeigt schon die
+                        Fülle der Anträge und Anregungen, die wir hier in diesem Hause bei der
+                        kurzen Debatte vernommen haben. Wir haben mancherlei Standpunkt hier kennen
+                        gelernt und mancherlei Kompromißvorschläge erhalten; dem gegenüber, meine
+                        Herren, möchte ich folgendes feststellen: Die Frage der Länderkammer wird
+                        von den Sozialdemokraten betrachtet unter dem Gesichtspunkte der Demokratie.
+                        In einem demokratischen Staate müssen die Körperschaften, die über die
+                        Gesetzgebung zu entscheiden haben, so eingerichtet sein, daß der Wille des
+                        Volkes zum Ausdrucke kommt. Das geschieht in den Ländern durch die Landtage,
+                        die auf Grund des gleichen Wahlrechtes gewählt sind, das geschieht für den
+                        ganzen Staat durch die auf eben derselben Grundlage gewählte
+                        Nationalversammlung. Wenn eine Kompetenzverteilung in einem Bundesstaate
+                        zwischen Staat und Länder erfolgt, so entscheiden die Länder nach
+                        demokratischen Grundsätzen über die Angelegenheiten die ihnen bei der
+                        Kompetenzverteilung übertragen worden sind. Wenn wir aber für die
+                        Entscheidungen, die für den ganzen Staat zu treffen sind, neben der
+                        Nationalversammlung noch eine andere Körperschaft setzen, so würde hier der
+                        Wille der Mehrheit nicht zum Ausdrucke kommen, wenn eine Körperschaft nach
+                        irgend einem System konstruiert würde, welches diesen Willen zum Ausdrucke
+                        nicht gelangen läßt. Und eine Länderkammer in dem Sinne wie sie Prof.
+                        Mittelberger vorgeschlagen hat, könnte den Willen des Volkes für den ganzen
+                        Staat nicht so zum Ausdruck kommen lassen. Wenn dagegen eingewendet wird,
+                        daß die Länder ja Individualitäten seien, die einander gleichgestellt werden
+                        müssen, wie groß auch immer sie sein mögen, so muß doch gesagt werden, daß
+                        es sich hier bei der Gesetzgebung, die dem Bunde bleiben soll, um
+                        Angelegenheiten handelt, die nicht die Länder als Individualitäten angehen,
+                        sondern die Gesamtbevölkerung des Staates, so daß also nicht die
+                        Individualitäten der Länder abzustimmen haben, sondern die Gesamtbevölkerung
+                        zu entscheiden hat. Ihr Wille wird nur klar zum Ausdruck kommen, wenn eine
+                        Kammer nach einem Grundsatze eingerichtet wird, der diesen<pb
+                            facs="#facs_82" n="82" xml:id="img_0082" break="yes"/>Willen tatsächlich
+                        zum Ausdrucke gelangen läßt. Das ist der Gedanke, von dem wir uns leiten
+                        lassen. Sie sehen, meine Herren, das bedeutet nicht, daß wir etwa in Wien
+                        diejenigen sind, die die anderen erschlagen wollen, die die kleinen Länder
+                        unterdrücken wollen. Meine Herren! Die Länder sind nicht die Unterdrückten,
+                        weil sie die Dinge, die ihrer Kompetenz zufallen, selbständig entscheiden.
+                        In den Dingen, welche die Gesamtbevölkerung des Staates angehen, muß die
+                        Gesamtbevölkerung entscheiden, und zwar in einer Form, welche den Willen der
+                        Gesamtbevölkerung zum Ausdrucke kommen läßt. Aber nicht um die Unterdrückung
+                        der kleinen Länder handelt es sich, sondern um die beste Methode, den Willen
+                        des Volkes festzustellen. Unter diesem Gesichtspunkt betrachten wir die
+                        Frage der Länderkammer, und wenn schon eine sein soll, so stehen wir
+                        grundsätzlich auf dem Boden des Einkammersystems, das ist bekannt. Denn eine
+                        Kammer kann nach unserer Ansicht über die gesamtstaatlichen Interessen nur
+                        dann eine Entscheidung haben, wenn sie nach dem Proporzsystem
+                        zusammengesetzt wird, so daß, wenn die Länder delegieren und nicht die ganze
+                        Bevölkerung wählt, die Länder entsprechend ihrer Bevölkerungszahl delegieren
+                        müssen. Eine solche Länderkammer stellen wir uns aber auch in ihrer
+                        Kompetenz anders vor, als es sich der Entwurf des Herrn Staatssekretärs Dr.
+                        Mayr denkt. Es hat bereits gestern der Herr Abgeordnete Kunschak eine
+                        Parallele gezogen zwischen den Vorschlägen im Entwurfe und der deutschen
+                        Reichsverfassung. Er hat manches gefunden in den Vorschlägen des Herrn
+                        Staatssekretärs Dr. Mayr, das ihm demokratischer erscheint, als das, was in
+                        der deutschen Reichsverfassung steht. Das ist unzweifelhaft richtig, was die
+                        Delegation anbelangt. Aber auch das Umgekehrte kann man feststellen. Die
+                        Länder, bezw. der Bundesrat des Herrn Staatssekretärs Dr. Mayr erscheint
+                        wirklich als ein Herrenhaus neben der Nationalversammlung, neben dem
+                        Bundestag, und wiederholt kommt ein Wort vor, das uns unmöglich erscheint in
+                        diesem Entwurfe, nämlich das Wort „Genehmigung“.“ Es müssen alle Gesetze,
+                        mit Ausnahme von ganz wenigen, die in der Nationalversammlung beschlossen
+                        werden, gleichlautend vom Bundesrat genehmigt werden, das heißt, wir haben
+                        hier ein Herrenhaus in der alten Form, nur anders zusammengesetzt. Und wenn
+                        es so zusammengesetzt ist wie die Herren meinen, dann wird es eben ein Haus,
                         das nicht den Willen der Volksgesamtheit in der richtigen Weise zum
-                        Ausdruche bringt, sondern in einer verzerrten Weise. Dazu kommt noch, daß im
-                        Entwürfe des Herrn Dr. Manr ein Passus enthalten ist, der uns in der
-                        Verfassung nicht möglich ercheint, nämlich, daß dieser Bundesrat öffentlich
-                        verhandelt. Wir können uns vorftellen, daß ein Bundesrat eriftiert als ein
-                        Organ, in dem die Länder vertreten find und an der Seite der Staatsregierung
-                        über große Verwaltungsfragen und auch über ffragen der Geekgebung sprechen.
-                        Das hat aber nur einen Zwech, wenn das in nicht öffentlichen Sitzungen
-                        geschieht. Wenn aber eine Länßerkammer geschaffen wird, die neben der
-                        Nationalversammlung öfefntlich über Gefeke verhandelt und in der
-                        Länderkammer diefelben Partcien nur in anderer Fform vertreten find. wie in
-                        der Nationalversammlung, dnn werden auch die politischen Parteien, die ich
-                        meine, mitunter in eine fehr unangenehme Lage kommen. Noch ein Wort über Bie
-                        ffrage des Volksentscheides, die in dem Entwurfe des Herrn Dr. Mayr lauch
-                        öfter aufscheint. Wir Sozialdemokraten haben die Fforderung nach einem
-                        Volksentscheid in unferem Parteiprogramm. Gs befteht alfo kein 3weifel
-                        darüber, diiß wir im allgemeinen für den Volksentscheid find. Die 2rt aber,
-                        wie er hier angewendet werden foll. muß fehr überlegt werden. Denn wenn wir
-                        alle 14 Tage oder vier Wochen über irgendein Gefek die Volksabstimmung
-                        einleiten müßten, dann würde der ganze Gejekgebungsapparat ins Stochen
-                        kommen, und dazu glaube ich, find die Verhäftniffe bei uns nicht angetan,
-                        daß das im allgemeinen möglich wärse. Die Landesklmmer muck konkrete
-                        Vorschläge machen. Ich möchte aber ßoch fehr zu überlegen geben, daß die
+                        Ausdrucke bringt, sondern in einer verzerrten Weise. Dazu kommt noch, daß im
+                        Entwurfe der Herrn Dr. Mayr ein Passus enthalten ist, der uns in der
+                        Verfassung nicht möglich erscheint, nämlich daß dieser Bundesrat öffentlich
+                        verhandelt. Wir können uns vorstellen, daß ein Bundesrat existiert als ein
+                        Organ, in dem die Länder vertreten sind und an der Seite der Staatsregierung
+                        über große Verwaltungsfragen und auch über Fragen der Gesetzgebung sprechen.
+                        Das hat aber nur einen Zweck, wenn das in nicht öffentlichen Sitzungen
+                        geschieht.“ Wenn aber eine Länderkammer geschaffen wird, die neben der
+                        Nationalversammlung öffentlich über Gesetze verhandelt und in der
+                        Länderkammer dieselben Parteien nur in anderer Form vertreten sind, wie in
+                        der Nationalversammlung, dann werden auch die politischen Parteien, die ich
+                        meine, mitunter in eine sehr unangenehme Lage kommen. Noch ein Wort über die
+                        Frage des Volksentscheides, die in dem Entwurfe des Herrn Dr. Mayr auch
+                        öfter aufscheint. Wir Sozialdemokraten haben die Forderung nach einem
+                        Volksentscheid in unserem Parteiprogramm. Es besteht also kein Zweifel
+                        darüber, daß wir im allgemeinen für den Volksentscheid sind. Die Art aber,
+                        wie er hier angewendet werden soll, muß sehr überlegt werden. Denn wenn wir
+                        alle 14 Tage oder vier Wochen über irgendein Gesetz die Volksabstimmung
+                        einleiten müßten, dann würde der ganze Gesetzgebungsapparat ins Stocken
+                        kommen, und dazu glaube ich, sind die Verhältnisse bei uns nicht angetan,
+                        daß das im allgemeinen möglich wäre. Die Landeskammer muß konkrete
+                        Vorschläge machen. Ich möchte aber doch sehr zu überlegen geben, daß die
                         Frage des Volksentscheides in irgend einer Form anders ab-<pb
-                            facs="#facs_83" n="83" xml:id="img_0083" break="yes"/>78 gegrenzt werden
-                        muß, als es im Entwurie des Herrn Dr. Manr der Fall ist. Der Herr Präsident
+                            facs="#facs_83" n="83" xml:id="img_0083" break="yes"/>gegrenzt werden
+                        muß, als es im Entwurfe des Herrn Dr. Mayr der Fall ist. Der Herr Präsident
                         Dr. Schumacher hat schon erwähnt, daß die Herren aus Tirol damit
-                        einverstanden wären, daß Die Kompetenzabgrenzung des Bundearhtes anders
-                        geftaltet wird. als der Entwurf des Herrn Staatsfekretärs es vorfieht, daß
-                        gewisse Komplere von Befekgebungsgegenftänden der Nationalversammlung, dem
-                        Bundestage vorbehalten werden könnten. Es wird auch von Ber konkreten
-                        Erledigung diefer Ffrage der Kompetenzen abhängen, wie sich im einzelnen
-                        unfere Partei zu dem Probleme der Länderkammer ftellt; die ganzen Ffragen
-                        der Zufammenfetzung der Kümmer und ihrer Kompetenz gegenüber der
-                        Nationalverfammlung hängen auf das engste zufammen. Ich meine, daß wir
-                        hieruns nicht ldamit befchäftigen können, über konkrete Vorschläge
-                        abzustimmen, erftens deshalbnicht, weil wir überhaupt nicht abstimmen, und
-                        zweitens, weil ich mir formell für den Schlufz der Debatte zu bemerken
-                        erlaube, daß wir bei Feftstellung der Meinungsäußerung bei diesem Punkte
-                        etwa fo vorgehen könnten, daß jede Partei jedes Chndes mit einem Kurzen
-                        Satze erklärt, wie sie fich die Länderkammern denkt. So wie Herr Präfident
-                        Doktor Schumacher jetzt schon eine Erklärung abgegeben hat, können auch wir
-                        in einem Satze eine Erklärung abgeben unß die Herren der großdeutichen
-                        Partei werden auch gewiß eine formulierung finden. In diefer einfachen form
-                        könnten wir zur Feftstellung der Meinungsäußerung am Schluffe der Debätte
-                        gelangen und bruchen uns in die Details nicht einzulaffen.</p>
+                        einverstanden wären, daß die Kompetenzabgrenzung des Bundesrates anders
+                        gestaltet wird, als der Entwurf des Herrn Staatssekretärs es vorsieht, daß
+                        gewisse Komplexe von Gesetzgebungsgegenständen der Nationalversammlung, dem
+                        Bundestage vorbehalten werden könnten. Es wird auch von der konkreten
+                        Erledigung dieser Frage der Kompetenzen abhängen, wie sich im einzelnen
+                        unsere Partei zu dem Problem der Länderkammer stellt; die ganzen Fragen der
+                        Zusammensetzung der Kammer und ihrer Kompetenz gegenüber der
+                        Nationalversammlung hängen auf das engste zusammen. Ich meine, daß wir hier
+                        uns nicht damit beschäftigen können, über konkrete Vorschläge abzustimmen,
+                        erstens deshalb nicht, weil wir überhaupt nicht abstimmen, und zweitens,
+                        weil ich mir formell für den Schluß der Debatte zu bemerken erlaube, daß wir
+                        bei Feststellung der Meinungsäußerung bei diesem Punkte etwa so vorgehen
+                        könnten, daß jede Partei jedes Landes mit einem kurzen Satze erklärt, wie
+                        sie sich die Länderkammern denkt. So wie Herr Präsident Dr. Schumacher jetzt
+                        schon eine Erklärung abgegeben hat, können auch wir in einem Satze eine
+                        Erklärung abgeben und die Herren der großdeutschen Partei werden auch gewiß
+                        eine Formulierung finden. In dieser einfachen Form könnten wir zur
+                        Feststellung der Meinungsäußerung am Schlusse der Debatte gelangen und
+                        brauchen uns in die Details nicht einzulassen. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Bichl:</speaker>
                     <p>Sehr geehrte Herren! Wir reden hauptsächlich über die Schale und weniger über
-                        den Kern der Sache, denn zwischen Bundesrat, Länlerkammer oder
-                        Ständevertretung ift der Unterfchied nicht groß. Mir selbft wäre von meinem
-                        Standpunkte aus eine Ständevertretung eigentlich das liebfte, weil ich mir
-                        sage, daß wir hier, wie gestern HerrLandeshauptmannftellvertreter Gruber es
-                        bezeichnet hat, eine Ropie des zukünftigen Bundesvates darftellen, lalber
-                        wir fehen in diefer Kopie, daß eigentlich von einer Ständevertretung fehr
-                        wenig die Rele ift. Speziell in Oberöfterreich nimmt der Bauernftand und
-                        jene Bevölkerung, die mit dem Bauernftande identisch ift. nicht die kleinfte
-                        Bevölkerungszahl in Unfpruch, sondern mehr als die HälfteNun ist es
-                        interefsant, daß bei dieser Konferenz nur die Zufallsfigur eines Bauern
-                        hierift.</p>
-                </sp>
-                <p>(Zustimmung.)</p>
-                <sp>
-                    <speaker>Delegierter Bichl:</speaker>
-                    <p> Gs ift nur ein einziger Bauer hier und der nur aus Zufirll. Sie werden es
-                        begreifen, daß ich fpeziell für den Bauernftand Partei ergreifen muß und das
-                        Verlangen ftelle, daß der Bauernftand, fei es im Bundesrate oder fei es in
-                        der Länderkammer ober fei es in der Ständevertretung gehörig berüchfichtigt
-                        wird. Wenn man, wie es geftern geschehen ift, hören konnte, daß in der
-                        landwirtschafttreibenden Bevölkerung nicht jenes Pflichtgefühl wie in den
-                        Arbeiterkreifen zu fein fcheint, möchte ich demgegknüber erwidern, daß der
-                        Begriff der Pflichterfüllung ziemlich dehnbiar ift. Ich von meinem
-                        Standpunkte, meine Herren, verftehe die Pflichterfüllung der
-                        landwirtschaftlichen Bevölkerung hauptfächlich darin, daß sie die Produktion
-                        der landwirtschaftlichen Urtikel zu heben trachtet. und auch die Produktion
-                        fördert. Gs ist mir nicht unbekannt, daß von dem Gefichtspunkte aus. wie
-                        diefer Ungriff auf die Canßbevölkerung erfollgte, nicht alles klipp und klar
-                        liegt, aber Sie müffen nicht vergeffen, daß die Verführung des Bauernftandes
-                        durch die lange Dauer des Krieges nicht wirkungslos geblieben ift, aber wir
-                        müffen das Korruptionswefen ganz von oben berabbetrachten, wie es feine
-                        Wirkung getanhat und das Sprichwort ift gerechtfertigt: Worte ziehen an.
-                        Beifpiele reißen hin. Gs ift bekannt, daß der Bauernftandd des
-                        Schleichhandels bezichtigt wird, aber von woaus ift denn eigentlich der
-                        Grund zum Schleichhandel ausgegangen? Wovon denn anders als vom Ainlrechte.
-                    </p>
+                        den Kern der Sache, denn zwischen Bundesrat, Länderkammer oder
+                        Ständevertretung ist der Unterschied nicht groß. Mir selbst wäre von meinem
+                        Standpunkte aus eine Ständevertretung eigentlich das liebste, weil ich mir
+                        sage, daß wir hier, wie gestern Herr Landeshauptmannstellvertreter Gruber es
+                        bezeichnet hat, eine Kopie des zukünftigen Bundesrates darstellen, aber mir
+                        sehen in dieser Kopie, daß eigentlich von einer Ständevertretung sehr wenig
+                        die Rede ist. Speziell in Oberösterreich nimmt der Bauernstand und jene
+                        Bevölkerung, die mit dem Bauernstande identisch ist, nicht die kleinste
+                        Bevölkerungszahl in Anspruch, sondern mehr als die Hälfte. Nun ist es
+                        interessant, daß bei dieser Konferenz nur die Zufallsfigur eines Bauern hier
+                        ist. (Zustimmung.) Es ist nur ein einziger Bauer hier und der nur aus
+                        Zufall. Sie werden es begreifen, daß ich speziell für den Bauernstand Partei
+                        ergreifen muß und das Verlangen stelle, daß der Bauernstand, sei es im
+                        Bundesrate oder sei es in der Länderkammer oder sei es in der
+                        Ständevertretung gehörig berücksichtigt wird. Wenn man, wie es gestern
+                        geschehen ist, hören konnte, daß in der landwirtschafttreibenden Bevölkerung
+                        nicht jenes Pflichtgefühl wie in den Arbeiterkreisen zu sein scheint, möchte
+                        ich demgegenüber erwidern, daß der Begriff der Pflichterfüllung ziemlich
+                        dehnbar ist. Ich von meinem Standpunkte, meine Herren, verstehe die
+                        Pflichterfüllung der landwirtschaftlichen Bevölkerung hauptsächlich darin,
+                        daß sie die Produktion der landwirtschaftlichen Artikel zu heben trachtet
+                        und auch die Produktion fördert. Es ist mir nicht unbekannt, daß von dem
+                        Gesichtspunkte aus, wie dieser Angriff auf die Landbevölkerung erfolgte,
+                        nicht alles klipp und klar liegt, aber Sie müssen nicht vergessen, daß die
+                        Verführung des Bauernstandes durch die lange Dauer des Krieges nicht
+                        wirkungslos geblieben ist, aber wir müssen das Korruptionswesen ganz von
+                        oben herab betrachten, wie es seine Wirkung getan hat und das Sprichwort ist
+                        gerechtfertigt: Worte ziehen an, Beispiele reißen hin. Es ist bekannt, daß
+                        der Bauernstand des Schleichhandels bezichtigt wird, aber von wo aus ist
+                        denn eigentlich der Grund zum Schleichhandel ausgegangen? Wovon denn anders
+                        als vom Asylrechte ... </p>
                 </sp>
                 <sp>
                     <speaker>Landeshauptmann Dr. Rintelen: </speaker>
@@ -5716,301 +5710,291 @@
                 </sp>
                 <sp>
                     <speaker>Delegierter Bichl: </speaker>
-                    <p>Ich spreche zur Sache. Wovon denn anders als vom Ajulrechte, bas<pb
-                            facs="#facs_84" n="84" xml:id="img_0084" break="yes"/>wir den Oftiuden
+                    <p>Ich spreche zur Sache. Wovon denn anders als vom Asylrechte, das <pb
+                            facs="#facs_84" n="84" xml:id="img_0084" break="yes"/>wir den Östjuden
                         gewährt haben und daß wir heute die Zwangswirtschaft haben, die den
-                        Bauernstand am meiften trifft. Was die Länderkammer oder den Bundesuit
-                        anbelangt. muß ich fagen, wenn man den Bauern Verpflichtungen auferlegt und
-                        er diefe Pflicht erfüllen foll, muß er auch die Verantwortung tragen, und in
-                        einer so wichtigen Körperschaft auch vertreten fein. Wenn schon der Weg 3es
-                        Bundesrates der gangbarfte ift, wenn dieser Darme beibehalten wird, so muß
-                        auch Sorg-getragen werden, daß dieses Enftem des Bundesrates nicht auf
-                        Koften der Minoritäten ausgeführt werden darf und kann. Wenn man schor Den
-                        Vorschlag gemacht hat, daß für jedes Card hauptfächlich drei Vertreter in
-                        Betracht kommen, wäre die Grundlage fo zu nehmen, dak von den drei ftärhften
-                        Parteien je ein Vertreter namhaft gemacht würde und in den Ländern. wo nach
+                        Bauernstand am meisten trifft. Was die Länderkammer oder den Bundesrat
+                        anbelangt, muß ich sagen, wenn man den Bauern Verpflichtungen auferlegt und
+                        er diese Pflicht erfüllen soll, muß er auch die Verantwortung tragen, und in
+                        einer so wichtigen Körperschaft auch vertreten sein. Wenn schon der Weg des
+                        Bundesrates der gangbarste ist, wenn dieser Name beibehalten wird, so muß
+                        auch Sorge getragen werden, daß dieses System des Bundesrates nicht auf
+                        Kosten der Minoritäten ausgeführt werden darf und kann. Wenn man schon den
+                        Vorschlag gemacht hat, daß für jedes Land hauptsächlich drei Vertreter in
+                        Betracht kommen, wäre die Grundlage so zu nehmen, daß von den drei stärksten
+                        Parteien je ein Vertreter namhaft gemacht würde und in den Ländern, wo nach
                         der Bevölkerungszahl mehr Vertreter genommen werden, wird der Proporz seine
-                        Schuldigkeit tun. Meine Gerrent Wenn Sie von einem Stande verlangen, daß er
-                        feine Pflicht erfüllt, so müssen Sie ihm auch Rechte gewähren; darin gipfelt
-                        die FFreiheit. diaf ftrenaste Pflichterfüllung Platz greift aber auch auf
-                        der anderen Seite das Recht, feinen Stand zu vertreten und zu verteidigen.
-                        Ich stehe auf dem Standpunkte und werde bas auch bei der Abstimmung zur
-                        Kenntnis bringen, daß speziell — ich spreche vom Lande Oberöfterreich — auch
-                        der Vauernftand zum Ausdruch kommen muß ohne Unterfchied der Partei. aber
-                        einen Vertreter des Bauernftandes müffen die Oberöfterreicher Bauern in
-                        Diefem Bundesrate haben, weil sie sich fagen, daß sie nicht mehr in das
-                        Chaos der früheren Verfafsung zurückkommen wollen wie vor dem Jahre 1914; im
+                        Schuldigkeit tun. Meine Herren! Wenn Sie von einem Stande verlangen, daß er
+                        seine Pflicht erfüllt, so müssen Sie ihm auch Rechte gewähren; darin gipfelt
+                        die Freiheit, daß strengste Pflichterfüllung Platz greift aber auch auf der
+                        anderen Seite das Recht, seinen Stand zu vertreten und zu verteidigen. Ich
+                        stehe auf dem Standpunkte und werde das auch bei der Abstimmung zur Kenntnis
+                        bringen, daß speziell — ich spreche vom Lande Oberösterreich — auch der
+                        Bauernstand zum Ausdruck kommen muß ohne Unterschied der Partei, aber einen
+                        Vertreter des Bauernstandes müssen die Oberösterreicher Bauern in diesem
+                        Bundesrate haben, weil sie sich sagen, daß sie nicht mehr in das Chaos der
+                        früheren Verfassung zurückkommen wollen wie vor dem Jahre 1914; im
                         Herrenhaus haben Sie keine drei Bauern gefunden und dieses Herrenhaus hat
-                        die Befeke totgefchlagen, die Der Reichsrat zum Volkswohle fchaffen wollte.
-                        In der neuen Zeit, die angebrochen ift. läßt sich das nicht mehr aufrecht
-                        halten, es muk auch für den Bauernftand eine neue Zeit antreten.</p>
+                        die Gesetze totgeschlagen, die der Reichsrat zum Volkswohle schaffen wollte.
+                        In der neuen Zeit, die angebrochen ist, läßt sich das nicht mehr aufrecht
+                        halten, es muß auch für den Bauernstand eine neue Zeit antreten. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Dr. Rehrl: </speaker>
-                    <p>Meine Herrenl Gg. erübrigt fich. über die Cänderkammer oder den Bundesrat
-                        noch weiter zu sprechen, nachdem alle Urqumente für und wider jehr
-                        genaudurchgesprochen worden find und ich möchte nur auf eines verweisen, auf
-                        das Argument, daß in der Bemokratischen Zeit insbefonders in einer Republik
-                        mit fozialiftischem Einschlag eine zweite Kammer unmöglich und unzulässig
-                        ist. Diesbezüglich ist Deutschland das besteBeispiel. Deutschland, das in
-                        ähnlicher Lagewie wir ift. hat auch eine zweite Kammer errichtet, weil es
-                        der Unschauung ift, daß die erfte Kammer unbedingt eines Konrektivs bedarf.
-                        Ich möchte darauf verweisen, daß HerrPräsident Seiß, den die Herren
-                        Sozialdemokraten gewiß nicht als unferen Mann bezeichnen, sich bei einer
-                        Befprechung über den Verfassungsentwurf dahin geäußzert hat, daß ein
-                        Korrektiv sich empfehlen dürfte gegen die Entgleifungen der erften Klmmer
-                        und alle Gerren, welche in politischer Tätigkeit stehen, werden mir
-                        beipflichten und beftätigen, was Präsident Seit aus langjähriger Erfahrung
-                        gejagt hat. </p>
-                </sp>
-                <p>(Zwischenruf: Dann brauchen Sieauch in den Ländern eine zweite Kammerl)</p>
-                <sp>
-                    <speaker>Delegierter Dr. Rehrl: </speaker>
-                    <p>Da ift ohnehin die Kuratel des Staates fo groß, diaß das nicht nötig ift. Wir
-                        sind nie auf dem Standpunkte geftanden, dak die Vertretung in der
-                        Länderkammer für alle Gliedftaaten gleich fein folle. Wir find dafür, daß
-                        diefe zweite Kammer nicht eine theoretische Länderkammer fein foll, sondern
-                        daß in ihr die wirtschaftlichen Machtverhältniffe des Staates nach einem
-                        beftimmten Schlüffel zum Ausdruch kommen und innerhalb des einzelnen Landes
-                        das Verhältniswihlrecht entscheiden foll. Uls wir damals über den erften
-                        Entwurf des Herrn Staatsfekretärs Dr. Manr diskutiert haben, habe ich diese
-                        Meinung geäußert und ich kann erklären, daß ich auch heute auf dieem
-                        Standpunkte ftehe und dem Vorschlag des Herrn Dr. Schumn zustimme, daß sich
-                        aber auch vielleicht in modifizierter Fform über die Anregungen des Herrn
-                        Stadtrat Dr. Danneberg ficherlich reden läßt: nur find wir der Unchauung,
-                        daß die Wahlen der einzelnen Gliesstaaten in der bundesgefetzlichen Gewalt
-                        zum Ausdruch gebracht werden müssen. </p>
+                    <p>Meine Herren! Es erübrigt sich, über die Länderkammer oder den Bundesrat noch
+                        weiter zu sprechen, nachdem alle Argumente für und wider sehr genau
+                        durchgesprochen worden sind und ich möchte nur auf eines verweisen, auf das
+                        Argument, daß in der demokratischen Zeit insbesonders in einer Republik mit
+                        sozialistischem Einschlag eine zweite Kammer unmöglich und unzulässig ist.
+                        Diesbezüglich ist Deutschland das beste Beispiel. Deutschland, das in
+                        ähnlicher Lage wie wir ist, hat auch eine zweite Kammer errichtet, weil es
+                        der Anschauung ist, daß die erste Kammer unbedingt eines Korrektivs bedarf.
+                        Ich möchte darauf verweisen, daß Herr Präsident Seitz, den die Herren
+                        Sozialdemokraten gewiß nicht als unseren Mann bezeichnen, sich bei einer
+                        Besprechung über den Verfassungsentwurf dahin geäußert hat, daß ein
+                        Korrektiv sich empfehlen dürfte gegen die Entgleisungen der ersten Kammer
+                        und alle Herren, welche in politischer Tätigkeit stehen, werden mir
+                        beipflichten und bestätigen, was Präsident Seitz aus langjähriger Erfahrung
+                        gesagt hat. (Zwischenruf: Dann brauchen Sie auch in den Ländern eine zweite
+                        Kammer!) Da ist ohnehin die Kuratel des Staates so groß, daß das nicht nötig
+                        ist. Wir sind nie auf dem Standpunkte gestanden, daß die Vertretung in der
+                        Länderkammer für alle Gliedstaaten gleich sein solle. Wir sind dafür, daß
+                        diese zweite Kammer nicht eine theoretische Länderkammer sein soll, sondern
+                        daß in ihr die wirtschaftlichen Machtverhältnisse des Staates nach einem
+                        bestimmten Schlüssel zum Ausdruck kommen und innerhalb des einzelnen Landes
+                        das Verhältniswahlrecht entscheiden soll. Als wir damals über den ersten
+                        Entwurf des Herrn Staatssekretärs Dr. Mayr diskutiert haben, habe ich diese
+                        Meinung geäußert und ich kann erklären, daß ich auch heute auf diesem
+                        Standpunkte stehe und dem Vorschlag des Herrn Dr. Schumy zustimme, daß sich
+                        aber auch vielleicht in modifizierter Form über die Anregungen des Herrn
+                        Stadtrat Dr. Danneberg sicherlich reden läßt; nur sind wir der Anschauung,
+                        daß die Wahlen der einzelnen Gliedstaaten in der bundesgesetzlichen Gewalt
+                        zum Ausdruck gebracht werden müssen. </p>
                 </sp>
                 <sp>
                     <speaker>Vorsitzender Dr. Rintelen: </speaker>
-                    <p>Herr Bizebürgermeifter Emmerling, der jetzt zum Worte kommen joll, ift nicht
-                        anwefend. Baher<pb facs="#facs_85" n="85" xml:id="img_0085" break="yes"
-                        />﻿ist die Delbatte geschlofsen. Das Wort hat der Herr Staatsfekretär Dr.
-                        Mayr. </p>
+                    <p>Herr Vizebürgermeister Emmerling, der jetzt zum Worte kommen soll, ist nicht
+                        anwesend, daher <pb facs="#facs_85" n="85" xml:id="img_0085" break="yes"
+                        />ist die Debatte geschlossen. Das Wort hat der Herr Staatssekretär Dr.
+                        Mayr.</p>
                 </sp>
                 <sp>
-                    <speaker>Staatsfekretär Dr. Manr:</speaker>
-                    <p>Ich enthalte mich mit voller Absicht jeder Volemik gegen Die Ueußerungen. die
-                        gefallen find, möchte mir jedoch nur ein paar kurze Bemerkungen gestatten,
-                        zu denen mir die Debatte Anlaß cegeben hat. Gs ift von Herrn Abgeordneten
-                        Kunschak die Ueußkrung gemacht worden, daß bezüglich des Artikels 25 zuerft
-                        eine Gleichheit in Ber Anzahl der Stimmen feftgeftellt werden und dann erft
-                        die Ergänzung ftattfinden foll, im Entwurfe. fei das aber nicht vorgesehen.
-                        Da möchte ich mir doch hinzuweisen erlauben, daß im Entwurfe. wenn es auch
-                        nicht so klar ausgesprochen ift. diese Gleichheit zum Ausdruche kommt durch
-                        die Worte: „Gs kommt je ein weiteres Mitglied hinzu“. Dann hat der Herr
-                        Delegierte Widholz gemeint, der dritte Abjak des Artikels 25 fei unmöglich;
-                        ich möchte darauf hinweifen, daß dieser Absatz nur den Schuk befonders der
-                        kleineren Ländergegen eine Ueberstimmung durch zwei oder drei größere Länder
-                        bezweckt, denn wenn das nicht in diejer oder jener Form feftgefetzt ist,
-                        könnte es möglich fein, daß zum Beifpiel zwei große Länder die Auflöfung des
-                        glanzen Bundesrates befchließen und die anderen Länderkönnten dagegen nichts
-                        einwenden, nur biefen zweck hat dieser Absatz. Dann hat der Herr Delegierte
-                        Widholz gemeint, auch 26- jak 4 des Artikels 38 fei unmöglich, wo es heißt:
-                        „(4) Ohne Geniehmigung des Bundesrates ist ein Gefekesbefchlußz des
-                        Bundestages auch dann zu beurkunden und kundzumachen, wenn der Bunddesnat
-                        diesem Gsjekesbesschluß in der vorgeschriebenen Zeit die Genehmigung weder
-                        erteilt noch mit Ungabe von Gründen werweigert hat.“ Ich möchte mir
-                        hinzuweisen erlauben, daß diefer Abfatz eine Minderung der Rechte des
-                        Bundesrates bezeichnet, denn das Befek ift ohnedies genehmigt, wenn der
-                        Bundesrat sich nicht fdazu äußert. — Ich glaube, das war ein Mißverständnis.
-                        Der Herr Delegierte Dr. Danweberg hat hingewiefen, daß der Bundesrat nicht
-                        öffentlich tagen foll. Ich habe wefentlich im Anlehnen an die Bestimmungen
+                    <speaker>Staatssekretär Dr. Mayr: </speaker>
+                    <p>Ich enthalte mich mit voller Absicht jeder Polemik gegen die Aeußerungen, die
+                        gefallen sind, möchte mir jedoch nur ein paar kurze Bemerkungen gestatten,
+                        zu denen mir die Debatte Anlaß gegeben hat. Es ist von Herrn Abgeordneten
+                        Kunschak die Aeußerung gemacht worden, daß bezüglich des Artikels 25 zuerst
+                        eine Gleichheit in der Anzahl der Stimmen festgestellt werden und dann erst
+                        die Ergänzung stattfinden soll, im Entwurfe, sei das aber nicht vorgesehen.
+                        Da möchte ich mir doch hinzuweisen erlauben, daß im Entwurfe, wenn es auch
+                        nicht so klar ausgesprochen ist, diese Gleichheit zum Ausdrucke kommt durch
+                        die Worte: „Es kommt je ein weiteres Mitglied hinzu.“ Dann hat der Herr
+                        Delegierte Widholz gemeint, der dritte Absatz des Artikels 25 sei unmöglich;
+                        ich möchte darauf hinweisen, daß dieser Absatz nur den Schutz besonders der
+                        kleineren Länder gegen eine Ueberstimmung durch zwei oder drei größere
+                        Länder bezweckt, denn wenn das nicht in dieser oder jener Form festgesetzt
+                        ist, könnte es möglich sein, daß zum Beispiel zwei große Länder die
+                        Auflösung des ganzen Bundesrates beschließen und die anderen Länder könnten
+                        dagegen nichts einwenden, nur diesen Zweck hat dieser Absatz. Dann hat der
+                        Herr Delegierte Widholz gemeint, auch Absatz 4 des Artikels 38 sei
+                        unmöglich, wo es heißt: „(4) Ohne Genehmigung des Bundesrates ist ein
+                        Gesetzesbeschluß des Bundestages auch dann zu beurkunden und kundzumachen,
+                        wenn der Bundesrat diesem Gesetzesbeschluß in der vorgeschriebenen Zeit die
+                        Genehmigung weder erteilt noch mit Angabe von Gründen verweigert hat.“ Ich
+                        möchte mir hinzuweisen erlauben, daß dieser Absatz eine Minderung der Rechte
+                        des Bundesrates bezeichnet, denn das Gesetz ist ohnedies genehmigt, wenn der
+                        Bundesrat sich nicht dazu äußert. — Ich glaube, das war ein Mißverständnis.
+                        Der Herr Delegierte Dr. Danneberg hat hingewiesen, daß der Bundesrat nicht
+                        öffentlich tagen soll. Ich habe wesentlich im Anlehnen an die Bestimmungen
                         des deutschen Reichsrates, der die Oeffentlichkeit aufnimmt, auch für uns
-                        die Deffentlichkeit feftgelegt; ies sprechen mehrere Gründe diafür, zum
-                        Beifpiel der, daß man in unserer Zeit cine derartige wichtige Körperschaft
-                        nicht hinter Schlof und Riegtal tagen lassen kann. </p>
+                        die Oeffentlichkeit festgelegt; es sprechen mehrere Gründe dafür, zum
+                        Beispiel der, daß man in unserer Zeit eine derartige wichtige Körperschaft
+                        nicht hinter Schloß und Riegel tagen lassen kann. </p>
                 </sp>
                 <sp>
                     <speaker>Landeshauptmann Dr. Rintelen: </speaker>
-                    <p>Ich werde nun zur Meinungsäußerung schreiten. Es find verschiedene Unträge
-                        vorliegend. Der Antrag Kunlschak fcheint mir der weiteftgehende zu ein. Der
-                        Antrag lautet (lieft): „Wir entscheiden uns für den Bundesrat mit der
-                        Bedingung. Baß bis zu einer bestimmten Einwohnerzahl (Grundzahl) iauf jedes
-                        Land gleichmäßig. drei Vertreter entfallen, die fo oft um je einen Vertreter
-                        vermehrt werden, als die Grundzahl in der reftlichen Gesamtzahl der
-                        Landeseinwohner enthalten ift.“ Ich stelle diesen Antrag Kunschak zur
-                        Abstimmnung und bin der Meinung, daß jene Herren. Die gegen den Untrag
-                        ftimmen, aljo gegen jede Länderkammer sind, ausdrücklich fagen: „gegen die
-                        Länderkammer“ das wird dann protokolliert. Der Antrag Schumn ift eine
-                        Spezialisierung des Antrages Kunfchak, daher kann jeder Herrganz gut fagen,
-                        „ja für den Antrag Kunschak und auch für Ben Untrag Schumn“.</p>
+                    <p>Ich werde nun zur Meinungsäußerung schreiten. Es sind verschiedene Anträge
+                        vorliegend. Der Antrag Kunschak scheint mir der weitestgehende zu sein. Der
+                        Antrag lautet (liest): „Wir entscheiden uns für den Bundesrat mit der
+                        Bedingung, daß bis zu einer bestimmten Einwohnerzahl (Grundzahl) auf jedes
+                        Land gleichmäßig drei Vertreter entfallen, die so oft um je einen Vertreter
+                        vermehrt werden, als die Grundzahl in der restlichen Gesamtzahl der
+                        Landeseinwohner enthalten ist.“ Ich stelle diesen Antrag Kunschak zur
+                        Abstimmung und bin der Meinung, daß jene Herren, die gegen den Antrag
+                        stimmen, also gegen jede Länderkammer sind, ausdrücklich sagen: „gegen die
+                        Länderkammer“ das wird dann protokolliert. Der Antrag Schumy ist eine
+                        Spezialisierung des Antrages Kunschak, daher kann jeder Herr ganz gut sagen,
+                        „ja für den Antrag Kunschak und auch für den Antrag Schumy“. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Dr. Danneberg:</speaker>
-                    <p>Es käme doch darauf an, diß wir diese Meinungsäußerung so feftstellen, daß
-                        ein klares Bild zum Ausdrucke kommt und das würde nicht der Fall ein, wenn
+                    <p>Es käme doch darauf an, daß wir diese Meinungsäußerung so feststellen, daß
+                        ein klares Bild zum Ausdrucke kommt und das würde nicht der Fall sein, wenn
                         wir hier eine Anregung, einen Vorschlag hervorheben und alle Herren zwingen
                         würden, in einer Meinungsäußerung speziell dazu Stellung zu nehmen. Ich
-                        möchte boch an meinen früheren Vorschlag erinnern, daß jeder Partei eines
+                        möchte doch an meinen früheren Vorschlag erinnern, daß jeder Partei eines
                         jeden Landes die Meinungsäußerung ermöglicht wird, wobei ich gleich erkläre,
-                        daß wir Sozialdemokraten in diessem fille für alle Länder die gleiche
-                        Erklärung abgeben, welche einer von uns für alle Länder abzugeben wermag.
-                    </p>
+                        daß wir Sozialdemokraten in diesem Falle für alle Länder die gleiche
+                        Erklärung abgeben, welche einer von uns für alle Länder abzugeben vermag. </p>
                 </sp>
                 <sp>
                     <speaker>Vorsitzender Dr. Rintelen: </speaker>
                     <p>Es ist der Wunsch ausgesprochen worden, behufs Klarstellung der
                         Abstimmungsform eine Paufe von fünf Minuten zu machen. Ich unterbreche die
                             Sitzung.<pb facs="#facs_86" n="86" xml:id="img_0086" break="yes"/>(Nach
-                        Wiederaufnahme der Sitzung.) Gs liegt vor als einziger Antrag der Untrag des
-                        Delegierten Schumn in geänderter Ffafjung. Gr lautet: „Wir entscheiden uns
+                        Wiederaufnahme der Sitzung.) Es liegt vor als einziger Antrag der Antrag des
+                        Delegierten Schumy in geänderter Fassung. Er lautet: „Wir entscheiden uns
                         für den Bundesrat mit der Bedingung, daß bis zur Einwohnerzahl von 400.000
-                        auf jedes Landgleichmäßig Brei Vertreter entfallen, die fo oft um je einten
-                        Vertreter vermehrt werden, als diese Grundzahl in der reftlichen Gefamtzahl
-                        der Bundesbürger des betreffenden Landes enthaltten ift. Rein Land darf im
+                        auf jedes Land gleichmäßig drei Vertreter entfallen, die so oft um je einen
+                        Vertreter vermehrt werden, als diese Grundzahl in der restlichen Gesamtzahl
+                        der Bundesbürger des betreffenden Landes enthalten ist. Kein Land darf im
                         Bundesrat mehr als ein Fünftel der Vertreter haben.“ Diesen Antrag bringe
-                        ich zur Meinungsäukerung und zwar im Ginvernehmen mit den Parteien in der
-                        Form. daß ich dem Führer jeder Partei das Wort erteile. </p>
+                        ich zur Meinungsäußerung, und zwar im Einvernehmen mit den Parteien in der
+                        Form, daß ich dem Führer jeder Partei das Wort erteile. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Dr. Schlegel:</speaker>
-                    <p>Namens der chriftlichfozialen Teilnehmer an der Konferenz gebe, ich die
-                        Erklärung ab. daß wir für den Untrag Schumn stimmen. </p>
+                    <p>Namens der christlichsozialen Teilnehmer an der Konferenz gebe ich die
+                        Erklärung ab, daß wir für den Antrag Schumy stimmen. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Dr. Gruener: </speaker>
-                    <p>Ich habe die Erklärung wannens der fozialdemokratischen Parteien dier Länder
-                        labzugeben in folgenddem Sinne: „Wir sind grundsätzlich für das
-                        Einkammerfuftem: follte trotzdem eine Länderkammer zuftande kommen,
+                    <p>Ich habe die Erklärung namens der sozialdemokratischen Parteien der Länder
+                        abzugeben in folgendem Sinne: „Wir sind grundsätzlich für das
+                        Einkammersystem; sollte trotzdem eine Länderkammer zustande kommen,
                         verlangen wir, daß die Länder entsprechend ihrer Bevölkerungszahl darin
-                        vertreten find und Baß diese Kammer nicht den Charakter eines Herrenhaufes
+                        vertreten sind und daß diese Kammer nicht den Charakter eines Herrenhauses
                         hat. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Dr. Pflanzl: </speaker>
-                    <p>Namens der Deutschfreiheitlichen erkläre ich, daß wir dem Antrage Schumn
+                    <p>Namens der Deutschfreiheitlichen erkläre ich, daß wir dem Antrage Schumy
                         zustimmen. </p>
                 </sp>
                 <sp>
                     <speaker>Landeshauptmann Dr. Rintelen: </speaker>
-                    <p>Damit ist auch diefer Punkt erledigt, wir gehen zum nächsten über:
-                        „Bundespräsident“.</p>
+                    <p>Damit ist auch dieser Punkt erledigt, wir gehen zum nächsten über:
+                        „Bundespräsident“. </p>
                 </sp>
                 <sp>
-                    <speaker>Staatsfekretär Dr. Manr: </speaker>
-                    <p>Meine Herren! Mit der Stellung des Bundespräfidenten beschäftiat sich Artikel
-                        48 des vorliegenden Entmurfes. Nach diesem follen die Funktionen der
-                        Regierung.- und Vollzuasgewalt durch den Präsidenten des Bundestages
-                        ausgeführt werden. Ein Staatsoberhaupt, dem die Ffunktionen allein zukämen,
-                        ift fomit nicht vorgefehen. und das entspricht dem Roalitionsübereinkommen
-                        vom 17. Oktober 1919. Ich für meine Person stehe lauf dem Standpunkte, daß
-                        jedenfalls ein eigener Bundespräfident zu schaffen. sei. </p>
+                    <speaker>Staatsfekretär Dr. Mayr: </speaker>
+                    <p>Meine Herren! Mit der Stellung des Bundespräsidenten beschäftigt sich Artikel
+                        48 des vorliegenden Entwurfes. Nach diesem sollen die Funktionen der
+                        Regierung- und Vollzugsgewalt durch den Präsidenten des Bundestages
+                        ausgeführt werden. Ein Staatsoberhaupt, dem die Funktionen allein zukämen,
+                        ist somit nicht vorgesehen und das entspricht dem Koalitionsübereinkommen
+                        vom 17. Oktober 1919.22 Ich für meine Person stehe auf dem Standpunkte, daß
+                        jedenfalls ein eigener Bundespräsident” zu schaffen sei. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Christoph: </speaker>
-                    <p>Wir haben soeben vom Herrn Staatsfeknetär vernommen, daß uns die
-                        Koalitionsparteien vor vollendete Tatfachen ftellen wollen, und daß sie
-                        felbft den Bundespräsidenten ihrerseits in der Verfafjung nicht
-                        berückfichtigen. Ich erkläre namens der deutfchfreiheitlichen Partei, daß
-                        wir diejen Standpunkt nicht teilen, sondern einen felbständigen
-                        Bundespräfidenten, gewählt auf Grund einer Volkstbstimmung, verlangen.
-                        Unjere Begründung ift folgende: Unfer Staat hat alle Urfachz, daß fein
-                        Anfehen, welches in lekter Zeit wefentlich nach außzen gefunken ift, wieder
-                        gehoben wird. daß infolgedeffen auch seine Repräfentanz nach außzenhin
-                        möglichst von der Volksstimmung getragen, nicht nur repräfentativ, sondern
-                        auch wirkfam zutage tritt. Wenn der Bundespräsident lediglich 1ols ein aus
-                        Der Nationalversammlung gewählfer Vertreter erscheint. jo ift er mehr oder
-                        weniger einer beftimmten Partki zugehörig. deren Vertreter er ift. xin
-                        prononierter Politiker. welcher nie diefe Unabhängkeit nach saußen
-                        entwickeln wird, welcher ein aus freier Volksabstimmung hervorgegangener
-                        Präfident in Anspruch nehmden kann. Wir Deutschfreiheitlichen verlangen, dak
-                        der Bundespräfident nach den Bestimmungen des deutschen Reiches gewählt
-                        wird. Im deutschen Reiche wird BerBundespräfident vom ganzen deutschen Volke
-                        gewählt, alfo mutatis muttandis, in Defterreich vom öfterreichischen
-                        Volk.</p>
-                </sp>
-                <sp>
-                    <speaker>(Refel: </speaker>
-                    <p>Ich bantrage den Bischof von Salzburg zu wählen!) </p>
+                    <p>Wir haben soeben vom Herrn Staatssekretär vernommen, daß uns die
+                        Koalitionsparteien vor vollendete Tatsachen stellen wollen, und daß sie
+                        selbst den Bundespräsidenten ihrerseits in der Verfassung nicht
+                        berücksichtigen. Ich erkläre namens der deutschfreiheitlichen Partei, daß
+                        wir diesen Standpunkt nicht teilen, sondern einen selbständigen
+                        Bundespräsidenten, gewählt auf Grund einer Volksabstimmung, verlangen.
+                        Unsere Begründung ist folgende: Unser Staat hat alle Ursache, daß sein
+                        Ansehen, welches in letzter Zeit wesentlich nach außen gesunken ist, wieder
+                        gehoben wird, daß infolgedessen auch seine Repräsentanz nach außenhin
+                        möglichst von der Volksstimmung getragen, nicht nur repräsentativ, sondern
+                        auch wirksam zutage tritt. Wenn der Bundespräsident lediglich als ein aus
+                        der Nationalversammlung gewählter Vertreter erscheint, so ist er mehr oder
+                        weniger einer bestimmten Partei zugehörig, deren Vertreter er ist, ein
+                        prononierter Politiker, welcher nie diese Unabhängigkeit nach außen
+                        entwickeln wird, welche ein aus freier Volksabstimmung hervorgegangener
+                        Präsident in Anspruch nehmen kann. Wir Deutschfreiheitlichen verlangen, daß
+                        der Bundespräsident nach den Bestimmungen des deutschen Reiches gewählt
+                        wird. Im deutschen Reiche wird der Bundespräsident vom ganzen deutschen
+                        Volke gewählt, also mutatis mutandis, in Oesterreich vom österreichischen
+                        Volk. (Resel: Ich beantrage den Bischof von Salzburg zu wählen!) </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Dr. Schlegel: </speaker>
-                    <p>Der Herr StaatsJekretär hrat uns aufmerkfam gemacht, daß die gegenwärtige
-                        Ffrage in der Koalitionsvereinbarung ihre Löfung gefunden hat. Gs lieat uns
-                        felbftverftändlich fern. hier etwa die Roalition komplizieren zu wollen. Gs
-                        muß uns dies Recht zustehen, auch über ben ganzen Inhalt der
-                            Roalitionsvereinbarungen<pb facs="#facs_87" n="87" xml:id="img_0087"
-                            break="yes"/>﻿82 unfere Meinung bilden zu können und hier bin ich
-                        berechtigt, im Namen ssämtlicher chriftlichjozialen Vertreter zu sprechen
-                        und zu erklären, daß unsere Ansicht dahin geht, daß wir es für wünschenswert
-                        halten, aus Gründen der Obiehtivität und Autorität, daß die Gewalt des
-                        Bundespräfidenten von der Ffunktion des Vorsitzenden der Nationalversammlung
-                        oder des Bundestages zu trennen ift. Ich erlaubemir diesbezüglich diesen
-                        Antnan zu stellen. Ggsoll nicht ein Bruch der Koalitionsverhandlungen
-                        bedeuten, sondern ich glaube, daß in den beiden koalierten Parteien felbft
-                        bereits Stimmungen vorhanden find, welche mit Rüchsicht auf die geraderu
-                        übergroße Belaftung dies Präsidenten eine derartige Trennung für
-                        wünschenswert halten. Die Koalition wird die Ffrage in reifliche Erwägung
-                        ziehen und wenn beide Teile einig find, daß der eine oder andere Punkt
-                        abzuändern ift, wird er im gegenseitigen Ginvernehmen abgeändert werden.
-                        Unfere Meinung ift, diaß es sehr wünschenswert ist, daß die Stellung des
-                        Bundespräfidlenten von der Funktion des Vorfikenden in der
-                        Nationalverfammdlung getrennt werde.</p>
+                    <p>Der Herr Staatssekretär hat uns aufmerksam gemacht, daß die gegenwärtige
+                        Frage in der Koalitionsvereinbarung ihre Lösung gefunden hat. Es liegt uns
+                        selbstverständlich fern, hier etwa die Koalition komplizieren zu wollen. Es
+                        muß uns das Recht zustehen, auch über den ganzen Inhalt der
+                        Koalitionsvereinbarungen <pb facs="#facs_87" n="87" xml:id="img_0087"
+                            break="yes"/>unsere Meinung bilden zu können und hier bin ich
+                        berechtigt, im Namen sämtlicher christlichsozialen Vertreter zu sprechen und
+                        zu erklären, daß unsere Ansicht dahin geht, daß wir es für wünschenswert
+                        halten, aus Gründen der Objektivität und Autorität, daß die Gewalt des
+                        Bundespräsidenten von der Funktion des Vorsitzenden der Nationalversammlung
+                        oder des Bundestages zu trennen ist. Ich erlaube mir diesbezüglich diesen
+                        Antrag zu stellen. Es soll nicht ein Bruch der Koalitionsverhandlungen
+                        bedeuten, sondern ich glaube, daß in den beiden koalierten Parteien selbst
+                        bereits Stimmungen vorhanden sind, welche mit Rücksicht auf die geradezu
+                        übergroße Belastung des Präsidenten eine derartige Trennung für
+                        wünschenswert halten. Die Koalition wird die Frage in reifliche Erwägung
+                        ziehen und wenn beide Teile einig sind, daß der eine oder andere Punkt
+                        abzuändern ist, wird er im gegenseitigen Einvernehmen abgeändert werden.
+                        Unsere Meinung ist, daß es sehr wünschenswert ist, daß die Stellung des
+                        Bundespräsidenten von der Funktion des Vorsitzenden in der
+                        Nationalversammlung getrennt werde. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Dr. Danneberg:</speaker>
-                    <p>In der Frage des Bundespräsidenten stehen wir auf dem Voden der
-                        Roralitionsvereinbarung. Dieje sehen, wie der Herr Staatsfekretär mitgeteilt
-                        hat, vor, daß der Präsident der Nationalversammlung zugleich der Präfident
-                        des Bundes ist. Das ist derselbe Zustand, wie er heute ift, und wie er sich,
-                        soweit ich die Dinge übersehen kann, durchaus bewahrt hat. Wir betrachten
-                        diese Ffrage, gerade nicht als eine eminente Parteifrage, meinen aber doch,
-                        daß die Löfung, die bisher getroffen worden ift, sich als zweckmäßig
-                        erwiesen hat, und meinen überdies, daß die Löfung, die bisher getroffen
+                    <p>In der Frage des Bundespräsidenten stehen wir auf dem Boden der
+                        Koalitionsvereinbarung. Diese sehen, wie der Herr Staatssekretär mitgeteilt
+                        hat, vor, daß der Präsident der Nationalversammlung zugleich der Präsident
+                        des Bundes ist. Das ist derselbe Zustand, wie er heute ist, und wie er sich,
+                        soweit ich die Dinge übersehen kann, durchaus bewährt hat. Wir betrachten
+                        diese Frage, gerade nicht als eine eminente Parteifrage, meinen aber doch,
+                        daß die Lösung, die bisher getroffen worden ist, sich als zweckmäßig
+                        erwiesen hat, und meinen überdies, daß die Lösung, die bisher getroffen
                         wurde, auch demokratischer ist, als die andere. Wenn die Herren dagegen
-                        einwenden, demokuatischer fei es doch, wenn dias ganze Volk den Präfidenten
+                        einwenden, demokratischer sei es doch, wenn das ganze Volk den Präsidenten
                         wählt, da möchte ich auf die Wirkung verweisen, die in einzelnen Ländern
-                        solche Wahlen auszuüben vermögen. Es ift kein Zweifeil und wir können dlas
-                        insbesonders an den Verhältnissen von Ämerika konftatieren, wo die Wahl des
-                        Präsidenten durch das ganze Volk tatfächlich erfolgt, daß durch eine solche
-                        Wahl ein cäfaristisches Moment in die Verfassung kommt. und daß, wenn auch
-                        theoretisch und auf dem Papier die Dinge sich anders darftellen, der
-                        Präfident in den Vereinigten Staaten Umeriklas eine ganz überragende
-                        Stellung erhält, die nicht mehr die Stellung eines bloßzen Präfidenten ift,
-                        fondern ein anderes Moment beinhaltet. Und gerade weil wir die Demokratie im
-                        vollften Maße wollen, d. h., daß nicht ein Mann eine überragende Stellung
-                        bekommt, sonddern die Vertretung des Gefamtvolkes die entscheidende Rolle
-                        fpielt, wollen wir keinen Faktor schaffen, der sich über die
-                        Nationalversammlung, als die Vertretung des geftamten Volktes, zu stellen
-                        vermag. Und darum erfcheint es uns demokratischer, wenn der Präfident des
-                        Bunbes aus der Natiomalversammlung gewähilt wird. d. h. identisch ist mit
-                        dem Vorsitzenden der Nationalverfammlung. Daß das nicht zu leiften wäre,
-                        glaube ich nicht, denn die Ffunktionen eines Bundespräfidenten werden keine
-                        so umfangreichen fein, ddaß er Wiefe Arbeit nicht zu bewältigen vermöchte.
-                        Es sind Arbeiten vielfach bekorativer Natur, die en zu erfüllen hat, und
-                        alles andere wird ohnedies von der Bundesregierung und von den
-                        Landesregierungen erledigt. Dem Bundespräfidenten wird eine überragende
-                        Fülle von Anbeit, wie es scheint, durchaus nicht zukommen, Gs vermag dier
-                        Präsident der Nationalversammlung diefe Arbeit gewißz zu bewäftigen, und es
-                        erscheint, wie gefagt, demokratischen und einheitlicher, nicht einen
-                        Präfidenten über diefe Nationalversammlung zu ftellen. Durum geben wir die
-                        Erklärung ab, daß wir in diefer Frage auj dem Boden der
-                        Koalitionsvereinbarung stehen.</p>
+                        solche Wahlen auszuüben vermögen. Es ist kein Zweifel und wir können das
+                        insbesonders an den Verhältnissen von Amerika konstatieren, wo die Wahl des
+                        Präsidenten durch das ganze Volk tatsächlich erfolgt, daß durch eine solche
+                        Wahl ein cäsaristisches Moment in die Verfassung kommt, und daß, wenn auch
+                        theoretisch und auf dem Papier die Dinge sich anders darstellen, der
+                        Präsident in den Vereinigten Staaten Amerikas eine ganz überragende Stellung
+                        erhält, die nicht mehr die Stellung eines bloßen Präsidenten ist, sondern
+                        ein anderes Moment beinhaltet. Und gerade weil wir die Demokratie im
+                        vollsten Maße wollen, d.h., daß nicht ein Mann eine überragende Stellung
+                        bekommt, sondern die Vertretung des Gesamtvolkes die entscheidende Rolle
+                        spielt, wollen wir keinen Faktor schaffen, der sich über die
+                        Nationalversammlung, als die Vertretung des gesamten Volkes, zu stellen
+                        vermag. Und darum erscheint es uns demokratischer, wenn der Präsident des
+                        Bundes aus der Nationalversammlung gewählt wird, d.h. identisch ist mit dem
+                        Vorsitzenden der Nationalversammlung. Daß das nicht zu leisten wäre, glaube
+                        ich nicht, denn die Funktionen eines Bundespräsidenten werden keine so
+                        umfangreichen sein, daß er diese Arbeit nicht zu bewältigen vermöchte. Es
+                        sind Arbeiten vielfach dekorativer Natur, die er zu erfüllen hat, und alles
+                        andere wird ohnedies von der Bundesregierung erledigt. Dem Bundespräsidenten
+                        wird eine überragende Fülle von Arbeit, wie es scheint, durchaus nicht
+                        zukommen. Es vermag der Präsident der Nationalversammlung diese Arbeit gewiß
+                        zu bewältigen, und es erscheint, wie gesagt, demokratischer und
+                        einheitlicher, nicht einen Präsidenten über diese Nationalversammlung zu
+                        stellen. Darum geben wir die Erklärung ab, daß wir in dieser Frage auf dem
+                        Boden der Koalitionsvereinbarung stehen.</p>
                 </sp>
                 <sp>
                     <speaker>Vorsitzender Dr. Rintelen: </speaker>
                     <p>Es sind drei Meinungen geäußert worden. Die Meinung des Herrn Landesrates
-                        Chriftoph geht dahin, den Bundespräfidenten nach § 41 der deutschen
-                        Reichsverfassung zu wählen, der besagt, „der Bundespräfident wird vom ganzen
-                        Volke gewählt“. Herr Dr. Schlegel beantragt, einen Bundespräfidenten in
-                        eigener Verfon zu schaffen. Die weitere Frage, wie das bestimmt wird, läßt
-                        er offen.<pb facs="#facs_88" n="88" xml:id="img_0088" break="yes"/>Die
-                        dritte Auffassung ist durch Herrn Delegierten Danneberg ventreten. Das find
-                        drei verfchiedene Auffaffungen, über die ich die Parteien zu blefragen habe.
-                    </p>
+                        Christoph geht dahin, den Bundespräsidenten nach § 41 der deutschen
+                        Reichsverfassung zu wählen, der besagt, „der Bundespräsident wird vom ganzen
+                        Volke gewählt“. Herr Dr. Schlegel beantragt, einen Bundespräsidenten in
+                        eigener Person zu schaffen. Die weitere Frage, wie das bestimmt wird, läßt
+                        er offen. <pb facs="#facs_88" n="88" xml:id="img_0088" break="yes"/>Die
+                        dritte Auffassung ist durch Herrn Delegierten Danneberg vertreten. Das sind
+                        drei verschiedene Auffassungen, über die ich die Parteien zu befragen
+                        habe.</p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Dr. Danneberg: </speaker>
-                    <p>Es erübrigt sich hier eine Vefragung, da ohnedies die drei Barteien ihre
-                        Meinung geäukert haben. </p>
+                    <p>Es erübrigt sich hier eine Befragung, da ohnedies die drei Parteien ihre
+                        Meinung geäußert haben. </p>
                 </sp>
                 <sp>
                     <speaker>Vorsitzender Dr. Rintelen: </speaker>
-                    <p>Wenn kein Miderfpruch erfolat. nehme ich an, daß die Herren, die gesprochen
-                        hlalben. die Meinung sämtlicher Barteigenoffen zum Ausbruch gebracht haben.
-                        In diesem Ffalle könnte ich von einer befonderen Ginholung der
-                        Meinungsäußzerung abfehen. </p>
+                    <p>Wenn kein Widerspruch erfolgt, nehme ich an, daß die Herren, die gesprochen
+                        haben, die Meinung sämtlicher Parteigenossen zum Ausdruck gebracht haben. In
+                        diesem Falle könnte ich von einer besonderen Einholung der Meinungsäußerung
+                        absehen. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Dr. Schlegel: </speaker>
@@ -6018,99 +6002,105 @@
                 </sp>
                 <sp>
                     <speaker>Vorsitzender Dr. Rintelen: </speaker>
-                    <p>Es kommt als nächfter Punkt die Wehrfrage zur Behandlung. Wenn der Herr
-                        Staatsfekretär nicht das Wort wünicht. so erteile ich dasfelbe dem Herrn
-                        Landesualt Dr. Uhrer.</p>
+                    <p>Es kommt als nächster Punkt die Wehrfrage zur Behandlung. Wenn der Herr
+                        Staatssekretär nicht das Wort wünscht, so erteile ich dasselbe dem Herrn
+                        Landesrat Dr. Uhrer. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Dr. Uhrer: </speaker>
-                    <p>Ich habe heute auftragsgemäß mit den Parteien Fühlung genommen und wir find,
-                        uns darüber einig, daß wir hier zu diefem Bunkte weder Wahlveden halten,
+                    <p>Ich habe heute auftragsgemäß mit den Parteien Fühlung genommen und wir sind
+                        uns darüber einig, daß wir hier zu diesem Punkte weder Wahlreden halten,
                         noch eine lange Wehrdebatte abführen wollen. Es gibt aber eine einheitliche
-                        Richtlinie und die muk darin beftehen, etwas Gutes zu fchaffen. Im
-                        Einverständniffe mit fämtlichen hier auf der Tänderkonferenz pertretenen
-                        Parteien bitte ich alls Meinungsäußzerung zu erklären: „Die Geeresfrage ift
-                        ein integrierender Befhandteil jeder Verfaffung uns daher muß die
-                        Mehrvorlage im Ginklang gebracht werden mit den Grundzügen derfelben: die
-                        Parteien haben erklärt, darüber weiter keine Debatte abzuführen.“</p>
+                        Richtlinie und die muß darin bestehen, etwas Gutes zu schaffen. Im
+                        Einverständnisse mit sämtlichen hier auf der Länderkonferenz vertretenen
+                        Parteien bitte ich, als Meinungsäußerung zu erklären: „Die Heeresfrage ist
+                        ein integrierender Bestandteil jeder Verfassung und daher muß die
+                        Wehrvorlage im Einklang gebracht werden mit den Grundzügen derselben; die
+                        Parteien haben erklärt, darüber weiter keine Debatte abzuführen.“ </p>
                 </sp>
                 <sp>
                     <speaker>Vorsitzender Dr. Rintelen: </speaker>
-                    <p>Wünscht jemand das Wort dazu2 Die anderen Parteien erheben keinen
-                        Widerfpruch, diher nehme ich an, daß dies die Erklärung aller Parteien ift.
-                        Wir gehen zum nächften Bunkt über: „Sandesorgane“. Ich erteile das Wort
-                        Herrn Staatsekretär Dr. Manr. </p>
+                    <p>Wünscht jemand das Wort dazu? Die anderen Parteien erheben keinen
+                        Widerspruch, daher nehme ich an, daß dies die Erklärung aller Parteien ist.
+                        Wir gehen zum nächsten Punkt über: „Landesorgane“. Ich erteile das Wort
+                        Herrn Staatssekretär Dr. Mayr. </p>
                 </sp>
                 <sp>
-                    <speaker>Staatsfekretär Dr. Manr: </speaker>
-                    <p>Die Landesorgane find beftimmt, folgendie Materien zu regeln: Stellung des
-                        Landtages, das Präfidium des Clandtages. die Stellung fdler Landesregierung
-                        des Landieshauptmannes, der Landesbehörden und insbefonders des
-                        Landesamtsdirektors. Wir haben geglaubt, dieses Kapitel in die Verfassung
-                        aufnehmen zu ffollen, um Ben Berfassungsentwurf nach allen Seiten hin
-                        möglichft auszugeftalten, und nach allen Richtungen, soweit es in einer
-                        Verffalssung möglich ist. die Gefichtspunkte feftzulegen, nach denen
-                        allenfalls die Verfaffung geordnet werden foll. Diefes Kapitel über die
-                        Organe der Länder berührt naturgemäß in erfter Linie wefentlich die
-                        Intereffen der Länder und ich enthwlte mich als Verfasser des Entwurfes
-                        jeber weitenen Aeußerung. </p>
+                    <speaker>Staatssekretär Dr. Mayr: </speaker>
+                    <p>Wir haben hier Punkt 9, der uns leider erst während der Fahrt hieher in die
+                        Hand gekommen ist, so daß wir ihn weder parteimäßig, noch mit einzelnen
+                        Kollegen besprechen konnten. Ich glaube, es wird den anderen Herren nicht
+                        viel besser ergangen sein. Nachdem im Verfassungsvorschlage des Herrn Dr.
+                        Mayr nichts darüber enthalten ist, sondern die ganzen Punkte der Abteilung 9
+                        nur vorkommen im Entwurf der Bundesverfassung, die wir vorgestern erhalten
+                        haben, so müssen wir allerdings sagen, daß wir uns nicht vollständig
+                        aussprechen konnten, und daß es Sache der Parteien sein muß, sich darüber
+                        klar zu werden. Eines wollen wir ruhig zugeben, daß wir erklären, die
+                        Notwendigkeit ist da, daß auch über die Landtage in der Staatsverfassung
+                        irgend ein Passus enthalten sei. Weiter muß ich sagen, daß wir jedoch nicht
+                        mit allem einverstanden sein können, was uns der Herr Staatssekretär in
+                        seinem Elaborate vorschlägt. Der Herr Staatssekretär bringt uns in seinem
+                        Elaborate: „Trennung des Landeshauptmannes vom Landespräsidenten“. Ich gebe
+                        ruhig zu, daß gerade die Trennung der Landesregierung vom Vorsitzenden des
+                        Landtages» viel Gutes für sich hat und daß viel dafür spricht, daß wir die
+                        Trennung durchführen sollen, daß der Mann, der die Regierung inne hat, nicht
+                        zugleich Vorsitzender des Landtages sein möge. Aber </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Sever: </speaker>
-                    <p>Wir haben hier Punkt 9. der uns leider erft während der Fahrt hieher in die
-                        Hand gekommen ift. fo dlaß wir ihn weder parteimäßig, noch mit einzelnen
-                        Kollegen befprechen konnten. Ich glaube, es wird den anderen Herren nicht
-                        viel beffer eergangen fein. Nachdem im Verfafsungsvorschlage des Herrn Dr.
-                        Mayr nichts darüber enthalten ift. sondern die ganzen Punkte der Abteilung
-                        9. nur vorkommen im Entwurf der Bundesperafsung. die wir vorgeftern erhalten
-                        haben, so müssen wir allerdings sagen, dak wir uns nicht vollständig
-                        ausfprechen konnten, und daß es Sache der Parteien fein muk. sich darüber
-                        klar zu werden. Gines wollen wir ruhig zugeben, dak wir erklären, die
-                        Notwendigkeit ift da. daß auch über die Landtage in der Stoatsverfafsung
-                        irgend ein Baffus enthalten fei. Weiter muß ich fagen, daß wir jedoch nicht
-                        mit allem einverftanden fein können, was uns der Herr Stahtsfekretär in
-                        feinem Glaborate vorschlägt. Der Herr Staatsfekretär bringt uns in feinem
-                        Glaborate: „Trennung des Landeshauptmannes vom Landespräfidenten“, ich gebe
-                        ruhig zu, daß gerade die Trennung der Landesregierung vom Vorfitzenden des
-                        Landtages viel Gutes für fich hat und dak viel dafür spricht, dak wir die
-                        Trennung durchführen follen, daß der Mann, der die Regierung inne hat, nicht
-                        zugleich Vorsitzender des Landtages fein möge. Abrr * 6<pb facs="#facs_89"
-                            n="89" xml:id="img_0089" break="yes"/>84 ebenfopiell Gutes. ebenjoviel
-                        Böfes bringt es mit fich. und ich glaube, daß es notwendig fein wird, gerade
-                        in diesem Punkte, daß sich die Parteien erft felbft usfprechen. und laß auch
-                        neben den Parteien die einzelnen Landesräte in jedem Lande darüber chlüfsig
-                        werden, wie es für das Land befferift. Richtig mag fein, daß der
-                        Landeshauptmann, der die Regierung vertritt und zugleich Vorsikender des
-                        Dandtages ift. auf diesem Stuhle nicht immer die angenehmfte Rolle spielt
+                    <p>Wir haben hier Punkt 9, der uns leider erst während der Fahrt hieher in die
+                        Hand gekommen ist, so daß wir ihn weder parteimäßig, noch mit einzelnen
+                        Kollegen besprechen konnten. Ich glaube, es wird den anderen Herren nicht
+                        viel besser ergangen sein. Nachdem im Verfassungsvorschlage des Herrn Dr.
+                        Mayr nichts darüber enthalten ist, sondern die ganzen Punkte der Abteilung 9
+                        nur vorkommen im Entwurf der Bundesverfassung, die wir vorgestern erhalten
+                        haben, so müssen wir allerdings sagen, daß wir uns nicht vollständig
+                        aussprechen konnten, und daß es Sache der Parteien sein muß, sich darüber
+                        klar zu werden. Eines wollen wir ruhig zugeben, daß wir erklären, die
+                        Notwendigkeit ist da, daß auch über die Landtage in der Staatsverfassung
+                        irgend ein Passus enthalten sei. Weiter muß ich sagen, daß wir jedoch nicht
+                        mit allem einverstanden sein können, was uns der Herr Staatssekretär in
+                        seinem Elaborate vorschlägt. Der Herr Staatssekretär bringt uns in seinem
+                        Elaborate: „Trennung des Landeshauptmannes vom Landespräsidenten“. Ich gebe
+                        ruhig zu, daß gerade die Trennung der Landesregierung vom Vorsitzenden des
+                        Landtages» viel Gutes für sich hat und daß viel dafür spricht, daß wir die
+                        Trennung durchführen sollen, daß der Mann, der die Regierung inne hat, nicht
+                        zugleich Vorsitzender des Landtages sein möge. Aber <pb facs="#facs_89"
+                            n="89" xml:id="img_0089" break="yes"/>ebensoviel Gutes, ebensoviel Böses
+                        bringt es mit sich, und ich glaube, daß es notwendig sein wird, gerade in
+                        diesem Punkte, daß sich die Parteien erst selbst aussprechen und daß auch
+                        neben den Parteien die einzelnen Landesräte in jedem Lande darüber schlüssig
+                        werden, wie es für das Land besser ist. Richtig mag sein, daß der
+                        Landeshauptmann, der die Regierung vertritt und zugleich Vorsitzender des
+                        Landtages ist, auf diesem Stuhle nicht immer die angenehmste Rolle spielt
                         und daß er, wenn die Regierung angegriffen wird, als Vorsitzender und als
                         Landeshauptmann zugleich, leider nicht gegen die Angriffe Stellung nehmen
-                        kann. Es ift aber auch möglich, 1dlaß man da einen Weg findet, der dahin
-                        gebt, daß der Landeshauptmann als solcher die ganzen Geschäfte zu ühren hat
-                        und dak eventuell nur ein Vorsikender, der fonft gar nichts mit den
-                        Geschäften zu tun hat. für den Landtag gewählt werden kann. Gegen eines.
-                        meine Herren, müffen wir uns ftellen: Baß nämlich die
-                        Dandeshlauptmannftellvertreter nicht mehr von dem ganzen Landtag gewählt
-                        werden jollen, sondern nur mehr aus dem Landesrat oder aus der
-                        Landesregierung, wie es in diesem Vorschlag enthalten ift. denn anders ift
-                        es nicht herauszulefen. und dagegen müßten wir uns wehren, daß diefer
-                        Stellvertreter dann der Dandesamtsdirektor fein foll. Das wäre wieder das
-                        Hervorkommen des alten R. R. Statthalters, mit dem Moment, wo wir die
-                        Geschäfte aus den Händen der freigewählten Ffunktionäre geben würden.
-                        Aukerdem sind wir mit einer ganzen Anzahl anderer Vorschläge hier nicht
-                        einverstanden. Wir wollen uns darüber auch heute nicht vollständig
-                        aussprechen, sondern wir möchten bitten. daß gerade diefe Punkte noch in den
-                        einzelnen Landesräten besprochen werden. um uns klar zu fein, nach welchem
-                        Modus wir den Landtag und auch den Landesrat zufammenfeken wollen. Eines
-                        fteht feft, meine Herren, wir haben ls Land die Pflicht, zu trachten uns den
-                        Landtag lo herzurichten, wie wir glauben, daß er für unjer Land notwendig
-                        erscheint. Gs ift infolgedeffen dringend notwendig. die Sache heute nicht
-                        rafch zu erledigen, sondern in den einzelnen Ländern erst noch zu
-                        befprechen, um das richtiafte und befteherusfuchen zu können. </p>
+                        kann. Es ist aber auch möglich, daß man da einen Weg findet, der dahin geht,
+                        daß der Landeshauptmann als solcher die ganzen Geschäfte zu führen hat und
+                        daß eventuell nur ein Vorsitzender, der sonst gar nichts mit den Geschäften
+                        zu tun hat, für den Landtag gewählt werden kann. Gegen eines, meine Herren,
+                        müssen wir uns stellen: daß nämlich die Landeshauptmannstellvertreter nicht
+                        mehr von dem ganzen Landtag gewählt werden sollen, sondern nur mehr aus dem
+                        Landesrat oder aus der Landesregierung, wie es in diesem Vorschlag enthalten
+                        ist, denn anders ist es nicht herauszulesen und dagegen müßten wir uns
+                        wehren, daß dieser Stellvertreter dann der Landesamtsdirektor sein soll. Das
+                        wäre wieder das Hervorkommen des alten k. k. Statthalters, mit dem Moment,
+                        wo wir die Geschäfte aus den Händen der freigewählten Funktionäre geben
+                        würden. Außerdem sind wir mit einer ganzen Anzahl anderer Vorschläge hier
+                        nicht einverstanden. Wir wollen uns darüber auch heute nicht vollständig
+                        aussprechen, sondern wir möchten bitten, daß gerade diese Punkte noch in den
+                        einzelnen Landesräten besprochen werden, um uns klar zu sein, nach welchem
+                        Modus wir den Landtag und auch den Landesrat zusammensetzen wollen. Eines
+                        steht fest, meine Herren, wir haben als Land die Pflicht, zu trachten, uns
+                        den Landtag so herzurichten, wie wir glauben, daß er für unser Land
+                        notwendig erscheint. Es ist infolgedessen dringend notwendig, die Sache
+                        heute nicht rasch zu erledigen, sondern in den einzelnen Ländern erst noch
+                        zu besprechen, um das richtigste und beste heraussuchen zu können.</p>
                 </sp>
                 <sp>
                     <speaker>Vorsitzender Landeshauptmann Dr. Rintelen: </speaker>
-                    <p>Ich bitte, ift das Ihre Ueußerung oder als die Ueukerung Ihrer Partei
-                        aufzufaffen? </p>
+                    <p>Ich bitte, ist das Ihre Aeußerung oder als die Aeußerung Ihrer Partei
+                        aufzufassen? </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Sever: </speaker>
@@ -6118,380 +6108,381 @@
                 </sp>
                 <sp>
                     <speaker>Vorsitzender Dr. Rintelen: </speaker>
-                    <p>Ich erlaube mir. darauf aufmerksam zu machen, daß nach dem Entwurf der
-                        Umtsdirektor nicht 1ls Stellvertreter gedacht ift. Ich erteile das Wort dem
-                        Heirn Staatsfekretär Dr. Mayr zu einer tatsächlichen Berichtigung. </p>
+                    <p>Ich erlaube mir, darauf aufmerksam zu machen, daß nach dem Entwurf der
+                        Amtsdirektor nicht als Stellvertreter gedacht ist. Ich erteile das Wort dem
+                        Herrn Staatssekretär Dr. Mayr zu einer tatsächlichen Berichtigung. </p>
                 </sp>
                 <sp>
-                    <speaker>Staatsfekretär Dr. Manr: </speaker>
-                    <p>Ich möchte berichtigen, daß laut Urtikel 92 des Entwurfes der
-                        Landesamtsdirektor nur zur Leitung des gesamten inneren Dienftbetriebes der
-                        Landesregierung beftmmt ift. aber durchaus nicht eine Stellvertretung des
-                        Landeshlauptmannes übernehmen darf. </p>
+                    <speaker>Staatssekretär Dr. Mayr: </speaker>
+                    <p>Ich möchte berichtigen, daß laut Artikel 92 des Entwurfes der
+                        Landesamtsdirektor nur zur Leitung des gesamten inneren Dienstbetriebes der
+                        Landesregierung bestimmt ist, aber durchaus nicht eine Stellvertretung des
+                        Landeshauptmannes übernehmen darf. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Sever: </speaker>
-                    <p>Es heißt hier ausdrüchlich: Gs kommt als weiterer Stellvertreter des
-                        Landeshauptmannes eventwell der Landesamtsdirektor in Betracht. </p>
+                    <p>Es heißt hier ausdrücklich: Es kommt als weiterer Stellvertreter des
+                        Landeshauptmannes eventuell der Landesamtsdirektor in Betracht. </p>
                 </sp>
                 <sp>
-                    <speaker>Staatsfekretär Dr. Manr: </speaker>
-                    <p>Nur für den übertragenen Wirkungskreis Aber ja nicht ür felbständige Ugenden
-                        des Landtages. Dieer übertragene Wirkungskreis wird ohnedies äukerft
-                        eingeschränkt fein und sich nur auf wenige Belange, beziehen. </p>
+                    <speaker>Staatssekretär Dr. Mayr: </speaker>
+                    <p>Nur für den übertragenen Wirkungskreis. Aber ja nicht für selbständige
+                        Agenden des Landtages. Dieser übertragene Wirkungskreis wird ohnedies
+                        äußerst eingeschränkt sein und sich nur auf wenige Belange beziehen. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Dr. Ender: </speaker>
-                    <p>Meine Herren! Der Herr Landdeshauptmann Sever hat ganz richtig gesagt, daß
-                        hier die Materien geregelt find. die pielfach zu einer ausgesprochenen Sache
-                        des Landtages felbft gehören. Ich pflichte diefer Anschauung vollständig
-                        bei. Meines Grachtens haben die Länder felbft sich ihre Verfassung zu geben.
-                        Das ift eine naturgemähe Sache. Wenn sie schon selbständige Ländler find.
-                        und die Kompetenzen ausüben, die nicht dem Bunde übertragen find, so müffen
-                        diese in ihr seigemes Haus auch auf dem eigenen Gebiet bauen können. Fordern
+                    <p>Meine Herren! Der Herr Landeshauptmann Sever hat ganz richtig gesagt, daß
+                        hier die Materien geregelt sind, die vielfach zu einer ausgesprochenen Sache
+                        des Landtages selbst gehören. Ich pflichte dieser Anschauung vollständig
+                        bei. Meines Erachtens haben die Länder selbst sich ihre Verfassung zu geben.
+                        Das ist eine naturgemäße Sache. Wenn sie schon selbständige Länder sind, und
+                        die Kompetenzen ausüben, die nicht dem Bunde übertragen sind, so müssen
+                        diese in ihr eigenes Haus auch auf dem eigenen Gebiet bauen können. Fordern
                         muß man, daß die Landes-<pb facs="#facs_90" n="90" xml:id="img_0090"
-                            break="yes"/>verfassung mit der Verfassung des Bundes absolut in keinem
-                        Widerfpruch zu stehen hat. Das Recht muß man dem Bunde ohne Zweifel
-                        einräumen, daß er die Dandesverfassung nach diejer Richtung überprüft. Im
-                        übrigen aberfoll man es den Ländern überlaffen, wie fie ihr Haus bauen. Der
-                        Bund hat ein Intereffe zu fordern, diaß gewisse demokratische Grundrechte
-                        auch in den Landesverfafsungen gewahrt. sein müssen. Der Bund hat zum
-                        Beispiel das Intereffe. zu verlangen, daß die Wahlordnungen lauf abfolut
-                        demokratischer Grunßlage nach dem allgemeinen, gleichen und direkten
-                        Verhältniswahlrecht aufgebaut feien, weil fonft der Wefenscharakter des
-                        Bundses wieder zerftört würde. Fferner möchte ich fagen, daß dem Bunde ein
-                        gewifses Prüfungsrecht zustehen. muk. ob die Gefeke, die die Länder
-                        schaffen, mit der Bundesverfafsung nicht im Widerspruch ind. In dieser
-                        Beziehung hat sich nun dasjenige. was über Unregung des Herrn Doktor Renner
-                        eingeführt und bisher gehandhabt wurde. nicht fchlecht bewährt, nämlich die
-                        Vorlage der Befeke bei der Bundesregierung, die einen gewiffen Zeitraum hat,
-                        um diagegen eine Vorftellung zu erheben. Befchließt es das Land neuerlich,
-                        dann wird es Gefek, wobei der Regierung immer noch das Recht zufteht, vor
-                        dem Verfassungsnerichtshof das Gefek anzufechten. Das hat fich bewährt, das
-                        könnte man auch als Norm wieder gelten laffen. Im übrigen handelt dier
-                        vierte Abschnitt von Dingen, die unbesingt den Ländern zu regeln zuftehen.
-                        Dieje Ausführungen. Sie ich hier mache, weichen wefentlich von jenen des
-                        Herrn CG. Gever ib. Gs follte die Ffrage. ob die Verfon des
-                        Landeshauptmannes mit jener des Vorfitzenden des Landtages vereinigt fein
-                        follte oder nicht. gendwie geregelt werden. Ich glaube. fie zu regeln, ber
-                        in der Landesverfafsung. Gs ift ein großer Unterschied, ob wir da ein großes
-                        Land haben oder ganz kleine Verhältniffe. Inder Schweiz hat jeder Kanton
-                        andere Einrichtungen, was laber die Staatsverwaltung nicht tangiert. In ganz
-                        kleinen Kantonen find zwei funktionen in einer Verfon vereinigt, in großen
-                        Kantonen werden, den modernften Theorien entsprechend. Vorfikende, Regierung
-                        ufw. ftrena ausseinander gehalten. Was sich für den Grofzen schickt, schickt
-                        sich nicht immer für den Kleinen, der nur pakzig auschaut, wenn er es macht
-                        wie die Groken. Darum foll man das den Ländern individuell machen lafsen.
-                        Die Vertreter der chriftlichozialen und freiheitlichen Partei haben sich nun
-                        dahin geeinigt, folgende Erklärung abzugeben: „Die Bestimmungen des vierten
-                        Abschnittes über die Gejekgebung und Vollziehung der Länder betreffen
-                        Gegenftände. die in den Verfassungsgeileken der einzelnen Länder zu regeln.
-                        sind und haben daher zu entfallen. In die Verfafsung des Bundesftaates find
-                        nur folgende Bestimmungen aufzunehmen: 1. Die Verfaffung jedes Landes ift
-                        vom Bunde dihin zu überprüfen ob dieselbe nichts den Vorschriften der
-                        Bundesverfaffung Zuwiderlaufendes enthalte. Die Gefekgebung urch eine
-                        Körperfchaft ausübt. deren Mitglieder auf Brund des gleichen, geheimen,
-                        persönlichen und direkten Verhältniswahlrechtes gewählt find. und die
-                        vollziehende Gewalt durch seine vom Landtage zu wählende Landesregierung
-                        ausübt. 2. Befekesbefchlüffe des Landtages find vor der Kundmachung der
-                        Vundesregierung vorzulegen. Wie diefe binnen 14 Tagen mitteilt, dak sie das
-                        Befek vor dem Verfüfsungsgerichtshof anfechte, und die Anfechtung binwen
-                        weiteren 14 Tagen einreicht, fo hat die Kunsmachung zu unterbleiben. Wenn
-                        die Regierung binnen 14 Tagen der Landesregierung Vorftellungen gegen den
-                        Geekesentwurf ankündigt und binnen weiteren 14 Tagen diefelben ausführt. fo
-                        kann die Kundmachung erft erfolgen, wenn der Landtag das Befek neuerlich
-                        beschloffen hlat.“ </p>
+                            break="yes"/>Meine Herren! Der Herr Landeshauptmann Sever hat ganz
+                        richtig gesagt, daß hier die Materien geregelt sind, die vielfach zu einer
+                        ausgesprochenen Sache des Landtages selbst gehören. Ich pflichte dieser
+                        Anschauung vollständig bei. Meines Erachtens haben die Länder selbst sich
+                        ihre Verfassung zu geben. Das ist eine naturgemäße Sache. Wenn sie schon
+                        selbständige Länder sind, und die Kompetenzen ausüben, die nicht dem Bunde
+                        übertragen sind, so müssen diese in ihr eigenes Haus auch auf dem eigenen
+                        Gebiet bauen können. Fordern muß man, daß die Landes-  verfassung mit der
+                        Verfassung des Bundes absolut in keinem Widerspruch zu stehen hat.38 Das
+                        Recht muß man dem Bunde ohne Zweifel einräumen, daß er die Landesverfassung
+                        nach dieser Richtung überprüft. Im übrigen aber soll man es den Ländern
+                        überlassen, wie sie ihr Haus bauen. Der Bund hat ein Interesse zu fordern,
+                        daß gewisse demokratische Grundrechte auch in den Landesverfassungen gewahrt
+                        sein müssen. Der Bund hat zum Beispiel das Interesse, zu verlangen, daß die
+                        Wahlordnungen auf absolut demokratischer Grundlage nach dem allgemeinen,
+                        gleichen und direkten Verhältniswahlrecht aufgebaut seien, weil sonst der
+                        Wesenscharakter des Bundes wieder zerstört würde. Ferner möchte ich sagen,
+                        daß dem Bunde ein gewisses Prüfungsrecht zustehen muß, ob die Gesetze, die
+                        die Länder schaffen, mit der Bundesverfassung nicht im Widerspruch sind. In
+                        dieser Beziehung hat sich nun dasjenige, was über Anregung des Herrn Doktor
+                        Renner eingeführt und bisher gehandhabt wurde, nicht schlecht bewährt,
+                        nämlich die Vorlage der Gesetze bei der Bundesregierung, die einen gewissen
+                        Zeitraum hat, um dagegen eine Vorstellung zu erheben. Beschließt es das Land
+                        neuerlich, dann wird es Gesetz, wobei der Regierung immer noch das Recht
+                        zusteht, vor dem Verfassungsgerichtshof das Gesetz anzufechten. Das hat sich
+                        bewährt, das könnte man auch als Norm wieder gelten lassen. Im übrigen
+                        handelt der vierte Abschnitt von Dingen, die unbedingt den Ländern zu regeln
+                        zustehen. Diese Ausführungen, die ich hier mache, weichen wesentlich von
+                        jenen des Herrn LH. Sever ab. Es sollte die Frage, ob die Person des
+                        Landeshauptmannes mit jener des Vorsitzenden des Landtages vereinigt sein
+                        sollte oder nicht, irgendwie geregelt werden. Ich glaube, sie ist zu regeln,
+                        aber in der Landesverfassung. Es ist ein großer Unterschied, ob wir da ein
+                        großes Land haben oder ganz kleine Verhältnisse. In der Schweiz hat jeder
+                        Kanton andere Einrichtungen, was aber die Staatsverwaltung nicht tangiert.
+                        In ganz kleinen Kantonen sind zwei Funktionen in einer Person vereinigt, in
+                        großen Kantonen werden, den modernsten Theorien entsprechend, Vorsitzende,
+                        Regierung usw. streng auseinander gehalten. Was sich für den Großen schickt,
+                        schickt sich nicht immer für den Kleinen, der nur patzig ausschaut, wenn er
+                        es macht wie die Großen. Darum soll man das den Ländern individuell machen
+                        lassen. Die Vertreter der christlichsozialen und freiheitlichen Partei haben
+                        sich nun dahin geeinigt, folgende Erklärung abzugeben: „Die Bestimmungen des
+                        vierten Abschnittes über die Gesetzgebung und Vollziehung der Länder
+                        betreffen Gegenstände, die in den Verfassungsgesetzen der einzelnen Länder
+                        zu regeln sind und haben daher zu entfallen. In die Verfassung des
+                        Bundesstaates sind nur folgende Bestimmungen aufzunehmen: 1. Die Verfassung
+                        jedes Landes ist vom Bunde dahin zu überprüfen, ob dieselbe nichts den
+                        Vorschriften der Bundesverfassung Zuwiderlaufendes enthalte, die
+                        Gesetzgebung durch eine Körperschaft ausübt, deren Mitglieder auf Grund des
+                        gleichen, geheimen, persönlichen und direkten Verhältniswahlrechtes gewählt
+                        sind und die vollziehende Gewalt durch eine vom Landtage zu wählende
+                        Landesregierung ausübt. 2. Gesetzesbeschlüsse des Landtages sind vor der
+                        Kundmachung der Bundesregierung vorzulegen. Wie diese binnen 14 Tagen
+                        mitteilt, daß sie das Gesetz vor dem Verfassungsgerichtshof anfechte, und
+                        die Anfechtung binnen weiterer 14 Tage ein reicht, so hat die Kundmachung zu
+                        unterbleiben. Wenn die Regierung binnen 14 Tagen der Landesregierung
+                        Vorstellungen gegen den Gesetzesentwurf ankündigt und binnen weiteren 14
+                        Tagen dieselben ausführt, so kann die Kundmachung erst erfolgen, wenn der
+                        Landtag das Gesetz neuerlich beschlossen hat.“</p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Resel: </speaker>
-                    <p>Mene Herrehnl Nach den oeben abgegebenem, Erklärungen fieht es fast aus, wie
-                        wenn wir hier einer legislative Arbeit zu leiften hätten. Ich glauke, es
-                        handelt sich hier nur um die Meinungsäufzerung, für eine bestimmte Grundlage
-                        und nicht schom, um diegenaue Freftstellung irgenßs welchen gesetzlicher
-                        Bestimmungen. Ich lege Wert darauf, daß die Erklärungen der Konffenenz nun
-                        als Meinungsäußerungen zu betrachten find. Ich will mich num zur Frage, ob
-                        die Landtage einen besonderen Vorfitzenddien außerr diem Camdeshauptmann
-                        haben fossem, äußern. Ich glaube von<pb facs="#facs_91" n="91"
-                            xml:id="img_0091" break="yes"/>86 unjerem Standpunkt aus müsien wir uns
-                        dagegen aussprechen, daß außer dem Candeshamptmanm noch ein besonderer
-                        Vorsitzender für den Candtag bestimmt werde. Wir simd dagegen, daß im Staait
-                        ein besonderer Bundesprässident gewählt werde, und müssen daher auch analog
-                        dagegen sein, daß das im Lande geschlieht. Gs. ist zweifellos, daß eine
-                        Vereinigung beider Funktionen für die betyeifenden. Personenmanche nicht
-                        sehr angenehme Sachen in sich Hirgt und viellleicht auch mitunter auf die
-                        Verhandlungen, des Landtages und auf den Geschäftsgang in der Regierumi
-                        nicht sehr vorteilhaft einwirkt. Andererseits aber kann ich mir nicht
-                        vorstellen, daß man einen Vorsitzenden für den Landtag wählt, der bloß
-                        Verhandlunigsleiter ift, der gar feine andere Aufgabe hat, als bloß die
-                        Verhandlungen des Landtaggs zuheitem. Die Leitung der Verhhandlungen des
-                        Landtages erfordert eine ziemliche Umficktt und es wird dem Landeshauptmann
-                        mitunter benommen sein, sich um alle perlamenitarischen Details, die im
-                        Landtage zu beobachtem sind, zu kümmern. Den aber glaube ich, läßt sich
-                        leicht abhelfen. Wir haben doch im altem Abgeorönetenhaus eine
-                        Präfidialfanzlei gehabt, die feinerlei Regierungsfunktion befessen hatt, die
-                        alle Arbeiten gemacht hat, so daß der Vorsitzende nur die Entscheidung zu
-                        treffen hatte und daß ihm so ein großer Teil der Arbeit abgenommen worden
-                        ist. Aber ich glaube, es würsdre den Würde des Landtages gar nicht
-                        entsprechen, wenn man. 6loß eine geschäftsleitende Person mit dem Vorsitz
-                        des Landtages betrauen würde. Außerdem mache ich darauf aufmerksam, daß,
-                        wenn wir auf dem Standpunkt stehen, daß es endlich doch noch einmal zum
-                        Anschluß an dias Deutsche Reich kommt, keinse Einrichthung geschaffen werden
-                        soll, die die Länder als ein Bessonderes festsetzen. Denn ich steher im
-                        Gegenfatz zu den kleinen Sandländern, die sich von unss wclaschleichen
-                        wollen, auf dem Standpunkt, daß der Anschluß am das Deutsche Reich nur in
-                        der Gesamtheit erfolgen, kann und in unjerer Erklärumg ist enthallten, daß
-                        wir keinerlei Einfrichtungen schafsen sollen, die dann dieem Anschluß
-                        irgendwie im Wege stünden. Wemm wir einen komplizierten, Apparat im Landtag
-                        einführen, so schaffen wir schon etwas, das dann schüwer zu beseitigem ist.
-                        Ich stelle mir vor, Deutschöfterreich wird als Bundesland sowie Bayern,
-                        Sachsen, Breußen, dem deutschen Bunde hiditreten und sich amschliefren am
-                        Deutschland. Ich kanm mir aber nicht vorstellen, daß wir dieses Reuß-Greiz
-                        und Nelß-Schleiz kopieren wollen, das heißt, daf Deutschüfterreich sich
-                        anschließt und dann wieder in kleine einzehme Teile zerfällt. Num, meiner
-                        Herren, die Landesverwaltung wird dann einfach die Kreizverwaltung
-                        darftellen und sier wird unter der Verwaltung des gefanten Landes, das sich
-                        anschließt, stehen. Und dlas empfiehlt sich schon gar nicht, daß man
-                        irgeniwelche Einrichtungen trifith die dann einer Aenderung hinderlich im
-                        Weger finld. Außerdem glaube ich, daß man dadurch im Lande wieder eine meue
-                        Funktion schlafsen würde und wir müssen, ich gestehe es ganz offen, bei dem
-                        Mangel an, Berfomen, den wir haben — win machen zwar ein großes Getöfe, daß
-                        wir ein ungeheuten gescheites Volk sind — dann genau prüfen, wer sich zu
-                        irgend welcher Sunktiom eignen würde. So kommen wir dahinter, daß witr, gan,
-                        nicht so viele überflüssige Perssonen haben, umd meue Funktionem schaffen zu
-                        können. Entweder wird das ganze mangelhaft oder es fehten unss die Leute,
-                        die wir brauchen können. Das meit jeder, der heute im dem Vemwaltung sitzt
-                        undd ernstlich mitarbeitet und der, ein wirkliches Interesse für die
-                        Allgemeinheit zeigt. Wozun daher die überflüssigen Kunktionen, ich muß daher
-                        micht dafür aussprechen, daß unbedingt beide Funktionen zusammembbleiben,
-                        wie bisher, das heißt, daß der Landeshauptmann zugleich Vorsitzender des
-                        Bamidtages ist. Dazu gebe ich noch zu bemerken, daß wir uns endlich, glaube
-                        ich, doch dazu bequemen müssen, den alten österreichischen Parlamenstarismus
-                        zu befeitigen, das heißt, daß man nicht hergeht und Tage lang über etwas
-                        redet und dann wird das ganze in einer viertel Stunde von den Parteien
-                        vereinbart. Wir reden ungemein viel, wir roflen alle möglichen
-                        Gesichstspunkte auf und zum Scklluß kommem wir doch zu dem zurück, was
-                        praktisch und zweckmäßig ist und was sich durchsetzen läßt. Der Landtag
-                        wird, glaube ich, eine viel füngere Situngsperiodi haben, als es bisher der
-                        Fall war und ebenso muß die Nationalversammlung, die jetzt schon ein anderes
-                            Bild<pb facs="#facs_92" n="92" xml:id="img_0092" break="yes"/>aufweist,
-                        als das frühene österreichische Parlament, vereinfacht werden. Bei der
-                        Vcueinfachung dieses parlamentarischem Apparates wird ich dann, auch die
-                        Funktion dies Landeshauptmannes a13 Vorsitzender des Landtages sehr
-                        erleichtern. Ich glaube Saher, Schwierigkeitem haben wir wenige zur
-                        beseitigen. Dafür aber würden wir, eine Reihe, von Gejahren oder von Dingen
-                        schaffen, die sehr schwerfällig würden, wenn wir beschließen würden, beide
-                        Funktionen zu tuennem. Ich bin daher für bite Beibehaltung des bisherigen
-                        Modnis. </p>
+                    <p>Meine Herren! Nach den soeben abgegebenen Erklärungen sieht es fast aus, wie
+                        wenn wir hier eine legislative Arbeit zu leisten hätten. Ich glaube, es
+                        handelt sich hier nur um die Meinungsäußerung, für eine bestimmte Grundlage
+                        und nicht schon um die genaue Feststellung irgend welcher gesetzlicher
+                        Bestimmungen. Ich lege Wert darauf, daß die Erklärungen der Konferenz nur
+                        als Meinungsäußerungen zu betrachten sind. Ich will mich nun zur Frage, ob
+                        die Landtage einen besonderen Vorsitzenden außer dem Landeshauptmann haben
+                        sollen, äußern. Ich glaube von <pb facs="#facs_91" n="91" xml:id="img_0091"
+                            break="yes"/>unserem Standpunkt aus müssen wir uns dagegen aussprechen,
+                        daß außer dem Landeshauptmann noch ein besonderer Vorsitzender für den
+                        Landtag bestimmt werde. Wir sind dagegen, daß im Staat ein besonderer
+                        Bundespräsident gewählt werde, und müssen daher auch analog dagegen sein,
+                        daß das im Lande geschieht. Es ist zweifellos, daß eine Vereinigung beider
+                        Funktionen für die betreffenden Personen manche nicht sehr angenehme Sachen
+                        in sich birgt und vielleicht auch mitunter auf die Verhandlungen des
+                        Landtages und auf den Geschäftsgang in der Regierung nicht sehr vorteilhaft
+                        einwirkt. Ändererseits aber kann ich mir nicht vorstellen, daß man einen
+                        Vorsitzenden für den Landtag wählt, der bloß Verhandlungsleiter ist, der gar
+                        keine andere Aufgabe hat, als bloß die Verhandlungen des Landtages zu
+                        leiten. Die Leitung der Verhandlungen des Landtages erfordert eine ziemliche
+                        Umsicht und es wird dem Landeshauptmann mitunter benommen sein, sich um alle
+                        parlamentarischen Details, die im Landtage zu beobachten sind, zu kümmern.
+                        Dem aber glaube ich, läßt sich leicht abhelfen. Wir haben doch im alten
+                        Abgeordnetenhaus eine Präsidialkanzlei gehabt, die keinerlei
+                        Regierungsfunktion besessen hat, die alle Arbeiten gemacht hat, so daß der
+                        Vorsitzende nur die Entscheidung zu treffen hatte und daß ihm so ein großer
+                        Teil der Arbeit abgenommen worden ist. Aber ich glaube, es würde der Würde
+                        des Landtages gar nicht entsprechen, wenn man bloß eine geschäftsleitende
+                        Person mit dem Vorsitz des Landtages betrauen würde. Außerdem mache ich
+                        darauf aufmerksam, daß, wenn wir auf dem Standpunkt stehen, daß es endlich
+                        doch noch einmal zum Anschluß an das Deutsche Reich kommt, keine Einrichtung
+                        geschaffen werden soll, die die Länder als ein Besonderes festsetzen. Denn
+                        ich stehe, im Gegensatz zu den kleinen Randländern, die sich von uns
+                        wegschleichen wollen, auf dem Standpunkt, daß der Anschluß an das Deutsche
+                        Reich nur in der Gesamtheit erfolgen kann und in unserer Erklärung ist
+                        enthalten, daß wir keinerlei Einrichtungen schaffen sollen, die dann diesem
+                        Anschluß irgendwie im Wege stünden. Wenn wir einen komplizierten Apparat im
+                        Landtag einführen, so schaffen wir schon etwas, das dann schwer zu
+                        beseitigen ist. Ich stelle mir vor, Deutschösterreich wird als Bundesland
+                        sowie Bayern, Sachsen, Preußen, dem deutschen Bunde beitreten und sich
+                        anschließen an Deutschland. Ich kann mir aber nicht vorstellen, daß wir
+                        dieses Reuß-Greiz und Reuß-Schleiz kopieren wollen, das heißt, daß
+                        Deutschösterreich sich anschließt und dann wieder in kleine einzelne Teile
+                        zerfällt. Nun, meine Herren, die Landesverwaltung wird dann einfach die
+                        Kreisverwaltung darstellen und sie wird unter der Verwaltung des gesamten
+                        Landes, das sich anschließt, stehen. Und das empfiehlt sich schon gar nicht,
+                        daß man irgendwelche Einrichtungen trifft, die dann einer Aenderung
+                        hinderlich im Wege sind. Außerdem glaube ich, daß man dadurch im Lande
+                        wieder eine neue Funktion schaffen würde und wir müssen, ich gestehe es ganz
+                        offen, bei dem Mangel an Personen, den wir haben — wir machen zwar ein
+                        großes Getöse, daß wir ein ungeheuer gescheites Volk sind — dann genau
+                        prüfen „wer sich zu irgend welcher Funktion eignen würde. So kommen wir
+                        dahinter, daß wir gar nicht so viele überflüssige Personen haben, um neue
+                        Funktionen schaffen zu können. Entweder wird das ganze mangelhaft oder es
+                        fehlen uns die Leute, die wir brauchen können. Das weiß jeder, der heute in
+                        der Verwaltung sitzt und ernstlich mitarbeitet und der ein wirkliches
+                        Interesse für die Allgemeinheit zeigt. Wozu daher die überflüssigen
+                        Funktionen, ich muß daher mich dafür aussprechen, daß unbedingt beide
+                        Funktionen zusammenbleiben, wie bisher, das heißt, daß der Landeshauptmann
+                        zugleich Vorsitzender des Landtages ist. Dazu gebe ich noch zu bedenken, daß
+                        wir uns endlich, glaube ich, doch dazu bequemen müssen, den alten
+                        österreichischen Parlamentarismus zu beseitigen, das heißt, daß man nicht
+                        hergeht und Tage lang über etwas redet und dann wird das ganze in einer
+                        viertel Stunde von den Parteien vereinbart. Wir reden ungemein viel, wir
+                        rollen alle möglichen Gesichtspunkte auf und zum Schluß kommen wir doch zu
+                        dem zurück, was praktisch und zweckmäßig ist und was sich durchsetzen läßt.
+                        Der Landtag wird, glaube ich, eine viel kürzere Sitzungsperiode haben, als
+                        es bisher der Fall war und ebenso muß die Nationalversammlung, die jetzt
+                        schon ein anderes Bild <pb facs="#facs_92" n="92" xml:id="img_0092"
+                            break="yes"/>aufweist, als das frühere österreichische Parlament,
+                        vereinfacht werden. Bei der Vereinfachung dieses parlamentarischen Apparates
+                        wird sich dann auch die Funktion des Landeshauptmannes als Vorsitzender des
+                        Landtages sehr erleichtern. Ich glaube daher, Schwierigkeiten haben wir
+                        wenige zu beseitigen. Dafür aber würden wir, eine Reihe von Gefahren oder
+                        von Dingen schaffen, die sehr schwerfällig würden, wenn wir beschließen
+                        würden, beide Funktionen zu trennen. Ich bin daher für die Beibehaltung des
+                        bisherigen Modus. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Dr. Pflanzl: </speaker>
-                    <p>Sehr verehrte Herren! Wir veitreten die Ansicht, daß diee Grundzüge über die
-                        Organifation des ganzen Landes und über die Gefetzgebung in der Verfassung
-                        unbedingt einthalten sein müssen. Die mäheren Ausführungen sollen jedoch der
-                        Landesgesetzgebung vorbehalten bleiben. Die Fasjung, wie sie heuter vom
-                        Herrm Landeshauptmann Dr. Gnder vorgetragen wurde, entspricht auh unserer
-                        Anlicht vollkommen. Insbesondere was die Gefeßgebung der Länder selbst
-                        betrifft. Früher hat sich die Gesetzgebung der Länder in einer Form beregt,
-                        die zweifellos als nichtentsprechend bezeichnet werden, kaum. 63 war die
-                        Bestimmung enthalten, daß die Landesgesetze der Regierung vorgelegtt werden
+                    <p>Sehr verehrte Herren! Wir vertreten die Ansicht, daß die Grundzüge über die
+                        Organisation des ganzen Landes und über die Gesetzgebung in der Verfassung
+                        unbedingt enthalten sein müssen. Die näheren Ausführungen sollen jedoch der
+                        Landesgesetzgebung vorbehalten bleiben. Die Fassung, wie sie heute vom Herrn
+                        Landeshauptmann Dr. Ender vorgetragen wurde, entspricht auch unserer Ansicht
+                        vollkommen. Insbesondere was die Gesetzgebung der Länder selbst betrifft.
+                        Früher hat sich die Gesetzgebung der Länder in einer Form bewegt, die
+                        zweifellos als nichtentsprechend bezeichnet werden kann. Es war die
+                        Bestimmung enthalten, daß die Landesgesetze der Regierung vorgelegt werden
                         müßten. Ein Zeitpunkt, in welchem die Regierung zu diesen Landesgesetzen
-                        Stellung zu nehmen hätte, wan nicht vorgesehen. Gs hätte daher die
+                        Stellung zu nehmen hätte, war nicht vorgesehen. Es hätte daher die
                         Möglichkeit eintreten können, daß die Gesetzwerdung auf lange Zeit hinaus
-                        verschoben hättte werden können. Erft in dem grundlegenden Gefeße, welches
-                        die Verhältnisse der Bamdesgesetzgebung und der Staatsgefetzgebung regelt,
-                        ist eine Fuift aufgenommen worden. Sie sehen, daß sich diese Frist
-                        tatsächlich jetzt bewährt. Allerdings wan noch ein Mangel enthaltem. 6s war
+                        verschoben hätte werden können. Erst in dem grundlegenden Gesetze, welches
+                        die Verhältnisse der Landesgesetzgebung und der Staatsgesetzgebung regelt,
+                        ist eine Frist aufgenommen worden. Sie sehen, daß sich diese Frist
+                        tatsächlich jetzt bewährt. Allerdings war noch ein Mangel enthalten. Es war
                         in dem Gesetze die Uebergangsbestimmung nicht enthalten, was mit den
-                        Gesetzen zu geschehen hat, die vor dem Inkrafttretem des letzten Gesetzes
-                        entstanden sind, so daß man die Abnormalität hatte, daß frühen beschlossene
-                        Gesetze nicht Gesetzeskrafft bekommen konnten, während Gefetze, diee nach
-                        diesem Staatsgesetz enttstanden sind, am eine bestimmte Frist gebunden,
-                        waren. Das ist ein Mangel in dem seinerzeitigen Gesetze, der aber durch die
-                        klare und übersichtliche Fassung, wie sie im, der Verfassung des Herrln.
-                        Landeshamptmanns Dr. Gnder ensthalten ist, überhholt erscheiht. Wir stehen
-                        auf dem Grundsatz, daß die Dandesgesetzgebung bezüglich aller jener
-                        Kompetenzen, welche nicht ausdrücklich dem Buhnde vorbehalten find, alle
-                        Gegenstände zu umfassen hat, und zwar selbständig zu umfassen hat, insoweit
-                        sie nicht in Widerspruch mit dier Bundeskompeienz geraten. Wir haben uns
-                        daher entschlossen, dieser Regelung, wie sie heute vorgietragen wurde,
-                        unsere Zustimmung zu erteilen. </p>
+                        Gesetzen zu geschehen hat, die vor dem Inkrafttreten des letzten Gesetzes
+                        entstanden sind, so daß man die Abnormalität hatte, daß früher beschlossene
+                        Gesetze nicht Gesetzeskraft bekommen konnten, während Gesetze, die nach
+                        diesem Staatsgesetz entstanden sind, an eine bestimmte Frist gebunden waren.
+                        Das ist ein Mangel in dem seinerzeitigen Gesetze, der aber durch die klare
+                        und übersichtliche Fassung, wie sie in der Verfassung des Herrn
+                        Landeshauptmanns Dr. Ender enthalten ist, überholt erscheint. Wir stehen auf
+                        dem Grundsatz, daß die Landesgesetzgebung bezüglich aller jener Kompetenzen,
+                        welche nicht ausdrücklich dem Bunde vorbehalten sind. alle Gegenstände zu
+                        umfassen hat, und zwar selbständig zu umfassen hat, insoweit sie nicht in
+                        Widerspruch mit der Bundeskompetenz geraten. Wir haben uns daher
+                        entschlossen, dieser Regelung, wie sie heute vorgetragen wurde, unsere
+                        Zustimmung zu erteilen. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Dr. Gruener: </speaker>
                     <p>Das ganze Gebiet scheint mir höchst ungeklärt und ich glaube, soweit ich die
-                        Stimmung keuwe, die in diesem Hause vorhannden ist, in das nähere nickst
-                        eingehem zu können. Wogegen ich alber Sttellung nehmen muß wenigstens für
-                        meine Person, das wäre die Auffassung des Herrn Landeshauptmanmnes Dr.
-                        Ender, daß diese Frage den Bandesversammlung vorbehalten fein foll und die
-                        Landesversammlung sich ihr Haus so einrichten sollte, wie fie &amp;s
-                        braucht. Das würde eine vollständige Ungleichheit herbeiführen und ich
-                        bestreite ganz enengisch die Kompeteng der Candesversammlung sich ihr Haus
-                        so einrichtenſollte, wie fie es braucht. Das würde eine vollständige
-                        Ungleichheit herbeiführen, und icht bestreite ganz energisch die Kompetenz
-                        der Bandlesversammlung. Die Kompetenz hiefür fönnter dann nun in allen
-                        anderem großen Fragen der Nationalversammtung vorbehalten sein. Diese FFrage
-                        in die Landlage hineinzulegen, würde die ganze Staatsverfafjung und die
-                        Vereinheitlichung zertrümmern. Man fann verschiedener Auffassung sein, ob
-                        der Landeshauptmann vom Präsidenten des Landtages getrennt sein soll. Man
-                        kann sich seine Meinung in dieser Sache nach verschiedenen Gesichttspunkten
-                        bilden. Ich persönlich bin der Ueberzeugung, daß die Person des
-                        Bandeshauptmannes und die Versondes Präsidenten der Lanldesversammlung die
-                        gleickse sein muß. Ich halte: es für unmöglich, daß man eine Persönlichkeit
-                        als Präsidenten der Landiesversammlung aufstellen kann, mur als
-                        Vorsitzenden, ohne ihm einen bestimmten Kompler von Arbeit zu übergeben.
-                        Damit reißt eine Rivaliltät ein zwischen den Bahndeshaupt-<pb
-                            facs="#facs_93" n="93" xml:id="img_0093" break="yes"/>﻿88 mann als
-                        Candesvegisemungspräsident und dem Präsidenten des Landtages, der auf die
-                        venschiediensen Panteien Rücksicht wehmenn muß, und die Ginheitlichkeit dess
-                        Landtages würde Sadurch zerstückelt werden. Das ist meine persönliche
-                        Auffassung. Ich wiederhole alber, daß die ganze Ffrage ungeklärt und daß es
-                        in diesem Hause bei dier großen Unriche, die herrscht, uhnmöglich ist. diese
-                        Stellungnahme eingehendd zu begründen.  </p>
+                        Stimmung kenne, die in diesem Hause vorhanden ist, in das nähere nicht
+                        eingehen zu können. Wogegen ich aber Stellung nehmen muß wenigstens für
+                        meine Person, das wäre die Auffassung des Herrn Landeshauptmannes Dr. Ender,
+                        daß diese Frage der Landesversammlung vorbehalten sein soll und die
+                        Landesversammlung sich ihr Haus so einrichten sollte, wie sie es braucht.
+                        Das würde eine vollständige Ungleichheit herbeiführen und ich bestreite ganz
+                        energisch die Kompetenz der Landesversammlung sich ihr Haus so einrichten
+                        sollte, wie sie es braucht. Das würde eine vollständige Ungleichheit
+                        herbeiführen, und ich bestreite ganz energisch die Kompetenz der
+                        Landesversammlung sich ihr Haus so ein richten sollte, wie sie es braucht.
+                        Das würde eine vollständige Ungleichheit herbeiführen, und ich bestreite
+                        ganz energisch die Kompetenz der Landesversammlung Die Kompetenz hiefür
+                        könnte dann nur in allen anderen großen Fragen der Nationalversammlung
+                        vorbehalten sein. Diese Frage in die Landtage hineinzulegen, würde die ganze
+                        Staatsverfassung und die Vereinheitlichung zertrümmern. Man kann
+                        verschiedener Auffassung sein, ob der Landeshauptmann vom Präsidenten des
+                        Landtages getrennt sein soll. Man kann sich seine Meinung in dieser Sache
+                        nach verschiedenen Gesichtspunkten bilden. Ich persönlich bin der
+                        Ueberzeugung, daß die Person des Landeshauptmannes und die Person des
+                        Präsidenten der Landesversammlung die gleiche sein muß. Ich halte es für
+                        unmöglich, daß man eine Persönlichkeit als Präsidenten der Landesversammlung
+                        aufstellen kann, nur als Vorsitzenden, ohne ihm einen bestimmten Komplex von
+                        Arbeit zu übergeben. Damit reißt eine Rivalität ein zwischen dem
+                            Landeshaupt-<pb facs="#facs_93" n="93" xml:id="img_0093" break="yes"
+                        />mann als Landesregierungspräsident und dem Präsidenten des Landtages, der
+                        auf die verschiedenen Parteien Rücksicht nehmen muß, und die Einheitlichkeit
+                        des Landtages würde dadurch zerstückelt werden. Das ist meine persönliche
+                        Auffassung. Ich wiederhole aber, daß die ganze Frage ungeklärt und daß es in
+                        diesem Hause bei der großen Unruhe, die herrscht, unmöglich ist, diese
+                        Stellungnahme eingehend zu begründen. </p>
                 </sp>
                 <sp>
                     <speaker>Vorsitzender Dr. Rintelen: </speaker>
-                    <p>Die Rednerliste tifst geschlossen. Es liegt vor eine Meinungsäußerung der
-                        christlichsozialen und Deutschhweiheitlichen Vartei. Ich stelle die Fragie,
-                        ob nicht auch die Meinungzäufrenung der jozialdemokratischen Partei
-                        mitgeteilt werden könnte, wodurch die Feftstellung der Willensäußerung
-                        wefentlich vemeinfacht würdte. </p>
+                    <p>Die Rednerliste ist geschlossen. Es liegt vor eine Meinungsäußerung der
+                        christlichsozialen und deutschfreiheitlichen Partei. Ich stelle die Frage,
+                        ob nicht auch die Meinungsäußerung der sozialdemokratischen Partei
+                        mitgeteilt werden könnte, wodurch die Feststellung der Willensäußerung
+                        wesentlich vereinfacht würde. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Speiser: </speaker>
-                    <p>Wir können nur noch einmal wiederfolen, was der Herr Doktor shruemer kuz
-                        gesagt hat: Wir bestreitten entschieden die Kompetenz des Landtages, in
+                    <p>Wir können nur noch einmal wiederholen, was der Herr Doktor Gruener kurz
+                        gesagt hat: Wir bestreiten entschieden die Kompetenz des Landtages, in
                         dieser Frage einzugreifen, und verlangen, daß diese Frage ebenso wie die
-                        Lösung anderer Fragen deen Nationalversammlung gewahrt bleibe. Im merito
-                        können wir eine bestimmte Haltung moch wilchst einnehmen.  </p>
+                        Lösung anderer Fragen der Nationalversammlung gewahrt bleibe. In merito
+                        können wir eine bestimmte Haltung noch nicht einnehmen. </p>
                 </sp>
                 <sp>
                     <speaker>Vorsitzender Dr. Rintelen: </speaker>
-                    <p> Damit erledigt sich die Frage, nachdem einzelne Herren dieser Parllei. die
-                        Vartei aber als solche wicht, ihner Meinungzäuferung abgegeben haben. Gs
-                        fommt der nächste Punkt, das ist die Kompetenz. </p>
+                    <p>Damit erledigt sich die Frage, nachdem einzelne Herren dieser Partei, die
+                        Partei aber als solche nicht, ihre Meinungsäußerung abgegeben haben. Es
+                        kommt der nächste Punkt, das ist die Kompetenz. </p>
                 </sp>
                 <sp>
                     <speaker>Staatssekretär Dr. Mayr: </speaker>
-                    <p> Wir kommen nun zu Punkt 10 und 12 des Entwurfes. Ich möchte dazu folgendes
-                        bemerken. Gs handieilt sich umeine äuferst wichtige, aber auch komplizierte
-                        Materie, die im ihren Konsequenzen einzeln noch nicht vollständig
+                    <p>Wir kommen nun zu Punkt 10 und 12 des Entwurfes. Ich möchte dazu folgendes
+                        bemerken. Es handelt sich um eine äußerst wichtige, aber auch komplizierte
+                        Materie, die in ihren Konsequenzen einzeln noch nicht vollständig
                         durchgearbeitet werden konnte, weil einerseits das vollständige Material der
                         Staatskanzlei, der Reichsregierung, der verschiedenen Staatsämter uns noch
                         zum Teile fehlt und zum Teile noch nicht verarbeitet ist, und weil
-                        andererseits bestimmte Aeußerungen anderer Faktoren, welche für die
-                        Beratlung dieser Materie notwendig sind, noch nicht in gemüaider Zahl
-                        vorliegen. Ich habe deshalb im Entwurfe eine Art mittlere Linie zu schaaffen
-                        versucht für sölile Kompetenzabgrenzung im einzelnsen. Dagegen glaube icht,
-                        daß die Fragie spruchreit ist, so wie es dien Gntwurf vorschlägt. Rchtig
-                        ist. daß die Länder eine Reihe von Kompetenzen an den, Bund überllragen, und
-                        zwar in einer dreiglielsrigen Form: 1. Die Kompetenz foll übertragen werden
-                        in Bezug auf die Gesetzgebarna und Vollziehung.  2. Die Kompellenz foll
-                        übertragen werden in Bezug bloß auf die Gesetzgebung, und 3. die Kompettenz
-                        foll übertragen werdenn bloß für die Rahmengesetzgelbung. Ich erlaube mir
-                        hiebei zu bemerken, daß für die Nahmengesetzgebung nach dem Uctherblick, den
-                        wir bisher gewonnen haben, sehr wenig übrig bleibt. Ich möchte bitten, daß
-                        sich die Herren aussprechen über die Guundlagen, die die Artifel 10, 11 und
-                        12 enthalten, und übber die Dreitelung betreffs der Uebertragung der
-                        Kompetenz. </p>
+                        andererseits bestimmte Aeußerungen anderer Faktoren, welche für die Beratung
+                        dieser Materie notwendig sind, noch nicht in genügender Zahl vorliegen. Ich
+                        habe deshalb im Entwurfe eine Art mittlere Linie zu schaffen versucht für
+                        die Kompetenzabgrenzung im einzelnen. Dagegen glaube ich, daß die Frage
+                        spruchreif ist, so wie es der Entwurf vorschlägt. Richtig ist, daß die
+                        Länder eine Reihe von Kompetenzen an den Bund übertagen, und zwar in einer
+                        dreigliedrigen Form:66 1. Die Kompetenz soll übertragen werden in Bezug auf
+                        die Gesetzgebung und Vollziehung. 2. Die Kompetenz soll übertragen werden in
+                        Bezug bloß auf die Gesetzgebung, und 3. die Kompetenz soll übertragen werden
+                        bloß für die Rahmengesetzgebung. Ich erlaube mir hiebei zu bemerken, daß für
+                        die Rahmengesetzgebung nach dem Ueberblick, den wir bisher gewonnen haben,
+                        sehr wenig übrig bleibt. Ich möchte bitten, daß sich die Herren aussprechen
+                        über die Grundlagen, die die Artikel 10, 11 und 12 enthalten, und über die
+                        Dreiteilung betreffs der Uebertragung der Kompetenz. </p>
                 </sp>
                 <sp>
                     <speaker>Vorsitzender Dr. Rintelen: </speaker>
-                    <p> Gs ist an mich mit diem Wunsche heransaetreten worden, zu einer Grörterung
-                        die Sitzung zu unterbrechen. Ich unterbreche die Sitzung auf 5 Minuten. </p>
+                    <p>Es ist an mich mit dem Wunsche herangetreten worden, zu einer Erörterung die
+                        Sitzung zu unterbrechen. Ich unterbreche die Sitzung auf 5 Minuten. (Nach
+                        Wiederaufnahme der Sitzung.) </p>
                 </sp>
-                <p>  (Nach Wiederaufnahme der Sitzung.) </p>
                 <sp>
-                    <speaker>Delegierter Dr. Gnder: </speaker>
-                    <p> Ich habe namens der chriftlichsozialen wns deutschfreiheitlichen Parteien
-                        eine Erklärung abzugleben zu Art. 10, 11 und 12, die folgenden Wortlaut halt
-                        (lieft): „Die heilden Varteien sind darüber einig, daß eine Abgabe von
-                        Kompetenzen der, Länßer an dem Bund nach folgenden Grundsätzen stattzufinden
-                        hat: 1. Der Staat bekommit auf gewissen Gebisciten die Zuständigkeit zur
-                        Gesetzgebung und Vollziehung. 2. Auf anderen Gelbieten nur die
-                        Zusständigkeitt zur Gesietzgebung. 3. Endlich hat er im einzelmen, in der
-                        Verfassung vorzusehenden Fällen nur die Grundsätze aufzustellen.“</p>
+                    <speaker>Delegierter Dr. Ender: </speaker>
+                    <p>Ich habe namens der christlichsozialen und deutschfreiheitlichen Parteien
+                        eine Erklärung abzugeben zu Art. 10, 11 und 12, die folgenden Wortlaut hat
+                        (liest): „Die beiden Parteien sind darüber einig, daß eine Abgabe von
+                        Kompetenzen der Länder an den Bund nach folgenden Grundsätzen stattzufinden
+                        hat: Der Staat bekommt auf gewissen Gebieten die Zuständigkeit zur
+                        Gesetzgebung und Vollziehung. 2. Auf anderen Gebieten nur die Zuständigkeit
+                        zur Gesetzgebung 3. Endlich hat er in einzelnen, in der Verfassung
+                        vorzusehenden Fällen nur die Grundsätze aufzustellen.</p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Dr. Danneberg: </speaker>
-                    <p>Meine Herrenl Im Namen der fozialdemokratischen Delegierten auf der Konferenz
-                        gestälte ich min zu-<pb facs="#facs_94" n="94" xml:id="img_0094" break="yes"
-                        />Punkt 6 der Tagesordnung folgenddes zu erklären: In Grinnerung an unsere
-                        gestrige Meinungzäußerung über die FFrage des Buhndiezstaates erklären wir,
-                        daß für dem Fall, als ein Bundesstaat geschaffen wird, die ganze Frage der
-                        Kompetenzverteilung im Zusammrenhange mit der Finanzfrage erst sorgfältig
+                    <p>Meine Herren! Im Namen der sozialdemokratischen Delegierten auf der Konferenz
+                        gestatte ich mir zu <pb facs="#facs_94" n="94" xml:id="img_0094" break="yes"
+                        />Punkt 6 der Tagesordnung folgendes zu erklären: „In Erinnerung an unsere
+                        gestrige Meinungsäußerung über die Frage des Bundesstaates erklären wir, daß
+                        für den Fall, als ein Bundesstaat geschaffen wird, die ganze Frage der
+                        Kompetenzverteilung im Zusammenhange mit der Finanzfrage erst sorgfältig
                         erwogen werden muß, weshalb wir zu diesem Probleme heute Stellung zu nehmen
-                        noch nicht vermögen.“</p>
+                        noch nicht vermögen.“ </p>
                 </sp>
                 <sp>
                     <speaker>Vorsitzender Dr. Rintelen: </speaker>
                     <p>Ich habe noch mitzuteilen, daß eine Vereinbarung bezüglich der nächsten
-                        Konferenz erziellt wurde. Die wörtliche Formulierung wird Herr Dr. Gnder
+                        Konferenz erzielt wurde. Die wörtliche Formulierung wird Herr Dr. Ender
                         bekanntgeben. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Dr. Ender: </speaker>
-                    <p>Die bezügliche Erklärung Pautet: „Die Bandeskonferenz wird vertagt und die
-                        Anberaumung der nächftem Sitzung hat durch den Candesrat von Obrrösterreich
-                        auf Mitte März zu erfolgen. Dieser Landesrat hat aller für die nächste
-                        Sitzung löienlichen Vorbereistungen zu treffen.“ </p>
+                    <p>Die bezügliche Erklärung lautet: „Die Landeskonferenz wird vertagt und die
+                        Anberaumung der nächsten Sitzung hat durch den Landesrat von Oberösterreich
+                        auf Mitte März zu erfolgen. Dieser Landesrat hat alle für die nächste
+                        Sitzung dienlichen Vorbereitungen zu treffen.“  </p>
                 </sp>
                 <sp>
                     <speaker>Vorsitzender Dr. Rintelen: </speaker>
-                    <p>Nachdem keinne Einwendung erholben wird, betrachte ich diese Aeußerung als
-                        die Willensmeinung aller Barteiem. Ich bemerke, daß das Protokoll geduuckt
-                        und den einzelnen Candesrätem zugestellt werden wird. Zum Worte hat sich
-                        gemeldlet Herr Landeshauptmann Sever. </p>
+                    <p>Nachdem keine Einwendung erhoben wird, betrachte ich diese Aeußerung als die
+                        Willensmeinung aller Parteien. Ich bemerke, daß das Protokoll gedruckt und
+                        den einzelnen Landesräten zugestellt werden wird. Zum Worte hat sich
+                        gemeldet Herr Landeshauptmann Sever.</p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Sever: </speaker>
-                    <p>Ich glaube, meine Herven, nachdem wir am Schlüsse der Konfferenz angelangt
+                    <p>Ich glaube, meine Herren, nachdem wir am Schlusse der Konferenz angelangt
                         sind, daß wir die Verpflichtung haben und ich glaube, im Sinne aller Herren
                         sprechen zu dürfen, dem Herrn Landeshauptmann von Salzburg, dem Landesrate
-                        sowie allen Herren, die sicht um sdie Konferenz bemüht haben, den
-                        herzlichstem Dank dafür zu sagen.  </p>
+                        sowie allen Herren, die sich um die Konferenz bemüht haben, den herzlichsten
+                        Dank dafür zu sagen. (Beifall.) Wir danken auch den Herren Beamten des
+                        Landes Salzburg, sowie dem Stenographenbüro, denen wir schwere Arbeit
+                        gemacht haben und die es möglich machen, daß alles das, was hier gesagt
+                        wurde, in der Form der Vervielfältigung, die wir erhalten werden, zum
+                        Ausdrucke kommt. Wir haben leider nicht Gelegenheit gehabt, Ihre schöne
+                        Stadt anzusehen infolge der Arbeit, die wir hier leisten mußten, aber eines
+                        dürfen die Herren als Ueberzeugung nehmen, daß wir Wiener traurig von Ihnen
+                        scheiden und von den vollen Fleischtöpfen Salzburgs zurückkehren zur Not und
+                        dem Elende, das wir in Wien und Niederösterreich haben. Noch einmal besten
+                        Dank für alle Liebenswürdigkeit, die uns die Herren bezeugt haben.
+                        (Lebhafter Beifall und Händeklatschen.) </p>
                 </sp>
-                <p>    (Beifall.) </p>
-                <sp>
-                    <speaker>Delegierter Sever: </speaker>
-                    <p> Wir danken auch den Herren Beamtens des Landes Salzblurg sowie dem
-                        Stenographenbüro, denen wir schwere Arbeit gemacht haben und die es möglich
-                        machen, daß alles das, was hiler gesagt wurde, in dder Form der
-                        Vervielfältigung, die wir erhalten werden, zum Auzdrucke kommt. Wir halben
-                        leider nicht Gelegenheit gehabt, Ihre schöne Stadt anzusehen infolge der
-                        Arbeit, die mir hier leisten mußtenn, aber eines dürfen die Herren als
-                        Ueberzeugung wehmen, daß wir Wiener traurig von Ihnen scheiden und von sden
-                        vollen Fleischtöpfeln Salzburgs zurückkehren zur Not umd dem Glende, das wir
-                        in Wien und Niederösterreich haben. Noch einmal bestem Dank für alle
-                        Liebenzwürdigkeit, die luhns die Herren bezeugt haben.</p>
-                </sp>
-                <p>  (Lebhafter Beifall und Sändeeklatichen) </p>
                 <sp>
                     <speaker>Staatzsekretär Dr. Mayr: </speaker>
-                    <p>Meine Herrenl Gs ist mir eine angenehme Pflicht, auch meinerfeits allen
-                        Herren Delegierten aller sSwei Parteien den verbindlichsten Dank
-                        auszusprechen, für die rege Mitarbeit, die Sie seit vorgestern geleiftet
+                    <p>Meine Herren! Es ist mir eine angenehme Pflicht, auch meinerseits allen
+                        Herren Delegierten aller drei Parteien den verbindlichsten Dank
+                        auszusprechen für die rege Mitarbeit, die Sie seit vorgestern geleistet
                         haben. Ich glaube darin eine kräftige Förderung der Verfassungsfrage zu
-                        erblicken und ich bitte für die Fortfetzung unferen Arbeiten in Linz und für
-                        sden nächsten Ländertag wiederum um dieselbe Mitarbeit, damit wirr das so
-                        notwendige Werk zu einem gedeihlichen baldigen Abschluß bringen können. </p>
+                        erblicken und ich bitte für die Fortsetzung unserer Arbeiten in Linz und für
+                        den nächsten Ländertag wiederum um dieselbe Mitarbeit, damit wir das so
+                        notwendige Werk zu einem gedeihlichen baldigen Abschluß bringen können.
+                        (Beifall.) </p>
                 </sp>
-                <p>   (Beifall.) </p>
                 <sp>
                     <speaker>Vorsitzender Dr. Rintelen: </speaker>
-                    <p>Ich schließe mich den beiden Herren Vornednerm er präsidio wärmstens an unss
-                        möchte insbesondere auch den Teifnehnrern an der Länderkonferenz herzlich
-                        danken. Von sonft verschiedenemn Standpunkten ausgehend, jahen wir uns hier
-                        in dem gemeinsamen Streben geeinigt, die Intereffehn des Bundes mit den
-                        Interessen aller Länder in Garmonie zu bringen, eben von dem Gedanken
+                    <p>IIch schließe mich den beiden Herren Vorrednern ex präsidio wärmestens an und
+                        möchte insbesondere auch den Teilnehmern an der Länderkonferenz herzlich
+                        danken. Von sonst verschiedenen Standpunkten ausgehend, sahen wir uns hier
+                        in dem gemeinsamen Streben geeinigt, die Interessen des Bundes mit den
+                        Interessen der Länder in Harmonie zu bringen, eben von dem Gedanken
                         ausgehend, daß die Stärke des Ganzen doch schließlich wieder in der Stärke
-                        feimer einzelnen Teile liegt. Indem icht also mit großer FFreude jeststellen
-                        kann, daß hier positive Arkeit mit Erfolg geleiftet worden ist, bitte ich
-                        Sie, mit diesem eifernen Willen, mit (diem Sie die große Sache begonnen
-                        habem, auch zu Ende zu führen zum Seile und Segen der gesamten
-                        Bevölkerung.</p>
+                        seiner einzelnen Teile liegt. Indem ich also mit großer Freude feststellen
+                        kann, daß hier positive Arbeit mit Erfolg geleistet worden ist, bitte ich
+                        Sie, mit diesem eisernen Willen, mit dem Sie die große Sache begonnen haben,
+                        auch zu Ende zu führen zum Heile und Segen der gesamten Bevölkerung.
+                        (Lebhafter Beifall und Händeklatschen.) (Schluß der Sitzung um 12 Uhr 20
+                        Min.) </p>
                 </sp>
-                <p>   (Lebhafter Beifall und Händeklatschen.) </p>
-                <p>   (Schluß der Sitzung um 12 Uhr 20 Min.)</p>
             </div>
         </body>
     </text>
