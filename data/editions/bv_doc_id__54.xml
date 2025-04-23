@@ -607,20 +607,20 @@
                         <item>Der Vorsitzende bestellt einen parsitätischen Pressedienst.</item>
                         <label>VI. </label>
                         <item>Als Verhandlungsgrundlage dient der Vorentwurf einer
-                            Bundesstaatsverfassung des Staatsfekretärs Dr. Mayr. Es werden der Reihe
-                            nach folgende Partien des Entwurfes zur Vessprechung gebracht:</item>
+                            Bundesstaatsverfassung des Staatssekretärs Dr. Mayr. Es werden der Reihe
+                            nach folgende Partien des Entwurfes zur Besprechung gebracht:</item>
                     </list></p>
                 <p>Artikel: <list>
                         <label> 1.</label>
                         <item>1 - 9 allgemeine Bestimmungen. </item>
                         <label>2. </label>
-                        <item>14 - 24 der Bundestag</item>
+                        <item>14 - 24 der Bundestag.</item>
                         <label>3. </label>
                         <item>25 - 28 der Bundesrat. </item>
                         <label>4. </label>
-                        <item>29 - 30, Absatz 1, Artikel 32-41, Weg der Bundesgesetzgebung. </item>
+                        <item>29 - 30, Absatz 1, Artikel 32 - 41, Weg der Bundesgesetzgebung. </item>
                         <label>5.</label>
-                        <item>30 Absatz 2, Artikel 31. Abänderung der Verfassung. </item>
+                        <item>30 Absatz 2, Artikel 31, Abänderung der Verfassung. </item>
                         <label>6. </label>
                         <item>43 - 44 Stellung der Mitglieder. </item>
                         <label>7. </label>
@@ -632,40 +632,40 @@
                         <label>10. </label>
                         <item>65 - 68 das Bundesheer. </item>
                         <label>11.</label>
-                        <item>69— 81 die Gerichtsbarkeit. </item>
+                        <item>69 - 81 die Gerichtsbarkeit. </item>
                         <label>12. </label>
-                        <item>82— 96 Gesetzgebung der Länder. </item>
+                        <item>82 - 96 Gesetzgebung der Länder. </item>
                         <label>13. </label>
-                        <item>97—106 Rechnungskontrolle. </item>
+                        <item>97 - 106 Rechnungskontrolle. </item>
                         <label>14. </label>
-                        <item>107—108 Gleichheit der Bürger. </item>
+                        <item>107 - 108 Gleichheit der Bürger. </item>
                         <label>15. </label>
-                        <item>109 114 Freizügigkeit, Hausrecht, Briefgeheimnis. </item>
+                        <item>109 - 114 Freizügigkeit, Hausrecht, Briefgeheimnis. </item>
                         <label>16. </label>
-                        <item>115117. Pressfreiheit. Vereins- und Versammlungsrecht. Glaubens- und
-                            Gewissensfreiheit. </item>
+                        <item>115 - 117. Pressfreiheit, Vereins- und Versammlungsrecht, Glaubens-
+                            und Gewissensfreiheit. </item>
                         <label>17. </label>
-                        <item>118124. </item>
+                        <item>118 - 124. </item>
                         <label>18. </label>
-                        <item>125—126 Kunst und Wissenschaft. </item>
+                        <item>125 - 126 Kunst und Wissenschaft. </item>
                         <label>19. </label>
-                        <item>127—129. Schule.  </item>
+                        <item>127 - 129 Schule. </item>
                         <label>20. </label>
-                        <item>130132. Nationalität und Sprache. </item>
+                        <item>130 - 132. Nationalität und Sprache. </item>
                         <label>21. </label>
-                        <item>135. Arbeitsrecht. </item>
+                        <item>135 Arbeitsrecht. </item>
                         <label>22. </label>
-                        <item>133 134 Schutz des Eigentums. </item>
+                        <item>133 - 134 Schutz des Eigentums. </item>
                         <label>23. </label>
-                        <item>136. Aufhebung der Freiheit.  </item>
+                        <item>136 Aufhebung der Freiheit. </item>
                         <label>24. </label>
-                        <item>137- 146 Verwaltungsgerichtshof.  </item>
+                        <item>137 - 146 Verwaltungsgerichtshof. </item>
                         <label>25. </label>
-                        <item>147—157. Verfassungsgerichtshof. </item>
+                        <item>147 - 157 Verfassungsgerichtshof. </item>
                         <label>26. </label>
                         <item>10 Gesetzgebung und Vollziehung des Bundes. </item>
                         <label>27. </label>
-                        <item>12 Geseltzgebung ohne Vollziehung. </item>
+                        <item>11 Gesetzgebung ohne Vollziehung. </item>
                         <label>28. </label>
                         <item>12 Rahmengesetzgebung. </item>
                         <label>29. </label>
@@ -823,11 +823,11 @@
                 <sp>
                     <speaker>Delegierter Dr. Rehrl:</speaker>
                     <p>Ich beantrage für die christlichsoziale Partei als Vorsitzenden den Herrn
-                        Landeshauptmann von Steiermark Dr. Rintelen. <pb facs="#facs_8" n="8"
-                            xml:id="img_0008" break="yes"/></p>
+                        Landeshauptmann von Steiermark Dr. Rintelen. </p>
                 </sp>
                 <sp>
-                    <speaker>Delegierter Preußler: </speaker>
+                    <speaker><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>Delegierter
+                        Preußler: </speaker>
                     <p>Ich beantrage zunächst, daß drei Vorsitzende bestimmt werden, mit gleichen
                         Rechten. Namens der sozialdemokratischen Partei erlaube ich mir
                         vorzuschlagen den Herrn Landeshauptmann Sever von Niederösterreich. </p>
@@ -1040,11 +1040,10 @@
                     <p>Diese Sache scheint mir doch nicht gut möglich. Dieser Antrag, ob Experten
                         beigezogen werden sollen, können wir erst dann entscheiden, wenn wir
                         sichergestellt haben, daß Experten hier sind. Für diese Entscheidung scheint
-                        mir die Verlesung der Prä-<pb facs="#facs_11" n="11" xml:id="img_0011"
-                            break="yes"/>senzliste als notwendige Voraussetzung. Ich stelle daher
-                        den Antrag, der Herr Vorsitzende möge zunächst über den Antrag auf Verlesung
-                        der Präsenzliste abstimmen lassen und dann erst die anderen Anträge
-                        vornehmen. </p>
+                        mir die Verlesung der Prä<pb facs="#facs_11" n="11" xml:id="img_0011"
+                            break="no"/>senzliste als notwendige Voraussetzung. Ich stelle daher den
+                        Antrag, der Herr Vorsitzende möge zunächst über den Antrag auf Verlesung der
+                        Präsenzliste abstimmen lassen und dann erst die anderen Anträge vornehmen. </p>
                 </sp>
                 <sp>
                     <speaker> Vorsitender Dr. Rintelen:</speaker>
@@ -1182,8 +1181,8 @@
                 <sp>
                     <speaker>Vorsitzender Dr. Rintelen:</speaker>
                     <p>Sie stellen den Antrag, daß nur diejenigen Herren als Experten beigezogen
-                        werden, die von der Landes- <pb facs="#facs_13" n="13" xml:id="img_0013"
-                            break="yes"/>regierung als solche rechtzeitig nominiert wurden?</p>
+                        werden, die von der Landes <pb facs="#facs_13" n="13" xml:id="img_0013"
+                            break="no"/>regierung als solche rechtzeitig nominiert wurden?</p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Widholz:</speaker>
@@ -2442,8 +2441,8 @@
                         Schaffung eines Bundesstaates hätte vielleicht im alten Oesterreich ihre
                         Berechtigung gehabt, wo eine Reihe von Nationen in diesem Staate vorhanden
                         waren. Durch den Zerfall des alten österreichischen Staates ist die deutsche
-                        Nation eine Einheit geworden, und infolgedessen ist auch der Ein-<pb
-                            facs="#facs_32" n="32" xml:id="img_0032" break="yes"/>heitsstaat für die
+                        Nation eine Einheit geworden, und infolgedessen ist auch der Ein<pb
+                            facs="#facs_32" n="32" xml:id="img_0032" break="no"/>heitsstaat für die
                         Deutschen Deutschösterreichs das beste Gebilde. Es ist ja richtig, daß in
                         den Ländern verschiedene Eigenartigkeiten sind. Aber diese Eigenartigkeiten
                         brauchen nicht durch den Bundesvertrag festgelegt zu werden, sondern sie
@@ -2632,7 +2631,7 @@
                         Zufriedenheit der Bewohner der Länder erleben und in einem zentralistischen
                         Oesterreich werden Sie eine Staatsfreudigkeit nie erleben, auch in dreißig
                         Jahren nicht. Ich stelle daher den Antrag, daß die Befragung der Parteien
-                        der ein-<pb facs="#facs_35" n="35" xml:id="img_0035" break="yes"/>zelnen
+                        der ein<pb facs="#facs_35" n="35" xml:id="img_0035" break="no"/>zelnen
                         Länder im Sinne der gestrigen Beschlüsse in der Weise erfolgen soll, daß
                         gefragt wird, soll Oesterreich als Bundesstaat der im Verfassungsentwurf
                         aufgeführten selbständigen Länder eingerichtet werden oder nicht. Nun haben
@@ -2694,8 +2693,8 @@
                         Mandat, sie haben sich dasselbe selbst arrogiert, wurde ihnen schwummelig zu
                         Mute, mit welchem Rechte sie den Staat schaffen, und es ist an die Länder
                         die Aufforderung hinausgegangen, sie mögen eine Erklärung abgeben, daß sie
-                        sich zu einem Staate zusammenschließen. Diese Aufforderung ist akten-<pb
-                            facs="#facs_36" n="36" xml:id="img_0036" break="yes"/>mäßig nachweisbar
+                        sich zu einem Staate zusammenschließen. Diese Aufforderung ist akten<pb
+                            facs="#facs_36" n="36" xml:id="img_0036" break="no"/>mäßig nachweisbar
                         und das Land Salzburg hat in seinem Landtage hiezu Stellung genommen und ich
                         habe mir eine Protokollsabschrift aus jener Landtagssitzung für die heutige
                         Sitzung herbeigeschafft Der Landtag hat einstimmig ohne Unterschied der
@@ -2755,8 +2754,8 @@
                         lang, und zwar zu Deutschland allein; wir wollen wieder zu Deutschland als
                         selbständiger Staatskörper, wie wir seinerzeit im großen Deutschen Reiche
                         ein selbständiger staatsrechtlicher Körper gewesen sind. Es ist absolut
-                        nicht notwendig, daß wir uns an Deutschland anschließen als öster-<pb
-                            facs="#facs_37" n="37" xml:id="img_0037" break="yes"/>reichischer
+                        nicht notwendig, daß wir uns an Deutschland anschließen als öster<pb
+                            facs="#facs_37" n="37" xml:id="img_0037" break="no"/>reichischer
                         Einheitsstaat. Der Föderalismus ist kein Hindernis für den Anschluß und wir
                         stehen auf dem Standpunkte, daß jene Kompetenzen, welche die Länder des
                         Deutschen Reiches haben, auch anderen Ländern gebührt und daß sobald die
@@ -3064,8 +3063,8 @@
                         das Deutsche Reich sagt, wir sind bereit, euch aufzunehmen, aber nur im Wege
                         eines Einheitsstaates Oesterreich, wenn das wirklich so sein sollte, so sage
                         ich, daß ich dann diesen Weg perhorreszieren werde. Vor einer solchen neuen
-                        Lage müßte ich meinen Standpunkt einer Re-<pb facs="#facs_42" n="42"
-                            xml:id="img_0042" break="yes"/>vision unterziehen, aber heute noch habe
+                        Lage müßte ich meinen Standpunkt einer Re<pb facs="#facs_42" n="42"
+                            xml:id="img_0042" break="no"/>vision unterziehen, aber heute noch habe
                         ich die Ueberzeugung, daß der länderweise Anschluß besser ist. Ich habe die
                         Ueberzeugung, daß uns bei diesem Anschluß von Deutschland nicht das mindeste
                         Hindernis entgegengestellt werden wird. Im Gegenteil, ich stehe dieser Art
@@ -3376,8 +3375,8 @@
                         geheißen, und ein paar Herren, die allzu gerne Andreas Hofer gespielt
                         hätten, 110 Jahre nach dessen Tode, haben sich in die Bresche gestellt, daß
                         sie Tirol zu einem selbständigen Staate umbilden wollten. Wir
-                        Sozialdemokraten hatten die schwerste Mühe in den Obmännerkonferen-<pb
-                            facs="#facs_47" n="47" xml:id="img_0047" break="yes"/>zen des Tiroler
+                        Sozialdemokraten hatten die schwerste Mühe in den Obmännerkonferen<pb
+                            facs="#facs_47" n="47" xml:id="img_0047" break="no"/>zen des Tiroler
                         Landtages, den Herren das kleinliche, unmögliche, lächerliche, das Land
                         lächerlich machende Bestreben, ein selbständiges Land zu machen, aus dem
                         Kopfe zu schlagen. Sie waren so vernarrt in ihre Idee und haben sich lange
@@ -3676,30 +3675,29 @@
                         den Einfluß zugestehen und Sie können dann im Oberinntal oder im Unterinntal
                         nach Ihrem Willen herrschen, so lange bis auch dort die Bevölkerung das
                         Bedürfnis hat, sich Ihrer Vormundschaft zu entziehen und im Lande Salzburg
-                        wird es ähnlich sein. In der Bischofsstadt werden die Arbeiter andere Be-<pb
-                            facs="#facs_52" n="52" xml:id="img_0052" break="yes"/>dürfnisse haben
-                        auf dem Gebiete der Schule und der kulturellen Freiheit wie die Leute
-                        drinnen im Gebirge. Sie können sich da betätigen, wie Sie wollen, aber Sie
-                        dürfen nicht die Außenbezirke zur Majorisierung der Stadtgebiete verwenden.
-                        Dasselbe ist der Fall in Oberösterreich, Linz hat ein anderes Bedürfnis als
-                        das Mühlviertel und Steyr ein anderes als die entfernten Gegenden an der
-                        Donau usw. Die werden sich ihre Bedürfnisse so einrichten, wie sie es
-                        brauchen. Dazu kommt noch, daß in wirtschaftlicher Beziehung ein
-                        Warenaustausch mit weniger Kraftaufwand organisiert und eine
-                        Wirtschaftskasse geschaffen wird. Meine Herren, das ist was wir wollen! Sie
-                        wollen dagegen die Länderherrschaft und die Majorisierung der aufstrebenden
-                        Arbeiterklasse. Sie leben in dem Irrwahne, daß Sie von 1920 aufwärts die
-                        Arbeiterklasse noch einmal zurückführen können in jene Krähwinkelei der
-                        Kronländer, die einmal bestanden hat. Wir werden Sie von Ihrem Irrwahne
-                        nicht abbringen, aber die Tatsachen werden stärker sein, als wir wollen; die
-                        Tatsache der wirtschaftlichen Entwicklung wird alle diese Pläne zu nichte
-                        machen, die Tatsachen werden über Sie zur Tagesordnung übergehen und wir
-                        Arbeiter, die Klasse der Besitzlosen, werden mit ihren Vertretern und
-                        vereint mit dem großen deutschen Volke und mit dem Arbeiterstand der Völker
-                        anderer Staaten uns ein neues Reich zimmern. Ich rufe daher: „Zurück mit dem
-                        Ausbeutertum und aller Krähwinkelei, entgegen einem freien Reiche, das wir
-                        kommen sehen und mit aller Macht erstreiten und erkämpfen!“ (Beifall und
-                        Händeklatschen.) </p>
+                        wird es ähnlich sein. In der Bischofsstadt werden die Arbeiter andere Be<pb
+                            facs="#facs_52" n="52" xml:id="img_0052" break="no"/>dürfnisse haben auf
+                        dem Gebiete der Schule und der kulturellen Freiheit wie die Leute drinnen im
+                        Gebirge. Sie können sich da betätigen, wie Sie wollen, aber Sie dürfen nicht
+                        die Außenbezirke zur Majorisierung der Stadtgebiete verwenden. Dasselbe ist
+                        der Fall in Oberösterreich, Linz hat ein anderes Bedürfnis als das
+                        Mühlviertel und Steyr ein anderes als die entfernten Gegenden an der Donau
+                        usw. Die werden sich ihre Bedürfnisse so einrichten, wie sie es brauchen.
+                        Dazu kommt noch, daß in wirtschaftlicher Beziehung ein Warenaustausch mit
+                        weniger Kraftaufwand organisiert und eine Wirtschaftskasse geschaffen wird.
+                        Meine Herren, das ist was wir wollen! Sie wollen dagegen die
+                        Länderherrschaft und die Majorisierung der aufstrebenden Arbeiterklasse. Sie
+                        leben in dem Irrwahne, daß Sie von 1920 aufwärts die Arbeiterklasse noch
+                        einmal zurückführen können in jene Krähwinkelei der Kronländer, die einmal
+                        bestanden hat. Wir werden Sie von Ihrem Irrwahne nicht abbringen, aber die
+                        Tatsachen werden stärker sein, als wir wollen; die Tatsache der
+                        wirtschaftlichen Entwicklung wird alle diese Pläne zu nichte machen, die
+                        Tatsachen werden über Sie zur Tagesordnung übergehen und wir Arbeiter, die
+                        Klasse der Besitzlosen, werden mit ihren Vertretern und vereint mit dem
+                        großen deutschen Volke und mit dem Arbeiterstand der Völker anderer Staaten
+                        uns ein neues Reich zimmern. Ich rufe daher: „Zurück mit dem Ausbeutertum
+                        und aller Krähwinkelei, entgegen einem freien Reiche, das wir kommen sehen
+                        und mit aller Macht erstreiten und erkämpfen!“ (Beifall und Händeklatschen.) </p>
                 </sp>
                 <sp>
                     <speaker>Landesrat Dr. Steidle: </speaker>
@@ -3860,19 +3858,19 @@
                         den Föderalismus einnehmen muß und nicht für den Zentralismus. Der
                         Zentralismus birgt die Gefahr, daß doch eines schönen Tages diese
                         Donau-Konföderation gedrechselt werden könnte von der Zentralregierung.
-                        Föderalistisch ist das nicht möglich. Ist eine Bun-<pb facs="#facs_55"
-                            n="55" xml:id="img_0055" break="yes"/>desverfassung vorhanden, dann geht
-                        das nicht so einfach und das wollen wir alle nicht, wenigstens behaupten es
-                        die einzelnen Parteien, und wer das nicht will, darf nicht eine
-                        zentralistische Verfassung annehmen, durch welche die Gefahr eines solchen
-                        Vorkommnisses näher rückt. Die Herren Vertreter von Wien und
-                        Niederösterreich haben heute früh die Erklärung abgegeben, wonach sie sich
-                        auf den föderalistischen Standpunkt stellen und damit einverstanden sind,
-                        daß Wien als eigenes Bundesland von Niederösterreich abgetrennt wird. Ich
-                        muß sagen, wir Parteigenossen aus den übrigen Ländern, und ich glaube auch,
-                        ich kann es sagen im Namen der ganzen bürgerlichen Parteien, würdigen die
-                        Schwere dieses Entschlusses und die Schwierigkeiten, vor denen die Herren
-                        aus Niederösterreich gestanden sind. Wir wissen ihnen Dank, daß sie so der
+                        Föderalistisch ist das nicht möglich. Ist eine Bun<pb facs="#facs_55" n="55"
+                            xml:id="img_0055" break="no"/>desverfassung vorhanden, dann geht das
+                        nicht so einfach und das wollen wir alle nicht, wenigstens behaupten es die
+                        einzelnen Parteien, und wer das nicht will, darf nicht eine zentralistische
+                        Verfassung annehmen, durch welche die Gefahr eines solchen Vorkommnisses
+                        näher rückt. Die Herren Vertreter von Wien und Niederösterreich haben heute
+                        früh die Erklärung abgegeben, wonach sie sich auf den föderalistischen
+                        Standpunkt stellen und damit einverstanden sind, daß Wien als eigenes
+                        Bundesland von Niederösterreich abgetrennt wird. Ich muß sagen, wir
+                        Parteigenossen aus den übrigen Ländern, und ich glaube auch, ich kann es
+                        sagen im Namen der ganzen bürgerlichen Parteien, würdigen die Schwere dieses
+                        Entschlusses und die Schwierigkeiten, vor denen die Herren aus
+                        Niederösterreich gestanden sind. Wir wissen ihnen Dank, daß sie so der
                         Ordnung des Staates entgegenkommen wollen, so lange dieser Staat vorläufig
                         bestehen muß nach dem Willen unserer Feinde. Noch eine Bemerkung: man sagt
                         immer, die Länder schimpfen über Wien und schreien: Los von Wien! Nein,
@@ -4598,10 +4596,11 @@
                 </sp>
                 <sp>
                     <speaker>Kärnten, christlichsoziale Partei: </speaker>
-                    <p>Bundesstaat. <pb facs="#facs_66" n="66" xml:id="img_0066" break="yes"/></p>
+                    <p>Bundesstaat. </p>
                 </sp>
                 <sp>
-                    <speaker>Kärnten, sozialdemokratische Partei: </speaker>
+                    <speaker><pb facs="#facs_66" n="66" xml:id="img_0066" break="yes"/>Kärnten,
+                        sozialdemokratische Partei: </speaker>
                     <p>Wir sind für den Einheitsstaat bis auf die Verwaltungsgebiete der Länder.</p>
                 </sp>
                 <sp>
@@ -5359,10 +5358,10 @@
                 <sp>
                     <speaker>Vorsitzender Dr. Christoph:</speaker>
                     <p>Die heutige Tagung ist geschlossen; die Fortsetzung findet morgen um 1/2 9
-                        Uhr statt. (Schluß der Sitzung 6 Uhr 15 Minuten.) <pb facs="#facs_78" n="78"
-                            xml:id="img_0078" break="yes"/></p>
+                        Uhr statt. (Schluß der Sitzung 6 Uhr 15 Minuten.) </p>
                 </sp>
-                <head>3. Sitzung am 17. Februar 1920.</head>
+                <head><pb facs="#facs_78" n="78" xml:id="img_0078" break="yes"/>3. Sitzung am 17.
+                    Februar 1920.</head>
                 <p>Vorsitzender: Landeshauptmann Dr. Rintelen. (Beginn der Sitzung um 9 Uhr 15 Min.) </p>
                 <sp>
                     <speaker>Vorsitzender Dr. Rintelen:</speaker>
@@ -5411,7 +5410,7 @@
                         ich mich für verpflichtet, diesen Gedanken hier einmal aufzuwerfen. Die
                         Gesetze werden im Bundestag und im Bundesrat wahrscheinlich nur von
                         politischen Gesichtspunkten aus betrachtet werden. Es scheint uns aber
-                        immerhin zweck-<pb facs="#facs_79" n="79" xml:id="img_0079" break="yes"
+                        immerhin zweck<pb facs="#facs_79" n="79" xml:id="img_0079" break="no"
                         />mäßig, wenn jede einzelne Gesetzesvorlage auch von rein beruflichen
                         beziehungsweise fachlichen Standpunkt aus erwogen wird. Auch erscheint mir
                         zweckmäßig, daß nicht immer allein die politische Machtgruppierung zur
@@ -5472,8 +5471,8 @@
                         Bundesrat entsendet werden, und bei diesem Kräfteverhältnis nach diesem
                         Schlüssel auf Wien sieben Mandate fallen würden. Es würde also der Schlüssel
                         in diesem Falle nicht überschritten werden. Ich lege ausdrücklich Wert
-                        darauf, daß diese Majorisierungsklausel ent-<pb facs="#facs_80" n="80"
-                            xml:id="img_0080" break="yes"/>halten sei, damit nach außenhin zum
+                        darauf, daß diese Majorisierungsklausel ent<pb facs="#facs_80" n="80"
+                            xml:id="img_0080" break="no"/>halten sei, damit nach außenhin zum
                         Ausdruck komme, man habe der etwaigen späteren Majorisierung der kleinen
                         Länder durch die Stadt Wien einen Damm gesetzt dadurch, daß man erklärt,
                         mehr als ein Fünftel aller Stimmen dürfen einem Lande nicht zukommen. Es ist
@@ -5652,29 +5651,29 @@
                         kommen, und dazu glaube ich, sind die Verhältnisse bei uns nicht angetan,
                         daß das im allgemeinen möglich wäre. Die Landeskammer muß konkrete
                         Vorschläge machen. Ich möchte aber doch sehr zu überlegen geben, daß die
-                        Frage des Volksentscheides in irgend einer Form anders ab-<pb
-                            facs="#facs_83" n="83" xml:id="img_0083" break="yes"/>gegrenzt werden
-                        muß, als es im Entwurfe des Herrn Dr. Mayr der Fall ist. Der Herr Präsident
-                        Dr. Schumacher hat schon erwähnt, daß die Herren aus Tirol damit
-                        einverstanden wären, daß die Kompetenzabgrenzung des Bundesrates anders
-                        gestaltet wird, als der Entwurf des Herrn Staatssekretärs es vorsieht, daß
-                        gewisse Komplexe von Gesetzgebungsgegenständen der Nationalversammlung, dem
-                        Bundestage vorbehalten werden könnten. Es wird auch von der konkreten
-                        Erledigung dieser Frage der Kompetenzen abhängen, wie sich im einzelnen
-                        unsere Partei zu dem Problem der Länderkammer stellt; die ganzen Fragen der
-                        Zusammensetzung der Kammer und ihrer Kompetenz gegenüber der
-                        Nationalversammlung hängen auf das engste zusammen. Ich meine, daß wir hier
-                        uns nicht damit beschäftigen können, über konkrete Vorschläge abzustimmen,
-                        erstens deshalb nicht, weil wir überhaupt nicht abstimmen, und zweitens,
-                        weil ich mir formell für den Schluß der Debatte zu bemerken erlaube, daß wir
-                        bei Feststellung der Meinungsäußerung bei diesem Punkte etwa so vorgehen
-                        könnten, daß jede Partei jedes Landes mit einem kurzen Satze erklärt, wie
-                        sie sich die Länderkammern denkt. So wie Herr Präsident Dr. Schumacher jetzt
-                        schon eine Erklärung abgegeben hat, können auch wir in einem Satze eine
-                        Erklärung abgeben und die Herren der großdeutschen Partei werden auch gewiß
-                        eine Formulierung finden. In dieser einfachen Form könnten wir zur
-                        Feststellung der Meinungsäußerung am Schlusse der Debatte gelangen und
-                        brauchen uns in die Details nicht einzulassen. </p>
+                        Frage des Volksentscheides in irgend einer Form anders ab<pb facs="#facs_83"
+                            n="83" xml:id="img_0083" break="no"/>gegrenzt werden muß, als es im
+                        Entwurfe des Herrn Dr. Mayr der Fall ist. Der Herr Präsident Dr. Schumacher
+                        hat schon erwähnt, daß die Herren aus Tirol damit einverstanden wären, daß
+                        die Kompetenzabgrenzung des Bundesrates anders gestaltet wird, als der
+                        Entwurf des Herrn Staatssekretärs es vorsieht, daß gewisse Komplexe von
+                        Gesetzgebungsgegenständen der Nationalversammlung, dem Bundestage
+                        vorbehalten werden könnten. Es wird auch von der konkreten Erledigung dieser
+                        Frage der Kompetenzen abhängen, wie sich im einzelnen unsere Partei zu dem
+                        Problem der Länderkammer stellt; die ganzen Fragen der Zusammensetzung der
+                        Kammer und ihrer Kompetenz gegenüber der Nationalversammlung hängen auf das
+                        engste zusammen. Ich meine, daß wir hier uns nicht damit beschäftigen
+                        können, über konkrete Vorschläge abzustimmen, erstens deshalb nicht, weil
+                        wir überhaupt nicht abstimmen, und zweitens, weil ich mir formell für den
+                        Schluß der Debatte zu bemerken erlaube, daß wir bei Feststellung der
+                        Meinungsäußerung bei diesem Punkte etwa so vorgehen könnten, daß jede Partei
+                        jedes Landes mit einem kurzen Satze erklärt, wie sie sich die Länderkammern
+                        denkt. So wie Herr Präsident Dr. Schumacher jetzt schon eine Erklärung
+                        abgegeben hat, können auch wir in einem Satze eine Erklärung abgeben und die
+                        Herren der großdeutschen Partei werden auch gewiß eine Formulierung finden.
+                        In dieser einfachen Form könnten wir zur Feststellung der Meinungsäußerung
+                        am Schlusse der Debatte gelangen und brauchen uns in die Details nicht
+                        einzulassen. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Bichl:</speaker>
@@ -6147,30 +6146,23 @@
                         Das ist eine naturgemäße Sache. Wenn sie schon selbständige Länder sind, und
                         die Kompetenzen ausüben, die nicht dem Bunde übertragen sind, so müssen
                         diese in ihr eigenes Haus auch auf dem eigenen Gebiet bauen können. Fordern
-                        muß man, daß die Landes-<pb facs="#facs_90" n="90" xml:id="img_0090"
-                            break="yes"/>Meine Herren! Der Herr Landeshauptmann Sever hat ganz
-                        richtig gesagt, daß hier die Materien geregelt sind, die vielfach zu einer
-                        ausgesprochenen Sache des Landtages selbst gehören. Ich pflichte dieser
-                        Anschauung vollständig bei. Meines Erachtens haben die Länder selbst sich
-                        ihre Verfassung zu geben. Das ist eine naturgemäße Sache. Wenn sie schon
-                        selbständige Länder sind, und die Kompetenzen ausüben, die nicht dem Bunde
-                        übertragen sind, so müssen diese in ihr eigenes Haus auch auf dem eigenen
-                        Gebiet bauen können. Fordern muß man, daß die Landes- verfassung mit der
-                        Verfassung des Bundes absolut in keinem Widerspruch zu stehen hat.38 Das
-                        Recht muß man dem Bunde ohne Zweifel einräumen, daß er die Landesverfassung
-                        nach dieser Richtung überprüft. Im übrigen aber soll man es den Ländern
-                        überlassen, wie sie ihr Haus bauen. Der Bund hat ein Interesse zu fordern,
-                        daß gewisse demokratische Grundrechte auch in den Landesverfassungen gewahrt
-                        sein müssen. Der Bund hat zum Beispiel das Interesse, zu verlangen, daß die
-                        Wahlordnungen auf absolut demokratischer Grundlage nach dem allgemeinen,
-                        gleichen und direkten Verhältniswahlrecht aufgebaut seien, weil sonst der
-                        Wesenscharakter des Bundes wieder zerstört würde. Ferner möchte ich sagen,
-                        daß dem Bunde ein gewisses Prüfungsrecht zustehen muß, ob die Gesetze, die
-                        die Länder schaffen, mit der Bundesverfassung nicht im Widerspruch sind. In
-                        dieser Beziehung hat sich nun dasjenige, was über Anregung des Herrn Doktor
-                        Renner eingeführt und bisher gehandhabt wurde, nicht schlecht bewährt,
-                        nämlich die Vorlage der Gesetze bei der Bundesregierung, die einen gewissen
-                        Zeitraum hat, um dagegen eine Vorstellung zu erheben. Beschließt es das Land
+                        muß man, daß die Landes<pb facs="#facs_90" n="90" xml:id="img_0090"
+                            break="no"/>verfassung mit der Verfassung des Bundes absolut in keinem
+                        Widerspruch zu stehen hat.38 Das Recht muß man dem Bunde ohne Zweifel
+                        einräumen, daß er die Landesverfassung nach dieser Richtung überprüft. Im
+                        übrigen aber soll man es den Ländern überlassen, wie sie ihr Haus bauen. Der
+                        Bund hat ein Interesse zu fordern, daß gewisse demokratische Grundrechte
+                        auch in den Landesverfassungen gewahrt sein müssen. Der Bund hat zum
+                        Beispiel das Interesse, zu verlangen, daß die Wahlordnungen auf absolut
+                        demokratischer Grundlage nach dem allgemeinen, gleichen und direkten
+                        Verhältniswahlrecht aufgebaut seien, weil sonst der Wesenscharakter des
+                        Bundes wieder zerstört würde. Ferner möchte ich sagen, daß dem Bunde ein
+                        gewisses Prüfungsrecht zustehen muß, ob die Gesetze, die die Länder
+                        schaffen, mit der Bundesverfassung nicht im Widerspruch sind. In dieser
+                        Beziehung hat sich nun dasjenige, was über Anregung des Herrn Doktor Renner
+                        eingeführt und bisher gehandhabt wurde, nicht schlecht bewährt, nämlich die
+                        Vorlage der Gesetze bei der Bundesregierung, die einen gewissen Zeitraum
+                        hat, um dagegen eine Vorstellung zu erheben. Beschließt es das Land
                         neuerlich, dann wird es Gesetz, wobei der Regierung immer noch das Recht
                         zusteht, vor dem Verfassungsgerichtshof das Gesetz anzufechten. Das hat sich
                         bewährt, das könnte man auch als Norm wieder gelten lassen. Im übrigen
@@ -6346,10 +6338,10 @@
                         unmöglich, daß man eine Persönlichkeit als Präsidenten der Landesversammlung
                         aufstellen kann, nur als Vorsitzenden, ohne ihm einen bestimmten Komplex von
                         Arbeit zu übergeben. Damit reißt eine Rivalität ein zwischen dem
-                            Landeshaupt-<pb facs="#facs_93" n="93" xml:id="img_0093" break="yes"
-                        />mann als Landesregierungspräsident und dem Präsidenten des Landtages, der
-                        auf die verschiedenen Parteien Rücksicht nehmen muß, und die Einheitlichkeit
-                        des Landtages würde dadurch zerstückelt werden. Das ist meine persönliche
+                            Landeshaupt<pb facs="#facs_93" n="93" xml:id="img_0093" break="no"/>mann
+                        als Landesregierungspräsident und dem Präsidenten des Landtages, der auf die
+                        verschiedenen Parteien Rücksicht nehmen muß, und die Einheitlichkeit des
+                        Landtages würde dadurch zerstückelt werden. Das ist meine persönliche
                         Auffassung. Ich wiederhole aber, daß die ganze Frage ungeklärt und daß es in
                         diesem Hause bei der großen Unruhe, die herrscht, unmöglich ist, diese
                         Stellungnahme eingehend zu begründen. </p>
