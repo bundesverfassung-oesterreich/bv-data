@@ -674,8 +674,8 @@
                         <item>Titel und Eingang. </item>
                         <label>31. </label>
                         <item>Form der Gesetzwerdung. </item>
-                    </list><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/></p>
-                <head>Teilnehmer an der Länderkonferenz.</head>
+                    </list></p>
+                <head><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>Teilnehmer an der Länderkonferenz.</head>
                 <p>Staatsregierung: Staatssekretär Dr. Michael Mayr, Ministerialsekretär Dr.
                     Mannlicher. Burgenland: Dr. Beer, Meidlinger. Kärnten: Nationalrat Grögger,
                     Landtagsabgeordneter Dr. Pflanzl, Landesrat Schumn, Landtagsabgeordneter
@@ -708,7 +708,7 @@
                     Magistratsdirektor Dr. Karl Hartl.</p>
             </div><div type="main">
                 <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
-                <head>1. Sitzung am 15. Fe br u ar 1920.</head>
+                <head>1. Sitzung am 15. Februar 1920.</head>
                 <p>(Beginn der Sitzung um 3 Uhr 15 Minuten.)</p>
                 <sp>
                     <speaker>Landeshauptmann Meyer:</speaker>
@@ -780,10 +780,13 @@
                         die Verhandlungen der Tagung einzuleiten. Es wird vor allem notwendig sein,
                         die Wahl des Präsidiums beziehungsweise eines Vorsitzenden vorzunehmen, und
                         zu diesem Behufe erlaube ich mir, die Sitzung auf einige Zeit zu
-                        unterbrechen.  </p>
+                        unterbrechen. </p>
                 </sp>
                 <sp>
-                    <speaker>Delegierter Resel!</speaker>
+                    <speaker>Delegierter Resel<choice>
+                            <sic>!</sic>
+                            <corr>:</corr>
+                        </choice></speaker>
                     <p>Sehr verehrte Herren! Wir Vertreter der sozialdemokratischen Partei auf
                         dieser Konferenz sind der Ansicht, daß keine Zusammenkunft von
                         Volksvertretern in der Republik Oesterreich vorübergehen darf, ohne daß
@@ -797,7 +800,7 @@
                         werden. Sonderbestrebungen, die nach den Bestimmungen des Friedensvertrages,
                         der uns bindet, ohnedies aussichtslos sind, schädigen das gesamte Interesse.
                         Von diesen Gesichtspunkten aus betrachten wir auch die Gestaltung der
-                        Verfassung unserer Republik.  </p>
+                        Verfassung unserer Republik. </p>
                 </sp>
                 <sp>
                     <speaker>Landeshauptmann Meyer:</speaker>
@@ -827,12 +830,12 @@
                     <speaker>Delegierter Preußler: </speaker>
                     <p>Ich beantrage zunächst, daß drei Vorsitzende bestimmt werden, mit gleichen
                         Rechten. Namens der sozialdemokratischen Partei erlaube ich mir
-                        vorzuschlagen den Herrn Landeshauptmann Sever von Niederösterreich.  </p>
+                        vorzuschlagen den Herrn Landeshauptmann Sever von Niederösterreich. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Dr. Pflanzl: </speaker>
                     <p>Ich beantrage namens der deutschfreiheitlichen Partei, als Vertreter in das
-                        Präsidium den Herrn Landesat Notar Christoph.  </p>
+                        Präsidium den Herrn Landesat Notar Christoph. </p>
                 </sp>
                 <sp>
                     <speaker>Landeshauptmann Meyer: </speaker>
@@ -980,7 +983,7 @@
                         vertreten ist. Sie hat immer nur eine Stimme. So war unser Vorschlag. Ich
                         würde glauben, daß wenigstens nach dem Standpunkt der Tiroler Regierung die
                         Frage der Zulassung von Experten nicht diese hohe Versammlung, sondern die
-                        Landesregierung selbst zu entscheiden hätte.  </p>
+                        Landesregierung selbst zu entscheiden hätte. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Dr. Rehrl: </speaker>
@@ -1080,7 +1083,7 @@
                         Sie uns ablehnen sollten. Und wenn Sie erklären, daß es überflüssig ist, daß
                         wir hier bleiben, so haben wir gar nichts dagegen einzuwenden. Wir werden
                         die Konsequenzen ziehen. Sie dürfen nicht glauben, daß wir uns aufdrängen
-                        wollen.  </p>
+                        wollen. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Dr. Danneberg:</speaker>
@@ -1219,7 +1222,8 @@
                         sondern vom Standpunkte der Zweckmäßigkeit, und ich würde die Herren bitten,
                         ohne viel Aufhebens zu machen, die zwei Experten, wie wir sie nennen,
                         hereinzulassen und die Sache wäre erledigt. So müssen wir über die
-                        Geschäftsordnung debattieren und zur Beratung des anderen bleibt keine Zeit. </p>
+                        Geschäftsordnung debattieren und zur Beratung des anderen bleibt keine Zeit.
+                    </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Christoph: </speaker>
@@ -1251,8 +1255,8 @@
                 </sp>
                 <sp>
                     <speaker>Delegierter Dr. Schlegel: </speaker>
-                    <p>Bezüglich Oberösterreich ist die Sache sehr leicht. Der Landes-<pb
-                            facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>rat hat
+                    <p>Bezüglich Oberösterreich ist die Sache sehr leicht. Der Landes<pb
+                            facs="#facs_14" n="14" xml:id="img_0014" break="no"/>rat hat
                         beschlußmäßig die Delegierten bestimmt, und zwar für jede Partei die Herren
                         Landeshauptmann-Stellvertreter und dann den legislativen Referenten
                         Landesrat Dr. Schwinner und Herrn Landesamtsdirektor Attems. Nachdem ich
@@ -1268,7 +1272,7 @@
                         lediglich Herr Dr. Falser von Tirol bestimmt wurde, sonst niemand. Der
                         zweite Antrag geht dahin, daß je zwei Herren von jeder Partei bestimmt
                         werde, die das Verzeichnis der Experten aufzustellen haben und damit werden
-                        bestimmte Personen fixiert.  </p>
+                        bestimmte Personen fixiert. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Kunschak: </speaker>
@@ -1289,7 +1293,7 @@
                     <speaker>Delegierter Speiser: </speaker>
                     <p>Ich würde für die sozialdemokratische Partei vorschlagen die Herren
                         Landeshauptmann-Stellvertreter Dr. Gruener und Landeshauptmannstellvertreter
-                        Gruber.  </p>
+                        Gruber. </p>
                 </sp>
                 <sp>
                     <speaker>Vorsitzender Dr. Rintelen: </speaker>
@@ -1319,7 +1323,7 @@
                         ist, möge die Hand erheben. Der Antrag ist mit 14 gegen 7 Stimmen
                         angenommen. Hat jemand zu den Punkten wegen Schluß der Rednerliste und der
                         Debatte etwas zu bemerken? Es ist nicht der Fall. Ich frage überhaupt im
-                        allgemeinen, ob jemand etwas zu bemerken hat.  </p>
+                        allgemeinen, ob jemand etwas zu bemerken hat. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Machold: </speaker>
@@ -1365,7 +1369,7 @@
                         soll zwei Herren namhaft machen, welche die Aufgabe haben, die Sache bindend
                         abzumachen. Ich bitte die Sitzung zu unterbrechen; die Herren mögen sich
                         über sämtliche Punkte einigen und die Fortsetzung der Verhandlung kann mit
-                        dem Meritum beginnen.  </p>
+                        dem Meritum beginnen. </p>
                 </sp>
                 <sp>
                     <speaker> Vorsitzender Dr. Rintelen: </speaker>
@@ -1386,7 +1390,7 @@
                         Nachdem die meisten Herren zuhause viel zu tun haben und wir die Zeit gut
                         ausnützen müssen, schiene es mir doch angemessen zu sein, daß wir heute
                         diesen Herren eine Stunde bestimmen als Termin, daß wir nachher wieder
-                        zusammentreten und mit dem Meritum der Beratung beginnen.  </p>
+                        zusammentreten und mit dem Meritum der Beratung beginnen. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Speiser: </speaker>
@@ -1495,10 +1499,10 @@
                     <speaker>Vorsitzender Rintelen:</speaker>
                     <p>Ich bringe die Anträge einheitlich zur Abstimmung und ich bitte die
                         Anwesenden, die für diese Anträge stimmen, die Hand zu erheben. Einstimmig
-                        angenommen. <pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/></p>
+                        angenommen. </p>
                 </sp>
                 <sp>
-                    <speaker>Delegierter Dr. Pflanzl: </speaker>
+                    <speaker><pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>Delegierter Dr. Pflanzl: </speaker>
                     <p>Ich habe darüber zu berichten, daß der Unterausschuß bezüglich der Ernennung
                         von Experten sich dahin geeinigt hat, daß folgende Herren als Experten
                         anzunehmen sind: Meidlinger-Burgenland, Dr. Steidl-Tirol, Nationalrat
@@ -1535,7 +1539,8 @@
                 </sp>
                 <sp>
                     <speaker>Delegierter Speiser: </speaker>
-                    <p>Wir würden dann den Herrn Landeshauptmann-Stellvertreter Preußler nominieren. </p>
+                    <p>Wir würden dann den Herrn Landeshauptmann-Stellvertreter Preußler nominieren.
+                    </p>
                 </sp>
                 <sp>
                     <speaker>Vorsitzender Dr. Rintelen: </speaker>
@@ -1543,7 +1548,7 @@
                         Schumacher und Dr. Pflanzl nominiert. Es bleibt noch die Frage über die
                         Enuntiationen dieses Komitees. Behalten sich die Herren vor, sonst in dieser
                         Weise den Zeitungen zu berichten? Ich glaube, daß das einheitlich geregelt
-                        werden muß.  </p>
+                        werden muß. </p>
                 </sp>
                 <sp>
                     <speaker>Deleglerter Dr. Danneberg: </speaker>
@@ -1572,8 +1577,8 @@
                         Vorschläge. </p>
                 </sp>
                 <p>Die Verhandlung ist geschlossen. (Schluß der Sitzung um 5 Uhr 45 Min.) </p>
-                <pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>
-                <head>2. Sitzung am 16. Fe br u ar 1920.</head>
+                
+                <head><pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>2. Sitzung am 16. Februar 1920.</head>
                 <p>Vorsitzende vormittag: Landeshauptmann Sever, nachmittags: Landesrat Christoph.
                     (Beginn der Sitzung um 9 Uhr 15 Min.) </p>
                 <sp>
@@ -1611,7 +1616,8 @@
                 <sp>
                     <speaker>Vorsitzender Sever: </speaker>
                     <p>Wird eine Einwendung erhoben? Ich konstatiere die einmütige Kenntnisnahme. Zu
-                        einer Erklärung hat sich Herr Landeshauptmannstellvertreter Gruber gemeldet. </p>
+                        einer Erklärung hat sich Herr Landeshauptmannstellvertreter Gruber gemeldet.
+                    </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Gruber: </speaker>
@@ -1710,7 +1716,7 @@
                         Tagesordnung. Der Herr Staatssekretär hat sich in liebenswürdiger Weise
                         bereit erklärt, bei jedem einzelnen Punkt einzugreifen. Ich glaube, die
                         Herren werden das mit Vergnügen zur Kenntnis nehmen. Wir schreiten zu Punkt
-                        1. Ich bitte den Herrn Staatssekretär das Wort zu ergreifen.  </p>
+                        1. Ich bitte den Herrn Staatssekretär das Wort zu ergreifen. </p>
                 </sp>
                 <sp>
                     <speaker>Staatssekretär Dr. Mayr: </speaker>
@@ -1868,8 +1874,7 @@
                         ein Einspruch oder eine Anfechtung vor dem Verfassungsgerichtshof nicht
                         erfolgt ist. Dieses Gesetz lautet im Artikel II ausdrücklich: Artikel II.
                         Der Landtag ist berufen, die selbständige Stellung des Landes Kärnten zu
-                        vertreten, die <pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"
-                        />Verfassung des Landes (Landesordnung) zu beschließen und über die Frage
+                        vertreten, die <pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"/>Verfassung des Landes (Landesordnung) zu beschließen und über die Frage
                         des Zusammenschlusses der deutschösterreichischen Länder zu einem
                         Gesamtstaate oder des Anschlusses des Landes an einen anderen Staat durch
                         Volksabstimmung entscheiden zu lassen. Präziser und prägnanter kann das Land
@@ -2119,11 +2124,11 @@
                         glaube daher, daß diese Ausführungen des Herrn Dr. Gruener durchaus nicht
                         zutreffen und daß demselben die Bestrebungen der Länder nach der alten
                         Souveränität nach dem Wegfall des bisherigen staatlichen Verbandes wie er in
-                        der pragmatischen Sanktion begründet ist, entgegengehalten werden können.
-                            <pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/></p>
+                        der pragmatischen Sanktion begründet ist, entgegengehalten werden können. </p>
                 </sp>
                 <sp>
-                    <speaker>Delegierter Resel (Steiermark): </speaker>
+                    <speaker><pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/>Delegierter
+                        Resel (Steiermark): </speaker>
                     <p>Sehr verehrte Herren! Aus den bisherigen Verhandlungen ist hervorgegangen,
                         daß Steiermark in der ganzen Frage sich nicht so intensiv beschäftigt hat,
                         als es die Herren für Tirol und Salzburg getan haben. Der Grund liegt darin,
@@ -2184,8 +2189,8 @@
                         gering, sondern ich frage nur nach dem Praktischen. Und da glaube ich, ist
                         vor allem die Frage voranzustellen, welche Lebensmöglichkeiten hat der Staat
                         und wie kann er seine Lebensfähigkeit erhalten? Und da habe ich nicht zu
-                        fragen nach den historischen Landes-<pb facs="#facs_28" n="28"
-                            xml:id="img_0028" break="yes"/>grenzen, sondern nach der Zweckmäßigkeit
+                        fragen nach den historischen Landes<pb facs="#facs_28" n="28"
+                            xml:id="img_0028" break="no"/>grenzen, sondern nach der Zweckmäßigkeit
                         des Ausbaues der Volkswirtschaft. Wenn der Herr Vorredner Kunschak erklärt
                         hat, daß die Länder auch volkswirtschaftlich zusammenhängen, so glaube ich,
                         ist das ein kleiner Irrtum. Die autonomen Bestrebungen waren immer in
@@ -2311,7 +2316,7 @@
                         Zeit der Not, die uns alle auf den Fingernägeln brennt und wo wir nicht
                         wissen, wie wir in der nächsten Zeit über die tristen Verhältnisse
                         hinwegkommen werden. Wir werden alles aufbieten müssen, um nur einigermaßen
-                        dorthin zu kommen, wo eine weitere Entwicklung möglich ist.  </p>
+                        dorthin zu kommen, wo eine weitere Entwicklung möglich ist. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Dr. Uhrer: </speaker>
@@ -2322,7 +2327,7 @@
                     <speaker>Vorsitzender Landeshauptmann Sever:</speaker>
                     <p>Wer für den Antrag auf Schluß der Debatte ist, möge die Hand erheben.
                         Angenommen. Zum Worte gelangt der Herr Landeshauptmannstellvertreter Steiner
-                        aus Niederösterreich.  </p>
+                        aus Niederösterreich. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Steiner: </speaker>
@@ -4132,7 +4137,7 @@
                         verlassen und mit möglichster Raschheit auf die Sache selbst eingehen und
                         uns zu verständigen suchen. Wenn wir das nicht tun, dann glaube ich, wird
                         man mit Bedauern konstatieren müssen, daß uns in der entscheidenden Stunde
-                        die Einsicht gefehlt hat.  </p>
+                        die Einsicht gefehlt hat. </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Emmerling:</speaker>
@@ -4165,7 +4170,7 @@
                         dienten, dasselbe Schauspiel aufführen, daß sie unter besonderen
                         Voraussetzungen mit Verwahrungen in einen solchen Bundesstaat eintreten. Die
                         Herren Vertreter von Vorarlberg sagen, daß sie immer noch diese Frage offen
-                        halten auf Grund des Selbstbestimmungsrechtes, ob sie  <pb facs="#facs_60"
+                        halten auf Grund des Selbstbestimmungsrechtes, ob sie <pb facs="#facs_60"
                             n="60" xml:id="img_0060" break="yes"/>nicht doch einen Anschluß an ein
                         anderes Gebiet als an dasjenige, an das wir angeschlossen sein wollen,
                         nämlich Deutschland, finden wollen. In sehr scharfer Weise ist hier die
@@ -4417,11 +4422,11 @@
                         diese monatelang in Belgrad in Gefangenschaft gewesen wären oder wenn sie
                         sich im Interesse des Landes weiter betätigt haben. Ich glaube, durch diese
                         Richtigstellung die Ausführungen des Herrn Grögger auf das richtige Maß
-                        zurückgeführt zu haben. <pb facs="#facs_64" n="64" xml:id="img_0064"
-                            break="yes"/></p>
+                        zurückgeführt zu haben. </p>
                 </sp>
                 <sp>
-                    <speaker>Vorsitzender Dr. Christoph:</speaker>
+                    <speaker><pb facs="#facs_64" n="64" xml:id="img_0064" break="yes"/>Vorsitzender
+                        Dr. Christoph:</speaker>
                     <p>Das Wort hat zu einer Richtigstellung Herr Landeshauptmann-Stellvertreter
                         Preußler. </p>
                 </sp>
@@ -4488,8 +4493,8 @@
                         untersuchen, ob es sich lohnt, daß wegen der Deutschen Südtirols zwischen
                         den beiden Volksstämmen Zwietracht besteht, dann werden wir erleben, daß
                         durch den Einfluß der Sozialisten im Deutschen Reiche und durch den Einfluß
-                        der italienischen Sozialisten die Mög-<pb facs="#facs_65" n="65"
-                            xml:id="img_0065" break="yes"/>lichkeit geschaffen wird, dieses
+                        der italienischen Sozialisten die Mög<pb facs="#facs_65" n="65"
+                            xml:id="img_0065" break="no"/>lichkeit geschaffen wird, dieses
                         Deutschsüdtirol für das deutsche Volk zurückzugewinnen. Wenn nun jemand, der
                         sich nach aller Richtung hin Mühe nimmt, Deutschsüdtirol wieder
                         zurückzugewinnen, so kann man ihm nicht den Vorwurf machen, daß er nicht als
@@ -4669,14 +4674,13 @@
                         aus einer gleichen Anzahl von Länder, ob groß oder klein. Man kann
                         behaupten, daß dadurch der Charakter der Länderkammern, den der Bundesrat
                         hat, verloren geht. Ich möchte sagen ja und nein. Eigentlich geht er
-                        verloren, aber er wird doch aufrecht erhal-<pb facs="#facs_67" n="67"
-                            xml:id="img_0067" break="yes"/>ten dadurch, daß Vertreter aus den
-                        Ländern gewährt werden. Ich glaube es für notwendig zu halten, als das
-                        Wichtigste für den Vorentwurf einen Mittelweg zu wählen in der Weise, daß
-                        die größeren Länder mehr Vertreter bekommen als die kleineren. Es ist nichts
-                        anderes geschehen als nach deutschem Muster die deutsche Reichsverfassung
-                        nachgeahmt zu haben. Ich glaube mich weiterer Bemerkungen enthalten zu
-                        können.</p>
+                        verloren, aber er wird doch aufrecht erhal<pb facs="#facs_67" n="67"
+                            xml:id="img_0067" break="no"/>ten dadurch, daß Vertreter aus den Ländern
+                        gewährt werden. Ich glaube es für notwendig zu halten, als das Wichtigste
+                        für den Vorentwurf einen Mittelweg zu wählen in der Weise, daß die größeren
+                        Länder mehr Vertreter bekommen als die kleineren. Es ist nichts anderes
+                        geschehen als nach deutschem Muster die deutsche Reichsverfassung nachgeahmt
+                        zu haben. Ich glaube mich weiterer Bemerkungen enthalten zu können.</p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Dr. Beer: </speaker>
@@ -4812,7 +4816,8 @@
                         mir bekanntzugeben, welcher Herr als Hauptredner anzusehen ist. (Rufe:
                         Landeshauptmannstellvertreter Gruber.) Also gut! Den gleichen Vorgang werde
                         ich einhalten, wenn von der christlichsozialen Partei die Redner namhaft
-                        gemacht sind. Unterdessen erteile ich das erste Wort Herrn Dr. Mittelberger. </p>
+                        gemacht sind. Unterdessen erteile ich das erste Wort Herrn Dr. Mittelberger.
+                    </p>
                 </sp>
                 <sp>
                     <speaker>Delegierter Dr. Mittelberger: </speaker>
@@ -5042,8 +5047,8 @@
                     <speaker>Delegierter Widholz: </speaker>
                     <p>Ich möchte zunächst auf eine Aeußerung zurückkommen, die der hochverehrte
                         Herr Professor Mittelberger hier im Laufe seiner Rede wiedergegeben hat, die
-                        wohl untergegangen ist in der großen Diskus-<pb facs="#facs_73" n="73"
-                            xml:id="img_0073" break="yes"/>sion, die aber doch vielleicht aufgefaßt
+                        wohl untergegangen ist in der großen Diskus<pb facs="#facs_73" n="73"
+                            xml:id="img_0073" break="no"/>sion, die aber doch vielleicht aufgefaßt
                         werden könnte als die Willensmeinung der Versammlung, die hier tagt. Er
                         sagte, es ist durch die heutige Tagung zugegeben worden, daß die einzelnen
                         Länder als Rechtssubjekte angesehen werden, welche die entscheidende
@@ -5061,7 +5066,7 @@
                         entscheiden und Grundlagen zu schaffen. Was wir hier üben, ist eine
                         Wohlmeinung, von der wir wünschen, daß sie unserer Verfassung zugute kommt,
                         und nun zum Gegenstand, der uns jetzt beschäftigt: „Schaffung des
-                        Bundesrates neben dem Bundestag.“  Wir haben eine recht unangenehme
+                        Bundesrates neben dem Bundestag.“ Wir haben eine recht unangenehme
                         Erinnerung hinter uns in dem Bestande des alten Herrenhauses, und Sie alle
                         wissen, daß selbst zu einer Zeit, wo die Arbeiterschaft im Parlament nicht
                         vertreten war, wir doch das Parlament in Schutz genommen haben gegen die
@@ -5099,7 +5104,7 @@
                         Bundestages.“ Der Absatz 3 sagt: „Die Bestimmungen dieses Artikels können
                         nur abgeändert werden, wenn die Aenderung von der Mehrheit jedes einzelnen
                         Landes im Bundesrate oder im Falle einer Bundesabstimmung von der Mehrheit
-                        der Abstimmenden in jedem einzelnen Lande angenommen wird.“  Das ist eine so
+                        der Abstimmenden in jedem einzelnen Lande angenommen wird.“ Das ist eine so
                         festgelegte Bestimmung, die nur in ganz außerordentlichen Fällen möglich und
                         durchführbar wäre. Es müssen in sieben Ländern sieben Mehrheiten geschaffen
                         werden für einen Gedanken, der allenfalls eine Aenderung dieser
@@ -5168,11 +5173,11 @@
                         Gesetzgebungsarbeit sein; wir betrachten also als einzig kompetente Stelle
                         des deutschösterreichischen Staates für die Gesetzgebung die
                         Nationalversammlung und sprechen uns aus diesem Grunde gegen die Errichtung
-                        von Länderkammern aus. <pb facs="#facs_75" n="75" xml:id="img_0075"
-                            break="yes"/></p>
+                        von Länderkammern aus. </p>
                 </sp>
                 <sp>
-                    <speaker>Delegierter Zwetzbacher: </speaker>
+                    <speaker><pb facs="#facs_75" n="75" xml:id="img_0075" break="yes"/>Delegierter
+                        Zwetzbacher: </speaker>
                     <p> Ich beantrage, im Einvernehmen mit sämtlichen Parteien, Schluß der
                         Rednerliste. </p>
                 </sp>
@@ -5304,7 +5309,7 @@
                         beantragen, daß über diesen Punkt „Bundesrat oder Länderkammer, und
                         Konstituierung, Bildung dieses Bundesrates“ dieses sechsgliedrige Komitee
                         sich heute damit beschäftigt oder morgen früh; zu dem ist das Komitee ja
-                            ge-<pb facs="#facs_77" n="77" xml:id="img_0077" break="yes"/>wählt, und
+                            ge<pb facs="#facs_77" n="77" xml:id="img_0077" break="no"/>wählt, und
                         wer die Würde hat, hat die Bürde! Und ich glaube, wir könnten doch zu einem
                         einheitlichen Beschluß kommen, auf eine Basis des Bundesrates und eines
                         gerechten Schlüssels. </p>
@@ -5328,7 +5333,8 @@
                         unsere Instruktionen uns in keiner Weise ermächtigen, von diesem
                         Parteibeschluß abzugehen. Wir stehen deshalb auf dem Boden dieses
                         Parteitagsbeschlusses und können uns in irgend ein Kompromiß nicht
-                        einlassen. Daher erübrigen sich auch die Beratungen eines solchen Komitees.  </p>
+                        einlassen. Daher erübrigen sich auch die Beratungen eines solchen Komitees.
+                    </p>
                 </sp>
                 <sp>
                     <speaker>Vorsitzender Dr. Christoph: </speaker>
@@ -5360,7 +5366,8 @@
                 <p>Vorsitzender: Landeshauptmann Dr. Rintelen. (Beginn der Sitzung um 9 Uhr 15 Min.) </p>
                 <sp>
                     <speaker>Vorsitzender Dr. Rintelen:</speaker>
-                    <p> Die Sitzung ist eröffnet. Ich erteile dem Herrn Landesrat Schumy das Wort. </p>
+                    <p> Die Sitzung ist eröffnet. Ich erteile dem Herrn Landesrat Schumy das Wort.
+                    </p>
                 </sp>
                 <sp>
                     <speaker>Landesrat Schumy: </speaker>
@@ -5835,7 +5842,8 @@
                         möchte doch an meinen früheren Vorschlag erinnern, daß jeder Partei eines
                         jeden Landes die Meinungsäußerung ermöglicht wird, wobei ich gleich erkläre,
                         daß wir Sozialdemokraten in diesem Falle für alle Länder die gleiche
-                        Erklärung abgeben, welche einer von uns für alle Länder abzugeben vermag. </p>
+                        Erklärung abgeben, welche einer von uns für alle Länder abzugeben vermag.
+                    </p>
                 </sp>
                 <sp>
                     <speaker>Vorsitzender Dr. Rintelen: </speaker>
@@ -6147,7 +6155,7 @@
                         ihre Verfassung zu geben. Das ist eine naturgemäße Sache. Wenn sie schon
                         selbständige Länder sind, und die Kompetenzen ausüben, die nicht dem Bunde
                         übertragen sind, so müssen diese in ihr eigenes Haus auch auf dem eigenen
-                        Gebiet bauen können. Fordern muß man, daß die Landes-  verfassung mit der
+                        Gebiet bauen können. Fordern muß man, daß die Landes- verfassung mit der
                         Verfassung des Bundes absolut in keinem Widerspruch zu stehen hat.38 Das
                         Recht muß man dem Bunde ohne Zweifel einräumen, daß er die Landesverfassung
                         nach dieser Richtung überprüft. Im übrigen aber soll man es den Ländern
@@ -6430,7 +6438,7 @@
                     <p>Die bezügliche Erklärung lautet: „Die Landeskonferenz wird vertagt und die
                         Anberaumung der nächsten Sitzung hat durch den Landesrat von Oberösterreich
                         auf Mitte März zu erfolgen. Dieser Landesrat hat alle für die nächste
-                        Sitzung dienlichen Vorbereitungen zu treffen.“  </p>
+                        Sitzung dienlichen Vorbereitungen zu treffen.“ </p>
                 </sp>
                 <sp>
                     <speaker>Vorsitzender Dr. Rintelen: </speaker>
