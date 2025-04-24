@@ -927,9 +927,10 @@
                     Befugnissen ferner: <list>
                       <label>a) </label>
                       <item>die Ernennung der Bundesangestellten (einschließlich der Offiziere) und
-                        der sonstigen Bundesfunktionäre und die Verleihung von Amtstiteln an solche; </item>
-                      <pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>
-                      <fw type="pageNum">17</fw>
+                        der sonstigen Bundesfunktionäre und die Verleihung von Amtstiteln an
+                          solche;<pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/><fw
+                          type="pageNum">17</fw>
+                      </item>
                       <label>b) </label>
                       <item> die Schaffung von Amts- und Berufstiteln, die Verleihung der
                         Berufstitel; </item>
@@ -1483,9 +1484,8 @@
                   <item>Flurschutz und Flurpolizei; </item>
                   <label>4.</label>
                   <item>die Regelung des Marktverkehrs und die Lebensmittelpolizei; <fw
-                      type="pageNum">393</fw></item>
-                  <pb facs="#facs_28" n="28" xml:id="img_0028" break="yes"/>
-                  <fw type="pageNum">28</fw>
+                      type="pageNum">39</fw><pb facs="#facs_28" n="28" xml:id="img_0028" break="yes"
+                      /><fw type="pageNum">28</fw></item>
                   <label>5.</label>
                   <item> die Gesundheitspolizei einschließlich des Leichen- und Bestattungswesens; </item>
                   <label>6.</label>

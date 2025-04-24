@@ -770,9 +770,9 @@
                                           <head>Artikel 26. </head>
                                           <p type="legal_section"><label>(1)</label> Im Bundesrate
                                                 sind die Länder im Verhältnis ihrer Einwohnerzahl
-                                                gemäß den folgenden Bestimmungen vertreten.</p>
-                                          <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
-                                          <fw type="pageNum">3</fw>
+                                                gemäß den folgenden Bestimmungen vertreten.<pb
+                                                  facs="#facs_4" n="4" xml:id="img_0004" break="yes"
+                                                  /><fw type="pageNum">3</fw></p>
                                           <p type="legal_section"><label>(2)</label> Das Land mit
                                                 der größten Einwohnerzahl entsendet 12 Mitglieder,
                                                 jedes andere Land so viele Mitglieder, als dem
@@ -780,7 +780,7 @@
                                                 erstangeführten Einwohnerzahl entspricht, wobei
                                                 Reste über die Hälfte der Verhältniszahl als voll
                                                 gelten. Jedem Lande gebührt jedoch eine Vertretung
-                                                von wenigstens drei  Mitgliedern. </p>
+                                                von wenigstens drei Mitgliedern. </p>
                                           <p type="legal_section"><label>(3)</label> Für jedes
                                                 Mitglied wird ein Ersatzmann bestellt. </p>
                                           <p type="legal_section"><label>(4)</label> Die Mitglieder
@@ -811,7 +811,8 @@
                                                 werden, wenn im Bundesrate — abgesehen von der für
                                                 dessen Beschlußfassung überhaupt erforderlichen
                                                 Stimmenmehrheit — die Mehrheit der Vertreter von
-                                                wenigstens vier Ländern die Änderung angenommen hat. </p>
+                                                wenigstens vier Ländern die Änderung angenommen hat.
+                                          </p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 27. </head>

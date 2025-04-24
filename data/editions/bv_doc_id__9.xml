@@ -227,9 +227,9 @@
   <text type="Verfassungsentwurf">
     <body>
       <div type="main">
-        <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
-        <fw type="pageNum">1</fw>
-        <p>Zweite Fassung.</p>        <head>Vorentwurf einer Bundesstaatsverfassung.</head>
+        <p><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><fw type="pageNum">1</fw>Zweite
+          Fassung.</p>
+        <head>Vorentwurf einer Bundesstaatsverfassung.</head>
         <div type="preamble">
           <p>Kraft des Selbstbestimmungsrechtes des deutschen Volkes und seiner geschichtlich
             gewordenen Glieder und mit feierlicher Verwahrung gegen jede zeitliche Schranke, die der
@@ -406,9 +406,8 @@
                   Schulwesens; </item>
                 <label>7.</label>
                 <item>das Gewerbewesen, die öffentlichen Agentien und die
-                  Privatgeschäftsvermittlung; </item>
-                <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
-                <fw type="pageNum">5</fw>
+                    Privatgeschäftsvermittlung;<pb facs="#facs_6" n="6" xml:id="img_0006"
+                    break="yes"/><fw type="pageNum">5</fw></item>
                 <label>8.</label>
                 <item> hinsichtlich der öffentlichen Abgaben, die nicht ausschließlich oder
                   teilweise für den Bund eingehoben werden: die Anordnungen zur Verhinderung von
@@ -457,9 +456,9 @@
                 <label>4. </label>
                 <item> die Einrichtungen zum Schutze der Gesellschaft gegen verbrecherische,
                   verwahrloste oder sonst gefährliche Personen, wie Zwangsarbeits- und ähnliche
-                  Anstalten; die Abschiebung und Abschaffung aus einem in ein anderes Land;</item>
-                <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
-                <fw type="pageNum">6</fw>
+                  Anstalten; die Abschiebung und Abschaffung aus einem in ein anderes Land;<pb
+                    facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum"
+                  >6</fw></item>
                 <label>5. </label>
                 <item>die öffentlichen Einrichtungen zur außergerichtlichen Vermittlung von
                   Streitigkeiten; </item>

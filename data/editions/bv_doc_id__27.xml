@@ -347,10 +347,10 @@
       <text type="Verfassungsentwurf">
             <body>
                   <div type="main">
-                        <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
-                        <fw type="pageNum">- 1 -</fw>
                         <note type="comment">vorletzter Entwurf 12/4 zu</note>
                         <div type="section">
+                              <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+                              <fw type="pageNum">- 1 -</fw>
                               <head>Erster Abschnitt.</head>
                               <head>Allgemeine Bestimmungen.</head>
                               <div type="article">
@@ -450,10 +450,9 @@
                                                   der politischen und wirtschaftlichen Vertretung
                                                   gegenüber dem Auslande; die Grenzvermarkung; die
                                                   Regelung des Waren- und Viehverkehres mit dem
-                                                  Auslande; das Zollwesen; </item>
-                                                <pb facs="#facs_4" n="4" xml:id="img_0004"
-                                                  break="yes"/>
-                                                <fw type="pageNum">- 3 -</fw>
+                                                  Auslande; das Zollwesen;<pb facs="#facs_4" n="4"
+                                                  xml:id="img_0004" break="yes"/><fw type="pageNum"
+                                                  >- 3 -</fw></item>
                                                 <label>2.)</label>
                                                 <item>die Regelung und Ueberwachung des Eintrittes
                                                   in das Bundesgebiet und des Austrittes aus diesem;
@@ -605,10 +604,9 @@
                                                 <label>9.)</label>
                                                 <item>das Munitions-, Schiess- und
                                                   Sprengmittelwesen, soweit es nicht dem Monopol
-                                                  unterliegt, sowie das Waffenwesen; </item>
-                                                <pb facs="#facs_7" n="7" xml:id="img_0007"
-                                                  break="yes"/>
-                                                <fw type="pageNum">- 6 -</fw>
+                                                  unterliegt, sowie das Waffenwesen;<pb
+                                                  facs="#facs_7" n="7" xml:id="img_0007" break="yes"
+                                                  /><fw type="pageNum">- 6 -</fw></item>
                                                 <label>10.)</label>
                                                 <item>das Wasserrecht und das Elektrizitätswesen; </item>
                                                 <label>11.)</label>
@@ -667,10 +665,8 @@
                                                 <item>das Arbeiterrecht und den Arbeiter- und
                                                   Angestelltenschutz, soweit es sich um land- und
                                                   forstwirtschaftliche Arbeiter und Angestellte
-                                                  handelt; </item>
-                                                <pb facs="#facs_8" n="8" xml:id="img_0008"
-                                                  break="yes"/>
-                                                <fw type="pageNum">- 7 -</fw>
+                                                  handelt;<pb facs="#facs_8" n="8" xml:id="img_0008"
+                                                  break="yes"/><fw type="pageNum">- 7 -</fw></item>
                                                 <label>7.)</label>
                                                 <item> die beruflichen Vertretungen auf land- und
                                                   forstwirtschaftlichem Gebiete; </item>
@@ -687,7 +683,8 @@
                                                   Landesbehörden, die auch Bundesangelegenheiten zu
                                                   besorgen haben, einschliesslich der Regelung des
                                                   im Einvernehmen der in Betracht kommenden Länder
-                                                  zu vollziehenden Dienstwechsels von Land zu Land. </item>
+                                                  zu vollziehenden Dienstwechsels von Land zu Land.
+                                                </item>
                                           </list>
                                     </p>
                                     <p type="legal_section"><label>(2)</label> Die Entscheidung
@@ -1198,7 +1195,8 @@
                                           <p type="legal_section">Die Mitglieder des Bundesrates
                                                 geniessen die ihnen als Mitglieder eines Landtages
                                                 gewährte Immunität auch für ihre Funktion im
-                                                Bundesrate während der ganzen Dauer dieser Funktion. </p>
+                                                Bundesrate während der ganzen Dauer dieser Funktion.
+                                          </p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 47. </head>
