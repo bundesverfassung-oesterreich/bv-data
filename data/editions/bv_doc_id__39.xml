@@ -105,9 +105,10 @@
                 <date notBefore-iso="1920-07-22" notAfter-iso="1920-07-22"> 22. Juli 1920 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="structured">
+        <revisionDesc status="text_correct">
             <change when="2025-02-03" who="#cfh">document automatically created</change>
             <change when="2025-03-24" who="#e_kordt">Text strukturiert</change>
+            <change when="2025-04-24" who="#e_kordt">Text gegengelesen</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -166,111 +167,119 @@
                 <p>Beginn 3 Uhr Nachmittag.</p>
                 <p>Anwesend:</p>
                 <list>
-                    <item>Dr. Otto Bauer als Vorsitzender,</item>
-                    <item>Dr. Heinrich Clessin als Berichterstatter,</item>
-                    <item>Dr. Josef Aigner,</item>
-                    <item>Dr. Robert Danneberg,</item>
-                    <item>Dr. Arnold Eisler,</item>
-                    <item>Matthias Eldersch,</item>
-                    <item>Jodok Fink,</item>
-                    <item>Dr. Ignaz Seipel.</item>
+                    <item>Dr. Otto <emph>Bauer</emph> als Vorsitzender,</item>
+                    <item>Dr. Heinrich <emph>Clessin</emph> als Berichterstatter,</item>
+                    <item>Dr. Josef <emph>Aigner</emph>,</item>
+                    <item>Dr. Robert <emph>Danneberg</emph>,</item>
+                    <item>Dr. Arnold <emph>Eisler</emph>,</item>
+                    <item>Matthias <emph>Eldersch</emph>,</item>
+                    <item>Jodok <emph>Fink</emph>,</item>
+                    <item>Dr. Ignaz <emph>Seipel</emph>.</item>
                 </list>
                 <list>
-                    <item>Staatssekretär Prof.Dr. Michael Mayr.</item>
+                    <item>Staatssekretär Prof.Dr. Michael <emph>Mayr</emph>.</item>
                 </list>
                 <p>Von der Staatskanzlei: </p>
                 <list>
-                    <item>Min.Rat Dr. Georg Froehlich,</item>
-                    <item>Sektionsrat Dr. Egbert Mannlicher,</item>
-                    <item>Oberfinanzrat Dr. Karl Moser,</item>
-                    <item> Min.Vizesekretär Dr. Adolf Merkl als Schriftführer.</item>
+                    <item>Min.Rat Dr. Georg <emph>Froehlich</emph>,</item>
+                    <item>Sektionsrat Dr. Egbert <emph>Mannlicher</emph>,</item>
+                    <item>Oberfinanzrat Dr. Karl <emph>Moser</emph>,</item>
+                    <item> Min.Vizesekretär Dr. Adolf <emph>Merkl</emph> als Schriftführer.</item>
                 </list>
                 <list>
-                    <item>Prof. Dr. Hans Kelsen, als Experte des Verfassungsausschusses.</item>
+                    <item>Prof. Dr. Hans <emph>Kelsen</emph>, als Experte des
+                        Verfassungsausschusses.</item>
                 </list>
                 <list>
-                    <item>Sektionschef Dr. Kaan, Regierungsrat Dr. Schromm, vom
-                        St.A.f.soz.Verwaltung: der Beratung über den Punkt 9 des Art. 10 als
-                        versicherungstechnische Experten zugezogen.</item>
+                    <item>Sektionschef Dr. <emph>Kaan</emph>,</item>
+                    <item>Regierungsrat Dr. <emph>Schromm</emph>, vom St.A.f.soz.Verwaltung: der
+                        Beratung über den Punkt 9 des Art. 10 als versicherungstechnische Experten
+                        zugezogen.</item>
                 </list>
                 <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
-                    <fw type="pageNum">- 2 -</fw>Dr. Otto Bauer eröffnet die Sitzung und lädt die
-                    Vertreter der Versicherungssektion des Staatsamtes für soziale Verwaltung ein,
-                    sich im Sinne des in der Sitzung des Subkomitees vom 20. Juli 1920 gefaßten
-                    Beschlusses zur Frage der Trennung des Sozialversicherungswesens der land- und
-                    forstwirtschaftlichen Arbeiter und Angestellten vom übrigen
-                    Sozialversicherungswesen zu äußern. Sektionschef Dr. Kaan legt ausführlich die
-                    versicherungstechnischen Schwierigkeiten einer solchen Trennung dar und betont,
-                    daß abgesehen von den außerordentlich gesteigerten Verwaltungskosten diese
-                    Trennung vom Standpunkte der Landund Forstwirtschaft noch den schweren Nachteil
-                    habe, daß das Risiko in der Land- und Forstwirtschaft infolge der ungünstigen
-                    Alterszusammensetzung ungleich größer sei und daß dadurch selbstverständlich
-                    auch ungleich höhere Prämien bedingt wären, als bei einer für alle
-                    Arbeitskategorien gemeinsamen Organisation der Versicherung. Auf Befragen des
-                    Vorsitzenden gibt Sektionschef Dr. Kaan bekannt, daß bei der Ausarbeitung der
-                    neuen Regierungsvorlage über die Krankenversiche rung der Weg der
-                    Staatsgesetzgebung von landwirtschaftlicher Seite nicht in Frage gestellt wurde.
-                    Dr. Seipel bemerkt, daß mit der Frage der Organisation des Versicherungswesens
-                    auch die Frage der Ressortzuständigkeit zusammenhängt; das organisatorisch von
-                    der übrigen öffentlichen Versicherung getrennte landwirtschaftliche
-                    Sozialversicherungswesen müßte naturgemäß dem Staatsamt für Land- und
-                    Forstwirtschaft unterstehen. Auch sei nicht ausgeschlossen, daß sich die
-                    getrennten Organisationen der beiden Versicherungszweige in einem übergeordneten
-                    Zweck verbande vereinigen, wodurch die versicherungstechni<pb facs="#facs_4"
-                        n="4" xml:id="img_0004" break="no"/>
+                    <fw type="pageNum">- 2 -</fw><emph>Dr. Otto Bauer</emph> eröffnet die Sitzung
+                    und lädt die Vertreter der Versicherungssektion des Staatsamtes für soziale
+                    Verwaltung ein, sich im Sinne des in der Sitzung des Subkomitees vom 20. Juli
+                    1920 gefaßten Beschlusses zur Frage der Trennung des Sozialversicherungswesens
+                    der land- und forstwirtschaftlichen Arbeiter und Angestellten vom übrigen
+                    Sozialversicherungswesen zu äussern. Sektionschef <emph>Dr. Kaan</emph> legt
+                    ausführlich die versicherungstechnischen Schwierigkeiten einer solchen Trennung
+                    dar und betont, dass abgesehen von den ausserordentlich gesteigerten
+                    Verwaltungskosten diese Trennung vom Standpunkte der Land- und Forstwirtschaft
+                    noch den schweren Nachteil habe, dass das Risiko in der Land- und
+                    Forstwirtschaft infolge der ungünstigen Alterszusammensetzung ungleich grösser
+                    sei und dass dadurch selbstverständlich auch ungleich höhere Prämien bedingt
+                    wären, als bei einer für alle Arbeitskategorien gemeinsamen Organisation der
+                    Versicherung. Auf Befragen des <emph>Vorsitzenden</emph> gibt Sektionschef
+                        <emph>Dr. Kaan</emph> bekannt, dass bei der Ausarbeitung der neuen
+                    Regierungsvorlage über die Krankenversicherung der Weg der Staatsgesetzgebung
+                    von landwirtschaftlicher Seite nicht in Frage gestellt wurde. <emph>Dr.
+                        Seipel</emph> bemerkt, dass mit der Frage der Organisation des
+                    Versicherungswesens auch die Frage der Ressortzuständigkeit zusammenhängt; das
+                    organisatorisch von der übrigen öffentlichen Versicherung getrennte
+                    landwirtschaftliche Sozialversicherungswesen müsste naturgemäß dem St.A. für
+                    Land- und Forstwirtschaft unterstehen. Auch sei nicht ausgeschlossen, dass sich
+                    die getrennten Organisationen der beiden Versicherungszweige in einem
+                    übergeordneten Zweckverbande vereinigen, wodurch die versicherungstechni<pb
+                        facs="#facs_4" n="4" xml:id="img_0004" break="no"/>
                     <fw type="pageNum">- 3 -</fw>schen Mängel der Doppelorganisation des
-                    Versicherungswesens paralysiert werden könnten. Der Vorsitzende bemerkt, daß
-                    gemäß dem jetzt zum Durchbruch gelangten Grundsatze, daß die Arbeiter nicht ein
-                    Zugehör des Produktionszweiges sind, in dem sie beschäftigt sind, das gesamte
-                    Versicherungswesen aus dem Wirkungskreise des Staatsamtes für Land- und Fortwirt
-                    schaft ausgeschaltet und dem Staatsamt für soziale Verwaltung vorbehalten werden
-                    müsse. Staatssekretär Dr. Mayr bemerkt, daß der Arbeiterschaft selbst die
-                    vorgeschlagene Doppelorganisation des Versicherungswesens erwünscht sein dürfte.
-                    Auf Befragen des Vorsitzenden gibt Sektionschef Dr. Kaan bekannt, daß in der
-                    vorerwähnten Regierungsvorlage die Kompetenz des Staatsamtes für soziale
-                    Verwaltung ausgesprochen sei, wobei allerdings die den Wirkungskreis des
-                    Staatsamtes für Land- und Forstwirtschaft berührenden Entscheidungen im
-                    Einvernehmen mit diesen Staatsamte zu treffen sein werden.</p>
-                <p>Der Vorsitzende bringt sodann den Punkt 9 zur Abstimmung: der Punkt wird in der
-                    Fassung des Linzer Entwurfes angenommen; der sozialdemokratische und der
-                    christlichsoziale Abänderungsantrag bleiben in der Minderheit.</p>
-                <p>Hierauf stellt der Vorsitzende den (im 3. Protokolle wiedergegebenen) Antrag Dr.
-                    Danneberg bezüglich des Schulwesens zur Verhandlung “. Der Berichterstatter
-                    bemerkt, daß sich seine Partei dem Antrage in der Fassung A mit dem Vorbehalte
-                    anschließe, daß die landund forstwirtschaftlichen Fachschulen aus der
-                    Bundeskompetenz ausge nommen werden; anderenfalls sei er bereit, den Vorschlag B
-                    anzunehmen. Staatssekretär Dr. Mayr gibt zu bedenken, daß die vorgeschlagene
-                    Regelung des Schulwesens eine Zentralisierung bedeute, die<pb facs="#facs_5"
-                        n="5" xml:id="img_0005" break="yes"/>
+                    Versicherungswesens paralysiert werden könnten. Der <emph>Vorsitzende</emph>
+                    bemerkt, dass gemäß dem jetzt zum Durchbruch gelangten Grundsatze, dass die
+                    Arbeiter nicht ein Zugehör des Produktionszweiges sind, in dem sie beschäftigt
+                    sind, das gesamte Versicherungswesen aus dem Wirkungskreise des St.A. für Land-
+                    und Fortwirt schaft ausgeschaltet und dem St.A. für soziale Verwaltung
+                    vorbehalten werden müsse. Staatssekretär <emph>Dr. Mayr</emph> bemerkt, daß der
+                    Arbeiterschaft selbst die vorgeschlagene Doppelorganisation des
+                    Versicherungswesens erwünscht sein dürfte. Auf Befragen des
+                        <emph>Vorsitzenden</emph> gibt Sektionschef <emph>Dr. Kaan</emph> bekannt,
+                    dass in der vorerwähnten Regierungsvorlage die Kompetenz des Staatsamtes für
+                    soziale Verwaltung ausgesprochen sei, wobei allerdings die den Wirkungskreis des
+                    St.A. für Land- und Forstwirtschaft berührenden Entscheidungen im Einvernehmen
+                    mit diesem Staatsamte zu treffen sein werden.</p>
+                <p>Der <emph>Vorsitzende</emph> bringt sodann den Punkt 9 zur Abstimmung; der Punkt
+                    wird in der Fassung des Linzer Entwurfes angenommen; der sozialdemokratische und
+                    der christlichsoziale Abänderungsantrag bleiben in der Minderheit.</p>
+                <p><add>[</add>Hierauf stellt der Vorsitzende den (im 3. Protokolle wiedergegebenen)
+                    Antrag <emph>Dris. Danneberg</emph> bezüglich des Schulwesens zur Verhandlung.
+                    Der <emph>Berichterstatter</emph> bemerkt, dass sich seine Partei dem Antrage in
+                    der Fassung A mit dem Vorbehalte anschliesse, daß die land- und
+                    forstwirtschaftlichen Fachschulen aus der Bundeskompetenz ausgenommen werden;
+                    anderenfalls sei er bereit, den Vorschlag B anzunehmen. Staatssekretär <emph>Dr.
+                        Mayr</emph> gibt zu bedenken, dass die vorgeschlagene Regelung des
+                    Schulwesens eine Zentralisierung bedeute, die<pb facs="#facs_5" n="5"
+                        xml:id="img_0005" break="yes"/>
                     <fw type="pageNum">- 4 -</fw> weit über den gegenwärtigen Rechtszustand
-                    hinausgehe und aus diesem Grunde für die Länder unannehmbar sei. Dr. Eisler
-                    verweist auf das lebhafte Interesse, das in Landstrichen mit einer
-                    fluktuierenden Bevölkerung an einer einheitlichen Regelung des Schulwesens
+                    hinausgehe und aus diesem Grunde für die Länder unannehmbar sei. <emph>Dr.
+                        Eisler</emph> verweist auf das lebhafte Interesse, das in Landstrichen mit
+                    einer fluktuierenden Bevölkerung an einer einheitlichen Regelung des Schulwesens
                     bestehe und erörtert namentlich die Verhältnisse in Obersteier. Staatssekretär
-                    Dr. Mayr macht aufmerksam, daß dieselben Verhältnisse wohl auch in Tirol,
-                    namentlich in Vorarlberg in Beziehung zu den angrenzenden Teilen des deutschen
-                    Reiches bestünden, so daß nicht einmal eine gesamtstaatlich einheitliche
-                    Regelung des Schulwesens den vom Antragsteller erstrebten Zweck voll erfüllen
-                    könnte. Dr. Seipel bemerkt, daß eine Ausgestaltung des Art. 13 des
-                    Verfassungsentwurfes die Bedenken des Antragstellers zerstreuen könnte.</p>
-                <p>Professor Kelsen macht aufmerksam, daß unter dem Titel der Schulaufsicht die
-                    erforderliche Einheitlichkeit des Schulwesens, soweit sie unabweislich ist,
-                    vielleicht genügend sicher gestellt werden könnte. Eldersch hält nicht dafür,
-                    daß eine besondere Formulierung des Art. 13 oder der Vorbehalt der Schulaufsicht
-                    für den Bund die erforderliche Einheit des Schulwesens sicherstellen könne. In
-                    der nach längerer Debatte erfolgenden Abstimmung wird der Antrag Dr. Danneberg
-                    in der Fassung A: „das gesamte Schul- und Erziehungswesen; das
-                    Volksbildungswesen; angenommen. Der Zusatzantrag Dr. Clessin „mit Ausnahme des
-                    forst- und landwirtschaftlichen Unterrichtswesens“ wird abgelehnt. Der
-                    Vorsitzende stellt fest, daß durch diese Abstimmung alle anderen Bestimmungen
-                    über das Schulwesen in den Artikeln 10—12 eliminiert sind. Dr. Seipel behält
-                    sich ein Minderheitsvotum vor.</p>
+                        <emph>Dr. Mayr</emph> macht aufmerksam, dass dieselben Verhältnisse wohl
+                    auch in Tirol, namentlich in Vorarlberg in Beziehung zu den angrenzenden Teilen
+                    des deutschen Reiches bestünden, so dass nicht einmal eine gesamtstaatlich
+                    einheitliche Regelung des Schulwesens den vom Antragsteller erstrebten Zweck
+                    voll erfüllen könnte. <emph>Dr. Seipel</emph> bemerkt, daß eine Ausgestaltung
+                    des Art. 13 des Verfassungsentwurfes die Bedenken des Antragstellers zerstreuen
+                    könnte.</p>
+                <p><emph>Professor Kelsen</emph> macht aufmerksam, dass unter dem Titel der
+                    Schulaufsicht die erforderliche Einheitlichkeit des Schulwesens, soweit sie
+                    unabweislich ist, vielleicht genügend sicher gestellt werden könnte.
+                        <emph>Eldersch</emph> hält nicht dafür, daß eine besondere Formulierung des
+                    Art. 13 oder der Vorbehalt der Schulaufsicht für den Bund die erforderliche
+                    Einheit des Schulwesens sicherstellen könne. In der nach längerer Debatte
+                    erfolgenden Abstimmung wird der Antrag <emph>Dris. Danneberg</emph> in der
+                    Fassung A: „das gesamte Schul- und Erziehungswesen; das Volksbildungswesen;"
+                    angenommen. Der Zusatzantrag <emph>Dris. Clessin</emph> „mit Ausnahme des forst-
+                    und landwirtschaftlichen Unterrichtswesens“ wird abgelehnt. Der
+                        <emph>Vorsitzende</emph> stellt fest, dass durch diese Abstimmung alle
+                    anderen Bestimmungen über das Schulwesen in den Artikeln 10—12 eliminiert sind.
+                        <emph>Dr. Seipel</emph> behält sich ein Minderheitsvotum
+                    vor.<add>]</add></p>
                 <p><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
-                    <fw type="pageNum">- 5 -</fw>Der Vorsitzende eröffnet nunmehr die Debatte über
-                    die Regelung der Gendarmerie und der Polizei und stellt fest, daß zu diesem
-                    Punkte eine Formulierung der Regierung und ein Antrag des Abgeordneten Eldersch
-                    vorliegt. Nach dem Vorschlage der Regierung hätte ein eigener Artikel folgenden
-                    Wortlautes das Gendarmeriewesen zu regeln:</p>
+                    <fw type="pageNum">- 5 -</fw>Der <emph>Vorsitzende</emph> eröffnet nunmehr die
+                    Debatte über die Regelung der Gendarmerie und der Polizei und stellt fest, dass
+                    zu diesem Punkte eine Formulierung der Regierung und ein Antrag des Abgeordneten
+                        <emph>Eldersch</emph> vorliegt. Nach dem Vorschlage der Regierung hätte ein
+                    eigener Artikel folgenden Wortlautes das Gendarmeriewesen zu regeln:</p>
                 <quote>
                     <p>„(1) Zur Unterstützung der zur Aufrechterhaltung der öffentlichen Ordnung,
                         Ruhe und Sicherheit im Bundesgebiete berufenen Behörden dient die
@@ -280,7 +289,7 @@
                         eingerichtet, ausgebildet, ausgerüstet und erhalten; dem Bunde steht auch
                         die Leitung des inneren Dienstes der gesamten Gendarmerie und die Erlassung
                         der Dienstvorschriften zu.</p>
-                    <p>(3) Zur Verfügung über die Gendarmerie für den äußeren Dienst zum Zwecke der
+                    <p>(3) Zur Verfügung über die Gendarmerie für den äusseren Dienst zum Zwecke der
                         Aufrechterhaltung der öffentlichen Ordnung, Ruhe und Sicherheit sind
                         grundsätzlich nur die zuständigen Landesregierungen und ihnen unterstellten
                         Landesbehörden berufen.</p>
@@ -295,66 +304,69 @@
                         Bundesgesetz."</p>
                 </quote>
                 <p><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
-                    <fw type="pageNum">- 6 -</fw>Der Artikel 10 Punkt 12 hätte nach dem Vorschlage der Regierung folgendermaßen zu
-                    lauten: „Öffentliche Ordnung, Ruhe und Sicherheit in der Bundeshauptstadt Wien
-                    und in den Landeshauptstädten.“</p>
-                <p>Der Antrag Eldersch lautet:</p>
+                    <fw type="pageNum">- 6 -</fw>Der Artikel 10, Pkt. 12, hätte nach dem Vorschlage
+                    der Regierung folgendermaßen zu lauten: „Oeffentliche Ordnung, Ruhe und
+                    Sicherheit in der Bundeshauptstadt Wien und in den Landeshauptstädten.“</p>
+                <p>Der Antrag <emph>Eldersch</emph> lautet:</p>
                 <quote>
                     <p>„Zur Unterstützung der zur Aufrechterhaltung der öffentlichen Ordnung, Ruhe
                         und Sicherheit im Gebiete der Bundeshauptstadt Wien und der
                         Landeshauptstädte berufenen Behörden dient die Bundespolizei. Ihre
                         Einrichtung, Ausbildung, Ausrüstung und Erhaltung sowie die Leitung des
                         inneren Dienstes und die Erlassung der Dienstvorschriften steht dem Bunde
-                        zu. Zur Verfügung über die Bundespolizei für den äußeren Dienst sind
+                        zu. Zur Verfügung über die Bundespolizei für den äusseren Dienst sind
                         grundsätzlich nur die zuständigen Bürgermeister berufen. Lediglich bei
                         Notstand und Unruhen kann der Bund die zeitweilige Verwendung von Teilen der
-                        Bundespolizei außerhalb ihres ständigen Dienstbereiches anordnen."</p>
+                        Bundespolizei ausserhalb ihres ständigen Dienstbereiches anordnen."</p>
                 </quote>
                 <p>Es entspinnt sich zunächst eine längere Debatte über die Regelung der
-                    Sicherheitspolizei in Wien. Dr. Seipel spricht sich gegen die mit dem Antrage
-                    Eldersch beabsichtigte Kommunalisierung der Polizei aus und begründet die
-                    Sonderstellung der Polizei in Wien und ihre Organisation als Bundesorgan mit der
-                    Stellung Wiens als Hauptstadt und mit der Tatsache, daß Wien als politischer
-                    Gefahrenherd anzusehen sei. Das Argument, daß Wien durch diese Regelung der
-                    Polizei im Vergleiche mit den Ländern und Landeshauptstädten entrechtet werde,
-                    treffe auch schon deshalb nicht zu, weil diese Lösung der Frage der
-                    Bundeshauptstadt zugleich beträchtliche Vorteile bringe, in dem sie namentlich
-                    von einer schweren finanziellen Last durch den Bund entlastet werde. Sektions<pb
-                        facs="#facs_8" n="8" xml:id="img_0008" break="no"/>
-                    <fw type="pageNum">- 7 -</fw>rat Dr. Mannlicher macht darauf aufmerksam, daß
-                    gegenwärtig die Wiener Polizeidirektion in gewissen Angelegenheiten einen über
-                    das Gebiet der Stadt hinaus reichenden, auf das ganze Staatsgebiet sich
-                    erstreckenden Wirkungskreis habe (Daktyloskopie, Spionagedienst usw.). Professor
-                    Kelsen bemerkt, daß die Bundesregierung zufolge ihrer völkerrechtlichen
-                    Verpflichtung, für den Schutz der ausländischen Vertretungen zu sorgen, einer
-                    ihr unmittelbar unterstehenden Polizeigewalt bedürfe; es frage sich daher, ob
-                    nicht neben der Lokalpolizei für den vorerwähnten Zweck eine eigene
-                    Bundespolizei nötig sei. Eldersch erklärt die zugunsten der Organisation der
-                    Wiener Polizei als Bundesorgan vorgebrachten Argumente für unstichhältig und
-                    betont, daß für seine Partei eine Differenzierung in dieser Hinsicht zwischen
-                    Wien und den Ländern unannehmbar sei. Der Vorsitzende wendet sich insbesondere
-                    auch gegen die Bemerkung, daß Wien gewissermaßen als politischer Gefahrenherd
-                    Sonderbehandlung erfordere, da dieselbe Erwägung vom Standpunkte Wiens aus, auch
-                    über gewisse Länder oder Landesteile angestellt werden könne.</p>
-                <p>Mit dem vorerwähnten Vorschlage der Regierung erklärt sich Eldersch vorbehaltlich
-                    geringfügiger stilistischer Änderungen grundsätzlich einverstanden. Nachdem
-                    Ministerialrat Dr. Froehlich und Sektionsrat Dr. Mannlicher auf Befragen die
-                    vorliegende Textierung des über die Gendarmerie handelnden Artikels im einzelnen
-                    begründet haben, bringt der Vorsitzende den Verhandlungsgegenstand zur
-                    Abstimmung. Der Antrag Eldersch wird nach geringfügigen stilistischen Änderungen
-                    in folgender Formulierung angenommen:</p>
+                    Sicherheitspolizei in Wien. <emph>Dr. Seipel</emph> spricht sich gegen die mit
+                    dem Antrage <emph>Eldersch</emph> beabsichtigte Kommunalisierung der Polizei aus
+                    und begründet die Sonderstellung der Polizei in Wien und ihre Organisation als
+                    Bundesorgan mit der Stellung Wiens als Hauptstadt und mit der Tatsache, dass
+                    Wien als politischer Gefahrenherd anzusehen sei. Das Argument, dass Wien durch
+                    diese Regelung der Polizei im Vergleiche mit den Ländern und Landeshauptstädten
+                    entrechtet werde, treffe auch schon deshalb nicht zu, weil diese Lösung der
+                    Frage der Bundeshauptstadt zugleich beträchtliche Vorteile bringe, in dem sie
+                    namentlich von einer schweren finanziellen Last durch den Bund entlastet werde.
+                        Sektions<pb facs="#facs_8" n="8" xml:id="img_0008" break="no"/>
+                    <fw type="pageNum">- 7 -</fw>rat <emph>Dr. Mannlicher</emph> macht darauf
+                    aufmerksam, daß gegenwärtig die Wiener Polizeidirektion in gewissen
+                    Angelegenheiten einen über das Gebiet der Stadt hinaus reichenden, auf das ganze
+                    Staatsgebiet sich erstreckenden Wirkungskreis habe (Daktyloskopie,
+                    Spionagedienst u.s.w.). <emph>Professor Kelsen</emph> bemerkt, dass die
+                    Bundesregierung zufolge ihrer völkerrechtlichen Verpflichtung, für den Schutz
+                    der ausländischen Vertretungen zu sorgen, einer ihr unmittelbar unterstehenden
+                    Polizeigewalt bedürfe; es frage sich daher, ob nicht neben der Lokalpolizei für
+                    den vorerwähnten Zweck eine eigene Bundespolizei nötig sei.
+                        <emph>Eldersch</emph> erklärt die zugunsten der Organisation der Wiener
+                    Polizei als Bundesorgan vorgebrachten Argumente für unstichhältig und betont,
+                    dass für seine Partei eine Differenzierung in dieser Hinsicht zwischen Wien und
+                    den Ländern unannehmbar sei. Der <emph>Vorsitzende</emph> wendet sich
+                    insbesondere auch gegen die Bemerkung, dass Wien gewissermaßen als politischer
+                    Gefahrenherd Sonderbehandlung erfordere, da dieselbe Erwägung vom Standpunkte
+                    Wiens aus, auch über gewisse Länder oder Landesteile angestellt werden
+                    könne.</p>
+                <p>Mit dem vorerwähnten Vorschlage der Regierung erklärt sich <emph>Eldersch</emph>
+                    vorbehaltlich geringfügiger stilistischer Änderungen grundsätzlich
+                    einverstanden. Nachdem Ministerialrat <emph>Dr. Froehlich</emph> und Sektionsrat
+                        <emph>Dr. Mannlicher</emph> auf Befragen die vorliegende Textierung des über
+                    die Gendarmerie handelnden Artikels im einzelnen begründet haben, bringt der
+                        <emph>Vorsitzende</emph> den Verhandlungsgegenstand zur Abstimmung. Der
+                    Antrag <emph>Eldersch</emph> wird nach geringfügigen stilistischen Änderungen in
+                    folgender Formulierung angenommen:</p>
                 <quote>
                     <p><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
                         <fw type="pageNum">- 8 -</fw>„Zur Unterstützung der mit der
                         Aufrechterhaltung der öffentlichen Ordnung, Ruhe und Sicherheit im Gebiete
                         der Bundeshauptstadt Wien und der Landeshauptstädte betrauten Behörden dient
-                        die Bundespolizei. Ihre Einrichtung, Ausbildung Ausrüstung und Erhaltung
+                        die Bundespolizei. Ihre Einrichtung, Ausbildung, Ausrüstung und Erhaltung
                         sowie die Leitung des inneren Dienstes und die Erlassung der
                         Dienstvorschriften steht dem Bunde zu. Zur Verfügung über die Bundespolizei
-                        für den äußeren Dienst sind grundsätzlich nur die zuständigen Bürgermeister
+                        für den äusseren Dienst sind grundsätzlich nur die zuständigen Bürgermeister
                         berufen. Bei Notstand und Unruhen kann der Bund die zeitweilige Verwendung
-                        294 Protokolle des Unterausschusses von Teilen der Bundespolizei außerhalb
-                        ihres ständigen Dienstbereiches anordnen."</p>
+                        von Teilen der Bundespolizei ausserhalb ihres ständigen Dienstbereiches
+                        anordnen."</p>
                 </quote>
                 <p>Von christlichsozialer Seite wird hiezu ein Minoritätsvotum angemeldet.</p>
                 <p>Der Vorschlag der Regierung, betreffend den die Gendarmerie regelnden Artikel
@@ -368,17 +380,18 @@
                 <p>4. Absatz wird in folgender Fassung angenommen:</p>
                 <quote>
                     <p>„(4) Bei Notstand und Unruhen kann der Bund die zeitweilige Verwendung von
-                        Teilen der Gendarmerie außerhalb des Landesbereiches anordnen."</p>
+                        Teilen der Gendarmerie ausserhalb des Landesbereiches anordnen.</p>
                 </quote>
-                <p>5. und 6. Absatz werden unverändert angenommen. Ein weiterer Antrag Dr. Eisler
-                    auf Umstellung der Absätze 3 und 4 wird abgelehnt. Der Vorsitzende stellt fest,
-                    das infolge Annahme des Antrages Eldersch die von der Regierung vorgeschlagene
-                    Formulierung des Punk<pb facs="#facs_10" n="10" xml:id="img_0010" break="no"/>
+                <p>5. und 6. Absatz werden unverändert angenommen. Ein weiterer Antrag <emph>Dris.
+                        Eisler</emph> auf Umstellung der Absätze 3 und 4 wird abgelehnt. Der
+                        <emph>Vorsitzende</emph> stellt fest, dass infolge Annahme des Antrages
+                        <emph>Eldersch</emph> die von der Regierung vorgeschlagene Formulierung des
+                        Punk<pb facs="#facs_10" n="10" xml:id="img_0010" break="no"/>
                     <fw type="pageNum">- 9 -</fw>tes 2 des Art. 10 nicht mehr in Betracht kommt.
-                    Endlich wird im Sinne einer Anregung des Ministerialrates Dr. Froehlich
-                    beschlossen, die Einreihung des über die Gendarmerie handelnden Artikels (dem
-                    die Formulierung Eldersch als letzter Absatz angefügt wird) einem späteren
-                    Zeitpunkt vorzubehalten.</p>
+                    Endlich wird im Sinne einer Anregung des Ministerialrates Dr.
+                        <emph>Froehlich</emph> beschlossen, die Einreihung des über die Gendarmerie
+                    handelnden Artikels,(dem die Formulierung <emph>Eldersch</emph> als letzter
+                    Absatz angefügt wird,) einem späteren Zeitpunkte vorzubehalten.</p>
                 <p>Schluß der Sitzung: 5 Uhr 10 Min. Die nächste Sitzung wird für
                     Dienstag den 17. August 1920, 10 Uhr Vormittag anberaumt.</p>
             </div>
