@@ -2639,12 +2639,12 @@
                                 xml:id="img_0034" break="yes"/></p>
                     </div>
                     <p type="legal_section"><list>
-                            <item><choice>
-                                    <del>§ 59</del>
-                                    <add>§ 58 </add>
-                                </choice> früher 16 § <choice>
-                                    <del>70 </del>
-                                    <add>74 </add>
+                            <item><del><choice>
+                                        <del>§ 50</del>
+                                        <add>§ 58 </add>
+                                    </choice> früher 16</del><choice>
+                                    <del>§ 70 </del>
+                                    <add>§ 74 </add>
                                 </choice>
                             </item>
                             <item>
@@ -2675,11 +2675,9 @@
                         </list></p>
                 </div>
                 <div type="section">
-                    <head><del><choice>
-                                <del>Fünfter Teil.</del>
-                                <add>IV. Abschnitt.</add>
-                            </choice></del><add>Vom Staatshaushalt und den
-                        Staatsschulden.</add></head>
+                    <head><seg type="note_ref">Fünfter Titel.  <note type="comment">fünter
+                                Titel!</note></seg><del>IV. Abschnitt.</del>Vom Staatshaushalt und
+                        den Staatsschulden.</head>
                     <div type="article">
                         <head>§ 74.</head>
                         <p type="legal_section">Die bewaffnete Macht beruht auf der allgemeinen,
@@ -2792,8 +2790,8 @@
                     </div>
                     <div type="article">
                         <head><choice>
-                                <del>§ 63. § 77.</del>
-                                <add>§ 81.</add>
+                                <del>§ 64. § 78.</del>
+                                <add>§ 82.</add>
                             </choice></head>
                         <p type="legal_section">Der Staats<choice>
                                 <del>kanzler</del>
@@ -2830,10 +2828,10 @@
                             erfolgen. Zur Überwachung der Staatsschuldengesetze ist das Staatsschulden<choice>
                                 <del>[?]</del>
                                 <add>direktorium</add>
-                            </choice> berufen. <add>(§ 40.)</add>  Es besteht aus sieben
-                            Mitgliedern, von denen vier aus dem Volkshaus und drei aus dem Senat
-                            berufen werden. Der Staatssekretär des Schatzamts ist ständiger
-                                Berichterstatter<del>, jedoch</del> ohne Stimmrecht. Das Staatsschulden<choice>
+                            </choice> berufen. <add>(§ 40.)</add> Es besteht aus sieben Mitgliedern,
+                            von denen vier aus dem Volkshaus und drei aus dem Senat berufen werden.
+                            Der Staatssekretär des Schatzamts ist ständiger Berichterstatter<del>,
+                                jedoch</del> ohne Stimmrecht. Das Staatsschulden<choice>
                                 <del>[?]</del>
                                 <add>direktorium</add>
                             </choice> ist ein Hilfsamt der Nationalversammlung. <choice>
