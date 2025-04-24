@@ -29,23 +29,22 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
-                    </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
-                    </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
-                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital
+                        Humanities and Cultural Heritage an der Österreichischen Akademie der
+                        Wissenschaften</orgName>
                 </publisher>
                 <publisher>
-                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
-                        Verfassungsgeschichte</orgName>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für
+                        Rechts- und Verfassungsgeschichte</orgName>
                 </publisher>
                 <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
                 <date when="2023">2023</date>
@@ -64,25 +63,31 @@
             <sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
-                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
-                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
-                        <idno type="archive">AVA, Nachlasssammlung, E 1731 (Nachlass Renner) Mappe 292</idno>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
+                            Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik
+                            (Wien)</repository>
+                        <idno type="archive">AVA, Nachlasssammlung, E 1731 (Nachlass Renner) Mappe
+                            292</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
                             <author role="acdh:hasAuthor">Renner, Karl</author>
                             <title>Renner Entwurf 1918</title>
-                            <note type="editor">Renner Entwurf 1918 (Titel des Dokuments: "Entwurf einer provisorischen Verfassung"), Zustand mäßig, zahllose Streichungen, Ergänzungen, Anmerkungen. Definitiver Text teils schwer zu identifizieren, 23 Seiten, Artikel/Paragraphenzählung konfus, eventuell nicht vollständig</note>
+                            <note type="editor">Renner Entwurf 1918 (Titel des Dokuments: "Entwurf
+                                einer provisorischen Verfassung"), Zustand mäßig, zahllose
+                                Streichungen, Ergänzungen, Anmerkungen. Definitiver Text teils
+                                schwer zu identifizieren, 23 Seiten, Artikel/Paragraphenzählung
+                                konfus, eventuell nicht vollständig</note>
                         </msItem>
                     </msContents>
                     <physDesc>
-                        <objectDesc form="Manuskript bestehend aus Handschrift und Typoskript">
-                        </objectDesc>
-                        <handDesc>
-                        </handDesc>
+                        <objectDesc form="Manuskript bestehend aus Handschrift und Typoskript"> </objectDesc>
+                        <handDesc> </handDesc>
                     </physDesc>
                     <history>
-                        <origin notBefore-iso="1918-11-01" notAfter-iso="1918-11-30">November 1918</origin>
+                        <origin notBefore-iso="1918-11-01" notAfter-iso="1918-11-30">November
+                            1918</origin>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -92,24 +97,123 @@
                 <p/>
             </abstract>
             <creation>
-                <date notBefore-iso="1918-11-01" notAfter-iso="1918-11-30">
-                    November 1918
-                </date>
+                <date notBefore-iso="1918-11-01" notAfter-iso="1918-11-30"> November 1918 </date>
             </creation>
         </profileDesc>
         <revisionDesc status="created">
             <change when="2024-07-09" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
-    <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="2915" lry="4745" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0002/full/full/0/default.jpg" width="2915px" height="4745px"/></surface><surface ulx="0" uly="0" lrx="2942" lry="4715" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0003/full/full/0/default.jpg" width="2942px" height="4715px"/></surface><surface ulx="0" uly="0" lrx="2959" lry="4748" xml:id="facs_4">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0005/full/full/0/default.jpg"
-                width="2959px" height="4748px"/>
-        </surface><surface ulx="0" uly="0" lrx="2982" lry="4734" xml:id="facs_5">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0004/full/full/0/default.jpg"
-                width="2982px" height="4734px"/>
-        </surface><surface ulx="0" uly="0" lrx="2938" lry="4722" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0006/full/full/0/default.jpg" width="2938px" height="4722px"/></surface><surface ulx="0" uly="0" lrx="2961" lry="4762" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0007/full/full/0/default.jpg" width="2961px" height="4762px"/></surface><surface ulx="0" uly="0" lrx="2990" lry="4797" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0008/full/full/0/default.jpg" width="2990px" height="4797px"/></surface><surface ulx="0" uly="0" lrx="2987" lry="4747" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0009/full/full/0/default.jpg" width="2987px" height="4747px"/></surface><surface ulx="0" uly="0" lrx="2985" lry="4795" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0010/full/full/0/default.jpg" width="2985px" height="4795px"/></surface><surface ulx="0" uly="0" lrx="2988" lry="4735" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0011/full/full/0/default.jpg" width="2988px" height="4735px"/></surface><surface ulx="0" uly="0" lrx="2944" lry="4730" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0012/full/full/0/default.jpg" width="2944px" height="4730px"/></surface><surface ulx="0" uly="0" lrx="2938" lry="4712" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0013/full/full/0/default.jpg" width="2938px" height="4712px"/></surface><surface ulx="0" uly="0" lrx="2937" lry="4729" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0014/full/full/0/default.jpg" width="2937px" height="4729px"/></surface><surface ulx="0" uly="0" lrx="2938" lry="4722" xml:id="facs_15"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0015/full/full/0/default.jpg" width="2938px" height="4722px"/></surface><surface ulx="0" uly="0" lrx="2940" lry="4772" xml:id="facs_16"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0016/full/full/0/default.jpg" width="2940px" height="4772px"/></surface><surface ulx="0" uly="0" lrx="2941" lry="4736" xml:id="facs_17"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0017/full/full/0/default.jpg" width="2941px" height="4736px"/></surface><surface ulx="0" uly="0" lrx="2954" lry="4756" xml:id="facs_18"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0018/full/full/0/default.jpg" width="2954px" height="4756px"/></surface><surface ulx="0" uly="0" lrx="2990" lry="4794" xml:id="facs_19"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0019/full/full/0/default.jpg" width="2990px" height="4794px"/></surface><surface ulx="0" uly="0" lrx="2957" lry="4709" xml:id="facs_20"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0020/full/full/0/default.jpg" width="2957px" height="4709px"/></surface><surface ulx="0" uly="0" lrx="2975" lry="4723" xml:id="facs_21"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0021/full/full/0/default.jpg" width="2975px" height="4723px"/></surface><surface ulx="0" uly="0" lrx="2934" lry="4714" xml:id="facs_22"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0022/full/full/0/default.jpg" width="2934px" height="4714px"/></surface><surface ulx="0" uly="0" lrx="2957" lry="4754" xml:id="facs_23"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0023/full/full/0/default.jpg" width="2957px" height="4754px"/></surface><surface ulx="0" uly="0" lrx="2988" lry="4762" xml:id="facs_24"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0025/full/full/0/default.jpg" width="2988px" height="4762px"/></surface><surface ulx="0" uly="0" lrx="2976" lry="4747" xml:id="facs_25"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0026/full/full/0/default.jpg" width="2976px" height="4747px"/></surface><surface ulx="0" uly="0" lrx="3007" lry="4781" xml:id="facs_26"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0027/full/full/0/default.jpg" width="3007px" height="4781px"/></surface><surface ulx="0" uly="0" lrx="2979" lry="4749" xml:id="facs_27"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0028/full/full/0/default.jpg" width="2979px" height="4749px"/></surface><surface ulx="0" uly="0" lrx="2983" lry="4791" xml:id="facs_28"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0029/full/full/0/default.jpg" width="2983px" height="4791px"/></surface><surface ulx="0" uly="0" lrx="2955" lry="4784" xml:id="facs_29"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0030/full/full/0/default.jpg" width="2955px" height="4784px"/></surface><surface ulx="0" uly="0" lrx="2145" lry="2951" xml:id="facs_30"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0031/full/full/0/default.jpg" width="2145px" height="2951px"/></surface><surface ulx="0" uly="0" lrx="2974" lry="4760" xml:id="facs_31"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0032/full/full/0/default.jpg" width="2974px" height="4760px"/></surface><surface ulx="0" uly="0" lrx="2960" lry="4774" xml:id="facs_32"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0033/full/full/0/default.jpg" width="2960px" height="4774px"/></surface><surface ulx="0" uly="0" lrx="2965" lry="4781" xml:id="facs_33"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0034/full/full/0/default.jpg" width="2965px" height="4781px"/></surface><surface ulx="0" uly="0" lrx="2961" lry="2792" xml:id="facs_34"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0035/full/full/0/default.jpg" width="2961px" height="2792px"/></surface><surface ulx="0" uly="0" lrx="2995" lry="4763" xml:id="facs_35"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0036/full/full/0/default.jpg" width="2995px" height="4763px"/></surface><surface ulx="0" uly="0" lrx="2967" lry="4766" xml:id="facs_36"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0037/full/full/0/default.jpg" width="2967px" height="4766px"/></surface><surface ulx="0" uly="0" lrx="2982" lry="4730" xml:id="facs_37"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0038/full/full/0/default.jpg" width="2982px" height="4730px"/></surface></facsimile>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+        <surface ulx="0" uly="0" lrx="2915" lry="4745" xml:id="facs_2">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0002/full/full/0/default.jpg" width="2915px" height="4745px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2942" lry="4715" xml:id="facs_3">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0003/full/full/0/default.jpg" width="2942px" height="4715px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2959" lry="4748" xml:id="facs_4">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0005/full/full/0/default.jpg" width="2959px" height="4748px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2982" lry="4734" xml:id="facs_5">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0004/full/full/0/default.jpg" width="2982px" height="4734px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2938" lry="4722" xml:id="facs_6">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0006/full/full/0/default.jpg" width="2938px" height="4722px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2961" lry="4762" xml:id="facs_7">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0007/full/full/0/default.jpg" width="2961px" height="4762px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2990" lry="4797" xml:id="facs_8">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0008/full/full/0/default.jpg" width="2990px" height="4797px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2987" lry="4747" xml:id="facs_9">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0009/full/full/0/default.jpg" width="2987px" height="4747px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2985" lry="4795" xml:id="facs_10">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0010/full/full/0/default.jpg" width="2985px" height="4795px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2988" lry="4735" xml:id="facs_11">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0011/full/full/0/default.jpg" width="2988px" height="4735px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2944" lry="4730" xml:id="facs_12">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0012/full/full/0/default.jpg" width="2944px" height="4730px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2938" lry="4712" xml:id="facs_13">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0013/full/full/0/default.jpg" width="2938px" height="4712px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2937" lry="4729" xml:id="facs_14">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0014/full/full/0/default.jpg" width="2937px" height="4729px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2938" lry="4722" xml:id="facs_15">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0015/full/full/0/default.jpg" width="2938px" height="4722px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2940" lry="4772" xml:id="facs_16">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0016/full/full/0/default.jpg" width="2940px" height="4772px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2941" lry="4736" xml:id="facs_17">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0017/full/full/0/default.jpg" width="2941px" height="4736px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2954" lry="4756" xml:id="facs_18">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0018/full/full/0/default.jpg" width="2954px" height="4756px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2990" lry="4794" xml:id="facs_19">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0019/full/full/0/default.jpg" width="2990px" height="4794px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2957" lry="4709" xml:id="facs_20">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0020/full/full/0/default.jpg" width="2957px" height="4709px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2975" lry="4723" xml:id="facs_21">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0021/full/full/0/default.jpg" width="2975px" height="4723px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2934" lry="4714" xml:id="facs_22">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0022/full/full/0/default.jpg" width="2934px" height="4714px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2957" lry="4754" xml:id="facs_23">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0023/full/full/0/default.jpg" width="2957px" height="4754px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2988" lry="4762" xml:id="facs_24">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0025/full/full/0/default.jpg" width="2988px" height="4762px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2976" lry="4747" xml:id="facs_25">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0026/full/full/0/default.jpg" width="2976px" height="4747px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3007" lry="4781" xml:id="facs_26">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0027/full/full/0/default.jpg" width="3007px" height="4781px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2979" lry="4749" xml:id="facs_27">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0028/full/full/0/default.jpg" width="2979px" height="4749px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2983" lry="4791" xml:id="facs_28">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0029/full/full/0/default.jpg" width="2983px" height="4791px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2955" lry="4784" xml:id="facs_29">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0030/full/full/0/default.jpg" width="2955px" height="4784px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2145" lry="2951" xml:id="facs_30">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0031/full/full/0/default.jpg" width="2145px" height="2951px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2974" lry="4760" xml:id="facs_31">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0032/full/full/0/default.jpg" width="2974px" height="4760px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2960" lry="4774" xml:id="facs_32">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0033/full/full/0/default.jpg" width="2960px" height="4774px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2965" lry="4781" xml:id="facs_33">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0034/full/full/0/default.jpg" width="2965px" height="4781px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2961" lry="2792" xml:id="facs_34">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0035/full/full/0/default.jpg" width="2961px" height="2792px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2995" lry="4763" xml:id="facs_35">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0036/full/full/0/default.jpg" width="2995px" height="4763px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2967" lry="4766" xml:id="facs_36">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0037/full/full/0/default.jpg" width="2967px" height="4766px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2982" lry="4730" xml:id="facs_37">
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__35/files/images/IMG_0038/full/full/0/default.jpg" width="2982px" height="4730px"/>
+        </surface>
+    </facsimile>
     <text type="Verfassungsentwurf">
         <body>
             <div type="main">
@@ -136,18 +240,18 @@
                     <head>Von Namen, Wesen und <del>Wappen</del>
                         <add>Zeichen</add> des Staates. </head>
                     <div type="article">
-                        <head>§ i.</head>
-                        <p>Die <del>Zugeh<choice>
+                        <head>§ 1.</head>
+                        <p type="legal_section">Die<del>Zugeh<choice>
                                     <sic/>
                                     <corr>örigen</corr>
-                                </choice></del> Angehörigen des deutschen Volkes, welche in
-                                <add>einem Teile</add> der Oesterreich<add>isch</add>-Ungarischen
-                                Monarchie<pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw
+                                </choice></del>Angehörigen des deutschen Volkes, welche in<add>einem
+                                Teile</add>der Oesterreich<add>isch</add>-Ungarischen Monarchie<pb
+                                facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw
                                 type="pageNum">2</fw> Staatsbürgerrecht genießen, bilden den in
                             Hinkunft den Staat Südostdeutschland.</p>
                     </div>
                     <div type="article">
-                        <head>§ 2</head>
+                        <head>§ 2.</head>
                         <p type="legal_section">Südostdeutschland ist ein unabhängiger Freistaat,
                             der bis zur Regelung seiner Rechtsverhältnisse durch den Friedens- oder
                             allgemeinen Weltkongress seine Beziehungen zu den Nachbar-Staaten und
@@ -155,10 +259,9 @@
                                 Gesetzen und Verträgen er sich unterwirft,</add> durch
                             völkerrechtliche Verträge feststellt. </p>
                         <p type="legal_section">Die bisher auf seinem Boden und über sein Volk
-                            bestehende Gewalt<del>en und</del>
-                            <del>wird er</del> und rechtliche Ordnung wird <del>er</del>
-                            <add>Süddeutschland</add> auf friedliche, organische Weise in den neuen
-                            Zestand zu überführen bemüht sein. </p>
+                            bestehende Gewalt<del>en und</del><del>wird er</del> und rechtliche
+                            Ordnung wird<del>er</del><add>Süddeutschland</add> auf friedliche,
+                            organische Weise in den neuen Zestand zu überführen bemüht sein. </p>
                     </div>
                     <div type="article">
                         <head>§ 3.</head>
@@ -179,7 +282,7 @@
                             Gehorsam.</p>
                     </div>
                     <div type="article">
-                        <head>§ 4</head>
+                        <head>§ 4.</head>
                         <p type="legal_section">Siegel und Embleme des <del>St</del> Freistaates
                             zeigen <del>auf dem</del> als Sinnbild der Volksklassen, auf denen der
                             Wohlstand des <del>Staates ruht, Freist<choice>
@@ -201,7 +304,7 @@
                     <div type="article">
                         <head>§ 5.</head>
                         <p type="legal_section"><emph>Das Staatsgebiet</emph>, über das der
-                            Freistaat seine <emph>volle Hoheit</emph> ausübt, ist das geschlossene
+                            Freistaat seine<emph>volle Hoheit</emph> ausübt, ist das geschlossene
                             Siedlungsgebiet der Deutschen innerhalb der bisherigen im Reichsrat
                             vertretenen Königreiche und Länder.</p>
                         <p type="legal_section">Vorbehaltlich der endgiltigen Abgrenzung dieses
@@ -213,14 +316,13 @@
                             entstehen, beziehungsweise vorbehaltlich der <del>Regieung</del>
                             <add>Abgrenzung</add> durch den Friedenskongress gehören zum Freistaat
                             Südostdeutschland: Das Erzherzogtum Oesterreich unter der Enns,
-                                <add>das</add> Erherzogtum <add>Oesterreich</add>/ob der Enns<choice>
-                                <sic> ,</sic>
+                                <add>das</add> Erherzogtum <add>Oesterreich</add> ob der Enns<choice>
+                                <sic>,</sic>
                                 <corr>,</corr>
                             </choice> das Herzogtum Salzburg<add>,</add> das Hertzogtum Steiermark,
-                                <add>ferner</add>
-                            <add>mit Ausschluss des geschlossenen italienischen
-                                Siedlingsgebietes</add> das Herzogtum Kärnten <add>mit Ausschluss
-                                der geschlossenen jugoslavischen <del>und italienischen</del>
+                                <add>ferner</add><add>mit Ausschluss des geschlossenen italienischen
+                                Siedlingsgebietes</add>das Herzogtum Kärnten<add>mit Ausschluss der
+                                geschlossenen jugoslavischen<del>und italienischen</del>
                                 Siedlungsgebiete</add>, die gefürstete Grafschaft Tirol und Vorarlberg<choice>
                                 <sic/>
                                 <corr>,</corr>
@@ -228,22 +330,23 @@
                             <del>mit Ausschluss der geschlossenen jugoslavischen und italienischen
                                 Siedlungsgebiete</del>
                             <del>ferner</del>
-                            <add>endlich</add> die<del> neukonstituierte</del>
-                            <add>neuaufgerichteten</add> Provinz<add>en</add> Nordböhmen und
-                                <del>die Provinz</del> Deutschschlesien. </p>
+                            <add>endlich</add>die<del>
+                                neukonstituierte</del><add>neuaufgerichteten</add>
+                                Provinz<add>en</add> Nordböhmen und <del>die Provinz</del>
+                            Deutschschlesien. </p>
                     </div>
                     <div type="article">
                         <head>§ 6.</head>
                         <p type="legal_section">Die in den Siedlungsgebieten anderer Nationen
-                            eingeschlossenen, <del>von deutschen</del> allein oder überwiegend von
-                            Deutschen bewohnten oder verwalteten Sprachinseln, Städte und Gemeinden
-                            der im Reichsrat vertretenen Königreiche und Länder bleiben und bis zur
-                            verfassungs- <choice>
+                                eingeschlossenen,<del>von deutschen</del> allein oder überwiegend
+                            von Deutschen bewohnten oder verwalteten Sprachinseln, Städte und
+                            Gemeinden der im Reichsrat vertretenen Königreiche und Länder bleiben
+                            und bis zur verfassungs-<choice>
                                 <del>oder</del>
                                 <add>und</add>
                             </choice> völkerrechtlichen Sicherstellung ihrer politischen und
                             nationalen Rechte einstweilen unter der Hoheit des Freistaates und
-                            bilden dessen <emph>zeitweiligen Verwaltungsbereich</emph>. </p>
+                            bilden dessen<emph> zeitweiligen Verwaltungsbereich.</emph></p>
                         <p type="legal_section">Sie behalten ihre bisherige Vertretung in der
                             provisorischen Nationalversammlung und bleiben der Gesetzgebungs- und
                             Vollzugsgewalt <add>des Freistaates</add> unterstellt.</p>
@@ -255,17 +358,16 @@
                     </div>
                     <div type="article">
                         <head>§ 3.</head>
+                        <p type="legal_section">Südostdeutschland ist ein Freistaat, der auf dem
+                            Willen des Volkes und auf der Gemeinschaft der Nationszugshörigkeit
+                            beruht. </p>
+                        <p type="legal_section">Alle öffentliche Gewalt, die er aufrichtet, und
+                            alles Recht, nach dem seine Bürger leben, nimmt durch das gleiche und
+                                direkte<note type="comment">bricht ab</note></p>
                     </div>
-                    <p>Südostdeutschland ist ein Freistaat, der auf dem Willen des Volkes und auf
-                        der Gemeinschaft der Nationszugshörigkeit beruht. </p>
-                    <p>Alle öffentliche Gewalt, die er aufrichtet, und alles Recht, nach dem seine
-                        Bürger leben, nimmt durch das gleiche und direkte <choice>
-                            <sic/>
-                            <corr>bricht ab</corr>
-                        </choice></p>
-                    <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
-                    <fw type="pageNum">4</fw>
                     <div type="article">
+                        <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+                        <fw type="pageNum">4</fw>
                         <head>§ 7.</head>
                         <p type="legal_section">Das in den bisherigen Ländern der heiligen
                             ungarischen Krone gelegene geschlossene deutsche Siedlungsgebiet,
@@ -286,12 +388,12 @@
                             Zukunft und ihre <del>un</del> nationalen und wirtschaftlichen
                             Beziehungen zum Freistaat völkerrechtlich zu sichern. </p>
                     </div>
-                    <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
-                    <fw type="pageNum">5</fw>
                     <div type="article">
+                        <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+                        <fw type="pageNum">5</fw>
                         <head><choice>
                                 <del><label>§ 5. </label></del>
-                                <add><label>§ 8 </label></add>
+                                <add><label>§ 8.</label></add>
                             </choice>
                         </head>
                         <p type="legal_section"><del>Wien ist die Ha<choice>
@@ -302,7 +404,7 @@
                         <p type="legal_section">Die in § <choice>
                                 <del>1</del>
                                 <add>5</add>
-                            </choice> bezeichneten ehemaligen Erzherzogtümer <choice>
+                            </choice> bezeichneten ehemaligen Erzherzogtümer<choice>
                                 <del>und</del>
                                 <add>, Herzogtümer, Grafschaften und</add>
                             </choice> so weiter, sowie die <choice>
@@ -322,7 +424,7 @@
                     <div type="article">
                         <head><choice>
                                 <del><label>§ 4. </label></del>
-                                <add><label>§ 9 </label></add>
+                                <add><label>§ 9.</label></add>
                             </choice>
                         </head>
                         <p type="legal_section">Die Aufnahme <del>eines</del> neue<choice>
@@ -331,7 +433,7 @@
                             </choice> Gebiete<del>s</del> in den Staatsverband, für welchen diese
                             Verfassung gilt, die Abtretung eines Bestandteiles <choice>
                                 <del>des in § 1 und 2</del>
-                                <add>des in § 5 und 6</add>
+                                <add>des in § 5 und § 6</add>
                             </choice> umschriebenen <add>Staats</add><choice>
                                 <sic>G</sic>
                                 <corr>g</corr>
@@ -345,7 +447,7 @@
                     <div type="article">
                         <head><choice>
                                 <del><label>§ 5 </label></del>
-                                <add><label>§ 10 </label></add>
+                                <add><label>§ 10.</label></add>
                             </choice></head>
                         <p type="legal_section"> Der Beitritt des Freistaates Südostdeutschland als <choice>
                                 <del>glei<choice>
@@ -367,7 +469,7 @@
                     <div type="article">
                         <head><choice>
                                 <del><label>§ 6. </label></del>
-                                <add><label>§ 11 </label></add>
+                                <add><label>§ 11.</label></add>
                             </choice></head>
                         <p type="legal_section">Wien ist die Hauptstadt des Freistaates<add>,</add>
                             <del>und</del> der Sitz der Staatsgewalt<choice>
@@ -381,14 +483,14 @@
                     </div>
                 </div>
                 <div type="section">
-                    <add><p> </p><head>
+                    <add><head>
                             <del>2.</del>
                             <del>Abschnitt. </del>Dritter Titel</head><head>Von den
                             Staatsbürgern.</head></add>
                     <div type="article">
                         <head><choice>
                                 <del>§ 7.</del>
-                                <add>§ 12 </add>
+                                <add>§ 12.</add>
                             </choice></head>
                         <p type="legal_section">Für alle Angehörigen des Freistaates besteht ein
                             allgemeines, einheitliches und gleiches Staatsbürgerrecht.</p>
@@ -430,7 +532,7 @@
                     <div type="article">
                         <head><choice>
                                 <del>§ 8.</del>
-                                <add>§ 13</add>
+                                <add>§ 13.</add>
                             </choice>
                         </head>
                         <p type="legal_section">Ein besonderes Gesetz bestimmt, unter welchen
@@ -459,13 +561,14 @@
                             genehmigten Vereinbarungen mit den uebrigen Nationalstaaten<add>, die
                                 auf dem Boden</add> der oestereich-ungarischen Monarchie<choice>
                                 <del>.</del>
-                                <add> entstehen</add>
-                            </choice>. </p>
+                                <add> entstehen.</add>
+                            </choice>
+                        </p>
                     </div>
                     <div type="article">
                         <head><choice>
                                 <del><label>§ 9. </label></del>
-                                <add><label>§ 14 </label></add>
+                                <add><label>§ 14.</label></add>
                             </choice></head>
                         <p type="legal_section">Vor dem Gesetze sind alle Staatsbürger
                                 <del>gleich</del> ohne Ansehen der Herkunft, <del>der
@@ -486,7 +589,7 @@
                     <div type="article">
                         <head><choice>
                                 <del><label>§ 10. </label></del>
-                                <add><label>§ 15 </label></add>
+                                <add><label>§ 15.</label></add>
                             </choice></head>
                         <p type="legal_section">Bis zur Erlassung eines besonderen Gesetze<choice>
                                 <del>n</del>
@@ -503,9 +606,9 @@
                                 <corr>67</corr>
                             </choice> R. G. Bl. 142 <del>provisorisch in Geltung</del><add>(über die
                                 allgemeinen Rechte der Staatsbürger), das Gesetz vom 27. Oktober
-                                1862 No 87 RgBl (zum Schutze der persönliche Freiheit) das Gesetz
+                                1862 No. 87 RgBl (zum Schutze der persönliche Freiheit), das Gesetz
                                 vom 27. Oktober 1862 No. 88 RgBl. (zum Schutze des Hausrechts), das
-                                Gesetz vom 6. April 1870 Nr 42 RgBl (zum Schutze des Brief<choice>
+                                Gesetz vom 6. April 1870 Nr. 42 RgBl (zum Schutze des Brief<choice>
                                     <sic/>
                                     <corr>-</corr>
                                 </choice> u<choice>
@@ -515,30 +618,19 @@
                     </div>
                 </div>
                 <div type="section">
-                    <head><add><choice>
-                                <sic>3</sic>
-                                <corr>III</corr>
-                            </choice> Abschnitt.</add></head>
-                    <del><head> Von der öffentlichen Gewalt <del>überhaupt.</del>
-                        </head></del>
-                    <del><div type="article">
-                        <head>§ 11.</head>
-                        <p type="legal_section">Die öffentliche Gewalt <del>darf nur auf die in
-                                dieser Verfassung festgesetzte Weise ausgeübt werden</del>
-                            <del>wird</del>
-                            <add>wird im Namen und Auftrag des Volkes</add>
-                            <add>durch getrennte Organe </add>
-                            <del>au<choice>
-                                    <sic/>
-                                    <corr>f</corr>
-                                </choice></del>
-                            <add>in geordneter Verbindung ausgeübt. Das alle Gewalten verbindende
-                                Organ ist der Vollzugsausschuß <choice>
-                                    <del>(Staatsrat)</del>
-                                    <add>der Nationalversammlung (Staatsrat).</add>
-                                </choice></add>
-                        </p>
-                    </div></del>
+                    <head><add>III. Abschnitt.</add></head>
+                    <div type="article">
+                        <head><choice>
+                                <del>§ 11</del>
+                                <add/>
+                            </choice></head>
+                        <p type="legal_section"><del>Die öffentliche Gewalt darf nur auf die in
+                                dieser Verfassung festgesetzte Weise ausgeübt werden wird wird im
+                                Namen und Auftrag des VOlkes durch getrennte ORgane auf in
+                                geordneter Verbindung ausgeübt. Das alle Gewalten verbindende Organg
+                                ist der Vollzugsausschuß (Staatsrat) der Nationalversammlung
+                                (Staatsrat).</del></p>
+                    </div>
                     <div type="section">
                         <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
                         <fw type="pageNum">6</fw>
@@ -548,7 +640,7 @@
                             <div type="article">
                                 <head><label>§<choice>
                                             <del>20.</del>
-                                            <add>16 </add>
+                                            <add> 16. </add>
                                         </choice></label></head>
                                 <p type="legal_section"><choice>
                                         <sic>Die</sic>
@@ -579,7 +671,7 @@
                             <div type="article">
                                 <head>§ <choice>
                                         <del>21.</del>
-                                        <add>17</add>
+                                        <add>17.</add>
                                     </choice></head>
                                 <p type="legal_section">Die konstituierende Nationalversammlung
                                     besteht aus dem Volkshause und dem Senate. <del>Alle</del>
@@ -657,8 +749,7 @@
                                     </choice>
                                     <add>mit seiner Namensfertigung</add> bestätigt, dass der <pb
                                         facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><fw
-                                        type="pageNum">7-</fw></p>
-                                <p type="legal_section"><choice>
+                                        type="pageNum">7-</fw><choice>
                                         <del>der Vollzugsausschuss</del>
                                         <add>Staatsrat</add>
                                     </choice> den Beschluss der Nationalversammlung gemäss den
@@ -673,7 +764,8 @@
                                         <add>,</add>
                                     </choice>
                                     <del>Damit</del> erlangt der Beschluss der Nationalversammlung
-                                    den Charakter eines Gesetzes. Zu <choice>
+                                    den Charakter eines Gesetzes. </p>
+                                <p type="legal_section">Zu <choice>
                                         <del>seinem</del>
                                         <add>dessen</add>
                                     </choice> Inkraftreten bedarf das Gesetz der <choice>
@@ -709,7 +801,7 @@
                             <div type="article">
                                 <head><choice>
                                         <del><label>§ 22. </label></del>
-                                        <add><label>§ 18 </label></add>
+                                        <add><label>§ 18.</label></add>
                                     </choice></head>
                                 <p type="legal_section">Das Volkshaus besteht aus <del>.......</del>
                                     Abgeordneten, welche auf Grund des allgemeinen, gleichen und
@@ -730,7 +822,7 @@
                             <div type="article">
                                 <head>§ <choice>
                                         <del><label>23. </label></del>
-                                        <add><label>19 </label></add>
+                                        <add><label>19.</label></add>
                                     </choice></head>
                                 <p type="legal_section">Wahlberechtigt zur Wahl eines Abgeordneten
                                     ist jeder Staatsbürger ohne Untersch<choice>
@@ -749,7 +841,7 @@
                                         <corr>,</corr>
                                     </choice> wo das Wahlrecht auszuüben ist, in der Wählerliste
                                     erscheint. </p>
-                                <p type="legal_section">Wählbar als Abgordneter ist .............. </p>
+                                <p type="legal_section">Wählbar als Abgordneter ist... </p>
                                 <p type="legal_section">Die näheren Vorschriften über die A<choice>
                                         <del>s</del>
                                         <add>u</add>
@@ -759,7 +851,7 @@
                             <div type="article">
                                 <head><label>§ <choice>
                                             <del>24. </del>
-                                            <add>20 </add>
+                                            <add>20.</add>
                                         </choice>
                                     </label></head>
                                 <p type="legal_section">Die Abgeordneten des Volkshauses werden auf
@@ -772,12 +864,12 @@
                                             </choice></sic>
                                         <corr/>
                                     </choice><pb facs="#facs_11" n="11" xml:id="img_0011"
-                                        break="yes"/><fw type="pageNum">-8-</fw></p>
-                                <p type="legal_section">w<choice>
+                                        break="yes"/><fw type="pageNum">-8-</fw>w<choice>
                                         <sic> </sic>
                                         <corr>i</corr>
-                                    </choice>eder gewählt werden. Für Abgeordnete, welche während
-                                    der Dauer der Wahlperiode durch Tod oder Verzicht ausscheiden<choice>
+                                    </choice>eder gewählt werden. </p>
+                                <p type="legal_section">Für Abgeordnete, welche während der Dauer
+                                    der Wahlperiode durch Tod oder Verzicht ausscheiden<choice>
                                         <sic> ,</sic>
                                         <corr>,</corr>
                                     </choice> wird der nächst berechtigte Ersatzmann einberufen.</p>
@@ -785,11 +877,12 @@
                             <div type="article">
                                 <head>§ <choice>
                                         <del>25.</del>
-                                        <add>21</add>
+                                        <add>21.</add>
                                     </choice></head>
                                 <p type="legal_section">Der Senat besteht aus <add>mindestens</add>
-                                    ... <add>und höchstens ...</add> Mitgliedern. Mitglieder des
-                                    Senates sind kraft ihrer Stellung 1. der <choice>
+                                    ... <add>und höchstens ...</add> Mitgliedern. </p>
+                                <p type="legal_section">Mitglieder des Senates sind kraft ihrer
+                                    Stellung 1. der <choice>
                                         <sic>b</sic>
                                         <corr>B</corr>
                                     </choice>ürgermeister und die beiden Vizebürgermeister der Staatshaupts<choice>
@@ -803,28 +896,29 @@
                                         <del>. D</del>
                                         <add>, d</add>
                                     </choice>ie Präsidenten der Akademien. </p>
-                                <p type="legal_section">Durch Wahl berufen werden die Vertreter: 1.
-                                    Der <choice>
-                                        <del>h</del>
-                                        <add>H</add>
-                                    </choice>andels- und Gewerbekammer und zwar von der Handels- und
-                                    Gewerbekammer Wien … Mitglieder Linz … </p>
-                                <list>
-                                    <item><label>2. </label></item>
-                                    <item>Der Arbeitskammern und zwar … </item>
-                                    <item><label>3. </label></item>
-                                    <item> Der Landwirtschaftskammern und zwar … </item>
-                                    <item><label>4. </label></item>
-                                    <item>der Notaren<choice>
-                                            <sic/>
-                                            <corr>-</corr>
-                                        </choice> und Anwaltkammern und zwar ...... </item>
-                                    <item><label>5. </label></item>
-                                    <item> Der Aerztekammern und zwar .....</item>
-                                    <item><label>6. </label></item>
-                                    <item>Der Technikerkammern und zwar......</item>
-                                </list>
-                                <p type="legal_section">A Ausserdem werden vom <choice>
+                                <p type="legal_section">Durch Wahl berufen werden die Vertreter: <list>
+                                        <label>1.</label>
+                                        <item>Der <choice>
+                                                <del>h</del>
+                                                <add>H</add>
+                                            </choice>andels- und Gewerbekammer und zwar von der
+                                            Handels- und Gewerbekammer Wien… Mitglieder Linz… </item>
+                                        <label>2. </label>
+                                        <item>Der Arbeitskammern und zwar… </item>
+                                        <label>3. </label>
+                                        <item>Der Landwirtschaftskammern und zwar…</item>
+                                        <label>4. </label>
+                                        <item>der Notaren<choice>
+                                                <sic/>
+                                                <corr>-</corr>
+                                            </choice> und Anwaltkammern und zwar...</item>
+                                        <label>5. </label>
+                                        <item>Der Aerztekammern und zwar...</item>
+                                        <label>6. </label>
+                                        <item>Der Technikerkammern und zwar...</item>
+                                    </list>
+                                </p>
+                                <p type="legal_section">Ausserdem werden vom <choice>
                                         <del>Vollzugsausschusse</del>
                                         <add>(Staatsrate)</add>
                                     </choice>
@@ -845,26 +939,27 @@
                                         <add>i</add>
                                     </choice>cht überschreiten. </p>
                             </div>
-                            <del><div type="article">
-                                <head>§ <choice>
-                                            <del>26.</del>
-                                            <add>22</add>
-                                        </choice></head><p type="legal_section">Das Abgeordnetenhaus
-                                        wählt aus seiner Mitte den Präsidenten und zwei
-                                        Vizepräsidenten. Der Senat den Präsidenten und einen
-                                        Vizepräsidenten. Im Ueberigen beschliesst das Volkshaus und
-                                        der Senat seine Geschäfts- und Hausordnung selbständig. Die
-                                        Wahlen zum Volkshause <del>und zu</del> finden am 1. Sonntag
-                                        des Monates März statt. Die Wahlen zum Senate am 3. Sonntag
-                                        dieses [bricht ab]</p>
-                            </div></del>
+                            <div type="article">
+                                <head><choice>
+                                        <del>§ 26. § 22.</del>
+                                        <add/>
+                                    </choice></head>
+                                <p type="legal_section"><del>Das Abgeordnetenhaus wählt aus seiner
+                                        Mitte den Präsidenten und zwei Vizepräsidenten. Der Senat
+                                        den Präsidenten und einen Vizepräsidenten. Im Ueberigen
+                                        beschliesst das Volkshaus und der Senat seine Geschäfts- und
+                                        Hausordnung selbständig. Die Wahlen zum Volkshause <del>und
+                                            zu</del> finden am 1. Sonntag des Monates März statt.
+                                        Die Wahlen zum Senate am 3. Sonntag dieses [bricht
+                                    ab]</del></p>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div type="section">
                     <pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>
                     <fw type="pageNum">7</fw>
-                    <head type="main">Vierter Titel. </head>
+                    <head>Vierter Titel. </head>
                     <head>Von der öffentlichen Gewalt.</head>
                     <div type="article">
                         <head>§ 16.</head>
@@ -890,7 +985,7 @@
                             </choice> die Bewohner des Kreises zu <choice>
                                 <del>erlassen</del>
                                 <add>treffen</add>
-                            </choice>  den Kreistagen. </p>
+                            </choice> den Kreistagen. </p>
                         <p type="legal_section">Auf Grund <choice>
                                 <del>solcher</del>
                                 <add>dieser</add>
@@ -915,12 +1010,12 @@
                                 und</del> Vollzugsgewalt durch die <del>Regier<choice>
                                     <sic/>
                                     <corr>ung </corr>
-                                </choice></del> von ihm bestellte Regierung aus. <pb facs="#facs_13"
+                                </choice></del> von ihm bestellte Regierung aus.<pb facs="#facs_13"
                                 n="13" xml:id="img_0013" break="yes"/>
                             <fw type="pageNum">8 </fw></p>
                     </div>
                     <div type="article">
-                        <head><label>§19. </label></head>
+                        <head>§19. </head>
                         <p type="legal_section">Die Organe der Regierung sind der Staatskanzler und
                             die Staatssekretäre. Sie sind einzeln und gemeinsam <del>der</del> nach
                             dem besonderen Gesetze über die Ministerverantwortlichkeit der
@@ -941,14 +1036,14 @@
                             Heeresverwaltung führt der Staatssekretär des Heerwesens.</p>
                     </div>
                     <div type="section">
-                        <head type="main">Erster Abschnitt. </head>
-                        <head type="sub">Von der gesetzgeben Gewalt. </head>
+                        <head type="main">Erster Abschnitt.</head>
+                        <head type="sub">Von der gesetzgeben Gewalt.</head>
                         <div type="section">
                             <head>a) Die Staatsgesetzgebung</head>
                             <div type="article">
-                                <head>§ 22</head>
+                                <head>§ 22.</head>
                                 <p type="legal_section">Bis zur endgiltigen Abgrengung des
-                                    Staatsgebietes (§ 5) und bis zum <del>Zus<choice>
+                                    Staatsgebietes (§5) und bis zum <del>Zus<choice>
                                             <sic/>
                                             <corr>ammentritt?</corr>
                                         </choice></del> Tage, wo die konstituierende
@@ -969,8 +1064,7 @@
                                     </choice> und Hoheit des Freistaates nach innen und außen. Sie
                                     ordnet, gliedert und richtet alle öffent<pb facs="#facs_14"
                                         n="14" xml:id="img_0014" break="no"/><fw type="pageNum"
-                                        >9</fw>
-                                    <del>auf</del>lichen Gewalten im Staate ein. Sie wird
+                                        >9</fw><del>auf</del>lichen Gewalten im Staate ein. Sie wird
                                         <del>von</del> einberufen, sobald die Wiederkehr des
                                     Friedens Neuwahlen und <del>d</del> ihren Zusammentritt
                                     ermöglicht haben. Die Wahlordnung für sie wird vo<choice>
@@ -1029,7 +1123,7 @@
                                                 <add>1.</add>
                                             </choice></label>
                                         <item>Die Landeshauptmänner der Länder und <add>außerdem im
-                                                Sinne des §6 je ein vom Staatsrat zu bezeichnendes <choice>
+                                                Sinne des § 6 je ein vom Staatsrat zu bezeichnendes <choice>
                                                   <del>Mit<choice>
                                                   <sic/>
                                                   <corr>glied</corr>
@@ -1045,17 +1139,15 @@
                                                 <add>Der</add>
                                             </choice> Bürgermeister der <del>Staats</del> Hauptstadt
                                             des Freistaates Wien und die Bürgermeister der
-                                            Landeshauptstädte außerdem im Sinne des §6<choice>
+                                            Landeshauptstädte außerdem im Sinne des § 6<choice>
                                                 <sic/>
                                                 <corr>,</corr>
                                             </choice> die Bürgermeister von Brünn<del>Iglau
-                                                und</del><add>,</add> Mährisch Ostrau und ein
-                                            vom</item>
-                                        <label><del>3.</del></label>
-                                        <item> Staatsrat bezeichneter deutscher Gemeindevertreter
-                                            von Czernowitz.</item>
-                                        <label><add>3</add></label>
-                                        <item>3. Die Oberlandesgerichtspräsidenten von Wien, Graz u<choice>
+                                                und</del><add>,</add> Mährisch Ostrau und ein vom
+                                            Staatsrat bezeichneter deutscher Gemeindevertreter von
+                                            Czernowitz.</item>
+                                        <label><add>3.</add></label>
+                                        <item>Die Oberlandesgerichtspräsidenten von Wien, Graz u<choice>
                                                 <sic>.</sic>
                                                 <corr>nd</corr>
                                             </choice> Innsbruck sowie je ein vom Staatsrat zu bezeichnende<choice>
@@ -1072,14 +1164,14 @@
                                             Brünn.</item>
                                         <label><choice>
                                                 <del>5</del>
-                                                <add>4</add>
+                                                <add>4.</add>
                                             </choice></label>
                                         <item> Fünf vom Staatsrat zu bezeichnende <choice>
                                                 <del>Mitglieder</del>
                                                 <add>Angehörige</add>
-                                            </choice> der hohen Generalität.</item>
-                                        <pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>
-                                        <fw type="pageNum">10</fw>
+                                            </choice> der hohen Generalität.<pb facs="#facs_15"
+                                                n="15" xml:id="img_0015" break="yes"/><fw
+                                                type="pageNum">10</fw></item>
                                         <label><choice>
                                                 <del>6.</del>
                                                 <add>5.</add>
@@ -1093,7 +1185,7 @@
                                 <p type="legal_section">Mitglieder des Senats werden durch Wahl
                                     beziehungsweise durch <add>Berufung auf Grund von</add>
                                     Vorschlag von Korporationen<list>
-                                        <label>1.)</label>
+                                        <label>1.</label>
                                         <item>Fünf Vertreter der Land- u<choice>
                                                 <sic/>
                                                 <corr>nd</corr>
@@ -1122,7 +1214,7 @@
                                             technischen <del>Berufe.</del>
                                         </item>
                                         <label>7.</label>
-                                        <item> fünf Vertreter der öffentlichen und privaten
+                                        <item>fünf Vertreter der öffentlichen und privaten
                                             Angestellten. Der Staatsrat setzt durch eine Kundmachung
                                             fest, in welcher Weise die Mitglieder gewählt,
                                             beziehungsweise vorgeschlagen und berufen werden.</item>
@@ -1143,7 +1235,7 @@
                                     überschreiten.</p>
                             </div>
                             <div type="article">
-                                <head>§ 28</head>
+                                <head>§ 28.</head>
                                 <p type="legal_section">Das Volkshaus <choice>
                                         <del>wählt</del>
                                         <add> und der Senat wählen</add>
@@ -1154,9 +1246,9 @@
                                     Übrigen beschliessen <add>das</add> Volkshaus und <add>der</add>
                                     Senat ihre Geschäfts- und Hausordnung selbständig.</p>
                             </div>
-                            <pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>
-                            <fw type="pageNum">11</fw>
                             <div type="article">
+                                <pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>
+                                <fw type="pageNum">11</fw>
                                 <head>§ 29.</head>
                                 <p type="legal_section"><choice>
                                         <del>Beschlussanträge Gesetzesvorlagen</del>
@@ -1175,7 +1267,7 @@
                                     übermittelt. </p>
                             </div>
                             <div type="article">
-                                <head>§ 30</head>
+                                <head>§ 30.</head>
                                 <p type="legal_section">Der Senat hat das Recht, <choice>
                                         <del>Anträge</del>
                                         <add>Gesetzesvorlagen, Beschlußanträge und Berichte</add>
@@ -1263,7 +1355,7 @@
                                     </choice> Eingangs<choice>
                                         <del>worten</del>
                                         <add>formel:</add>
-                                    </choice><add>…...</add></p>
+                                    </choice><add>…</add></p>
                                 <p type="legal_section">Nach Anhörung des Senates, auf Grund <choice>
                                         <del>des Beschlusses des</del>
                                         <add>der Zustimmung des</add>
@@ -1277,17 +1369,17 @@
                                         <del>nebst</del>
                                         <add>und</add>
                                     </choice> den mit dem Vollzug betrauten Staatssekretären
-                                    gegenzuzeichnen. </p>
+                                        gegenzuzeichnen.<pb facs="#facs_18" n="18" xml:id="img_0018"
+                                        break="yes"/><fw type="pageNum">-9-</fw>
+                                </p>
                             </div>
                             <div type="article">
-                                <pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>
-                                <fw type="pageNum">-9-</fw>
                                 <p type="legal_section"><del>Monates. Die Nationalversammlung tritt
                                         am 2. Montag des Monates April zu ihrer Konstituierung
                                         zusammen. </del></p>
                                 <head><del>§ 27.</del><choice>
                                         <del> 23</del>
-                                        <add><label>§ 34 </label></add>
+                                        <add><label>§ 34.</label></add>
                                     </choice></head>
                                 <p type="legal_section">Die Nationalversammlung vereinigt sich
                                         <add>jedes Jahr</add> zur <choice>
@@ -1310,7 +1402,7 @@
                                             <sic/>
                                             <corr>anschlag</corr>
                                         </choice></del> Staatsvoranschlag des Verwaltungsjahres
-                                        <add>(§ 78..)</add><choice>
+                                        <add>(§ 78…)</add><choice>
                                         <del> ist zu Beginn</del>
                                         <add> ist in der ersten Sitzung</add>
                                     </choice> der ordentlichen Frühjahrstagung von der <choice>
@@ -1374,14 +1466,14 @@
                                     </choice>
                                     <choice>
                                         <del>zu vollziehen.</del>
-                                        <add>als Haushaltgesetz (§ …) kundzumachen.</add>
+                                        <add>als Haushaltgesetz (§…) kundzumachen.</add>
                                     </choice>
                                     <del>(§ 62)</del></p>
                             </div>
                             <div type="article">
                                 <head><del>§ 28 </del><choice>
                                         <del>§ 24</del>
-                                        <add><label>§ 35 </label></add>
+                                        <add><label>§ 35.</label></add>
                                     </choice>
                                 </head>
                                 <p type="legal_section">Die Wehrvorlage ist am <choice>
@@ -1390,11 +1482,11 @@
                                     </choice> Tage der ordentlichen Herbsttagung <choice>
                                         <del>dem</del>
                                         <add>im</add>
-                                    </choice> Volkshause  <choice>
+                                    </choice> Volkshause <choice>
                                         <del>zu unterbreiten</del>
                                         <add>einzuzubringen</add>
                                     </choice>
-                                    <add>(§ ...)</add>, <del>und</del> die erste Lesung längstens am
+                                    <add>(§…)</add>, <del>und</del> die erste Lesung längstens am
                                     siebenten Tage darauf zu beenden<choice>
                                         <del>.</del>
                                         <add/>
@@ -1426,7 +1518,7 @@
                                         </choice> Beschluss zu fassen.</del><pb facs="#facs_19"
                                         n="19" xml:id="img_0019" break="yes"/><choice>
                                         <del><fw type="pageNum">10.</fw></del>
-                                        <add><fw type="pageNum">19</fw></add>
+                                        <add><fw type="pageNum">18</fw></add>
                                     </choice></p>
                                 <p type="legal_section"> Der Beschluss des Volkshauses über
                                         <add>die</add> Wehrvorlagen <add>wird</add> nicht an den
@@ -1436,7 +1528,7 @@
                             <div type="article">
                                 <head><label><del>§ 27</del><choice>
                                             <del>§ 25</del>
-                                            <add>§ 36 </add>
+                                            <add>§ 36.</add>
                                         </choice>
                                     </label></head>
                                 <p type="legal_section">Der Staatsrechnungsabschluss <add>über das
@@ -1456,7 +1548,7 @@
                                     Erledigung zugeführt. </p>
                             </div>
                             <div type="article">
-                                <head><add><label>§ 37 </label></add></head>
+                                <head><add><label>§ 37.</label></add></head>
                                 <p type="legal_section">Der <choice>
                                         <del>Vollzugsausschuss</del>
                                         <add>Staatsrat</add>
@@ -1497,7 +1589,7 @@
                             <div type="article">
                                 <head><del>§ 28 </del><choice>
                                         <del>§ 26</del>
-                                        <add>§ 38</add>
+                                        <add>§ 38.</add>
                                     </choice></head>
                                 <p type="legal_section">In <choice>
                                         <del>jeder Provinz</del>
@@ -1531,7 +1623,7 @@
                                 <head><del>§ 29.</del>
                                     <choice>
                                         <del>§ 27 </del>
-                                        <add>§ 39</add>
+                                        <add>§ 39.</add>
                                     </choice></head>
                                 <p type="legal_section">Im Rahmen der Staats- und Landesgesetze
                                     trifft der Kreistag <add>die erforderliche<choice>
@@ -1565,236 +1657,231 @@
                             </div>
                         </div>
                     </div>
-                    <div type="section">
-                        <head>Zweiter Abschnitt.</head>
-                        <head>Von der Regierungs- u<choice>
-                                <sic/>
-                                <corr>nd</corr>
-                            </choice> Vollzugsgewalt.</head>
-                    </div>
                 </div>
                 <div type="section">
-                    <head>a) Die <del>allgemeine</del> Regierungsgewalt <add>im
-                        Allgemeinen</add></head>
-                    <div type="article">
-                        <head>§ 40.</head>
-                        <p type="legal_section"><choice>
-                                <del>Zur Wahl des</del>
-                                <add>Zur Einsetzung seines</add>
-                            </choice> Vollzugsausschusses oder <choice>
-                                <del>Senates</del>
-                                <add>des</add>
-                            </choice> Staatsrates tritt die <add>provisorische</add>
-                            Nationalversammlung binnen acht Tagen nach Kundmachung dieser
-                            Verfassung, später jedes Jahr am zweiten Wochentage des Mai zu einer
-                            feierlichen Sitzung zusammen. <del>An</del> In <choice>
-                                <del>derselben</del>
-                                <add>dieser</add>
-                            </choice> werden auch das Heeres-, Justiz- und Staatschuldendirektorium
-                            bestellt (§§ <del>...</del><add>42?, 63 u 82</add><add>)</add></p>
-                    </div>
-                    <div type="article">
-                        <head>§ 41.</head>
-                        <p type="legal_section">Der Staatsrat<choice>
-                                <del>besteht aus</del>
-                                <add>,</add>
-                            </choice> dem der Praesident und die beiden Vizepraesidenten des
-                            Volkshauses <choice>
-                                <del>vorsitzen</del>
-                                <add>ohne Wahl angehören</add>
-                            </choice>, besteht außer diesen aus 27 Mitgliedern, welche <del>im Wege
-                                der Verhältniswahl</del>
-                            <choice>
-                                <del>mit auf</del>
-                                <add>nebst</add>
-                            </choice> 30 Ersatzmännern <add>im Wege der Verhältniswahl</add> aus dem
-                            Volkshause berufen werden. Außer dem <choice>
-                                <del>gehört ihm die</del>
-                                <add>gehören ihm</add>
-                            </choice> als Beisitzer ohne Wahl- und Stimmrecht 20 Senatsmitglieder
-                            an, die vom Senate <del>je zu zweit in die einzelnen
-                                Staatsratskommissionen</del>
-                            <choice>
-                                <del>durch</del>
-                                <add>durch</add>
-                            </choice> einfache Wahl <add>je zu zweit in die einzelnen
-                                Staatsratskommissionen</add> entsendet werden. </p>
-                        <p type="legal_section">Das Wahlverfahren wie die
-                                <del>Geschäftsvertretung</del> neuere[?] Einrichtung des Staatsrats
-                            wird durch das Gesetz über die Geschäftsanweisung für die des
-                                Staatsrat<add>s</add> geregelt. </p>
-                    </div>
-                    <div type="article">
-                        <head>§ 42.</head>
-                        <p type="legal_section">Nach vollzogener Wahl versammeln sich die
-                                <add>früheren u<choice>
+                    <head>Zweiter Abschnitt.</head>
+                    <head>Von der Regierungs- und Vollzugsgewalt.</head>
+                    <div type="section">
+                        <head>a) Die <del>allgemeine</del> Regierungsgewalt <add>im
+                                Allgemeinen</add></head>
+                        <div type="article">
+                            <head>§ 40.</head>
+                            <p type="legal_section"><choice>
+                                    <del>Zur Wahl des</del>
+                                    <add>Zur Einsetzung seines</add>
+                                </choice> Vollzugsausschusses oder <choice>
+                                    <del>Senates</del>
+                                    <add>des</add>
+                                </choice> Staatsrates tritt die <add>provisorische</add>
+                                Nationalversammlung binnen acht Tagen nach Kundmachung dieser
+                                Verfassung, später jedes Jahr am zweiten Wochentage des Mai zu einer
+                                feierlichen Sitzung zusammen. <del>An</del> In <choice>
+                                    <del>derselben</del>
+                                    <add>dieser</add>
+                                </choice> werden auch das Heeres-, Justiz- und
+                                Staatschuldendirektorium bestellt (§§ <del>...</del><add>42, 63 und
+                                    82</add><add>)</add></p>
+                        </div>
+                        <div type="article">
+                            <head>§ 41.</head>
+                            <p type="legal_section">Der Staatsrat<choice>
+                                    <del>besteht aus</del>
+                                    <add>,</add>
+                                </choice> dem der Praesident und die beiden Vizepraesidenten des
+                                Volkshauses <choice>
+                                    <del>vorsitzen</del>
+                                    <add>ohne Wahl angehören</add>
+                                </choice>, besteht außer diesen aus 27 Mitgliedern, welche <del>im
+                                    Wege der Verhältniswahl</del>
+                                <choice>
+                                    <del>mit auf</del>
+                                    <add>nebst</add>
+                                </choice> 30 Ersatzmännern <add>im Wege der Verhältniswahl</add> aus
+                                dem Volkshause berufen werden. Außer dem <choice>
+                                    <del>gehört ihm die</del>
+                                    <add>gehören ihm</add>
+                                </choice> als Beisitzer ohne Wahl- und Stimmrecht 20
+                                Senatsmitglieder an, die vom Senate <del>je zu zweit in die
+                                    einzelnen Staatsratskommissionen</del>
+                                <choice>
+                                    <del>durch</del>
+                                    <add>durch</add>
+                                </choice> einfache Wahl <add>je zu zweit in die einzelnen
+                                    Staatsratskommissionen</add> entsendet werden. </p>
+                            <p type="legal_section">Das Wahlverfahren wie die
+                                    <del>Geschäftsvertretung</del> neuere[?] Einrichtung des
+                                Staatsrats wird durch das Gesetz über die Geschäftsanweisung für die
+                                des Staatsrat<add>s</add> geregelt. </p>
+                        </div>
+                        <div type="article">
+                            <head>§ 42.</head>
+                            <p type="legal_section">Nach vollzogener Wahl versammeln sich die
+                                    <add>früheren u<choice>
+                                        <sic/>
+                                        <corr>nd</corr>
+                                    </choice> neu[?] Treffen[?]</add> Mitglieder und Beisitzer
+                                    <del>des Staatsrats</del> und konstituieren unter <choice>
+                                    <del>dem</del>
+                                    <add>[?]</add>
+                                </choice> Vorsitz des Praesidenten des Volkshauses den Staatsrat,
+                                indem sie <choice>
+                                    <del>dessen</del>
+                                    <add>den</add>
+                                </choice> Praesidenten, <choice>
+                                    <del>dessen</del>
+                                    <add>und</add>
+                                </choice> den und Vizepraesidenten den Staatsrats, <del>den
+                                    Beanträger?</del> und den<pb facs="#facs_21" n="21"
+                                    xml:id="img_0021" break="yes"/><fw type="pageNum">21</fw>
+                                <add>jeden der</add> [?] Die Siegelbewahrer des <choice>
+                                    <del>Staats</del>
+                                    <add>Freistaats</add>
+                                </choice> bestellen. Hierauf übergibt überträgt der Praesident des
+                                Volkshauses die Gewalt von dem scheidenden auf den neuen Staatsrat.
+                                Der Praesident des Staatsrates übernimmt den Vorsitz und schreitet
+                                an die Konstituierung der Staatsratskommissionen. </p>
+                        </div>
+                        <div type="article">
+                            <head>§ 43.</head>
+                            <p type="legal_section">Jede Commission zählt drei Mitglieder <add>und
+                                    zwei Beisitzer</add>. Kein Mitglied des Staatsrats darf mehr als
+                                drei Kommissionen angehören. <del>Jede für</del>
+                                <add>Aus</add> jeder Commission bestellt der Praesident ein <choice>
+                                    <del>en Kom</del>
+                                    <add>Mitglied</add>
+                                </choice> zum Kommissionsleiter<choice>
+                                    <del>und eine</del>
+                                    <add>.</add>
+                                </choice>
+                                <choice>
+                                    <sic>f</sic>
+                                    <corr>F</corr>
+                                </choice>olgende Commissionen <choice>
+                                    <del>sind</del>
+                                    <add>müssen</add>
+                                </choice> ständig ausgerichtet sein: <list>
+                                    <label>1. </label>
+                                    <item>Die Verfassungskommission </item>
+                                    <label>2. </label>
+                                    <item>Die auswärtige Kommission </item>
+                                    <label>3. </label>
+                                    <item>Die Heereskommission </item>
+                                    <label>4. </label>
+                                    <item>Die Kommission für innere Verwaltung </item>
+                                    <label>5. </label>
+                                    <item> Die Justizkommission </item>
+                                    <label>6. </label>
+                                    <item>Die Unterrichtskommission </item>
+                                    <label>7. </label>
+                                    <item> Die Finanzkommission </item>
+                                    <label>8. </label>
+                                    <item>Die Hauptkommission für Volkswirtschaft, welche sich
+                                        vereinigt aus den Unterkommissionen für Ackerbau, für Gewerbe<choice>
+                                            <sic/>
+                                            <corr>,</corr>
+                                        </choice>
+                                        <del>u</del> Industrie und Handel, für Verkehrswesen, für
+                                        soziale Verwaltung und für Volksernährung.</item>
+                                </list></p>
+                            <p type="legal_section">Außerdem können nach Bedarf fallweise oder
+                                ständig besondere Commissionen eingerichtet werden.</p>
+                            <p type="legal_section">Der Praesident des Staatsrats bildet außerdem
+                                    <del>zusammen</del> unter seinem Vorsitz <add><choice>
+                                        <del>mit</del>
+                                        <add>aus</add>
+                                    </choice> den Leitern aller Commissionen</add> als <list>
+                                    <label> 9.</label>
+                                    <item> die Arbeitskommission mit der Aufgabe, die Geschäfte
+                                            <add>zweckmäßig[?]</add> auf die Commissionen zu
+                                        verteilen, deren Arbeiter in Einklang zu halten und den
+                                        Fortgang der Geschäfte<del>[?] zu</del> wahrzunehmen.</item>
+                                </list></p>
+                        </div>
+                        <div type="article">
+                            <pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/>
+                            <fw type="pageNum">22</fw>
+                            <head>§ 44.</head>
+                            <p type="legal_section">Die Commissionsleiter sind befugt, allein oder
+                                durch die Kommissionsmitglieder, in die ihrem Wirkungskreise
+                                entsprechenden Zweige der Staatsverwaltung ohne Beinflußung oder
+                                Hemmung des Geschäftsganges Einblick zu nehmen und über ihre
+                                Wahrnehmungen im Staatsrat zu berichten, die zur Reform führenden <choice>
+                                    <del>Vors</del>
+                                    <add>Vorlagen</add>
+                                </choice> auszuarbeiten und die zur Besetzung der Staatssekretariate <choice>
+                                    <del>dien</del>
+                                    <add>diensamen</add>
+                                </choice> Vorschläge zu erstatten.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 45.</head>
+                            <p type="legal_section">Der Staatsrat erläßt auf Grund des Berichtes und
+                                der Anträge des Staatskanzlers und der mit <choice>
+                                    <del>dem berührten Verwaltungszweig</del>
+                                    <add>der Sache</add>
+                                </choice> betrauten Staatssekretäre und nach Anhörung ihrer <choice>
+                                    <del>mit der Angelegenheit befaßten</del>
+                                    <add>zuständigen</add>
+                                </choice> Commission die Verordnungen und Verfügungen, welche zur
+                                Durchführung der Gesetze und der sonstigen Beschlüsse der
+                                Nationalversammlung an die Staatsbürger zu richten sind.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 46.</head>
+                            <p type="legal_section">Die unmittelbare Dienstgewalt über <choice>
+                                    <sic>die Regierung</sic>
+                                    <corr>[Kurzschrift]</corr>
+                                </choice> übt der Staatsrat einzig aus allein durch die Person
+                                seines Praesidenten. <del>Dieser vollzieht die Ernennung des
+                                    Staatskanzlers und der Staatssekretäre.</del> Weder der
+                                Staatsrat nach seine Kommissionen noch einzelne seiner Mitglieder
+                                führen unmittelbar Agenden der Verwaltung. </p>
+                            <p type="legal_section">Der Staatsrat erläßt diejenige Anweisungen, die
+                                er zur Durchführung der Gesetze <choice>
+                                    <del>durch</del>
+                                    <add>an</add>
+                                </choice> Behörde und Ämter <add>[unleserlich]</add> erforderlich
+                                hält, schriftlich an den Staatskanzler. Diese Anweisungen sind vom
+                                Praesidenten des Staatsrats und vom Leiter der an ihrer Verberatung
+                                beteiligte Commission zu fertigen. Staatskanzler, Staatssekretäre
+                                und alle ihnen nachgeordneten Stellen sind an diese Anweisungen
+                                gebunden.</p>
+                        </div>
+                        <div type="article">
+                            <pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"/>
+                            <fw type="pageNum">23 </fw>
+                            <head>§ 47.</head>
+                            <p type="legal_section">Der Staatsrat und seine Commissionen sind
+                                ständig im Amt, auch in der Zeit, wo die Nationalversammlung nicht
+                                tagt. Seine Anträge u<choice>
                                     <sic/>
                                     <corr>nd</corr>
-                                </choice> neu[?] Treffen[?]</add> Mitglieder und Beisitzer <del>des
-                                Staatsrats</del> und konstituieren unter <choice>
-                                <del>dem</del>
-                                <add>[?]</add>
-                            </choice> Vorsitz des Praesidenten des Volkshauses den Staatsrat, indem
-                            sie <choice>
-                                <del>dessen</del>
-                                <add>den</add>
-                            </choice> Praesidenten, <choice>
-                                <del>dessen</del>
-                                <add>und</add>
-                            </choice> den und Vizepraesidenten den Staatsrats, <del>den
-                                Beanträger?</del> und den<pb facs="#facs_21" n="21"
-                                xml:id="img_0021" break="yes"/><fw type="pageNum">21</fw>
-                        </p>
-                        <p type="legal_section"><add>Jeden der</add> Die Siegelbewahrer des <choice>
-                                <del>Staats</del>
-                                <add>Freistaats</add>
-                            </choice> bestellen. Hierauf übergibt überträgt der Praesident des
-                            Volkshauses die Gewalt von dem scheidenden auf den neuen Staatsrat. Der
-                            Praesident des Staatsrates übernimmt den Vorsitz und schreitet an die
-                            Konstituierung der Staatsratskommissionen. </p>
-                    </div>
-                    <div type="article">
-                        <head>§ 43.</head>
-                        <p type="legal_section">Jede Commission zählt drei Mitglieder <add>und zwei
-                                Beisitzer</add>. Kein Mitglied des Staatsrats darf mehr als drei
-                            Kommissionen angehören. <del>Jede für</del>
-                            <add>Aus</add> jeder Commission bestellt der Praesident ein <choice>
-                                <del>en Kom</del>
-                                <add>Mitglied</add>
-                            </choice> zum Kommissionsleiter<choice>
-                                <del>und eine</del>
-                                <add>.</add>
-                            </choice>
-                            <choice>
-                                <sic>f</sic>
-                                <corr>F</corr>
-                            </choice>olgende Commissionen <choice>
-                                <del>sind</del>
-                                <add>müssen</add>
-                            </choice> ständig ausgerichtet sein: <list>
-                                <label>1. </label>
-                                <item>Die Verfassungskommission </item>
-                                <label>2. </label>
-                                <item>Die auswärtige Kommission </item>
-                                <label>3. </label>
-                                <item>Die Heereskommission </item>
-                                <label>4. </label>
-                                <item>Die Kommission für innere Verwaltung </item>
-                                <label>5. </label>
-                                <item> Die Justizkommission </item>
-                                <label>6. </label>
-                                <item>Die Unterrichtskommission </item>
-                                <label>7. </label>
-                                <item> Die Finanzkommission </item>
-                                <label>8. </label>
-                                <item>Die Hauptkommission für Volkswirtschaft, welche sich vereinigt
-                                    aus den Unterkommissionen für Ackerbau, für Gewerbe<choice>
-                                        <sic/>
-                                        <corr>,</corr>
-                                    </choice>
-                                    <del>u</del> Industrie und Handel, für Verkehrswesen, für
-                                    soziale Verwaltung und für Volksernährung.</item>
-                            </list></p>
-                        <p type="legal_section">Außerdem können nach Bedarf fallweise oder ständig
-                            besondere Commissionen eingerichtet werden.</p>
-                        <p type="legal_section">Der Praesident des Staatsrats bildet außerdem
-                                <del>zusammen</del> unter seinem Vorsitz <add><choice>
-                                    <del>mit</del>
-                                    <add>aus</add>
-                                </choice> den Leitern aller Commissionen</add> als </p>
-                        <p type="legal_section">9. die Arbeitskommission mit der Aufgabe, die
-                            Geschäfte <add>zweckmäßig[?]</add> auf die Commissionen zu verteilen,
-                            deren Arbeiter in Einklang zu halten und den Fortgang der
-                                Geschäfte<del>[?] zu</del> wahrzunehmen.</p>
-                    </div>
-                    <pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/>
-                    <fw type="pageNum">22</fw>
-                    <div type="article">
-                        <head>§ 44.</head>
-                        <p type="legal_section">Die Commissionsleiter sind befugt, allein oder durch
-                            die Kommissionsmitglieder, in die ihrem Wirkungskreise entsprechenden
-                            Zweige der Staatsverwaltung ohne Beinflußung oder Hemmung des
-                            Geschäftsganges Einblick zu nehmen und über ihre Wahrnehmungen im
-                            Staatsrat zu berichten, die zur Reform führenden <choice>
-                                <del>Vors</del>
-                                <add>Vorlagen</add>
-                            </choice>  auszuarbeiten und die zur Besetzung der Staatssekretariate <choice>
-                                <del>dien</del>
-                                <add>diensamen</add>
-                            </choice>  Vorschläge zu erstatten.</p>
-                    </div>
-                    <div type="article">
-                        <head>§ 45.</head>
-                        <p type="legal_section">Der Staatsrat erläßt auf Grund des Berichtes und der
-                            Anträge des Staatskanzlers und der mit <choice>
-                                <del>dem berührten Verwaltungszweig</del>
-                                <add>der Sache</add>
-                            </choice> betrauten Staatssekretäre und nach Anhörung ihrer <choice>
-                                <del>mit der Angelegenheit befaßten</del>
-                                <add>zuständigen</add>
-                            </choice> Commission die Verordnungen und Verfügungen, welche zur
-                            Durchführung der Gesetze und der sonstigen Beschlüsse der
-                            Nationalversammlung an die Staatsbürger zu richten sind.</p>
-                    </div>
-                    <div type="article">
-                        <head>§ 46.</head>
-                        <p type="legal_section">Die unmittelbare Dienstgewalt über <choice>
-                                <sic>die Regierung</sic>
-                                <corr>[Kurzschrift]</corr>
-                            </choice> übt der Staatsrat einzig aus allein durch die Person seines
-                            Praesidenten. <del>Dieser vollzieht die Ernennung des Staatskanzlers und
-                                der Staatssekretäre.</del> Weder der Staatsrat nach seine
-                            Kommissionen noch einzelne seiner Mitglieder führen unmittelbar Agenden
-                            der Verwaltung. </p>
-                        <p type="legal_section">Der Staatsrat erläßt diejenige Anweisungen, die er
-                            zur Durchführung der Gesetze <choice>
-                                <del>durch</del>
-                                <add>an</add>
-                            </choice>  Behörde und Ämter <add>[unleserlich]</add> erforderlich hält,
-                            schriftlich an den Staatskanzler. Diese Anweisungen sind vom
-                            Praesidenten des Staatsrats und vom Leiter der an ihrer Verberatung
-                            beteiligte Commission zu fertigen. Staatskanzler, Staatssekretäre und
-                            alle ihnen nachgeordneten Stellen sind an diese Anweisungen
-                            gebunden.</p>
-                    </div>
-                    <pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"/>
-                    <fw type="pageNum">23 </fw>
-                    <div type="article">
-                        <head>§ 47.</head>
-                        <p type="legal_section">Der Staatsrat und seine Commissionen sind ständig im
-                            Amt, auch in der Zeit, wo die Nationalversammlung nicht tagt. Seine
-                            Anträge u<choice>
-                                <sic/>
-                                <corr>nd</corr>
-                            </choice> Vollmachten erlöschen erst, nachdem der neu <choice>
-                                <del>gewä<choice>
-                                        <sic/>
-                                        <corr>hlte</corr>
-                                    </choice></del>
-                                <add>eingesetzte</add>
-                            </choice>  Staatsrat und dessen Kommissionen die Geschäfte übernommen
-                            haben.</p>
+                                </choice> Vollmachten erlöschen erst, nachdem der neu <choice>
+                                    <del>gewä<choice>
+                                            <sic/>
+                                            <corr>hlte</corr>
+                                        </choice></del>
+                                    <add>eingesetzte</add>
+                                </choice> Staatsrat und dessen Kommissionen die Geschäfte übernommen
+                                haben.</p>
+                        </div>
                     </div>
                 </div>
-                <pb facs="#facs_24" n="24" xml:id="img_0024" break="yes"/>
-                <fw type="pageNum">12</fw>
                 <div type="section">
+                    <pb facs="#facs_24" n="24" xml:id="img_0024" break="yes"/>
+                    <fw type="pageNum">12</fw>
                     <head>2. Zweiter Abschnitt</head>
                     <head><choice>
                             <del>Die Vollzugsgewalt (Verwaltung)</del>
                             <add>Die Verwaltung im Besonderen</add>
                         </choice></head>
                     <div type="article">
-                        <head><fw type="pageNum"><choice>
-                                    <sic>12</sic>
-                                    <corr>24</corr>
-                                </choice></fw></head>
                         <head><choice>
                                 <del><choice>
                                         <del>§ 34</del>
                                         <add>§ 35</add>
                                     </choice></del>
-                                <add>§ 48</add>
+                                <add>§ 48.</add>
                             </choice></head>
                         <p type="legal_section">Auf Grund der Gesetze und der Anweisungen des <choice>
                                 <del>Vollzugsausschusses</del>
@@ -1812,7 +1899,7 @@
                                         <del>§ 35</del>
                                         <add>§ 36</add>
                                     </choice></del>
-                                <add>§ 49</add>
+                                <add>§ 49.</add>
                             </choice></head>
                         <p type="legal_section">An der Spitze der <choice>
                                 <del>Verwaltung</del>
@@ -1836,7 +1923,7 @@
                                         <del>§ 36</del>
                                         <add>§ 37</add>
                                     </choice></del>
-                                <add>§ 50</add>
+                                <add>§ 50.</add>
                             </choice></head>
                         <p type="legal_section">Der Staatskanzler ist vor allem für die
                             Gesetzlichkeit, Einheitlichkeit und Stetigkeit der Verwaltung
@@ -1847,7 +1934,7 @@
                             zu erlassen ist <choice>
                                 <del>er</del>
                                 <add>der Kanzler</add>
-                            </choice>  nicht befugt<choice>
+                            </choice> nicht befugt<choice>
                                 <sic>,</sic>
                                 <corr>.</corr>
                             </choice>
@@ -1863,133 +1950,132 @@
                                         <del>§ 37</del>
                                         <add>§ 36</add>
                                     </choice></del>
-                                <add>§ 57</add>
+                                <add>§ 57.</add>
                             </choice></head>
-                        <p>Die zentrale Staatsverwaltung <choice>
+                        <p type="legal_section">Die zentrale Staatsverwaltung <choice>
                                 <del>besorgen</del>
                                 <add>führen</add>
-                            </choice>  die nachstehenden <choice>
+                            </choice>die nachstehenden<choice>
                                 <del>Ämter</del>
-                                <add>Behörden</add>
-                            </choice> . <list>
-                                <label>1. </label>
-                                <item>Das Staatskanzleramt, dem die <del>allgemeine</del> Übersicht
-                                    über <choice>
-                                        <del>alle</del>
-                                        <add>die genannten</add>
-                                    </choice>  Verwaltungsgeschäfte, die Geschäftsverteilung,
-                                        <del>die Leitung zwei oder mehreren Ämtern obliegender
-                                        Geschäfte, die Beschleunigung des Geschäftsgangs und
-                                        o,</del> die Austragung von Fällen zweifelhafter
-                                    Zuständigkeit, das Zusammenwirken in Geschäften, an denen zwei
-                                    oder mehrere <choice>
-                                        <del>Ämter</del>
-                                        <add>Behörden</add>
-                                    </choice> beteiligt sind, die Aufsicht über die Geschäftsführung
-                                    und die Beschleunigung des Geschäftsganges <choice>
-                                        <del>obliegt</del>
-                                        <add>obliegen</add>
-                                    </choice>. </item>
-                                <pb facs="#facs_25" n="25" xml:id="img_0025" break="yes"/>
-                                <fw type="pageNum">13</fw>
-                                <label>2. </label>
-                                <item>Das <del>Staatsa<choice>
+                                <add>Behörden.</add>
+                            </choice></p>
+                        <list>
+                            <label>1. </label>
+                            <item>Das Staatskanzleramt, dem die <del>allgemeine</del> Übersicht über <choice>
+                                    <del>alle</del>
+                                    <add>die genannten</add>
+                                </choice> Verwaltungsgeschäfte, die Geschäftsverteilung, <del>die
+                                    Leitung zwei oder mehreren Ämtern obliegender Geschäfte, die
+                                    Beschleunigung des Geschäftsgangs und o,</del> die Austragung
+                                von Fällen zweifelhafter Zuständigkeit, das Zusammenwirken in
+                                Geschäften, an denen zwei oder mehrere <choice>
+                                    <del>Ämter</del>
+                                    <add>Behörden</add>
+                                </choice> beteiligt sind, die Aufsicht über die Geschäftsführung und
+                                die Beschleunigung des Geschäftsganges <choice>
+                                    <del>obliegt</del>
+                                    <add>obliegen.</add>
+                                </choice><pb facs="#facs_25" n="25" xml:id="img_0025" break="yes"
+                                    /><fw type="pageNum">13</fw></item>
+                            <label>2. </label>
+                            <item>Das <del>Staatsa<choice>
+                                        <sic/>
+                                        <corr>mt</corr>
+                                    </choice></del>auswärtige Amt </item>
+                            <label>3. </label>
+                            <item>Das Staatsamt für Inneres</item>
+                            <label>4. </label>
+                            <item><choice>
+                                    <del>Das Staatsjustizamt </del>
+                                    <add><del>Das Staatsheeresamt</del> Das Staatsamt für Heerwesen
+                                    </add>
+                                </choice>
+                            </item>
+                            <label>5. </label>
+                            <item>Das Staatsjustizamt</item>
+                            <label><choice>
+                                    <del>5.</del>
+                                    <add>6. </add>
+                                </choice></label>
+                            <item>Das Staats<del>amt</del>-Unterrichtsamt </item>
+                            <label><choice>
+                                    <del>6.</del>
+                                    <add>7. </add>
+                                </choice></label>
+                            <item>Das <del>Staat</del> Staatsamt für Volkswirtschaft, dem <list>
+                                    <label>a) </label>
+                                    <item>
+                                        <choice>
+                                            <del>das</del>
+                                            <add>ein</add>
+                                        </choice> Staats<choice>
+                                            <del>amt für</del>
+                                            <add>-</add>
+                                        </choice>Ackerbau<add>amt</add>, <del>Vie<choice>
+                                                <sic/>
+                                                <corr>h</corr>
+                                            </choice> Forste, u. Vieh Forstwirtschaft u Viehzucht
+                                        </del></item>
+                                    <label>b) </label>
+                                    <item><choice>
+                                            <sic>des</sic>
+                                            <corr>ein</corr>
+                                        </choice> Staats-Industrieamt </item>
+                                    <label>c) </label>
+                                    <item><choice>
+                                            <sic>des</sic>
+                                            <corr>ein</corr>
+                                        </choice> Staats-Handelsamt <del>und und</del>
+                                    </item>
+                                    <label>d) </label>
+                                    <item><del>ein Staatsarbeitsamt </del><add>das Staatsbauamt
+                                                <del>und</del>
+                                        </add></item>
+                                    <label>e) </label>
+                                    <item>das Staatsarbeitsamt und </item>
+                                    <label>f) </label>
+                                    <item>das Staats-Ernährungsamt </item>
+                                </list>eingegliedert sind. </item>
+                            <label><choice>
+                                    <sic>8. </sic>
+                                    <corr>9.</corr>
+                                </choice></label>
+                            <item> Das Staatsverkehrsamt, dem <list>
+                                    <label>a) </label>
+                                    <item>das Staatseisenbahnamt </item>
+                                    <label>b) </label>
+                                    <item>das Staatsamt für Fluß<choice>
                                             <sic/>
-                                            <corr>mt</corr>
-                                        </choice></del>auswärtige Amt </item>
-                                <label>3. </label>
-                                <item>Das Staatsamt für Inneres</item>
-                                <label>4. </label>
-                                <item><choice>
-                                        <del>Das Staatsjustizamt </del>
-                                        <add><del>Das Staatsheeresamt</del> Das Staatsamt für
-                                            Heerwesen </add>
-                                    </choice>
-                                </item>
-                                <add><label>5. </label><item>Das Staatsjustizamt</item></add>
-                                <label><choice>
-                                        <del>5.</del>
-                                        <add>6. </add>
-                                    </choice></label>
-                                <item>Das Staats<del>amt</del>-Unterrichtsamt </item>
-                                <label><choice>
-                                        <del>6.</del>
-                                        <add>7. </add>
-                                    </choice></label>
-                                <item>Das <del>Staat</del> Staatsamt für Volkswirtschaft, dem <list>
-                                        <label>a) </label>
-                                        <item>
-                                            <choice>
-                                                <del>das</del>
-                                                <add>ein</add>
-                                            </choice> Staats<choice>
-                                                <del>amt für</del>
-                                                <add>-</add>
-                                            </choice>Ackerbau<add>amt</add>, <del>Vie<choice>
-                                                  <sic/>
-                                                  <corr>h</corr>
-                                                </choice> Forste, u. Vieh Forstwirtschaft u
-                                                Viehzucht </del></item>
-                                        <label>b) </label>
-                                        <item><choice>
-                                                <sic>des</sic>
-                                                <corr>ein</corr>
-                                            </choice> Staats-Industrieamt </item>
-                                        <label>c) </label>
-                                        <item><choice>
-                                                <sic>des</sic>
-                                                <corr>ein</corr>
-                                            </choice> Staats-Handelsamt <del>und und</del>
-                                        </item>
-                                        <label>d) </label>
-                                        <item><del>ein Staatsarbeitsamt </del><add>das Staatsbauamt
-                                                  <del>und</del>
-                                            </add></item>
-                                        <label>e) </label>
-                                        <item>das Staatsarbeitsamt und </item>
-                                        <label>f) </label>
-                                        <item>das Staats-Ernährungsamt </item>
-                                    </list>eingegliedert sind.  </item>
-                                <label><choice>
-                                        <sic>8. </sic>
-                                        <corr>9.</corr>
-                                    </choice></label>
-                                <item> Das Staatsverkehrsamt, dem <list>
-                                        <label>a) </label>
-                                        <item>das Staatseisenbahnamt </item>
-                                        <label>b) </label>
-                                        <item>das Staatsamt für Fluß<choice>
-                                                <sic/>
-                                                <corr>-</corr>
-                                            </choice> u<choice>
-                                                <sic/>
-                                                <corr>nd</corr>
-                                            </choice> Seeschiffahrt und </item>
-                                        <label>c) </label>
-                                        <item>das Staatspostamt (Post, Telegraphie, Telephon)
-                                        </item>
-                                    </list><p type="legal_section">eingegliedert sein.</p></item>
-                                <label><choice>
-                                        <sic>8.</sic>
-                                        <corr>9.</corr>
-                                    </choice></label>
-                                <item>Das Staatsschatzamt, dem <list>
-                                        <item><list>
-                                                <label>a) </label>
-                                                <item>das Staatsamt für direkte Besteuerung </item>
-                                                <label>b) </label>
-                                                <item>das Staatsamt für Verkehrs- und
-                                                  Verbrauchsabgaben und </item>
-                                                <del><label>c) </label>
-                                                <item>das Staatsgebührenamt und </item></del>
-                                                <label><choice>
+                                            <corr>-</corr>
+                                        </choice> u<choice>
+                                            <sic/>
+                                            <corr>nd</corr>
+                                        </choice> Seeschiffahrt und </item>
+                                    <label>c) </label>
+                                    <item>das Staatspostamt (Post, Telegraphie, Telephon) </item>
+                                </list><p type="legal_section">eingegliedert sein.</p></item>
+                            <label><choice>
+                                    <sic>8.</sic>
+                                    <corr>9.</corr>
+                                </choice></label>
+                            <item>Das Staatsschatzamt, dem <list>
+                                    <item><list>
+                                            <label>a) </label>
+                                            <item>das Staatsamt für direkte Besteuerung </item>
+                                            <label>b) </label>
+                                            <item>das Staatsamt für Verkehrs- und Verbrauchsabgaben
+                                                und </item>
+                                            <label><del> c)</del></label>
+                                            <item>
+                                                <del>das Staatsgebührenamt, und</del></item>
+                                            <label><choice>
                                                   <del>d) </del>
                                                   <add>c)</add>
-                                                  </choice></label>
-                                                <item>das Staatsmonopalsamt </item>
-                                            </list>eingegliedert sind. </item>
-                                    </list></item>
-                            </list></p>
+                                                </choice></label>
+                                            <item>das Staatsmonopalsamt </item>
+                                        </list>eingegliedert sind. </item>
+                                </list></item>
+                        </list>
                     </div>
                     <div type="article">
                         <head><choice>
@@ -1997,7 +2083,7 @@
                                     <del>§ 48</del>
                                     <add>§ 39</add>
                                 </choice>
-                                <add>§ 52</add>
+                                <add>§ 52.</add>
                             </choice></head>
                         <p type="legal_section">An der Spitze <del>der erwähnten acht</del> des
                             Staatskanzleramts steht der Staatskanzler, an der Spitze jedes der unter
@@ -2036,17 +2122,17 @@
                                             </choice></del>
                                         <add>§ 40</add>
                                     </choice></del>
-                                <add>§ 53</add>
+                                <add>§ 53.</add>
                             </choice></head>
-                        <p>Der Kanzlerrat steht durch die Person des Staatskanzlers in unmittelbaren
-                            Verkehr mit dem Praesidenten des <choice>
+                        <p type="legal_section">Der Kanzlerrat steht durch die Person des
+                            Staatskanzlers in unmittelbaren Verkehr mit dem Praesidenten des <choice>
                                 <del>Vollzugsausschusses</del>
                                 <add>StR</add>
                             </choice> . Außerdem hat jeder Staatssekretär <add>u<choice>
                                     <sic/>
                                     <corr>nd</corr>
-                                </choice> Unterstaatssekretär</add> das Recht  <pb facs="#facs_26"
-                                n="26" xml:id="img_0026" break="yes"/><fw type="pageNum">14</fw> und
+                                </choice> Unterstaatssekretär</add> das Recht<pb facs="#facs_26"
+                                n="26" xml:id="img_0026" break="yes"/><fw type="pageNum">14</fw>und
                             die Pflicht, <add>allein oder mit dem Kanzler</add> in der seinen
                             Verwaltungszweig berührenden Kommission des <choice>
                                 <del>Vollzugsauschusses</del>
@@ -2066,20 +2152,20 @@
                                     <del>und</del>
                                     <add>wie</add>
                                 </choice> in deren Ausschüssen</add> zu erscheinen. </p>
-                        <p>Der Kanzlerrat hat das Recht, in allen Angelegenheiten der Gesetzgebung
-                            auch ohne Auftrag des <choice>
+                        <p type="legal_section">Der Kanzlerrat hat das Recht, in allen
+                            Angelegenheiten der Gesetzgebung auch ohne Auftrag des <choice>
                                 <del>Vollzugsausschusses</del>
                                 <add>StR</add>
-                            </choice>  Gesetzesvorlagen auszuarbeiten, <del>und ihm</del> zu
+                            </choice> Gesetzesvorlagen auszuarbeiten, <del>und ihm</del> zu
                             unterbreiten. Lehnt dieser die <choice>
                                 <del>Vorlage</del>
                                 <add>Einbringung</add>
-                            </choice>  an die Nationalversammlung ab, so kann der Kanzlerrat gegen
+                            </choice> an die Nationalversammlung ab, so kann der Kanzlerrat gegen
                             diese Ablehnung unter Anschluß des Entwurfes eine motivierte Vorstellung
                             an die Nationalversammlung richten. Über diese Vorstellung muß binnen <choice>
                                 <del>drei</del>
                                 <add>zwei</add>
-                            </choice>  Monaten ein<del>e</del> Beschluß der Nationalversammlung
+                            </choice> Monaten ein<del>e</del> Beschluß der Nationalversammlung
                             eingeholt werden.</p>
                     </div>
                     <div type="article">
@@ -2093,7 +2179,7 @@
                                     </choice></del>
                                 <add><choice>
                                         <del>§ 50</del>
-                                        <add>§ 54</add>
+                                        <add>§ 54.</add>
                                     </choice></add>
                             </choice></head>
                         <p type="legal_section"><del>Die</del> Mittelstelle<del>r</del> der
@@ -2116,10 +2202,12 @@
                             </choice> Kompetenzverteilung aufrecht.<pb facs="#facs_27" n="27"
                                 xml:id="img_0027" break="yes"/><fw type="pageNum">15</fw>
                         </p>
-                        <p><label><del><choice>
+                    </div>
+                    <div type="article">
+                        <head><label><del><choice>
                                         <sic>§ 42 </sic>
                                         <corr>41</corr>
-                                    </choice></del><add>§ 55</add></label></p>
+                                    </choice></del><add>§ 55</add></label></head>
                         <p type="legal_section">Jeder Landtag bestellt aus seiner Mitte einen
                             Landesausschuß, dieser <choice>
                                 <del>gibt </del>
@@ -2130,17 +2218,16 @@
                             Agenden der bisherigen autonomen Landesverwaltung auf die einzelnen
                             Mitglieder des Landesausschusses auf und führt die <add>Agenden</add> in
                             der bisherigen Weise. <add>In diesen Angelegenheiten ist der
-                                Landesausschß dem Landtag verantwortlich.</add></p>
+                                Landesausschuß dem Landtag verantwortlich.</add></p>
                     </div>
-                </div>
-                <div type="section">
-                    <div type="section">
-                        <p><label>§ 56 <del>§43</del>
-                                <del>§ 42 </del></label> Der Landeshauptmann und seine beiden
-                            Stellvertreter bilden zusammen die Landesregierung. Sie führt
-                                <del>kolle</del> körperschaftlich diejenigen Agenden, die durch das
-                            Gesetz vom 19. Mai 1868 No. 44. RgBl. über die Errichtung der
-                            politischen Verwaltungsbehörde (§2–9) dem Landeschef <choice>
+                    <div type="article">
+                        <head><label>§ 56 <del>§43</del>
+                                <del>§ 42 </del></label></head>
+                        <p type="legal_section">Der Landeshauptmann und seine beiden Stellvertreter
+                            bilden zusammen die Landesregierung. Sie führt <del>kolle</del>
+                            körperschaftlich diejenigen Agenden, die durch das Gesetz vom 19. Mai
+                            1868 No. 44. RgBl. über die Errichtung der politischen
+                            Verwaltungsbehörde (§2–9) dem Landeschef <choice>
                                 <del>vorbeh</del>
                                 <add>zugewiesen</add>
                             </choice>
@@ -2152,38 +2239,43 @@
                             Weisungen des Staatskanzlers und der zuständigen Staatssekretäre,
                                 <add>wobei sie</add> diesen allein, beziehungsweise der
                             Nationalversammlung <del>allein</del> und nicht dem Landtage
-                            verantwortlich ist <del>und ausschließli</del>
-                        </p>
-                        <p><del><label>§ 44. § 53 § 57 § 43 </label></del></p>
-                        <p>Durch besondere Dienstauweisungen können von den in <choice>
+                            verantwortlich ist <del>und ausschließli</del></p>
+                    </div>
+                    <div type="article">
+                        <head><choice>
+                                <del>§ 44. § 53 § 43</del>
+                                <add>§ 57.</add>
+                            </choice></head>
+                        <p type="legal_section">Durch besondere Dienstauweisungen können von den in <choice>
                                 <del>§ 43</del>
                                 <add>§ 52</add>
                             </choice> berührten Angelegenheiten allgemein oder fallweise einzelne
                             wie die Angelegenheiten der Staatspolizei, dem <choice>
                                 <del>Landeshauptmännern</del>
                                 <add>Landeshauptmann</add>
-                            </choice> zur persönlichen Erledigung vorbehalten werden. </p>
-                        <p><label><choice>
+                            </choice> zur persönlichen Erledigung vorbehalten werden.</p>
+                    </div>
+                    <div type="article">
+                        <head><label><choice>
                                     <del>§ 45 44 § 54 </del>
                                     <add>§ 58</add>
-                                </choice>
-                            </label> Am Vororte des Kreises, <del>und</del> am Sitze des Kreistages
-                                <add>und der Kreis- und Landesgerichte</add>werden Kreisregierungen
-                                <add> als oberste und zusammenfassende
-                            Lokalverwaltungstellen</add>errichtet. Der Kreistag bestellt aus seiner
-                            Mitte</p>
-                        <p><pb facs="#facs_28" n="28" xml:id="img_0028" break="yes"/><fw
-                                type="pageNum">16 </fw>einen Kreisausschuß von <choice>
+                                </choice></label></head>
+                        <p type="legal_section">Am Vororte des Kreises, <del>und</del> am Sitze des
+                            Kreistages <add>und der Kreis- und Landesgerichte</add>werden
+                            Kreisregierungen <add> als oberste und zusammenfassende
+                                Lokalverwaltungstellen</add>errichtet. Der Kreistag bestellt aus
+                            seiner Mitte<pb facs="#facs_28" n="28" xml:id="img_0028" break="yes"
+                                /><fw type="pageNum">16 </fw>einen Kreisausschuß von <choice>
                                 <del>17</del>
                                 <add>sieben</add>
-                            </choice>  Mitgliedern, dieser aus seiner Mitte <choice>
+                            </choice> Mitgliedern, dieser aus seiner Mitte <choice>
                                 <del>den V</del>
                                 <add>als</add>
-                            </choice>  Vorsitzenden den Kreishauptmann und zwei Stellvertreter. </p>
-                        <p>Der Kreisausschuß führt diejenige Agenden, welche bisher in einigen
-                            Ländern wie in Böhmen und in der Steiermark den Bezirksvertretungen
-                            übertragen waren.</p>
-                        <p>Außerdem <choice>
+                            </choice> Vorsitzenden den Kreishauptmann und zwei Stellvertreter.</p>
+                        <p type="legal_section">Der Kreisausschuß führt diejenige Agenden, welche
+                            bisher in einigen Ländern wie in Böhmen und in der Steiermark den
+                            Bezirksvertretungen übertragen waren.</p>
+                        <p type="legal_section">Außerdem <choice>
                                 <del>gehen auf</del>
                                 <add>werden</add>
                             </choice> ihm <choice>
@@ -2191,30 +2283,40 @@
                                 <add>durch besondere Gesetze</add>
                             </choice>
                             <add> die Leitung u. Beaufsichtigung</add> der Bezirksstraßenausschüsse
-                            und der Bezirksarmenräte übertragen. </p>
-                        <p>In diesen Funktionen ist der Kreisausschuß dem Kreistage verantwortlich. </p>
-                        <p><label><del>§ 46 45 §59 55 </del>
-                            </label></p>
-                        <p>Der Kreishauptmann und seine Stellvertreter bilden die Kreisregierung.
-                            Auf sie geht die gesammte Kompetenz über, die durch das erwähnte Gesetz
-                            vom 19. Mai 1868, §§ 10 bis 14 den Bezirkshauptmannschaften zugewiesen
-                            ist, und die Kreisregierung führt diese Geschäfte nach den allgemeinen
-                            Staatsgesetzen, nach den Durchführungsverordnungen des Staatsrates <choice>
+                            und der Bezirksarmenräte übertragen.</p>
+                        <p type="legal_section">In diesen Funktionen ist der Kreisausschuß dem
+                            Kreistage verantwortlich.</p>
+                    </div>
+                    <div type="article">
+                        <head><choice>
+                                <del>§ 46 45 55</del>
+                                <add>§ 59.</add>
+                            </choice></head>
+                        <p type="legal_section">Der Kreishauptmann und seine Stellvertreter bilden
+                            die Kreisregierung. Auf sie geht die gesammte Kompetenz über, die durch
+                            das erwähnte Gesetz vom 19. Mai 1868, §§ 10 bis 14 den
+                            Bezirkshauptmannschaften zugewiesen ist, und die Kreisregierung führt
+                            diese Geschäfte nach den allgemeinen Staatsgesetzen, nach den
+                            Durchführungsverordnungen des Staatsrates <choice>
                                 <del>und</del>
                                 <add>sowie</add>
-                            </choice>  nach den Weisungen der übergeordneten Behörden, darin nur
+                            </choice> nach den Weisungen der übergeordneten Behörden, darin nur
                             diesen und nicht dem Kreistage verantwortlich. </p>
-                        <p>Durch besondere Dienstanweisungen können von diesen Angelegenheiten
-                            einzelne fallweise oder allgemein dem Kreishauptmann vorbehalten werden. </p>
-                        <p><label><del>§47. 46 § 56 60</del>
-                            </label>
-                        </p>
-                        <p>Der Kreisregierung zur Seite steht das Kreisamt. Für die Leitung der
-                            Kanzleigeschäfte bestellt <add>und dem Kreishauptmann
-                                verantwortlich</add> ist der Kreisamts- <pb facs="#facs_29" n="29"
-                                xml:id="img_0029" break="yes"/><fw type="pageNum">17</fw> leiter.
-                            Das Kreisamt hat außer den Fachabteilungen an seinem Sitze exponierte
-                            Abteilungen außerhalb <choice>
+                        <p type="legal_section">Durch besondere Dienstanweisungen können von diesen
+                            Angelegenheiten einzelne fallweise oder allgemein dem Kreishauptmann
+                            vorbehalten werden.</p>
+                    </div>
+                    <div type="article">
+                        <head><choice>
+                                <del>§ 46. </del>
+                                <add>§ 60.</add>
+                            </choice></head>
+                        <p type="legal_section">Der Kreisregierung zur Seite steht das Kreisamt. Für
+                            die Leitung der Kanzleigeschäfte bestellt <add>und dem Kreishauptmann
+                                verantwortlich</add> ist der Kreisamts<pb facs="#facs_29" n="29"
+                                xml:id="img_0029" break="no"/><fw type="pageNum">17</fw> leiter.</p>
+                        <p type="legal_section">Das Kreisamt hat außer den Fachabteilungen an seinem
+                            Sitze exponierte Abteilungen außerhalb <choice>
                                 <del>dieses Sitzes</del>
                                 <add>am Sitze für</add>
                             </choice> jeden Gerichtsbezirk<add>s</add>. Diese Bezirksämter stehen
@@ -2224,7 +2326,7 @@
                             eine Partei <choice>
                                 <del>gegen</del>
                                 <add>durch</add>
-                            </choice>  eine Verfügung oder Entscheidung des Amtmanns beschwert, so
+                            </choice> eine Verfügung oder Entscheidung des Amtmanns beschwert, so
                             steht ihr das Recht unmittelbar<del>er</del> persönlicher, mündlicher
                             telephonischer <choice>
                                 <del>oder</del>
@@ -2233,40 +2335,49 @@
                             Erfolgt keine Vorstellung oder wird diese abgewiesen, so <choice>
                                 <del>geht</del>
                                 <add>gilt</add>
-                            </choice>  die Verfügung oder Entscheidung als vom Kreisamt
+                            </choice> die Verfügung oder Entscheidung als vom Kreisamt
                             erflossen.]</p>
-                        <p>Die bestehenden Bezirkshauptmannschaften <del>und
-                                Bezirksvertretungen</del> werden aufgelassen, beziehungsweise in
+                        <p type="legal_section">Die bestehenden Bezirkshauptmannschaften <del>und
+                                Bezirksvertretungen</del>werden aufgelassen, beziehungsweise in
                                 <add>die</add> Kreisregierung<add>en</add> und <add>teilweise in
                                 die</add> Bezirksämter überführt. </p>
-                        <p><label><del>§. 48 49 § 47</del>
-                            </label> Der Rechtszug geht, einerlei ob im eigenen oder übertragenen
-                            Wirkungskreise, von der Gemeinde einheitlich im Wege des Bezirksamts an
-                            die Kreisregierung.</p>
-                        <p>Das <del>ob</del> erwähnte Kompetenzgesetz wird feststellen, in welchen
-                            Angelegenheiten der Rechtszug bei der Kreis- oder bei der
-                            Landesregierung abschließt und in welchen er bis <choice>
-                                <del>zu den Staatsämtern</del>
-                                <add>zum Staatsamt</add>
-                            </choice>  offensteht. </p>
-                        <p><label><choice>
-                                    <del>§ 57  </del>
-                                    <add>61</add>
-                                </choice>
-                            </label> Die Verfassung der <emph>Gemeinden</emph> wird durch eine als
-                            Staatsgesetz zu erlassende <emph>Gemeindeordnung</emph> neu geregelt. Im
-                            Rahmen derselben werden die Landtage durch Landesgesetz und in dessen
-                            Rahmen Anordnungen der Kreistage die Einrichtungen der Gemeinden im
-                            Einzelnen <choice>
+                    </div>
+                    <div type="article">
+                        <head><choice>
+                                <del>§ 57.</del>
+                                <add>§ 61.</add>
+                            </choice></head>
+                        <p type="legal_section">Die Verfassung der <emph>Gemeinden</emph> wird durch
+                            eine als Staatsgesetz zu erlassende <emph>Gemeindeordnung</emph> neu
+                            geregelt. Im Rahmen derselben werden die Landtage durch Landesgesetz und
+                            in dessen Rahmen Anordnungen der Kreistage die Einrichtungen der
+                            Gemeinden im Einzelnen <choice>
                                 <del>regeln</del>
                                 <add>ordnen</add>
-                            </choice> .<pb facs="#facs_30" n="30" xml:id="img_0030" break="yes"/><choice>
+                            </choice> .</p>
+                    </div>
+                    <div type="article">
+                        <p type="legal_section"><del>§. 48 49 § 47</del>  Der Rechtszug geht,
+                            einerlei ob im eigenen oder übertragenen Wirkungskreise, von der
+                            Gemeinde einheitlich im Wege des Bezirksamts an die Kreisregierung.</p>
+                        <p type="legal_section">Das <del>ob</del> erwähnte Kompetenzgesetz wird
+                            feststellen, in welchen Angelegenheiten der Rechtszug bei der Kreis-
+                            oder bei der Landesregierung abschließt und in welchen er bis <choice>
+                                <del>zu den Staatsämtern</del>
+                                <add>zum Staatsamt</add>
+                            </choice> offensteht. </p>
+                    </div>
+                    <div type="article">
+                        <pb facs="#facs_30" n="30" xml:id="img_0030" break="yes"/>
+                        <head><choice>
                                 <del>§ 47 [?] § 58</del>
-                                <add>§ 62</add>
-                            </choice>
-                        </p>
-                        <p><head><del>Der öffentliche Dienst </del></head></p>
-                        <p>Die deutschen, innerhalb des <choice>
+                                <add>§ 62.</add>
+                            </choice></head>
+                        <head><choice>
+                                <del>Der öffentliche Dienst</del>
+                                <add/>
+                            </choice></head>
+                        <p type="legal_section">Die deutschen, innerhalb des <choice>
                                 <del>deutschen Siedlungs-</del>
                                 <add>staats- und</add>
                             </choice> und Verwaltungsgebietes (§<choice>
@@ -2298,15 +2409,23 @@
                             <choice>
                                 <del>das</del>
                                 <add>die</add>
-                            </choice>  bestehenden Rechtsverhältnisse und Bezüge der Beamten nicht
+                            </choice> bestehenden Rechtsverhältnisse und Bezüge der Beamten nicht
                             verschlechtert werden. <pb facs="#facs_31" n="31" xml:id="img_0031"
                                 break="yes"/><fw type="pageNum">18</fw>
-                            <choice>
-                                <del>C. Von der richterlichen Gewalt</del>
-                                <add>Dritter Abschnitt </add>
-                            </choice>
-                            <label><del>§ 50 § 63 57 48</del>
-                            </label> Alle <choice>
+                        </p>
+                    </div>
+                </div>
+                <div type="section">
+                    <head><choice>
+                            <del>C. Von der richterlichen Gewalt.</del>
+                            <add>Dritter Abschnitt.</add>
+                        </choice></head>
+                    <div type="article">
+                        <head><choice>
+                                <del>§ 50. § 48.</del>
+                                <add>§ 63.</add>
+                            </choice></head>
+                        <p type="legal_section">Alle <choice>
                                 <del>richterliche Gewalt</del>
                                 <add>Gerichtsbarkeit</add>
                             </choice> wird im Namen des Volkes <del>und Gesetzes</del> ausgeübt,
@@ -2316,55 +2435,77 @@
                             </choice> gefertigt. Die Einrichtung und Zuständigkeit der Gerichte wird
                             durch Gesetze festgestellt und kann nur durch die gesetzgebende Gewalt
                             abgeändert werden.</p>
-                        <p><label><del>§ 51. 49 §60 64</del>
-                            </label> Die Richter werden<choice>
+                    </div>
+                    <div type="article">
+                        <head><choice>
+                                <del>§ 51. § 49.</del>
+                                <add>§ 64.</add>
+                            </choice></head>
+                        <p type="legal_section">Die Richter werden<choice>
                                 <del> entweder</del>
                                 <add>zum Teile</add>
                             </choice> aus dem Volke auf Zeit bestellt <del>oder</del>, zum Teile <choice>
                                 <del>aus beruflich vorgebildeten</del>
                                 <add>auf Grund ihrer beruflichen</add>
-                            </choice>  Vorbildung auf Lebensdauer ernannt. </p>
-                        <p><label>§ 52 §50 §65 </label></p>
-                        <p><add>In den Strafrechtspflege haben</add> bei Verbrechen, <del>mit</del>
-                            die mit der Strafe des Todes oder mit Freiheitsstrafen von einem Jahre
-                            und mehr bedroht sind, sowie bei allen politischen und durch
-                            Druckschriften verübten Verbrechen und Vergehen <del>haben</del>
+                            </choice> Vorbildung auf Lebensdauer ernannt</p>
+                    </div>
+                    <div type="article">
+                        <head><choice>
+                                <del>§ 52. § 50.</del>
+                                <add>§ 65.</add>
+                            </choice></head>
+                        <p type="legal_section"><add>In den Strafrechtspflege haben</add> bei
+                            Verbrechen, <del>mit</del> die mit der Strafe des Todes oder mit
+                            Freiheitsstrafen von einem Jahre und mehr bedroht sind, sowie bei allen
+                            politischen und durch Druckschriften verübten Verbrechen und Vergehen
+                                <del>haben</del>
                             <add>allein</add> aus dem Volke bestellte <emph>Geschworene</emph> über
                             die Schuldfrage zu entscheiden, bei allen Vergehen ernannte
-                            Berufsrichter nicht ohne aus dem Volke bestellte <emph>Schöffen</emph>. </p>
-                        <p>In der Zivilrechtspflege sind <add>bei</add> der Urteilsfällung in allen <choice>
+                            Berufsrichter nicht ohne aus dem Volke bestellte
+                            <emph>Schöffen</emph>.</p>
+                        <p type="legal_section">In der Zivilrechtspflege sind <add>bei</add> der
+                            Urteilsfällung in allen <choice>
                                 <del>Streitfragen</del>
                                 <add>Streitsachen</add>
-                            </choice>  von fachlicher und technischer Eigenart oder von
+                            </choice> von fachlicher und technischer Eigenart oder von
                             beträchtlichem Werte des Streitgegenstandes <emph>Laienrichter</emph>
                             <choice>
                                 <del>mit</del>
                                 <add>von</add>
-                            </choice>  fachlichem u technischem Wissen oder mit hoher
+                            </choice> fachlichem u technischem Wissen oder mit hoher
                             Geschäftserfahrung beizuziehen oder berufliche
                                 <emph>Schiedsgerichte</emph> vorzusehen. </p>
-                        <p><label><choice>
-                                    <del>§ 53 § 67  62</del>
-                                    <add>§ 60</add>
-                                </choice>
-                            </label>  Die Bestellung der Geschworenen <choice>
+                    </div>
+                    <div type="article">
+                        <head><choice>
+                                <del>§ 53. § 67.</del>
+                                <add>§ 66.</add>
+                            </choice></head>
+                        <p type="legal_section">Die Bestellung der Geschworenen <choice>
                                 <del>und Schöff</del>
                                 <add>und Schöffen</add>
-                            </choice>  wird <add>ohne Verzug</add> durch ein besonderes Gesetz
+                            </choice> wird <add>ohne Verzug</add> durch ein besonderes Gesetz
                             neugeregelt werden.<pb facs="#facs_32" n="32" xml:id="img_0032"
                                 break="yes"/><fw type="pageNum">19</fw>
-                            <label><del>§ 53 § 63 67 § 52</del>
-                            </label> Die Ernennung der beruflich vorgebildeten Richter erfolgt durch <choice>
+                        </p>
+                    </div>
+                    <div type="article">
+                        <head><choice>
+                                <del>§ 63. § 52</del>
+                                <add>§ 67.</add>
+                            </choice></head>
+                        <p type="legal_section">Die Ernennung der beruflich vorgebildeten Richter
+                            erfolgt durch <choice>
                                 <del>die</del>
                                 <add>das</add>
-                            </choice>  Justiz<choice>
+                            </choice> Justiz<choice>
                                 <del>commission</del>
                                 <add>kollegium</add>
-                            </choice>  der Nationalversammlung <add>[unleserlich]</add> (§ 40)<choice>
+                            </choice> der Nationalversammlung <add>[unleserlich]</add> (§ 40)<choice>
                                 <sic/>
                                 <corr>.</corr>
                             </choice></p>
-                        <p><choice>
+                        <p type="legal_section"><choice>
                                 <del>Sie</del>
                                 <add>Es </add>
                             </choice> besteht aus sieben Mitgliedern, von denen <choice>
@@ -2374,47 +2515,69 @@
                             Die Berichterstattung über die Ernennungen der Richter<choice>
                                 <del>, jedoch</del>
                                 <add>steht</add>
-                            </choice>  ohne Stimmrecht<del>, steht</del> dem Staatssekretär des
+                            </choice> ohne Stimmrecht<del>, steht</del> dem Staatssekretär des
                             Justizamts zu. Die Ernennung wird vom Vorsitzenden <choice>
                                 <del>der</del>
                                 <add>des</add>
-                            </choice>  Justiz<choice>
+                            </choice> Justiz<choice>
                                 <del>commision</del>
                                 <add>kollegiumsdirektoriums</add>
                             </choice>
                             <del>und</del> unter Gegenzeichnung des Staatssekretärs ausgefertigt und
                             erfolgt im <choice>
-                                <del>Namen  des Staates und Volkes von</del>
+                                <del>Namen des Staates und Volkes von</del>
                                 <add>Auftrage des Freistaats</add>
-                            </choice> Südostdeutschland. .</p>
-                        <p><label><del>§ 54. § 53 § 64 68</del>
-                            </label>   Die Richter sind in Ausübung ihres richterlichen Amtes
-                            selbständig, unabhängig und unverletzlich … <add>u.s.w. </add> (Artikel
-                            6 des Staatsgrundgesetzes vom 21 Dezember 1867 R.g.Bl. No. 144. </p>
-                        <p><label><del>§ 55 §54 §65 §69</del>
-                            </label>  Bis zur allgemeinen Reform der Verwaltung bleibt ein
+                            </choice> Südostdeutschland</p>
+                    </div>
+                    <div type="article">
+                        <head><choice>
+                                <del>§ 54. § 64.</del>
+                                <add>§ 68.</add>
+                            </choice></head>
+                        <p type="legal_section">Die Richter sind in Ausübung ihres richterlichen
+                            Amtes selbständig, unabhängig und unverletzlich … <add>u.s.w. </add>
+                            (Artikel 6 des Staatsgrundgesetzes vom 21 Dezember 1867 R.g.Bl. No.
+                            144</p>
+                    </div>
+                    <div type="article">
+                        <head><choice>
+                                <del>§ 55. § 65.</del>
+                                <add>§ 69.</add>
+                            </choice></head>
+                        <p type="legal_section">Bis zur allgemeinen Reform der Verwaltung bleibt ein
                             Verwaltungsgerichtshof nach den Bestimmungen des Gesetzes vom 22. Okt
                             1875 <del>RgBl Nr. 1875</del>
-                            <add>RgBl</add> No. 36 ex 1876 aufrecht. </p>
-                        <p>Das Reichsgerichte (Gesetz vom 18. April 1869. No 44 RgBl) und der
-                            Staatsgerichtshof (Gesetz vom 25. Juli 1867 RgBl. No. 101 / wurden durch
-                            ein besonderes Gesetz miteinander verschmolzen.<pb facs="#facs_33"
-                                n="33" xml:id="img_0033" break="yes"/><label>§<choice>
-                                    <del> 66 </del>
-                                    <add>70</add>
-                                </choice>
-                            </label> Sämtliche Angehörige der bewaffneten Macht sind auf die
-                            Verfassung zu <emph>beeiden</emph> und geloben dem Freistaat
-                            Deutschösterreich Treue und Gehorsam.</p>
-                        <p><head>Vierter Abschnitt Von der <choice>
-                                <del>richterlichen[?] Gewalt</del>
-                                <add>bewaffneten Macht</add>
-                            </choice> .</head></p>
-                        <p><label><del>§ 56 § 55 § 66 71</del>
-                            </label>  Die <choice>
+                            <add>RgBl</add> No. 36 ex 1876 aufrecht.</p>
+                        <p type="legal_section">Das Reichsgerichte (Gesetz vom 18. April 1869. No 44
+                            RgBl) und der Staatsgerichtshof (Gesetz vom 25. Juli 1867 RgBl. No. 101
+                            / wurden durch ein besonderes Gesetz miteinander verschmolzen.<pb
+                                facs="#facs_33" n="33" xml:id="img_0033" break="yes"/></p>
+                    </div>
+                </div>
+                <div type="section">
+                    <head>Vierter Abschnitt.</head>
+                    <head>Von der <choice>
+                            <del>richterlichen Gewalt</del>
+                            <add>bewaffneten Macht.</add>
+                        </choice></head>
+                    <div type="article">
+                        <head><choice>
+                                <del>§ 66.</del>
+                                <add>§ 70.</add>
+                            </choice></head>
+                        <p type="legal_section">Sämtliche Angehörige der bewaffneten Macht sind auf
+                            die Verfassung zu <emph>beeiden</emph> und geloben dem Freistaat
+                            Deutschösterreich Treue und Gehorsam</p>
+                    </div>
+                    <div type="article">
+                        <head><choice>
+                                <del>§ 56. § 66.</del>
+                                <add>§ 71.</add>
+                            </choice></head>
+                        <p type="legal_section">Die <choice>
                                 <del>gefä[?]</del>
                                 <add>wehrfähige</add>
-                            </choice>  Bürgerschaft des Staates wird nach dem von der
+                            </choice> Bürgerschaft des Staates wird nach dem von der
                             Nationalversammlung beschlossenen Wehrgesetze auf Grund der jährlich zu
                             bewilligenden Wehrvorlage <choice>
                                 <del>zum Waffen</del>
@@ -2425,17 +2588,21 @@
                             </choice> bürgerlichen <choice>
                                 <del>Rechtsverhältnisse</del>
                                 <add>Rechts- und Lebensverhältnis</add>
-                            </choice>. </p>
-                        <p>Das stehende Heer ist abgeschafft, die Kazernierung bereits <add>nach
-                                Wehrgesetz</add> ausgebildeter Mannschaften ist untersagt. </p>
-                        <p>Die wehrfähige Mannschaft wird <add> durch Staatsratsbeschluß</add> ganz
-                            oder teilweise <del> durch Staatsratsbeschluß</del> aufgeboten, die
-                            Aufgebote stehen unter <choice>
+                            </choice>. Das stehende Heer ist abgeschafft, die Kazernierung bereits
+                                <add>nach Wehrgesetz</add> ausgebildeter Mannschaften ist untersagt. </p>
+                        <p type="legal_section">Die wehrfähige Mannschaft wird <add> durch
+                                Staatsratsbeschluß</add> ganz oder teilweise <del> durch
+                                Staatsratsbeschluß</del> aufgeboten, die Aufgebote stehen unter <choice>
                                 <del>der</del>
                                 <add>dem</add>
-                            </choice>  Befehl des Oberbefehlshabers.</p>
-                        <p><label><del>§ 57 § 56  § 68 72</del>
-                            </label>  Der Oberbefehlshaber wird vom Heeres<choice>
+                            </choice> Befehl des Oberbefehlshabers.</p>
+                    </div>
+                    <div type="article">
+                        <head><choice>
+                                <del>§ 56. § 68.</del>
+                                <add>§ 72.</add>
+                            </choice></head>
+                        <p type="legal_section">Der Oberbefehlshaber wird vom Heeres<choice>
                                 <del>kollegium[?]</del>
                                 <add>direktorium</add>
                             </choice><choice>
@@ -2445,15 +2612,79 @@
                             vorgeschlagen und vom Praesidenten des Staatsrats ernannt. Das Heeres<choice>
                                 <del>kollegium</del>
                                 <add>direktorium</add>
-                            </choice>  besteht aus sieben Mitgliedern von denen 4 das Volkshaus, 3
+                            </choice> besteht aus sieben Mitgliedern von denen 4 das Volkshaus, 3
                             der Senat entsendet. Die Ausfertigung der Ernennung erfolgt vom
                             Praesidenten des Staatsrats unter
-                                <?oxy_comment_start author="zuegel.n" timestamp="20250328T141112+0100" comment="Fortsetzung des Textes nicht auf nächster, sondern auf übernächster Seite"?>Mitfer<?oxy_comment_end?>¬<pb
-                                facs="#facs_34" n="34" xml:id="img_0034" break="yes"/><add><label>§
-                                    74 </label></add> Die bewaffnete Macht beruht auf der
-                            allgemeinen, gleichen ausnahmslosen Wehrpflicht aller Staatsbürger
-                                <add>und auf der Kriegsleistungspflicht der gesamten
-                                Volkswirtschaft</add>. Die <choice>
+                                <?oxy_comment_start author="zuegel.n" timestamp="20250328T141112+0100" comment="Fortsetzung des Textes nicht auf nächster, sondern auf übernächster Seite"?>Mitfe<?oxy_comment_end?>r<pb
+                                facs="#facs_35" n="35" xml:id="img_0035" break="yes"/><fw
+                                type="pageNum">21</fw>tigung des Vorsitzenden des Heeres<choice>
+                                <del>kollegiums </del>
+                                <add>direktoriums</add>
+                            </choice> und unter Gegenzeichnung das Staatssekretärs <add>für
+                                Heerwesen</add>. <del>In gleicher Weise erfolgt die Ernennung aller
+                                Generäle der bewaffneten Macht.</del></p>
+                    </div>
+                    <div type="article">
+                        <head><choice>
+                                <del>§ 63. § 69.</del>
+                                <add>§ 73.</add>
+                            </choice></head>
+                        <p type="legal_section">In gleicher Weise wird der Chef des Generalstabs
+                                <del>berufen</del><add>ernannt</add>. Dieser <del>der
+                                Oberbefehlshaber</del> beruft unter Gegenzeichnung des
+                            Staatsekretärs für Heerwesen die hiezu besonders ausgebildeten Offiziere
+                            in den Generalstab. </p>
+                        <p type="legal_section">Der Oberbefehlshaber und der Chef das Generalstabs
+                            sind der Nationalversammlung verantwortlich.<pb facs="#facs_34" n="34"
+                                xml:id="img_0034" break="yes"/></p>
+                    </div>
+                    <p type="legal_section"><list>
+                            <item><choice>
+                                    <del>§ 59</del>
+                                    <add>§ 58 </add>
+                                </choice> früher 16 § <choice>
+                                    <del>70 </del>
+                                    <add>74 </add>
+                                </choice>
+                            </item>
+                            <item>
+                                <choice>
+                                    <del>§60 </del>
+                                    <add>§ 59</add>
+                                </choice>50 [?] früher 17 § <choice>
+                                    <del>74</del>
+                                    <add>75</add>
+                                </choice></item>
+                            <item><choice>
+                                    <del>§ 61</del>
+                                    <add>§ 60</add>
+                                </choice> früher 18 <choice>
+                                    <del>72</del>
+                                    <add>76</add>
+                                </choice>
+                            </item>
+                            <item>
+                                <choice>
+                                    <del>62</del>
+                                    <add>61[?]</add>
+                                </choice> früher 19 <choice>
+                                    <del>73</del>
+                                    <add>77</add>
+                                </choice>
+                            </item>
+                        </list></p>
+                </div>
+                <div type="section">
+                    <head><del><choice>
+                                <del>Fünfter Teil.</del>
+                                <add>IV. Abschnitt.</add>
+                            </choice></del><add>Vom Staatshaushalt und den
+                        Staatsschulden.</add></head>
+                    <div type="article">
+                        <head>§ 74.</head>
+                        <p type="legal_section">Die bewaffnete Macht beruht auf der allgemeinen,
+                            gleichen ausnahmslosen Wehrpflicht aller Staatsbürger <add>und auf der
+                                Kriegsleistungspflicht der gesamten Volkswirtschaft</add>. Die <choice>
                                 <del>Organisation</del>
                                 <add>Wehrpflicht</add>
                             </choice>
@@ -2461,190 +2692,157 @@
                             Wehrgesetz <del>festgestellt</del>, <add>die Kriegsleistungspflicht
                                 durch ein besonderes Heeresdienstgesetz geordnet.</add>
                         </p>
-                        <p><label>§ 17 § 71 75 jetzt[?] 581[?]  </label>Die Stärke der Wehrmacht
-                            wird durch <del>ein Staatsgesetz</del><add> im Wege emer. alljährlich
-                                vom Staatssekretär des Heeresamts einzubringenden
-                                Wehrvorlage</add><del> und zwar immer</del> au<choice>
+                    </div>
+                    <div type="article">
+                        <head><choice>
+                                <del>§ 17. § 71.</del>
+                                <add>§ 75.</add>
+                            </choice></head>
+                        <p type="legal_section">Die Stärke der Wehrmacht wird durch <del>ein
+                                Staatsgesetz</del><add> im Wege emer. alljährlich vom Staatssekretär
+                                des Heeresamts einzubringenden Wehrvorlage</add><del> und zwar
+                                immer</del> au<choice>
                                 <sic>df</sic>
                                 <corr>f</corr>
                             </choice> die Dauer eines Jahres festgesetzt. </p>
-                        <p><label><del>§ 18 § 72 76 jetzt 57[?] 60</del>
-                            </label>
-                        </p>
-                        <p>Ausserdem besteht in jedem Lande ein Landesschützenkorps dessen
-                            Einrichtung durch <del>ein</del> Staatsgesetz geregelt wird. In allen
-                            Orten von tausend und mehr Einwohnern muss <add>mindestens</add>eine
-                            Landesschützenkompagnie <del>mindestens</del> bestehen.</p>
-                        <p><label><del>§ 19. § 73 77 jetzt 58[?] 61 </del>
-                            </label><del>Die bewaffnete Macht</del> Zur Unterdrückung innerer
-                            Unruhen und zur Erzwin gung der Befolgung <choice>
+                    </div>
+                    <div type="article">
+                        <head><choice>
+                                <del>§ 18. § 72.</del>
+                                <add>§ 76.</add>
+                            </choice></head>
+                        <p type="legal_section">Ausserdem besteht in jedem Lande ein
+                            Landesschützenkorps dessen Einrichtung durch <del>ein</del> Staatsgesetz
+                            geregelt wird. In allen Orten von tausend und mehr Einwohnern muss
+                                <add>mindestens</add>eine Landesschützenkompagnie
+                                <del>mindestens</del> bestehen.</p>
+                    </div>
+                    <div type="article">
+                        <head><choice>
+                                <del>§ 19. § 73.</del>
+                                <add>§ 77.</add>
+                            </choice></head>
+                        <p type="legal_section"><del>Die bewaffnete Macht</del> Zur Unterdrückung
+                            innerer Unruhen und zur Erzwin gung der Befolgung <choice>
                                 <del>der</del>
                                 <add>von</add>
-                            </choice>  Gesetze<add>n</add> und <del>der</del> behördlichen
+                            </choice> Gesetze<add>n</add> und <del>der</del> behördlichen
                                 Verfügungen<del>,</del>
                             <choice>
                                 <del>kann</del>
                                 <add>können</add>
-                            </choice>  die bewaffnete Macht nur mit Zustimmung des
+                            </choice> die bewaffnete Macht nur mit Zustimmung des
                                 Vollzugsausschusses<add>,</add> die Landesschützenkorps nur mit
                             Zustimmung des Landesausschusses und bloss in dem vom Gesetze bestimmten
-                            Fällen und Formen verwendet werden.<pb facs="#facs_35" n="35"
-                                xml:id="img_0035" break="yes"/><fw type="pageNum">21</fw> tigung des
-                            Vorsitzenden des Heeres<choice>
-                                <del>kollegiums </del>
-                                <add>direktoriums</add>
-                            </choice> und unter Gegenzeichnung das Staatssekretärs <add>für
-                                Heerwesen</add>. <del>In gleicher Weise erfolgt die Ernennung aller
-                                Generäle der bewaffneten Macht.</del>
-                            <add>§ 63 73 69. §69.</add>
-                            <del>§ 58 57</del> In gleicher Weise wird der Chef des Generalstabs <choice>
-                                <del>berufen</del>
-                                <add>ernannt</add>
-                            </choice>. Dieser <del>der Oberbefehlshaber</del> beruft unter
-                            Gegenzeichnung des Staatsekretärs für Heerwesen die hiezu besonders
-                            ausgebildeten Offiziere in den Generalstab. </p>
-                        <p>Der Oberbefehlshaber und der Chef das Generalstabs sind der
-                            Nationalversammlung verantwortlich.</p>
-                        <p><list>
-                                <item><choice>
-                                        <del>§ 59</del>
-                                        <add>§ 58 </add>
-                                    </choice> früher 16 § <choice>
-                                        <del>70 </del>
-                                        <add>74 </add>
-                                    </choice>
-                                </item>
-                                <item>
-                                    <choice>
-                                        <del>§60 </del>
-                                        <add>§ 59</add>
-                                    </choice>50 [?] früher 17 § <choice>
-                                        <del>74</del>
-                                        <add>75</add>
-                                    </choice></item>
-                                <item><choice>
-                                        <del>§ 61</del>
-                                        <add>§ 60</add>
-                                    </choice> früher 18 <choice>
-                                        <del>72</del>
-                                        <add>76</add>
-                                    </choice>
-                                </item>
-                                <item>
-                                    <choice>
-                                        <del>62</del>
-                                        <add>61[?]</add>
-                                    </choice> früher 19 <choice>
-                                        <del>73</del>
-                                        <add>77</add>
-                                    </choice>
-                                </item>
-                            </list>
-                        </p>
-                        <div type="section">
-                            <p><head>Fünfter Titel</head>
-                                <head><del>IV Abschnitt</del></head>
-                                <note type="comment">fünfter Titel!</note> Vom Staatshaushalt und
-                                den Staatsschulden </p>
-                            <p><label><choice>
-                                        <del>§ ... 78</del>
-                                        <add>§ 74</add>
-                                    </choice>
-                                </label> Das Haushaltsjahr des Freistaates beginnt am ersten Juli
-                                jeden Jahres und endet <choice>
-                                    <del>am</del>
-                                    <add>nach dem</add>
-                                </choice>  letzten Juni des darauffolgenden Jahres.</p>
-                            <p><choice>
-                                    <del>§ 69. 75</del>
-                                    <add> § 79</add>
-                                </choice></p>
-                            <p>Alle Steuern und Abgaben werden durch Staatsgesetz geregelt.
-                                Staatsgesetze bestimmen die Quellen und die Arten der Steuern<choice>
-                                    <del>, die</del>
-                                    <add>u<choice>
-                                            <sic/>
-                                            <corr>nd</corr>
-                                        </choice></add>
-                                </choice> Abgaben, die<del> durch zur</del> den Haushalt der Länder
-                                    <del>u Gemeinden die, </del> Kreise und Gemeinden <add>zu</add>
-                                dienen <add>haben</add>. Die Haushalte des Staates, der Länder, der
-                                Kreise u. der Gemeinden bilden solidarisch den öffentlichen Haushalt
-                                des Freistaates. Durch Landesgesetz, Kreisanordnung u<choice>
-                                    <sic/>
-                                    <corr>nd</corr>
-                                </choice> Gemeindebeschluß wird festgesetzt, in welcher Weise die
-                                    <del>Be</del> Quellen und Arten der ihnen überlassenen Steuern u<choice>
-                                    <sic/>
-                                    <corr>nd</corr>
-                                </choice> Abgaben nutzbar<pb facs="#facs_36" n="36"
-                                    xml:id="img_0036" break="yes"/><fw type="pageNum">22</fw>
-                                gemacht werden.<del> Diese Gesetze, Anordnungen und Beschlüsse
-                                    unterliegen der Genehmigung der Natio[alversammlung?]</del> Die
-                                bezüglichen Gemeindebeschlüsse müssen vom Kreistage, die Anordnungen
-                                der Kreise vom Landtage, die Landesgesetze vom Staatsrat genehmigt
-                                werden. </p>
-                            <p><label><choice>
-                                        <del>§ 62 § 70</del>
-                                        <add> §76</add>
-                                    </choice>. </label> Die Einnahmen u<choice>
-                                    <sic/>
-                                    <corr>nd</corr>
-                                </choice> Ausgaben des Staates müssen alljährlich <del>(§ 23)</del>
-                                <del>di</del> im Staatsvoranschlag von der Nationalversammlung
-                                angesprochen werden. <del>Das Staatsh</del><add>H</add>aushaltgesetz
-                                ist der staatlichen Gebarung im Verwaltungsjahre zu Grunde zu
-                                legen.</p>
-                            <p><choice>
-                                    <del>§ 63 § 77</del>
-                                    <add> 81</add>
-                                </choice> Der Staats<choice>
-                                    <del>kanzler</del>
-                                    <add>sekretär</add>
-                                </choice>
-                                <choice><del> ist dafür vera</del><add> des Schatzamts</add></choice> hat
-                                längstens drei Monate nach Schluß des Verwaltungsjahres den
-                                Staatsrechnungsabschluß <add>samt den nötigen Unterlagen</add>  dem
-                                Rechnungs hofe <del>zu</del> vorzulegen. Der Rechnungshof ist ein
-                                Helfsamt <del>des Staatsrats. Nach Einsichtnahme legt der Staatsrat
-                                    den Staatsrechnungs</del> der Nationalversammlung, der
-                                Praesident des Rechnungshofes ihr verantwortlich. Er hat den
-                                überprüften Staatsrechningsabschluß am ersten Wochentage des
-                                Dezember einzubringen <del>(§ 26)</del>
-                            </p>
-                            <p>Der Praesident des Rechnungshofes wird vom Staatsrat ernannt, die
-                                Ernennung vom Praesidenten unter Mitfertigung des Vorsitzenden der
-                                Finanzkomission und unter Gegenzeichung des Staatssekretärs des
-                                Schatzamtes ausgefertigt.<pb facs="#facs_37" n="37"
-                                    xml:id="img_0037" break="yes"/><label><choice>
-                                        <del>§ 64§ 82.</del>
-                                        <add>§ 78</add>
-                                    </choice>
-                                </label>
-                                <fw type="pageNum">23.</fw>
-                            </p>
-                            <p>Die Aufnahme von Anleihen, die Konvertierung bestehender
-                                Staatsschulden, die Veräußerung, Umwandlung u<choice>
-                                    <sic/>
-                                    <corr>nd</corr>
-                                </choice> Belastung des Staatsvermögens können nur im Wege des
-                                Gesetzes erfolgen. Zur Überwachung der Staatsschuldengesetze ist das Staatsschulden<choice>
-                                    <del>[?]</del>
-                                    <add>direktorium</add>
-                                </choice> berufen. <label><add>(§ 40.)</add>
-                                </label> Es besteht aus sieben Mitgliedern, von denen vier aus dem
-                                Volkshaus und drei aus dem Senat berufen werden. Der Staatssekretär
-                                des Schatzamts ist ständiger Berichterstatter<del>, jedoch</del>
-                                ohne Stimmrecht. Das Staatsschulden<choice>
-                                    <del>[?]</del>
-                                    <add>direktorium</add>
-                                </choice> ist ein Hilfsamt der Nationalversammlung. <choice>
-                                    <del>Ihre</del>
-                                    <add>Seine</add>
-                                </choice>  Gebarung wird durch ein besonderes Gesetz geregelt.</p>
-                        </div>
+                            Fällen und Formen verwendet werden.</p>
+                    </div>
+                    <div type="article">
+                        <head><choice>
+                                <del>§ 74.</del>
+                                <add>§ 78.</add>
+                            </choice></head>
+                        <p type="legal_section">Das Haushaltsjahr des Freistaates beginnt am ersten
+                            Juli jeden Jahres und endet <choice>
+                                <del>am</del>
+                                <add>nach dem</add>
+                            </choice> letzten Juni des darauffolgenden Jahres.</p>
+                    </div>
+                    <div type="article">
+                        <head><choice>
+                                <del>§ 69. § 75.</del>
+                                <add>§ 79.</add>
+                            </choice></head>
+                        <p type="legal_section">Alle Steuern und Abgaben werden durch Staatsgesetz
+                            geregelt. Staatsgesetze bestimmen die Quellen und die Arten der Steuern<choice>
+                                <del>, die</del>
+                                <add>u<choice>
+                                        <sic/>
+                                        <corr>nd</corr>
+                                    </choice></add>
+                            </choice> Abgaben, die<del> durch zur</del> den Haushalt der Länder
+                                <del>u Gemeinden die, </del> Kreise und Gemeinden <add>zu</add>
+                            dienen <add>haben</add>. Die Haushalte des Staates, der Länder, der
+                            Kreise u. der Gemeinden bilden solidarisch den öffentlichen Haushalt des
+                            Freistaates. Durch Landesgesetz, Kreisanordnung u<choice>
+                                <sic/>
+                                <corr>nd</corr>
+                            </choice> Gemeindebeschluß wird festgesetzt, in welcher Weise die
+                                <del>Be</del> Quellen und Arten der ihnen überlassenen Steuern u<choice>
+                                <sic/>
+                                <corr>nd</corr>
+                            </choice> Abgaben nutzbar<pb facs="#facs_36" n="36" xml:id="img_0036"
+                                break="yes"/><fw type="pageNum">22</fw> gemacht werden.<del> Diese
+                                Gesetze, Anordnungen und Beschlüsse unterliegen der Genehmigung der
+                                Natio[alversammlung?]</del> Die bezüglichen Gemeindebeschlüsse
+                            müssen vom Kreistage, die Anordnungen der Kreise vom Landtage, die
+                            Landesgesetze vom Staatsrat genehmigt werden. </p>
+                    </div>
+                    <div type="article">
+                        <head><choice>
+                                <del>§ 69.</del>
+                                <add>§ 80.</add>
+                            </choice></head>
+                        <p type="legal_section">Die Einnahmen u<choice>
+                                <sic/>
+                                <corr>nd</corr>
+                            </choice> Ausgaben des Staates müssen alljährlich <del>(§ 23)</del>
+                            <del>di</del> im Staatsvoranschlag von der Nationalversammlung
+                            angesprochen werden. <del>Das Staatsh</del><add>H</add>aushaltgesetz ist
+                            der staatlichen Gebarung im Verwaltungsjahre zu Grunde zu legen.</p>
+                    </div>
+                    <div type="article">
+                        <head><choice>
+                                <del>§ 63. § 77.</del>
+                                <add>§ 81.</add>
+                            </choice></head>
+                        <p type="legal_section">Der Staats<choice>
+                                <del>kanzler</del>
+                                <add>sekretär</add>
+                            </choice>
+                            <choice>
+                                <del> ist dafür vera</del>
+                                <add> des Schatzamts</add>
+                            </choice> hat längstens drei Monate nach Schluß des Verwaltungsjahres
+                            den Staatsrechnungsabschluß <add>samt den nötigen Unterlagen</add> dem
+                            Rechnungs hofe <del>zu</del> vorzulegen. Der Rechnungshof ist ein
+                            Helfsamt <del>des Staatsrats. Nach Einsichtnahme legt der Staatsrat den
+                                Staatsrechnungs</del> der Nationalversammlung, der Praesident des
+                            Rechnungshofes ihr verantwortlich. Er hat den überprüften
+                            Staatsrechningsabschluß am ersten Wochentage des Dezember einzubringen
+                                <del>(§ 26)</del></p>
+                        <p type="legal_section">Der Praesident des Rechnungshofes wird vom Staatsrat
+                            ernannt, die Ernennung vom Praesidenten unter Mitfertigung des
+                            Vorsitzenden der Finanzkomission und unter Gegenzeichung des
+                            Staatssekretärs des Schatzamtes ausgefertigt.</p>
+                    </div>
+                    <div type="article">
+                        <pb facs="#facs_37" n="37" xml:id="img_0037" break="yes"/>
+                        <fw type="pageNum">23.</fw>
+                        <head><choice>
+                                <del>§ 63. § 77.</del>
+                                <add>§ 82.</add>
+                            </choice></head>
+                        <p type="legal_section">Die Aufnahme von Anleihen, die Konvertierung
+                            bestehender Staatsschulden, die Veräußerung, Umwandlung u<choice>
+                                <sic/>
+                                <corr>nd</corr>
+                            </choice> Belastung des Staatsvermögens können nur im Wege des Gesetzes
+                            erfolgen. Zur Überwachung der Staatsschuldengesetze ist das Staatsschulden<choice>
+                                <del>[?]</del>
+                                <add>direktorium</add>
+                            </choice> berufen. <add>(§ 40.)</add>  Es besteht aus sieben
+                            Mitgliedern, von denen vier aus dem Volkshaus und drei aus dem Senat
+                            berufen werden. Der Staatssekretär des Schatzamts ist ständiger
+                                Berichterstatter<del>, jedoch</del> ohne Stimmrecht. Das Staatsschulden<choice>
+                                <del>[?]</del>
+                                <add>direktorium</add>
+                            </choice> ist ein Hilfsamt der Nationalversammlung. <choice>
+                                <del>Ihre</del>
+                                <add>Seine</add>
+                            </choice> Gebarung wird durch ein besonderes Gesetz geregelt.</p>
                     </div>
                 </div>
-            </div></body>
+            </div>
+        </body>
     </text>
 </TEI>
