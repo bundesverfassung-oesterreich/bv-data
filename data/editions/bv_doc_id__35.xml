@@ -241,7 +241,7 @@
                         <add>Zeichen</add> des Staates. </head>
                     <div type="article">
                         <head>§ 1.</head>
-                        <p type="legal_section">Die<del>Zugeh<choice>
+                        <p type="legal_section">Die <del>Zugeh<choice>
                                     <sic/>
                                     <corr>örigen</corr>
                                 </choice></del>Angehörigen des deutschen Volkes, welche in<add>einem
@@ -409,8 +409,10 @@
                                 <add>, Herzogtümer, Grafschaften und</add>
                             </choice> so weiter, sowie die <choice>
                                 <del>Länder</del>
-                                <add><?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?>neuungarischen
-                                    <?oxy_custom_end?>Provinzen und</add>
+                                <add>neueingericht<choice>
+                                        <sic/>
+                                        <corr>te</corr>
+                                    </choice>en Provinzen und</add>
                             </choice> Nordböhmen und <del>Nord</del> Deutschschlesien <add>führen
                                 die Bezeichnung <emph>Länder</emph>,</add> bilden <add>als Provinzen
                                 des <choice>
@@ -602,13 +604,14 @@
                                 <sic/>
                                 <corr>e</corr>
                             </choice>mber 18<choice>
-                                <sic>72[?]</sic>
+                                <sic>72</sic>
                                 <corr>67</corr>
-                            </choice> R. G. Bl. 142 <del>provisorisch in Geltung</del><add>(über die
-                                allgemeinen Rechte der Staatsbürger), das Gesetz vom 27. Oktober
-                                1862 No. 87 RgBl (zum Schutze der persönliche Freiheit), das Gesetz
-                                vom 27. Oktober 1862 No. 88 RgBl. (zum Schutze des Hausrechts), das
-                                Gesetz vom 6. April 1870 Nr. 42 RgBl (zum Schutze des Brief<choice>
+                            </choice> R. G. Bl. 142 <del>provisorisch in Geltung</del>
+                            <add>(über die allgemeinen Rechte der Staatsbürger), das Gesetz vom 27.
+                                Oktober 1862 No. 87 RgBl (zum Schutze der persönliche Freiheit), das
+                                Gesetz vom 27. Oktober 1862 No. 88 RgBl (zum Schutze des
+                                Hausrechts), das Gesetz vom 6. April 1870 Nr. 42 RgBl (zum Schutze
+                                des Brief<choice>
                                     <sic/>
                                     <corr>-</corr>
                                 </choice> u<choice>
@@ -624,12 +627,16 @@
                                 <del>§ 11</del>
                                 <add/>
                             </choice></head>
-                        <p type="legal_section"><del>Die öffentliche Gewalt darf nur auf die in
-                                dieser Verfassung festgesetzte Weise ausgeübt werden wird wird im
-                                Namen und Auftrag des VOlkes durch getrennte ORgane auf in
-                                geordneter Verbindung ausgeübt. Das alle Gewalten verbindende Organg
-                                ist der Vollzugsausschuß (Staatsrat) der Nationalversammlung
-                                (Staatsrat).</del></p>
+                        <p type="legal_section"><del>Die öffentliche Gewalt <choice>
+                                    <del>darf nur auf die in dieser Verfassung festgesetzte Weise
+                                        ausgeübt werden</del>
+                                    <add>wird im Namen und Auftrag des Volkes</add>
+                                </choice>durch getrennte Organe auf in geordneter Verbindung
+                                ausgeübt. Das alle Gewalten verbindende Organg ist der
+                                Vollzugsausschuß <choice>
+                                    <del>(Staatsrat)</del>
+                                    <add>der Nationalversammlung (Staatsrat).</add>
+                                </choice></del></p>
                     </div>
                     <div type="section">
                         <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
@@ -950,8 +957,8 @@
                                         beschliesst das Volkshaus und der Senat seine Geschäfts- und
                                         Hausordnung selbständig. Die Wahlen zum Volkshause <del>und
                                             zu</del> finden am 1. Sonntag des Monates März statt.
-                                        Die Wahlen zum Senate am 3. Sonntag dieses [bricht
-                                    ab]</del></p>
+                                        Die Wahlen zum Senate am 3. Sonntag dieses<note
+                                            type="comment">bricht ab</note></del></p>
                             </div>
                         </div>
                     </div>
@@ -1005,7 +1012,7 @@
                             den Titel Staatsrat und ist als oberster Träger der Staatsgewalt
                             berufen, Gesetzgebung, Verwaltung, <del>und</del> Rechtspflege
                                 <del>einheitlich und stetig zusammenzufassen.</del> (und bewaffnete
-                            Macht in <del>P[?]</del> einträchtiger, stetiger Zusammenarbeit nach dem
+                            Macht in <del>st</del> einträchtiger, stetiger Zusammenarbeit nach dem
                             Willen des Volkes zu erhalten. Der Staatsrat übt <del>die Regierungs-
                                 und</del> Vollzugsgewalt durch die <del>Regier<choice>
                                     <sic/>
@@ -1015,7 +1022,7 @@
                             <fw type="pageNum">8 </fw></p>
                     </div>
                     <div type="article">
-                        <head>§19. </head>
+                        <head>§ 19. </head>
                         <p type="legal_section">Die Organe der Regierung sind der Staatskanzler und
                             die Staatssekretäre. Sie sind einzeln und gemeinsam <del>der</del> nach
                             dem besonderen Gesetze über die Ministerverantwortlichkeit der
@@ -1045,20 +1052,19 @@
                                 <p type="legal_section">Bis zur endgiltigen Abgrengung des
                                     Staatsgebietes (§5) und bis zum <del>Zus<choice>
                                             <sic/>
-                                            <corr>ammentritt?</corr>
+                                            <corr>ammentritt</corr>
                                         </choice></del> Tage, wo die konstituierende
                                     Nationalversammlung zusammentritt, bilden die in der nachstehend
                                     bezeichneten Wahlbezirken (Reichsratswahlordung) gewählten
                                     Reichsratsabgeordneten die <add>provisorische<choice>
                                             <sic>,</sic>
                                             <corr/>
-                                        </choice></add> Nationalversammlung von Südostdeuschland.
-                                </p>
+                                        </choice></add> Nationalversammlung von Südostdeuschland. </p>
                             </div>
                             <div type="article">
                                 <head>§ 23.</head>
                                 <p type="legal_section">Die konstituierende Nationalversammlung
-                                    besitzt die volle unbeschränkte und <del>?</del> unabängige<choice>
+                                    besitzt die volle unbeschränkte und <del>[unleserlich]</del> unabängige<choice>
                                         <del> Gesetzgebungsgewalt</del>
                                         <add> Gewalt</add>
                                     </choice> und Hoheit des Freistaates nach innen und außen. Sie
@@ -1074,7 +1080,7 @@
                                     <add>der</add> provisorische Nationalversammlung in <choice>
                                         <del>der</del>
                                         <add>ihrer</add>
-                                    </choice> nachstehend <del>f?</del> gegebenen Verfassung
+                                    </choice> nachstehend <del>fe</del> gegebenen Verfassung
                                     festgesetzt und kundgemacht. </p>
                             </div>
                             <div type="article">
@@ -1090,8 +1096,8 @@
                                         <del>welche</del>
                                         <add>die</add>
                                     </choice> die provisorische Nationalversammlung
-                                    <del>bi?</del>Zusammensetzung <add>bereits abgelaufen ist,</add>
-                                    und zur <del>leich?</del> Überleitung <del>aus</del> der
+                                    <del>lei</del>Zusammensetzung <add>bereits abgelaufen ist,</add>
+                                    und zur <del>leich</del> Überleitung <del>aus</del> der
                                     bestehenden Macht- und Rechtsverhältnisse<del>n</del>
                                     <add>in den künftigen Zustand</add>
                                     <del>erg<choice>
@@ -1611,9 +1617,7 @@
                                         <del>zu</del>
                                         <add>das Recht zu</add>
                                     </choice>, die inneren Einrichtungen des Landtages und des
-                                    Landes <add>durch
-                                        <?oxy_custom_start type="oxy_content_highlight" color="255,60,255"?>ein<?oxy_custom_end?>[?]
-                                        Landesstatut</add> autonom zu <choice>
+                                    Landes <add>durch ihr Landesstatut</add> autonom zu <choice>
                                         <del>zu regeln.</del>
                                         <add>ordnen.</add>
                                     </choice>
@@ -1652,8 +1656,8 @@
                                     Angelegenheiten der Gesetzgebung und Verwaltung, dem Volkshause <choice>
                                         <del>,</del>
                                         <add>und</add>
-                                    </choice> dem Staatsrate Anträge, Vorstellungen[?] und
-                                    Beschwerden zu unterbreiten. </p>
+                                    </choice> dem Staatsrate Anträge, Vorstellungen und Beschwerden
+                                    zu unterbreiten. </p>
                             </div>
                         </div>
                     </div>
@@ -1709,9 +1713,9 @@
                                 </choice> einfache Wahl <add>je zu zweit in die einzelnen
                                     Staatsratskommissionen</add> entsendet werden. </p>
                             <p type="legal_section">Das Wahlverfahren wie die
-                                    <del>Geschäftsvertretung</del> neuere[?] Einrichtung des
-                                Staatsrats wird durch das Gesetz über die Geschäftsanweisung für die
-                                des Staatsrat<add>s</add> geregelt. </p>
+                                    <del>Geschäftsvertretung</del> neuere Einrichtung des Staatsrats
+                                wird durch das Gesetz über die Geschäftsanweisung für die des
+                                    Staatsrat<add>s</add> geregelt. </p>
                         </div>
                         <div type="article">
                             <head>§ 42.</head>
@@ -1719,21 +1723,21 @@
                                     <add>früheren u<choice>
                                         <sic/>
                                         <corr>nd</corr>
-                                    </choice> neu[?] Treffen[?]</add> Mitglieder und Beisitzer
-                                    <del>des Staatsrats</del> und konstituieren unter <choice>
+                                    </choice> neu gewählten</add> Mitglieder und Beisitzer <del>des
+                                    Staatsrats</del> und konstituieren unter <choice>
                                     <del>dem</del>
-                                    <add>[?]</add>
+                                    <add>unleserlich</add>
                                 </choice> Vorsitz des Praesidenten des Volkshauses den Staatsrat,
                                 indem sie <choice>
                                     <del>dessen</del>
                                     <add>den</add>
                                 </choice> Praesidenten, <choice>
-                                    <del>dessen</del>
+                                    <del>dessen den</del>
                                     <add>und</add>
-                                </choice> den und Vizepraesidenten den Staatsrats, <del>den
-                                    Beanträger?</del> und den<pb facs="#facs_21" n="21"
+                                </choice>  Vizepraesidenten den Staatsrats, <del>den
+                                    Beanträger</del> und den<pb facs="#facs_21" n="21"
                                     xml:id="img_0021" break="yes"/><fw type="pageNum">21</fw>
-                                <add>jeden der</add> [?] Die Siegelbewahrer des <choice>
+                                <add>jeden der</add> Siegelbewahrer des <choice>
                                     <del>Staats</del>
                                     <add>Freistaats</add>
                                 </choice> bestellen. Hierauf übergibt überträgt der Praesident des
@@ -1792,9 +1796,9 @@
                                     </choice> den Leitern aller Commissionen</add> als <list>
                                     <label> 9.</label>
                                     <item> die Arbeitskommission mit der Aufgabe, die Geschäfte
-                                            <add>zweckmäßig[?]</add> auf die Commissionen zu
-                                        verteilen, deren Arbeiter in Einklang zu halten und den
-                                        Fortgang der Geschäfte<del>[?] zu</del> wahrzunehmen.</item>
+                                            <add>zweckmäßig</add> auf die Commissionen zu verteilen,
+                                        deren Arbeiter in Einklang zu halten und den Fortgang der
+                                            Geschäfte<del>ein Ar zu</del> wahrzunehmen.</item>
                                 </list></p>
                         </div>
                         <div type="article">
@@ -1830,7 +1834,7 @@
                             <head>§ 46.</head>
                             <p type="legal_section">Die unmittelbare Dienstgewalt über <choice>
                                     <sic>die Regierung</sic>
-                                    <corr>[Kurzschrift]</corr>
+                                    <corr>[unleserlich]</corr>
                                 </choice> übt der Staatsrat einzig aus allein durch die Person
                                 seines Praesidenten. <del>Dieser vollzieht die Ernennung des
                                     Staatskanzlers und der Staatssekretäre.</del> Weder der
@@ -1840,7 +1844,7 @@
                                 er zur Durchführung der Gesetze <choice>
                                     <del>durch</del>
                                     <add>an</add>
-                                </choice> Behörde und Ämter <add>[unleserlich]</add> erforderlich
+                                </choice> Behörden und Ämter <add>[unleserlich]</add> erforderlich
                                 hält, schriftlich an den Staatskanzler. Diese Anweisungen sind vom
                                 Praesidenten des Staatsrats und vom Leiter der an ihrer Verberatung
                                 beteiligte Commission zu fertigen. Staatskanzler, Staatssekretäre
@@ -2195,7 +2199,7 @@
                                 <add>bleibt</add>
                             </choice>
                             <del>die</del>
-                            <add>im Übrigen [?]</add>
+                            <add>im Übrigen</add>
                             <choice>
                                 <del>bisherigen</del>
                                 <add>bisherige</add>
@@ -2322,21 +2326,21 @@
                             </choice> jeden Gerichtsbezirk<add>s</add>. Diese Bezirksämter stehen
                             unter der Leitung des Amtmannes. Sie sind Teile des Kreisamts und ihm
                             gegenüber keine Instanz. Der Amtmann führt <del>die</del> Geschäfte
-                            einfacher oder dringlicher Art im Namen des Kreishauptmanns. [Fühlt sich
-                            eine Partei <choice>
-                                <del>gegen</del>
-                                <add>durch</add>
-                            </choice> eine Verfügung oder Entscheidung des Amtmanns beschwert, so
-                            steht ihr das Recht unmittelbar<del>er</del> persönlicher, mündlicher
-                            telephonischer <choice>
-                                <del>oder</del>
-                                <add>,</add>
-                            </choice> drahtlicher oder schriftlicher Vorstellung an den Amtschef zu.
-                            Erfolgt keine Vorstellung oder wird diese abgewiesen, so <choice>
-                                <del>geht</del>
-                                <add>gilt</add>
-                            </choice> die Verfügung oder Entscheidung als vom Kreisamt
-                            erflossen.]</p>
+                            einfacher oder dringlicher Art im Namen des Kreishauptmanns. <del>Fühlt
+                                sich eine Partei <choice>
+                                    <del>gegen</del>
+                                    <add>durch</add>
+                                </choice> eine Verfügung oder Entscheidung des Amtmanns beschwert,
+                                so steht ihr das Recht unmittelbar<del>er</del> persönlicher,
+                                mündlicher telephonischer <choice>
+                                    <del>oder</del>
+                                    <add>,</add>
+                                </choice> drahtlicher oder schriftlicher Vorstellung an den Amtschef
+                                zu. Erfolgt keine Vorstellung oder wird diese abgewiesen, so <choice>
+                                    <del>geht</del>
+                                    <add>gilt</add>
+                                </choice> die Verfügung oder Entscheidung als vom Kreisamt
+                                erflossen.</del></p>
                         <p type="legal_section">Die bestehenden Bezirkshauptmannschaften <del>und
                                 Bezirksvertretungen</del>werden aufgelassen, beziehungsweise in
                                 <add>die</add> Kreisregierung<add>en</add> und <add>teilweise in
@@ -2370,7 +2374,7 @@
                     <div type="article">
                         <pb facs="#facs_30" n="30" xml:id="img_0030" break="yes"/>
                         <head><choice>
-                                <del>§ 47 [?] § 58</del>
+                                <del>§ 47 § 58</del>
                                 <add>§ 62.</add>
                             </choice></head>
                         <head><choice>
@@ -2498,10 +2502,10 @@
                             erfolgt durch <choice>
                                 <del>die</del>
                                 <add>das</add>
-                            </choice> Justiz<choice>
-                                <del>commission</del>
-                                <add>kollegium</add>
-                            </choice> der Nationalversammlung <add>[unleserlich]</add> (§ 40)<choice>
+                            </choice> Justiz<del>commission</del><choice>
+                                <del>kollegium</del>
+                                <add>direktorium</add>
+                            </choice> der Nationalversammlung  (§ 40)<choice>
                                 <sic/>
                                 <corr>.</corr>
                             </choice></p>
@@ -2575,7 +2579,7 @@
                                 <add>§ 71.</add>
                             </choice></head>
                         <p type="legal_section">Die <choice>
-                                <del>gefä[?]</del>
+                                <del>gesamte</del>
                                 <add>wehrfähige</add>
                             </choice> Bürgerschaft des Staates wird nach dem von der
                             Nationalversammlung beschlossenen Wehrgesetze auf Grund der jährlich zu
@@ -2603,7 +2607,7 @@
                                 <add>§ 72.</add>
                             </choice></head>
                         <p type="legal_section">Der Oberbefehlshaber wird vom Heeres<choice>
-                                <del>kollegium[?]</del>
+                                <del>kollegium</del>
                                 <add>direktorium</add>
                             </choice><choice>
                                 <sic> und Gegenzeichnung des Staats ------</sic>
@@ -2651,7 +2655,7 @@
                                 <choice>
                                     <del>§60 </del>
                                     <add>§ 59</add>
-                                </choice>50 [?] früher 17 § <choice>
+                                </choice>60 früher 17 § <choice>
                                     <del>74</del>
                                     <add>75</add>
                                 </choice></item>
@@ -2666,7 +2670,7 @@
                             <item>
                                 <choice>
                                     <del>62</del>
-                                    <add>61[?]</add>
+                                    <add>61</add>
                                 </choice> früher 19 <choice>
                                     <del>73</del>
                                     <add>77</add>
@@ -2771,9 +2775,9 @@
                             </choice> Abgaben nutzbar<pb facs="#facs_36" n="36" xml:id="img_0036"
                                 break="yes"/><fw type="pageNum">22</fw> gemacht werden.<del> Diese
                                 Gesetze, Anordnungen und Beschlüsse unterliegen der Genehmigung der
-                                Natio[alversammlung?]</del> Die bezüglichen Gemeindebeschlüsse
-                            müssen vom Kreistage, die Anordnungen der Kreise vom Landtage, die
-                            Landesgesetze vom Staatsrat genehmigt werden. </p>
+                                Natio</del> Die bezüglichen Gemeindebeschlüsse müssen vom Kreistage,
+                            die Anordnungen der Kreise vom Landtage, die Landesgesetze vom Staatsrat
+                            genehmigt werden. </p>
                     </div>
                     <div type="article">
                         <head><choice>
@@ -2826,13 +2830,13 @@
                                 <corr>nd</corr>
                             </choice> Belastung des Staatsvermögens können nur im Wege des Gesetzes
                             erfolgen. Zur Überwachung der Staatsschuldengesetze ist das Staatsschulden<choice>
-                                <del>[?]</del>
+                                <del>unleserlich</del>
                                 <add>direktorium</add>
                             </choice> berufen. <add>(§ 40.)</add> Es besteht aus sieben Mitgliedern,
                             von denen vier aus dem Volkshaus und drei aus dem Senat berufen werden.
                             Der Staatssekretär des Schatzamts ist ständiger Berichterstatter<del>,
                                 jedoch</del> ohne Stimmrecht. Das Staatsschulden<choice>
-                                <del>[?]</del>
+                                <del>unleserlich</del>
                                 <add>direktorium</add>
                             </choice> ist ein Hilfsamt der Nationalversammlung. <choice>
                                 <del>Ihre</del>
