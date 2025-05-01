@@ -257,10 +257,9 @@
           <div type="article">
             <head>Artikel 3. </head>
             <p type="legal_section"><label>(1)</label> Das gesamte Bundesgebiet steht im Verhältnis
-              nach außen und im Verhaltnis der Länder zueinander unter dem Schutze des Bundes.<pb
-                facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
-              <fw type="pageNum">2</fw></p>
-            <p type="legal_section"><label>(2)</label> Eine Änderung des Bundesgebietes, die
+              nach außen und im Verhaltnis der Länder zueinander unter dem Schutze des Bundes.</p>
+            <p type="legal_section"><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
+              <fw type="pageNum">2</fw><label>(2)</label> Eine Änderung des Bundesgebietes, die
               zugleich eine Änderung eines Landesgebietes ist, ebenso die Änderung einer
               Landesgrenze innerhalb des Bundesgebietes kann - abgesehen von Friedensverträgen - nur
               durch übereinstimmende Verfassungsgesetze des Bundes und jenes Landes erfolgen, dessen
@@ -406,8 +405,9 @@
                   Schulwesens; </item>
                 <label>7.</label>
                 <item>das Gewerbewesen, die öffentlichen Agentien und die
-                    Privatgeschäftsvermittlung;<pb facs="#facs_6" n="6" xml:id="img_0006"
-                    break="yes"/><fw type="pageNum">5</fw></item>
+                  Privatgeschäftsvermittlung;</item>
+                <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+                <fw type="pageNum">5</fw>
                 <label>8.</label>
                 <item> hinsichtlich der öffentlichen Abgaben, die nicht ausschließlich oder
                   teilweise für den Bund eingehoben werden: die Anordnungen zur Verhinderung von
@@ -456,9 +456,9 @@
                 <label>4. </label>
                 <item> die Einrichtungen zum Schutze der Gesellschaft gegen verbrecherische,
                   verwahrloste oder sonst gefährliche Personen, wie Zwangsarbeits- und ähnliche
-                  Anstalten; die Abschiebung und Abschaffung aus einem in ein anderes Land;<pb
-                    facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum"
-                  >6</fw></item>
+                  Anstalten; die Abschiebung und Abschaffung aus einem in ein anderes Land;</item>
+                <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+                <fw type="pageNum">6</fw>
                 <label>5. </label>
                 <item>die öffentlichen Einrichtungen zur außergerichtlichen Vermittlung von
                   Streitigkeiten; </item>
@@ -652,10 +652,10 @@
                 um ein weiteres Mitglied. Auf kein Land darf jedoch mehr als ein Fünftel der
                 Gesamtzahl der Mitglieder entfallen. </p>
               <p type="legal_section"><label>(3)</label> Für jedes Mitglied wird ein Ersatzmann
-                bestellt. <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
-                <fw type="pageNum">10</fw></p>
-              <p type="legal_section"><label>(4)</label> Die Mitglieder des Bundesrates und deren
-                Ersatzmänner werden von den Landtagen aus ihrer Mitte nach dem Grundsatze der
+                bestellt. </p>
+              <p type="legal_section"><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
+                <fw type="pageNum">10</fw><label>(4)</label> Die Mitglieder des Bundesrates und
+                deren Ersatzmänner werden von den Landtagen aus ihrer Mitte nach dem Grundsatze der
                 Verhältniswahl gewählt. </p>
               <p type="legal_section"><label>(5)</label> Bei der Ausübung ihres Mandates sind die
                 Mitglieder des Bundesrates an keinen Auftrag gebunden. </p>
@@ -1809,10 +1809,9 @@
             <head>Artikel 135. </head>
             <p type="legal_section"><label>(1)</label> Wer durch schuldhafte, rechtswidrige Ausübung
               der öffentlichen Gewalt Schaden erleidet, hat Anspruch auf Entschädigung gegen den
-              Bund oder das Land, durch dessen Organ der Schaden zugefügt wurde.<pb facs="#facs_35"
-                n="35" xml:id="img_0035" break="yes"/>
-              <fw type="pageNum">34 </fw></p>
-            <p type="legal_section"><label>(2)</label> Die nähere Regelung erfolgt durch
+              Bund oder das Land, durch dessen Organ der Schaden zugefügt wurde.</p>
+            <p type="legal_section"><pb facs="#facs_35" n="35" xml:id="img_0035" break="yes"/>
+              <fw type="pageNum">34 </fw><label>(2)</label> Die nähere Regelung erfolgt durch
               Bundesgesetz. Dieses setzt auch fest, unter welchen Voraussetzungen ein
               Rückgriffsrecht gegen das schuldtragende Organ zulässig ist. </p>
           </div>

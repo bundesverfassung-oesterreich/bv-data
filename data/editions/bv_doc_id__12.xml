@@ -135,10 +135,10 @@
             <p type="legal_section"><label>(1)</label> Das Bundesgebiet umfaßt die Gebiete der Bundesländer.</p>
             <p type="legal_section"><label>(2)</label> Eine Änderung des Bundesgebietes, die
               zugleich Änderung eines Landesgebietes ist, ebenso die Änderung einer Landesgrenze
-              innerhalb des Bundesgebietes kann - abgesehen von Friedens
-              <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw type="pageNum"
-              >2</fw>verträgen - nur durch übereinstimmende Verfassungsgesetze des Bundes und jenes
-              Landes erfolgen, dessen Gebiet eine Änderung erfährt.</p>
+              innerhalb des Bundesgebietes kann - abgesehen von Friedens <pb facs="#facs_3" n="3"
+                xml:id="img_0003" break="no"/><fw type="pageNum">2</fw>verträgen - nur durch
+              übereinstimmende Verfassungsgesetze des Bundes und jenes Landes erfolgen, dessen
+              Gebiet eine Änderung erfährt.</p>
             <p type="legal_section"><label>(3)</label> Die für Niederösterreich-Land und Wien
               geltenden Sonderbestimmungen enthält das vierte Hauptstück.</p>
           </div>
@@ -184,8 +184,9 @@
               folgenden Angelegenheiten: <list>
                 <label>1. </label>
                 <item> Bundesverfassung, insbesondere Wahlen zum Nationalrat, Volksabstimmungen auf
-                  Grund der Bundesverfassung; Verfassungsgerichtsbarkeit;<pb facs="#facs_4" n="4"
-                    xml:id="img_0004" break="yes"/><fw type="pageNum">3</fw></item>
+                  Grund der Bundesverfassung; Verfassungsgerichtsbarkeit;</item>
+                <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
+                <fw type="pageNum">3</fw>
                 <label>2.</label>
                 <item> äußere Angelegenheiten mit Einschluß der politischen und wirtschaftlichen
                   Vertretung gegenüber dem Auslande, insbesondere Abschluß aller Staatsverträge;
@@ -231,8 +232,9 @@
                   kleingewerblichen Triebwerke; Normalisierung und Typisierung elektrischer Anlagen
                   und Einrichtungen, Sicherheitsmaßnahmen auf diesem Gebiete; Starkstromwegerecht,
                   soweit sich die Leitungsanlage auf zwei oder mehrere Länder erstreckt;
-                  Dampfkessel- und Kraftmaschinenwesen; Vermessungswesen;<pb facs="#facs_5" n="5"
-                    xml:id="img_0005" break="yes"/><fw type="pageNum">4</fw></item>
+                  Dampfkessel- und Kraftmaschinenwesen; Vermessungswesen;</item>
+                <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
+                <fw type="pageNum">4</fw>
                 <label>11.</label>
                 <item>Arbeiterrecht sowie Arbeiter- und Angestelltenschutz; Sozial- und
                   Vertragsversicherungswesen; </item>
@@ -282,8 +284,9 @@
                   zum Ausland oder zwischen den Ländern und Landesteilen, zur Verhinderung der
                   übermäßigen oder verkehrserschwerenden Belastung der Benutzung öffentlicher
                   Verkehrswege und Einrichtungen mit Gebühren und zur Verhinderung der Schädigung
-                  der Bundesfinanzen;<pb facs="#facs_5" n="5" xml:id="gq1_2sv_mbc" break="yes"/><fw
-                    type="pageNum">5</fw></item>
+                  der Bundesfinanzen;</item>
+                <pb facs="#facs_5" n="5" xml:id="gq1_2sv_mbc" break="yes"/>
+                <fw type="pageNum">5</fw>
                 <label>5. </label>
                 <item>Munitions-, Schieß- und Sprengmittelwesen, soweit es nicht dem Monopol
                   unterliegt, sowie Waffenwesen; Kraftfahrwesen; </item>
@@ -484,12 +487,15 @@
               <head>Artikel 27.</head>
               <p type="legal_section"><label>(1)</label> Der Nationalrat wird vom Bundesvolke auf Grund des gleichen, unmittelbaren, geheimen und persönlichen Wahlrechtes der Männer und Frauen, die vor dem 1.
                 Jänner des Jahres der Wahl das 20. Lebensjahr überschritten hatten, nach den Grundsätzen der Verhältniswahl gewählt.</p>
-              <p type="legal_section"><label>(2)</label> Das Bundesgebiet wird innerhalb der Landesgrenzen in räumlich geschlossene Wahlkreise geteilt. Die Zahl der Abgeordneten ist auf die Wahlberechtigten eines Wahlkreises (Wahlkörper) im Verhältnis der
-                Bürgerzahl der Wahlkreise, das ist der Zahl der Bundesbürger zu
-                verteilen, die nach dem Ergebnis der letzten Volkszählung in den
-                Wahlkreisen ihren ordentlichen Wohnsitz hatten. Eine Gliederung der Wählerschaft in andere Wahlkörper ist nicht zulässig  <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
-                <fw type="pageNum">10 </fw></p>
-              <p type="legal_section"><label>(3) </label> Der Wahltag muß ein Sonntag oder ein anderer öffentlicher Ruhetag sein.</p>
+              <p type="legal_section"><label>(2)</label> Das Bundesgebiet wird innerhalb der
+                Landesgrenzen in räumlich geschlossene Wahlkreise geteilt. Die Zahl der Abgeordneten
+                ist auf die Wahlberechtigten eines Wahlkreises (Wahlkörper) im Verhältnis der
+                Bürgerzahl der Wahlkreise, das ist der Zahl der Bundesbürger zu verteilen, die nach
+                dem Ergebnis der letzten Volkszählung in den Wahlkreisen ihren ordentlichen Wohnsitz
+                hatten. Eine Gliederung der Wählerschaft in andere Wahlkörper ist nicht zulässig </p>
+              <p type="legal_section"><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
+                <fw type="pageNum">10 </fw><label>(3) </label> Der Wahltag muß ein Sonntag oder ein
+                anderer öffentlicher Ruhetag sein.</p>
               <p type="legal_section"><label>(4)</label> Wählbar ist jeder Wahlberechtigte, der vor dem 1. Jänner des Jahres der Wahl das 24. Lebensjahr
                 überschritten hat.</p>
               <p type="legal_section"><label>(5)</label> Die Ausschließung vom Wahlrecht und von der Wählbarkeit kann nur die Folge einer gerichtlichen Verurteilung oder Verfügung sein.</p>
@@ -1232,8 +1238,8 @@
                 Industrie, Patentwesen, Schutz von Marken, Mustern und anderen Warenbezeichnungen,
                 Ingenieur- und Ziviltechnikerwesen, Verkehrswesen, Bundesstraßen, Strom- und
                 Schiffahrtspolizei, Post-, Telegraphen- und Fernsprechwesen, Bergwesen, Regulierung
-                und Instandhaltung von Gewässern, Bau und Instand¬ <pb facs="#facs_29" n="29"
-                  xml:id="img_0029" break="yes"/>
+                und Instandhaltung von Gewässern, Bau und Instand<pb facs="#facs_29" n="29"
+                  xml:id="img_0029" break="no"/>
                 <fw type="pageNum">28</fw> haltung von Wasserstraßen, hydrographischer Dienst,
                 Vermessungswesen, Arbeiterrecht, Arbeiter- und Angestelltenschutz,
                 Sozialversicherungswesen, Denkmalschutz, Bundespolizei, Bundesgendarmerie,
@@ -1638,8 +1644,9 @@
                   <label> b)</label>
                   <item> gegen die Mitglieder der Bundesregierung und die ihnen hinsichtlich der
                     Verantwortlichkeit gleichgestellten Organe wegen Gesetzesverletzung: durch
-                    Beschluß des Nationalrates;<pb facs="#facs_38" n="38" xml:id="img_0038"
-                      break="yes"/><fw type="pageNum">37</fw></item>
+                    Beschluß des Nationalrates;</item>
+                  <pb facs="#facs_38" n="38" xml:id="img_0038" break="yes"/>
+                  <fw type="pageNum">37</fw>
                   <label>c) </label>
                   <item>gegen die Mitglieder einer Landesregierung und die ihnen hinsichtlich der
                     Verantwortlichkeit durch die Landesverfassung gleichgestellten Organe wegen
