@@ -103,10 +103,11 @@
                 <date notBefore-iso="1920-08-18" notAfter-iso="1920-08-18"> 18. August 1920 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="structured">
+        <revisionDesc status="text_correct">
             <change when="2024-10-29" who="#cfh">document automatically created</change>
             <change when="2024-11-07" who="#n_zügel">JK: text replaced/Ermacora 1967</change>
             <change when="2025-01-24" who="#m_huber">Elias: text structured</change>
+            <change when="2025-05-02" who="#e_kordt">Text gegengelesen</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -300,7 +301,7 @@
                         <emph>Danneberg</emph> als unannehmbar vom Standpunkte seiner Partei; er
                     bittet um prinzipielle Abstimmung über die einschlägigen Bestimmungen des
                     sozialdemokratischen Verfassungsantrages. Hiegegen wendet sich jedoch unter
-                    Hinweis auf den beschränkten Wirkungskreis des Bundes <del>Prof.</del> Dr.
+                    Hinweis auf den beschränkten Wirkungskreis des Bundes Prof. Dr.
                         <emph>Seipel</emph>. Abg. <emph>Clessin</emph> meint dem
                     sozialdemokratischen Standpunkt bei Wahrung des föderalistischen Grundgedankens
                     entgegenzukommen, indem er die Erhöhung der Grundzahl der Mandate eines
@@ -550,106 +551,117 @@
                     Gesetz über die Staatsregierung ist unter Staatsregierung dasselbe wie unter
                     Gesamtregierung zu verstehen. Leider ist im Art. 14 des Gesetzes über die
                     Volksvertretung ein Redaktionsfehler unterlaufen, indem dort von der „gesamten
-                    Staatsregierung“ die Rede ist. Daraus ist zu folgern versucht worden, daß unter
-                    Staatsregierung nicht die Gesamtregierung zu verstehen sei.</p>
-                <p>In den altösterreichischen Gesetzen ist unter der Regierung nicht die
+                    Staatsregierung“ die Rede ist. <choice>
+                        <del>hiedurch</del>
+                        <add>Daraus</add>
+                    </choice> ist zu folgern versucht worden, dass unter Staatsregierung nicht die
+                    Gesamtregierung zu verstehen sei.</p>
+                <p>In <choice>
+                        <del>allen</del>
+                        <add>den</add>
+                    </choice>
+                    <add>alt</add>österreichischen Gesetzen ist unter der Regierung nicht die
                     Gesamtregierung verstanden worden, sondern der einzelne Minister, also ein Organ
                     der Regierung. Daraus leitet sich die Fakultät einzelner Ministerien ab, auf
-                    Grund des Ermächtigungsgesetzes Verordnungen Vollzugsanweisungen zu
-                    erlassen.</p>
-                <p>Präsident Seitz mißt dem besondere Bedeutung bei, da sehr viele Vorschläge
-                    einzelner Staatssekretäre einlaufen und zwar im Verfolg der Praxis, die in
-                    Altösterreich bestanden. Der einzelne Staatssekretär betrachtet sich als
-                    Nachfolger des früheren Ministers. Öhne Rücksicht darauf, ob es praktisch ist,
+                    Grund des Ermächtigungsgesetzes <add>Verordnungen</add>
+                    <add>(</add>Vollzugsanweisungen<add>)</add> zu erlassen.</p>
+                <p>Präsident <emph>Seitz</emph> misst dem besondere Bedeutung bei, da sehr viele
+                    Vorschläge einzelner Staatssekretäre einlaufen und zwar im Verfolg der Praxis,
+                    die in Altösterreich bestanden. Der einzelne Staatssekretär betrachtet sich als
+                    Nachfolger des früheren Ministers. Ohne Rücksicht darauf, ob es praktisch ist,
                     jeden Vorschlag von der Gesamtregierung erstatten zu lassen, müsse dies doch an
                     irgend einer Stelle genau umschrieben werden. Allerdings wäre es eine schwere
-                    Belastung für den Kabinettsri und die Verlesung der zahlreichen Vorschläge würde
-                    zu einer Formalität herabsinken.</p>
-                <p>Der Vorsitzende findet, daß mit den Worten „oder des von dieser hiezu
+                    Belastung für den Kabinettsrat und die Verlesung der zahlreichen Vorschläge
+                    würde zu einer Formalität herabsinken.</p>
+                <p>Der Vorsitzende findet, dass mit den <add>Worten</add> „oder des von dieser hiezu
                     ermächtigten zuständigen Bundesministers“ in Abs. 4 des Art. 55 hinreichende
                     Klarheit geschaffen sei.</p>
                 <p>Nachdem nunmehr der Wirkungskreis des Bundespräsidenten festgestellt ist, erklärt
-                    Prof. Dr. Seipel, daß er zwar prinzipiell für die Volksabstimmung sei, aber mit
-                    Rücksicht auf die Kompetenz des Präsidenten davon ab<pb facs="#facs_15" n="15"
-                        xml:id="img_0015" break="yes"/>
-                    <fw type="pageNum">- 14 -</fw> stehen könne. Der Unterausschuß beschließt
-                    hierauf nach einem Referate Dr. Dannebergs, daß der Präsident durch
-                    Zusammentretung des Bundesrates und des Bundestages (Nationalrates) gewählt
-                    wird.</p>
+                    Prof. Dr. <emph>Seipel</emph>, daß er zwar prinzipiell für die Volksabstimmung
+                    sei, aber mit Rücksicht auf die Kompetenz des Präsidenten davon ab<pb
+                        facs="#facs_15" n="15" xml:id="img_0015" break="no"/>
+                    <fw type="pageNum">- 14 -</fw>stehen könne. Der Unterausschuss beschließt
+                    hierauf nach einem Referate Dr. <emph>Dannebergs</emph>, dass der Präsident
+                    durch Zusammentretung des Bundesrates und des Bundestages (Nationalrates)
+                    gewählt wird.</p>
                 <p>Zwecks Vermeidung der Unklarheit, die durch den Gleichklang der Worte Bundestag
                     und Bundesrat entsteht, beschließt der Unterausschuß nach längerer Wechselrede,
-                    an der sich Staatssekretär Dr. Mayr, die Abgeordneten Fink und Seipel sowie
-                    Prof. Dr. Kelsen beteiligen, den Namen Bundesrat beizubehalten, jedoch die aus
-                    dem Gesamtvolke gewählte Körperschaft nicht Bundestag, sondern „Nationalrat“ zu
-                    benennen.</p>
-                <p>Bei Beratung des zweiten Abschnittes des Linzer Entwurfes: „Von der Gesetzgebung
-                    des Bundes — der Nationalrat“, wird Art. 15 in folgendem Wortlaut angenommen:
-                    „Die gesetzgebende Gewalt des Bundes übt der vom ganzen Bundesvolk gewählte
+                    an der sich Staatssekretär Dr. <emph>Mayr</emph>, die Abgeordneten
+                        <emph>Fink</emph> und <emph>Seipel</emph> sowie Prof. Dr.
+                        <emph>Kelsen</emph> beteiligen, den Namen Bundesrat beizubehalten, jedoch
+                    die aus dem Gesamtvolke gewählte Körperschaft nicht Bundes<choice>
+                        <sic>rat</sic>
+                        <corr>tag</corr>
+                    </choice>, sondern „<emph>Nationalrat</emph>“ zu benennen.</p>
+                <p>Bei Beratung des zweiten Abschnittes des Linzer Entwurfes: Von der Gesetzgebung
+                    des Bundes. wArdDer Nationalrat, wird Art. 15 in folgendem Wortlaut angenommen:
+                    "Die gesetzgebende Gewalt des Bundes übt der vom ganzen Bundesvolk gewählte
                     Nationalrat gemeinsam mit dem von den Landtagen gewählten Bundesrate aus."</p>
                 <p>Art. 16 wird ebenfalls im Wortlaute des Linzer Entwurfes mit Abänderung des
                     Wortes Bundestag in Nationalrat angenommen, jedoch melden die
                     sozialdemokratischen Abgeordneten gegen den zweiten Absatz ein Minoritäsvotum
                     an.</p>
                 <p>Zur Besprechung des Wirkungskreises der Bundesversammlung wählt Dr. Danneberg als
-                    Grundlage den Art. 70 des Entwurfes Dr. Renners, wobei Abg. Dr. Seipel darauf
-                    aufmerksam macht, daß bei den Linzer Beratungen von einer „Bundesversammlung“
-                    noch nicht die Rede gewesen sei, sodaß seine Partei erst jetzt hiezu Stellung
-                    nehmen könne. Die Fassung des Abs. 1 Punkt 1 wird in folgender Formulierung
-                    angenommen:</p>
+                    Grundlage den Art. 70 des Entwurfes Dr. Renners, wobei Abg. Dr.
+                        <emph>Seipel</emph> darauf aufmerksam macht, dass bei den Linzer Beratungen
+                    von einer „Bundesversammlung“ noch nicht die Rede gewesen sei, sodass seine
+                    Partei erst jetzt hiezu Stellung nehmen könne. Die Fassung des Abs. 1, Punkt 1
+                    wird in folgender Formulierung angenommen:</p>
                 <quote>
                     <p>„Nationalrat und Bundesrat treten zu gemeinsamer Sitzung an dem Sitze des
                         Nationalrates zusammen:</p>
                     <p>1. zur Wahl des Bundespräsidenten und dessen Angelobung.“</p>
                 </quote>
                 <p><pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>
-                    <fw type="pageNum">- 15 -</fw> Da sich, wie Abg. Dr. Seipel betont, die Wahl des
-                    Bundespräsidenten von jeder anderen Wahl unterscheiden soll, wird Punkt 2 des
-                    Art. 70 (Dr. Renner) gestrichen. Die Wahl des Präsidenten des
-                    Staatsrechnungshofes hier zu erwähnen, erklärt Abg. Fink als unnötig, da es in
-                    Art. 99 des Linzer Entwurfes heißt: Der Rechnungshof untersteht unmittelbar dem
-                    Bundesrate und dem Nationalrate. Der Präsident wird vom Nationalrate gewählt,
-                    die Wahl bedarf der Genehmigung des Bundesrates. Dies wird als genügend
-                    befunden.</p>
-                <p>In weiterer Erörterung des Renner’schen Entwurfes erklärt Dr. Seipel, daß die
-                    Kriegserklärung aus optischen Gründen möglichst zu erschweren sei. Immerhin
-                    bedarf die Frage einer Regelung in der Verfassung. Der Unterausschuß nimmt
-                    daraufhin den prinzipiellen Antrag an, daß die Bundesversammlung zur
-                    Beschlußfassung über die Kriegserklärung kompetent sei.</p>
-                <p>Die Frage der Öffentlichkeit der Verhandlungen der Bundesversammlung ist laut
-                    Beschluß des Unterausschusses wie beim Bundesrate zu regeln. Ferner wird
+                    <fw type="pageNum">- 15 -</fw> Da sich, wie Abg. Dr. <emph>Seipel</emph> betont,
+                    die Wahl des Bundespräsidenten von jeder anderen Wahl unterscheiden soll, wird
+                    Pkt. 2 des Art. 70 (Dr. Renner) gestrichen. Die Wahl des Präsidenten des
+                    Staatsrechnungshofes hier zu erwähnen, erklärt Abg. <emph>Fink</emph> als
+                    unnötig, da es in Art. 99 des Linzer Entwurfes heisst: Der Rechnungshof
+                    untersteht unmittelbar dem Bundesrate und dem Nationalrate. Der Präsident wird
+                    vom Nationalrate gewählt, die Wahl bedarf der Genehmigung des Bundesrates. Dies
+                    wird als genügend befunden.</p>
+                <p>In weiterer Erörterung des Renner’schen Entwurfes erklärt Dr.
+                    <emph>Seipel</emph>, dass die Kriegserklärung aus optischen Gründen möglichst zu
+                    erschweren sei. Immerhin bedarf die Frage einer Regelung in der Verfassung. Der
+                    Unterausschuss nimmt daraufhin den prinzipiellen Antrag an, dass die
+                    Bundesversammlung zur Beschlussfassung über die Kriegserklärung kompetent
+                    sei.</p>
+                <p>Die Frage der Oeffentlichkeit der Verhandlungen der Bundesversammlung ist laut
+                    Beschluss des Unterausschusses wie beim Bundesrate zu regeln. Ferner wird
                     beschlossen: Der Nationalrat und der Bundesrat beraten die zu entscheidenden
-                    Dinge gesondert und treten bloß zum Zwecke der Abstimmung zusammen.</p>
-                <p>Die Staatskanzlei wird ersucht, die Formulierung über folgende Fragen vorzulegen:
-                    Wer beruft die Bundesversammlung ein? Sind die Beratungen öffentlich?
-                    Geschäftsordnung (etwa des Nationalrates) abwechselnder Vorsitz der beiden
+                    Dinge gesondert und treten bloss zum Zwecke der Abstimmung zusammen.</p>
+                <p>Die Staatskanzlei wird ersucht, die Formulierung vorzulegen, über folgende
+                    Fragen: Wer beruft die Bundesversammlung ein ? Sind die Beratungen öffentlich ?
+                    Geschäftsordnung (etwa des Nationalrates), abwechselnder Vorsitz der beiden
                     Präsidenten. Die Einberufung erfolgt für den Fall der Wahl durch den
                     Bundeskanzler, für den Fall der Abberufung oder einer Verfolgung des Präsidenten
-                    müßte die Einberufung auf Beschluß eines der beiden Häuser, im Falle der
-                    Kriegserklärung über Antrag des Bundesdespräsidenten erfolgen.</p>
+                    müsste die Einberufung auf Beschluss eines der beiden Häuser, im Falle der
+                    Kriegserklärung über Auftrag des Bundesdespräsidenten erfolgen.</p>
                 <p><pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>
                     <fw type="pageNum">- 16 -</fw> Der Vorschlag des Berichterstatters Dr.
-                    Danneberg, die Wahl des Bundespräsidenten im Sinne des Art. 71 des Antrags Dr.
-                    Renner zu regeln, wird abgelehnt. Angenommen wird die Fassung des Art. 49
-                    (Linzer Entwurf):</p>
+                        <emph>Danneberg</emph>, die Wahl des Bundespräsidenten im Sinne des Art. 71
+                    des Antrags Dr. Renner zu regeln, wird abgelehnt. Angenommen wird die Fassung
+                    des Art. 49 (Linzer Entwurf):</p>
                 <quote>
                     <p>„(1) Der Bundespräsident wird von der Bundesversammlung gewählt.</p>
-                    <p>(2) Sein Amt dauert ... Jahre. Einmalige Wiederwahl ist zulässig."</p>
+                    <p>(2) Sein Amt dauert ...... Jahre. Einmalige Wiederwahl ist zulässig."</p>
                 </quote>
-                <p>Die Zahl der Jahre bleibt über Antrag Dr. Dannebergs offen; über seinen Antrag
-                    wird das Wort „einmalige“ vor Wiederwahl eingeschaltet.</p>
+                <p>Die Zahl der Jahre bleibt über Antrag Dr. <emph>Dannebergs</emph> offen; über
+                    seinen Antrag wird das Wort „einmalige“ vor Wiederwahl eingeschaltet.</p>
                 <p>Die Voraussetzungen des passiven Wahlrechtes wird die Staatskanzlei bis zur
-                    nächsten Sitzung formulieren, eine Fassung über den Ausschluß der Mitglieder des
-                    Hauses Habsburg-Lothringen von der Wählbarkeit zum Bundespräsidenten wird Dr.
-                    Danneberg vorlegen.</p>
+                    nächsten Sitzung formulieren, eine Fassung über den Ausschluss der Mitglieder
+                    des Hauses Habsburg-Lothringen von der Wählbarkeit zum Bundespräsidenten wird
+                    Dr. <emph>Danneberg</emph> vorlegen.</p>
                 <p>Abs. 5 des Art. 49 wird gestrichen.</p>
                 <p>Die Staatskanzlei wird ferner ersucht, die Frage der Wahl (Majoritätsprinzip,
-                    System der mehreren Wahlgänge?) in einem Entwurfe zu behandeln.</p>
+                    System der mehreren Wahlgänge ? ) in einem Entwurfe zu behandeln.</p>
                 <p>Art. 50 wird in der Fassung des Linzer Entwurfes angenommen.</p>
-                <p>Da Abg. Dr. Eisler das Referat über die Frage des Verhältnisses zwischen Ländern
-                    und Gemeinde und über die Verwaltungsreform niedergelegt hat, wird über
-                    Vorschlag des Vorsitzenden Abg. Abram mit dem Referate für die nächste Sitzung
-                    betraut. Die nächste Sitzung findet Freitag, den 20. August, 10 Uhr Vormittag
-                    statt.</p>
+                <p>Da Abg. Dr. <emph>Eisler</emph> das Referat über die Frage des Verhältnisses
+                    zwischen Ländern und Gemeinde und über die Verwaltungsreform niedergelegt hat,
+                    wird über Vorschlag des Vorsitzenden Abg. <emph>Abram</emph> mit dem Referate
+                    für die nächste Sitzung betraut. Die nächste Sitzung findet Freitag, den 20.
+                    August, 10.Uhr Vormittag statt.</p>
             </div>
         </body>
     </text>
