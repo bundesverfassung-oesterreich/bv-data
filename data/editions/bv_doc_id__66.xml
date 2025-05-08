@@ -191,23 +191,48 @@
                         <p>In formaler Beziehung wolle dieser Antrag dem Verfassungsausschusse
                               zugewiesen werden.</p>
                         <p> Wien, 14. Mai 1919. </p>
-                        <p>Schoepfer. Dr. M. Mayr. P. Unterkircher. Dr. Gimpl. Seipel. F.
-                              Födermayer. Dr. Anton Maier. Miklas. Stumpf. Paulitsch. Steinegger.
-                              Dr. Ramek. Dr. Mataja. Dr. E. Schneider. Christian Fischer. Dr. Resch.
-                              Scharfegger. Dr. Hildegarde Burjan. Alois Haueis. Dr. M. Schmied.
-                              Hollersbacher. Kasparl Hosch. Wolfgang Edlinger. Friedrich Kocher.
-                              Schönsteiner. Karl Lieschnegg. Dr. Reut-Nicolussi. Leopold Kunschak.
-                              Luchner. </p>
+                        <p><list>
+                                    <item>Schoepfer. </item>
+                                    <item> Dr. M. Mayr. P. Unterkircher. </item>
+                                    <item> Dr. Gimpl. Seipel.  </item>
+                                    <item>F. Födermayer. </item>
+                                    <item> Dr. Anton Maier. </item>
+                                    <item>Miklas. </item>
+                                    <item>Stumpf. </item>
+                                    <item> Paulitsch. </item>
+                                    <item> Steinegger. </item>
+                                    <item>Dr. Ramek. </item>
+                                    <item>Dr. Mataja. </item>
+                                    <item>Dr. E. Schneider. </item>
+                                    <item>Christian Fischer. </item>
+                                    <item> Dr. Resch.  </item>
+                                    <item>Scharfegger.  </item>
+                                    <item>Dr. Hildegarde Burjan.  </item>
+                                    <item>Alois Haueis. </item>
+                                    <item> Dr. M. Schmied. </item>
+                                    <item> Hollersbacher. </item>
+                                    <item>Kasparl Hosch.  </item>
+                                    <item>Wolfgang Edlinger. </item>
+                                    <item>Friedrich Kocher.  </item>
+                                    <item>Schönsteiner. </item>
+                                    <item>Karl Lieschnegg.  </item>
+                                    <item>Dr. Reut-Nicolussi. </item>
+                                    <item> Leopold Kunschak. </item>
+                                    <item> Luchner.  </item>
+                              </list>
+                        </p>
                         <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
                         <fw type="pageNum">3</fw>
                         <head>Verfassung des deutschen Bundesfreistaates Österreich. </head>
-                        <p type="legal_section">Wir freien Völker der selbständigen Länder
-                              Österreich nid der Enns, Österreich ob der Enns, Salzburg, Steiermark,
-                              Kärnten, Tirol, Vorarlberg, Heinzenland und der Freistaat Wien
-                              schließen uns aus eigenem Antrieb und aus freiem Entschluß zum
-                              deutschen Bundesfreistaat Österreich zusammen und geben uns im
-                              Vertrauen aus Gottes gnädigen Beistand nachstehende
-                                    <emph>Verfassung</emph>.</p>
+                        <div type="preamble">
+                              <p type="legal_section">Wir freien Völker der selbständigen Länder
+                                    Österreich nid der Enns, Österreich ob der Enns, Salzburg,
+                                    Steiermark, Kärnten, Tirol, Vorarlberg, Heinzenland und der
+                                    Freistaat Wien schließen uns aus eigenem Antrieb und aus freiem
+                                    Entschluß zum deutschen Bundesfreistaat Österreich zusammen und
+                                    geben uns im Vertrauen aus Gottes gnädigen Beistand nachstehende
+                                          <emph>Verfassung</emph>.</p>
+                        </div>
                         <div type="section">
                               <head> I. Abschnitt. </head>
                               <head>Umfang und Zweck.</head>
@@ -417,9 +442,10 @@
                                                   Musterschutz, der Schutz des geistigen Eigentums,
                                                   das Münz- und Währungswesen, die Bundesbank, das
                                                   Punzierungswesen, Maß und Gewicht, das
-                                                  Zollwesen;<pb facs="#facs_8" n="8"
-                                                  xml:id="img_0008" break="yes"/><fw type="pageNum"
-                                                  >7</fw></item>
+                                                  Zollwesen;</item>
+                                                <pb facs="#facs_8" n="8" xml:id="img_0008"
+                                                  break="yes"/>
+                                                <fw type="pageNum">7</fw>
                                                 <label>l) </label>
                                                 <item>das Verkehrswesen, die Eisenbahnen,
                                                   Schifffahrt und Luftschiffahrt, Post, Telegraph,
@@ -696,16 +722,16 @@
                                                   beider Kammern, die Zeichnung durch den
                                                   Präsidenten des Bundesfreistaates und die
                                                   Gegenzeichnung der Bundesregierung sowie die
-                                                  Kundmachung erforderlich.<pb facs="#facs_12"
-                                                  n="12" xml:id="img_0012" break="yes"/><fw
-                                                  type="pageNum">11</fw></p>
-                                                <p type="legal_section"><label>(2)</label> Kann in
-                                                  einem Finanzgesetz über einzelne Posten desselben
-                                                  oder im Rekrutengesetz über die Höhe des
-                                                  auszuhebenden Kontingents trotz wiederholter
-                                                  Beratung keine Übereinstimmung zwischen beiden
-                                                  Kammern erzielt werden, so gilt die kleinere
-                                                  Ziffer als genehmigt.</p>
+                                                  Kundmachung erforderlich.</p>
+                                                <p type="legal_section"><pb facs="#facs_12" n="12"
+                                                  xml:id="img_0012" break="yes"/><fw type="pageNum"
+                                                  >11</fw><label>(2)</label> Kann in einem
+                                                  Finanzgesetz über einzelne Posten desselben oder
+                                                  im Rekrutengesetz über die Höhe des auszuhebenden
+                                                  Kontingents trotz wiederholter Beratung keine
+                                                  Übereinstimmung zwischen beiden Kammern erzielt
+                                                  werden, so gilt die kleinere Ziffer als
+                                                  genehmigt.</p>
                                                 <p type="legal_section"><label>(3) </label>Wenn
                                                   bezüglich anderer Beschlüsse einer Kammer trotz
                                                   zweimaliger Beratung in jeder Kammer die
@@ -765,13 +791,13 @@
                                                 <p type="legal_section"><label>(1)</label> Die
                                                   Mandate der Mitglieder der Volksvertretung
                                                   erlöschen mit dem Wahltage für die kommende
-                                                  Wahlperiode.<pb facs="#facs_13" n="13"
+                                                  Wahlperiode.</p>
+                                                <p type="legal_section"><pb facs="#facs_13" n="13"
                                                   xml:id="img_0013" break="yes"/><fw type="pageNum"
-                                                  >12</fw></p>
-                                                <p type="legal_section"><label>(2)</label> In
-                                                  welchen Fällen während der Dauer der Wahlperiode
-                                                  Nachwahlen vorzunehmen sind, bestimmt das
-                                                  Wahlgesetz zur Volksvertretung. </p>
+                                                  >12</fw><label>(2)</label> In welchen Fällen
+                                                  während der Dauer der Wahlperiode Nachwahlen
+                                                  vorzunehmen sind, bestimmt das Wahlgesetz zur
+                                                  Volksvertretung. </p>
                                                 <p type="legal_section"><label>(3)</label> Wenn das
                                                   Volk die Totalrevision der Bundesverfassung
                                                   fordert, wird die Volksvertretung auch vor Ablauf
@@ -835,7 +861,7 @@
                                                 <p type="legal_section">Die Sitzungen beider Kammern
                                                   sind in der Regel öffentlich. Zur Ausschließung
                                                   der Öffentlich<pb facs="#facs_14" n="14"
-                                                  xml:id="img_0014" break="yes"/>
+                                                  xml:id="img_0014" break="no"/>
                                                   <fw type="pageNum">13</fw> keit ist ein besonderer
                                                   Beschluß der betreffenden Kammer erforderlich. </p>
                                           </div>
@@ -970,9 +996,10 @@
                                                   <label>b) </label>
                                                   <item>die Ernennung und Abberufung der
                                                   diplomatischen tischen und kommerziellen Vertreter
-                                                  im Auslande;<pb facs="#facs_16" n="16"
-                                                  xml:id="img_0016" break="yes"/><fw type="pageNum"
-                                                  >15</fw></item>
+                                                  im Auslande;</item>
+                                                  <pb facs="#facs_16" n="16" xml:id="img_0016"
+                                                  break="yes"/>
+                                                  <fw type="pageNum">15</fw>
                                                   <label> c) </label>
                                                   <item>die Zeichnung der Bundesgesetze und
                                                   Beschlüsse (Artikel 27); </item>
@@ -1037,7 +1064,7 @@
                                           <p type="legal_section">Wenn die Volksvertretung auf
                                                 Vorschlag des Präsidenten des Bundesfreistaates die
                                                   Bundes<pb facs="#facs_17" n="17" xml:id="img_0017"
-                                                  break="no"/><fw type="pageNum">16</fw> regierung
+                                                  break="no"/><fw type="pageNum">16</fw>regierung
                                                 oder einzelne Mitglieder derselben abberuft, so
                                                 bestimmt der Präsident des Bundesfreistaates, wer
                                                 deren Aufträge und Vollmachten bis zur Bestellung
@@ -1103,14 +1130,14 @@
                                                 Bundesregierung binnen vierzehn Tagen nach Einlangen
                                                 der Mitteilung (Artikel 47) beim
                                                 Verfassungsgerichtshof angefochten werden,
-                                                  gleichwie<pb facs="#facs_18" n="18"
+                                                gleichwie</p>
+                                          <p type="legal_section"><pb facs="#facs_18" n="18"
                                                   xml:id="img_0018" break="yes"/><fw type="pageNum"
                                                   >17</fw>
-                                          </p>
-                                          <p type="legal_section"><label>(2)</label> jene
-                                                Gesetzesbeschlüsse, die ein Landtag entgegen der
-                                                Vorstellung seitens der Bundesregierung ein zweites
-                                                Mal zum Beschluß erhebt (Artikel 47, 2. Absatz). </p>
+                                                <label>(2)</label> jene Gesetzesbeschlüsse, die ein
+                                                Landtag entgegen der Vorstellung seitens der
+                                                Bundesregierung ein zweites Mal zum Beschluß erhebt
+                                                (Artikel 47, 2. Absatz). </p>
                                           <p type="legal_section"><label>(3)</label> Die Anfechtung
                                                 ist der Landesregierung unverzüglich mitzuteilen. </p>
                                           <p type="legal_section"><label>(4)</label> Die Kundmachung

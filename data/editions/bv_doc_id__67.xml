@@ -157,13 +157,13 @@
                                     <p type="legal_section"><label>(1)</label> Das gesamte
                                           Bundesgebiet steht im Verhältnis nach außen und im
                                           Verhaltnis der Länder zueinander unter dem Schutze des
-                                                Bundes.<fw type="pageNum">1</fw><pb facs="#facs_3"
-                                                n="3" xml:id="img_0003" break="yes"/><fw
-                                                type="pageNum">2</fw></p>
-                                    <p type="legal_section"><label>(2) </label>Eine Änderung des
-                                          Bundesgebietes, die zugleich eine Änderung eines
-                                          Landesgebietes ist, ebenso die Änderung einer Landesgrenze
-                                          innerhalb des Bundesgebietes kann nur durch
+                                          Bundes.</p>
+                                    <p type="legal_section"><fw type="pageNum">1</fw><pb
+                                                facs="#facs_3" n="3" xml:id="img_0003" break="yes"
+                                                /><fw type="pageNum">2</fw><label>(2) </label>Eine
+                                          Änderung des Bundesgebietes, die zugleich eine Änderung
+                                          eines Landesgebietes ist, ebenso die Änderung einer
+                                          Landesgrenze innerhalb des Bundesgebietes kann nur durch
                                           übereinstimmende Verfassungsgesetze des Bundes und jenes
                                           Landes erfolgen, dessen Gebiet eine Änderung erfährt. </p>
                               </div>
@@ -354,12 +354,11 @@
                                                   Kurorte-, Leichen- und Begräbniswesens sowie des
                                                   Gemeindesanitätsdienstes- und Rettungswesens; die
                                                   Bevölkerungspolitik, die Mutterschafts-,
-                                                  Säuglings¬<pb facs="#facs_6" n="6"
+                                                  Säuglings-<pb facs="#facs_6" n="6"
                                                   xml:id="img_0006" break="yes"/><fw type="pageNum"
                                                   >5</fw> und Jugendfürsorge sowie das
                                                   Volkswohnungs- und Volkspflegestättenwesen; das
-                                                  Veterinärwesen und die Tierseuchenbekämpfung.
-                                                </item>
+                                                  Veterinärwesen und die Tierseuchenbekämpfung. </item>
                                           </list></p>
                               </div>
                               <div type="article">
@@ -750,7 +749,7 @@
                                           <head>Artikel 37. </head>
                                           <p type="legal_section">Jeder Gesetzesbeschluß des
                                                 Bundestages ist unverzüglich durch den Präsidenten
-                                                des Bundes¬<pb facs="#facs_12" n="12"
+                                                des Bundes<pb facs="#facs_12" n="12"
                                                   xml:id="img_0012" break="no"/><fw type="pageNum"
                                                   >11</fw>tages dem Bundeskanzler zu übermitteln,
                                                 der ihn sofort dem Bundesrat zur Genehmigung
@@ -1470,12 +1469,12 @@
                                     <p type="legal_section"><label>(3)</label> Die Mitglieder der
                                           Landesregierung müssen nicht dem Landtage angehören.
                                           Jedoch kann in die Landesregierung nur gewählt werden, wer
-                                          zum Landtage wählbar ist.<pb facs="#facs_23" n="23"
+                                          zum Landtage wählbar ist.</p>
+                                    <p type="legal_section"><pb facs="#facs_23" n="23"
                                                 xml:id="img_0023" break="yes"/><fw type="pageNum"
-                                                >22</fw></p>
-                                    <p type="legal_section"><label>(4)</label> Der Landeshauptmann
-                                          und sein Stellvertreter werden durch den Bundespräsidenten
-                                          auf die Bundesverfassung beeidet. </p>
+                                                >22</fw><label>(4)</label> Der Landeshauptmann und
+                                          sein Stellvertreter werden durch den Bundespräsidenten auf
+                                          die Bundesverfassung beeidet. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 90. </head>
@@ -1587,10 +1586,10 @@
                                           untersteht unmittelbar dem Bundestag und dem Bundesrat. </p>
                                     <p type="legal_section"><label>(2)</label> Der Rechnungshof
                                           besteht aus einem Präsidenten und den erforderlichen
-                                          Beamten und Hilfskräften.<pb facs="#facs_25" n="25"
+                                          Beamten und Hilfskräften.</p>
+                                    <p type="legal_section"><pb facs="#facs_25" n="25"
                                                 xml:id="img_0025" break="yes"/><fw type="pageNum"
-                                                >24</fw></p>
-                                    <p type="legal_section"><label>(3)</label> Der Präsident des
+                                                >24</fw><label>(3)</label> Der Präsident des
                                           Rechnungshofes wird vom Bundestag gewählt. Die Wahl bedarf
                                           der Genehmigung des Bundesrates. </p>
                                     <p type="legal_section"><label>(4)</label> Der Präsident des
@@ -1958,9 +1957,8 @@
                                           Abdruck der Verfassung.</p>
                               </div>
                               <div type="article">
-                                    <p type="legal_section"><pb facs="#facs_31" n="31"
-                                                xml:id="img_0031" break="yes"/><fw type="pageNum"
-                                                >30</fw></p>
+                                    <pb facs="#facs_31" n="31" xml:id="img_0031" break="yes"/>
+                                    <fw type="pageNum">30</fw>
                                     <head>Artikle 129. <note type="comment">(149)</note></head>
                                     <p type="legal_section"><label>(1)</label> Der
                                           Religionsunterricht ist ordentliches Lehrfach an allen
@@ -2120,7 +2118,6 @@
                                                   <item> über die eine Kollegialbehörde zu
                                                   entscheiden oder zu verfügen hat, der wenigstens
                                                   ein Richter angehört; </item>
-                                                </list><list>
                                                   <label>4.</label>
                                                   <item> in denen und insoweit die
                                                   Verwaltungsbehörden nach freiem Ermessen
@@ -2281,20 +2278,20 @@
                                           <p type="legal_section"><label>(1)</label> Der
                                                 Verfassungsgerichtshof entscheidet über die
                                                 Verantwortlichkeit <list>
-                                                  <label>a)  </label>
+                                                  <label>a) </label>
                                                   <item>des Bundespräsidenten und seiner
-                                                  Stellvertreter,<pb facs="#facs_36" n="36"
-                                                  xml:id="img_0036" break="yes"/><fw type="pageNum"
-                                                  >35</fw>
-                                                  </item>
-                                                  <label>b)  </label>
+                                                  Stellvertreter,</item>
+                                                  <pb facs="#facs_36" n="36" xml:id="img_0036"
+                                                  break="yes"/>
+                                                  <fw type="pageNum">35</fw>
+                                                  <label>b) </label>
                                                   <item>der Mitglieder der Bundesregierung und der
                                                   ihnen hinsichtlich der Verantwortlichkeit
-                                                  gleichgestellten Organe,  </item>
-                                                  <label>c)  </label>
+                                                  gleichgestellten Organe, </item>
+                                                  <label>c) </label>
                                                   <item>der Mitglieder der Landesregierungen und der
                                                   ihnen hinsichtlich der Verantwortlichkeit
-                                                  gleichgestellten Organe, und zwar:  <list>
+                                                  gleichgestellten Organe, und zwar: <list>
                                                   <label> </label>
                                                   <item>wegen vorsätzlicher oder grobfahrlässiger
                                                   Verletzung der Bundesverfassung durch den
@@ -2306,7 +2303,7 @@
                                                   vorsätzlicher oder grobsahrlässiger
                                                   Gesetzesverletzung der sub c genannten Personen
                                                   durch ihre Amtstätigkeit auf Antrag des
-                                                  zuständigen Landtages;   </item>
+                                                  zuständigen Landtages; </item>
                                                   <label> </label>
                                                   <item>und über die Verantwortlichkeit des
                                                   Landeshauptmannes, seiner Stellvertreter und des
