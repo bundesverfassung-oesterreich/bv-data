@@ -194,7 +194,7 @@
                 <head type="main">Protokoll der 1. Sitzung des Subkomitées des
                     Verfassungsausschusses vom 11. Juli 1920.</head>
                 <p>Beginn 9h30 Uhr Vormittag.</p>
-                <p>Anwesend:</p>
+                <p><label>Anwesend: </label></p>
                 <list>
                     <item>Dr. Otto <emph>Bauer</emph>, als Vorsitzender,</item>
                     <item>Dr. Josef <emph>Aigner</emph>,</item>
@@ -228,26 +228,37 @@
                         -</fw>Der <emph>Vorsitzende</emph> erteilt nach Eröffnung der Sitzung dem
                     Berichterstatter <emph>Clessin</emph> das Wort, der es als seine Aufgabe
                     darstellt, aus den vorliegenden Entwürfen die Differenzpunkte herauszuschälen,
-                    um eine Grundlage der Verhandlungen zu gewinnen. Zur Beratung liegen vor:</p>
-                <p>1.) der Entwurf, der <emph>gemeinsam</emph> vom <emph>Staatskanzler Dr. Renner
-                        und Staatssekretär Dr. Mayr</emph> verfaßt wurde (Renner-Mayr Entwurf);</p>
-                <p>2.) der Entwurf, der auf Grund der <emph>Linzer Verhandlungen</emph> in Form
-                    einer Gegenüberstellung der Entwürfe des Staatssekretärs <emph>Dr. Mayr</emph>
-                    und der soz.-dem. Partei (<emph>Dr. Danneberg</emph>) abgefaßt ist;</p>
-                <p>3.) der Entwurf der <emph>großdeutschen</emph> Vereinigung und</p>
-                <p>4.) der Entwurf des Dr. Mayr (<emph>888 der Beilagen</emph>).</p>
+                    um eine Grundlage der Verhandlungen zu gewinnen. Zur Beratung liegen vor:<list>
+                        <label>1.) </label>
+                        <item>der Entwurf, der <emph>gemeinsam</emph> vom <emph>Staatskanzler Dr.
+                                Renner und Staatssekretär Dr. Mayr</emph> verfaßt wurde (Renner-Mayr
+                            Entwurf); </item>
+                        <label>2.) </label>
+                        <item> der Entwurf, der auf Grund der <emph>Linzer Verhandlungen</emph> in
+                            Form einer Gegenüberstellung der Entwürfe des Staatssekretärs <emph>Dr.
+                                Mayr</emph> und der soz.-dem. Partei (<emph>Dr. Danneberg</emph>)
+                            abgefaßt ist; </item>
+                        <label>3.) </label>
+                        <item>der Entwurf der <emph>großdeutschen</emph> Vereinigung und </item>
+                        <label>4.) </label>
+                        <item>der Entwurf des Dr. Mayr (<emph>888 der Beilagen</emph>). </item>
+                    </list></p>
                 <p>Vor Eintritt in die Debatte über diese Entwürfe wird es aber notwendig sein, sich
                     darüber klar zu werden, ob man, wie es alle 3 Parteien vorschlagen, eine
-                    Dreiteilung der Kompetenzen vornehmen soll, u.zw. folgendermaßen:</p>
-                <p>A: Angelegenheiten, in denen die Gesetzgebung <emph>und</emph> die Vollziehung
-                    dem <emph>Bund</emph> zustehen,</p>
-                <p>B: Angelegenheiten, in denen die <emph>Gesetzgebung dem Bunde</emph> und die
-                        <emph>Vollziehung</emph><pb facs="#facs_4" n="4" xml:id="img_0004"
-                        break="yes"/><fw type="pageNum">- 3 -</fw> den <emph>Ländern</emph>
-                    zusteht,</p>
-                <p>C: Angelegenheiten, in denen dem <emph>Bunde nur die grundsätzliche</emph>
-                    Gesetzgebung, den Ländern aber die Erlassung der Ausführungsgesetze und die
-                    Vollziehung zusteh<add>en</add>.</p>
+                    Dreiteilung der Kompetenzen vornehmen soll, u.zw. folgendermaßen:<list>
+                        <label>A: </label>
+                        <item> Angelegenheiten, in denen die Gesetzgebung <emph>und</emph> die
+                            Vollziehung dem <emph>Bund</emph> zustehen, </item>
+                        <label>B: </label>
+                        <item> Angelegenheiten, in denen die <emph>Gesetzgebung dem Bunde</emph> und
+                            die <emph>Vollziehung</emph><pb facs="#facs_4" n="4" xml:id="img_0004"
+                                break="yes"/><fw type="pageNum">- 3 -</fw> den <emph>Ländern</emph>
+                            zusteht, </item>
+                        <label>C:  </label>
+                        <item>Angelegenheiten, in denen dem <emph>Bunde nur die
+                                grundsätzliche</emph> Gesetzgebung, den Ländern aber die Erlassung
+                            der Ausführungsgesetze und die Vollziehung zusteh<add>en</add>. </item>
+                    </list></p>
                 <p>Nachdem der Berichterstatter in ausführlicher Darstellung die Unterschiede der
                     Kompetenzabgrenzung in den eingangs erwähnten Entwürfen Punkt für Punkt
                     aufgezählt und erörtert hat, empfiehlt er die Debatte in der Weise zu führen,
@@ -309,9 +320,9 @@
                     Entwürfe <add>wie alle übrigen</add> mangelhaft und reformbedürftig seien, daß
                     sich aber eine Kompetenzabgrenzung nach zwei Gesichtspunkten<emph>, wie sie der
                         Entwurf Dr. Renners versucht,</emph> nicht durchführen lasse und
-                        Unstimmigkeit<emph>en</emph> im Gefolge habe. Auch er redet einer Rahmen-<pb
-                        facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
-                    <fw type="pageNum">- 6 -</fw> gesetzgebung das Wort, nur müsse man die Länder
+                        Unstimmigkeit<emph>en</emph> im Gefolge habe. Auch er redet einer Rahmen<pb
+                        facs="#facs_7" n="7" xml:id="img_0007" break="no"/>
+                    <fw type="pageNum">- 6 -</fw>gesetzgebung das Wort, nur müsse man die Länder
                     verpflichten, diese Gesetze binnen einer bestimmten Frist durchzuführen.</p>
                 <p>Der Vorsitzende bringt hierauf den <emph>Antrag Dr. Seipel</emph> zur Abstimmung,
                     daß die Dreiteilung beizu<add>be</add>halten sei, womit implicite festgestellt
@@ -401,8 +412,8 @@
                     Ländern überlassen bleiben, dann ist zu fürchten, daß die großen
                     Auseinandersetzungen zwischen Bund und Ländern dann erst noch zwischen Gemeinden
                     und Ländern durchgekämpft werden müssen, während so eine einheitliche Regelung
-                    möglich wäre. <emph>Prof. Dr. Kelsen</emph> meint in verfas-<pb facs="#facs_11"
-                        n="11" xml:id="img_0011" break="yes"/>
+                    möglich wäre. <emph>Prof. Dr. Kelsen</emph> meint in verfas<pb facs="#facs_11"
+                        n="11" xml:id="img_0011" break="no"/>
                     <fw type="pageNum">- 10 -</fw>sungstechnischer Hinsicht die Einfügung davon
                     abhängig machen zu müssen, wie die Gemeinden in die Verfassung eingegliedert
                     werden, denn Dr. Renner habe die Gemeinden den Ländern selbständig

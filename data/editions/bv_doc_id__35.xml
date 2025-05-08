@@ -293,8 +293,8 @@
                                     <sic/>
                                     <corr>ten</corr>
                                 </choice></del> zwei gekreuzte <pb facs="#facs_4" n="4"
-                                xml:id="img_0004" break="yes"/><fw type="pageNum">3</fw> Hämmer,
-                            über denen ein Kranz von Roggenähren liegt und die Umschrift „Freistaat
+                                xml:id="img_0004" break="yes"/><fw type="pageNum">3</fw>Hämmer, über
+                            denen ein Kranz von Roggenähren liegt und die Umschrift „Freistaat
                                 <del>Deutschösterreich"</del> Südostdeutschland“. </p>
                     </div>
                 </div>
@@ -1017,11 +1017,11 @@
                                 und</del> Vollzugsgewalt durch die <del>Regier<choice>
                                     <sic/>
                                     <corr>ung </corr>
-                                </choice></del> von ihm bestellte Regierung aus.<pb facs="#facs_13"
-                                n="13" xml:id="img_0013" break="yes"/>
-                            <fw type="pageNum">8 </fw></p>
+                                </choice></del> von ihm bestellte Regierung aus.</p>
                     </div>
                     <div type="article">
+                        <pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>
+                        <fw type="pageNum">8 </fw>
                         <head>§ 19. </head>
                         <p type="legal_section">Die Organe der Regierung sind der Staatskanzler und
                             die Staatssekretäre. Sie sind einzeln und gemeinsam <del>der</del> nach
@@ -1175,9 +1175,9 @@
                                         <item> Fünf vom Staatsrat zu bezeichnende <choice>
                                                 <del>Mitglieder</del>
                                                 <add>Angehörige</add>
-                                            </choice> der hohen Generalität.<pb facs="#facs_15"
-                                                n="15" xml:id="img_0015" break="yes"/><fw
-                                                type="pageNum">10</fw></item>
+                                            </choice> der hohen Generalität.</item>
+                                        <pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>
+                                        <fw type="pageNum">10</fw>
                                         <label><choice>
                                                 <del>6.</del>
                                                 <add>5.</add>
@@ -1375,11 +1375,11 @@
                                         <del>nebst</del>
                                         <add>und</add>
                                     </choice> den mit dem Vollzug betrauten Staatssekretären
-                                        gegenzuzeichnen.<pb facs="#facs_18" n="18" xml:id="img_0018"
-                                        break="yes"/><fw type="pageNum">-9-</fw>
-                                </p>
+                                    gegenzuzeichnen. </p>
                             </div>
                             <div type="article">
+                                <pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>
+                                <fw type="pageNum">-9-</fw>
                                 <p type="legal_section"><del>Monates. Die Nationalversammlung tritt
                                         am 2. Montag des Monates April zu ihrer Konstituierung
                                         zusammen. </del></p>
@@ -1521,15 +1521,14 @@
                                         zu erstatten und das Volkshaus über den Bericht <choice>
                                             <del>in längstens acht Tagen</del>
                                             <add>am dritten Wochentag des November endgiltig</add>
-                                        </choice> Beschluss zu fassen.</del><pb facs="#facs_19"
-                                        n="19" xml:id="img_0019" break="yes"/><choice>
+                                        </choice> Beschluss zu fassen.</del></p>
+                                <p type="legal_section">
+                                    <pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/><choice>
                                         <del><fw type="pageNum">10.</fw></del>
                                         <add><fw type="pageNum">18</fw></add>
-                                    </choice></p>
-                                <p type="legal_section"> Der Beschluss des Volkshauses über
-                                        <add>die</add> Wehrvorlagen <add>wird</add> nicht an den
-                                    Senat geleitet, sondern gilt als Beschluss der
-                                    Nationalversammlung.</p>
+                                    </choice>Der Beschluss des Volkshauses über <add>die</add>
+                                    Wehrvorlagen <add>wird</add> nicht an den Senat geleitet,
+                                    sondern gilt als Beschluss der Nationalversammlung.</p>
                             </div>
                             <div type="article">
                                 <head><label><del>§ 27</del><choice>
@@ -1979,8 +1978,9 @@
                                 die Beschleunigung des Geschäftsganges <choice>
                                     <del>obliegt</del>
                                     <add>obliegen.</add>
-                                </choice><pb facs="#facs_25" n="25" xml:id="img_0025" break="yes"
-                                    /><fw type="pageNum">13</fw></item>
+                                </choice></item>
+                            <pb facs="#facs_25" n="25" xml:id="img_0025" break="yes"/>
+                            <fw type="pageNum">13</fw>
                             <label>2. </label>
                             <item>Das <del>Staatsa<choice>
                                         <sic/>
@@ -2203,11 +2203,11 @@
                             <choice>
                                 <del>bisherigen</del>
                                 <add>bisherige</add>
-                            </choice> Kompetenzverteilung aufrecht.<pb facs="#facs_27" n="27"
-                                xml:id="img_0027" break="yes"/><fw type="pageNum">15</fw>
-                        </p>
+                            </choice> Kompetenzverteilung aufrecht.</p>
                     </div>
                     <div type="article">
+                        <pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/>
+                        <fw type="pageNum">15</fw>
                         <head><label><del><choice>
                                         <sic>§ 42 </sic>
                                         <corr>41</corr>
@@ -2318,7 +2318,7 @@
                         <p type="legal_section">Der Kreisregierung zur Seite steht das Kreisamt. Für
                             die Leitung der Kanzleigeschäfte bestellt <add>und dem Kreishauptmann
                                 verantwortlich</add> ist der Kreisamts<pb facs="#facs_29" n="29"
-                                xml:id="img_0029" break="no"/><fw type="pageNum">17</fw> leiter.</p>
+                                xml:id="img_0029" break="no"/><fw type="pageNum">17</fw>leiter.</p>
                         <p type="legal_section">Das Kreisamt hat außer den Fachabteilungen an seinem
                             Sitze exponierte Abteilungen außerhalb <choice>
                                 <del>dieses Sitzes</del>
@@ -2414,12 +2414,12 @@
                                 <del>das</del>
                                 <add>die</add>
                             </choice> bestehenden Rechtsverhältnisse und Bezüge der Beamten nicht
-                            verschlechtert werden. <pb facs="#facs_31" n="31" xml:id="img_0031"
-                                break="yes"/><fw type="pageNum">18</fw>
-                        </p>
+                            verschlechtert werden.  </p>
                     </div>
                 </div>
                 <div type="section">
+                    <pb facs="#facs_31" n="31" xml:id="img_0031" break="yes"/>
+                    <fw type="pageNum">18</fw>
                     <head><choice>
                             <del>C. Von der richterlichen Gewalt.</del>
                             <add>Dritter Abschnitt.</add>
@@ -2489,11 +2489,11 @@
                                 <del>und Schöff</del>
                                 <add>und Schöffen</add>
                             </choice> wird <add>ohne Verzug</add> durch ein besonderes Gesetz
-                            neugeregelt werden.<pb facs="#facs_32" n="32" xml:id="img_0032"
-                                break="yes"/><fw type="pageNum">19</fw>
-                        </p>
+                            neugeregelt werden. </p>
                     </div>
                     <div type="article">
+                        <pb facs="#facs_32" n="32" xml:id="img_0032" break="yes"/>
+                        <fw type="pageNum">19</fw>
                         <head><choice>
                                 <del>§ 63. § 52</del>
                                 <add>§ 67.</add>
@@ -2554,11 +2554,11 @@
                             <add>RgBl</add> No. 36 ex 1876 aufrecht.</p>
                         <p type="legal_section">Das Reichsgerichte (Gesetz vom 18. April 1869. No 44
                             RgBl) und der Staatsgerichtshof (Gesetz vom 25. Juli 1867 RgBl. No. 101
-                            / wurden durch ein besonderes Gesetz miteinander verschmolzen.<pb
-                                facs="#facs_33" n="33" xml:id="img_0033" break="yes"/></p>
+                            / wurden durch ein besonderes Gesetz miteinander verschmolzen.</p>
                     </div>
                 </div>
                 <div type="section">
+                    <pb facs="#facs_33" n="33" xml:id="img_0033" break="yes"/>
                     <head>Vierter Abschnitt.</head>
                     <head>Von der <choice>
                             <del>richterlichen Gewalt</del>
@@ -2620,7 +2620,7 @@
                             der Senat entsendet. Die Ausfertigung der Ernennung erfolgt vom
                             Praesidenten des Staatsrats unter
                                 <?oxy_comment_start author="zuegel.n" timestamp="20250328T141112+0100" comment="Fortsetzung des Textes nicht auf nächster, sondern auf übernächster Seite"?>Mitfe<?oxy_comment_end?>r<pb
-                                facs="#facs_35" n="35" xml:id="img_0035" break="yes"/><fw
+                                facs="#facs_35" n="35" xml:id="img_0035" break="no"/><fw
                                 type="pageNum">21</fw>tigung des Vorsitzenden des Heeres<choice>
                                 <del>kollegiums </del>
                                 <add>direktoriums</add>
@@ -2639,10 +2639,9 @@
                             Staatsekretärs für Heerwesen die hiezu besonders ausgebildeten Offiziere
                             in den Generalstab. </p>
                         <p type="legal_section">Der Oberbefehlshaber und der Chef das Generalstabs
-                            sind der Nationalversammlung verantwortlich.<pb facs="#facs_34" n="34"
-                                xml:id="img_0034" break="yes"/></p>
+                            sind der Nationalversammlung verantwortlich.</p>
                     </div>
-                    <p type="legal_section"><list>
+                    <p type="legal_section"><pb facs="#facs_34" n="34" xml:id="img_0034" break="yes"/><list>
                             <item><del><choice>
                                         <del>§ 50</del>
                                         <add>§ 58 </add>
