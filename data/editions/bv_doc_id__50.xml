@@ -104,9 +104,10 @@
                 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="structured">
+        <revisionDesc status="text_correct">
             <change when="2025-02-03" who="#cfh">document automatically created</change>
             <change when="2025-02-14" who="#m_huber">Elias: Text fertig strukturiert</change>
+            <change when="2025-05-09" who="#e_kordt">Text gegengelesen</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -594,35 +595,41 @@
                     <emph>5.) Flurschutz und Flurpolizei;</emph></p>
                 <p>
                     <emph>6.) Markt- und Lebensmittelpolizei;</emph></p>
-                <p> 7.) Gesundheitspolizei; </p>
-                <p> 8.) Bau- und Feuerpolizei.“ </p>
-                <p> In Artikel 138 werden die Worte „des Bundes oder eines Landes“ gestrichen, da es
-                    sich auch um eine Gemeinde handeln kann. Auch hat es auf Antrag des Prof. Dr.
-                    Seipel anstatt „Über die Rechtsverletzungen“ zu lauten „über Beschwerden wegen
-                    Rechtsverletzung“.</p>
+                <p>
+                    <emph>7.) Gesundheitspolizei;</emph></p>
+                <p>
+                    <emph>8.) Bau- und Feuerpolizei.</emph></p>
+                <p> In Artikel 138 werden die <emph>Worte „des Bundes oder eines Landes“
+                        gestrichen</emph>, da es sich auch um eine Gemeinde handeln kann. Auch hat
+                    es auf Antrag des Prof. Dr. <emph>Seipel</emph> anstatt „Über die
+                    Rechtsverletzungen“ zu lauten <emph>„über Beschwerden wegen
+                        Rechtsverletzung.“</emph></p>
                 <p><pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/><fw type="pageNum">- 14
-                        -</fw>Zu den folgenden Artikeln bemerkt Prof. Dr. Kelsen daß eine Reihe von
-                    technischen Fragen zu bereinigen wäre. Er bemerkt auch, daß zu Artikel 150 ein
-                    Antrag des Abgeordneten Leuthner vorliege, dessen Berücksichtigung ebenfalls aus
-                    technischen Gründen notwendig sei. Der Vorsitzende erwähnt, daß bei den
-                    Parteibesprechungen zwei Fragen aufgetaucht seien. Erstens: die einer Befristung
-                    und zweitens, daß es notwendig wäre, zwei Fälle zu unterscheiden: dort wo der
-                    Verfassungsgerichtshof im Verlaufe eines Verfahrens auf eine andere Verordnung
-                    oder auf ein Gesetz stößt, die verfassungswidrig sind, könne man ihm das Recht
-                    nicht nehmen, unter einem auch hierüber zu entscheiden). Ganz anders wäre der
-                    Fall, daß er auch dort, wo kein Kläger ist, als Richter auftreten sollte.
-                    Dagegen herrsche allgemeine Abneigung. Nachdem er hierüber ein Einverständnis
-                    festgestellt, erwähnt der Vorsitzende noch, daß bei den Parteigesprechungen der
-                    Wunsch geäußert worden sei, Übergangsbestimmungen für die Bezirksvertretungen in
-                    Steiermark vorzusehen, um ihren Übergang in die neu zu schaffenden
+                        -</fw>Zu den folgenden Artikeln bemerkt Prof. Dr. <emph>Kelsen</emph> daß
+                    eine Reihe von technischen Fragen zu bereinigen wäre. Er <add>(</add>bemerkt
+                    auch, daß zu Artikel 150 ein Antrag des Abgeordneten <emph>Leuthner</emph>
+                    vorliege, dessen Berücksichtigung ebenfalls aus technischen Gründen notwendig
+                    sei. Der <emph>Vorsitzende</emph> erwähnt, daß bei den Parteibesprechungen zwei
+                    Fragen aufgetaucht seien. Erstens: die einer Befristung und zweitens, daß es
+                    notwendig wäre, zwei Fälle zu unterscheiden: dort wo der Verfassungsgerichtshof
+                        <add>im Verlaufe eines Verfahrens</add> auf eine andere Verordnung oder auf
+                    ein Gesetz stößt, die verfassungswidrig sind, könne man ihm das Recht nicht
+                    nehmen, unter einem auch hierüber zu entscheiden.<add>)</add> Ganz anders wäre
+                    der Fall, daß er auch dort, wo kein Kläger ist, als Richter auftreten sollte.
+                    Dagegen herrsche allgemeine Abneigung. Nachdem er hierüber ein
+                        <emph>Einverständnis</emph> festgestellt, erwähnt der
+                        <emph>Vorsitzende</emph> noch, daß bei den Parteigesprechungen der Wunsch
+                    geäußert worden sei, Uebergangsbestimmungen für die Bezirksvertretungen in
+                    Steiermark vorzusehen, um ihren Uebergang in die neu zu schaffenden
                     Bezirksvertretungen einzuleiten.</p>
-                <p> Im Artikel y ist auch der Zusatz nachzutragen: „Das Bundesgesetz über die
-                    vorläufige Ausgestaltung der dermaligen Bezirksververwaltung nach Artikel x wird
-                    binnen 6 Monaten nach Inkrafttreten der Verfassung erlassen." </p>
+                <p> Im Artikel y ist auch der Zusatz nachzutragen: <emph>„Das Bundesgesetz über die
+                        vorläufige Ausgestaltung der dermaligen Bezirksververwaltung nach Artikel x
+                        wird binnen 6 Monaten nach Inkrafttreten der Verfassung erlassen."</emph>
+                </p>
                 <p> Die Polizeiangelegenheit soll im Zusammenhang mit der Wiener Frage geregelt
                     werden, daher wären in der nächsten Sitzung, die für den 15. September 1. J.
-                    vormittags 10 Uhr anberaumt wird, nur die Angelegenheiten der Gendarmerie und
-                    die Übergangsbestimmungen zu behandeln. </p>
+                    vormittags 10 h anberaumt wird, nur die Angelegenheiten der Gendarmerie und die
+                    Übergangsbestimmungen zu behandeln.</p>
             </div>
         </body>
     </text>
