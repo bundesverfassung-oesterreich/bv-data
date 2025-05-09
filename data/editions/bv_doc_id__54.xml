@@ -105,8 +105,7 @@
             <change when="2024-11-05" who="#cfh">document automatically created</change>
             <change when="2025-02-22" who="#s_kury">Formatierung beendet</change>
             <change when="2025-03-16" who="#s_kury">Gegengelesen beendet-> ACHTUNG, fehlt noch:
-                Seitenzahl 2 einfügen- mit Anzeige der entsprechenden Seite alles bis einschließlich
-                "Artikel" nochmal gegenlesen</change>
+                Seitenzahl 2 einfügen (funktioniert nicht bei bloßem reinkopieren)</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -642,16 +641,15 @@
                         <label>15. </label>
                         <item>109 - 114 Freizügigkeit, Hausrecht, Briefgeheimnis. </item>
                         <label>16. </label>
-                        <item>115 - 117. Pressfreiheit, Vereins- und Versammlungsrecht, Glaubens-
-                            und Gewissensfreiheit. </item>
+                        <item>115 - 117 Pressfreiheit, Vereins- und Versammlungsrecht. </item>
                         <label>17. </label>
-                        <item>118 - 124. </item>
+                        <item>118 - 124 Glaubens- und Gewissensfreiheit. </item>
                         <label>18. </label>
                         <item>125 - 126 Kunst und Wissenschaft. </item>
                         <label>19. </label>
                         <item>127 - 129 Schule. </item>
                         <label>20. </label>
-                        <item>130 - 132. Nationalität und Sprache. </item>
+                        <item>130 - 132 Nationalität und Sprache. </item>
                         <label>21. </label>
                         <item>135 Arbeitsrecht. </item>
                         <label>22. </label>
@@ -675,7 +673,8 @@
                         <label>31. </label>
                         <item>Form der Gesetzwerdung. </item>
                     </list></p>
-                <head><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>Teilnehmer an der Länderkonferenz.</head>
+                <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
+                <head>Teilnehmer an der Länderkonferenz.</head>
                 <p>Staatsregierung: Staatssekretär Dr. Michael Mayr, Ministerialsekretär Dr.
                     Mannlicher. Burgenland: Dr. Beer, Meidlinger. Kärnten: Nationalrat Grögger,
                     Landtagsabgeordneter Dr. Pflanzl, Landesrat Schumn, Landtagsabgeordneter
