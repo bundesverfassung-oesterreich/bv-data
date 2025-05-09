@@ -99,528 +99,591 @@
         </profileDesc>
         <revisionDesc status="created">
             <change when="2024-10-01" who="#cfh">document automatically created</change>
-                  <change when="2025-04-30" who="#s_kury">Formatiert bis S.4</change>
+                  <change when="2025-05-09" who="#s_kury">Formatiert + Gegengelesen bis S.
+                        12</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3194" lry="4309" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0002/full/full/0/default.jpg" width="3194px" height="4309px"/></surface><surface ulx="0" uly="0" lrx="3075" lry="4305" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0004/full/full/0/default.jpg" width="3075px" height="4305px"/></surface><surface ulx="0" uly="0" lrx="3083" lry="4316" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0005/full/full/0/default.jpg" width="3083px" height="4316px"/></surface><surface ulx="0" uly="0" lrx="3041" lry="4310" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0008/full/full/0/default.jpg" width="3041px" height="4310px"/></surface><surface ulx="0" uly="0" lrx="3115" lry="4308" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0009/full/full/0/default.jpg" width="3115px" height="4308px"/></surface><surface ulx="0" uly="0" lrx="3014" lry="4308" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0010/full/full/0/default.jpg" width="3014px" height="4308px"/></surface><surface ulx="0" uly="0" lrx="3115" lry="4279" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0011/full/full/0/default.jpg" width="3115px" height="4279px"/></surface><surface ulx="0" uly="0" lrx="3048" lry="4289" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0012/full/full/0/default.jpg" width="3048px" height="4289px"/></surface><surface ulx="0" uly="0" lrx="3151" lry="4337" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0013/full/full/0/default.jpg" width="3151px" height="4337px"/></surface><surface ulx="0" uly="0" lrx="3061" lry="4345" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0014/full/full/0/default.jpg" width="3061px" height="4345px"/></surface><surface ulx="0" uly="0" lrx="3153" lry="4348" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0015/full/full/0/default.jpg" width="3153px" height="4348px"/></surface><surface ulx="0" uly="0" lrx="3034" lry="4333" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0016/full/full/0/default.jpg" width="3034px" height="4333px"/></surface><surface ulx="0" uly="0" lrx="3164" lry="4325" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0017/full/full/0/default.jpg" width="3164px" height="4325px"/></surface><surface ulx="0" uly="0" lrx="3025" lry="4325" xml:id="facs_15"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0018/full/full/0/default.jpg" width="3025px" height="4325px"/></surface><surface ulx="0" uly="0" lrx="3135" lry="4326" xml:id="facs_16"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0019/full/full/0/default.jpg" width="3135px" height="4326px"/></surface><surface ulx="0" uly="0" lrx="3034" lry="4305" xml:id="facs_17"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0020/full/full/0/default.jpg" width="3034px" height="4305px"/></surface><surface ulx="0" uly="0" lrx="3178" lry="4332" xml:id="facs_18"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0021/full/full/0/default.jpg" width="3178px" height="4332px"/></surface><surface ulx="0" uly="0" lrx="3043" lry="4291" xml:id="facs_19"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0022/full/full/0/default.jpg" width="3043px" height="4291px"/></surface><surface ulx="0" uly="0" lrx="3132" lry="4327" xml:id="facs_20"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0023/full/full/0/default.jpg" width="3132px" height="4327px"/></surface><surface ulx="0" uly="0" lrx="3063" lry="4320" xml:id="facs_21"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0024/full/full/0/default.jpg" width="3063px" height="4320px"/></surface><surface ulx="0" uly="0" lrx="3129" lry="4322" xml:id="facs_22"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0025/full/full/0/default.jpg" width="3129px" height="4322px"/></surface><surface ulx="0" uly="0" lrx="3016" lry="4324" xml:id="facs_23"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0027/full/full/0/default.jpg" width="3016px" height="4324px"/></surface><surface ulx="0" uly="0" lrx="3159" lry="4347" xml:id="facs_24"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0028/full/full/0/default.jpg" width="3159px" height="4347px"/></surface><surface ulx="0" uly="0" lrx="3063" lry="4334" xml:id="facs_25"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0029/full/full/0/default.jpg" width="3063px" height="4334px"/></surface><surface ulx="0" uly="0" lrx="3127" lry="4323" xml:id="facs_26"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0030/full/full/0/default.jpg" width="3127px" height="4323px"/></surface><surface ulx="0" uly="0" lrx="2992" lry="4314" xml:id="facs_27"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0031/full/full/0/default.jpg" width="2992px" height="4314px"/></surface><surface ulx="0" uly="0" lrx="3040" lry="4337" xml:id="facs_28"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0032/full/full/0/default.jpg" width="3040px" height="4337px"/></surface><surface ulx="0" uly="0" lrx="3142" lry="4321" xml:id="facs_29"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0033/full/full/0/default.jpg" width="3142px" height="4321px"/></surface><surface ulx="0" uly="0" lrx="3096" lry="4333" xml:id="facs_30"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0034/full/full/0/default.jpg" width="3096px" height="4333px"/></surface><surface ulx="0" uly="0" lrx="3140" lry="4317" xml:id="facs_31"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0035/full/full/0/default.jpg" width="3140px" height="4317px"/></surface><surface ulx="0" uly="0" lrx="3064" lry="4303" xml:id="facs_32"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0036/full/full/0/default.jpg" width="3064px" height="4303px"/></surface><surface ulx="0" uly="0" lrx="3103" lry="4304" xml:id="facs_33"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0037/full/full/0/default.jpg" width="3103px" height="4304px"/></surface><surface ulx="0" uly="0" lrx="3101" lry="4310" xml:id="facs_34"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0038/full/full/0/default.jpg" width="3101px" height="4310px"/></surface><surface ulx="0" uly="0" lrx="3127" lry="4312" xml:id="facs_35"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0039/full/full/0/default.jpg" width="3127px" height="4312px"/></surface><surface ulx="0" uly="0" lrx="3080" lry="4300" xml:id="facs_36"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0040/full/full/0/default.jpg" width="3080px" height="4300px"/></surface><surface ulx="0" uly="0" lrx="3131" lry="4350" xml:id="facs_37"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0041/full/full/0/default.jpg" width="3131px" height="4350px"/></surface><surface ulx="0" uly="0" lrx="3026" lry="4297" xml:id="facs_38"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0042/full/full/0/default.jpg" width="3026px" height="4297px"/></surface><surface ulx="0" uly="0" lrx="3181" lry="4309" xml:id="facs_39"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0043/full/full/0/default.jpg" width="3181px" height="4309px"/></surface><surface ulx="0" uly="0" lrx="2962" lry="4301" xml:id="facs_40"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0044/full/full/0/default.jpg" width="2962px" height="4301px"/></surface><surface ulx="0" uly="0" lrx="3168" lry="4331" xml:id="facs_41"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0045/full/full/0/default.jpg" width="3168px" height="4331px"/></surface><surface ulx="0" uly="0" lrx="3051" lry="4321" xml:id="facs_42"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0046/full/full/0/default.jpg" width="3051px" height="4321px"/></surface><surface ulx="0" uly="0" lrx="3195" lry="4311" xml:id="facs_43"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0047/full/full/0/default.jpg" width="3195px" height="4311px"/></surface><surface ulx="0" uly="0" lrx="3064" lry="4306" xml:id="facs_44"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0048/full/full/0/default.jpg" width="3064px" height="4306px"/></surface><surface ulx="0" uly="0" lrx="3173" lry="4333" xml:id="facs_45"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0049/full/full/0/default.jpg" width="3173px" height="4333px"/></surface><surface ulx="0" uly="0" lrx="3092" lry="4301" xml:id="facs_46"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0050/full/full/0/default.jpg" width="3092px" height="4301px"/></surface><surface ulx="0" uly="0" lrx="3049" lry="4301" xml:id="facs_47"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0051/full/full/0/default.jpg" width="3049px" height="4301px"/></surface><surface ulx="0" uly="0" lrx="3172" lry="4348" xml:id="facs_48"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0052/full/full/0/default.jpg" width="3172px" height="4348px"/></surface><surface ulx="0" uly="0" lrx="3063" lry="4310" xml:id="facs_49"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0053/full/full/0/default.jpg" width="3063px" height="4310px"/></surface><surface ulx="0" uly="0" lrx="3168" lry="4344" xml:id="facs_50"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0054/full/full/0/default.jpg" width="3168px" height="4344px"/></surface><surface ulx="0" uly="0" lrx="2996" lry="4272" xml:id="facs_51"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0055/full/full/0/default.jpg" width="2996px" height="4272px"/></surface><surface ulx="0" uly="0" lrx="3172" lry="4372" xml:id="facs_52"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0056/full/full/0/default.jpg" width="3172px" height="4372px"/></surface><surface ulx="0" uly="0" lrx="3072" lry="4330" xml:id="facs_53"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0057/full/full/0/default.jpg" width="3072px" height="4330px"/></surface><surface ulx="0" uly="0" lrx="3150" lry="4317" xml:id="facs_54"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0058/full/full/0/default.jpg" width="3150px" height="4317px"/></surface><surface ulx="0" uly="0" lrx="3033" lry="4318" xml:id="facs_55"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0059/full/full/0/default.jpg" width="3033px" height="4318px"/></surface><surface ulx="0" uly="0" lrx="3150" lry="4350" xml:id="facs_56"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0060/full/full/0/default.jpg" width="3150px" height="4350px"/></surface><surface ulx="0" uly="0" lrx="3039" lry="4300" xml:id="facs_57"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0061/full/full/0/default.jpg" width="3039px" height="4300px"/></surface><surface ulx="0" uly="0" lrx="3158" lry="4324" xml:id="facs_58"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0062/full/full/0/default.jpg" width="3158px" height="4324px"/></surface><surface ulx="0" uly="0" lrx="3041" lry="4309" xml:id="facs_59"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0064/full/full/0/default.jpg" width="3041px" height="4309px"/></surface><surface ulx="0" uly="0" lrx="3164" lry="4311" xml:id="facs_60"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0065/full/full/0/default.jpg" width="3164px" height="4311px"/></surface><surface ulx="0" uly="0" lrx="3015" lry="4283" xml:id="facs_61"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0066/full/full/0/default.jpg" width="3015px" height="4283px"/></surface><surface ulx="0" uly="0" lrx="3175" lry="4320" xml:id="facs_62"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0067/full/full/0/default.jpg" width="3175px" height="4320px"/></surface><surface ulx="0" uly="0" lrx="3081" lry="4306" xml:id="facs_63"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0069/full/full/0/default.jpg" width="3081px" height="4306px"/></surface><surface ulx="0" uly="0" lrx="3166" lry="4316" xml:id="facs_64"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0070/full/full/0/default.jpg" width="3166px" height="4316px"/></surface><surface ulx="0" uly="0" lrx="3047" lry="4320" xml:id="facs_65"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0071/full/full/0/default.jpg" width="3047px" height="4320px"/></surface><surface ulx="0" uly="0" lrx="3162" lry="4330" xml:id="facs_66"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0072/full/full/0/default.jpg" width="3162px" height="4330px"/></surface><surface ulx="0" uly="0" lrx="3056" lry="4320" xml:id="facs_67"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0073/full/full/0/default.jpg" width="3056px" height="4320px"/></surface><surface ulx="0" uly="0" lrx="3134" lry="4321" xml:id="facs_68"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0074/full/full/0/default.jpg" width="3134px" height="4321px"/></surface><surface ulx="0" uly="0" lrx="3034" lry="4292" xml:id="facs_69"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0075/full/full/0/default.jpg" width="3034px" height="4292px"/></surface><surface ulx="0" uly="0" lrx="3209" lry="4314" xml:id="facs_70"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__55/files/images/IMG_0076/full/full/0/default.jpg" width="3209px" height="4314px"/></surface></facsimile>
     <text type="Sitzungsprotokoll">
         <body><div type="main">
-                        <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
-                        <head>Stenographische Verhandlungsschrift über die Länderkonferenz in Linz
+                        <head><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"
+                              />Stenographische Verhandlungsschrift über die Länderkonferenz in Linz
                               am 20., 21., 22. und 23. April 1920. </head>
                         <p>Verlag des oberösterreichischen Landesrates in Linz. </p>
-                        <p>Druck von Jof. Feichtingers Erben, Linz.</p>
-                        <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
-                        <head>Teilnehmer an der Länderkonferenz.</head>
-                        <p>Staatsregierung: Staatsfefretär Dr. Mahr. Staatslanzlei: Sektionsrat Dr.
-                              Fröhlich, Professor Dr. Kelsen, Oberfinanzrat Moser,
-                              Ministerialsekretär Dr. Mannlicher. Staatsamt für Landwirtschaft und
-                              Forstwesen: Sektionschef Dr. Alter, Ministerialrat Dr. Darenbichler.
-                              Staatsamt für Finanzen: Ministerialrat Grünwald. Kärnten:
-                              Landesverweserstellvertreter Neutler (joz. dem.), Landesrat Dr.
-                              Steinwender (gr. d.), Landtagsabgeordneter Dechant Walcher (chr. soz.)
-                              Niederösterreich: Landeshauptmann Geber (joz. dem.),
-                              Landeshauptmannfteflvertreter Maher (chr. foz.),
-                              Landeshauptmannftellvertreter Steiner (chr. Oz.),
-                              Landeshauptmannftellvertreter Widholz (1oz. dem.), Landesrat Müller
-                              (1oz. dem.), Landesrat Völzer (foz. dem.), Landesrat Zwetbacher (chr.
+                        <p>Druck von Jos. Feichtingers Erben, Linz.</p>
+                        <head><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>Teilnehmer an
+                              der Länderkonferenz.</head>
+                        <p>Staatsregierung: Staatssekretär Dr. Mayr.</p>
+                        <p>Staatskanzlei: Sektionsrat Dr. Fröhlich, Professor Dr. Kelsen,
+                              Oberfinanzrat Moser, Ministerialsekretär Dr. Mannlicher. </p>
+                        <p>Staatsamt für Landwirtschaft und Forstwesen: Sektionschef Dr. Alter,
+                              Ministerialrat Dr. Darenbichler. </p>
+                        <p>Staatsamt für Finanzen: Ministerialrat Grünwald. </p>
+                        <p>Kärnten: Landesverweserstellvertreter Neutzler (soz. dem.), Landesrat Dr.
+                              Steinwender (gr. d.), Landtagsabgeordneter Dechant Walcher (chr. soz.) </p>
+                        <p>Niederösterreich: Landeshauptmann Sever (soz. dem.),
+                              Landeshauptmannstellvertreter Mayer (chr. foz.),
+                              Landeshauptmannstellvertreter Steiner (chr. soz.),
+                              Landeshauptmannstellvertreter Widholz (soz. dem.), Landesrat Müller
+                              (soz. dem.), Landesrat Pölzer (foz. dem.), Landesrat Zwetzbacher (chr.
                               soz.), Landtagsabgeordneter Mittermann (gr. d.), Landtagsabgeordneter
-                              Ofenböck (joz. dem.), Landtagsabgeordneter Sequr (chr. foz.),
-                              Landesamtsdirektorftellvertreter Dr. Kaftner, Landessekretär Dr.
-                              Wimmer, Bezirkskommissär Mauritsch. Oberösterreich:
-                              Landeshauptmannftellvertreter Dr. Schlegel (chr. 0z.),
-                              Landeshauptmannstellvertreter Gruber (joz. dem.),
-                              Landeshauptmannftellvertreter Langoth (gr. d.), Landesrat Dr.
-                              Schwinner (chr. soz.), Landesamtsdirektor Attems. Landesamtsrat Dr.
-                              Gnsthaler, Statthaltereifonzipift Dr. Sommer. Salzburg:
-                              Landeshauptmannftellvertreter Dr. Rehrl (chr. foz.),
-                              Landeshauptmannftellvertreter Breußler (foz. dem.), Landesrat
-                              Chriftoph (gr. d.), Landesrat Lackner (chr. foz.), Steiermart:
-                              Landeshauptmann Dr. Rintelen (chr. foz.),
-                              Landeshauptmannftellvertreter Vongratz (joz. dem.), Landesrat Dr.
-                              Klusemann (gr. d.), Landesrat Refel (1oz. dem.), Landtagsabgeordneter
-                              Gaß (chr. foz.), Hofrat Fennh. Tirol: Landeshauptmannftellvertreter
-                              Dr. Schumacher, (chr. soz.), Landeshauptmannftellvertreter Dr. Schmidt
-                              (gr. d.), Mitglied der Nationalverfammluna Abram (soz. dem.),
-                              Landesanitzdirettor Dr. Vocfels. Vorarlberg: Landeshauptmann Dr. Gnder
-                              (chr. foz.) Landeshauptmannftellvertreter Preiß (Joz. dem.), Landesrat
-                              Natter (gr. d.), Landtagsabgeordneter Dr. Mittelberger (chr. foz.),
-                              Landesamtsdirektor Walderdorff. Wien: Vizebürgermeister Emmerling
-                              (joz. dem.), Stadtrat Dr. Speiser (soz. dem.) Gemeinderat Dr.
-                              Danneberg (joz. dem.), Gemeinderat Runfchat (chr. foz.), (Gemeinderat
-                              Schmitz (chr. foz.), Gemeinderat Skäret (foz. dem.),
-                              Magistratsdirektor Dr. Hartl.</p>
-                        <p>
-                              <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>Offizieller
-                              Bericht des Pressekomitees über die am 20. april sattgehabte
-                              vertrauliche Vorbesprechung.</p>
+                              Ofenböck (joz. dem.), Landtagsabgeordneter Segur (chr. soz.),
+                              Landesamtsdirektorstellvertreter Dr. Kaftner, Landessekretär Dr.
+                              Wimmer, Bezirkskommissär Mauritsch.</p>
+                        <p>Oberösterreich: Landeshauptmannstellvertreter Dr. Schlegel (chr. soz.),
+                              Landeshauptmannstellvertreter Gruber (soz. dem.),
+                              Landeshauptmannstellvertreter Langoth (gr. d.), Landesrat Dr.
+                              Schwinner (chr. soz.), Landesamtsdirektor Attems, Landesamtsrat Dr.
+                              Ensthaler, Statthaltereifonzipift Dr. Sommer. </p>
+                        <p>Salzburg: Landeshauptmannstellvertreter Dr. Rehrl (chr. soz.),
+                              Landeshauptmannstellvertreter Breußler (soz. dem.), Landesrat
+                              Christoph (gr. d.), Landesrat Lackner (chr. soz.)<choice>
+                                    <sic>,</sic>
+                                    <corr>.</corr>
+                              </choice>
+                        </p>
+                        <p>Steiermark: Landeshauptmann Dr. Rintelen (chr. soz.),
+                              Landeshauptmannstellvertreter Vongratz (soz. dem.), Landesrat Dr.
+                              Klusemann (gr. d.), Landesrat Resel (soz. dem.), Landtagsabgeordneter
+                              Gaß (chr. soz.), Hofrat Fennh.</p>
+                        <p>Tirol: Landeshauptmannstellvertreter Dr. Schumacher, (chr. soz.),
+                              Landeshauptmannstellvertreter Dr. Schmidt (gr. d.), Mitglied der
+                              Nationalversammlung Abram (soz. dem.), Landesamtsdirektor Dr. Pockels. </p>
+                        <p>Vorarlberg: Landeshauptmann Dr. Ender (chr. soz.)
+                              Landeshauptmannstellvertreter Preiß (soz. dem.), Landesrat Natter (gr.
+                              d.), Landtagsabgeordneter Dr. Mittelberger (chr. soz.),
+                              Landesamtsdirektor Walderdorff. </p>
+                        <p>Wien: Vizebürgermeister Emmerling (soz. dem.), Stadtrat Dr. Speiser (soz.
+                              dem.) Gemeinderat Dr. Danneberg (soz. dem.), Gemeinderat Kunschak
+                              (chr. soz.), Gemeinderat Schmitz (chr. soz.), Gemeinderat Skaret (soz.
+                              dem.), Magistratsdirektor Dr. Hartl.</p>
+                        <head><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>Offizieller
+                              Bericht des Pressekomitees </head>
+                        <p>über die am 20. april sattgehabte vertrauliche Vorbesprechung. </p>
                         <p>Heute nach 6 Uhr abends traten die Delegierten der Länderkonferenz zu
-                              einer Vorbesprechung zuammen. Sie wurde im Namen des Landeshäuptmannes
-                              Häuser, der wegen einer Tagung der Nationalversammlung abwefend war,
-                              vom Landeshauptmannftellvertreter Dr. Schlegel auf das herzlichfte
-                              begrüßzt. Redner erklärte, Landeshauptmann Hauser hoffe, die
-                              Delegierten noch vor Abschluß der Tagung selbst in Linz begrüßen zu
-                              können. Nachdem Redner noch der Tägung den besten Erfolg gewünscht
-                              hatté, lud er das Salzburg gewählte Präsidium ein, den Vorsitz zu
-                              übernehmen. Landeshauptmann Dr. Rintelen übernahm den Vorsitz. Über
-                              Antrag des Abgeordneten Runschaf wurde daraufhin das bereits in
-                              Salzburg gewählte Präfidium durch Abstimmung bestätigt. Es erscheinen
-                              somit als Vorsitzende mit gleichen Rechten gewählt: Landeshauptmann
-                              Dr. Rintelen (Steiermarf) Landeshauptmann Geber (Niederösterreich) und
-                              Landesrat Christoph (Salzburg). Abgeordneter Runschaf beantragte
-                              weiters, die gleiche Geschäftsordnung wie in Salzburglfür morgen 4 Uhr
-                              nachmittags festgesetzt.</p>
-                        <p>festzusetzen. Abgeordneter Dr. Danneberg erklärt. sich hiemit im Prinzib
-                              einverstanden, wünscht jedoch, daß der Antrag dem
-                              Geschäftsordnungsausschuß zugewiesen werde. Dieser könne darüber
-                              abschließend entscheiden. Der Antrag Kunschak wird mit der Ergänzung
-                              Danneberg angenommen. über Antrag Kunfchaf wird auch der gleiche
-                              Geschäftsordnungsausschuß wie in Salzburg eingesetzt, nur tritt an
-                              Stelle des Delegierten Dr. Pflanzl, der in Linz nicht erschienen ist,
-                              der von der Grofdeutschen Vereinigung nominierte
-                              Landeshaubtmannftellvertreter Langoth. Der Geschäftsordnungsausschuß
-                              hat demnach folgende Mitglieder: Sozialdemotraten: Gruber und
-                              Dänneberg: Chriftlichsoziale: Dr. Gnder und Schumacher; Grofdeutsche
-                              Vereinigung: Dr. Schmidt und Cangoth. Weiters gehören dem
-                              Geschäftsordnungsausschusse an die Vorsitzenden der Konferenz sowie
-                              Staatsjekretär Dr. Mähr als Teilnehmer. In den Presseausschuk werden
-                              gewählt: Dr. Schumacher (wiedergewählt) und Speiser, sowie Dr.
-                              Mittermann (neu). Die erste Blenarsitzung der Konferenz wurde</p>
-                        <p>218<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>7</p>
-                        <p>Erste Sitzung am 21. 2prII 1820. Vorsitender: Der Herr Landeshauptmann
-                              von Steiermark Dr. Rinfelen. Eröffnung der Sitzung um 4 Uhr 18 Minuten
-                              nachmittags.</p>
-                        <p>Herr Landeshauptmann Dr. Rintelen: Verehrte Herrenl Indem ich hiemit die
-                              Sitzungen der Länderkonferenz eröffne, erkläre ich, daß das gestern
-                              von Ihnen gewählte Präfidium dankend die Wahl angenommen hat, ebenfo
-                              wie der gewählte Geschäftsordnungsausschuß, der bereits gestern
-                              zufammengetreten ist. Seine Beschlüsse werden dann von Herrn
-                              Landeshauptmann Seber mitgeteilt werden. Als Ginlauf kommt in Betracht
-                              eine Zuschrift des Städteberbandes, die bereits gestern im
-                              Geschäftsordnungsausschußz erledigt worden ift; dann eine Zuschrift
-                              des Verbandes der land- und forstwirtschaftlichen Arbeiter, welche
-                              sich dagegen verwahrt, daß der Arbeiterschutz für diese Arbeiten nicht
-                              durch die Bundesverfassung geregelt wird, sondern eben verlangt
-                              gleichmäßige Behandlung des gesamten Arbeiterschutzes, also auch des
-                              Urbeiterschukzes der land- und forftwirtschaftlichen Arbeiter durch
-                              die Bundesgefeßzgebung; dann eine Zuschrift des oberösterreichischen
-                              Landes-Mittelstandsrates, die eine schleunige Durchführung Verfassung
-                              auf der Länderkonferenz begehrt. möchte mir dann noch erlauben
-                              mitzuteilen, heute abends das Theater um halb acht Uhr ftatt, findet
-                              und daß keine Karten ausgegeben werden, sondern die Herren haben vor
-                              sich den Sitzplanzur Feftvorstellung und aus diesem Sitzplane ergibt
-                              sich, welche Plätze den einzelnen Herren angewiesen find. Ich erteile
-                              zuerft das Wort dem Herrn Landeshauptmann Geber mit der Bitte, über
-                              das Ergebnis der gestrigen Konferenz des Geschäftsordnungskomitees zu
-                              berichten. Herr Landeshauptmann von Niederöfterreich Seber:
-                              Hochverehrte Herren! Das Geschäftsordnungskomitee schlägt Ihnen vor,
-                              die Geschäftsordnung, die wir uns in Salzburg gegeben haben, mit
-                              einigen kleinen Abänderungen neuerdings wieder annehmen zu wollen. Im
-                              §2, Absak 3, ist eine irrtümliche Schreibweise. Es heißt dort, wenn
-                              ein Antrag auf Schluß der Dehatte gestellt und angenommen wird, so
-                              wird sofort zur Abstimmung über den Verhandlungsgegenstand
-                              geschritten.</p>
-                        <p>(s foll heißen: „Wird sofort die Meinungsäußerung der verschiedenen
-                              Parteien zur Kenntnis genommen“, so wie wir das in Salzburg
-                              beschlossen haben. Im Artikel 5 der Geschäftsordnung sind zu streichen
-                              die Bunfte 1, 2, 3, 4, 5, 6, weil wir Ihnen eine andere Form der
-                              Behandlung des Gegenstandes vorschlagen werden. Was die
-                              Geschäftsführung selbst anbelangt, so schlägt Ihnen der
-                              Geschäftsordnungsausschuß vor, daß heute nachmittags die
-                              Generaldebatte abgeführt werden fofl, die wir heute zu Gndeführen
-                              wollen. Morgen vormittags foll dann eine Sitzung stattfinden, die
-                              nicht als Plenarsitzung der Länderkonferenz, sondern als eine
-                              Ausschußfitzung gelten soll In dieser Sitzung follen die ersten zwei
-                              Punkte, die wir als Behandlungsgegenstände verhandeln wollen, die
-                              Rompetenz und die Finanzen ausschußzmäßig verhandelt werden. Gs werden
-                              die Herren Referenten von den Staatsämtern das Wort ergreifen und der
-                              Herr Staatssekretär selbst in liebenswürdiger Weise alle verlangten
-                              Aufflärungen geben. Diese Sitzung soll weder stenographisch
-                              aufgenommen noch darüber ein Protofoll geführt werden. Gs foll ganz
-                              eine interne Sitzung jein, die wohl als Ausschußzsitzung der
-                              Länderkonferenz gedacht ist, an der sich jedoch sämtliche Herren der
-                              Länderkonferenz beteiligen follen. Nachmittag findet dann die
-                              Plenarsitzung der Länderkonferenz ftatt und bitten wir Sie, nach
-                              folgenden Bunften die Erledigung der Tagesordnung vorzunehmen: Punkt 1
-                              Kompetenz, Punkt 2 Finanzen, Punkt 3 Abschnitt IV. Punkt 4 Grund- und
-                              Freiheitsrecht und Punkt 5 Behandlung des Artifels 141. Das
-                              Geschäftsordnungskomitee bittet die Herren, wenn wir in die
-                              Plenarsitzung eingehen, weniger auf lange Reden zu sehen, als auf
-                              strenge, kurze und fachliche Behandlung der Gegenstände, die jeweils
-                              auf der Tagesordnung stehen. Die Parteien werden gebeten, ihre Anträge
-                              zu stellen und nachdem ohnehin eine Generaldebatte heute<pb
-                                    facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>8
-                              stattfindet, nur in kurzen Umrissen ihre Anträge zu begründen, um die
-                              Möglichkeit zu geben, daß wir so rasch als möglich mit der uns
-                              gestellten Arheit fertig werden. In großen Umrissen haben wir über die
-                              ganze Verfassung in Salzburg gesprochen. Wir glauben, daß die heutige
-                              Tägung dazu bestimmt sein soll, über die Verfassung eine
-                              Spezialdebatte abzuführen und dadurch dem Herrn Staatssekretär unsere
-                              Wünsche bekanntzugeben. Nur auf diese Art und Weise, wenn nicht
-                              allzuviel gesprochen wird, ift die Möglichkeit vorhanden, rechtzeitig
-                              auch hier in Zinz fertig zu werden. Ich gestatte mir im Namen des
-                              Ausschusses Sie zu bitten, auf die vorgeschlagene Form der Tagung
-                              einzugehen. Herr Vorsitzender Dr. Mintelen: Zum Worte gemeldet sind
-                              bisher Herr Landeshauptmannstellvertreter Gruber, Herr
-                              Landeshauptmannftellvertreter Langoth, Herr Landeshauptmann Dr. Gnder,
-                              erner Herr Staatssekretär a. D. Dr. Steinwender und Herr Abgeordneter
-                              Runschak. Von der sozialdemokratischen Partei wird, glaube ich, noch
-                              ein Herr gemeldet werden. Ich bemerke, das Geschäftsordnungstomitee
-                              hat die Machtbefuquis bekommen, definitive Beschlüsse zu fassen. Daher
-                              sind die Mitteilungen des Herrn Landeshauptmannes Severlediglich
-                              Mitteilungen, die zur Kenntnis zu nehmen. sind. Eine Beschlußfassung
-                              und Debatté entfallen daher. Ich erteile das Wort dem Herrn
-                              Landeshauptmannftellvertreter Gruber. Herr
-                              Landeshauptmannstellvertreter von Oberösterreich Gruber: Meine sehr
-                              Verehrten! Unserer diesmaligen Tagung liegt der Vorentwurf einer
-                              Bundesverfassung in etwas abgeänderter Form vor und das ist für uns
-                              der Anlasz, uns ganz furz und prinzipiell in der Generaldebatte zu
-                              diesem Vorentwurf zu äußzern. Aukzer diesem Vorentwurf, der als
-                              Brivatarbeit des Herrn Staatsjekretärs Dr. Mahr vorgelegt worden ist,
-                              ist noch ein zweiter tretern der Grofdeutschen Partei vorgelegt
-                              worden. Meine Herren! Wir haben gegenüber diesem zweiten Entwurf des
-                              Herrn Staatsjekretärs Mahr ungefähr dasselbe zu wiederholen, was wir
-                              bereits auf der Salzburger Länderkonferenz ausgesprochen haben. Wir
-                              haben uns auch damals mit aller Entschiedenheit zu der Auffassung
-                              bekannt, daß die Schaffung einer Verfassung Sache der konstituierenden
-                              Nationalversammlung ift, daß der Länderfonferenz in Salzburg, wie auch
-                              der Ländertonferenz in Linz eigentlich die Kompetenz mangelt, an die
-                              Schaffung einer Verfassung heranzutreten. Das geht schon sehr deutlich
-                              daraus hervor, daß eigentlich in diesem Saale die Länder nicht
-                              vertreten sind, sondern daß hier Parteien erscheinen. Das kommt am
-                              deutlichsten zum Ausdruck dadurch, dan von einer Partei ein Entwurf
-                              vorgelegt wurde, von der Großdeutschen Vereinigung, nicht etwa von den
-                              Mitaliedern dieser Partei aus Salz-</p>
-                        <p>Tirol oder Oberösterreich, sondern es liegt der Intwurf der Gesamtpartei
-                              vor. Meine Herren! Die Konferenz kann zufolge ihrer ganzen
-                              Konstruktion keine Beschlüsse fassen: das, was sie berät, kann nur
-                              dienen als Vorbereitungsmaterial für die spätere Beschlußfassung an
-                              dem zuständigen Orte in der konstituierenden Nationalverfammluna. Die
-                              Meinungsäuserungen, die hier zu irgend einem Punkte des
-                              Verfassungsentwurfes abgegeben werden, sind unverbindlich ür die
-                              Entschliefjung, die die Nationalversammlung in dieser Angelegenheit
-                              fassen wird. Kurz und autwir stehen heute, wie in Salzburg, auf dem
-                              Ständpunkte, daß es die Aufgabé der konstituierenden
-                              Nationalversammlung ift, die Verfassung zu bechließen. Es könnte aus
-                              dieser Darftellung etwa der Schluß gezogen werden, als ob wir mit
-                              unjerer Steflungnahne eine Verzögerung des Verfasjungswerkes bewirken
-                              wollten. Auch nach dieser Richtung hin können wir bestimmt und präzis
-                              erklären, daß wir nicht die Absicht haben, das Zustandekommen der
-                              Verfassung nach irgend einer Richtung hin zu verzögern. Eine
-                              Verfassung könnte unter Umständen ehr rasch Gesetzesgestalt erlangen,
-                              wenn die eine oder andere Partei sich für einen vorliegenden Entwurf
-                              entscheidet. Wir werden ja Gelegenheit haben, vielleicht in fürzerer
-                              oder späterer Zeit Ihnen auch einen Entwurf, der von unserer
-                              Parteidurchgearbeitet worden ift, vorzulegen. Wenn die Möglichkeit
-                              vorhanden wäre, daß die Herren sich unserer Meinung anschließen
-                              würden, so wäre die Verfassungsfrage sehr rasch der Lösung zuzuführen.
-                              Zwischenruf: „Umgekehrt1") Umgekehrt auch, auch dann, wenn wir einem
-                              Ihrer Vorentwürfe, zum Beispiel den Entwurf der Großdeutschen
-                              Vereinigung, mit ganz geringen Veränderungen unsere Zustimmung geben.
-                              Gs wird Ihnen aber klar sein, daß das ein Ding der Unmöglichkeit ist
-                              und deshalb mußz man einsehen, daß eine Verfassung nicht Entwurf der
-                              österreichischen Verfassung von Ver-(von heute auf morgen gemacht
-                              werden kann und daf eine ganze Reihe von wichtigen Beratungen
-                              notwendig sein wird. Es handelt sich ja um ein Werk, das wirksam sein
-                              wird für Generationen. 5s fann alfo unter feinen Umständen ein Vorwurf
-                              gemacht werden, wenn wir keinem der vorliegenden Entwürfe die
-                              Zustimmung widerspruchs(os geben können. Meine Herren! Wir wiederholen
-                              hier wieder, daß wir uns gegenüber dem vorliegenden Entwurf, der uns
-                              vom Herrn Staatssekretär Dr. Mahr in zweiter Auflage vorgelegt worden
-                              ift und der aufeinige Meinungsäusierungen, die in Salzburg von den
-                              einzelnen Parteien vorgebracht wurden, Rücksicht genommen hat, daß wir
-                              diesem Vorentwurf gegenüber an unserer prinzipiellen Auffassung
-                              festhalten, die wir in Salzburg zum Ausdrück brachten. Wir sind der
-                              Meinuna, daß der neue Staät als Zeutralstaat aufgebaut werden soll und
-                              unser Bestreben wird sein, dieser Idee Erfolg zu verburg oder von den
-                              Mitgliedern der Partei aus(schaffen. Unser Bestreben wird es sein, die
-                                    zentrali-<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"
-                              />stische Auffassung vom Staat auch im Verfassungsentwurf zum Ausdruck
-                              zu bringen. Nur in dem Falle, wenn, sagen wir, gewisse Umstände es
-                              unter allen Umständen unmöglich machen würden, dem Zentralstaate das
-                              Wort zu reden, könnte von unserer Seite schließlich auch bis zu einem
-                              gewissen (grade der föderaliitische Gedanke in Betracht gezogen
-                              werden. Aber wenn wir uns für das eine oder das andere Prinzip
-                              entscheiden, es muß ganze Arbeit geleiftet werden, mit Salbheiten kann
-                              män ein großes Werk nicht machen. So ungefähr, wie der uns vorliegende
-                              Entwurf nur, sagen wir aus einer anderen Verfassung die Zibeben
-                              herausholt, die der Partei des Verfassers munden kann man die Sache
-                              nicht machen. Der Entwurt brinat uns feine Verfassung, die den
-                              zentralistischen Gedanken präzis zum Ausdruck bringt das schon gar
-                              nicht — aber auch der Gedanke des Töderalisnius ist verwässert und
-                              durch eine Reihe von Einschränkungen unannehmbar. Ich will auf
-                              folgendes verweisen: Für uns ist die Verfassungsfrage nur lösbar, wenn
-                              sie gleichzeitig mit der Verwaltungsreform durchgeführt wird. Zwischen
-                              diesen beiden Aufgaben wollen wir eine innige Verknübfung. So kann die
-                              Sache nicht aufgefaßt werden, daß man in Bezug auf den Staat für die
-                              Länder den Töderalismus fordert, die einzelnen Länder aber als
-                              Zentralftaaten fonftruiert. Wenn man schon den föderalistischen
-                              Gedanken der Verfassung zugrunde legen will, dann müssen diese
-                              Prinzipien lückenlos bis zur Gemeinde ihre Durchführung finden. Wir
-                              legen daher ein großes Gewicht darauf, daß das Prinzib der
-                              Selbstverwaltung in dem Verfafsungswerk selbst festgelegt wird. Für
-                              uns ist jede Verfassung, die nicht sogleich auch die Verwältungsreform
-                              in sich schließt, mehr oder weniger unannehmbar. Wir legen großes
-                              (eiicht darauf, daß gleichzeitig mit der Verfässung auch modernen
-                              Anforderungen entsprechende Bezirfsvertretungen geschaffen und alle
-                              damit in Verbindung stehenden Forderungen erfüllt werden. Schon in
-                              Salzbura haben wir uns auf den Standpunft des Ginkammerfyftems
-                              gestellt. Der Entwurf des Herrn Staatssekretärs Doktor Maur weicht von
-                              dieser von uns wiederholt geäusierten Forderung ab und konstruiert
-                              einen Bundesrat, dem er mehr oder weniger die Aufgabe eines
-                              Herrenhaufes zubilligt. In einer ganzen Reihe von Bestimmungen dieses
-                              Verfassungsentwurfes wird diesem Bundesrat gegenüber dem Bundestag
-                              eine überragende tellung gesichert. Mit einem Wort. es wird das alte
-                              Herrenhaus, das in den Nobembertagen des Jahres 1918 Gott jei Dank
-                              verendet ift, wieder zu neuem Leben erweckt und in einer Form, die
-                              ganz unannehmbar erscheint. Die Zusammensetzung dieses Bundesrates
-                              soll eine derartige sein, daß wir ihr unsere Zustimmung nicht geben
-                              könnten.</p>
-                        <p>9 ter einer überragenden Körperschaft gewährt werden foll, die in einer
-                              ganzen Reihe wichtiger Fragen die Beschlüsse des Bundestages
-                              annullieren kann. Auch bezüglich der Präsidentenwahl sind wir anderer
-                              Meinung, als sie der Entwurf zum Ausdrucke bringt. Nach dem uns
-                              vorliegenden Entwurfe soll der Präsident vom ganzen Volke gewählt
-                              werden, es soll aljo ungefähr dasselbe Sustem eingeführt werden, wie
-                              das in Amerikader Fall ist. Wir von unserem Standpunkte erwärmen uns
-                              eher für die Übung, die in Frankreich gebräuchlich ist, weil wir uns
-                              sagen müssen, daß die Wahl des Präsidenten durch das ganze Volk die
-                              Gefahr des Cäfarismus mit sich bringt. Jedenfalls wird es vorzuziehen
-                              sein, wenn der Präsident des Staates aus der Nationalberfammlung,
-                              beffer gefagt aus dem Bundestage gewählt wird und die Funktion des
-                              Staatsoberhauptes mit jener des Präsidenten der Nationalbersammlung
-                              refpeftive des Bundestages in seiner Veron vereinigt. Im Verlaufe der
-                              öffentlichen Diskussion, die über die Verfassung geführt wurde, ist
-                              auch bekannt geworden, daß beispielsweise Wien aus dem Verbande des
-                              Landes Niederöfterreich herausgehoben und zu einem felbständigen Lande
-                              werden soll. Ich von meinem Standpunkte als Oberösterreicher muß dazu
-                              sagen, daß mich die Sache mehr oder weniger nichts angeht, das werden
-                              die Niederöfterreicher unter sich auszumachen haben. Aber es ift eine
-                              Forderung unferseits, daß das Selbstbestimmungsrecht des Volkes seine
-                              Grenzen nicht innerhalb der Landesgebiete findet, sondern das
-                              Selbstbestimmungsrecht muß schließlich auch eine größzere Auzdehnung
-                              erhalten. e muß dafür Sorge getragen werden, daß, wenn durch eine
-                              einwandfreie Volksabstimmung in zusammenhängenden Gebieten eine
-                              Änderung der bisherigen Grenzen der Vermaltungseinheiten notwendig
-                              erscheint, die Verfassung eine derartige Änderung gestattet. Eine
-                              Verfassung, die sich das Volk gibt, kann an den Greignissen unserer
-                              Tage nicht achtlos vorübergehen. In unserem öffentlichen Leben hat
-                              sich der sozialistische Geist zweifellos in einem gewissen Umfang
-                              bemerkbar gemacht. Die Zahl derjenigen, die sich zum Sozialismus
-                              bekennen, ist so groß, die Zahl derenigen, die als Endziel ihrer
-                              politischen Vetätijung den fozialistischen Staat fordern. ist so
-                              bedeutend, daß man über sie nicht hinweggehen kann, und in Konsequenz
-                              dieses Gedankens ist es selbsiverständlich, daß auch in der Verfassung
-                              dieser Gedanke nicht ausgelöscht sein kann. Im Gegenteil, eine
-                              Verfafsung, die in der heutigen Zeit gegeben wird, muß auf diese
-                              Gesinnung, die die heutige Gefellschaft bewegt, Rücksicht nehmen. G3
-                              wird insbesondere auf dem Gebiete der Noch weniger, daß dem Bundesrate
-                              der Charak-1Grundrechte der Staatsbürger Gelegenheit ge-<pb
-                                    facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>10 geben
-                              sein — es wird dies wohl die Aufgabe einer späteren Zeit sein — hier
-                              unsere Auffaisung zur Geltung zu bringen. Wir können jedenfalss sagen,
-                              daß der Staat, der in der Vergangenheit eigentlich das Instrument war,
-                              um das Privateigentum nach allen Richtungen hin gegen unberechtigte
-                              Angriffe zu schüßen, daß dieser Staat der Vergangenheit angehört. Der
-                              Staat der Gegenwart, der das Eigentum nach einer gewissen Richtung und
-                              im gewissen Umfange verbürgt und sichert, diejer Staat mußz umgekehrt
-                              auch das Recht erhalten, dieses Eigentum enteignen zu können. Darüber
-                              werden wir noch später zu reden haben. Mit einem Wort. die Verfassung
-                              genügt nicht, wenn ie nur die politische Demokratie verwirklicht, die
-                              Verfassung muß einen Schritt weiter gehen und muß auch die
-                              wirtschaftliche Demokratie verwirklichen. Meine verehrten Herren! Wir
-                              haben durchaus nicht die Absicht, wie ich eingangs sagte, die
-                              Verwirklichung der Verfassung hinauszuschieben, zu verzögern. Daher
-                              begnügen wir uns mit einigen prinzipiellen kurzen Erklärungen. Ich
-                              habe das in Bezug auf einige Punkte getan, um unsere Stellungnahme
-                              gegenüber dem verbesserten Entwurf, der uns vorliegt, zu fennzeichnen.
-                              Wir stehen nach wie vor auf dem Standpunkte, daß erstens in der Frage
-                              der Kompetenz zur Schaffung der Verfassung der Länderkonferenz eine
-                              solche abzusprechen ist und betonen ferner, daß wir nach wie vor im
-                              zentralistischen Staate unfer höchstes Tiel erblicken, daß wir
-                              zwischen Verfassung und Verwaltung ein Junktim hergestellt haben
-                              wollen und daß wir unterallen Umständen den Bundesrat ablehnen, der
-                              das alte Serrenhaus wieder erftehen läßt, und daß wir es ablehnen,
-                              wenn der Entwurf hinsichtlich der Zusammensetzung des Bundesrates die
-                              tatsächlichen Verhältnisse außer acht läßzt. Daß wir ferner in Bezug
-                              auf die Präsidentenwahl auf dem Standpunkt stehen, daß so wie in
-                              Frankreich die Wahl auf dem Bundestage erfolgt und daß das
-                              Selbstbestimmungsrecht nicht nur der Länder, sondern auch der Gebiete
-                              uns unverletzlich erscheint. Das ist unser prinzipieller Standpunkt,
-                              den ich ganz kurz vorbringen wollte. (,Brabo!“ Brabo!" bei den
-                              Parteigenossen. Herr Vorsitzender Dr. Rintelen: Zum Worte gelangt Herr
-                              Lanbeshauptmannstellvertreter Langoth. Herr
-                              Landeshauptmannstellvertreter von Oberösterreich Lanaoth: Meine
-                              Herren! Unsere Parteigrubbe hat vor wenigen Tagen einen Delegiertentag
-                              in Linz abgehalten und bei diesem Gelegenheit genommen, zur Frage der
-                              Verfassung Stellung zu nehmen. Wir haben uns auf einen vollständig
-                              ausgearbeiteten Verfassungsentwurf geeinigt und uns erlaubt, diesen
-                              Verfassungsentwurf heute der Länderkonferenz vorzulegen. Ich hege
-                              nicht dieIden ihm zukommenden politischen Anteil an Macht,</p>
-                        <p>Absicht, alle Einzelheiten unjeres Entwurfes zu erörtern, sondern möchte
-                              mich lediglich darauf beschränken, die wichtigsten Bestimmungen und
-                              rundsätze, insbesondere aber jene Bestimmungen hervorzuheben, welche
-                              eine Abweichung von dem Entwürfe des Herrn Staatssekretärs Dr.
-                              Mahrbedeuten. Vorausschicken muß ich, daß wir eins sind mit dem
-                              Mahrschen Entwurfe in dem Grundake, daß Oiterreich eine demokratische
-                              Republik und daß Osterreich ein Bundesstaat werden soll. In der Frage
-                              der Bundesglieder, der Trennung Wiens von Niederösterreich, gehen
-                              unsere Meinungen schon etwas auseinänder. Der HerrStaätssekretär löft
-                              diese Frage in seinem Entwürfe bereits, hebt Wien von Niederösterreich
-                              heraus, reiht Wien ein als gleichberechtiates Glied in den
-                              Bundesstaat. Wir stehen auf dem Standpunkte, daß dies eine Frage ist,
-                              welche den Niederöfterreichern und Wienern überlassen werden muß
-                              (Züruf von den Sozialdemokraten: „So ist es11 und aus diesem Gründe,
-                              weil wir dieser Frage in Anerkennung des Selbftbestimmungsrechtes
-                              nicht vorgreifen wollen, haben wir in unserem Entwurfe, im Artikel 2,
-                              die Fafsung gewählt: „Wenn die Stadt Wien aus dem Verbände des Landes
-                              Niederösterreich ausscheidet und zu einem selbständigen Gebiet wird
-                              und sobald das Heinzenland sich als elbständiges Land bildet, werden
-                              Wien und Heinzenland felbständige und gleichberechtigte Glieder des
-                              Bundesstaates“. Damit nun bei einer eventuellen fpäteren Löfung der
-                              Frage, bei einer eventuellen späteren Trennung Wiens von
-                              Niederösterreich, keine verfassungsmäßigen Schwierigkeiten auftauchen,
-                              haben wir im Artikel 3 im Zufammenhange mit dieser Frage die Fassung
-                              gewählt: Die Änderung der Grenzen zweier Länder, die Teilung eines
-                              Landes, die Zusammenlequna mehrerer Länder erfolgt durch
-                              übereinstimmende Gefeke des Bundes und der beteiligten Länder.“ Ich
-                              habe schon eingangs gesägt, daß wir einig sind mit dem Mahrschen
-                              Entwurf in dem Gedanken, daß Öfterreich eine demokratische Republik
-                              sein musz. Der Staat ist die Rechtsform für das Gesamtleben einer
-                              völterschaftlichen Einigung. Die in der vergangenen Zeit über den
-                              Zweck des Staatswesens in Geltung gestandenen Grundsätze waren
-                              zweifellos unzulänglich und müssen beseitigt werden. Es muß wohl der
-                              Grundsatz zum Ausdruck kommen, daß der Staat wegen seiner Bürger da
-                              ift und in Ronsequenz dieses Gedankens muß wohl festgelegt werden, daß
-                              der Staat den Zweck hat, feine Bürger heranzuziehen zur politischen
-                              und wirtschaftlichen Betätigung im Interesse der Gesamtheit. Wenn im
-                              vorliegenden Mahrschen Entwurf der Grundsatz festaelegt ist, daß alle
-                              Gewalt vom Volte ausgeht, eingefetzt und in einem Namen ausgeführt
-                              wird, so müssen wir erklären, daß dieser Grundsatz nicht genügend ist.
-                              Jeder Staatsbüraer hat nicht nur ein Recht auf<pb facs="#facs_9" n="9"
-                                    xml:id="img_0009" break="yes"/>er hat auch ein Recht auf den ihm
-                              zukommenden wirtschaftlichen Anteil an Macht. Wir haben in unserem
-                              Verfassungsentwurf nicht allein die formelle Demotratie, wir haben
-                              auch die materielle Demofratie ausgesprochen und zur Durchführung
-                              gebracht. Einig mit dem Mahrschen Verfassungsentwurf sind wir in dem
-                              Systein der Verteilung der Gewalten zwischen dem Bunde und den
-                              Ländern. Staatssekretär Dr. Mahr unterscheidet einen ausschließlichen
-                              Wirkungskreis, einen grundlegenden Wirkungskreis und einen
-                              grundsätzlichen Wirkungskreis. Wir stimmen darin mit ihm völlig
-                              überein. Nur haben wir dieses Sustem der Kompetenzverteilung in einem
-                              eigenen Artifel der Klarheit wegen festgelegt. Gs scheint uns dies
-                              nicht nur von formeller, sondern auch von wefentlicher Bedeutung zu
-                              sein. Hinsichtlich der Kompetenzteilung felbft gehen unsere Meinungen
-                              in wichtigen Belangen auseinander. Wir haben im Artikel VI. Punkt 10,
-                              in den ausschließlichen Wirtungstreis das gesamte Schulweien mit
-                              Ausnahme der landwirtschaftlichen Fach- und Fortbildungsschulen
-                              gewiesen. Der Mahrsche Entwurf will dem ausschließlichen Wirkungskreis
-                              nur das Hochschulwesen und die fachlichen Zentrallehranstalten
-                              überweisen, während die pädagogischen und die taktischen Einrichtungen
-                              der mittleren und niederen Lehranftalten nur dem grundsetzlichen
-                              Wirkungskreise überlassen bleiben. Dieser Unterschied scheint uns ein
-                              außzerordentlich wesentlicher zu sein und ich mußz erklären, daß wir
-                              in der Schulfrage diesen Standpunkt als einen für uns grundsätzlichen
-                              vertreten. Bezüglich der Steuerquellenverteilung zwischen Vund und
-                              Ländern haben wir den Grundsat aufgestellt, daß zumindest das
-                              Erträgnis der von Grund und Boden zu entrichtenden Steuern den Ländern
-                              zu verbleiben hat und daß die Steuern im Lande der Produktionsstätte
-                              zu entrichten find. Arbeiterrecht und Arbeiterschutz einschließlich
-                              dieser Angelegenheiten der land- und forftwirtschaftlichen Arbeiter
-                              sind in unserem Entwurfe dem Bunde übertragen. Dr. Mahr will die
-                              Regelung dieser Rechtsverhältnisse für die land- und
-                              forstwirtschaftlichen Arbeiten den Ländern überlassen. Das Presserecht
-                              ist in unserem Entwurfe dem ausschließlichen Wirkungskreise
-                              überwiesen. Im grundlegenden Wirtungskreise unterscheiden wir uns
-                              dadurch, daß wir im Artikel VII, Punkt 1 die Organifation der
-                              Landesbehörden aufgenommen haben, was der Mahrsche Entwurf im
-                              grundsätzlichen Wirkungskreise durchführen will. in unserer Vorlage!
-                              die Oräanisation der Esfendarmerie und Polizei außerhalb Wiens. Der
-                              Manr'sche Entwurf hat im Artikel X. Punkt 12, die innere Einrichtung
-                              und Ausrüftuung der Gendarmerie dem ausschließlichen Wirkungskreise
-                              überwiesen.</p>
-                        <p>11 Formell ist ein Unterschied zwischen unserem und dem Mahrichen
-                              Entwürfe darin gelegen, daß wir das Käpitel über die Grund- und
-                              Freiheitsrechte, über die Rechte und Pflichten der Staatsbürger der
-                              Organisation des Bundes voranstellen. Wir haben diese Voranstellung
-                              mit einer gewissen, bestimmten Absicht durchgeführt, weil wir der
-                              Meinung sind, daß der wichtiaste Teil der Verfassung für den einzelnen
-                              Staatsbürger in den Grund- und Freiheitsrechten gelegen ist. Nach
-                              unserer Auffassuna, daß auch die materielle Demofratie zur
-                              Verwirflichung gelangen muß, ist in unseren Grundrechten auch die
-                              Forderung aufgenommen, daß jedem Schaffenden eine angeniessene
-                              Anteilnahme an dem Ertrage der Boltswirtschaft gesichert sein muk.
-                              Ferner ist die Verpflichtung jedes Staatsbürgers zur körberlichen oder
-                              geistigen Arbeit ohne Rücksicht auf seinen Besitz klar ausgesprochen.
-                              Bezüglich der Organe der Bundesgewalt decken wir uns mit dem Entwurie
-                              des Herrn Staatsfetretärs. Bundespräsident, Bundesregierung,
-                              Bundesrat, Bundestag, Volksbegehren und Volksentscheid sind auch in
-                              unserer Vorlage vorgesehen. In der umgeänderten Auflage seines
-                              Entwurfes läßt der Herr Staatssekretär die Wahl des Bundespräsidenten
-                              vom ganzen Volke durchführen. In dieser Anschauung stimmen wir mit ihm
-                              völlig überein. Wenn der Vundespräsident vom ganzen Volfe gewählt
-                              wird, so erscheint es auch gerechtjertigt, wenn demselben größere
-                              Rechte, als dies ursprünglich im Mahrschen Entwürfe vorgefehen war,
-                              zukommen. Nach unserem Entmurfe foll dem Bundespräsidenten die
-                              Ernennung des Bundeskanzlers und der Bundesminister über Vorschlag des
-                              Bundestages, die Ernennung der Landeshauptleute und ihrer
-                              Stellvertreter über Vorschläg der Landtage zuftehen. Bezüglich
-                              Volksentscheid und Volksbeaehren geht unser Entwurf weiter als der
-                              Mahrsche. Der Volksentscheid ist bei unserem Entwürfe ausgedehnt auf
-                              den Abschlußz der Friedensverträge und auf die eventuelse Absetzung
-                              des Bundeöpräsidenten. Hinsichtlich der Organe der Länder. Landtag und
-                              Landesregierung, stimmen wir mit dem Entwurfe ziemlich überein. Auch
-                              in unserem Entwurfe ist die Zweiteilung vorgesehen zwischen
-                              Landtagspräsidenten und dem Landeshauptmann. Der Landtag wählt sich
-                              seinen Präsidenten. Die Landesregierung befteht aus dem LandeshauptDer
-                              grundsätzliche Wirkungskreis enthält(mann, dessen Stellvertretern und
-                              den Landesräten. Der Landeshauptmann und dessen Stellvertreter werden
-                              über Vorschlag des Landtages vom Bundespräsidenten ernannt, die
-                              Landesräte aus dem Landtage gewählt. Was die Einführung der
-                              Volfsinitiative und des Voltsentscheides in Land und Gemeinde
-                              betrifft, so wird nach unserem Entwurte<pb facs="#facs_10" n="10"
-                                    xml:id="img_0010" break="yes"/>12 die Entscheidung darüber den
-                              Landtagen bei Festlegung ihrer Landesverfafsungen überlassen. Wichtig,
-                              wesentlich und besonders hervorzuheben ist die Einführung von
-                              Wirtschaftskammern, wie sie in unserem Entwurfe vorgesehen st. Wir
-                              sagen uns, wenn das erstrebte Ziel der materiellen Demofratie zur
-                              Verwirflichung kommen. soll, dann mußz getrachtet werden, zwischen
-                              Kapital und Arbeit eine Giniguna herbeizuführen, dann muß getrachtet
-                              werden. die Arbeitgeber und die Arbeitnehmer in eine Institution zu
-                              gemeinsamer Arbeit zu vereinigen, wo die brennendften Fragender
-                              Gegenwart. die Regelung der Produktion und die Regelung der Verteilung
-                              gelöft werden sollen. Unser Entwurf sieht Wirtschaftskammern vor. die
-                              ich paritätisch aus den Vertretern der Arbeitnehmer und den Vertretern
-                              der Arbeitgeber zufammenfeßzen. Die Wirtschaftskammern haben keine
-                              Tegislatorischen Befugnisse, sie sind aber zur Mitwirkung bei allen
-                              wirtschaftlichen und fozialpolitischen Gesetzen berufen durch Abaabe
-                              eines Gutachtens. Die gesekgebenden Körberschaften sind an dieses
-                              Gutachten nicht aebunden, jedoch ist die Einholung eines solchen
-                              Gutachtens obliaatorisch. Daßz mit der Verfassungsreform eng auch die
-                              Frage der Verwaltungsreform verftrüpft ist, bedarf keiner weiteren
-                              Ausführung. Wir haben auch in unserem Entwurdie Frage der
-                              Verwaltungsreform angeschnitten, weniaftens in dem Belange, daß als
-                              zweite Instanz schon in den Ländern für strittige Fragen in
-                              Verwaltungsangelegenheiten Verwaltungsgerichte vorgesehen sind, welche
-                              neben den Richtern aus Verwaltungsbeamten und Laien zufammengefetzt
-                              fein. ollen. Verehrte Herren! Ich habe in ganz kurzen Zügen mich
-                              bemüht. Ihnen die wichtigsten Gedanfen und Richtlinien unseres
-                              Entwurfes darzulegen. Wir sind bestrebt, mit dieser ernsten Arbeit
-                              beizutragen, daß das schwierige Werk der Verfassunasreform gefördert
-                              wird. Ein Verfassungswerk nach den Grundsätzen unseres Entwurfes
-                              bietet Gewähr für die politische und wirtschaftliche Entwicklung jedes
-                              Staatsbürgers. Gs ift sicher, daß durch die Folgen des unglückseligen
-                              Ausganges des Krieges sich die ganze Gesellschaftsordnung in einer
-                              unaufhaltiamen Uinbildung befindet. Wir haben in unserer Arbeit diesem
-                              Umstande, soweit es mit unseren Anschauungen vereinbarift, Rechnung
-                              getragen, Rechnung getragen in Grinnerung des Dichterwortes, daß gute
-                              Menschen und Patrioten verlernen, umlernen und zulernen follen.
-                              (,Brabo“ Bravo“1 bei den Parteigenossen. Der Herr Vorsitzende Herr Dr.
-                              Mintelen: Zum Worte gelängt Herr Landeshaubtmann Dr. Gnder. Herr
-                              Landeshauptmann von Vorarlberg Dnkter Euder: Meine sehr verehrten
-                              Herren! Wir eken hier die Arbeit von Salzbura fört und zwar nach der
-                              Salzburger Methode. Daß die nicht gerade die von uns gewünschte war,
-                              habe ich den herren in Salzburg schon gesagt. Meines Erachtens</p>
+                              einer Vorbesprechung zusammen. Sie wurden im Namen des
+                              Landeshauptmannes Hauser, der wegen einer Tagung der
+                              Nationalversammlung abwesend war, vom Landeshauptmannstellvertreter
+                              Dr. Schlegel auf das herzlichste begrüßt. Redner erklärte,
+                              Landeshauptmann Hauser hoffe, die Delegierten noch vor Abschluß der
+                              Tagung selbst in Linz begrüßen zu können. Nachdem Redner noch der
+                              Tagung den besten Erfolg gewünscht hatte, lud er das in Salzburg
+                              gewählte Präsidium ein, den Vorsitz zu übernehmen. Landeshauptmann Dr.
+                              Rintelen übernahm den Vorsitz. Über Antrag des Abgeordneten Kunschak
+                              wurde daraufhin das bereits in Salzburg gewählte Präsidium durch
+                              Abstimmung bestätigt. Es erscheinen somit als Vorsitzende mit gleichen
+                              Rechten gewählt: Landeshauptmann Dr. Rintelen (Steiermark),
+                              Landeshauptmann Sever (Niederösterreich) und Landesrat Christoph
+                              (Salzburg). Abgeordneter Kunschak beantragte weiters, die gleiche
+                              Geschäftsordnung wie in Salzburg festzusetzen. Abgeordneter Dr.
+                              Danneberg erklärt sich hiemit im Prinzip einverstanden, wünscht
+                              jedoch, daß der Antrag dem Geschäftsordnungsausschuß zugewiesen werde.
+                              Dieser könne darüber abschließend entscheiden. Der Antrag Kunschak
+                              wurde mit der Ergänzung Danneberg angenommen. Über Antrag Kunschak
+                              wird auch der gleiche Geschäftsordnungsausschuß wie in Salzburg
+                              eingesetzt, nur tritt an Stelle des Delegierten Dr. Pflanzl, der in
+                              Linz nicht erschienen ist, der von der Großdeutschen Vereinigung
+                              nominierte Landeshauptmannstellvertreter Langoth. Der
+                              Geschäftsordnungsausschuß hat demnach folgende Mitglieder:
+                              Sozialdemokraten: Gruber und Danneberg; Christlichsoziale: Dr. Ender
+                              und Schumacher; Großdeutsche Vereinigung: Dr. Schmidt und Langoth.
+                              Weiters gehören dem Geschäftsordnungsausschusse an die Vorsitzenden
+                              der Konferenz sowie Staatssekretär Dr. Mayr als Teilnehmer. In den
+                              Presseausschuß werden gewählt: Dr. Schumacher (wiedergewählt) und
+                              Speiser, sowie Dr. Mittermann (neu). Die erste Plenarsitzung der
+                              Konferenz wurde für morgen 4 Uhr nachmittags festgesetzt. </p>
+                        <head><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>Erste Sitzung
+                              am 21. April 1920. </head>
+                        <p>Vorsitzender: Der Herr Landeshauptmann von Steiermark Dr. Rintelen. </p>
+                        <p>Eröffnung der Sitzung um 4 Uhr 18 Minuten nachmittags.</p>
+                        <sp>
+                              <speaker>Herr Landeshauptmann Dr. Rintelen: </speaker>
+                              <p>Verehrte Herren! Indem ich hiemit die Sitzungen der Länderkonferenz
+                                    eröffne, erkläre ich, daß das gestern von Ihnen gewählte
+                                    Präsidium dankend die Wahl angenommen hat, ebenso wie der
+                                    gewählte Geschäftsordnungsausschuß, der bereits gestern
+                                    zusammengetreten ist. Seine Beschlüsse werden dann von Herrn
+                                    Landeshauptmann Sever mitgeteilt werden. Als Einlauf kommt in
+                                    Betracht eine Zuschrift des Städteverbandes, die bereits gestern
+                                    im Geschäftsordnungsausschuß erledigt worden ist; dann eine
+                                    Zuschrift des Verbandes der land- und forstwirtschaftlichen
+                                    Arbeiter, welche sich dagegen verwahrt, daß der Arbeiterschutz
+                                    für diese Arbeiter nicht durch die Bundesverfassung geregelt
+                                    wird, sondern eben verlangt gleichmäßige Behandlung des gesamten
+                                    Arbeiterschutzes, also auch des Arbeiterschutzes der land- und
+                                    forstwirtschaftlichen Arbeiter durch die Bundesgesetzgebung;
+                                    dann eine Zuschrift des oberösterreichischen
+                                    Landes-Mittelstandsrates, die eine schleunige Durchführung der
+                                    Verfassung auf der Länderkonferenz begehrt. Ich möchte mir dann
+                                    noch erlauben mitzuteilen, daß heute abends das Theater um halb
+                                    acht Uhr stattfindet und daß keine Karten ausgegeben werden,
+                                    sondern die Herren haben vor sich den Sitzplan zur
+                                    Festvorstellung und aus diesem Sitzplan ergibt sich, welche
+                                    Plätze den einzelnen Herren angewiesen sind. Ich erteile zuerst
+                                    das Wort dem Herrn Landeshauptmann Sever mit der Bitte, über das
+                                    Ergebnis der gestrigen Konferenz des Geschäftsordnungskomitees
+                                    zu berichten. Herr Landeshauptmann von Niederösterreich </p>
+                        </sp>
+                        <sp>
+                              <speaker>Sever: </speaker>
+                              <p>Hochverehrte Herren! Das Geschäftsordnungskomitee schlägt Ihnen
+                                    vor, die Geschäftsordnung, die wir uns in Salzburg gegeben
+                                    haben, mit einigen kleinen Abänderungen neuerdings wieder
+                                    annehmen zu wollen. Im § 2, Absatz 3, ist eine irrtümliche
+                                    Schreibweise. Es heißt dort, wenn ein Antrag auf Schluß der
+                                    Debatte gestellt und angenommen wird, so wird sofort zur
+                                    Abstimmung über den Verhandlungsgegenstand geschritten. Es soll
+                                    heißen: „Wird sofort die Meinungsäußerung der verschiedenen
+                                    Parteien zur Kenntnis genommen“, so wie wir das in Salzburg
+                                    beschlossen haben. Im Artikel 5 der Geschäftsordnung sind zu
+                                    streichen die Punkte 1, 2, 3, 4, 5, 6, weil wir Ihnen eine
+                                    andere Form der Behandlung des Gegenstandes vorschlagen werden.
+                                    Was die Geschäftsführung selbst anbelangt, so schlägt Ihnen der
+                                    Geschäftsordnungsausschuß vor, daß heute nachmittags die
+                                    Generaldebatte abgeführt werden soll, die wir heute zu Ende
+                                    führen wollen. Morgen vormittags soll dann eine Sitzung
+                                    stattfinden, die nicht als Plenarsitzung der Länderkonferenz,
+                                    sondern als eine Ausschußsitzung gelten soll. In dieser Sitzung
+                                    sollen die ersten zwei Punkte, die wir als
+                                    Behandlungsgegenstände verhandeln wollen, die Kompetenz und die
+                                    Finanzen ausschußmäßig verhandelt werden. Es werden die Herren
+                                    Referenten von den Staatsämtern das Wort ergreifen und der Herr
+                                    Staatssekretär selbst in liebenswürdiger Weise alle verlangten
+                                    Aufklärungen geben. Diese Sitzung soll weder stenographisch
+                                    aufgenommen, noch darüber ein Protokoll geführt werden. Es soll
+                                    ganz eine interne Sitzung sein, die wohl als Ausschußsitzung der
+                                    Länderkonferenz gedacht ist, an der sich jedoch sämtliche Herren
+                                    der Länderkonferenz beteiligen sollen. Nachmittag findet dann
+                                    die Plenarsitzung der Länderkonferenz statt und bitten wir Sie,
+                                    nach folgenden Punkten die Erledigung der Tagesordnung
+                                    vorzunehmen: Punkt 1 Kompetenz, Punkt 2 Finanzen, Punkt 3
+                                    Abschnitt IV, Punkt 4 Grund- und Freiheitsrecht und Punkt 5
+                                    Behandlung des Artikels 141. Das Geschäftsordnungskomitee bittet
+                                    die Herren, wenn wir in die Plenarsitzung eingehen, weniger auf
+                                    lange Reden zu sehen, als auf strenge, kurze und sachliche
+                                    Behandlung der Gegenstände, die jeweils auf der Tagesordnung
+                                    stehen. Die Parteien werden gebeten, ihre Anträge zu stellen und
+                                    nachdem ohnehin eine Generaldebatte heute <pb facs="#facs_6"
+                                          n="6" xml:id="img_0006" break="yes"/>stattfindet, nur in
+                                    kurzen Umrissen ihre Anträge zu begründen, um die Möglichkeit zu
+                                    geben, daß wir so rasch als möglich mit der uns gestellten
+                                    Arbeit fertig werden. In großen Umrissen haben wir über die
+                                    ganze Verfassung in Salzburg gesprochen. Wir glauben, daß die
+                                    heutige Tagung dazu bestimmt sein soll, über die Verfassung eine
+                                    Spezialdebatte abzuführen und dadurch dem Herrn Staatssekretär
+                                    unsere Wünsche bekanntzugeben. Nur auf diese Art und Weise, wenn
+                                    nicht allzuviel gesprochen wird, ist die Möglichkeit vorhanden,
+                                    rechtzeitig auch hier in Linz fertig zu werden. Ich gestatte mir
+                                    im Namen des Ausschusses Sie zu bitten, auf die vorgeschlagene
+                                    Form der Tagung einzugehen. </p>
+                        </sp>
+                        <sp>
+                              <speaker>Herr Vorsitzender Dr. Rintelen: </speaker>
+                              <p>Zum Worte gemeldet sind bisher Herr Landeshauptmannstellvertreter
+                                    Gruber, Herr Landeshauptmannstellvertreter Langoth, Herr
+                                    Landeshauptmann Dr. Ender, ferner Herr Staatssekretär a. D. Dr.
+                                    Steinwender und Herr Abgeordneter Kunschak. Von der
+                                    sozialdemokratischen Partei wird, glaube ich, noch ein Herr
+                                    gemeldet werden. Ich bemerke, das Geschäftsordnungskomitee hat
+                                    die Machtbefugnis bekommen, definitive Beschlüsse zu fassen.
+                                    Dabei sind die Mitteilungen des Herrn Landeshauptmannes Sever
+                                    lediglich Mitteilungen, die zur Kenntnis zu nehmen sind. Eine
+                                    Beschlußfassung und Debatte entfallen daher. Ich erteile das
+                                    Wort dem Herrn Landeshauptmannstellvertreter Gruber. </p>
+                        </sp>
+                        <sp>
+                              <speaker>Herr Landeshauptmannstellvertreter von Oberösterreich Gruber: </speaker>
+                              <p>Meine sehr Verehrten! Unserer diesmaligen Tagung liegt der
+                                    Vorentwurf einer Bundesverfassung in etwas abgeänderter Form vor
+                                    und das ist für uns der Anlaß, uns ganz kurz und prinzipiell in
+                                    der Generaldebatte zu diesem Vorentwurf zu äußern. Außer diesem
+                                    Vorentwurf, der als Privatarbeit des Herrn Staatssekretärs Dr.
+                                    Mayr vorgelegt worden ist, ist noch ein zweiter Entwurf der
+                                    österreichischen Verfassung von Vertretern der Großdeutschen
+                                    Partei vorgelegt worden. Meine Herren! Wir haben gegenüber
+                                    diesem zweiten Entwurf des Herrn Staatssekretärs Mayr ungefähr
+                                    dasselbe zu wiederholen, was wir bereits auf der Salzburger
+                                    Länderkonferenz ausgesprochen haben. Wir haben uns auch damals
+                                    mit aller Entschiedenheit zu der Auffassung bekannt, daß die
+                                    Schaffung einer Verfassung Sache der konstituierenden
+                                    Nationalversammlung ist, daß der Länderkonferenz in Salzburg,
+                                    wie auch der Länderkonferenz in Linz eigentlich die Kompetenz
+                                    mangelt, an die Schaffung einer Verfassung heranzutreten. Das
+                                    geht schon sehr deutlich daraus hervor, daß eigentlich in diesem
+                                    Saale die Länder nicht vertreten sind, sondern daß hier Parteien
+                                    erscheinen. Das kommt am deutlichsten zum Ausdruck dadurch, daß
+                                    von einer Partei ein Entwurf vorgelegt wurde, von der
+                                    Großdeutschen Vereinigung, nicht etwa von den Mitgliedern dieser
+                                    Partei aus Salzburg oder von den Mitgliedern der Partei aus
+                                    Tirol oder Oberösterreich, sondern es liegt der Entwurf der
+                                    Gesamtpartei vor. Meine Herren! Die Konferenz kann zufolge ihrer
+                                    ganzen Konstruktion keine Beschlüsse fassen; das, was sie berät,
+                                    kann nur dienen als Vorbereitungsmaterial für die spätere
+                                    Beschlußfassung an dem zuständigen Orte in der konstituierenden
+                                    Nationalversammlung. Die Meinungsäußerungen, die hier zu irgend
+                                    einem Punkte des Verfassungsentwurfes abgegeben werden, sind
+                                    unverbindlich für die Entschließung, die die Nationalversammlung
+                                    in dieser Angelegenheit fassen wird. Kurz und gut: wir stehen
+                                    heute, wie in Salzburg, auf dem Standpunkte, daß es die Aufgabe
+                                    der konstituierenden Nationalversammlung ist, die Verfassung zu
+                                    beschließen. Es könnte aus dieser Darstellung etwa der Schluß
+                                    gezogen werden, als ob wir mit unserer Stellungnahme eine
+                                    Verzögerung des Verfassungswerkes bewirken wollten. Auch nach
+                                    dieser Richtung hin können wir bestimmt und präzis erklären, daß
+                                    wir nicht die Absicht haben, das Zustandekommen der Verfassung
+                                    nach irgend einer Richtung hin zu verzögern. Eine Verfassung
+                                    könnte unter Umständen sehr rasch Gesetzesgestalt erlangen, wenn
+                                    die eine oder andere Partei sich für einen vorliegenden Entwurf
+                                    entscheidet. Wir werden ja Gelegenheit haben, vielleicht in
+                                    kürzerer oder späterer Zeit Ihnen auch einen Entwurf, der von
+                                    unserer Partei durchgearbeitet worden ist, vorzulegen. Wenn die
+                                    Möglichkeit vorhanden wäre, daß die Herren sich unserer Meinung
+                                    anschließen würden, so wäre die Verfassungsfrage sehr rasch der
+                                    Lösung zuzuführen. (Zwischenruf: „Umgekehrt!“) Umgekehrt auch,
+                                    auch dann, wenn wir einem Ihrer Vorentwürfe, zum Beispiel den
+                                    Entwurf der Großdeutschen Vereinigung, mit ganz geringen
+                                    Veränderungen unsere Zustimmung geben. Es wird Ihnen aber klar
+                                    sein, daß das ein Ding der Unmöglichkeit ist und deshalb muß man
+                                    einsehen, daß eine Verfassung nicht von heute auf morgen gemacht
+                                    werden kann und daß eine ganze Reihe von wichtigen Beratungen
+                                    notwendig sein wird. Es handelt sich ja um ein Werk, das wirksam
+                                    sein wird für Generationen. Es kann also unter keinen Umständen
+                                    ein Vorwurf gemacht werden, wenn wir keinem der vorliegenden
+                                    Entwürfe die Zustimmung widerspruchslos geben können. Meine
+                                    Herren! Wir wiederholen hier wieder, daß wir uns gegenüber dem
+                                    vorliegenden Entwurf, der uns vom Herrn Staatssekretär Dr. Mayr
+                                    in zweiter Auflage vorgelegt worden ist und der auf einige
+                                    Meinungsäußerungen, die in Salzburg von den einzelnen Parteien
+                                    vorgebracht wurden, Rücksicht genommen hat, daß wir diesem
+                                    Vorentwurf gegenüber an unserer prinzipiellen Auffassung
+                                    festhalten, die wir in Salzburg zum Ausdruck brachten. Wir sind
+                                    der Meinung, daß der neue Staat als Zentralstaat aufgebaut
+                                    werden soll und unser Bestreben wird sein, dieser Idee Erfolg zu
+                                    verschaffen. Unser Bestreben wird es sein, die zentrali<pb
+                                          facs="#facs_7" n="7" xml:id="img_0007" break="no"/>stische
+                                    Auffassung vom Staat auch im Verfassungsentwurf zum Ausdruck zu
+                                    bringen. Nur in dem Falle, wenn, sagen wir, gewisse Umstände es
+                                    unter allen Umständen unmöglich machen würden, dem Zentralstaat
+                                    das Wort zu reden, könnte von unserer Seite schließlich auch bis
+                                    zu einem gewissen Grade der föderalistische Gedanke in Betracht
+                                    gezogen werden. Aber wenn wir uns für das eine oder das andere
+                                    Prinzip entscheiden, es muß ganze Arbeit geleistet werden, mit
+                                    Halbheiten kann man ein großes Werk nicht machen. So ungefähr,
+                                    wie der uns vorliegende Entwurf nur, sagen wir, aus einer
+                                    anderen Verfassung die Zibeben herausholt, die der Partei des
+                                    Verfassers munden, kann man die Sache nicht machen. Der Entwurf
+                                    bringt uns keine Verfassung, die den zentralistischen Gedanken
+                                    präzis zum Ausdruck bringt — das schon gar nicht —, aber auch
+                                    der Gedanke des Föderalismus ist verwässert und durch eine Reihe
+                                    von Einschränkungen unannehmbar. Ich will auf folgendes
+                                    verweisen: Für uns ist die Verfassungsfrage nur lösbar, wenn sie
+                                    gleichzeitig mit der Verwaltungsreform durchgeführt wird.
+                                    Zwischen diesen beiden Aufgaben wollen wir eine innige
+                                    Verknüpfung. So kann die Sache nicht aufgefaßt werden, daß man
+                                    in Bezug auf den Staat für die Länder den Föderalismus fordert,
+                                    die einzelnen Länder aber als Zentralstaaten konstruiert. Wenn
+                                    man schon den föderalistischen Gedanken der Verfassung zugrunde
+                                    legen will, dann müssen diese Prinzipien lückenlos bis zur
+                                    Gemeinde ihre Durchführung finden. Wir legen daher ein großes
+                                    Gewicht darauf, daß das Prinzip der Selbstverwaltung in dem
+                                    Verfassungswerk selbst festgelegt wird. Für uns ist jede
+                                    Verfassung, die nicht sogleich auch die Verwaltungsreform in
+                                    sich schließt, mehr oder weniger unannehmbar. Wir legen großes
+                                    Gewicht darauf, daß gleichzeitig mit der Verfassung auch
+                                    modernen Anforderungen entsprechende Bezirksvertretungen
+                                    geschaffen” und alle damit in Verbindung stehenden Forderungen
+                                    erfüllt werden. Schon in Salzburg haben wir uns auf den
+                                    Standpunkt des Einkammersystems gestellt. Der Entwurf des Herrn
+                                    Staatssekretärs Doktor Mayr weicht von dieser von uns wiederholt
+                                    geäußerten Forderung ab und konstruiert einen Bundesrat, dem er
+                                    mehr oder weniger die Aufgabe eines Herrenhauses zubilligt. In
+                                    einer ganzen Reihe von Bestimmungen dieses Verfassungsentwurfes
+                                    wird diesem Bundesrat gegenüber dem Bundestag eine überragende
+                                    Stellung gesichert Mit einem Wort, es wird das alte Herrenhaus,
+                                    das in den Novembertagen des Jahre 1918 Gott sei Dank verendet
+                                    ist, wieder zu neuem Leben erweckt und in einer Form, die ganz
+                                    unannehmbar erscheint. Die Zusammensetzung dieses Bundesrates
+                                    soll eine derartige sein, daß wir ihr unsere Zustimmung nicht
+                                    geben könnten. Noch weniger, daß dem Bundesrate der Charakter
+                                    einer überragenden Körperschaft gewährt werden soll, die in
+                                    einer ganzen Reihe wichtiger Fragen die Beschlüsse des
+                                    Bundestages annullieren kann. Auch bezüglich der
+                                    Präsidentenwahlsind wir anderer Meinung, als sie der Entwurf zum
+                                    Ausdrucke bringt. Nach dem uns vorliegenden Entwurfe soll der
+                                    Präsident vom ganzen Volke gewählt werden, es soll also ungefähr
+                                    dasselbe System eingeführt werden, wie das in Amerika der Fall
+                                    ist. Wir von unserem Standpunkte erwärmen uns eher für die
+                                    Übung, die in Frankreich gebräuchlich ist, weil wir uns sagen
+                                    müssen, daß die Wahl des Präsidenten durch das ganze Volk die
+                                    Gefahr des Cäsarismus mit sich bringt. Jedenfalls wird es
+                                    vorzuziehen sein, wenn der Präsident des Staates aus der
+                                    Nationalversammlung, besser gesagt aus dem Bundestage gewählt
+                                    wird und die Funktion des Staatsoberhauptes mit jener des
+                                    Präsidenten der Nationalversammlung respektive des Bundestages
+                                    in seiner Person vereinigt. Im Verlaufe der öffentlichen
+                                    Diskussion, die über die Verfassung geführt wurde, ist auch
+                                    bekannt geworden, daß beispielsweise Wien aus dem Verbande des
+                                    Landes Niederösterreich herausgehoben und zu einem selbständigen
+                                    Lande werden soll. Ich von meinem Standpunkte als
+                                    Oberösterreicher muß dazu sagen, daß mich die Sache mehr oder
+                                    weniger nichts angeht, das werden die Niederösterreicher unter
+                                    sich auszumachen haben. Aber es ist eine Forderung unserseits,
+                                    daß das Selbstbestimmungsrecht des Volkes seine Grenzen nicht
+                                    innerhalb der Landesgebiete findet, sondern das
+                                    Selbstbestimmungsrecht muß schließlich auch eine größere
+                                    Ausdehnung erhalten. Es muß dafür Sorge getragen werden, daß,
+                                    wenn durch eine einwandfreie Volksabstimmung in
+                                    zusammenhängenden Gebieten eine Änderung der bisherigen Grenzen
+                                    der Verwaltungseinheiten notwendig erscheint, die Verfassung
+                                    eine derartige Änderung gestattet. Eine Verfassung, die sich das
+                                    Volk gibt, kann an den Ereignissen unserer Tage nicht achtlos
+                                    vorübergehen. In unserem öffentlichen Leben hat sich der
+                                    sozialistische Geist zweifellos in einem gewissen Umfang
+                                    bemerkbar gemacht. Die Zahl derjenigen, die sich zum Sozialismus
+                                    bekennen, ist so groß, die Zahl derjenigen, die als Endziel
+                                    ihrer politischen Betätigung den sozialistischen Staat fordern,
+                                    ist so bedeutend, daß man über sie nicht hinweggehen kann, und
+                                    in Konsequenz dieses Gedankens ist es selbstverständlich, daß
+                                    auch in der Verfassung dieser Gedanke nicht ausgelöscht sein
+                                    kann. Im Gegenteil, eine Verfassung, die in der heutigen Zeit
+                                    gegeben wird, muß auf diese Gesinnung, die die heutige
+                                    Gesellschaft bewegt, Rücksicht nehmen. Es wird insbesondere auf
+                                    dem Gebiete der Grundrechte der Staatsbürger Gelegenheit ge<pb
+                                          facs="#facs_8" n="8" xml:id="img_0008" break="no"/>geben
+                                    sein - es wird dies wohl die Aufgabe einer späteren Zeit sein —
+                                    hier unsere Auffassung zur Geltung zu bringen. Wir können
+                                    jedenfalls sagen, daß der Staat, der in der Vergangenheit
+                                    eigentlich das Instrument war, um das Privateigentum nach allen
+                                    Richtungen hin gegen unberechtigte Angriffe zu schützen, daß
+                                    dieser Staat der Vergangenheit angehört. Der Staat der
+                                    Gegenwart, der das Eigentum nach einer gewissen Richtung und im
+                                    gewissen Umfange verbürgt und sichert, dieser Staat muß
+                                    umgekehrt auch das Recht erhalten, dieses Eigentum enteignen zu
+                                    können. Darüber werden wir noch später zu reden haben. Mit einem
+                                    Wort, die Verfassung genügt nicht, wenn sie nur die politische
+                                    Demokratie verwirklicht, die Verfassung muß einen Schritt weiter
+                                    gehen und muß auch die wirtschaftliche Demokratie verwirklichen.
+                                    Meine verehrten Herren! Wir haben durchaus nicht die Absicht,
+                                    wie ich eingangs sagte, die Verwirklichung der Verfassung
+                                    hinauszuschieben, zu verzögern. Daher begnügen wir uns mit
+                                    einigen prinzipiellen kurzen Erklärungen. Ich habe das in Bezug
+                                    auf einige Punkte getan, um unsere Stellungnahme gegenüber dem
+                                    verbesserten Entwurf, der uns vorliegt, zu kennzeichnen. Wir
+                                    stehen nach wie vor auf dem Standpunkte, daß erstens in der
+                                    Frage der Kompetenz zur Schaffung der Verfassung der
+                                    Länderkonferenz eine solche abzusprechen ist und betonen ferner,
+                                    daß wir nach wie vor im zentralistischen Staate unser höchstes
+                                    Ziel erblicken, daß wir zwischen Verfassung und Verwaltung ein
+                                    Junktim hergestellt haben wollen und daß wir unter allen
+                                    Umständen den Bundesrat ablehnen, der das alte Herrenhaus wieder
+                                    erstehen läßt, und daß wir es ablehnen, wenn der Entwurf
+                                    hinsichtlich der Zusammensetzung des Bundesrates die
+                                    tatsächlichen Verhältnisse außer acht läßt. Daß wir ferner in
+                                    Bezug auf die Präsidentenwahl auf dem Standpunkte stehen, daß so
+                                    wie in Frankreich die Wahl auf dem Bundestage erfolgt und daß
+                                    das Selbstbestimmungsrecht nicht nur der Länder, sondern auch
+                                    der Gebiete uns unverletzlich erscheint. Das ist unser
+                                    prinzipieller Standpunkt, den ich ganz kurz vorbringen wollte.
+                                    („Bravo!“ „Bravo!“ bei den Parteigenossen.) </p>
+                        </sp>
+                        <sp>
+                              <speaker>Herr Vorsitzender Dr. Rintelen: </speaker>
+                              <p>Zum Worte gelangt Herr Lanbeshauptmannstellvertreter Langoth. </p>
+                        </sp>
+                        <sp>
+                              <speaker>Herr Landeshauptmannstellvertreter von Oberösterreich
+                                    Langoth: </speaker>
+                              <p>Meine Herren! Unsere Parteigruppe hat vor wenigen Tagen einen
+                                    Delegiertentag in Linz abgehalten und bei diesem Gelegenheit
+                                    genommen, zur Frage der Verfassung Stellung zu nehmen. Wir haben
+                                    uns auf einen vollständig ausgearbeiteten Verfassungsentwurf
+                                    geeinigt2 und uns erlaubt, diesen Verfassungsentwurf heute der
+                                    Länderkonferenz vorzulegen. Ich hege nicht die Absicht, alle
+                                    Einzelheiten unseres Entwurfes zu erörtern, sondern möchte mich
+                                    lediglich darauf beschränken, die wichtigsten Bestimmungen und
+                                    Grundsätze, insbesondere aber jene Bestimmungen hervorzuheben,
+                                    welche eine Abweichung von dem Entwurfe des Herrn
+                                    Staatssekretärs Dr. Mayr bedeuten. Vorausschicken muß ich, daß
+                                    wir eins sind mit dem Mayrschen Entwurfe in dem Grundsatze, daß
+                                    Österreich eine demokratische Republik und daß Österreich ein
+                                    Bundesstaat werden soll. In der Frage der Bundesglieder, der
+                                    Trennung Wiens von Niederösterreich, gehen unsere Meinungen
+                                    schon etwas auseinander. Der Herr Staatssekretär löst diese
+                                    Frage in seinem Entwurfe bereits, hebt Wien von Niederösterreich
+                                    heraus, reiht Wien ein als gleichberechtigtes Glied in den
+                                    Bundesstaat. Wir stehen auf dem Standpunkte, daß dies eine Frage
+                                    ist, welche den Niederösterreichern und Wienern überlassen
+                                    werden muß (Zuruf von den Sozialdemokraten: „So ist es!“) und
+                                    aus diesem Grunde, weil wir dieser Frage in Anerkennung des
+                                    Selbstbestimmungsrechtes nicht vorgreifen wollen, haben wir in
+                                    unserem Entwurfe, im Artikel 2, die Fassung gewählt: „Wenn die
+                                    Stadt Wien aus dem Verbande des Landes Niederösterreich
+                                    ausscheidet und zu einem selbständigen Gebiet wird und sobald
+                                    das Heinzenland sich als selbständiges Land bildet, werden Wien
+                                    und Heinzenland selbständige und gleichberechtigte Glieder des
+                                    Bundesstaates“. Damit nun bei einer eventuellen späteren Lösung
+                                    der Frage, bei einer eventuellen späteren Trennung Wiens von
+                                    Niederösterreich, keine verfassungsmäßigen Schwierigkeiten
+                                    auftauchen, haben wir im Artikel 3 im Zusammenhange mit dieser
+                                    Frage die Fassung gewählt: „Die Änderung der Grenzen zweier
+                                    Länder, die Teilung eines Landes, die Zusammenlegung mehrerer
+                                    Länder erfolgt durch übereinstimmende Gesetze des Bundes und der
+                                    beteiligten Länder.“26 Ich habe schon eingangs gesagt, daß wir
+                                    einig sind mit dem Mayrschen Entwurf in dem Gedanken, daß
+                                    Österreich eine demokratische Republik sein muß. Der Staat ist
+                                    die Rechtsform für das Gesamtleben einer völkerschaftlichen
+                                    Einigung. Die in der vergangenen Zeit über den Zweck des
+                                    Staatswesens in Geltung gestandenen Grundsätze waren zweifellos
+                                    unzulänglich und müssen beseitigt werden. Es muß wohl der
+                                    Grundsatz zum Ausdruck kommen, daß der Staat wegen seiner Bürger
+                                    da ist und in Konsequenz dieses Gedankens muß wohl festgelegt
+                                    werden, daß der Staat den Zweck hat, seine Bürger heranzuziehen
+                                    zur politischen und wirtschaftlichen Betätigung im Interesse der
+                                    Gesamtheit. Wenn im vorliegenden Mayrschen Entwurf der Grundsatz
+                                    festgelegt ist, daß alle Gewalt vom Volke ausgeht, eingesetzt
+                                    und in seinem Namen ausgeführt wird, so müssen wir erklären, daß
+                                    dieser Grundsatz nicht genügend ist. Jeder Staatsbürger hat
+                                    nicht nur ein Recht auf den ihm zukommenden politischen Anteil
+                                    an Macht, <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"
+                                    />er hat auch ein Recht auf den ihm zukommenden wirtschaftlichen
+                                    Anteil an Macht. Wir haben in unserem Verfassungsentwurf nicht
+                                    allein die formelle Demokratie, wir haben auch die materielle
+                                    Demokratie ausgesprochen und zur Durchführung gebracht. Einig
+                                    mit dem Mayrschen Verfassungsentwurf sind wir in dem System der
+                                    Verteilung der Gewalten zwischen dem Bunde und den Ländern.
+                                    Staatssekretär Dr. Mayr unterscheidet einen ausschließlichen
+                                    Wirkungskreis, einen grundlegenden Wirkungskreis und einen
+                                    grundsätzlichen Wirkungskreis. Wir stimmen darin mit ihm völlig
+                                    überein. Nur haben wir dieses System der Kompetenzverteilung in
+                                    einem eigenen Artikel der Klarheit wegen festgelegt. Es scheint
+                                    uns dies nicht nur von formeller, sondern auch von wesentlicher
+                                    Bedeutung zu sein. Hinsichtlich der Kompetenzteilung selbst
+                                    gehen unsere Meinungen in wichtigen Belangen auseinander. Wir
+                                    haben im Artikel VI, Punkt 10, in den ausschließlichen
+                                    Wirkungskreis das gesamte Schulwesen mit Ausnahme der
+                                    landwirtschaftlichen Fach- und Fortbildungsschulen gewiesen. Der
+                                    Mayrsche Entwurf will dem ausschließlichen Wirkungskreis nur das
+                                    Hochschulwesen und die fachlichen Zentrallehranstalten
+                                    überweisen, während die pädagogischen und die taktischen2
+                                    Einrichtungen der mittleren und niederen Lehranstalten nur dem
+                                    grundsetzlichen Wirkungskreise überlassen bleiben. Dieser
+                                    Unterschied scheint uns ein außerordentlich wesentlicher zu sein
+                                    und ich muß erklären, daß wir in der Schulfrage diesen
+                                    Standpunkt als einen für uns grundsätzlichen vertreten.
+                                    Bezüglich der Steuerquellenverteilung zwischen Bund und Ländern
+                                    haben wir den Grundsatz aufgestellt, daß zumindest das Erträgnis
+                                    der von Grund und Boden zu entrichtenden Steuern den Ländern zu
+                                    verbleiben hat und daß die Steuern im Lande der
+                                    Produktionsstätte zu entrichten sind. Arbeiterrecht und
+                                    Arbeiterschutz einschließlich dieser Angelegenheiten der land-
+                                    und forstwirtschaftlichen Arbeiten sind in unserem Entwurfe dem
+                                    Bunde übertragen. Dr. Mayr will die Regelung dieser
+                                    Rechtsverhältnisse für die land- und forstwirtschaftlichen
+                                    Arbeiter den Ländern überlassen. Das Presserecht ist in unserem
+                                    Entwurfe dem ausschließlichen Wirkungskreise überwiesen. Im
+                                    grundlegenden Wirkungskreise unterscheiden wir uns dadurch, daß
+                                    wir im Artikel VII, Punkt 1, die Organisation der Landesbehörden
+                                    aufgenommen haben, was der Mayrsche Entwurf im grundsätzlichen
+                                    Wirkungskreise durchführen will. Der grundsätzliche
+                                    Wirkungskreis enthält in unserer Vorlage die Organisation, der
+                                    Gendarmerie und Polizei außerhalb Wiens. Der Mayrsche Entwurf
+                                    hat im Artikel X, Punkt 12, die innere Einrichtung und
+                                    Ausrüstung der Gendarmerie dem ausschließlichen Wirkungskreise
+                                    überwiesen. Formell ist ein Unterschied zwischen unserem und dem
+                                    Mayrschen Entwurfe darin gelegen, daß wir das Kapitel über die
+                                    Grund- und Freiheitsrechte, über die Rechte und Pflichten der
+                                    Staatsbürger der Organisation des Bundes voranstellen. Wir haben
+                                    diese Voranstellung mit einer gewissen, bestimmten Absicht
+                                    durchgeführt, weil wir der Meinung sind, daß der wichtigste Teil
+                                    der Verfassung für den einzelnen Staatsbürger in den Grund- und
+                                    Freiheitsrechten gelegen ist. Nach unserer Auffassung, daß auch
+                                    die materielle Demokratie zur Verwirklichung gelangen muß, ist
+                                    in unseren Grundrechten auch die Forderung aufgenommen, daß
+                                    jedem Schaffenden eine angemessene Anteilnahme an dem Ertrage
+                                    der Volkswirtschaft gesichert sein muß. Ferner ist die
+                                    Verpflichtung jedes Staatsbürgers zur körperlichen oder
+                                    geistigen Arbeit ohne Rücksicht auf seinen Besitz klar
+                                    ausgesprochen. Bezüglich der Organe der Bundesgewalt decken wir
+                                    uns mit dem Entwurfe des Herrn Staatssekretärs. Bundespräsident,
+                                    Bundesregierung, Bundesrat, Bundestag, Volksbegehren und
+                                    Volksentscheid sind auch in unserer Vorlage vorgesehen. In der
+                                    umgeänderten Auflage seines Entwurfes läßt der Herr
+                                    Staatssekretär die Wahl des Bundespräsidenten vom ganzen Volke
+                                    durchführen. In dieser Anschauung stimmen wir ihm völlig
+                                    überein. Wenn der Bundespräsident vom ganzen Volke gewählt wird,
+                                    so erscheint es auch gerechtfertigt, wenn demselben größere
+                                    Rechte, als dies ursprünglich im Mayrschen Entwurfe vorgesehen
+                                    war, zukommen. Nach unserem Entwurfe soll dem Bundespräsidenten
+                                    die Ernennung des Bundeskanzlers und der Bundesminister über
+                                    Vorschlag des Bundestages, die Ernennung der Landeshauptleute
+                                    und ihrer Stellvertreter über Vorschlag der Landtage zustehen.3
+                                    Bezüglich Volksentscheid und Volksbegehren geht unser Entwurf
+                                    weiter als der Mayrsche. Der Volksentscheid ist bei unserem
+                                    Entwurfe ausgedehnt auf den Abschluß der Friedensverträge” und
+                                    auf die eventuelle Absetzung des Bundespräsidenten. Hinsichtlich
+                                    der Organe der Länder, Landtag und Landesregierung, stimmen wir
+                                    mit dem Entwurfe ziemlich überein. Auch in unserem Entwurfe ist
+                                    die Zweiteilung vorgesehen zwischen Landtagspräsidenten und dem
+                                    Landeshauptmann. Der Landtag wählt sich seinen Präsidenten. Die
+                                    Landesregierung besteht aus dem Landeshauptmann, dessen
+                                    Stellvertreter und den Landesräten. Der Landeshauptmann und
+                                    dessen Stellvertreter werden über Vorschlag des Landtages vom
+                                    Bundespräsidenten ernannt, die Landesräte aus dem Landtage
+                                    gewählt. Was die Einführung der Volksinitiative und des
+                                    Volksentscheides in Land und Gemeinde betrifft, so wird nach
+                                    unserem Entwurfe <pb facs="#facs_10" n="10" xml:id="img_0010"
+                                          break="yes"/></p>
+                        </sp>
+                        <sp>
+                              <speaker/>
+                              <p/>
+                        </sp>
+                        <sp>
+                              <speaker/>
+                              <p/>
+                        </sp>
+                        <p>12 die Entscheidung darüber den Landtagen bei Festlegung ihrer
+                              Landesverfafsungen überlassen. Wichtig, wesentlich und besonders
+                              hervorzuheben ist die Einführung von Wirtschaftskammern, wie sie in
+                              unserem Entwurfe vorgesehen st. Wir sagen uns, wenn das erstrebte Ziel
+                              der materiellen Demofratie zur Verwirflichung kommen. soll, dann mußz
+                              getrachtet werden, zwischen Kapital und Arbeit eine Giniguna
+                              herbeizuführen, dann muß getrachtet werden. die Arbeitgeber und die
+                              Arbeitnehmer in eine Institution zu gemeinsamer Arbeit zu vereinigen,
+                              wo die brennendften Fragender Gegenwart. die Regelung der Produktion
+                              und die Regelung der Verteilung gelöft werden sollen. Unser Entwurf
+                              sieht Wirtschaftskammern vor. die ich paritätisch aus den Vertretern
+                              der Arbeitnehmer und den Vertretern der Arbeitgeber zufammenfeßzen.
+                              Die Wirtschaftskammern haben keine Tegislatorischen Befugnisse, sie
+                              sind aber zur Mitwirkung bei allen wirtschaftlichen und
+                              fozialpolitischen Gesetzen berufen durch Abaabe eines Gutachtens. Die
+                              gesekgebenden Körberschaften sind an dieses Gutachten nicht aebunden,
+                              jedoch ist die Einholung eines solchen Gutachtens obliaatorisch. Daßz
+                              mit der Verfassungsreform eng auch die Frage der Verwaltungsreform
+                              verftrüpft ist, bedarf keiner weiteren Ausführung. Wir haben auch in
+                              unserem Entwurdie Frage der Verwaltungsreform angeschnitten,
+                              weniaftens in dem Belange, daß als zweite Instanz schon in den Ländern
+                              für strittige Fragen in Verwaltungsangelegenheiten Verwaltungsgerichte
+                              vorgesehen sind, welche neben den Richtern aus Verwaltungsbeamten und
+                              Laien zufammengefetzt fein. ollen. Verehrte Herren! Ich habe in ganz
+                              kurzen Zügen mich bemüht. Ihnen die wichtigsten Gedanfen und
+                              Richtlinien unseres Entwurfes darzulegen. Wir sind bestrebt, mit
+                              dieser ernsten Arbeit beizutragen, daß das schwierige Werk der
+                              Verfassunasreform gefördert wird. Ein Verfassungswerk nach den
+                              Grundsätzen unseres Entwurfes bietet Gewähr für die politische und
+                              wirtschaftliche Entwicklung jedes Staatsbürgers. Gs ift sicher, daß
+                              durch die Folgen des unglückseligen Ausganges des Krieges sich die
+                              ganze Gesellschaftsordnung in einer unaufhaltiamen Uinbildung
+                              befindet. Wir haben in unserer Arbeit diesem Umstande, soweit es mit
+                              unseren Anschauungen vereinbarift, Rechnung getragen, Rechnung
+                              getragen in Grinnerung des Dichterwortes, daß gute Menschen und
+                              Patrioten verlernen, umlernen und zulernen follen. (,Brabo“ Bravo“1
+                              bei den Parteigenossen. Der Herr Vorsitzende Herr Dr. Mintelen: Zum
+                              Worte gelängt Herr Landeshaubtmann Dr. Gnder. Herr Landeshauptmann von
+                              Vorarlberg Dnkter Euder: Meine sehr verehrten Herren! Wir eken hier
+                              die Arbeit von Salzbura fört und zwar nach der Salzburger Methode. Daß
+                              die nicht gerade die von uns gewünschte war, habe ich den herren in
+                              Salzburg schon gesagt. Meines Erachtens</p>
                         <p>wäre es Aufgabe der Länderkonferenz, den vorliegenden Entwurf genau
                               durchzuarbeiten nach einer richtigen jystematischen Methode, um zu
                               positiven Abänderungsvorschlägen in den einzelnen Artikeln zu
