@@ -1,119 +1,161 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__34">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Unterausschuß Entwurf 1. September 1920</title>
-                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
-                <principal>
-                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
-                </principal>
-                <funder>
-                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
-                    <address>
-                        <street>Sensengasse 1</street>
-                        <postCode>1090 Wien</postCode>
-                        <placeName>
-                            <country>A</country>
-                            <settlement>Wien</settlement>
-                        </placeName>
-                    </address>
-                </funder>
-                <respStmt>
-                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
-                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
-                </respStmt>
-                <respStmt>
-                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
-                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
-                </respStmt>
-                <respStmt>
-                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
-                    </persName>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>
-                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
-                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
-                </publisher>
-                <publisher>
-                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
-                        Verfassungsgeschichte</orgName>
-                </publisher>
-                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
-                <date when="2023">2023</date>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">
-                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
-                            applies to this text.</p>
-                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
-                    </licence>
-                </availability>
-                <idno type="transkribus_doc">1529232</idno>
-                <idno type="transkribus_collection">195363</idno>
-                <idno type="bv_data_set">Datenset A</idno>
-                <idno type="goobi">14575</idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="invetory">
-                    <msIdentifier>
-                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
-                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
-                        <idno type="archive">AdR, Büro Seitz, Karton 9</idno>
-                    </msIdentifier>
-                    <msContents>
-                        <msItem>
-                            <author role="acdh:hasAuthor">Unterausschuss des Verfassungsausschusses</author>
-                            <title>Unterausschuß Entwurf 1. September 1920</title>
-                            <note type="editor">Unterausschuß Entwurf 1. September 1920 (Titel des
-                                                Dokuments: "Entwurf eines Gesetzes betreffend die
-                                                Verfassung der Republik Österreich"), Zustand gut,
-                                                wenige handschriftliche Ergänzungen. Vorsicht! Kopf
-                                                des Dokuments ident mit UA 26. August, jedoch
-                                                Abweichung bei der Gestaltung einzelner Artikel, 157
-                                                Artikel</note>
-                        </msItem>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc form="Druck">
-                        </objectDesc>
-                        <handDesc>
-                        </handDesc>
-                    </physDesc>
-                    <history>
-                        <origin notBefore-iso="1920-09-01" notAfter-iso="1920-09-01">1. September 1920</origin>
-                    </history>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <abstract>
-                <p/>
-            </abstract>
-            <creation>
-                <date notBefore-iso="1920-09-01" notAfter-iso="1920-09-01">
-                    1. September 1920
-                </date>
-            </creation>
-        </profileDesc>
-        <revisionDesc status="structured">
+      <teiHeader>
+            <fileDesc>
+                  <titleStmt>
+                        <title type="main">Unterausschuß Entwurf 1. September 1920</title>
+                        <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                        <principal>
+                              <persName role="acdh:hasPrincipialInvestigator">Olechowski,
+                                    Thomas</persName>
+                        </principal>
+                        <funder>
+                              <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                              <address>
+                                    <street>Sensengasse 1</street>
+                                    <postCode>1090 Wien</postCode>
+                                    <placeName>
+                                          <country>A</country>
+                                          <settlement>Wien</settlement>
+                                    </placeName>
+                              </address>
+                        </funder>
+                        <respStmt>
+                              <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                              <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                        </respStmt>
+                        <respStmt>
+                              <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                              <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                        </respStmt>
+                        <respStmt>
+                              <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                              <persName role="acdh:hasContributor"
+                                    key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                              </persName>
+                        </respStmt>
+                        <respStmt>
+                              <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                              <persName role="acdh:hasContributor"
+                                    key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                              </persName>
+                        </respStmt>
+                  </titleStmt>
+                  <publicationStmt>
+                        <publisher>
+                              <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for
+                                    Digital Humanities and Cultural Heritage an der Österreichischen
+                                    Akademie der Wissenschaften</orgName>
+                        </publisher>
+                        <publisher>
+                              <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien.
+                                    Institut für Rechts- und Verfassungsgeschichte</orgName>
+                        </publisher>
+                        <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                        <date when="2023">2023</date>
+                        <availability>
+                              <licence target="https://creativecommons.org/licenses/by/4.0/">
+                                    <p>The Creative Commons Attribution 4.0 International (CC BY
+                                          4.0) License applies to this text.</p>
+                                    <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                              </licence>
+                        </availability>
+                        <idno type="transkribus_doc">1529232</idno>
+                        <idno type="transkribus_collection">195363</idno>
+                        <idno type="bv_data_set">Datenset A</idno>
+                        <idno type="goobi">14575</idno>
+                  </publicationStmt>
+                  <sourceDesc>
+                        <msDesc type="invetory">
+                              <msIdentifier>
+                                    <institution key="https://d-nb.info/gnd/37748-X"
+                                          >Österreichisches Staatsarchiv</institution>
+                                    <repository key="https://d-nb.info/gnd/1601181-8">Archiv der
+                                          Republik (Wien)</repository>
+                                    <idno type="archive">AdR, Büro Seitz, Karton 9</idno>
+                              </msIdentifier>
+                              <msContents>
+                                    <msItem>
+                                          <author role="acdh:hasAuthor">Unterausschuss des
+                                                Verfassungsausschusses</author>
+                                          <title>Unterausschuß Entwurf 1. September 1920</title>
+                                          <note type="editor">Unterausschuß Entwurf 1. September
+                                                1920 (Titel des Dokuments: "Entwurf eines Gesetzes
+                                                betreffend die Verfassung der Republik Österreich"),
+                                                Zustand gut, wenige handschriftliche Ergänzungen.
+                                                Vorsicht! Kopf des Dokuments ident mit UA 26.
+                                                August, jedoch Abweichung bei der Gestaltung
+                                                einzelner Artikel, 157 Artikel</note>
+                                    </msItem>
+                              </msContents>
+                              <physDesc>
+                                    <objectDesc form="Druck"> </objectDesc>
+                                    <handDesc> </handDesc>
+                              </physDesc>
+                              <history>
+                                    <origin notBefore-iso="1920-09-01" notAfter-iso="1920-09-01">1.
+                                          September 1920</origin>
+                              </history>
+                        </msDesc>
+                  </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                  <abstract>
+                        <p/>
+                  </abstract>
+                  <creation>
+                        <date notBefore-iso="1920-09-01" notAfter-iso="1920-09-01"> 1. September
+                              1920 </date>
+                  </creation>
+            </profileDesc>
+            <revisionDesc status="structured">
                   <change when="2024-09-17" who="#cfh">document automatically created</change>
                   <change when="2024-09-19" who="#m_huber">div created and partly formatted</change>
                   <change when="2024-10-04" who="#s_kury">Test</change>
                   <change when="2024-10-10" who="#m_huber">formatting completed</change>
                   <change when="2024-12-20" who="#t_voegtlin">fertig gegengelesen</change>
             </revisionDesc>
-    </teiHeader>
-    <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3233" lry="4586" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0010/full/full/0/default.jpg" width="3233px" height="4586px"/></surface><surface ulx="0" uly="0" lrx="3171" lry="4633" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0011/full/full/0/default.jpg" width="3171px" height="4633px"/></surface><surface ulx="0" uly="0" lrx="3152" lry="4535" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0012/full/full/0/default.jpg" width="3152px" height="4535px"/></surface><surface ulx="0" uly="0" lrx="3149" lry="4543" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0013/full/full/0/default.jpg" width="3149px" height="4543px"/></surface><surface ulx="0" uly="0" lrx="3059" lry="4589" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0014/full/full/0/default.jpg" width="3059px" height="4589px"/></surface><surface ulx="0" uly="0" lrx="3147" lry="4607" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0015/full/full/0/default.jpg" width="3147px" height="4607px"/></surface><surface ulx="0" uly="0" lrx="3022" lry="4576" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0016/full/full/0/default.jpg" width="3022px" height="4576px"/></surface></facsimile>
-    <text type="Verfassungsentwurf">
-        <body><div type="main">
+      </teiHeader>
+      <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+            <surface ulx="0" uly="0" lrx="3233" lry="4586" xml:id="facs_2">
+                  <graphic
+                        url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0010/full/full/0/default.jpg"
+                        width="3233px" height="4586px"/>
+            </surface>
+            <surface ulx="0" uly="0" lrx="3171" lry="4633" xml:id="facs_3">
+                  <graphic
+                        url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0011/full/full/0/default.jpg"
+                        width="3171px" height="4633px"/>
+            </surface>
+            <surface ulx="0" uly="0" lrx="3152" lry="4535" xml:id="facs_4">
+                  <graphic
+                        url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0012/full/full/0/default.jpg"
+                        width="3152px" height="4535px"/>
+            </surface>
+            <surface ulx="0" uly="0" lrx="3149" lry="4543" xml:id="facs_5">
+                  <graphic
+                        url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0013/full/full/0/default.jpg"
+                        width="3149px" height="4543px"/>
+            </surface>
+            <surface ulx="0" uly="0" lrx="3059" lry="4589" xml:id="facs_6">
+                  <graphic
+                        url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0014/full/full/0/default.jpg"
+                        width="3059px" height="4589px"/>
+            </surface>
+            <surface ulx="0" uly="0" lrx="3147" lry="4607" xml:id="facs_7">
+                  <graphic
+                        url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0015/full/full/0/default.jpg"
+                        width="3147px" height="4607px"/>
+            </surface>
+            <surface ulx="0" uly="0" lrx="3022" lry="4576" xml:id="facs_8">
+                  <graphic
+                        url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0016/full/full/0/default.jpg"
+                        width="3022px" height="4576px"/>
+            </surface>
+      </facsimile>
+      <text type="Verfassungsentwurf">
+            <body>
+                  <div type="main">
                         <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
                         <div type="preamble">
                               <p>Bekanntlich hat der Unterausschuß des Verfassungsausschusses auf
@@ -224,7 +266,7 @@
                                     </p>
                               </div>
                               <div type="article">
-                                    <head>Artikel 7, 8  und 9.</head>
+                                    <head>Artikel 7, 8 und 9.</head>
                                     <p type="legal_section">(Artikel 7, 8 und 9 fallen aus.)</p>
                               </div>
                               <div type="article">
@@ -296,7 +338,7 @@
                                                   Vermessungswesen; </item>
                                                 <label>10.</label>
                                                 <item> Bodenreform (agrarische Operationen,
-                                                  Wiederbesiedelung usw.) und Bodenentschuldung;  </item>
+                                                  Wiederbesiedelung usw.) und Bodenentschuldung; </item>
                                                 <label>11.</label>
                                                 <item>gesamtes Arbeiterrecht sowie Arbeiter- und
                                                   Angestelltenschutz, soweit es sich nicht um land-
@@ -337,7 +379,7 @@
                                                 <label>15.</label>
                                                 <item> Einrichtung der Bundesämter und sonstigen
                                                   Bundesbehörden; Dienstrecht der
-                                                  Bundesangestellten.  </item>
+                                                  Bundesangestellten. </item>
                                           </list></p>
                               </div>
                               <div type="article">
@@ -384,7 +426,7 @@
                                                 <label>10.</label>
                                                 <item> Volkswohnungs- und Volkspflegestättenwesen;
                                                   Leichen- und Bestattungswesen; </item>
-                                                <label>﻿11.  </label>
+                                                <label>﻿11. </label>
                                                 <item>Verwaltungs- und Verwaltungsstrafverfahren
                                                   einschließlich der Zwangsvollstreckung sowie
                                                   allgemeine Bestimmungen des
@@ -606,7 +648,7 @@
                                           Staatsanwaltschaften sind berechtigt, die Dienstleistung
                                           der Gendarmerie für Zwecke der Strafrechtspflege
                                           unmittelbar in Anspruch zu nehmen. </p>
-                                    <p type="legal_section"><label>(6) </label> Das Nähere über das
+                                    <p type="legal_section"><label>(6)</label> Das Nähere über das
                                           Gendarmeriewesen, insbesondere auch über die Dienst- und
                                           Rechtsverhältnisse der Gendarmerie regelt ein besonderes
                                           Bundesgesetz. </p>
@@ -716,7 +758,8 @@
                                                 Wiedereinberufung erfolgt durch seinen Präsidenten.
                                                 Dieser ist verpflichtet, den Nationalrat sofort
                                                 einzuberufen, wenn wenigstens ein Viertel seiner
-                                                Mitglieder oder die Bundesregierung es verlangt. </p>
+                                                Mitglieder oder die Bundesregierung es verlangt.
+                                          </p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 21. </head>
@@ -728,7 +771,8 @@
                                                 Gesetzgebungsperiode kann der Nationalrat durch
                                                 einfaches Gesetz seine Auflösung beschließen. Auch
                                                 in diesem Falle dauert die Gesetzgebungsperiode bis
-                                                zum Zusammentritte des neugewählten Nationalrates. </p>
+                                                zum Zusammentritte des neugewählten Nationalrates.
+                                          </p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 23. </head>
@@ -742,7 +786,8 @@
                                                 autonomen Geschäftsordnung. Das Gesetz über die
                                                 Geschäftsführung kann nur bei Anwesenheit der Hälfte
                                                 der Mitglieder und mit einer Mehrheit von zwei
-                                                Dritteln der abgegebenen Stimmen beschlossen werden. </p>
+                                                Dritteln der abgegebenen Stimmen beschlossen werden.
+                                          </p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 24. </head>
@@ -752,7 +797,8 @@
                                                 das Recht zu, ausnahmsweise die Öffentlichkeit
                                                 auszuschließen, wenn es vom Vorsitzenden oder einem
                                                 Fünftel der anwesenden Mitglieder verlangt und vom
-                                                Hause nach Entfernung der Zuhörer beschlossen wird. </p>
+                                                Hause nach Entfernung der Zuhörer beschlossen wird.
+                                          </p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 25. </head>
@@ -788,7 +834,7 @@
                                                 Verhältniswahl gewählt, jedoch muß wenigstens ein
                                                 Mandat der Partei zufallen, welche die zweithöchste
                                                 Anzahl von Sitzen im Landtage oder, wenn mehrere
-                                                Parteien die gleiche Anzahl  von Sitzen haben, die
+                                                Parteien die gleiche Anzahl von Sitzen haben, die
                                                 zweithöchste Zahl von Wählerstimmen bei der letzten
                                                 Landtagswahl aufweist. Bei gleichen Ansprüchen
                                                 mehrerer Parteien entscheidet das Los.</p>
@@ -809,7 +855,8 @@
                                                 werden, wenn im Bundesrate abgesehen von der für
                                                 seine Beschlussfassung überhaupt erforderlichen
                                                 Stimmenmehrbeit die Mehrheit der Vertreter von
-                                                wenigstens vier Ländern die Änderung angenommen hat. </p>
+                                                wenigstens vier Ländern die Änderung angenommen hat.
+                                          </p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 27.</head>
@@ -1820,7 +1867,8 @@
                                           sowie der einzelnen Bundesministerien gebunden; Der
                                           administrative Instanzenzug geht in diesen Angelegenheiten
                                           – wenn nicht durch Bundesgesetz ausdrücklich anderes
-                                          bestimmt ist – bis zu den zuständigen Bundesministerien. </p>
+                                          bestimmt ist – bis zu den zuständigen Bundesministerien.
+                                    </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 93. </head>
@@ -1987,7 +2035,8 @@
                                           sie eine Verpflichtung des Bundes beinhalten, sind vom
                                           Präsidenten des Rechnungshofes gegenzuzeichnen; durch
                                           diese Gegenzeichnung wird lediglich die Gesetzmäßigkeit
-                                          und rechnungsmäßige Richtigkeit der Gebarung bekräftigt. </p>
+                                          und rechnungsmäßige Richtigkeit der Gebarung bekräftigt.
+                                    </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 99. </head>
@@ -2046,7 +2095,7 @@
                                           Angehörigen zum Zwecke haben. </p>
                               </div>
                               <div type="article">
-                                    <head>Artikel 104,  105 und 106.</head>
+                                    <head>Artikel 104, 105 und 106.</head>
                                     <p type="legal_section">(Artikel 104, Artikel 105 und Artikel
                                           106 fallen aus.) </p>
                               </div>
@@ -2066,15 +2115,15 @@
                               <head> Achtes Hauptstück.</head>
                               <head> Von den Garantien der Verfassung und Verwaltung.</head>
                               <div type="section">
-                                    <head>  A. Der Verwaltungsgerichtshof. </head>
+                                    <head> A. Der Verwaltungsgerichtshof. </head>
                                     <div type="article">
                                           <head>Artikel 138. </head>
                                           <p type="legal_section"><label>(1)</label> Wegen
                                                 Rechtsverletzung durch die Entscheidung oder
                                                 Verfügung einer Verwaltungsbehörde des Bundes oder
                                                 eines Landes entscheidet nach Erschöpfung des
-                                                administrativen Instanzenzuges
-                                                derVerwaltungsgerichtshof. </p>
+                                                administrativen Instanzenzuges der
+                                                Verwaltungsgerichtshof. </p>
                                           <p type="legal_section"><label>(2)</label> Für
                                                 Angelegenheiten, in denen die Beschwerde an den
                                                 Verwaltungsgerichtshof zulässig ist, kann der
@@ -2093,7 +2142,8 @@
                                                 Verfügung einer Bundesbehörde oder einer
                                                 Landesbehörde eines anderen Landes die Interessen
                                                 eines Landes verletzt, auch die zuständige
-                                                Landesregierung den Verwaltungsgerichtshof anrufen. </p>
+                                                Landesregierung den Verwaltungsgerichtshof anrufen.
+                                          </p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 140.</head>
@@ -2102,10 +2152,10 @@
                                                 Angelegenheiten: <list>
                                                   <label>1. </label>
                                                   <item>die zur Kompetenz des
-                                                  Verfassungsgerichtshofes gehören;  </item>
+                                                  Verfassungsgerichtshofes gehören; </item>
                                                   <label>2.</label>
                                                   <item>über die den ordentlichen Gerichten die
-                                                  Entscheidung zusteht;  </item>
+                                                  Entscheidung zusteht; </item>
                                                   <label>3.</label>
                                                   <item>über die eine Kollegialbehörde zu
                                                   entscheiden oder zu verfügen hat, der wenigstens
@@ -2192,7 +2242,7 @@
                                           <head>Artikel 148. </head>
                                           <p type="legal_section">Der Verfassungsgerichtshof
                                                 entscheidet ferner: Kompetenzkonflikte: <list>
-                                                  <label>a.  </label>
+                                                  <label>a. </label>
                                                   <item>zwischen Gerichten und Verwaltungsbehörden
                                                   des Bundes oder der Länder: </item>
                                                   <label>b. </label>
@@ -2219,7 +2269,8 @@
                                                 stattgebende Erkenntnis des Verfassungsgerichtshofes
                                                 bewirkt die Aufhebung der gesetzwidrigen Verordnung
                                                 und verpflichtet die erlassende Behörde zur
-                                                unverzüglichen Kundmachung der erfolgten Aufhebung. </p>
+                                                unverzüglichen Kundmachung der erfolgten Aufhebung.
+                                          </p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 150. </head>
@@ -2300,7 +2351,8 @@
                                                 lauten; bei geringfügigeren Rechtsverletzungen in
                                                 den unter 3.) erwähnten Fällen kann sich der
                                                 Verfassungsgerichtshof darauf beschränken,
-                                                festzustellen, daß eine Rechtsverletzung vorliegt. </p>
+                                                festzustellen, daß eine Rechtsverletzung vorliegt.
+                                          </p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 153.</head>
@@ -2403,6 +2455,7 @@
                                           Landesgesetzen ob.</p>
                               </div>
                         </div>
-                  </div></body>
-    </text>
+                  </div>
+            </body>
+      </text>
 </TEI>
