@@ -103,7 +103,7 @@
                 <date notBefore-iso="1920-08-24" notAfter-iso="1920-08-24"> 24. August 1920 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="structured">
+        <revisionDesc status="done">
             <change when="2025-01-11" who="#cfh">document automatically created</change>
             <change when="2025-01-17" who="#m_huber">Elias: Strukturierung abgeschlossen</change>
             <change when="2025-01-31" who="#t_voegtlin">Gegenlesen abgeschlossen</change>
@@ -371,7 +371,7 @@
                     erhoben wird.</p>
                 <quote>
                     <head>Art. 38. </head>
-                    <p>(2) Jeder Gesetzesbeschluß des Nationalrates ist unverzüglich <pb
+                    <p>(1) Jeder Gesetzesbeschluß des Nationalrates ist unverzüglich <pb
                             facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">-
                             7 -</fw>durch dessen Präsidenten dem Bundeskanzler zu übermitteln, der
                         ihn sofort dem Bundesrate bekanntzugeben hat.</p>
@@ -531,13 +531,15 @@
                     Wort Gewalt zu<pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><fw
                         type="pageNum">- 12 -</fw> vermeiden. Beschlossen wird folgender
                     Wortlaut:</p>
-                <p>Dritter Abschnitt.</p>
-                <p>Von der Vollziehung des Bundes.</p>
-                <p> a) von der Regierungsgewalt des Bundes.</p>
-                <p>1. Der Bundespräsident.</p>
-                <p> Da dieser Abschnitt l bereits angenomnen ist, erörtert der Unterausschuss
-                    sogleich den nächsten Abschnitt: </p>
-                <p>2. Die Bundesregierung.</p>
+                <quote>
+                    <head>Dritter Abschnitt.</head>
+                    <head>Von der Vollziehung des Bundes.</head>
+                    <head>a) von der Regierungsgewalt des Bundes.</head>
+                    <head>1. Der Bundespräsident.</head>
+                    <p> Da dieser Abschnitt l bereits angenomnen ist, erörtert der Unterausschuss
+                        sogleich den nächsten Abschnitt: </p>
+                    <head>2. Die Bundesregierung.</head>
+                </quote>
                 <p> Der Vorsitzende spricht sich gegen die Änderung des Titels Staatssekretär, an
                     den sich die Bevölkerung nunmehr gewöhnt habe, in Bundesminister aus. Auch in
                     Amerika sowie im früheren Deutschen Reiche findet sich dieser Titel.</p>
@@ -605,7 +607,7 @@
                     ausführliche Regelung seiner Tätigkeit in der Verfassung gegeben werden. Artikel
                     61 erhält daraufhin folgende Fassung:</p>
                 <quote>
-                    <head>Art. 61.</head>
+                    <head>"Art. 61.</head>
                     <p>Ist die Bundesregierung zurückgetreten, so hat der Bundespräsident bis zur
                         Bildung der neuen Bundesregierung Mitglieder der scheidenden Regierung oder
                         leitende Beamte der Bundesämter mit der Führung der Verwaltung und einen von
@@ -616,8 +618,8 @@
                 <p>Absatz 2 und 3 des Art. 60 des Linzer Entwurfes werden ergänzt und folgendermaßen
                     formuliert:</p>
                 <quote>
-                    <head> Art. 61 a.</head>
-                    <p>(2) Die Bestallungsurkunden des Bundeskanzlers, des Vizekanzlers und der
+                    <head> "Art. 61 a.</head>
+                    <p>(1) Die Bestallungsurkunden des Bundeskanzlers, des Vizekanzlers und der
                         übrigen Bundesminister werden vom Bundespräsidenten mit dem Datum des Tages
                         der Angelobung ausgefertigt und vom neu<pb facs="#facs_16" n="16"
                             xml:id="img_0016" break="no"/><fw type="pageNum">- 15 -</fw>bestellten
@@ -625,7 +627,7 @@
                     <p> (2) Die Mitglieder der Bundesregierung werden vor Antritt ihres Amtes vom
                         Bundespräsidenten angelobt. </p>
                     <p>(3) Diese Bestimmungen finden auch auf die Fälle des Art. 61 sinngemäß
-                        Anwendung.</p>
+                        Anwendung."</p>
                 </quote>
                 <p> Artikel 62 wird in der Fassung des Linzer Entwurfes angenommen, desgleichen Art.
                     63 unter Streichung der Worte „der Bundesverfassung“. In Abs. 1 des Art. 64
