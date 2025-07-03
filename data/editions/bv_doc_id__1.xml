@@ -364,8 +364,8 @@
       <text type="Verfassungsentwurf">
             <body>
                   <div type="main">
-                        <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
-                        <head>Entwurf I</head>
+                        <head><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>Entwurf
+                              I</head>
                         <div type="section">
                               <head>Erster Abschnitt.</head>
                               <head>Allgemeine Bestimmungen.</head>
@@ -446,10 +446,9 @@
                                                 <item> die Bestimmung der Art und des Umfanges des
                                                   den Ländern zustehenden Rechtes, öffentliche
                                                   Abgaben auszuschreihen und einzuheben, </item>
-                                                <pb facs="#facs_4" n="4" xml:id="img_0004"
-                                                  break="yes"/>
-                                                <fw type="pageNum">- 3 -</fw>
-                                                <label>3.)</label>
+                                                <label><pb facs="#facs_4" n="4" xml:id="img_0004"
+                                                  break="yes"/><fw type="pageNum">- 3
+                                                  -</fw>3.)</label>
                                                 <item> die Regelung des Staatsbürger- und
                                                   Heimatsrechtes, </item>
                                                 <label>4.)</label>
