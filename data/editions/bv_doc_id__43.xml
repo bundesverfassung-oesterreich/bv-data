@@ -3,7 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Protokoll der 8. Sitzung des Subkomitees des Verfassungsausschusses vom 21. August 1920</title>
+                <title type="main">Protokoll der 8. Sitzung des Subkomitees des
+                    Verfassungsausschusses vom 21. August 1920</title>
                 <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
@@ -29,23 +30,24 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
-                    </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372"
+                        >Peter Andorfer </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
-                    </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X"
+                        >Carl Friedrich Haak </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
-                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital
+                        Humanities and Cultural Heritage an der Österreichischen Akademie der
+                        Wissenschaften</orgName>
                 </publisher>
                 <publisher>
-                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
-                        Verfassungsgeschichte</orgName>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für
+                        Rechts- und Verfassungsgeschichte</orgName>
                 </publisher>
                 <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
                 <date when="2023">2023</date>
@@ -64,25 +66,31 @@
             <sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
-                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
-                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
-                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/78 ex 1920</idno>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
+                            Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik
+                            (Wien)</repository>
+                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/78
+                            ex 1920</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <author role="acdh:hasAuthor">Unterausschuss des Verfassungsausschusses</author>
-                            <title>Protokoll der 8. Sitzung des Subkomitees des Verfassungsausschusses vom 21. August 1920</title>
-                            <note type="editor">Protokoll der 8. Sitzung des Subkomitees des Verfassungsausschusses vom 21. August 1920, Lithographie auf dünnem Papier, Zustand gut, ohne Anmerkungen</note>
+                            <author role="acdh:hasAuthor">Unterausschuss des
+                                Verfassungsausschusses</author>
+                            <title>Protokoll der 8. Sitzung des Subkomitees des
+                                Verfassungsausschusses vom 21. August 1920</title>
+                            <note type="editor">Protokoll der 8. Sitzung des Subkomitees des
+                                Verfassungsausschusses vom 21. August 1920, Lithographie auf dünnem
+                                Papier, Zustand gut, ohne Anmerkungen</note>
                         </msItem>
                     </msContents>
                     <physDesc>
-                        <objectDesc form="Lithographie">
-                        </objectDesc>
-                        <handDesc>
-                        </handDesc>
+                        <objectDesc form="Lithographie"> </objectDesc>
+                        <handDesc> </handDesc>
                     </physDesc>
                     <history>
-                        <origin notBefore-iso="1920-08-21" notAfter-iso="1920-08-21">21. August 1920</origin>
+                        <origin notBefore-iso="1920-08-21" notAfter-iso="1920-08-21">21. August
+                            1920</origin>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -92,34 +100,122 @@
                 <p/>
             </abstract>
             <creation>
-                <date notBefore-iso="1920-08-21" notAfter-iso="1920-08-21">
-                    21. August 1920
-                </date>
+                <date notBefore-iso="1920-08-21" notAfter-iso="1920-08-21"> 21. August 1920 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="structured">
+        <revisionDesc status="text_correct">
             <change when="2024-11-09" who="#cfh">document automatically created</change>
             <change when="2024-11-21" who="#t_voegtlin">Gliederung</change>
             <change when="2024-11-29" who="#t_voegtlin">Gegenlesen beendet</change>
             <change when="2025-01-24" who="#m_huber">Elias: Text abschließed strukturiert</change>
         </revisionDesc>
     </teiHeader>
-    <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3068" lry="4835" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0003/full/full/0/default.jpg" width="3068px" height="4835px"/></surface><surface ulx="0" uly="0" lrx="3072" lry="4867" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0004/full/full/0/default.jpg" width="3072px" height="4867px"/></surface><surface ulx="0" uly="0" lrx="3055" lry="4836" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0005/full/full/0/default.jpg" width="3055px" height="4836px"/></surface><surface ulx="0" uly="0" lrx="3058" lry="4805" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0006/full/full/0/default.jpg" width="3058px" height="4805px"/></surface><surface ulx="0" uly="0" lrx="3048" lry="4805" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0007/full/full/0/default.jpg" width="3048px" height="4805px"/></surface><surface ulx="0" uly="0" lrx="3053" lry="4800" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0008/full/full/0/default.jpg" width="3053px" height="4800px"/></surface><surface ulx="0" uly="0" lrx="3058" lry="4825" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0009/full/full/0/default.jpg" width="3058px" height="4825px"/></surface><surface ulx="0" uly="0" lrx="3043" lry="4829" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0010/full/full/0/default.jpg" width="3043px" height="4829px"/></surface><surface ulx="0" uly="0" lrx="3066" lry="4898" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0001_1/full/full/0/default.jpg" width="3066px" height="4898px"/></surface><surface ulx="0" uly="0" lrx="3066" lry="4924" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0011/full/full/0/default.jpg" width="3066px" height="4924px"/></surface><surface ulx="0" uly="0" lrx="3041" lry="4830" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0012/full/full/0/default.jpg" width="3041px" height="4830px"/></surface><surface ulx="0" uly="0" lrx="3042" lry="4803" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0013/full/full/0/default.jpg" width="3042px" height="4803px"/></surface><surface ulx="0" uly="0" lrx="3038" lry="4850" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0014/full/full/0/default.jpg" width="3038px" height="4850px"/></surface><surface ulx="0" uly="0" lrx="3014" lry="4851" xml:id="facs_15"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0015/full/full/0/default.jpg" width="3014px" height="4851px"/></surface><surface ulx="0" uly="0" lrx="2958" lry="4789" xml:id="facs_16"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0017/full/full/0/default.jpg" width="2958px" height="4789px"/></surface><surface ulx="0" uly="0" lrx="2972" lry="4773" xml:id="facs_17"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0018/full/full/0/default.jpg" width="2972px" height="4773px"/></surface></facsimile>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+        <surface ulx="0" uly="0" lrx="3068" lry="4835" xml:id="facs_2">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0002/full/full/0/default.jpg"
+                width="3068px" height="4835px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3072" lry="4867" xml:id="facs_3">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0003/full/full/0/default.jpg"
+                width="3072px" height="4867px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3055" lry="4836" xml:id="facs_4">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0004/full/full/0/default.jpg"
+                width="3055px" height="4836px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3058" lry="4805" xml:id="facs_5">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0005/full/full/0/default.jpg"
+                width="3058px" height="4805px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3048" lry="4805" xml:id="facs_6">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0006/full/full/0/default.jpg"
+                width="3048px" height="4805px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3053" lry="4800" xml:id="facs_7">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0007/full/full/0/default.jpg"
+                width="3053px" height="4800px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3058" lry="4825" xml:id="facs_8">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0008/full/full/0/default.jpg"
+                width="3058px" height="4825px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3043" lry="4829" xml:id="facs_9">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0009/full/full/0/default.jpg"
+                width="3043px" height="4829px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3066" lry="4898" xml:id="facs_10">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0010/full/full/0/default.jpg"
+                width="3066px" height="4898px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3066" lry="4924" xml:id="facs_11">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0011/full/full/0/default.jpg"
+                width="3066px" height="4924px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3041" lry="4830" xml:id="facs_12">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0012/full/full/0/default.jpg"
+                width="3041px" height="4830px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3042" lry="4803" xml:id="facs_13">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0013/full/full/0/default.jpg"
+                width="3042px" height="4803px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3038" lry="4850" xml:id="facs_14">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0014/full/full/0/default.jpg"
+                width="3038px" height="4850px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3014" lry="4851" xml:id="facs_15">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0015/full/full/0/default.jpg"
+                width="3014px" height="4851px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2958" lry="4789" xml:id="facs_16">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0017/full/full/0/default.jpg"
+                width="2958px" height="4789px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="2972" lry="4773" xml:id="facs_17">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0018/full/full/0/default.jpg"
+                width="2972px" height="4773px"/>
+        </surface>
+    </facsimile>
     <text type="Sitzungsprotokoll">
-        <body><div type="main">
+        <body>
+            <div type="main">
                 <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
                 <head>Protokoll der 8. Sitzung des Unterausschusses des Verfassungsausschusses von
                     21.VIII.1920.</head>
                 <p>Beginn 10 Uhr 30 Vormittag.</p>
                 <p> Anwesend:</p>
-                <p> Dr. Otto Bauer als Vorsitzender</p>
-                <p> Dr. Josef Aigner</p>
-                <p> Heinrich Clessin</p><p> Jodok Fink</p><p> Karl Leuthner</p><p> Dr. Ignaz Seipel
-                    </p><p>Staatssekretär Dr. Michael Keyr</p>
+                <list>
+                    <item>Dr. Otto Bauer als Vorsitzender </item>
+                    <item>Dr. Josef Aigner </item>
+                    <item> Heinrich Clessin </item>
+                    <item>Jodok Fink </item>
+                    <item> Karl Leuthner </item>
+                    <item>Dr. Ignaz Seipel </item>
+                    <item>Staatssekretär Dr. Michael Keyr </item>
+                </list>
                 <p> von der Staatskanzlei:</p>
-                <p> Sektionsrat Dr. Hugo Jäckl</p><p> Sektionsrat Dr. Egbert Mennlicher</p>
-                <p> Ministerialvizesekretär Dr. Kurt Frieberger als Schriftführer</p>
-                <p> Prof. Dr. Hans Kelsen als Experte des Verfassungsausschusses.</p>
+                <list>
+                    <item>Sektionsrat Dr. Hugo Jäckl </item>
+                    <item> Sektionsrat Dr. Egbert Mennlicher </item>
+                    <item>Ministerialvizesekretär Dr. Kurt Frieberger als Schriftführer </item>
+                    <item>Prof. Dr. Hans Kelsen als Experte des Verfassungsausschusses. </item>
+                </list>
                 <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw type="pageNum">- 2
                         -</fw>Der Vorsitzende leitet die Beratung über den 4. Abschnitt des Linzer
                     Entwurfes „Von der Gesetzgebung und Vollziehung der Länder“ ein und bemerkt zu
@@ -128,7 +224,8 @@
                     laut Art. 85, Abs. 2 die Bedingungen des Wahlrechtes nicht enger gezogen werden
                     dürfen als in der Wahlordnung zum Nationalrat, es wurden daraufhin folgende
                     Formulierungen beschlossen:</p>
-                <quote><head>„Artikel 85. </head>
+                <quote>
+                    <head>„Artikel 85. </head>
                     <p> (1) Die gesetzgebende Gewalt der Länder wird durch die Landtage ausgeübt,
                         deren Mitglieder auf Grund des gleichen, geheimen, persönlichen und
                         unmittelbaren Verhältniswahlrechtes aller nach den Landtagswahlordnungen
@@ -141,7 +238,8 @@
                         Mitglieder des Nationalrates, wobei die Bestimmungen des Art. 43 sinngemäß
                         Anwendung finden.</p>
                     <p> (2) Die Bestimmungen der Art. 24 und 25 gelten auch für die Sitzungen der
-                        Landtage und ihrer Ausschüsse." </p></quote>
+                        Landtage und ihrer Ausschüsse." </p>
+                </quote>
                 <p> Bei Beratung des Art. 87 verweist der Vorsitzende auf die
                     Meinungsverschiedenheiten bezüglich der Trennung der Funktionen des Vorsitzenden
                     im Landtage und des Chefs der Landesregierung. Abg. Seipel spricht sich für
@@ -228,7 +326,8 @@
                     <p> (2) Insoweit ein Landesgesetz bei der Vollziehung die Mitwirkung von
                         Bundesbehörden vorsieht, muß zu dieser Mitwirkung die Zustimmung der
                         Bundesbehörden eingeholt werden. Vor Erteilung der Zustimmung kann ein
-                        solches Landesgesetz nicht kundgemacht werden."</p></quote>
+                        solches Landesgesetz nicht kundgemacht werden."</p>
+                </quote>
                 <p> Bei Besprechung des Art. 88 verweist der Vorsitzende, als <pb facs="#facs_7"
                         n="7" xml:id="img_0007" break="yes"/><fw type="pageNum">- 6 -</fw> von
                     christlichsozialer Seite eine Verkürzung der Frist gewünscht wird, auf die
@@ -281,16 +380,16 @@
                     wäre.</p>
                 <p> An Stelle des gestrichenen Artikels wird Art. 85 des sozialdemokratischen
                     Entwurfes (904 d. B.) als Art. 89 eingeschaltet:</p>
-                <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
-                <fw type="pageNum">- 8 -</fw>
                 <quote>
-                    <head>"Artikel 89. </head>
+                    <head><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><fw type="pageNum"
+                            >- 8 -</fw>"Artikel 89. </head>
                     <p>(1) Die durch Landesgesetz zu erlassende Landesverfassung kann - insoweit
                         dadurch die Bundesverfassung nicht berührt wird - durch Landesgesetz
                         abgeändert werden.</p>
                     <p>(2) Ein Landesverfassungsgesetz kann nur bei Anwesenheit der Hälfte aller
                         Mitglieder des Landestages mit einer Mehrheit von zwei Dritteln aller
-                        abgegebenen Stimmen beschlossen werden."</p></quote>
+                        abgegebenen Stimmen beschlossen werden."</p>
+                </quote>
                 <p> Bei Artikel 990 wird trotz Widerspruches des Abg. Leuthner auf Antrag der
                     Christlichsozialen beschlossen, daß die Hälfte der Mitglieder anwesend sein und
                     der Beschluß mit einer Mehrheit von zwei Dritteln der abgegebenen Stimmen gefaßt
@@ -313,8 +412,8 @@
                         drit<pb facs="#facs_10" n="10" xml:id="img_0010" break="no"/><fw
                         type="pageNum">- 9 -</fw>ten Absatz hat es zu lauten: „seine
                     Stellvertreter“.</p>
-                <p> Ferner wird beschlossen, in den Art. 91 als 3. Absatz den Abs. 3 des Art. 88
-                    (904 d. B.) einzuschalten: „Die Mitglieder der Landesregierung müssen nicht dem
+                <p>Ferner wird beschlossen, in den Art. 91 als 3. Absatz den Abs. 3 des Art. 88 (904
+                    d. B.) einzuschalten: „Die Mitglieder der Landesregierung müssen nicht dem
                     Landtag angehören, jedoch kann in die Landesregierung nur gewählt werden, wer
                     zum Landtag wählbar ist“ </p>
                 <p> Über Antrag des Abg. Dr. Seipel stellt der Vorsitzende den Artikel 26 des
@@ -336,29 +435,34 @@
                     auf den Widerstand der Schweizerkantone gegen die stete Vermehrung der
                     Bundesbehörden im ganzen Gebiete der Eidgenossenschaft hingewiesen wird, ergibt
                     die Abstimmung die Annahme eines Antrages Clessin's:</p>
-                <p><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><fw type="pageNum">- 10
-                        -</fw> „(2) Eigene Bundesbehörden können bis auf weiteres für folgende
-                    Angelegenheiten errichtet werden: “Ein konkreter Vorschlag ist von der
-                    Staatskanzlei nach Verhandlungen mit den Staatsämtern vorzulegen.„Dem Bunde
-                    bleibt es vorbehalten, auch in diesen Angelegenheiten die Landesregierungen mit
-                    der Ausübung der vollziehenden Gewalt des Bundes zu beauftragen.“ </p>
+                <quote>
+                    <p><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><fw type="pageNum"
+                            >- 10 -</fw> „(2) Eigene Bundesbehörden können bis auf weiteres für
+                        folgende Angelegenheiten errichtet werden – ein konkreter Vorschlag ist von
+                        der Staatskanzlei nach Verhandlungen mit den Staatsämtern vorzulegen. – Dem
+                        Bunde bleibt es vorbehalten, auch in diesen Angelegenheiten die
+                        Landesregierungen mit der Ausübung der vollziehenden Gewalt des Bundes zu
+                        beauftragen.“ </p>
+                </quote>
                 <p> Der Vorsitzende macht hiebei aufmerksam, daß die Aufnahme der
                     „Sicherheitspolizei in den Landeshauptstädten“, in die taxative Aufzählung auf
                     größtem Widerstand der sozialdemokratischen Partei stoßen werde. Sohin wird
                     beschlossen, daß Abs. 3 des Art. 26 (888 d. B.) zum nächsten Artikel gezogen
                     wird und der Abs. 4 folgendermaßen zu lauten hat:</p>
-                <head>(Artikel 92.)</head>
-                <p> „(4) In den Angelegenheiten der mittelbaren Bundesverwaltung sind die
-                    Landesregierungen an die Weisungen der Bundesregierung sowie der einzelnen
-                    Bundesämter gebunden; der administrative Instanzenzug geht in diesen
-                    Angelegenheiten — wenn nicht durch Bundesgesetz ausdrücklich anderes bestimmt
-                    ist — bis zu den zuständigen Bundesämtern.“</p>
+                <quote>
+                    <head>(Artikel 92.)</head>
+                    <p>„(4) In den Angelegenheiten der mittelbaren Bundesverwaltung sind die
+                        Landesregierungen an die Weisungen der Bundesregierung sowie der einzelnen
+                        Bundesämter gebunden; der administrative Instanzenzug geht in diesen
+                        Angelegenheiten – wenn nicht durch Bundesgesetz ausdrücklich anderes
+                        bestimmt ist – bis zu den zuständigen Bundesämtern.“</p>
+                </quote>
                 <p> Die Sitzung wird um ½1 Uhr nachmittags unterbrochen und um 3 Uhr fortgesetzt.
                     Bei Besprechung des Art. 93 erklärt Abg. Clessin, daß seinem früheren Antrag
                     gemäß dem Landesamtsdirektor, welcher Titel in allen Ländern gleichmäßig
                     einzuführen wäre, der die Vollziehung überhabe, die Verantwortlichkeit
-                    anzulasten wäre. Der Vorsitzende ist der Meinung, daß dadurch eine Art
-                    Sitzredakteur geschaffen werde. Prof. Dr. Kelsen meint, daß die Stellung des
+                    anzulasten wäre. Der <emph>Vorsitzende</emph> ist der Meinung, daß dadurch eine
+                    Art Sitzredakteur geschaffen werde. Prof. Dr. Kelsen meint, daß die Stellung des
                     Landeshauptmannes zum Landesamtsdirektor gewissermaßen analog der des
                     unverantwortlichen Monarchen zum verantwortlichen Minister wäre. Dr. Seipel ist
                     jedoch der Anschauung, daß der Landeshauptmann, solange keine Trennung der
@@ -370,56 +474,65 @@
                         11 -</fw>Die Länder würden darin keine Erhöhung der Selbständigkeit des
                     Landeshauptmannes sondern ein Wiederaufleben der Statthalter sehen. Artikel 93
                     wird sodann mit geringfügigen Änderungen angenommen und lautet: </p>
-                <quote><head>„Artikel 93. </head>
-                    <p> (1) Der Landeshauptmann oder sein Stellvertreter vertreten das Land. Er
-                        trägt in den Angelegenheiten der mittelbaren Bundesverwaltung die
-                        Verantwortung gegenüber der Bundesregierung. Gemäß Artikel 152 der geltenden
-                        Bestimmung dieser Verantwortung steht die Immunität nicht im Wege. </p>
-                    <p> (2) Dem Landtage sind die Mitglieder der Landesregierung gemäß Artikel 152
-                        verantwortlich.“</p></quote>
+                <quote>
+                    <head>„Artikel 93. </head>
+                    <p> (1) <emph>Der Landeshauptmann oder sein Stellvertreter vertreten das Land.
+                            Er trägt in den Angelegenheiten der mittelbaren Bundesverwaltung die
+                            Verantwortung gegenüber der Bundesregierung. Gemäß Artikel 152 der
+                            geltenden Bestimmung dieser Verantwortung steht die Immunität nicht im
+                            Wege.</emph></p>
+                    <p> (2) <emph>Dem Landtage sind die Mitglieder der Landesregierung gemäß Artikel
+                            152 verantwortlich.</emph>“</p>
+                </quote>
                 <p> Zu Artikel 94 wünscht Abg. Clessin, daß der Landesamtsdirektor in allen Ländern
                     den gleichen Titel führe. Auch beantragt er die Streichung des 2. Absatzes, um
                     den Wünschen der Technik entgegenzukommen, fordert aber ausdrücklich, daß der
                     Landesamtsdirektor ein rechtskundiger Beamter sein müsse. Bei Besprechung des
-                    folgenden Artikels meint der Vorsitzende, daß der Übergang der Amtsgeschäfte des
-                    Landeshauptmannes auf den Landesamtsdirektor der Landesverfassung zu überlassen
-                    wäre. Wohl aber könnte man den Artikel 95 in der vorliegenden Fassung streichen.
-                    Über Antrag des Abg. Seipel wird nur die Bestimmung über die Tätigkeit des
-                    Landesamtsdirektors in der mittelbaren Bundesverwaltung im vorhergehenden
-                    Artikel übernommen. Der nächste Artikel erhält also folgenden Wortlaut:</p>
+                    folgenden Artikels meint der <emph>Vorsitzende</emph>, daß der Übergang der
+                    Amtsgeschäfte des Landeshauptmannes auf den Landesamtsdirektor der
+                    Landesverfassung zu überlassen wäre. Wohl aber könnte man den Artikel 95 in der
+                    vorliegenden Fassung streichen. Über Antrag des Abg. Seipel wird nur die
+                    Bestimmung über die Tätigkeit des Landesamtsdirektors in der mittelbaren
+                    Bundesverwaltung im vorhergehenden Artikel übernommen. Der nächste Artikel
+                    erhält also folgenden Wortlaut:</p>
                 <quote>
                     <head>„Artikel 94. </head>
                     <p> Zur Leitung des gesamten inneren Betriebes der Landesregierung wird ein
                         rechtskundiger Verwaltungsbeamter als Landesamtsdirektor bestellt. Er ist in
                         den Angelegenheiten der mittelbaren Bundesverwaltung das Hilfsorgan des
-                        Landeshauptmannes. </p></quote>
+                        Landeshauptmannes. </p>
+                </quote>
                 <p>
                     <pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><fw type="pageNum">-
-                        12 -</fw> Bei Besprechung des Artikels 96 hebt der Vorsitzende die
-                    Möglichkeit außerordentlicher Konsequenzen hervor mit Übergehung des Landtages
-                    und des Nationalrates, wo ein Ausnahmszustand verhängt der in keiner Weise
-                    geregelt sei. Prof. Dr. Kelsen erläutert diese Bestimmung, daß ursprünglich
-                    beabsichtigt war, für den Fall der Obstruktion eines Landes einen
-                    Bundeskommissär zu ernennen, an den alle Beamten gewiesen wären. Der Vorsitzende
-                    findet die Bestimmungen des Artikel 48 der deutschen Verfassung über die
-                    Bundesexekution zweckentsprechender, doch verfügt der Präsident in Österreich
-                    nicht in gleicher Weise über die bewaffnete Macht. Da Abg. Dr. Seipel
-                    befürchtet, daß die Schwierigkeiten, die diese Bestimmung hervorrufen dürften,
-                    größer sein werde als ihr praktischer Wert, wird über seinen und des
-                    Staatssekretärs Dr. Mayr Antrag Artikel 96 gestrichen.</p>
-                <p> Bei Artikel 97 erinnert der Vorsitzende an die historische Bedeutung des
-                    Problems. Die Habsburger hätten sich bemüht Bündnisse der Stände verschiedener
-                    Länder zu verhindern und nach der Schlacht am Weißen Berg einen vollen Erfolg
-                    erzielt. Er würde die Fassung des Art. 93 im sozialdemokratischen Entwurf (904
-                    d. B.) empfehlen: „Vereinbarungen der Länder untereinander können nur über
-                    Angelegenheiten ihres selbständigen Wirkungskreises und nur durch Vermittlung
-                    der Bundesregierung getroffen werden“. Dieser Antrag wird jedoch abgelehnt und
-                    Art. 97 in der Fassung des Linzer Entwurfes angenommen. </p>
-                <head>Artikel 97. </head>
-                <p>Vereinbarungen der Länder untereinander können nur über Angelegenheiten des
-                    selbständigen Wirkungskreises getroffen werden und sind der Bundesregierung
-                        unverzüglich<pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><fw
-                        type="pageNum">- 13 -</fw> anzuzeigen.</p>
+                        12 -</fw> Bei Besprechung des Artikels 96 hebt der <emph>Vorsitzende</emph>
+                    die Möglichkeit außerordentlicher Konsequenzen hervor mit Übergehung des
+                    Landtages und des Nationalrates, wo ein Ausnahmszustand verhängt der in keiner
+                    Weise geregelt sei. Prof. Dr. Kelsen erläutert diese Bestimmung, daß
+                    ursprünglich beabsichtigt war, für den Fall der Obstruktion eines Landes einen
+                    Bundeskommissär zu ernennen, an den alle Beamten gewiesen wären. Der
+                        <emph>Vorsitzende</emph> findet die Bestimmungen des Artikel 48 der
+                    deutschen Verfassung über die Bundesexekution zweckentsprechender, doch verfügt
+                    der Präsident in Österreich nicht in gleicher Weise über die bewaffnete Macht.
+                    Da Abg. Dr. Seipel befürchtet, daß die Schwierigkeiten, die diese Bestimmung
+                    hervorrufen dürften, größer sein werde als ihr praktischer Wert, wird über
+                    seinen und des Staatssekretärs <emph>Dr.</emph> Mayr Antrag <emph>Artikel 96
+                        gestrichen.</emph></p>
+                <p> Bei Artikel 97 erinnert der <emph>Vorsitzende</emph> an die historische
+                    Bedeutung des Problems. Die Habsburger hätten sich bemüht Bündnisse der Stände
+                    verschiedener Länder zu verhindern und nach der Schlacht am Weißen Berg einen
+                    vollen Erfolg erzielt. Er würde die Fassung des Art. 93 im sozialdemokratischen
+                    Entwurf (904 d. B.) empfehlen: „Vereinbarungen der Länder untereinander können
+                    nur über Angelegenheiten ihres selbständigen Wirkungskreises und nur durch
+                    Vermittlung der Bundesregierung getroffen werden“. Dieser <emph>Antrag wird
+                        jedoch abgelehnt</emph> und Art. 97 in der Fassung des Linzer Entwurfes
+                    angenommen. </p>
+                <quote>
+                    <head>Artikel 97. </head>
+                    <p><emph>Vereinbarungen der Länder untereinander können nur über Angelegenheiten
+                            des selbständigen Wirkungskreises getroffen werden und sind der
+                            Bundesregierung unverzüglich<pb facs="#facs_14" n="14" xml:id="img_0014"
+                                break="yes"/><fw type="pageNum">- 13 -</fw> anzuzeigen.</emph></p>
+                </quote>
                 <p>Von sozialdemokratischer Seite wird nunmehr beantragt, in die Verfassung den
                     Artikel ihres Entwurfes (904 d. B.) aufzunehmen, dass es größeren Gebietsteilen
                     unter bestimmten Voraussetzungen auf Grund von Volksabstimmungen ermöglicht sei,
@@ -443,71 +556,78 @@
                     soziale, kulturelle und wirtschaftliche Unterschiede zwischen den Bewohnern
                     verschiedener Landstriche eines einzelnen Landes. Der <pb facs="#facs_15" n="15"
                         xml:id="img_0015" break="yes"/><fw type="pageNum">- 14 -</fw>Bewohner des
-                    Waldviertels und der einer Südbahngemeinde werden kaum miteinander verglichen
-                    werden können. Gewisse Gebiete müßten aus verwaltungstechnischen Gründen von
-                    einem Lande einem anderen überwiesen werden wie namentlich das Unterpustertal.
-                    Staatssekretär Dr. Mayr erwähnte zu diesem Beispiel, daß die Bevölkerung gerade
-                    dieses Gebietes keineswegs den Wunsch habe, an Kärnten angegliedert zu werden,
-                    und daß schon zur immerwährenden Betonung der Erwartung, daß das deutsche
-                    Südtirol wieder von der Fremdherrschaft befreit werde, die Zugehörigkeit des
-                    Gebietes zum Stammlande aufrecht erhalten werden müsse. Da diese Frage im
-                    Zusammenhang mit Art. 3 des Linzer Entwurfes steht, stellt Abg. Fink den Antrag
-                    auf diesen Artikel in Verhandlung zu ziehen und durch folgende 4 Absätze zu
-                    ergänzen: </p>
-                <p><label>(3)</label>Innerhalb der ersten 10 Jahre des Bestandes dieser Verfassung
-                    kann ein Land durch Volksabstimmung beschließen, sich einem anderen Staatswesen
-                    anzuschließen oder einen selbständigen Staat zu bilden. </p>
-                <p><label>(4)</label>Entscheidet die Volksabstimmung mit absoluter Mehrheit der
-                    gültig abgegebenen Stimmen für die Einverleibung in ein anderes angrenzendes
-                    Staatswesen, dann vollziehen die Gebietsänderung übereinstimmende Beschlüsse
-                    dieses Staates und des betreffenden Landes. </p>
-                <p><label>(5)</label>Entscheidet die Volksabstimmung für die Bildung eines
-                    selbständigen Staates, so ist dieser Entscheid der Bundesversammlung vorzulegen.
-                    Verweigert die Bundesversammlung die Genehmigung, so steht die endgiltige
-                    Entscheidung beim Völkerbunde. </p>
-                <p><label>(6)</label>Aus einer Gebietsänderung erwachsende finanzrechtliche
-                    Streitigkeiten entscheidet ebenfalls der Völkerbund.</p>
-                <p>Der Vorsitzende macht auf die Schwierigkeit aufmerk<pb facs="#facs_16" n="16"
-                        xml:id="img_0016" break="no"/><fw type="pageNum">- 15 -</fw>sam, die darin
-                    liegt, daß nach diesem Vorschlag unsere Verfassung ausländischen Staaten den
-                    Auftrag gibt, Beschlüsse zu fassen und dem Völkerbund eine Aufgabe stellt, mit
-                    deren Übernahme sich dieser erst einverstanden erklären müßte.</p>
+                        <emph>Waldviertels</emph> und der einer Südbahngemeinde werden kaum
+                    miteinander verglichen werden können. Gewisse Gebiete müßten aus
+                    verwaltungstechnischen Gründen von einem Lande einem anderen überwiesen werden
+                    wie namentlich das Unterpustertal. Staatssekretär Dr. Mayr erwähnte zu diesem
+                    Beispiel, daß die Bevölkerung gerade dieses Gebietes keineswegs den Wunsch habe,
+                    an Kärnten angegliedert zu werden, und daß schon zur immerwährenden Betonung der
+                    Erwartung, daß das deutsche Südtirol wieder von der Fremdherrschaft befreit
+                    werde, die Zugehörigkeit des Gebietes zum Stammlande aufrecht erhalten werden
+                    müsse. Da diese Frage im Zusammenhang mit Art. 3 des Linzer Entwurfes steht,
+                    stellt Abg. Fink den Antrag auf diesen Artikel in Verhandlung zu ziehen und
+                    durch folgende 4 Absätze zu ergänzen: </p>
+                <quote>
+                    <p>(3) Innerhalb der ersten 10 Jahre des Bestandes dieser Verfassung kann ein
+                        Land durch Volksabstimmung beschließen, sich einem anderen Staatswesen
+                        anzuschließen oder einen selbständigen Staat zu bilden.</p>
+                    <p>(4) Entscheidet die Volksabstimmung mit absoluter Mehrheit der gültig
+                        abgegebenen Stimmen für die Einverleibung in ein anderes angrenzendes
+                        Staatswesen, dann vollziehen die Gebietsänderung übereinstimmende Beschlüsse
+                        dieses Staates und des betreffenden Landes.</p>
+                    <p>(5) Entscheidet die Volksabstimmung für die Bildung eines selbständigen
+                        Staates, so ist dieser Entscheid der Bundesversammlung vorzulegen.
+                        Verweigert die Bundesversammlung die Genehmigung, so steht die endgiltige
+                        Entscheidung beim Völkerbunde.</p>
+                    <p>(6) Aus einer Gebietsänderung erwachsende finanzrechtliche Streitigkeiten
+                        entscheidet ebenfalls der Völkerbund.</p>
+                </quote>
+                <p>Der <emph>Vorsitzende</emph> macht auf die Schwierigkeit aufmerk<pb
+                        facs="#facs_16" n="16" xml:id="img_0016" break="no"/><fw type="pageNum">- 15
+                        -</fw>sam, die darin liegt, daß nach diesem Vorschlag unsere Verfassung
+                    ausländischen Staaten den Auftrag gibt, Beschlüsse zu fassen und dem Völkerbund
+                    eine Aufgabe stellt, mit deren Übernahme sich dieser erst einverstanden erklären
+                    müßte.</p>
                 <p>Staatssekretär Dr. Mayr gibt zum Antrag Fink folgende Erklärung ab: Wenn er auch
                     glaube, daß in diesem Antrag nur die Absicht zu erblicken sei, den Ländern die
                     schließliche Annahme der Verfassung vom föderalistischen Standpunkt aus zu
                     erleichtern, so müsse er doch als gegenwärtiger Vertreter der Staatsregierung
                     erklären, daß dieselben diesem Antrag nicht zustimmen können. Darauf wird Art. 3
                     in folgender Fassung angenommen: </p>
-                <head>Art. 3. </head>
-                <p><label>(1)</label>Das Bundesgebiet umfaßt die Gebiete der Bundesländer. Es steht
-                    unter dem Schutze des Bundes. </p>
-                <p><label>(2)</label>Eine Änderung des Bundesgebietes, die zugleich eine Änderung
-                    eines Landesgebietes ist, ebenso die Anderung einer Landesgrenze innerhalb des
-                    Bundesgebietes kann — abgesehen vom Friedensvertrag — nur durch übereinstimmende
-                    Verfassungsgesetze des Bundes und jenes Landes erfolgen, dessen Gebiet eine
-                    Änderung erfährt.</p>
+                <quote>
+                    <head>Art. 3. </head>
+                    <p>(1) <emph>Das Bundesgebiet umfaßt die Gebiete der Bundesländer. Es steht
+                            unter dem Schutze des Bundes.</emph></p>
+                    <p>(2) <emph>Eine Änderung des Bundesgebietes, die zugleich eine Änderung eines
+                            Landesgebietes ist, ebenso die Anderung einer Landesgrenze innerhalb des
+                            Bundesgebietes kann — abgesehen vom Friedensvertrag — nur durch
+                            übereinstimmende Verfassungsgesetze des Bundes und jenes Landes
+                            erfolgen, dessen Gebiet eine Änderung erfährt.</emph></p>
+                </quote>
                 <p> Abg. Fink meldet seinen Antrag vorbehaltlich stilistischer Änderungen als
                     Minoritätsvotum an, da auch Dr. Aigner, wenn anwesend, dafür stimmen würde.</p>
                 <p>Es wird hierauf über die Dauer der Gesetzgebungsperiode des Nationalrates
-                    verhandelt. Der Vorsitzende bemerkt, daß seine Partei kurze Legislaturperioden
-                    für ein unbedingtes Erfordernis der Demokratie hält, denn ein Parlament, das vor
-                    5 Jahren gewählt worden sei, könne nicht mehr ein Spiegelbild der politischen
-                    Anschauungen der Bevölkerung genannt werden. Neuwahlen in kurzen Zeitabständen
-                    geben dem Volkswillen deutlicher Ausdruck als Volksabstimmungen<pb
-                        facs="#facs_17" n="17" xml:id="img_0017" break="yes"/><fw type="pageNum">-
-                        16 -</fw> und sind geeignet, den Gedanken der Demokratie zu stärken, dessen
-                    Gegner das Sowjetsystem verteidigen, demzufolge jederzeitige Abberufung des
-                    Volksvertreters durch seine Wähler möglich ist. Die häufige Wiederholung der
-                    Wahl sei auch geeignet, die Leidenschaftlichkeit des Wahlkampfes vorteilhaft zu
-                    verringern. Er stellt in Ausgleichung des Antrages Leuthner auf eine 2jährige
-                    und des Antrages Fink auf eine 5jährige Legislaturperiode einen
-                    Vermittlungsantrag auf 3 Jahre. Der Unterausschuß einigt sich schließlich, dem
-                    Antrage Clessin — 5 Jahre — beizustimmen. Der Antrag des Vorsitzenden mit jeder
-                    Neuwahl des Nationalrates auch eine Neuwahl des Präsidenten stattfinden zu
-                    lassen, wird vom Abg. Dr. Seipel bekämpft und der Unterausschuß beschließt, auch
-                    die Funktionsdauer des Präsidenten mit 4 Jahren festzusetzen. Nach Anberaumung
-                    der nächsten Sitzung auf Montag, den 23. August, 10 Uhr vormittags wird die
-                    Sitzung um 6 Uhr nachmittags geschlossen.</p>
-            </div>  </body>
-   </text> 
+                    verhandelt. Der <emph>Vorsitzende</emph> bemerkt, daß seine Partei kurze
+                        <emph>Legislaturperioden</emph> für ein unbedingtes Erfordernis der
+                    Demokratie hält, denn ein Parlament, das vor 5 Jahren gewählt worden sei, könne
+                    nicht mehr ein Spiegelbild der politischen Anschauungen der Bevölkerung genannt
+                    werden. Neuwahlen in kurzen Zeitabständen geben dem Volkswillen deutlicher
+                    Ausdruck als Volksabstimmungen<pb facs="#facs_17" n="17" xml:id="img_0017"
+                        break="yes"/><fw type="pageNum">- 16 -</fw> und sind geeignet, den Gedanken
+                    der Demokratie zu stärken, dessen Gegner das Sowjetsystem verteidigen,
+                    demzufolge jederzeitige Abberufung des Volksvertreters durch seine Wähler
+                    möglich ist. Die häufige Wiederholung der Wahl sei auch geeignet, die
+                    Leidenschaftlichkeit des Wahlkampfes vorteilhaft zu verringern. Er stellt in
+                    Ausgleichung des Antrages Leuthner auf eine 2 jährige und des Antrages Fink auf
+                    eine 5jährige Legislaturperiode einen Vermittlungsantrag auf 3 Jahre. Der
+                    Unterausschuß einigt sich schließlich, dem Antrage Clessin — 5 Jahre —
+                    beizustimmen. Der Antrag des <emph>Vorsitzenden</emph> mit jeder Neuwahl des
+                    Nationalrates auch eine Neuwahl des Präsidenten stattfinden zu lassen, wird vom
+                    Abg. Dr. Seipel bekämpft und der Unterausschuß beschließt, auch die
+                        <emph>Funktionsdauer des Präsidenten mit 4 Jahren</emph> festzusetzen. Nach
+                    Anberaumung der nächsten Sitzung auf Montag, den 23. August, 10 Uhr vormittags
+                    wird die Sitzung um 6 Uhr nachmittags geschlossen.</p>
+            </div>
+        </body>
+    </text>
 </TEI>
