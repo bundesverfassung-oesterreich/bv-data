@@ -103,7 +103,7 @@
                 <date notBefore-iso="1920-08-21" notAfter-iso="1920-08-21"> 21. August 1920 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="text_correct">
+        <revisionDesc status="done">
             <change when="2024-11-09" who="#cfh">document automatically created</change>
             <change when="2024-11-21" who="#t_voegtlin">Gliederung</change>
             <change when="2024-11-29" who="#t_voegtlin">Gegenlesen beendet</change>
