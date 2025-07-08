@@ -218,6 +218,7 @@
     </facsimile>
     <text type="Sitzungsprotokoll">
         <body>
+            <div type="main">
             <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
             <head> Protokoll der 11. Sitzung des Unterausschusses des Verfassungsausschusses vom
                 28.August 1920.</head>
@@ -837,6 +838,7 @@
                 Finanzfrage der Gemeinde und die Frage ihrer künftigen Steuerquellen als
                 gleichzeitig zu lösende Probleme gefordert habe.</p>
             <p> Schluß der Sitzung 7 Uhr abends. </p>
+            </div>
         </body>
     </text>
 </TEI>
