@@ -103,7 +103,7 @@
                 <date notBefore-iso="1920-08-26" notAfter-iso="1920-08-26"> 26. August 1920 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="structured">
+        <revisionDesc status="done">
             <change when="2025-02-01" who="#cfh">document automatically created</change>
             <change when="2025-02-03" who="#m_huber">Elias: Text strukturiert </change>
             <change when="2025-02-07" who="#t_voegtlin">Gegenlesen beendet</change>
@@ -169,9 +169,9 @@
     <text type="Sitzungsprotokoll">
         <body>
             <div type="main">
-                <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
-                <head>Protokoll der 12. Sitzung des Unterausschusses des Verfassungsausschusses vom
-                    26. August 1920.</head>
+                <head><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>Protokoll der 12.
+                    Sitzung des Unterausschusses des Verfassungsausschusses vom 26. August
+                    1920.</head>
                 <list>
                     <item>Dr. Otto Bauer als Vorsitzender </item>
                     <item>Simon Abram </item>
@@ -193,16 +193,19 @@
                 <list>
                     <item>Prof. Dr. Hans Kelsen als Experte des Verfassungsausschusses.</item>
                 </list>
-                <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>Der Vorsitzende eröffnet
-                    die Sitzung und erteilt Sekt. Rat Dr. Mannlicher das Wort zwecks Klarstellung
-                    einiger Formulierungen.</p>
-                <p> Es wird beschlossen dem Art. 45 Abs. 3 folgenden Wortlaut zu geben und die
-                    Richtigstellung des Druckexemplares zu veranlassen:</p>
-                <p> „Wenn sich öffentliche Angestellte oder Funktionäre um ein Mandat für den
-                    Nationalrat bewerben ist ihnen die Zeit zu gewähren. Die näheren Bestimmungen
-                    werden durch die Dienstvorschrift getroffen“. </p>
-                <p> In Art. 42b wird die Frist für die Vorlage des Budgets mit 8 Wochen
-                    festgesetzt.</p>
+                <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>Der
+                        <emph>Vorsitzende</emph> eröffnet die Sitzung und erteilt Sekt. Rat Dr.
+                    Mannlicher das Wort zwecks Klarstellung einiger Formulierungen.</p>
+                <p> Es wird beschlossen dem <emph>Art. 45 Abs. 3</emph> folgenden Wortlaut zu geben
+                    und die Richtigstellung des Druckexemplares zu veranlassen:</p>
+                <quote>
+                    <p> „<emph>Wenn sich öffentliche Angestellte oder Funktionäre um ein Mandat für
+                            den Nationalrat bewerben ist ihnen die</emph><del> erforderliche freie
+                        </del>Zeit zu gewähren. Die näheren Bestimmungen werden durch die
+                        Dienstvorschrift getroffen“. </p>
+                </quote>
+                <p> In <emph>Art. 42 b</emph> wird die Frist für die Vorlage des Budgets mit 8
+                    Wochen festgesetzt.</p>
                 <p> In Art. 46 ist im letzten Absatze nach dem Worte Bundesversammlung
                     einzuschalten: „sowie deren Ausschüsse“ Sodann wird Abschnitt 5 „Von den
                     Gemeinden“ durchberaten; die Überschrift wird beschlossen, desgleichen</p>
@@ -368,19 +371,23 @@
                         Verwaltungsbeamte sein.“ </p>
                 </quote>
                 <p> Angenommen wird ferner:</p>
-                <head>„Art. 97 f.</head>
-                <p> Die Festsetzung der weiteren Grundsätze für die Organisation der allgemeinen
-                    staatlichen Verwaltung in den Ländern nach den Artikeln 97 a bis e ist Sache der
-                    Bundesgesetzgebung, ihre Ausführung liegt den Landesgesetzen ob. Welche
-                    Verwaltungsgeschäfte sachlich und instanzenmäßig den Vertretungen und
-                    Verwaltungsausschüssen sowie den Amtern zukommen, bestimmen die
-                    Bundesgesetzgebung und die Landesgesetzgebungen innerhalb ihrer
-                    verfassungsmäßigen Zuständigkeit. Hiebei ist jedoch den Gemeinden ein
-                    Wirkungskreis in erster Instanz in folgenden Angelegenheiten gewährleistet:
-                    (Nach den noch nicht abgeschlossenen Verhandlungen mit den anderen Staatsämtern
-                    von der Staatskanzlei ein konkreter Vorschlag zu erstatten). </p>
-                <p> Für das Gemeindewahlrecht sind Übergangsbestimmungen vorzusehen, auf Grund deren
-                    die bisherigen Wahlen bis zum Ablaufe der Mandatsdauer Geltung haben. </p>
+                <quote>
+                    <head>„Art. 97 f.</head>
+                    <p> Die Festsetzung der weiteren Grundsätze für die Organisation der allgemeinen
+                        staatlichen Verwaltung in den Ländern nach den Artikeln 97 a bis e ist Sache
+                        der Bundesgesetzgebung, ihre Ausführung liegt den Landesgesetzen ob. Welche
+                        Verwaltungsgeschäfte sachlich und instanzenmäßig den Vertretungen und
+                        Verwaltungsausschüssen sowie den Amtern zukommen, bestimmen die
+                        Bundesgesetzgebung und die Landesgesetzgebungen innerhalb ihrer
+                        verfassungsmäßigen Zuständigkeit. Hiebei ist jedoch den Gemeinden ein
+                        Wirkungskreis in erster Instanz in folgenden Angelegenheiten gewährleistet:
+                        (Nach den noch nicht abgeschlossenen Verhandlungen mit den anderen
+                        Staatsämtern von der Staatskanzlei ein konkreter Vorschlag zu erstatten). </p>
+                    <p>
+                        <emph>Für das Gemeindewahlrecht sind Übergangsbestimmungen vorzusehen, auf
+                            Grund deren die bisherigen Wahlen bis zum Ablaufe der Mandatsdauer
+                            Geltung haben. </emph></p>
+                </quote>
                 <p> Die übrigen von der Staatskanzlei vorgelegten Artikelentwürfe werden nach Antrag
                     des Abg. Dr. Seipel als Übergangsbestimmungen formuliert. In diesen Bestimmungen
                     soll gesagt werden, daß an Stelle der Be<pb facs="#facs_10" n="10"
@@ -416,6 +423,8 @@
                         wählbar sind.</p>
                     <p>(5) Die näheren Bestimmungen der Durchführung dieser Wahlen werden von der
                         Landesgesetzgebung getroffen.</p>
+                </quote>
+                <quote>
                     <head>Art. y. </head>
                     <p>Die Festsetzung der weiteren Grundsätze für die vorläufige Ausgestaltung der
                         dermaligen Bezirksverwaltung nach Art. X ist Sache der Bundesgesetzgebung;
