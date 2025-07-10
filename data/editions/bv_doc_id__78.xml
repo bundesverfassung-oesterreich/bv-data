@@ -66,6 +66,10 @@
                         <idno type="goobi">14553</idno>
                   </publicationStmt>
                   <sourceDesc>
+                        <listWit>
+                              <witness sameAs="#bv_doc_id__20"/>
+                              <witness sameAs="#bv_doc_id__26"/>
+                        </listWit>
                         <msDesc type="invetory">
                               <msIdentifier>
                                     <institution key="https://d-nb.info/gnd/37748-X"
