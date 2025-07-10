@@ -59,8 +59,8 @@
                               </licence>
                         </availability>
                         <idno type="transkribus_doc">1529208</idno>
-                        <idno type="transkribus_collection">195363</idno>
-                        <idno type="bv_data_set">Datenset A</idno>
+                        <idno type="transkribus_collection">196429</idno>
+                        <idno type="bv_data_set">Datenset C</idno>
                         <idno type="goobi">14520</idno>
                   </publicationStmt>
                   <sourceDesc>
@@ -102,7 +102,7 @@
                         </date>
                   </creation>
             </profileDesc>
-            <revisionDesc status="created">
+            <revisionDesc status="structured">
                   <change when="2024-02-27" who="#cfh">document automatically created</change>
                   <change when="2024-05-23" who="#m_huber">formatting completed</change>
             </revisionDesc>
