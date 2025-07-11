@@ -20,6 +20,10 @@ jobs:
     steps:
     - name: Perform Checkout
       uses: actions/checkout@v4
+    - name: prepare folders
+      run: |
+        mkdir -p data/editions
+        rm -rf data/editions/*
     - name: fetch data
       run: |  
         ./shellscripts/fetch_tei_data.sh
