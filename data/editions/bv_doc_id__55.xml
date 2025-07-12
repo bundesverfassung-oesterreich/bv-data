@@ -109,7 +109,7 @@
             <revisionDesc status="created">
                   <change when="2024-10-01" who="#cfh">document automatically created</change>
                   <change when="2025-06-07" who="#s_kury">Gegengelesen bis S. 24 (erneut)</change>
-                  <change when="2025-07-05" who="#s_kury">Gegengelesen bis S. 61</change>
+                  <change when="2025-07-11" who="#s_kury">Gegengelesen bis S. 70</change>
             </revisionDesc>
       </teiHeader>
       <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -1097,10 +1097,11 @@
                         <sp>
                               <speaker>Der Herr Vorsitzende Herr <emph>Dr.
                                     Rintelen:</emph></speaker>
-                              <p>Zum Worte gelangt Herr Landeshauptmann <emph>Dr. Ender</emph>. </p>
+                              <p>Zum Worte gelangt Herr Landeshauptmann Dr. Ender.</p>
                         </sp>
                         <sp>
-                              <speaker>Herr Landeshauptmann von Vorarlberg Doktor Ender:</speaker>
+                              <speaker>Herr Landeshauptmann von Vorarlberg <emph>Dr.
+                                    Ender</emph></speaker>
                               <p>Meine sehr verehrten Herren! Wir setzen hier die Arbeit von
                                     Salzburg fort und zwar nach der Salzburger Methode. Daß die
                                     nicht gerade die von uns gewünschte war, habe ich den Herren in
@@ -5516,13 +5517,13 @@
                         </sp>
                         <sp>
                               <speaker>Herr Gemeinderat <emph>Schmitz</emph> (Wien):</speaker>
-                              <p>Im Artitel 96 beantrage ich folgende Änderung: Die<pb
+                              <p>Im Artikel 96 beantrage ich folgende Änderung: Die<pb
                                           facs="#facs_56" n="56" xml:id="img_0056" break="yes"
                                           xmlns="http://www.tei-c.org/ns/1.0"/><fw type="pageNum"
                                           xmlns="http://www.tei-c.org/ns/1.0">60</fw> Worte „Mit
                                     Zustimmung des Bundesrates oder“ sollen gestrichen werden und an
                                     Stelle der Worte „auf Vorschlag der Bundesregierung“ soll es
-                                    heißen:  „mit Zustimmung der Bundesregierung“. Der Sinn des
+                                    heißen: „mit Zustimmung der Bundesregierung“. Der Sinn des
                                     Antrages ist klar. Ich glaube, es ist keine weitere Begründung
                                     notwendig.</p>
                         </sp>
@@ -5715,198 +5716,197 @@
                                     in Salzburg gesagt haben, daß die Zuständigkeit dieser Konferenz
                                     zur Erledigung der Verfassungsfrage von uns im allgemeinen nicht
                                     anerkannt wird, in bezug auf eine Erledigung dieser Frage aber
-                                    insbesondere. Denn in der Frage der Grundrechte <fw
-                                          type="pageNum">61</fw> handelt es fich nicht um irgend
-                                    welche befondere Länderinteressen, die vor der Fertigstellung
-                                    der Verfassung zu erörtern wären, sondern um große politische
-                                    Fragen, welche für den ganzen Staat, für den ganzen Bund in
-                                    gleicher Weise in Betracht kommen.</p>
+                                    insbesondere. Denn in der Frage der Grundrechte handeltes sich
+                                    nicht um irgend welche besondere Länderinteressen, die vor der
+                                    Fertigstellung der Verfassung zu erörtern wären, sondern um
+                                    große politische Fragen, welche für den ganzen Staat, für den
+                                    ganzen Bund in gleicher Weise in Betracht kommen. </p>
                               <p>Da aber nun einmal diese Frage hier auf der Tagesordnung steht, so
                                     möchten wir, verehrte Herren, ohne allerdings uns ins Detail
-                                    einzulasjen, weniastens einiges zu dieser Sache sagen. Ich mußz
+                                    einzulassen, wenigstens einiges zu dieser Sache sagen. Ich muß
                                     vor allem feststellen, daß der Entwurf des Herrn Staatssekretärs
                                     Professor Dr. Mayr in dieser Frage uns am allerwenigsten
-                                    entspricht. Und daß, wie wir schon in allen anderen 26-
-                                    schnitten der Verfassung mit seinem Entwurfe in vielen Dingen
-                                    nicht einverstanden find, was die Grund- und Freiheitsrechte
+                                    entspricht. Und daß, wie wir schon in allen anderen Abschnitten
+                                    der Verfassung mit seinem Entwurfe in vielen Dingen nicht
+                                    einverstanden sind, was die Grund- und Freiheitsrechte
                                     anbelangt, es uns völlig unmöglich erscheint, daß eine
                                     Verfassung geschaffen werden könnte, in der das Kapitel Grund-
                                     und Freiheitsrechte so ausschaut wie im Entwurfe des Herrn
-                                    Staatssekretärs ProfessorDr. Mahr. Daß man sich bei der
+                                    Staatssekretärs Professor Dr. Mayr. Daß man sich bei der
                                     Fertigstellung der Verfassung im allgemeinen an das deutsche
-                                    Muster, an die deutsche Reichsverfassung halten oll, das ift,
-                                    wie schon einmal feftgeftellt wurde, nicht geschehen. Der Herr
-                                    Staatssekretär hat allerdings in feinen Erwiderungen vorgeftern
+                                    Muster, an die deutsche Reichsverfassung halten soll, das ist,
+                                    wie schon einmal festgestellt wurde, nicht geschehen. Der Herr
+                                    Staatssekretär hat allerdings in seinen Erwiderungen vorgestern
                                     gemeint, eine Abweichung findet sich nur in bezug auf die
                                     Volkswirtschaft, weil hier von vielen Seiten abweichende Wünsche
-                                    geäußzert worden seien.</p>
-                              <p>Ich muß feststellen, daß in bezug auf die rund- und Freiheitsrechte
-                                    von einer Ropie der deutschen Verfassung hier so recht keine
-                                    Rede sein fann, sondern das, was der Entwurf des Herrn
-                                    Staatsfefretärs Dr. Mahr bietet, das ift etwas ganz anderes, als
-                                    in der Deutichen Reichsverfassung steht. Ich will mich hier
-                                    nicht in Details einlaffen, möchte aber doch folgendes fagen:
-                                    Man könnte etwa die Fragen, die hier zu behandeln sind, in drei
-                                    Gruppen einteilen, in die allgemeinpolitischen Fragen, in
-                                    wirtschaftliche Fragen und endlich in die fulturellen Fragen. In
-                                    allen drei Belangen entspricht uns der Entwurf des Herrn
-                                    Staatsjefretärs nicht.</p>
-                              <p>Was zunächst die politischen Fragen anlangt, o sei es mir doch
+                                    geäußert worden seien. </p>
+                              <p>Ich muß feststellen, daß in bezug auf die Grund- und
+                                    Freiheitsrechte von einer Kopie der deutschen Verfassung hier so
+                                    recht keine Rede sein kann, sondern das, was der Entwurf des
+                                    Herrn Staatssekretärs Dr. Mayr bietet, das ist etwas ganz
+                                    anderes, als in der Deutschen Rechtsverfassung steht. Ich will
+                                    mich hier nicht in Details einlassen, möchte aber doch folgendes
+                                    sagen: Man könnte etwa die Fragen, die hier zu behandeln sind,
+                                    in drei Gruppen einteilen, in die allgemein politischen Fragen,
+                                    in wirtschaftliche Fragen und endlich in die kulturellen Fragen.
+                                    In allen drei Belangen entspricht uns der Entwurf des Herrn
+                                    Staatssekretärs nicht. </p>
+                              <p>Was zunächst die politischen Fragen anlangt, so sei es mir doch
                                     gestattet, darauf hinzuweisen, daß der Herr Staatssekretär hier
                                     so rückschrittlich ist als unsere Gesetzgebung, daß zum Beispiel
                                     gleich im ersten Artikel dieses Abschnittes vom Adel in einer
                                     Weise erwähnt ist, die dem Gesetze vom 3. April 1919 geradewegs
                                     widerspricht. Dieses Gesetz vom April 1919 hat den Adel
-                                    abgeschafft. und hat auzdrücklich feftgeftellt, daß ein
-                                    Adelstitel nicht mehr geführt werden darf.</p>
-                              <p>Der Herr Staatssekretär bringt hier im Artitel 108 eine milde
-                                    Fajjung, daß Adelsbezeichnungen nur als ein Titel des Namens
+                                    abgeschafft und hat ausdrücklich festgestellt, daß ein
+                                    Adelstitel nicht mehr geführt werden darf. </p>
+                              <p>Der Herr Staatssekretär bringt hier im Artikel 108 eine milde
+                                    Fassung, daß Adelsbezeichnungen nur als ein Teil des Namens
                                     gelten und nicht mehr verliehen werden dürfen. Das ist nicht
                                     das, was im Adelsabschaffungsgesetz steht, am allerbesten aber
-                                    das, was wir brauchen, weil die Praxis 246<pb facs="#facs_58"
+                                    das, was wir brauchen, weil die Praxis <pb facs="#facs_58"
                                           n="58" xml:id="img_0058" break="yes"/><fw type="pageNum"
-                                          >62</fw> im leßzten Jahre zeigte, daß auch dieses Geset
-                                    nicht zureicht, das im April 1919 gemacht worden. ist, sondern
-                                    daß es verschärft werden muß, weil die Aldeligen alle möglichen
+                                          >62</fw> im letzten Jahre zeigte, daß auch dieses Gesetz
+                                    nicht zureicht, das im April 1919 gemacht worden ist, sondern
+                                    daß es verschärft werden muß, weil die Adeligen alle möglichen
                                     Methoden zur Führung ihres Namens anwenden, was für eine
-                                    demotratische Republik nicht paßzt. Es möchte manchem das
-                                    vielleicht als Kleinigkeit erscheinen. Gs erscheint uns nicht
+                                    demokratische Republik nicht paßt. Es möchte manchem das
+                                    vielleicht als Kleinigkeit erscheinen. Es erscheint uns nicht
                                     als Kleinigkeit, weil wir auf dem Standpunkt völliger Gleichheit
                                     in jeder politischen Beziehung stehen und darum ist der ganze
-                                    Artikel 108, wie ihn Herr Staatsfefretär verfaft hat, nicht
+                                    Artikel 108, wie ihn Herr Staatssekretär verfaßt hat, nicht
                                     sympathisch und wir sind der Meinung, daß man die Abschaffung
                                     jedweden Vorrechtes auch noch in viel präziserer und schärferer
-                                    Weise zum Ausdrucke bringen müßte.</p>
+                                    Weise zum Ausdrucke bringen müßte. </p>
                               <p>Dann, meine Herren, vermissen wir in dem Entwurf des Herrn
-                                    Staatssekretärs Dr. Mayr eine Bestimmung über das Afylrecht, die
-                                    in unerer Zeit eine außzerordentlich große Kolle spielt. Es
-                                    handelt sich hier nicht um eine fozialdemotratische Forderung,
+                                    Staatssekretärs Dr. Mayr eine Bestimmung über das Asylrecht, die
+                                    in unserer Zeit eine außerordentlich große Rolle spielt. Es
+                                    handelt sich hier nicht um eine sozialdemokratische Forderung,
                                     sondern um eine alte Forderung der bürgerlichen Demokratie. Ich
-                                    weiß schon, daß das Bürgertum in Deutschöfterreich der Herr
-                                    Staatssekretär Dr. Steinwender hat einen Zwischenruf gemacht —
-                                    seine politischen Grundrechte längit vergessen hat. Das ist uns
-                                    ja bekannt, Es ist ja in vielen Dingen so, daß die Arbeiterchaft
-                                    und die Sozialdemokraten die alten Forderungen der politischen
-                                    Demokratie des Vürgertume heute vertreten müffen. Wir werden das
-                                    auch ferner tun und sind der Meinung, daß das Asylrecht ein
-                                    verfassungsmäßig garantiertes Recht sein muß, für wen immer es
-                                    in Anwendung zu kommen hat, daß das Afhlrecht so formuliert sein
-                                    soll wie die berühmte belgische Formel.</p>
+                                    weiß schon, daß das Bürgertum in Deutschösterreich — Herr
+                                    Staatssekretär Dr.Steinwender hat einen Zwischenruf gemacht —
+                                    seine politischen Grundrechte längst vergessen hat. Das ist uns
+                                    ja bekannt. Es ist ja in vielen Dingen so, daß die
+                                    Arbeiterschaft und die Sozialdemokraten die alten Forderungen
+                                    der politischen Demokratie des Bürgertums heute vertreten
+                                    müssen. Wir werden das auch ferner tun und sind der Meinung, daß
+                                    das Asylrecht ein verfassungsmäßig garantiertes Recht sein muß,
+                                    für wen immer es in Anwendung zu kommen hat, daß das Asylrecht
+                                    so formuliert sein soll wie die berühmte belgische Formel. </p>
                               <p>Was die anderen politischen Fragen anlangt, so könnte man sich in
                                     bezug auf Vereinsrecht und Versammlungsrecht mit dem Entwurfe
-                                    des Herrn Staatssekretärs im wesentlichen einvertanden erflären.
-                                    Alferdings meinen wir, daß auch in diesem Punkte andere
-                                    Formutierungen flaren und beffer wären als die, die uns hier
-                                    vorliegen. </p>
-                              <p>Was die wichtige Frage der Pressefreiheit und der Zenfur im
+                                    des Herrn Staatssekretärs im wesentlichen einverstanden
+                                    erklären. Allerdings meinen wir, daß auch in diesem Punkte
+                                    andere Formulierungen klarer und besser wären als die, die uns
+                                    hier vorliegen. </p>
+                              <p>Was die wichtige Frage der Pressefreiheit und der Zensur im
                                     allgemeinen anbelangt, hat der Herr Staatssekretär die Fassung
                                     seines ersten Entwurfes, wenn ich nicht irre, einigermaßen
                                     geändert. Auch wir — das möchte ich bei dieser Gelegenheit
-                                    betonensind der Meinung, daß die Möglichkeit der Bekämpfung der
-                                    Schund- und Schmubliteratur als auch die Möglichkeit des
-                                    Zugendschutzes in allen diesen Dingen gegeben ein mußz und daß
+                                    betonen — sind der Meinung, daß die Möglichkeit der Bekämpfung
+                                    der Schund- und Schmutzliteratur als auch die Möglichkeit des
+                                    Jugendschutzes in allen diesen Dingen gegeben sein muß und daß
                                     insoweit die Möglichkeit zur Einschränkung der Pressefreiheit
                                     und der Freiheit der Meinungsäußerung überhaupt da sein muß.
                                     Aber jede weitergehende Einschränkung der Meinungsäußerung
                                     erscheint uns von Übel und von diesem Gesichtspunkte aus werden
-                                    die Destimmungen in den betreffenden Artikeln auch zu überprüfen
+                                    die Bestimmungen in den betreffenden Artikeln auch zu überprüfen
                                     sein. Die Bestimmungen über die Gleichberechtigung der
                                     Staatsbürger ohne Unterschied der Nationalität erscheinen in dem
                                     Entwurfe des Herrn Staatssekretärs nicht entsprechend
                                     herausgearbeitet. Ich glaube, daß hier das einfachste wohl sein
                                     wird, wenn wir die Bestimmung des Friedensvertrages im
-                                    allgemeinen herübernehmen. in unsere Verfassung.</p>
+                                    allgemeinen herübernehmen in unsere Verfassung. </p>
                               <p>Sehr wichtig ist besonders in den heutigen Verhältnissen das
                                     Kapitel der Freizügigkeit. Der Entwurf des Herrn Staatssekretärs
                                     enthält darüber eine Bestimmung, mit der wir uns im allgemeinen
-                                    zufrieden geben können. Gs wird nur mit besonderem Nachdrucke
-                                    auf fie hingewiesen werden, weil Bestimmungen in den Ländern
+                                    zufrieden geben können. Es wird nur mit besonderem Nachdrucke
+                                    auf sie hingewiesen werden, weil Bestimmungen in den Ländern
                                     bestehen, die Freizügigkeit der Personen durch besondere
                                     Bestimmungen einzuschränken in einer Weise, die dem
-                                    Wirtschaftsverkehr des Staates heute schon sehrabträglich
-                                    geworden ist. Was die Wirtschaftsfrage anbelangt, jo ift der
-                                    Entwurf des Herrn Staatsekretärs in dieser Richtung
+                                    Wirtschaftsverkehr des Staates heute schon sehr abträglich
+                                    geworden ist. Was die Wirtschaftsfrage anbelangt, so ist der
+                                    Entwurf des Herrn Staatssekretärs in dieser Richtung
                                     außerordentlich dürftig. Gerade hier scheint es notwendig, daß
-                                    eine verassungsmäßige Sicherung geschaffen wird.</p>
+                                    eine verfassungsmäßige Sicherung geschaffen wird. </p>
                               <p>Ich möchte zunächst nur das erwähnen, verehrte Herren.</p>
                               <p>Wir haben vorgestern schon vom Sozialisierungsparagraphen
                                     gesprochen, dessen Aufnahme in die Verfassung uns notwendig
                                     erscheint, da wir vom Begriff Eigentumsrecht eine andere
                                     Auffassung haben als die Herren und daß diese grundlegende
-                                    Auffasjung vom Gigentum unserer Meinung nach aufgenommen werden
-                                    muß in die Verfassung. Das Eigentum ift durch staatliche
+                                    Auffassung vom Eigentum unserer Meinung nach aufgenommen werden
+                                    muß in die Verfassung. Das Eigentum ist durch staatliche
                                     Rechtsordnung verliehen und muß durch sie entzogen werden
-                                    können. Wenn dieser Grundsat in der Verfassung steht, folgt
+                                    können. Wenn dieser Grundsatz in der Verfassung steht, folgt
                                     daraus die Möglichkeit einer Gesetzgebung für den Staat, der der
                                     wirtschaftlichen Entwicklung der neuen Zeit Rechnung zu tragen
-                                    vermag. Was die Rechte der Arbeiterschaft anbelangt,-fo
-                                    erscheint es uns außerordentlich dringend, daß die Verassung
-                                    hierüber mehr sagen muß, als der Entwurf des Herrn
-                                    Staatssekretärs Mahr bietet. Der Herr Staätssekretär hat im
+                                    vermag. Was die Rechte der Arbeiterschaft anbelangt, so
+                                    erscheint es uns außerordentlich dringend. daß die Verfassung
+                                    darüber mehr sagen muß, als der Entwurf des Herrn
+                                    Staatssekretärs Mayr bietet. Der Herr Staatssekretär hat im
                                     Artikel 124 Bestimmungen über die Sonntagsruhe. Das ist eine
-                                    sehr nütliche Bestimmung.</p>
+                                    sehr nützliche Bestimmung. </p>
                               <p>Man könnte sie sich auch anders gefaßt denken. Vor allem genügen
                                     diese Bestimmungen nicht, sondern sie müssen ergänzt werden
                                     durch eine Reihe von Bestimmungen, welche diese Materie
-                                    grundlegend behandelt. Vor allem mußz der Arbeiterchuß, soweit
-                                    er heute schon besteht, verfassungumäßig gesichert werden, eine
+                                    grundlegend behandelt. Vor allem muß der Arbeiterschutz, soweit
+                                    er heute schon besteht, verfassungsmäßig gesichert werden, eine
                                     Forderung, die überhaupt, wenn ich nicht sehr irre, auch einmal
                                     von der geehrten Gegenseite erhoben worden ist. Wenn ich mich
                                     nicht sehr täusche, habe ich im Wahlaufruf der
                                     christlichsozialen Partei bei der Wahl der Nationalversammlung
-                                    im Ffebruar des vergangenen Jahres gelesen, daß der
+                                    im Februar des vergangenen Jahres gelesen, daß der
                                     Arbeiterschutz verfassungsmäßig gesichert werden müsse. Das ist
                                     auch unsere Meinung und wir werden uns erlauben, entsprechende
-                                    Vorschläge in dieser Richtung zu machen.</p>
-                              <p><pb facs="#facs_59" n="59" xml:id="img_0059" break="yes"/>Der Herr
-                                    Staatsfekretär Dr. Mahr hat dann noch einen Passus im Entwurfe
-                                    über die Koalitionsfreiheit. Das ist sehr nützlich, nur sind wir
-                                    der Meinung, daß auch dieser Passus schärfer und deutlicher
-                                    gefaßt werden müsse. Dann scheint es mir sich zu empfehlen, die
-                                    verfassungsmäßigen Bestimmungen über die Einrichtungen des
-                                    Versicherungswesens auszubauen. Das Versicherungswesen ist etwas
-                                    so außerordentlich Wichtiges und Grundlegendes, daß die
-                                    Schaffung eines solchen Versicherungswesens verfassungsmäßig
-                                    wenigstens angekündigt werden muß. Ehenso fehlt eine Bestimmung
-                                    über das Recht auf Arbeit und die daraus entspringende
-                                    Notwendigkeit einer Arbeitslosenunterstützung durch den Staat.
-                                    Dieses Recht ist schon durch ein Gesetz anerkannt und die
-                                    Nationalversammlung hat vor nicht langer Zeit ein endgültiges
-                                    Gesetz über die Arbeitslosenversicherung beschlossen.</p>
+                                    Vorschläge in dieser Richtung zu machen. </p>
+                              <p><pb facs="#facs_59" n="59" xml:id="img_0059" break="yes"/><fw
+                                          type="pageNum">63</fw>Der Herr Staatssekretär Dr. Mayr hat
+                                    dann noch einen Passus im Entwurfe über die Koalitionsfreiheit.
+                                    Das ist sehr nützlich, nur sind wir der Meinung, daß auch dieser
+                                    Passus schärfer und deutlicher gefaßt werden müsse. Dann scheint
+                                    es mir sich zu empfehlen, die verfassungsmäßigen Bestimmungen
+                                    über die Einrichtungen des Versicherungswesens auszubauen. Das
+                                    Versicherungswesen ist etwas so außerordentlich Wichtiges und
+                                    Grundlegendes, daß die Schaffung eines solchen
+                                    Versicherungswesens verfassungsmäßig wenigstens angekündigt
+                                    werden muß. Ebenso fehlt eine Bestimmung über das Recht auf
+                                    Arbeit und die daraus entspringende Notwendigkeit einer
+                                    Arbeitslosenunterstützung durch den Staat. Dieses Recht ist
+                                    schon durch ein Gesetz anerkannt und die Nationalversammlung hat
+                                    vor nicht langer Zeit ein endgültiges Gesetz über die
+                                    Arbeitslosenversicherung beschlossen. </p>
                               <p>Auch hierüber gehörten unserer Meinung nach prinzipielle
                                     Bestimmungen in die Verfassung hinein. Dann erscheint uns noch
                                     auf Grund praktischer Erfahrung folgendes sehr wichtig. Die
-                                    Demotratie hat alle Staatsbürger zur Teilnahme an der
+                                    Demokratie hat alle Staatsbürger zur Teilnahme an der
                                     allgemeinen öffentlichen Verwaltung berufen. Wir erwarten ganz
                                     bestimmt die Demokratisierung des Wahlrechtes in Land und
                                     Gemeinde und auch die Demokratisierung der Verwaltungsbehörden
-                                    erster Instanz. Dadurch werden Tausende und Abertaufende von
-                                    Männern zu Geschäften der öffentlichen Verwaltung berufen, ohne
-                                    daßz ihnen heute praktisch die Möglichkeit geboten würde, das,
-                                    wozu sie berufen werden, auch wirklich auszuüben. Wir wissen,
-                                    daß die Lohnarbeiter und Angestellten fortgesetzt in
-                                    Schwierigkeit kommen bei der Ausübung aller politischen
-                                    Ehrenämter.</p>
+                                    erster Instanz. Dadurch werden Tausende und Abertausende von
+                                    Männern zu Geschäften der öffentlichen Verantwortung berufen,
+                                    ohne daß ihnen heute praktisch die Möglichkeit geboten würde,
+                                    das, wozu sie berufen werden, auch wirklich auszuüben. Wir
+                                    wissen, daß die Lohnarbeiter und Angestellten fortgesetzt in
+                                    Schwierigkeiten kommen bei der Ausübung aller politischen
+                                    Ehrenämter. </p>
                               <p>Wir haben, um noch von etwas anderem zu reden, die
-                                    Geschworenengerichte demofratisiert, machen es aber den
-                                    Arbeitern praktisch unmöglich, eschworene zu werden, wenn ihnen
-                                    nicht Zeit gegeben wird. dieses Amt auch wirklich auszuüben. Das
-                                    gilt auch noch für alle möglichen änderen Dinge. Das kann
+                                    Geschworenengerichte demokratisiert, machen es aber den
+                                    Arbeitern praktisch unmöglich, Geschworene zu werden, wenn ihnen
+                                    nicht Zeit gegeben wird, dieses Amt auch wirklich auszuüben. Das
+                                    gilt auch noch für alle möglichen anderen Dinge. Das kann
                                     natürlich, soweit es sich um finanzielle Dinge handelt, nicht in
-                                    der Verfäfsung geregelt werden. Aber grundsätzlich müßte doch in
-                                    der Verfassuna festgestellt werden, daß die Möglichteit geboten
-                                    ift, daß jedermann ein politisches Ehrenamt ausüben fann. über
-                                    andere wichtige fraaen, über drei Gruppen, über die Kulturfrägen
-                                    wird mein Kollege Speiser noch das Notwendige lagen. Wir stellen
+                                    der Verfassung geregelt werden. Aber grundsätzlich müßte doch in
+                                    der Verfassung festgestellt werden, daß die Möglichkeit geboten
+                                    ist, daß jedermann ein politisches Ehrenamt ausüben kann. Über
+                                    andere wichtige Fragen, über drei Gruppen, über die Kulturfragen
+                                    wird mein Kollege Speiser noch das Notwendige sagen. Wir stellen
                                     uns vor, wie ich zusammenfassend sagen möchte, daß der Entwurf
-                                    über die Erundrechte also anders aussehen müßte als der Entwurf
-                                    des Herrn Staatssekretärs.</p>
-                              <p>Wir können zu seinem Entwurf keine Abänderungsanträge stellén, weil
-                                    in dieser Form die Sache zu kombliziert würde, sondern wir
-                                    schlagen vor, daß dieses Kabitel. dieser Abschnitt überhaupt
-                                    anders lauten soll. Und ich möchte mir nur erlauben<fw
-                                          type="pageNum">63</fw> o wie wir ihn uns denken, diesen
-                                    Abschnitt zu verlesen (lieft): </p>
+                                    über die Grundrechte also anders aussehen müßte als der Entwurf
+                                    des Herrn Staatssekretärs. </p>
+                              <p>Wir können zu seinem Entwurf keine Abänderungsanträge stellen, weil
+                                    in dieser Form die Sache zu kompliziert würde, sondern wir
+                                    schlagen vor, daß dieses Kapitel, dieser Abschnitt überhaupt
+                                    anders lauten soll. Und ich möchte mir nur erlauben, so wie wir
+                                    ihn uns denken, diesen Abschnitt zu verlesen (liest): </p>
                         </sp>
                         <div type="section">
                               <head>„Sechster Abschnitt. Die Grund- und Freiheitsrechte. </head>
@@ -5914,15 +5914,15 @@
                                     <head>Artikel 105.</head>
                                     <p type="legal_section">Vor dem Gesetze sind alle Staatsbürger
                                           gleich. Vorrechte der Nationalität, der Konfession, des
-                                          Geschlechtes, Standes oder der Klafse sind für immer
+                                          Geschlechtes, Standes oder der Klasse sind für immer
                                           ausgeschlossen.</p>
                               </div>
                               <div type="article">
                                     <head>Artikel 106. </head>
                                     <p type="legal_section"><label>(1) </label>Der Adel, seine
-                                          äußzeren Ehrenvorzüge sowie bloß zur Auszeichnung
-                                          verliehene, mit einer amtlichen Stellung, dem Verufe oder
-                                          einer wissenschaftlichen oder künftlerischen Befähigung
+                                          äußeren Ehrenvorzüge sowie bloß zur Auszeichnung
+                                          verliehene, mit einer amtlichen Stellung, dem Berufe oder
+                                          einer wissenschaftlichen oder künstlerischen Befähigung
                                           nicht im Zusammenhange stehende Titel und Würden und die
                                           damit verbundenen Ehrenvorzüge sowie die weltlichen
                                           Ritter- und Damenorden sind aufgehoben und dürfen nicht
@@ -5933,14 +5933,14 @@
                               </div>
                               <div type="article">
                                     <head>Artikel 107. </head>
-                                    <p type="legal_section">Die öffentlichen Umter und Funktionen
+                                    <p type="legal_section">Die öffentlichen Ämter und Funktionen
                                           sind für alle Staatsbürger ohne Unterschied nach Maßgabe
                                           der Gesetze gleich zugänglich. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 108.</head>
                                     <p type="legal_section">Die Freizügigkeit der Personen und Güter
-                                          innerhalb des Bundesgebietes ift jedermann gewährleistet.
+                                          innerhalb des Bundesgebietes ist jedermann gewährleistet.
                                           Einschränkungen können nur durch Bundesgesetz bestimmt
                                           werden. </p>
                               </div>
@@ -5952,34 +5952,34 @@
                                           werden.“ </p>
                                     <p>(Spricht:) Diese Bestimniung weicht einigermaßen von dem
                                           Entwurfe des Herrn Staatssekretärs ab.</p>
-                                    <p type="legal_section"> (Lieft weiter:) „<label>(2) </label>
+                                    <p type="legal_section"> (Liest weiter:) „<label>(2) </label>
                                           Der Verlust der Staatsbürgerschaft infolae Auswanderung
                                           wird durch Bundesgesetz geregelt. </p>
                               </div>
                               <div type="article">
-                                    <head>Artitel 110. </head>
+                                    <head>Artikel 110. </head>
                                     <p type="legal_section"><label>(1) </label>Jeder
                                           Bundesangehörige kann in jedem Orte des Bundesgebietes
                                           seinen Aufenthalt und Wohnsitz nehmen. Einschränkungen
                                           werden durch Bundesgesetz bestimmt.</p>
                                     <p type="legal_section"><label>(2) </label>Jeder
                                           Bundesangehörige kann gemäß den bestehenden Gesetzen
-                                          Grundbesit erwerben und sich nach Belieben beruflich
+                                          Grundbesitz erwerben und sich nach Belieben beruflich
                                           betätigen. Die Freiheit der Berufswahl ist nur durch das
                                           Familienrecht beschränkt. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 111. </head>
                                     <p type="legal_section"><label>(1) </label>Die Freiheit der
-                                          Person ist gewährleistet. Die zum Schutze von Stäat und
+                                          Person ist gewährleistet. Die zum Schutze von Staat und
                                           Gesellschaft erforderlichen Schranken können nur durch
                                           Bundesgesetz errichtet werden.</p>
                                     <p type="legal_section"><pb facs="#facs_60" n="60"
                                                 xml:id="img_0060" break="yes"/><fw type="pageNum"
                                                 >64</fw>
                                           <label>(2)</label> Personen, denen die Freiheit entzogen
-                                          wird, sind spätestens am darauffolgenden Täge in Kenntnis
-                                          zu fetzen, von welcher Behörde und aus welchen Gründen die
+                                          wird, sind spätestens am darauffolgenden Tage in Kenntnis
+                                          zu setzen, von welcher Behörde und aus welchen Gründen die
                                           Entziehung der Freiheit angeordnet worden ist; es muß
                                           ihnen unverzüglich Gelegenheit gegeben werden,
                                           Einwendungen gegen die Freiheitsentziehung vorzubringen.
@@ -5987,10 +5987,10 @@
                               </div>
                               <div type="article">
                                     <head>Artikel 112. </head>
-                                    <p type="legal_section"><label>(1) </label> Das Ashlrecht für
-                                          Delikte, die aus politischen Motiben begangen oder im
+                                    <p type="legal_section"><label>(1) </label> Das Asylrecht für
+                                          Delikte, die aus politischen Motiven begangen oder im
                                           Zusammenhang mit solchen Delikten verübt wurden, wird
-                                          gewährleiftet.</p>
+                                          gewährleistet.</p>
                                     <p type="legal_section"><label>(2) </label>Das Recht der
                                           Auslieferung von Verbrechern wird durch Bundesgesetz
                                           geregelt. </p>
@@ -6003,34 +6003,34 @@
                               </div>
                               <div type="article">
                                     <head>Artikel 114. </head>
-                                    <p type="legal_section">Das Brief- Post-, Telegraphen- und
-                                          Fernsprechgeheimnis ist gewährleiftet. Ausnahmen in den
+                                    <p type="legal_section">Das Brief-, Post-, Telegraphen- und
+                                          Fernsprechgeheimnis ist gewährleistet. Ausnahmen in den
                                           Fällen strafgerichtlicher Untersuchung und unter
-                                          außzerordentlichen Verhältnissen können nur durch
+                                          außerordentlichen Verhältnissen können nur durch
                                           Bundesgesetz bestimmt werden. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 115. </head>
                                     <p type="legal_section"><label>(1)</label> Die Freiheit der
-                                          Meinungsäußerung ist nur durch das Strafaeset beschränkt. </p>
-                                    <p type="legal_section"><label>(2) </label> Die Breßfreiheit ist
+                                          Meinungsäußerung ist nur durch das Strafgesetz beschränkt. </p>
+                                    <p type="legal_section"><label>(2) </label> Die Preßfreiheit ist
                                           gewährleistet. Die Beschlagnahme von Druckwerfen darf nur
                                           aus den vom Strafgesetz, von der Strafprozeßordnung und
                                           vom Preßgesetz vorgesehenen Gründen stattfinden. Sie ist
                                           ohne gleichzeitige Verfolgung des Täters ausgeschlossen.
-                                          Ein Voftverbot darf überhaupt nicht erlassen werden.</p>
-                                    <p type="legal_section"><label>(3) </label>Jede Zenfur ist
+                                          Ein Postverbot darf überhaupt nicht erlassen werden.</p>
+                                    <p type="legal_section"><label>(3) </label>Jede Zensur ist
                                           aufgehoben: doch sind zur Bekämpfung der Schund- und
-                                          Schmutliteratur owie zum Schutz der Jugend bei
-                                          öffentlichen Schauftellungen und Darbietungen gesetzliche
+                                          Schmutzliteratur sowie zum Schutz der Jugend bei
+                                          öffentlichen Schaustellungen und Darbietungen gesetzliche
                                           Maßnahmen zulässig. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 116. </head>
-                                    <p type="legal_section"><label>(1) </label>Die Ehe ift ein
+                                    <p type="legal_section"><label>(1) </label>Die Ehe ist ein
                                           bürgerlicher Vertrag. </p>
                                     <p type="legal_section"><label>(2) </label>Sie kann nur vor den
-                                          ftaatlichen Behörden geschlossen werden. Doch bleibt es
+                                          staatlichen Behörden geschlossen werden. Doch bleibt es
                                           dabei jedermann unbenommen, auch die Vorschriften seiner
                                           Religion zu erfüllen. </p>
                               </div>
@@ -6038,35 +6038,35 @@
                                     <head>Artikel 117. </head>
                                     <p type="legal_section"><label>(1)</label> Der Eheschließung
                                           kann aus Gründen des religiösen Bekenntnisses oder eines
-                                          religiösen (elübdes fein rechtliches Sindernis geseßzt
+                                          religiösen Gelübdes kein rechtliches Hindernis gesetzt
                                           werden. </p>
                                     <p type="legal_section"><label>(2) </label>Die Möglichkeit einer
-                                          Trennung der Gheim Falle des Ginverständnisses beider
-                                          Ehegatten ist zu gewährleisten. In welchen Fällen die
-                                          Eheauch ohne die Zustimmung eines der beiden Ehegatten zu
-                                          trennen ift. bestimmt das Gesetz. Doch ist in beiden
+                                          Trennung der Ehe im Falle des Einverständnisses beider
+                                          Ehegatten ist zu gewährleisten. In welchen Fällen die Ehe
+                                          auch ohne die Zustimmung eines der beiden Ehegatten zu
+                                          trennen ist, bestimmt das Gesetz. Doch ist in beiden
                                           Fällen auf die Versorgung der Kinder aus der getrennten
-                                          Ehe durch ihre Eltern gesetzlich Bedacht zu nehmen. </p>
+                                          Ehe durch ihre Eltern gesetzlich Bedacht zu nehmen.  </p>
                               </div>
                               <div type="article">
-                                    <head>Artifel 118.</head>
+                                    <head>Artikel 118.</head>
                                     <p type="legal_section">
                                           <label>(1) </label>Den unehelichen Kindern sind durch die
                                           Gesetzgebung die gleichen Bedingungen für ihre leibliche,
-                                          eelische und gesellschaftliche Entwicklung zu schaffen.
+                                          seelische und gesellschaftliche Entwicklung zu schaffen,
                                           wie den ehelichen. </p>
                               </div>
                               <div type="article">
-                                    <head>Artitel 119.</head>
+                                    <head>Artikel 119.</head>
                                     <p type="legal_section">
                                           <label>(1) </label> Alle Bundesangehörigen haben das nur
                                           durch das Strafgesetz eingeschränkte Recht, Vereine zu
                                           bilden. Dieses Recht darf durch Ausführungsgesetze nicht
                                           gemindert werden. Eine Sonderbehandlung der politischen
-                                          Vereine ift ausgeschlossen. </p>
+                                          Vereine ist ausgeschlossen. </p>
                                     <p type="legal_section"><label>(2)</label> Für Vereinigungen,
                                           die religiöse Zwecke verfolgen, gelten dieselben
-                                          Bestimmungen. über die Rechtsfähigkeit von Vereinen
+                                          Bestimmungen. Über die Rechtsfähigkeit von Vereinen
                                           bestimmen die Vorschriften des bürgerlichen Rechtes. </p>
                               </div>
                               <div type="article">
@@ -6074,69 +6074,68 @@
                                     <p type="legal_section"><label>(1) </label>Alle Staatsbürger
                                           haben das Recht, sich ohne Anmeldung oder besondere
                                           Erlaubnis unbewaffnet zu versammeln. Dieses Recht darf
-                                          durch Ausführungsgefeße nicht gemindert werden.</p>
+                                          durch Ausführungsgesetze nicht gemindert werden.</p>
                                     <p type="legal_section"><label>(2) </label>Versammlungen unter
-                                          freiem Simmelkönnen durch Bundesgefeß anmeldepflichtig
+                                          freiem Himmel können durch Bundesgesetz anmeldepflichtig
                                           gemacht und bei unmittelbarer Gefährdung der Teilnehmer
                                           oder anderer Personen verboten werden. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 121. </head>
                                     <p type="legal_section"><label>(1) </label>Die volle Glaubens-
-                                          und Gewiffensfreiheit, insbesondere die pribate und
+                                          und Gewissensfreiheit, insbesondere die private und
                                           öffentliche Religionsübung wird jedermann
-                                          gewährleiftet.</p>
+                                          gewährleistet.</p>
                                     <p type="legal_section"><label>(2) </label>Einschränkungen sind
                                           nur durch das Strafgesetz zulässig. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 122. </head>
-                                    <p type="legal_section"><label>(1) </label>Der Genuk der
+                                    <p type="legal_section"><label>(1) </label>Der Genuß der
                                           bürgerlichen und politischen Rechte sowie die Zulassung zu
-                                          den öffentlichen Ämtern ift von dem Religionsbekenntis
+                                          den öffentlichen Ämtern ist von dem Religionsbekenntis
                                           unabhängig; doch darf den staatsbürgerlichen Pflichten
-                                          durch das Religionsbekenntnis fein Abbruch geschehen.</p>
-                                    <p type="legal_section"><label>(2) </label>Niemand ift
-                                          verpflichtet, seine religiöse überzeugung zu offenbaren.
+                                          durch das Religionsbekenntnis kein Abbruch geschehen.</p>
+                                    <p type="legal_section"><label>(2) </label>Niemand ist
+                                          verpflichtet, seine religiöse Überzeugung zu offenbaren.
                                           Die Behörden haben nur soweit das Recht, nach der
                                           Zugehörigkeit zu einer Religionsgesellschaft zu fragen,
                                           als davon Rechte und Pflichte abhängen oder eine
-                                          gesetzlich angeordnete statiftische Erhebung dies
+                                          gesetzlich angeordnete statistische Erhebung dies
                                           erfordert.</p>
                                     <p type="legal_section"><label>(3) </label>In diesem Sinne ist
-                                          durch Bundesgesetzdie Führung der Standesregister zu
+                                          durch Bundesgesetz die Führung der Standesregister zu
                                           regeln. </p>
                                     <p type="legal_section"><label>(4)</label> Niemand darf zu einer
                                           kirchlichen Handlung, zur Teilnahme an einer kirchlichen
-                                          Feierlichteit oder an religiöfen übungen gezwungen.
-                                          werden. Zu gerichtlichen oder sonftigen behördlichen
-                                          Zwecken darf keine religiöse Gidesformel benußt werden.
-                                    </p>
+                                          Feierlichteit oder an religiösen Übungen gezwungen werden.
+                                          Zu gerichtlichen oder sonstigen behördlichen Zwecken darf
+                                          keine religiöse Eidesformel benutzt werden. </p>
                               </div>
                               <div type="article">
-                                    <head>Artifel 123.</head>
+                                    <head>Artikel 123.</head>
                                     <p type="legal_section"><label>(1)</label> Staat und Kirche
                                           werden getrennt.</p>
                                     <p type="legal_section"><pb facs="#facs_61" n="61"
                                                 xml:id="img_0061" break="yes"/><label>(2)</label>
                                           Die Freiheit der Vereinigung zu Religionsgesellschaften
                                           wird gewährleistet. Der Zusammenschluß von
-                                          Religionsgesellschaften innerhalb des Bundesgehietes
+                                          Religionsgesellschaften innerhalb des Bundesgebietes
                                           unterliegt keinen Beschränkungen.</p>
                                     <p type="legal_section"><label>(3) </label>Jede
                                           Religionsgesellschaft ordnet und verwaltet ihre
                                           Angelegenheiten selbständig innerhalb der gesetzlichen
-                                          Schranken. Sie verleiht ihre Umter ohne Mitwirkung des
+                                          Schranken. Sie verleiht ihre Ämter ohne Mitwirkung des
                                           Staates oder der bürgerlichen Gemeinden.</p>
                                     <p type="legal_section"><label>(4) </label>Die Rechtsfähigkeit
-                                          der Religionsaesellschaften richtet sich nach den
+                                          der Religionsgesellschaften richtet sich nach den
                                           Vorschriften des bürgerlichen Rechtes über die
                                           Rechtsfähigkeit der Vereine. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 124. </head>
-                                    <p type="legal_section">Alle bishier auf Gefetz, Vertrag oder
-                                          besonderen Rechtstiteln beruhenden Staatsleiftungen an die
+                                    <p type="legal_section">Alle bishier auf Gesetz, Vertrag oder
+                                          besonderen Rechtstiteln beruhenden Staatsleistungen an die
                                           Religionsgesellschaften werden aufgehoben. </p>
                               </div>
                               <div type="article">
@@ -6148,37 +6147,37 @@
                               </div>
                               <div type="article">
                                     <head>Artikel 126. </head>
-                                    <p type="legal_section">Soweit das Bedürfnis nach Gottesdienft
-                                          und Seelsorae in öffentlichen Anstalten besteht, sind die
-                                          Religionsgefellschaften zur Vornahme réligiöfer Handlungen
-                                          zuzulassen, wobei jeder Zwang fernzuhalten ift. </p>
+                                    <p type="legal_section">Soweit das Bedürfnis nach Gottesdienst
+                                          und Seelsorge in öffentlichen Anstalten besteht, sind die
+                                          Religionsgesellschaften zur Vornahme religiöser Handlungen
+                                          zuzulassen, wobei jeder Zwang fernzuhalten ist. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 127. </head>
-                                    <p type="legal_section"><label>(1) </label>Die Kunft, die
+                                    <p type="legal_section"><label>(1) </label>Die Kunst, die
                                           Wissenschaft und ihre Lehre sind frei. Der Staat gewährt
-                                          ihnen Schutz und nimmt an ihrer Pflegé teil.</p>
+                                          ihnen Schutz und nimmt an ihrer Pflege teil.</p>
                                     <p type="legal_section"><label>(2) </label>Die Denkmäler der
-                                          Kunft. der Geschichte und der Natur genießen den Schutz
+                                          Kunst, der Geschichte und der Natur genießen den Schutz
                                           und die Pflege des Staates. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 128. </head>
-                                    <p type="legal_section">Gs besteht allgemeine Schulpflicht.
-                                          Ihrer Erfüllung dient grundfätzlich die Voltsschüle mit
+                                    <p type="legal_section">Es besteht allgemeine Schulpflicht.
+                                          Ihrer Erfüllung dient grundsätzlich die Volksschule mit
                                           mindestens acht Schuljahren und die anschließende
                                           Fortbildungsschule bis zum vollendeten 18. Lebensjahre.
-                                          Der Unterricht und die Zernmittel sind unentgeltlich. </p>
+                                          Der Unterricht und die Lernmittel sind unentgeltlich. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 129. </head>
                                     <p type="legal_section"><label>(1) </label>In allen Schulen ist
-                                          sittliche Vildung, staatsbürgerliche Gesinnung und
+                                          sittliche Bildung, staatsbürgerliche Gesinnung und
                                           berufliche Tüchtigkeit zu erstreben. </p>
                                     <p type="legal_section"><label>(2) </label>Beim Unterricht in
                                           öffentlichen Schulen ist Bedacht zu nehmen, daß die
-                                          Empfindungen Andersdeükender nicht verletzt werden.</p>
-                                    <p type="legal_section"><label>(3) </label>Staatsbürgerfunde und
+                                          Empfindungen Andersdenkender nicht verletzt werden.</p>
+                                    <p type="legal_section"><label>(3) </label>Staatsbürgerkunde und
                                           Arbeitsunterricht sind Lehrfächer der Schulen. Jeder
                                           Schüler erhält bei Beendigung der Schulpflicht einen
                                           Abdruck der Verfassung. </p>
@@ -6196,30 +6195,30 @@
                                     <head>Artikel 131. </head>
                                     <p type="legal_section"><label>(1) </label>Von Staatswegen wird
                                           weder Religionsunterricht erteilt, noch für die Ausbildung
-                                          von Seelsorgern irgend einer Religion gesorat. Doch ist an
+                                          von Seelsorgern irgend einer Religion gesorgt. Doch ist an
                                           den öffentlichen Volksschulen den Kindern Gelegenheit zu
                                           geben, an dem von den Religionsgesellschaften
                                           veranstalteten Religionsunterricht teilzunehmen. </p>
                                     <p type="legal_section"><label>(2) </label>Die Teilnahme der
                                           Schüler an diesem Religionsunterricht sowie an kirchlichen
-                                          Feiern und Handlungen bleibt der Willenzerklärung
+                                          Feiern und Handlungen bleibt der Willenserklärung
                                           desjenigen überlassen, der über die religiöse Erziehung
                                           des Kindes zu bestimmen hat. </p>
                               </div>
                               <div type="article">
-                                    <head>Artifel 132.</head>
-                                    <p type="legal_section"> Pribate Schulen als Erfatz für
+                                    <head>Artikel 132.</head>
+                                    <p type="legal_section"> Private Schulen als Erfatz für
                                           öffentliche Schulen bedürfen der Genehmigung des Bundes
                                           und unterstehen den Bundesgesetzen. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 133. </head>
                                     <p type="legal_section"><label>(1) </label>Alle
-                                          Bundesangehörigen haben ein gleiches Recht auf Wahruna
+                                          Bundesangehörigen haben ein gleiches Recht auf Wahrung
                                           ihrer Nationalität und Sprache. </p>
                                     <p type="legal_section"><label>(2)</label> Keinem
-                                          Bundesangehörigen werden im Gebräuche irgend einer Sprache
-                                          im Privat- oder Geschäftsvertehr sowie bei Betätigung der
+                                          Bundesangehörigen werden im Gebrauche irgend einer Sprache
+                                          im Privat- oder Geschäftsverkehr sowie bei Betätigung der
                                           religiösen Überzeugung, in der Presse oder in sonstigen
                                           Veröffentlichungen oder in allgemein zugänglichen
                                           Versammlungen Beschränkungen auferlegt.</p>
@@ -6234,8 +6233,8 @@
                                     <p type="legal_section">Bundesangehörige, die nach Nationalität,
                                           Sprache oder Religion einer Minderheit angehören, haben
                                           das gleiche Recht wie die der Mehrheit Angehörenden, in
-                                          den auf ihre eigenen Kosten errichteten Wohltätigkeits-
-                                          Religions-, Unterrichts-, Erziehungs- und sonftigen
+                                          den auf ihre eigenen Kosten errichteten Wohltätigkeits-,
+                                          Religions-, Unterrichts-, Erziehungs- und sonstigen
                                           Anstalten ihre eigene Sprache nach Belieben zu gebrauchen
                                           und ihre Religion frei auszuüben. </p>
                               </div>
@@ -6246,51 +6245,50 @@
                                           nach Nationalität oder Sprache angehört, sind von allen
                                           Beiträgen, die etwa für Erziehungs- oder
                                           Wohltätigkeitszwecke aus öffentlichen Mitteln zugewendet
-                                          werden, diese Minderheiten angemessen zu beteilen. 9
-                                          248</p>
+                                          werden, diese Minderheiten angemessen zu beteilen.</p>
                               </div>
                               <div type="article">
                                     <pb facs="#facs_62" n="62" xml:id="img_0062" break="yes"/>
                                     <fw type="pageNum">66</fw>
-                                    <head>Artifel 136.</head>
+                                    <head>Artikel 136.</head>
                                     <p type="legal_section">
-                                          <label>(1) </label>Das Ginentum ift von der staatlichen
+                                          <label>(1) </label>Das Eigentum ist von der staatlichen
                                           Rechtsordnung verliehen und kann durch sie entzogen
                                           werden. </p>
                                     <p type="legal_section"><label>(2) </label>Die Zwecke, zu denen
                                           enteignet werden kann, werden in besonderen Gesetzen, das
-                                          Enteignunazuerfahren wird durch Bundesgesetz geregelt. </p>
+                                          Enteignungsverfahren wird durch Bundesgesetz geregelt. </p>
                                     <p type="legal_section"><label>(3)</label> In welchen Fällen auf
                                           Verfall oder Einziehung von Gegenständen als Folge einer
-                                          rechtswidrigen Sandlung zu erkennen ist, bestimmt das
+                                          rechtswidrigen Handlung zu erkennen ist, bestimmt das
                                           Gesetz. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 137. </head>
                                     <p type="legal_section">Alle Fideikommisse sind aufgehoben.“
-                                          (Sbricht:) Eine Bestimmung, die auch im Entwurf des Herrn
-                                          Staatsfefretärs fehlt.</p>
-                                    <p>(Lieft weiter:) </p>
+                                          (Spricht:) Eine Bestimmung, die auch im Entwurf des Herrn
+                                          Staatssetretärs fehlt.</p>
+                                    <p>(Liest weiter:) </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 138. </head>
                                     <p type="legal_section"><label>(1) </label>Wer durch schuldhaft
-                                          rechtswidrige Ausübuna der öffentlichen Gewalt Schaden
+                                          rechtswidrige Ausübung der öffentlichen Gewalt Schaden
                                           erleidet, hat Anspruch auf Entschädigung gegen den Bund-
                                           oder das Land, durch dessen Organ der Schaden zugefügt
                                           wurde.</p>
                                     <p type="legal_section"><label>(2) </label>Die nähere Regelung
-                                          erfolat durch Bundesgesetz. Dieses stellt auch fest, unter
-                                          welcher Vorausfekung ein Rückgriffsrecht gegen das
+                                          erfolgt durch Bundesgesetz. Dieses stellt auch fest, unter
+                                          welcher Voraussetzung ein Rückgriffsrecht gegen das
                                           schuldtragende Organ zulässig ist. </p>
                               </div>
                               <div type="article">
-                                    <head>Artifel 139.</head>
+                                    <head>Artikel 139.</head>
                                     <p type="legal_section">
                                           <label>(1) </label> Die Arbeitskraft steht unter dem
                                           besonderen Schutz des Bundes.</p>
                                     <p type="legal_section"><label>(2) </label>Der Sonntag und die
-                                          staatlich anerfanntén Feiertage bleiben als Tage der
+                                          staatlich anerkannten Feiertage bleiben als Tage der
                                           Arbeitsruhe gesetzlich geschützt.</p>
                                     <p type="legal_section"><label>(3) </label>Die in den geltenden
                                           Gesetzen zu gunsten der Arbeiter geschaffenen
@@ -6299,22 +6297,22 @@
                                           Arbeiterschutzes, werden verfassungsmäßig gewährleistet.
                                           Sie können zu ungunsten der Arbeiter nicht abgeändert
                                           werden und sind weiter auszubauen sowie auf die land- und
-                                          forftwirtschaftlichen Arbeiter mit Berückichtigung der
+                                          forstwirtschaftlichen Arbeiter mit Berücksichtigung der
                                           besonderen Verhältnisse auszudehnen.</p>
                                     <p type="legal_section"><label>(4) </label>Der Bund schafft ein
                                           einheitliches Arbeitsrecht. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 140. </head>
-                                    <p type="legal_section">Das Roalitionsrecht der Arbeiter und
-                                          Angestellten ift gewährleiftet. Alle Abreden und
+                                    <p type="legal_section">Das Koalitionsrecht der Arbeiter und
+                                          Angestellten ist gewährleistet. Alle Abreden und
                                           Maßnahmen, welche dieses Recht einzuschränken oder zu
                                           behindern suchen, sind nichtig. </p>
                               </div>
                               <div type="article">
-                                    <head>Artitel 141.</head>
-                                    <p type="legal_section"> Zur Erhaltung der Gefundheit und
-                                          ArbeitsJähigkeit, zum Schütze der Mutterschaft und zur
+                                    <head>Artikel 141.</head>
+                                    <p type="legal_section"> Zur Erhaltung der Gesundheit und
+                                          Arbeitsfähigkeit, zum Schütze der Mutterschaft und zur
                                           Vorsorge gegen die wirtschaftlichen Folgen von Alter,
                                           Schwäche und Wechselfällen des Lebens schafft der Bund ein
                                           umfassendes Versicherungswesen, wobei die Verwaltung
@@ -6324,72 +6322,72 @@
                               <div type="article">
                                     <head>Artikel 142. </head>
                                     <p type="legal_section">Wer in einem Dienst- oder
-                                          Arbeitsverhältnis als Ungestellter oder Arbeiter fteht,
+                                          Arbeitsverhältnis als Angestellter oder Arbeiter steht,
                                           hat das Recht auf die zur Wahrnehmung staatsbürgerlicher
                                           Rechte und, soweit dadurch der Betrieb nicht erheblich
-                                          geschädigt wird, zur Auzübung ihm übertragener
+                                          geschädigt wird, zur Ausübung ihm übertragener
                                           öffentlicher Ehrenämter nötige freie Zeit. Wie weit ihm
                                           der Anspruch auf Vergütung erhalten bleibt, bestimmt das
-                                          Gefeß. </p>
+                                          Gesetz. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 143. </head>
                                     <p type="legal_section">Jedem Bundesangehörigen soll die
                                           Möglichkeit gegeben werden, durch wirtschaftliche Arbeit
                                           einen Unterhalt zu erwerben. Soweit ihm angemessene
-                                          Arbeitsgelegenheit nicht nachgewiesen werden fann, wird
+                                          Arbeitsgelegenheit nicht nachgewiesen werden kann, wird
                                           für seinen notwendigen Unterhalt gesorgt. Das Nähere wird
                                           durch Gesetz bestimmt.“</p>
                               </div>
                         </div>
                         <sp>
-                              <p>So, meine Herren, stellen wir uns. ergänzt durch Bestimmungen über
+                              <p>So, meine Herren, stellen wir uns, ergänzt durch Bestimmungen über
                                     die Kulturfragen, die mein Freund Speiser noch besprechen wird,
-                                    das Rapitel über Grundrechte vor.</p>
-                              <p>Es ist zum Teil identisch mit dem Entwurk des Herrn Staatssekretärs
-                                    Dr. Mahr, weicht aber in wefentlichen Bestimmungen, wie die
+                                    das Kapitel über Grundrechte vor. </p>
+                              <p>Es ist zum Teil identisch mit dem Entwurf des Herrn Staatssekretärs
+                                    Dr. Mayr, weicht aber in wesentlichen Bestimmungen, wie die
                                     Herren gesehen haben, davon ab.</p>
-                              <p>Wir sind nicht der Meinung, daß hierüber nun hier eine größe
+                              <p>Wir sind nicht der Meinung, daß hierüber nun hier eine große
                                     Debatte stattfinden müßte. Denn diese Frage, als politische
-                                    Frage, gehört voll und ganz vör das Forum der
-                                    Nätionalbersammlung. Wir wollten aber unseren Vorschlagzu
-                                    Protofoll bringen, damit die Regierung auch hierin offiziell
+                                    Frage, gehört voll und ganz vor das Forum der
+                                    Nationalversammlung. Wir wollen aber unseren Vorschlag zu
+                                    Protokoll bringen, damit die Regierung auch hierin offiziell
                                     Kenntnis erhält. Wir erwarten, daß unser Vorschlag auch
-                                    berücksichtigt wird, nicht wie es mit dem Vorschlage in Salzbura
-                                    geschehen. st, sondern in anderer und entsprechender Weise.</p>
+                                    berücksichtigt wird, nicht wie es mit dem Vorschlage in Salzburg
+                                    geschehen ist, sondern in anderer und entsprechender Weise. </p>
                         </sp>
                         <sp>
                               <speaker>Herr Vorsitzender Landeshauptmann <emph>Doktor
-                                          Mintelen:</emph></speaker>
+                                          Rintelen</emph>:</speaker>
                               <p>Es hat ein Photograph gebeten, die Versammlung aufnehmen zu dürfen.
                                     Ich unterbreche die Sitzung auf einige Minuten.</p>
                         </sp>
                         <sp>
-                              <speaker>Herr Vorsitzender Landeshauptmann <emph>Doktor Mintelen
+                              <speaker>Herr Vorsitzender Landeshauptmann <emph>Doktor Rintelen
                                     </emph>(nach Wiederaufnahme der Sitzung): </speaker>
-                              <p> Zum Worte gelangt Herr Landeshauptmannstellbertreter Langoth. </p>
+                              <p> Zum Worte gelangt Herr Landeshauptmannstellvertreter Langoth. </p>
                         </sp>
                         <sp>
-                              <speaker>Herr Landeshauptmannftellvertreter <emph>Langoth</emph>
+                              <speaker>Herr Landeshauptmannstellvertreter <emph>Langoth</emph>
                                     (Oberösterreich):</speaker>
-                              <p>Verehrte Herrenl Ich habé in meinen vorgestrigen Ausführungen auf
-                                    den Umstand hingewiesen, daß wir in unserem Verfasungzentwurf
+                              <p>Verehrte Herren! Ich habe in meinen vorgestrigen Ausführungen auf
+                                    den Umstand hingewiesen, daß wir in unserem Verfassungsentwurf
                                     die Grundrechte der Organisation des Bundesstaates vorangestellt
-                                    haben. Wenn dies auch als formeller Unterfchied nur betrachtet
-                                    werden könnte, so haben wir damit eine gewisie Absicht verfolgt.
+                                    haben. Wenn dies auch als formeller Unterschied nun betrachtet
+                                    werden könnte, so haben wir damit eine gewisse Absicht verfolgt.
                                     Wir wollten damit zum Ausdrucke bringen, daß wir in diesen
-                                    Bestimmungen das Fundament der Verfassung betrachten.</p>
-                              <p>Wenn die Länderkonferenz mit gutem Recht über die Fafsung berät, so
+                                    Bestimmungen das Fundament der Verfassung betrachten. </p>
+                              <p>Wenn die Länderkonferenz mit gutem Recht über die Fassung berät, so
                                     kann diese Beratung nach unserer Meinung sich nur auf jene
-                                    Gegenstände beziehen, die für die Länder von Interesie und
-                                    Bedeutung sind. Die Grund- und Freiheitörechte sind aber eine
-                                    Angelegenheit für alle<pb facs="#facs_63" n="63"
-                                          xml:id="img_0063" break="yes"/>Staatsbürger, gleichgültig
-                                    ob Vorarlberger, Steiermärter oder Niederösterreicher. Aus
-                                    diesem Grunde glauben wir, daß die Veratung über diesen
-                                    Abschnitt der Verfassung lediglich und ausschließlich eine Sache
-                                    der Nationalversammlung sein soll. Hier kommen die Anschauungen
-                                    der Parteien zum Worte.</p>
+                                    Gegenstände beziehen, die für die Länder von Interesse und
+                                    Bedeutung sind. Die Grund- und Freiheitsrechte sind aber eine
+                                    Angelegenheit für alle <pb facs="#facs_63" n="63"
+                                          xml:id="img_0063" break="yes"/><fw type="pageNum"
+                                    >67</fw>Staatsbürger, gleichgültig ob Vorarlberger, Steiermärker
+                                    oder Niederösterreicher. Aus diesem Grunde glauben wir, daß die
+                                    Beratung über diesen Abschnitt der Verfassung lediglich und
+                                    ausschließlich eine Sache der Nationalversammlung sein soll.
+                                    Hier kommen die Anschauungen der Parteien zum Worte. </p>
                               <p>Ich sehe ab davon, Ihnen unsere Auffassung über die Grund- und
                                     Freiheitsrechte vorzulesen. Sie sind ja im Besitze unserer
                                     Vorlage und in der Tage, selbst Einsicht zu nehmen, und ich
@@ -6399,19 +6397,18 @@
                                     zu entcheiden haben.</p>
                         </sp>
                         <sp>
-                              <speaker>Herr Abgeordneter <emph>Runschak</emph> (Wien):</speaker>
-                              <p> Sehr geehrte Herren! Im Namen der christlichsozialen Mitglieder
-                                    der Konferenz habe ich folgendes zur Kenntnis zu bringen
-                                    (lieft): </p>
+                              <speaker>Herr Abgeordneter <emph>Kunschak</emph> (Wien):</speaker>
+                              <p>Sehr geehrte Herren! Im Namen der christlichsozialen Mitglieder der
+                                    Konferenz habe ich folgendes zur Kenntnis zu bringen (liest): </p>
                               <quote>
                                     <p>„Die Aufgabe der beiden Länderkonferenzen, jener in Salzburg
-                                          sowie der gegenwärtig tagenden in Zinz, liegt in dem
-                                          Wunsche, daß dem Osterreich des Zusammenbruches und des
-                                          Umsturzes raschetens eine den staatlichen Wiederaufbau
+                                          sowie der gegenwärtig tagenden in Linz, liegt in dem
+                                          Wunsche, daß dem Österreich des Zusammenbruches und des
+                                          Umsturzes raschestens eine den staatlichen Wiederaufbau
                                           ermöglichende, die politische, soziale und wirtschaftliche
                                           Entwicklung verbürgende Verfassung gegeben werde. Es
-                                          handelt sich dabei in erster Tinie um die Regelung der
-                                          Verhältnisse der einzelnen Länderzueinander und zum
+                                          handelt sich dabei in erster Linie um die Regelung der
+                                          Verhältnisse der einzelnen Länder zueinander und zum
                                           Staate. In diesem Belange haben beide Konferenzen überaus
                                           wertvolle Arbeit geleistet, insbesondere haben sie die
                                           Forderungen, welche die Länder an die Staatsverfassung
@@ -6419,317 +6416,324 @@
                                           muß durch die Verfassung auch über die staatsbürgerlichen
                                           Grund- und Freiheitsrechte entschieden werden; der uns
                                           vorliegende Entwurf sucht diese Aufgabe durch die
-                                          Bestimmungen der Artikel 108. bis 137 zur Löjung zu
-                                          bringen. Daß die Ländertonferenz das Recht hat, auch zu
+                                          Bestimmungen der Artikel 108 bis 137 zur Lösung zu
+                                          bringen. Daß die Länderkonferenz das Recht hat, auch zu
                                           dieser überaus wichtigen, für die öffentliche Ordnung und
                                           die Freiheit der Person entscheidenden Bestimmung Stellung
                                           zu nehmen, unterliegt keinem Zweifel, offen steht nur die
                                           rein taktische Erwägung, ob sich die Länderkonferenz mit
-                                          dieser schwierigen Aufgabe belaften foll und ob der
+                                          dieser schwierigen Aufgabe belasten soll und ob der
                                           erzielbare Erfolg im Verhältnis zum Aufwande von Zeit und
                                           Kraft steht. Wir beurteilen den Abschnitt über die Grund-
-                                          und Freiheitsrechte als den eigentlichen und wefentlichst
+                                          und Freiheitsrechte als den eigentlichen und wesentlichst
                                           politischen Inhalt der Verfassung. Der bisherige Verlauf
                                           der Konferenzberatungen hat gezeigt, daß alle Teilnehmer
-                                          betrebt waren, die Beratungen möglichst losgelöst von
+                                          bestrebt waren, die Beratungen möglichst losgelöst von
                                           allgemein politischen und noch mehr von parteipolitischen
                                           Erwägungen zu führen. Wenn dies nicht immer und nicht voll
                                           gelungen ist, so findet dies seine Entschuldigung in der
                                           Natur der Materie, die wir zu behandeln hatten. Mehr als
-                                          alle bisher besprochenen Fragen drängt aber Behandlung der
-                                          Frage von dem Grund- und Freiheitsrechte auf das
-                                          parteipolitische Gehiet. Sie müßte und würde die
-                                          Länderkonferenz in eine Parteienfonferenz verwandeln und
-                                          so einen Zutand schaffen, der nicht in dem Willen der
+                                          alle bisher besprochenen Fragen drängt aber die Behandlung
+                                          der Frage von dem Grund- und Freiheitsrechte auf das
+                                          parteipolitische Gebiet. Sie müßte und würde die
+                                          Länderkonferenz in eine Parteienkonferenz verwandeln und
+                                          so einen Zustand schaffen, der nicht in dem Willen der
                                           Konferenzmitglieder, welcher parteipolitischen Gesinnung
                                           sie auch sein mögen, gelegen sein kann. Von solchen
-                                          Erwägungen ausgehend, sind wir zu dem des Intschlusse
-                                          gekommen, auf eine Beratung Abschnittes über die Grund-
-                                          und Freiheitsrechte nicht einzugehen, so sehr auch jeder
-                                          einzelne von und das Bedürfnis hat, im Gegenstände eine
-                                          Meinung auszusprechen. Wir stellen unsere perönlichen
-                                          Empfindungen unter den Zwang der Erkenntnis, daß die
-                                          Abführung einer rein politichen Debatte auf dem Voden der
-                                          Länderkonferenz leßten Gndes in ein unerquickliches
-                                          Parteigezänfe auslaufen müßte, ohne uns einer fachlichen
-                                          Entcheidung auch nur näherzubringen. Als ein Polititum
-                                          müssen die Bestinmungen der Verfassung über die Grund- und
-                                          Freiheitsrechte ihre Austragung vor einem politischen
-                                          Forum, also vor der Nationalversammlung finden. Wenn wir
-                                          daherdas Gingehen in eine Aussprache über den Abchnitt
-                                          betreffend die Grund- und Freiheitsrechte ablehnen, so
-                                          geschieht dies weder aus dem Grunde, weil uns eine solche
-                                          nicht angenehm wäre, noch soll dadurch zum Auzdruck
-                                          gebracht werden, daß wir mit allen Bestimmungen dieses
-                                          Abschnittes einverstanden find. Daß wir auf dem Voden
-                                          unversehrter Wahrung der persönlichen Freiheit, der
-                                          Freiheit des religiösen Bekenntnisses und der vollen
-                                          Sicherung einer Fortentwicklung des Rulturlebens im Sinne
-                                          des chriftlichdeutschen Rulturideals stehen und von diesem
+                                          Erwägungen ausgehend, sind wir zu dem Entschlusse
+                                          gekommen, auf eine Beratung des Abschnittes über die
+                                          Grund- und Freiheitsrechte nicht einzugehen, so sehr auch
+                                          jeder einzelne von uns das Bedürfnis hat, im Gegenstande
+                                          seine Meinung auszusprechen. Wir stellen unsere
+                                          persönlichen Empfindungen unter den Zwang der Erkenntnis,
+                                          daß die Abführung einer rein politischen Debatte auf dem
+                                          Boden der Länderkonferenz letzten Endes in ein
+                                          unerquickliches Parteigezänke auslaufen müßte, ohne uns
+                                          einer sachlichen Entscheidung näherzubringen. Als ein
+                                          Politikum müssen die Bestimmungen der Verfassung über die
+                                          Grund- und Freiheitsrechte ihre Austragung vor einem
+                                          politischen Forum, also vor der Nationalversammlung
+                                          finden. Wenn wir daher das Eingehen in eine Aussprache
+                                          über den Abschnitt betreffend die Grund- und
+                                          Freiheitsrechte ablehnen, so geschieht dies weder aus dem
+                                          Grunde, weil uns eine solche nicht angenehm wäre, noch
+                                          soll dadurch zum Ausdruck gebracht werden, daß wir mit
+                                          allen Bestimmungen dieses Abschnittes einverstanden sind.
+                                          Daß wir auf dem Boden unversehrter Wahrung der
+                                          persönlichen Freiheit, der Freiheit des religiösen
+                                          Bekenntnisses und der vollen Sicherung einer
+                                          Fortentwicklung des Kulturlebens im Sinne des
+                                          christlichdeutschen Kulturideals stehen und von diesem
                                           Standpunkte aus alle unsere Forderungen und Entscheidungen
-                                          betimmen werden, das auch hier auszusprechen halten wir
+                                          bestimmen werden, das auch hier auszusprechen halten wir
                                           uns für verpflichtet. Wir hegen in diesem Augenblicke die
-                                          Hoffnung, daß es der Nationalversammlung trot der
+                                          Hoffnung, daß es der Nationalversammlung trotz der
                                           unverkannten politischen Schwierigkeiten gelingen möge,
-                                          auch in den FFragen über die staatsbürgerlichen Grund- und
+                                          auch in den Fragen über die staatsbürgerlichen Grund- und
                                           Freiheitsrechte zu Entscheidungen zu gelangen, die unserem
-                                          Staate eine demokratische Entwicklung und unjerem Volke
-                                          nicht nur Freiheit, sondern auch tulturellen Aufftieg
+                                          Staate eine demokratische Entwicklung und unserem Volke
+                                          nicht nur Freiheit, sondern auch kulturellen Aufstieg
                                           verbürgen.“</p>
                               </quote>
-                              <p>(Lebhafte „Dravol! Rufe.)</p>
+                              <p>(Lebhafte „Bravo!“ Rufe.)</p>
                         </sp>
                         <sp>
-                              <speaker>Herr Vorsitzender Landeshaubtmann <emph>Doktor
-                                          Mintelen</emph> (Steiermark):</speaker>
-                              <p> Herr Stadtrat DoktorSpeiser hat das Wort. </p>
+                              <speaker>Herr Vorsitzender Landeshauptmann <emph>Doktor
+                                          Rintelen</emph> (Steiermark):</speaker>
+                              <p> Herr Stadtrat Doktor Speiser hat das Wort. </p>
                         </sp>
                         <sp>
                               <speaker>Herr Stadtrat <emph>Dr. Speiser </emph>(Wien):</speaker>
-                              <p>Der oeben abgegebenen Erklärung des Herrn 26- geordneten Runschak
-                                    können wir in jenen Teilen zustimmen, die aussprechen, daß auch
-                                    wir glauben, daß die Verhandlungen über diese Teile, die wir
-                                    hier zu verhandeln haben, in der Nationalverammlung ihre
-                                    Entscheidung finden werden. Wir haben aber doch - und das hat
-                                    Genosse Doktor Danneberg bereits ausgeführtdas Bedürfnis, hier
-                                    zu Protofoll zu bringen, was wir über die<pb facs="#facs_64"
-                                          n="64" xml:id="img_0064" break="yes"/><fw type="pageNum"
-                                          >68</fw> Grund- und Freiheitsrechte an Grundsätzen
-                                    geammelt und vorgelegt haben.</p>
+                              <p>Der soeben abgegebenen Erklärung des Herrn Abgeordneten Kunschak
+                                    können wir in jenen Teilen zustimmen, die aussprechen, daß diese
+                                    Teile, die wir hier zu verhandeln haben, in der
+                                    Nationalversammlung ihre Entscheidung finden werden. Wir haben
+                                    aber doch — und dies hat Genosse Doktor Danneberg bereits
+                                    ausgeführt — das Bedürfnis, hier zu Protokoll zu bringen, was
+                                    wir über die<pb facs="#facs_64" n="64" xml:id="img_0064"
+                                          break="yes"/><fw type="pageNum">68</fw> Grund- und
+                                    Freiheitsrechte an Grundsätzen gesammelt und vorgelegt haben. </p>
                               <p>Dabei ist mir die Aufgabe zugefallen, noch über Kulturfragen zu
                                     sprechen, über jene Fragen, die in Bezug auf die Freiheitsrechte
-                                    zwischen Kirche, Schule und Ghe. stehen.</p>
+                                    zwischen Kirche, Schule und Ehe stehen. </p>
                               <p>Ich möchte hervorheben, daß der Entwurf des Herrn Staatssekretärs
-                                    Dr. Mahr sich durchaus nicht an die Bestimmungen der deutschen
+                                    Dr. Mayr sich durchaus nicht an die Bestimmungen der deutschen
                                     Reichsverfassung hält. Während in der deutschen Reichsverfassung
                                     im Artikel 138 die Trennung von Staat und Kirche fast ganz
                                     durchgeführt und nur mehr ein Faden zwischen Staat und Kirche
                                     gesponnen ist, während sich dort die Bestimmung findet, daß
-                                    Zuwendungen des Staates an Religionsgefellschaften abgelöft,
-                                    also aufgelöst werden können, heißt es im Artikel 122: „Die auf
+                                    Zuwendungen des Staates an Religionsgesellschaften abgelöst,
+                                    also aufgelöst werden können heißt es im Artikel 122: „Die auf
                                     Gesetz, auf Verträgen oder besonderen Rechtstiteln beruhenden
-                                    Staatsleiftungen an Religionsgemeinschaften können nur mit deren
-                                    Zustimmung durch Gefetze abgelöft werden.“ Eine solche Betimmuna
-                                    wäre natürlich für uns unannehmbar und unannehmbar wäre für uns
-                                    noch die Bestimmung des Zusatzes zu Artikel 120 des Mahrschen
-                                    Entwürfes, der über die Teilnahme an einer firchlichen Handlung,
-                                    an einer firchlichen Feierlichkeit oder an religiöjen übungen
-                                    handelt, jener Zusatz, der schon in Österreich die letzten
-                                    politischen Kämpfe des vergangenen Jahres sehr vergiftet hat,
-                                    der bestimmt, daß niemand zur Teilnahme an einer firchlichen
-                                    Handlung gezwungen werden kann, sofern er nicht nach der
-                                    Gefekgebung der Gewalt eines anderen unterfteht.</p>
+                                    Staatsleistungen an Religionsgemeinschaften können nur mit deren
+                                    Zustimmung durch Gesetze abgelöst werden.“ Eine solche
+                                    Bestimmung wäre natürlich für uns unannehmbar und unannehmbar
+                                    wäre für uns noch die Bestimmung des Zusatzes zu Artikel 120 des
+                                    Mayrschen Entwurfes, der über die Teilnahme an einer kirchlichen
+                                    Handlung, an einer kirchlichen Feierlichkeit oder an religiösen
+                                    Übungen handelt, jener Zusatz, der schon in Österreich die
+                                    letzten politischen Kämpfe des vergangenen Jahres so sehr
+                                    vergiftet hat, der bestimmt, daß niemand zur Teilnahme an einer
+                                    kirchlichen Handlung gezwungen werden kann, sofern er nicht nach
+                                    der Gesetzgebung der Gewalt eines anderen untersteht.</p>
                               <p>Auch fehlt dem Mayrschen Entwurfe eine wichtige Bestimmung der
                                     deutschen Reichsverfassung, daß kein Zwang zur Ablegung einer
                                     religiösen Eidesformel ausgeübt werden darf. Die deutsche
-                                    Verfassung betrachtet alle religiösen Gefellchaften als Vereine.
-                                    Der Mahrsche Entwurf läßt diesen Gedanken durchaus
+                                    Verfassung betrachtet alle religiösen Gesellschaften als
+                                    Vereine. Der Mayrsche Entwurf läßt diesen Gedanken durchaus
                                     unausgesprochen. Die deutsche Verfassung stellt den
-                                    Staätsbürgern religiöse Vereinigungen zur gemeinschaftlichen
-                                    Pflege ihrer Weltanschauungen frei.</p>
-                              <p>Eine solche Bestimmung fehlt im Mahrschen Entwurfe. Der § 141 der
-                                    deutschen Reichsverassung hat den Vortlaut: „Soweit das
-                                    Bedürfnis nach Gottesdienft und Seelforge oder sonftiger
+                                    Staatsbürgern religiöse Vereinigungen zur gemeinschaftlichen
+                                    Pflege ihrer Weltanschauungen frei. </p>
+                              <p>Eine solche Bestimmung fehlt im Mayrschen Entwurfe. Der § 141 der
+                                    deutschen Reichsverfassung hat den Wortlaut: „Soweit das
+                                    Bedürfnis nach Gottesdienst und Seelsorge oder sonstiger
                                     Anstalten besteht, sind die religiösen Gesellschaften zur
-                                    Vornahme religiöser übungen zuzulassen, wobei jeder Zwang
-                                    fernzuhalten ist.“ Dieser Artikel hat bei uns bezeichnenderweise
-                                    eine ganz andere Fassung gefunden. Im Dr. Mahrschen Entwurf
-                                    heisit es: „Um Gottesdienft und Seelsorge im Heer, in
-                                    Krankenhäufern, Strafanstalten oder sonstigen öffentlichen
-                                    Anftalten zu sichern, sind die Religionsgemeinschaften zur
-                                    Vornahmé religiöser Sandlungen zuzulassen.“</p>
-                              <p>Der Dr. Maürsche Entwurf legt also die Entscheidung über die Frage
-                                    des Bedürfnisses, nicht so wie in der deutlichen
+                                    Vornahme religiöser Übungen zuzulassen, wobei jeder Zwang
+                                    fernzuhalten ist. Dieser Artikel hat bei uns bezeichnenderweise
+                                    eine ganz andere Fassung gefunden. Im Dr. Mayrschen Entwurf
+                                    heißt es: „Um Gottesdienst und Seelsorge im Heer, in
+                                    Krankenhäusern, Strafanstalten oder sonstigen öffentlichen
+                                    Anstalten zu sichern, sind die Religionsgemeinschaften zur
+                                    Vornahme religiöser Handlungen zuzulassen.“</p>
+                              <p>Der Dr. Mayrsche Entwurf legt also die Entscheidung über die Frage
+                                    des Bedürfnisses, nicht so wie in der deutschen
                                     Reichsverfassung, in die Hände der Anstaltsleitung, sondern in
                                     die Hände der Religionsgesellschaft. Einer solchen Fassung
                                     könnten wir nicht zustimmen und sprechen auch hier aus, daß nach
                                     unserem Entwurf es den Religionsgesellschaften vollständig
                                     freigestellt ist und sie unabhängig sein sollen, daß sie so wie
-                                    Vereine zu behandeln sind und daß sie ihre Funktionäre elbft
-                                    ernennen und wählen follen, daß der Staat anderseits ihnen
-                                    gegenüber keinerlei Verpflichtung inanzieller Natur haben foll
-                                    und daß er ihnen feinerlei politische Grefutivgewalt ihren
-                                    Angehörigen zegenüber, beiftellen foll.</p>
+                                    Vereine zu behandeln sind und daß sie ihre Funktionäre selbst
+                                    ernennen und wählen sollen, daß der Staat anderseits ihnen
+                                    gegenüber keinerlei Verpflichtung finanzieller Natur haben soll
+                                    und daß er ihnen keinerlei politische Exekutivgewalt ihren
+                                    Angehörigen gegenüber, beistellen soll. </p>
                               <p>Wenn ich noch ein paar allgemeine Worte sprechen darf über die
                                     Frage des Unterrichtes und der Schule, so möchte ich
                                     feststellen, daß der Artikel 149 der deutschen Reichsverfassung
                                     die Möglichkeit des öffentlichen staatlichen Bekenntnisses,
-                                    freie Schule zuläßzt, während bei uns es im Artikel 130. des Dr.
-                                    Mahrschen Entwurfes ausdrücklich heißt: </p>
+                                    freie Schule zuläßt, während bei uns es im Artikel 130 des Dr.
+                                    Mayrschen Entwurfes ausdrücklich heißt: </p>
                               <quote>
                                     <p>„Der Religionsunterricht ist ordentliches Lehrfach an allen
-                                          Volfs- und Mittelschulen. Seine Erteilung wird im Wege der
+                                          Volks- und Mittelschulen. Seine Erteilung wird im Wege der
                                           Schulgesetzgebung geregelt, wobei die Übereinstimmung mit
-                                          den Grundsätzen der betreffenden Religionsgemeinchaft zu
+                                          den Grundsätzen der betreffenden Religionsgemeinschaft zu
                                           wahren ist."</p>
                               </quote>
                               <p>Hier fehlt die Möglichkeit des fakultativen Bekenntnisses zur
                                     freien Schule. Wir stehen auf dem Grundsatz der Trennung
-                                    zwischen Kirche und Schule und können niemals zulafsen, daß eine
-                                    konfessionelle Schule auf dem Uinwege durch staatliche Bezahlung
+                                    zwischen Kirche und Schule und können niemals zulassen, daß eine
+                                    konfessionelle Schule auf dem Umwege durch staatliche Bezahlung
                                     eingeführt wird. Wir sind dafür, daß solche von
-                                    Religionsgefellschaften beeinflußzte Schulen feinerlei
-                                    stäatliche Unterstützung finden. werden.</p>
-                              <p>Der Staat hat Interesse an dem gemeinamen Unterricht der Kinder in
+                                    Religionsgesellschaften beeinflußte Schulen keinerlei staatliche
+                                    Unterstützung finden werden. </p>
+                              <p>Der Staat hat Interesse an dem gemeinsamen Unterricht der Kinder in
                                     seinen Schulen. Die Schulaufsicht ist für den Staat auf jeden
-                                    Fall zu reflamieren, wenn man sich auch überdie Wirkung der
+                                    Fall zu reklamieren, wenn man sich auch über die Wirkung der
                                     Schulaufsicht in Schulen, die von anderen geleitet werden,
-                                    feiner Täuschung hingeben darf. Die Bestimmungen unseres
-                                    Entwurfes, den wir zur Vorlage und auch zum Protofoll der
-                                    heutigen Länderfonferenz geben wollen, lauten aber auch
-                                    insbesondere im Bunkte der Gheganz anders als die im Mahrichen
+                                    keiner Täuschung hingeben darf. Die Bestimmungen unseres
+                                    Entwurfes, den wir zur Vorlage und auch zum Protokoll der
+                                    heutigen Länderkonferenz geben wollen, lauten aber auch
+                                    insbesondere im Punkte der Ehe ganz anders als die im Mayrschen
                                     Entwurfe. </p>
-                              <p>Wir schlagen vor, daß es heißen soll (lieft): </p>
+                              <p>Wir schlagen vor, daß es heißen soll (liest):</p>
                         </sp>
                         <div type="section">
                               <div type="article">
                                     <head>Artikel 116. </head>
-                                    <p type="legal_section">Die Ehe ist ein bürgerlicher Vertrag. </p>
-                                    <p type="legal_section">Sie fann nur vor den staatlichen
-                                          Behörden geschlossen werden. Doch bleibt es dabei
-                                          Jjedermann unbenommen, auch die Vorschriften einer
+                                    <p type="legal_section"><label>(1) </label>Die Ehe ist ein
+                                          bürgerlicher Vertrag. </p>
+                                    <p type="legal_section"><label>(2) </label>Sie kann nur vor den
+                                          staatlichen Behörden geschlossen werden. Doch bleibt es
+                                          dabei jedermann unbenommen, auch die Vorschriften einer
                                           Religion zu erfüllen. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 117. </head>
-                                    <p type="legal_section">Der Eheschließung kann aus Gründen. des
+                                    <p type="legal_section">Der Eheschließung kann aus Gründen des
                                           religiösen Bekenntnisses oder eines religiösen Gelübdes
-                                          fein rechtliches Hindernis gesetzt werden. </p>
-                                    <p type="legal_section">Die Möglichkeit einer Trennung der Gheim
-                                          Falle des Einverständnisses beider Ehegatten<pb
+                                          kein rechtliches Hindernis gesetzt werden. </p>
+                                    <p type="legal_section">Die Möglichkeit einer Trennung der Ehe
+                                          im Falle des Einverständnisses beider Ehegatten<pb
                                                 facs="#facs_65" n="65" xml:id="img_0065" break="yes"
-                                          />ist zu gewährleisten. In welchen Fällen die Ehe auch
-                                          ohne die Zustimmung eines der beiden Ehegatten zu trennen
-                                          ist, bestimmt das Gesetz. Doch ist in beiden Fällen auf
-                                          die Versorgung der Kinder aus der getrennten Ehe durch
-                                          ihre Eltern gesetzlich Bedacht zu nehmen. </p>
+                                                /><fw type="pageNum">69</fw>ist zu gewährleisten. In
+                                          welchen Fällen die Ehe auch ohne die Zustimmung eines der
+                                          beiden Ehegatten zu trennen ist, bestimmt das Gesetz. Doch
+                                          ist in beiden Fällen auf die Versorgung der Kinder aus der
+                                          getrennten Ehe durch ihre Eltern gesetzlich Bedacht zu
+                                          nehmen. </p>
                               </div>
                               <div type="article">
-                                    <head>Urtifel 118.</head>
-                                    <p type="legal_section"> Den unehelichen Kindern find durch die
-                                          Gesehaebung die gleichen Bedingungen für ihre leibliche,
+                                    <head>Artikel 118.</head>
+                                    <p type="legal_section">Den unehelichen Kindern sind durch die
+                                          Gesetzgebung die gleichen Bedingungen für ihre leibliche,
                                           seelische und gesellschaftliche Entwicklung zu schaffen
                                           wie den ehelichen. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 119. </head>
-                                    <p type="legal_section">(,) Alle Bundesangehörigen haben das nur
-                                          durch das Strafgesetz eingeschränkte Recht, Vereine zu
-                                          bilden. Dieses Recht darf durch Ausführungsgefeke nicht
-                                          gemindert werden. Eine Sonderbehandlung der politischen
-                                          Vereine ist ausgeschlossen.</p>
-                                    <p type="legal_section">Für Vereinigungen, die religiöse Zwecke
-                                          verfolgen, gelten dieselben Bestimmungen.</p>
-                                    <p type="legal_section">über die Rechtsfähigkeit von Vereinen
-                                          bestimmen die Vorschriften des bürgerlichen Rechtes. </p>
+                                    <p type="legal_section"><label>(1) </label>Alle
+                                          Bundesangehörigen haben das nur durch das Strafgesetz
+                                          eingeschränkte Recht, Vereine zu bilden. Dieses Recht darf
+                                          durch Ausführungsgesetze nicht gemindert werden. Eine
+                                          Sonderbehandlung der politischen Vereine ist
+                                          ausgeschlossen.</p>
+                                    <p type="legal_section"><label>(2) </label>Für Vereinigungen,
+                                          die religiöse Zwecke verfolgen, gelten dieselben
+                                          Bestimmungen.</p>
+                                    <p type="legal_section"><label>(3) </label>über die
+                                          Rechtsfähigkeit von Vereinen bestimmen die Vorschriften
+                                          des bürgerlichen Rechtes. </p>
                               </div>
                               <div type="article">
-                                    <head>Artifel 120. </head>
-                                    <p type="legal_section">Alle Staatsbürger haben das Recht, sich
-                                          ohne Anmeldung oder besondere Grlaubnis unbewaffnet zu
-                                          versammeln. Dieses Recht darf durch Ausführungsgefeße
-                                          nicht gemindert werden. </p>
-                                    <p type="legal_section">() Versammlungén unter freiem Simmel
-                                          können durch Bundesaesek anmeldepflichtig gemacht und bei
-                                          unmittelbarer Gefährdung der Teilnehmer oder anderer
-                                          Personen verboten werden. </p>
+                                    <head>Artikel 120. </head>
+                                    <p type="legal_section"><label>(1) </label>Alle Staatsbürger
+                                          haben das Recht, sich ohne Anmeldung oder besondere
+                                          Erlaubnis unbewaffnet zu versammeln. Dieses Recht darf
+                                          durch Ausführungsgesetze nicht gemindert werden. </p>
+                                    <p type="legal_section"><label>(2) </label>Versammlungen unter
+                                          freiem Himmel können durch Bundesgesetz anmeldepflichtig
+                                          gemacht und bei unmittelbarer Gefährdung der Teilnehmer
+                                          oder anderer Personen verboten werden. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 121. </head>
                                     <p type="legal_section"><label>(1)</label> Die volle Glaubens-
-                                          und Gewifsensfreiheit, insbesondere die private und
+                                          und Gewissensfreiheit, insbesondere die private und
                                           öffentliche Religionsübung, wird jedermann gewährleistet. </p>
-                                    <p type="legal_section"><label>3)</label> Einschränkungen sind
+                                    <p type="legal_section"><label>(2)</label> Einschränkungen sind
                                           nur durch das Strafgesetz zulässig. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 122. </head>
-                                    <p type="legal_section">() Der Genusi der bürgerlichen und
-                                          politischen Rechte sowie die Zulassung zu den öffentlichen
-                                          Ämtern ist von dem Religionsbekenntnis unäbhängig; doch
-                                          darf den staatsbürgerlichen Pflichten durch das
-                                          Religionsbekenntnis- kein Abbruch geschehen.</p>
-                                    <p type="legal_section">Niemand ist verpflichtet, seine
-                                          religiöse Überzeugung zu offenbaren. Die Behörden haben
-                                          nur soweit das Recht, nach der Zugehörigkeit zu einer
-                                          Religionsaefellschaft zu fragen, als davon Rechte und
-                                          Pflichten abhängen oder eine gesetzlich angeordnete
-                                          statistische Erhebung dies erfordert.</p>
-                                    <p type="legal_section">In diesem Sinne ist durch Bundesgesetz
-                                          die Führung der Standesregister zu regeln.</p>
-                                    <p type="legal_section">() Niemand darf zu einer kirchlichen
-                                          Handlung, zur Teilnahme an einer kirchlichen Feierlichteit
-                                          oder an religiöfen übungen gezwungen werden. Zu
-                                          gerichtlichen oder sonstigen behördlichen Zwecken darf
-                                          seine religiöse Eidesformel benubt werden. </p>
+                                    <p type="legal_section"><label>(1) </label>Der Genuß der
+                                          bürgerlichen und politischen Rechte sowie die Zulassung zu
+                                          den öffentlichen Ämtern ist von dem Religionsbekenntnis
+                                          unäbhängig; doch darf den staatsbürgerlichen Pflichten
+                                          durch das Religionsbekenntnis kein Abbruch geschehen.</p>
+                                    <p type="legal_section"><label>(2) </label>Niemand ist
+                                          verpflichtet, seine religiöse Überzeugung zu offenbaren.
+                                          Die Behörden haben nur soweit das Recht, nach der
+                                          Zugehörigkeit zu einer Religionsgesellschaft zu fragen,
+                                          als davon Rechte und Pflichten abhängen oder eine
+                                          gesetzlich angeordnete statistische Erhebung dies
+                                          erfordert.</p>
+                                    <p type="legal_section"><label>(3) </label>In diesem Sinne ist
+                                          durch Bundesgesetz die Führung der Standesregister zu
+                                          regeln.</p>
+                                    <p type="legal_section"><label>(4) </label>Niemand darf zu einer
+                                          kirchlichen Handlung, zur Teilnahme an einer kirchlichen
+                                          Feierlichteit oder an religiösen Übungen gezwungen werden.
+                                          Zu gerichtlichen oder sonstigen behördlichen Zwecken darf
+                                          seine religiöse Eidesformel benutzt werden. </p>
                               </div>
                               <div type="article">
-                                    <head>Artifel 123. </head>
-                                    <p type="legal_section">Staat und Kirche werden getrennt.</p>
-                                    <p type="legal_section">Die Freiheit der Vereinigung zu
-                                          Religionsgesellschaften wird gewährleistet. Der
-                                          Zuammenschluß von Religionsgesellschaften innerhalb des
-                                          Bundesgebietes unterliegt keinen Beschränkungen.</p>
-                                    <p type="legal_section">Jede Religionsgefellfchaft ordnet und
-                                          verwaltet ihre Angelegenheiten selbständig innerhalb der
-                                          gesetzlichen Schränken. Sie verleiht ihre Ämter ohne
-                                          Mitwirkung des Staates oder der bürgerlichen
-                                          Gemeinden.</p>
-                                    <p type="legal_section">Die Rechtsfähigkeit der
-                                          Religionsgesellchaften richtet sich nach den Vorschriften
-                                          des bürgerlichen Rechtes über die Rechtsfähigkeit der
-                                          Vereine. </p>
+                                    <head>Artikel 123. </head>
+                                    <p type="legal_section"><label>(1) </label>Staat und Kirche
+                                          werden getrennt.</p>
+                                    <p type="legal_section"><label>(2) </label>Die Freiheit der
+                                          Vereinigung zu Religionsgesellschaften wird gewährleistet.
+                                          Der Zuammenschluß von Religionsgesellschaften innerhalb
+                                          des Bundesgebietes unterliegt keinen Beschränkungen.</p>
+                                    <p type="legal_section"><label>(3) </label>Jede
+                                          Religionsgesellschaft ordnet und verwaltet ihre
+                                          Angelegenheiten selbständig innerhalb der gesetzlichen
+                                          Schranken. Sie verleiht ihre Ämter ohne Mitwirkung des
+                                          Staates oder der bürgerlichen Gemeinden.</p>
+                                    <p type="legal_section"><label>(4) </label>Die Rechtsfähigkeit
+                                          der Religionsgesellchaften richtet sich nach den
+                                          Vorschriften des bürgerlichen Rechtes über die
+                                          Rechtsfähigkeit der Vereine. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 124.</head>
-                                    <p type="legal_section">Alle bisher auf Gefek. Vertrag oder
-                                          befonderen Rechtstiteln beruhenden Staatsleiftungen an die
-                                          Religionsgefellschaften werden aufgehoben. </p>
+                                    <p type="legal_section">Alle bisher auf Gesetz, Vertrag oder
+                                          besonderen Rechtstiteln beruhenden Staatsleistungen an die
+                                          Religionsgesellschaften werden aufgehoben. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 125. </head>
                                     <p type="legal_section">Den Angehörigen des öffentlichen
-                                          Dienstes sowie der Wehrmacht ift die nötige freie Zeit zur
-                                          Befriedigung ihrer religiösen Bedürfnisse zu gewähren.
-                                    </p>
+                                          Dienstes sowie der Wehrmacht ist die nötige freie Zeit zur
+                                          Befriedigung ihrer religiösen Bedürfnisse zu gewähren. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 126. </head>
-                                    <p type="legal_section">Soweit das Bedürfnis nach Gottesdienft
-                                          und Seeljorge in öffentlichen Anstalten besteht, sind die
-                                          Religionsaefellschaften zur Vornahme religiöfer Handlungen
-                                          zuzulassen, wobei jeder Zwang fernzuhalten ift. </p>
+                                    <p type="legal_section">Soweit das Bedürfnis nach Gottesdienst
+                                          und Seelsorge in öffentlichen Anstalten besteht, sind die
+                                          Religionsgesellschaften zur Vornahme religiöser Handlungen
+                                          zuzulassen, wobei jeder Zwang fernzuhalten ist. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 127. </head>
-                                    <p type="legal_section">() Die Kunft. die Wissenschaft und ihre
-                                          Lehre sind frei. Der Staat gewährt ihnen Schut- und nimmt
-                                          an ihrer Pflege teil.</p>
-                                    <p type="legal_section">Die Denkmäler der Kunft, der Geschichte
-                                          und der Natur genießen den Schutz und die Pflege des
-                                          Staates. </p>
+                                    <p type="legal_section"><label>(1) </label>Die Kunst, die
+                                          Wissenschaft und ihre Lehre sind frei. Der Staat gewährt
+                                          ihnen Schutz- und nimmt an ihrer Pflege teil.</p>
+                                    <p type="legal_section"><label>(2) </label>Die Denkmäler der
+                                          Kunst, der Geschichte und der Natur genießen den Schutz
+                                          und die Pflege des Staates. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 128. </head>
-                                    <p type="legal_section">Gs befieht allgemeine Schulpflicht.
-                                          Ihrer Erfüllung dient grundfätzlich die Volfsschule mit
+                                    <p type="legal_section">Es besteht allgemeine Schulpflicht.
+                                          Ihrer Erfüllung dient grundsätzlich die Volksschule mit
                                           mindestens acht Schuljahren und die anschließende
                                           Fortbildungsschule bis zum vollendeten 18. Lebensjahre.
                                           Der Unterricht und die Lernmittel sind unentgeltlich. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 129. </head>
-                                    <p type="legal_section">In allen Schulen ist sittliche Bildung,
-                                          staatsbüraerliche Gesinnung und berufliche Tüchtigkeit zu
-                                          erftreben.</p>
-                                    <p type="legal_section">Beim Unterricht in öffentlichen Schulen
-                                          ist Bedacht zu nehmen, daß die Empfindungen
-                                          Andersdenkender nicht verlebzt werden.</p>
-                                    <p type="legal_section">Staatsbürgerkunde und Arbeitsunterricht
-                                          sind Lehrfächer der Schulen. Jeder Schüler er250<pb
-                                                facs="#facs_66" n="66" xml:id="img_0066" break="yes"
-                                                /><fw type="pageNum">70</fw> hält bei Beendigung der
-                                          Schulpflicht einen Abdruck der Verfassung. </p>
+                                    <p type="legal_section"><label>(1) </label>In allen Schulen ist
+                                          sittliche Bildung, staatsbürgerliche Gesinnung und
+                                          berufliche Tüchtigkeit zu erstreben.</p>
+                                    <p type="legal_section"><label>(2) </label>Beim Unterricht in
+                                          öffentlichen Schulen ist Bedacht zu nehmen, daß die
+                                          Empfindungen Andersdenkender nicht verletzt werden.</p>
+                                    <p type="legal_section"><label>(3) </label>Staatsbürgerkunde und
+                                          Arbeitsunterricht sind Lehrfächer der Schulen. Jeder
+                                          Schüler er<pb facs="#facs_66" n="66" xml:id="img_0066"
+                                                break="yes"/><fw type="pageNum">70</fw> hält bei
+                                          Beendigung der Schulpflicht einen Abdruck der Verfassung. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 130. </head>
@@ -6742,17 +6746,17 @@
                               </div>
                               <div type="article">
                                     <head>Artikel 131. </head>
-                                    <p type="legal_section">Von Staats wegen wird weder
-                                          Religionzunterricht erteilt, noch für die Ausbildung von
-                                          Seelsorgern irgend einer Religion gesorgt Doch ist an den
-                                          öffentlichen Volksschulen den Kindern Gelegenheit zu
+                                    <p type="legal_section"><label>(1) </label>Von Staats wegen wird
+                                          weder Religionzunterricht erteilt, noch für die Ausbildung
+                                          von Seelsorgern irgend einer Religion gesorgt Doch ist an
+                                          den öffentlichen Volksschulen den Kindern Gelegenheit zu
                                           geben, an dem von den Religionsgesellschaften
                                           veranstalteten Religionsunterricht teilzunehmen.</p>
-                                    <p type="legal_section">Die Teilnahme der Schüler an diesem
-                                          Religionsunterricht sowie an kirchlichen Feiern und
-                                          Handlungen bleibt der Willenserklärung desjenigen
-                                          überlassen, der über die religiöse Erziehung des Kindes zu
-                                          bestimmen hat. </p>
+                                    <p type="legal_section"><label>(2) </label>Die Teilnahme der
+                                          Schüler an diesem Religionsunterricht sowie an kirchlichen
+                                          Feiern und Handlungen bleibt der Willenserklärung
+                                          desjenigen überlassen, der über die religiöse Erziehung
+                                          des Kindes zu bestimmen hat. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 132. </head>
@@ -6762,19 +6766,20 @@
                               </div>
                               <div type="article">
                                     <head>Artikel 133. </head>
-                                    <p type="legal_section">Alle Bundesangehörigen haben ein
-                                          gleiches Recht auf Wahrung ihrer Nationalität und
-                                          Sprache.</p>
-                                    <p type="legal_section">keinem Bundesangehörigen werden im
-                                          Gebrauche irgend einer Sprache im Privat- oder
-                                          Geschäftsverkehr sowie bei Betätigung der religiösen
-                                          Überzeugung, in der Presse oder in sonstigen
+                                    <p type="legal_section"><label>(1) </label>Alle
+                                          Bundesangehörigen haben ein gleiches Recht auf Wahrung
+                                          ihrer Nationalität und Sprache.</p>
+                                    <p type="legal_section"><label>(2) </label>keinem
+                                          Bundesangehörigen werden im Gebrauche irgend einer Sprache
+                                          im Privat- oder Geschäftsverkehr sowie bei Betätigung der
+                                          religiösen Überzeugung, in der Presse oder in sonstigen
                                           Veröffentlichungen oder in allgemein zugänglichen
                                           Versammlungen Beschränkungen auferlegt.</p>
-                                    <p type="legal_section">Durch Gesetz wird vorgesorgt, daß den
-                                          nicht deutschsprechenden Bundesangehörigen angemessene
-                                          Erleichterungen zum Gebrauch ihrer Sprache in Wort und
-                                          Schrift bei den Gerichten geboten werden. </p>
+                                    <p type="legal_section"><label>(3) </label>Durch Gesetz wird
+                                          vorgesorgt, daß den nicht deutschsprechenden
+                                          Bundesangehörigen angemessene Erleichterungen zum Gebrauch
+                                          ihrer Sprache in Wort und Schrift bei den Gerichten
+                                          geboten werden. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 134. </head>
@@ -6814,33 +6819,34 @@
                               </div>
                               <div type="article">
                                     <head>Artikel 138. </head>
-                                    <p type="legal_section">() Wer durch schuldhaft rechtswidrige
-                                          Ausübung der öffentlichen Gewalt Schaden erleidet, hat
-                                          Anspruch auf Entschädigung gegen den Bund- oder das Land,
-                                          durch dessen Organ der Schaden zugefügt wurde.</p>
-                                    <p type="legal_section">Die nähere Regelung erfolgt durch
-                                          Bundesgesetz. Dieses stellt auch fest, unter welcher
-                                          Voraussetzung ein Rückgriffsrecht gegen das schuldtragende
-                                          Organ zulässig ist. </p>
+                                    <p type="legal_section"><label>(1) </label>Wer durch schuldhaft
+                                          rechtswidrige Ausübung der öffentlichen Gewalt Schaden
+                                          erleidet, hat Anspruch auf Entschädigung gegen den Bund-
+                                          oder das Land, durch dessen Organ der Schaden zugefügt
+                                          wurde.</p>
+                                    <p type="legal_section"><label>(2) </label>Die nähere Regelung
+                                          erfolgt durch Bundesgesetz. Dieses stellt auch fest, unter
+                                          welcher Voraussetzung ein Rückgriffsrecht gegen das
+                                          schuldtragende Organ zulässig ist. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 139. </head>
-                                    <p type="legal_section">Die Arbeitskraft steht unter dem
-                                          besonderen Schutz des Bundes.</p>
-                                    <p type="legal_section">Der Sonntag und die staatlich
-                                          anerkannten Feiertage bleiben als Tage der Arbeitsruhe
-                                          gesetzlich geschützt.</p>
-                                    <p type="legal_section">Die in den geltenden Gesetzen zugünsten
-                                          der Arbeiter geschaffenen Rechtseinrichtungen,
-                                          insbesondere die Detriebsräte und alle schon beftehenden
-                                          gesetzlichen Maßnahmen des Arbeiterschutzes werden
-                                          verfassungsmäßig gewährleistet Sie können zu ungunften der
-                                          Arbeiter nicht abgeändert werden und find weiter
-                                          auszubauen sowie auf die land- und forstwirtschaftlichen
-                                          Arbeiter mit Berücksichtigung der besonderen Verhältnisse
-                                          auszudehnen.</p>
-                                    <p type="legal_section">Der Bund schafft ein einheitliches
-                                          Arbeitsrecht. </p>
+                                    <p type="legal_section"><label>(1) </label>Die Arbeitskraft
+                                          steht unter dem besonderen Schutz des Bundes.</p>
+                                    <p type="legal_section"><label>(3) </label>Der Sonntag und die
+                                          staatlich anerkannten Feiertage bleiben als Tage der
+                                          Arbeitsruhe gesetzlich geschützt.</p>
+                                    <p type="legal_section"><label>(3) </label>Die in den geltenden
+                                          Gesetzen zugünsten der Arbeiter geschaffenen
+                                          Rechtseinrichtungen, insbesondere die Detriebsräte und
+                                          alle schon beftehenden gesetzlichen Maßnahmen des
+                                          Arbeiterschutzes werden verfassungsmäßig gewährleistet Sie
+                                          können zu ungunften der Arbeiter nicht abgeändert werden
+                                          und find weiter auszubauen sowie auf die land- und
+                                          forstwirtschaftlichen Arbeiter mit Berücksichtigung der
+                                          besonderen Verhältnisse auszudehnen.</p>
+                                    <p type="legal_section"><label>(4) </label>Der Bund schafft ein
+                                          einheitliches Arbeitsrecht. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 140. </head>
@@ -6991,10 +6997,10 @@
                               <speaker>Herr Landeshauptmannftellvertreter <emph>DoftorSchuinacher
                                     </emph>(Innsbruck):</speaker>
                               <p>Zu diesem Artikel 141 habe ich namens meiner Parteigenoffen eine
-                                    Erflärung abzugeben. (s handelt sich in diesem Artitel um die
+                                    Erflärung abzugeben. (s handelt sich in diesem Artikel um die
                                     Entscheidungen und Verfügungen der Landesbehörde in
                                     Angelegenheiten, deren Vollzug den Ländern übertragen ift. also
-                                    um Angelegenheiten, die bereits in den Artiteln 11 und 12
+                                    um Angelegenheiten, die bereits in den Artikeln 11 und 12
                                     behandelt sind. Zum Schutze der Bundesinteressen, aber auch der
                                     Interessen der anderen Länder, wenn solche Interessen durch die
                                     Entscheidung der Landesbehörde berührt werden oder wenn solche
