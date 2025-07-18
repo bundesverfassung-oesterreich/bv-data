@@ -104,10 +104,11 @@
                 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="structured">
+        <revisionDesc status="text_correct">
             <change when="2025-03-05" who="#cfh">document automatically created</change>
             <change when="2025-03-12" who="#e_kordt">Strukturierung vollständig
                 abgeschlossen</change>
+            <change when="2025-07-18" who="#e_kordt">Text gegengelesen</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -181,308 +182,322 @@
                 <p>Beginn 3 Uhr Nachmittag.</p>
                 <p>Anwesend:</p>
                 <list>
-                    <item>Dr. Otto Bauer als Vorsitzender </item>
-                    <item>Dr. Josef Aigner</item>
-                    <item>Dr. Heinrich Clessin</item>
-                    <item>Dr. Robert Danneberg</item>
-                    <item>Jodok Fink</item>
-                    <item>Leopold Kunschak</item>
-                    <item>Prof. Dr. Ignaz Seipel</item>
+                    <item>Dr. Otto <emph>Bauer</emph> als Vorsitzender </item>
+                    <item>Dr. Josef <emph>Aigner</emph></item>
+                    <item>Dr. Heinrich <emph>Clessin</emph>,</item>
+                    <item>Dr. Robert <emph>Danneberg</emph></item>
+                    <item>Jodok <emph>Fink</emph></item>
+                    <item>Leopold <emph>Kunschak</emph></item>
+                    <item>Prof. Dr. Ignaz <emph>Seipel</emph></item>
                 </list>
                 <list>
-                    <item>Präsident Karl Seitz</item>
-                    <item>Staatssekretär Prof. Dr. Michael Mayr</item>
-                    <item>Unterstaatssekretär Otto Glöckel</item>
-                    <item>Unterstaatssekretär Dr. Wilhelm Ellenbogen</item>
-                    <item>Unterstaatssekretär Professor Dr. Julius Tandler</item>
+                    <item>Präsident Karl <emph>Seitz</emph></item>
+                    <item>Staatssekretär Professor Dr. Michael <emph>Mayr</emph></item>
+                    <item>Unterstaatssekretär Otto <emph>Glöckel</emph></item>
+                    <item>Unterstaatssekretär Dr. Wilhelm <emph>Ellenbogen</emph></item>
+                    <item>Unterstaatssekretär Professor Dr. Julius <emph>Tandler</emph></item>
                 </list>
                 <p>Von der Staatskanzlei:</p>
                 <list>
-                    <item>Ministerialrat Dr. Geord Froehlich</item>
-                    <item>Sektionsrat Dr. Egbert Mannlicher</item>
-                    <item>Min.Vizesekretär Dr. Adolf Merkl</item>
-                    <item>Min.Vizesekretär Dr. Kurt Frieberger als Schriftführer</item>
+                    <item>Ministerialrat Dr. Georg <emph>Froehlich</emph></item>
+                    <item>Sektionsrat Dr. Egbert <emph>Mannlicher</emph></item>
+                    <item>Min.Vizesekretär Dr. Adolf <emph>Merkl</emph></item>
+                    <item>Min.Vizesekretär Dr. Kurt <emph>Frieberger</emph> als Schriftführer</item>
                 </list>
                 <p>Vom Staatsamt für Handel und Gewerbe, Industrie und Bauten:</p>
                 <list>
-                    <item>Min.Rat Ingenieur Emil Gaertner</item>
+                    <item>Min.Rat Ingenieur Emil <emph>Gaertner</emph></item>
                 </list>
                 <list>
-                    <item>Prof. Dr. Hans Kelsen als Experte des Verfassungsausschusses</item>
+                    <item>Prof. Dr. Hans <emph>Kelsen</emph> als Experte des
+                        Verfassungsausschusses.</item>
                 </list>
-                <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw type="pageNum">2</fw>
-                    Der Vorsitzende erlangt die Zustimmung des Unterausschusses, vor Eintritt in die
-                    technische Lesung des Gesamtentwurfes eine Bereinigung der Kompetenzfrage
-                    bezüglich der Volksgesundheit und des Elektrizitätswesens zu versuchen und
-                    erteilt zuerst dem Unterstaatssekretär Prof. Dr. Tandler das Wort. Nach seinem
-                    Vorschlag, den er ausführlich begründet, hätte Art. 10, Pkt. 12 zu lauten:
-                    „Gesundheits- und Veterinärwesen, jedoch mit Ausnahme der Heil- und
-                    Pflegeanstalten und Ambulatorien, des Kurorte-, Leichen und Bestattungswesens
-                    sowie des Gemeindesanitätsdienstes und Rettungswesens, unbeschadet des dem Bunde
-                    in sanitärer Hinsicht zustehenden Rechtes der Aufsicht über die Heil- und
+                <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw type="pageNum">- 2
+                        -</fw> Der <emph>Vorsitzende</emph> erlangt die Zustimmung des
+                    Unterausschusses, vor Eintritt in die technische Lesung des Gesamtentwurfes eine
+                    Bereinigung der Kompetenzfrage bezüglich der Volksgesundheit und des
+                    Elektrizitätswesens zu versuchen und erteilt zuerst dem Unterstaatssekretär
+                    Prof. Dr. <emph>Tandler</emph> das Wort. Nach seinem Vorschlag, den er
+                    ausführlich begründet, hätte Art. 10, Pkt. 12 zu lauten: „Gesundheits- und
+                    Veterinärwesen, jedoch mit Ausnahme der Heil- und Pflegeanstalten und
+                    Ambulatorien, des Kurorte-, Leichen und Bestattungswesens sowie des
+                    Gemeindesanitätsdienstes und Rettungswesens, unbeschadet des dem Bunde in
+                    sanitärer Hinsicht zustehenden Rechtes der Aufsicht über die Heil- und
                     Pflegeanstalten, Ambulatorien und Kurorte; Nahrungsmittelkontrolle.</p>
                 <p>Was die Bevölkerungspolitik anlangt, hält er es für unmöglich, sie den Ländern zu
                     überlassen, wenn man darunter die staatliche Bewirtschaftung des organischen
                     Kapitals versteht. Ist aber darunter nur Hygiene gemeint, so ist der Ausdruck
                     unrichtig gewählt.</p>
-                <p>Der Vorsitzende bevorzugt gegenüber dem Vorschlag des Vorredners einen Vorschlag
-                    der Staatskanzlei und erwähnt, daß eine Vereinbarung der Parteien dem Bunde die
-                    sanitäre Oberaufsicht über Heilund Pflegeanstalten etc. zugestanden, die
-                    ökonomisch-administrative Leitung jedoch der Kompetenz der Länder vorbehalten
-                    habe. Prof. Dr. Seipel sieht keine Veranlassung, jetzt noch Änderungen
-                    vorzunehmen. Auf Vorschlag des Vorsitzenden wird der Vorschlag der Staatskanzlei
-                    mit einer Umstellung im folgenden Wortlaute angenommen:</p>
-                <p>Art. 10, Punkt 12: Ernährungswesen einschließlich der Nahrungs mittelkontrolle;
-                    Gesundheitswesen mit Ausnahme des Leichen- und Bestattungswesens sowie des
-                    Gemeindesanitätsdienstes und Rettungswesens; hinsichtlich der Heil- und
-                    Pflegeanstalten, Ambulatorien und des Kurortewesens jedoch nur die sanitäre
-                    Aufsicht.</p>
+                <p>Der <emph>Vorsitzende</emph> bevorzugt gegenüber dem Vorschlag des Vorredners
+                    einen Vorschlag der Staatskanzlei und erwähnt, daß eine Vereinbarung der
+                        Partei<add>en</add> dem Bunde die sanitäre Oberaufsicht über Heil- und
+                    Pflegeanstalten etz. zugestanden, die ökonomisch administrative Leitung jedoch
+                    der Kompetenz der Länder vorbehalten habe. Prof. Dr. <emph>Seipel</emph> sieht
+                    keine Veranlassung, jetzt noch Änderungen vorzunehmen. Auf Vorschlag des
+                        <emph>Vorsitzenden</emph> wird der Vorschlag der Staatskanzlei mit einer
+                    Umstellung im folgenden Wortlaute angenommen:</p>
+                <p><emph>Art. 10, Punkt 12: Ernährungswesen einschließlich der Nahrungs
+                        mittelkontrolle; Gesundheitswesen mit Ausnahme des Leichen- und
+                        Bestattungswesens sowie des Gemeindesanitätsdienstes und Rettungswesens;
+                        hinsichtlich der Heil- und Pflegeanstalten, Ambulatorien und des
+                        Kurortewesens jedoch nur die sanitäre Aufsicht.</emph></p>
                 <p>Von einer ausdrücklichen Erwähnung der Medizinalstatistik<pb facs="#facs_4" n="4"
-                        xml:id="img_0004" break="yes"/><fw type="pageNum">3</fw> wird abgesehen, da
-                    zahlreiche Staatsämter gewisse Zweige der Statistik aufgenommen wünschen, die
-                    man aber in Art. 10, Punkt 13 in der Formel: Volkszählungswesen „sowie sonstige
-                    Statistik, soweit sie nicht nur den Interessen eines einzelnen Landes dient“,
-                    zusammengefaßt hat. Würde die Medizinalstatistik aufgenommen, so müßte auch eine
-                    große Zahl anderer Statistiken in der Verfassung aufgezählt werden.</p>
+                        xml:id="img_0004" break="yes"/><fw type="pageNum">- 3 -</fw> wird abgesehen,
+                    da zahlreiche Staatsämter gewisse Zweige der Statistik aufgenommen wünschen, die
+                    man aber in Art. 10, Pkt. 13 in der Formel: Volkszählungswesen <emph>„sowie
+                        sonstige Statistik, soweit sie nicht nur den Interessen eines einzelnen
+                        Landes dient“</emph>, zusammengefaßt hat. Würde die Medizinalstatistik
+                    aufgenommen, so müßte auch eine große Zahl anderer Statistiken in der Verfassung
+                    aufgezählt werden.</p>
                 <p>Nach Erwähnung der Verhandlungen des Landeshauptmannstellvertreters von
-                    Steiermark Dr. Ahrer und seines Sanitätsreferenten mit Unterstaatssekretär Dr.
-                    Tandler stellen Präsident Seitz und Prof, Dr. Seipel übereinstimmend fest, daß
-                    bezüglich der Fassung des Art. 11, Punkt 7 keine Parteivereinbarungen vorliegen.
-                    Der Punkt erhält auf Beschluß des Unterausschusses folgende Fassung: „Artikel
-                    11, Punkt 7: Volkswohnungs- und Volkspflegestättenwesen, Mutterschafts-
-                    Säuglings- und Jugendfürsorge, Heil- und Pflegeanstalten, Ambulatorien,
-                    Kurortewesen, Leichen- und Bestattungswesen, Heilquellen“.</p>
-                <p>Der Vorsitzende erteilt hierauf dem Unterstaatssekretär Glöckel das Wort zur
-                    Erstattung eines Vorschlages für die Formulierung des Punktes 13 des Artikels 10
-                    323). Das Unterrichtsamt beantragt folgendes im Art. 10 aufzunehmen:
-                    „Schulaufsicht und Schulverwaltung; Gesamtes Hochschulwesen; Lehrerbildung;
-                    Staatserziehungsanstalten; Anstalten für Sorgenkinder; pädagogisch-didaktische
-                    Einrichtung sowie Errichtung und Erhaltung von öffentlichen, mittleren und
-                    niederen Lehranstalten. Einrichtungen der mittleren und niederen Schulen,
-                    insbesondere Festsetzung der Lehrziele und Lehrpläne; Schulpflicht; Bestimmungen
-                    über Lehrbücher und Lehrmittel. Die Zuständigkeit der Länder für die
-                    Gesetzgebung auf dem sonstigen pädagogisch-didaktischem Gebiete wird durch
-                    Bundes-Verfassungsgesetze geregelt. Dienstrecht der Lehrer, einschließlich des
-                    Besoldungswesens und des Disziplinarrechtes. Privatschulwesen; Volksbildung. Die
-                    Zusammensetzung der Schulverwaltungsbe<pb facs="#facs_5" n="5" xml:id="img_0005"
-                        break="no"/><fw type="pageNum">4</fw>hörden und die Diensthohieit über die
+                    Steiermark Dr. <emph>Ahrer</emph> und seines Sanitätsreferenten mit
+                    Unterstaatssekretär Dr. <emph>Tandler</emph> stellen Präsident Seitz und Prof.
+                    Dr. <emph>Seipel</emph> übereinstimmend fest, daß bezüglich der Fassung des Art.
+                    11, Pkt. 7 keine Parteivereinbarungen vorliegen. Der Punkt erhält auf Beschluß
+                    des Unterausschusses folgende Fassung: „Artikel 11, Punkt 7: Volkswohnungs- und
+                    Volkspflegestättenwesen, Mutterschafts- Säuglings- und Jugendfürsorge, Heil- und
+                    Pflegeanstalten, Ambulatorien, Kurortewesen, Leichen- und Bestattungswesen,
+                    Heilquellen“.</p>
+                <p>Der <emph>Vorsitzende</emph> erteilt hierauf dem Unterstaatssekretär
+                        <emph>Glöckel</emph> das Wort zur Erstattung eines Vorschlages für die
+                    Formulierung des Punktes 13 des Artikels 10. Das Unterrichtsamt beantragt
+                    folgendes im Art. 10 aufzunehmen: „Schulaufsicht und Schulverwaltung; Gesamtes
+                    Hochschulwesen; Lehrerbildung; Staatserziehungsanstalten; Anstalten für
+                    Sorgenkinder; pädagogisch-didaktische Einrichtung sowie Errichtung und Erhaltung
+                    von öffentlichen, mittleren und niederen Lehranstalten. Einrichtungen der
+                    mittleren und niederen Schulen, insbesondere Festsetzung der Lehrziele und
+                    Lehrpläne; Schulpflicht; Bestimmungen über Lehrbücher und Lehrmittel. Die
+                    Zuständigkeit der Länder für die Gesetzgebung auf dem sonstigen
+                    pädagogisch-didaktischem Gebiete wird durch Bundes-Verfassungsgesetze geregelt.
+                    Dienstrecht der Lehrer, einschließlich des Besoldungswesens und des
+                    Disziplinarrechtes. Privatschulwesen; Volksbildung. Die Zusammensetzung der
+                        Schulverwaltungsbe<pb facs="#facs_5" n="5" xml:id="img_0005" break="no"/><fw
+                        type="pageNum">- 4 -</fw>hörden und die Diensthohieit über die
                     Lehrerschaften an niederen Lehranstalten wird durch besondere
                     Bundes-Verfassungsgesetze bestimmt“.</p>
-                <p>Ergänzend bemerkt der Vorsitzende, daß ein Einvernehmen der Parteien festgestellt
-                    ist über die Punkte: Gesamtes Hochschulwesen, Lehrerbildung,
+                <p>Ergänzend bemerkt der <emph>Vorsitzende</emph>, daß ein Einvernehmen der Parteien
+                    festgestellt ist über die Punkte: Gesamtes Hochschulwesen, Lehrerbildung,
                     Staatserziehungsanstalten und Anstalten für Sorgenkinder. Der sonstige Inhalt
-                    des Vorschlages weicht nach Erklärung Prof. Dr. Seipels von den Vereinbarungen
-                    ab.</p>
-                <p>Staatssekretär Prof. Dr. Mayr stellt ausdrücklich fest, daß der vom
-                    Unterstaatssekretär Glöckel verlesene Entwurf nicht von der Staatskanzlei
-                    stammt.</p>
-                <p>Prof. Dr. Seipel bezeichnet es als Ansicht seiner Partei, daß der bisherige
-                    Zustand solange aufrecht zu bleiben habe, bis das neue Schulverwaltungsgesetz
-                    die einschlägigen Angelegenheiten neu regelt. Einem Bundesverfassungsgesetz, das
-                    dieser Regelung irgendwie präjudiziere, könne die christlichsoziale Partei ihre
-                    Zustimmung nicht geben. Er verweist auf seine darauf bezüglichen Erklärungen in
-                    der 14. (siehe Protokoll 323) Siehe S. 382. 324) S. 291 ff. 469 17. Sitzung der
-                    14. Sitzung, Seite 10 f) 325)und 16. Sitzung (siehe Protokoll der 16. Sitzung,
-                    Seite 2) 32e) des Unterausschusses.</p>
-                <p>Abg. Clessin weist auf das scheinbare Zustandekommen von Vereinbarungen der
-                    christlichsozialen und der sozialdemokratischen Partei hin, von denen er und
-                    seine Partei keine Kenntnis erlangt habe und spricht den Wunsch aus, man möge
-                    seiner Partei noch vor der Sitzung der Nationalversammlung das Ergebnis dieser
-                    Beratungen zur Kenntnis bringen. Eine Stellungnahme zu diesen Fragen sei ihm
-                    ohne Vorbereitung nicht möglich. Er sei auch nicht in der Lage, die heutige
-                    Debatte ad referendum zu nehmen. Präsident Seitz erinnert an die Parteisitzungen
-                    in der Präsidentschaftskanzlei, bei denen die sozialdemokratische Partei dem
-                    Standpunkt der christlichsozialen Vertreter soweit als möglich entgegengekommen
-                    sei: nur in zwei Punkten bestehe ein absoluter Widerspruch: Die
-                    Christlichsozialen fordern, daß die Lehrer Landesbeamte sein sollen, während
-                    seine Partei sie als Bundesbeamte betrachtet; der<pb facs="#facs_6" n="6"
-                        xml:id="img_0006" break="yes"/><fw type="pageNum">5</fw> zweite strittige
-                    Punkt seien die Schulaufsichtsbehörden. Nach Anschauung seiner Partei sollen
-                    Landes- und Bezirksschulräte Organe des Bundes sein, während die
-                    Christlichsozialen der Anschauung sind, daß diese Behörden heute Landesorgane
-                    sind und auch weiterhin dem Lande zugehören sollen. Diese zweite Frage sollte
-                    also in einem Schulverwaltungsgesetz, das als Verfassungsgesetz mit zweidrittel
-                    Mehrheit zustande kommen müßte, gelöst werden. Er hat bei den
-                    Parteibesprechungen darauf hingewiesen, daß von der Diensthoheit über die Lehrer
-                    den Ländern fast nichts geblieben sei, da der Bund die Besoldung regelt, als das
-                    Zeitavancement und die Ernennung der Direktoren und Oberlehrer. Es sei unbedingt
-                    notwendig, die einzelnen Punkte in der Verfassung genau anzuführen, da sonst
-                    immer wieder neue Mißverständnisse entstehen.</p>
-                <p>Abgeordneter Clessin ist der Anschauung, daß der geltende Rechtszustand aufrecht
-                    zu bleiben hätte, bis das Schulverwaltungsgesetz zustandekommt. Da eine
-                    einseitige Änderung des geltenden Rechtszustandes nicht möglich ist, dürfte er
-                    auch noch lange unverändert fortbestehen.</p>
-                <p>Prof. Dr. Seipel erklärt insbesondere, daß das Wort „Schulaufsicht“ nicht in die
-                    Verfassung kommen dürfe. Die Verfassung darf in keiner Hinsicht präjudizieren
-                    und nur enthalten, was durchaus unbestritten ist.</p>
-                <p>Dr. Bauer übergibt hierauf den Vorsitz Professor Dr. Seipel, der als Grundlage
-                    der weiteren Verhandlungen den Formulierungsvorschlag der Staatskanzlei in
-                    Beratung zieht. Ein Vermittlungsvorschlag Prof. Dr. Kelsens, das Schulwesen aus
-                    der Verfassung auszuscheiden und nur in einem eigenen Schulparagraphen den
-                    Versuch zu machen, den gegenwärtigen Rechtszustand mit den Kategorien der neuen
+                    des Vorschlages weicht nach Erklärung Prof. Dr. <emph>Seipels</emph> von den
+                    Vereinbarungen ab.</p>
+                <p>Staatssekretär Prof. Dr. <emph>Mayr</emph> stellt ausdrücklich fest, daß der vom
+                    Unterstaatssekretär <emph>Glöckel</emph> verlesene Entwurf nicht von der
+                    Staatskanzlei stammt.</p>
+                <p>Prof. Dr. <emph>Seipel</emph> bezeichnet es als Ansicht seiner Partei, daß der
+                    bisherige Zustand solange aufrecht zu bleiben habe, bis das neue
+                    Schulverwaltungsgesetz die einschlägigen Angelegenheiten neu regelt. Einem
+                    Bundesverfassungsgesetz, das dieser Regelung irgendwie präjudiziere, könne die
+                    christlichsoziale Partei ihre Zustimmung nicht geben. Er verweist auf seine
+                    darauf bezüglichen Erklärungen in der 14. (s. Protokoll der 14. Sitzung, Seite
+                    10 f) und 16. Sitzung (s. Protokoll der 16. SitzungSeite 2) des
+                    Unterausschusses.</p>
+                <p>Abg. <emph>Clessin</emph> weist auf das scheinbare Zustandekommen von
+                    Vereinbarungen der christlichsozialen und der sozialdemokratischen Partei hin,
+                    von denen er und seine Partei keine Kenntnis erlangt habe und spricht den Wunsch
+                    aus, man möge seiner Partei noch vor der Sitzung der Nationalversammlung das
+                    Ergebnis dieser Beratungen zur Kenntnis bringen. Eine Stellungnahme zu diesen
+                    Fragen sei ihm ohne Vorbereitung nicht möglich. Er sei auch nicht in der Lage,
+                    die heutige Debatte ad referendum zu nehmen. Präsident <emph>Seitz</emph>
+                    erinnert an die Parteisitzungen in der Präsidentschaftskanzlei, bei denen die
+                    sozialdemokratische Partei dem Standpunkt der christlichsozialen Vertreter
+                    soweit als möglich entgegengekommen sei: nur in zwei Punkten bestehe ein
+                    absoluter Widerspruch: Die Christlichsozialen fordern, daß die Lehrer
+                    Landesbeamte sein sollen, während seine Partei sie als Bundesbeamte betrachtet;
+                        der<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><fw
+                        type="pageNum">- 5 -</fw> zweite strittige Punkt seien die
+                    Schulaufsichtsbehörden. Nach Anschauung seiner Partei sollen Landes- und
+                    Bezirksschulräte Organe des Bundes sein, während die Christlichsozialen der
+                    Anschauung sind, daß diese Behörden heute Landesorgane sind und auch weiterhin
+                    dem Lande zugehören <add>sollen</add>. Diese zweite Frage sollte also in einem
+                    Schulverwaltungsgesetz, das als Verfassungsgesetz mit zweidrittel Mehrheit
+                    zustande kommen müßte, gelöst werden. Er hat bei den Parteibesprechungen darauf
+                    hingewiesen, daß von der Diensthoheit über die Lehrer den Ländern fast nichts
+                    geblieben sei, da der Bund die Besoldung regelt, als das Zeitavancement und die
+                    Ernennung der Direktoren und Oberlehrer. Es sei unbedingt notwendig, die
+                    einzelnen Punkte in der Verfassung genau anzuführen, da sonst immer wieder neue
+                    Mißverständnisse entstehen.</p>
+                <p>Abgeordneter <emph>Clessin</emph> ist der Anschauung, daß der geltende
+                    Rechtszustand aufrecht zu bleiben hätte, bis das Schulverwaltungsgesetz
+                    zustandekommt. Da eine einseitige Aenderung des geltenden Rechtszustandes nicht
+                    möglich ist, dürfte er auch noch lange unverändert fortbestehen.</p>
+                <p>Prof. Dr. <emph>Seipel</emph> erklärt insbesondere, daß das Wort „Schulaufsicht“
+                    nicht in die Verfassung kommen dürfe. Die Verfassung darf in keiner Hinsicht
+                    präjudizieren und nur enthalten, was durchaus unbestritten ist.</p>
+                <p>Dr. <emph>Bauer</emph> übergibt hierauf den <emph>Vorsitz</emph> Professor Dr.
+                        <emph>Seipel</emph>, der als Grundlage der weiteren Verhandlungen den
+                    Formulierungsvorschlag der Staatskanzlei in Beratung zieht. Ein
+                    Vermittlungsvorschlag Prof. Dr. <emph>Kelsens</emph>, das Schulwesen aus der
+                    Verfassung auszuscheiden und nur in einem eigenen Schulparagraphen den Versuch
+                    zu machen, den gegenwärtigen Rechtszustand mit den Kategorien der neuen
                     Verfassung in Einklang zu bringen, die endgültige Regelung aber einer späteren
-                    Regelung vorzubehalten, wird vom Präsidenten Seitz mit dem Hinweis<pb
-                        facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum"
-                        >6</fw> abgelehnt, daß bereits die Grund- und Freiheitsrechte in der
-                    Verfassung fehlen und nun auch noch das Schulwesen nicht enthalten wäre. Seine
-                    Partei habe das größte Entgegenkommen gezeigt und nur auf dem Gebiete des
-                    Schulwesens Forderungen gestellt. Der gegenwärtige Rechtszustand könne nicht
-                    maßgebend sein, da er auf dem Sanktionsrecht der Krone beruht. Einfach
-                    festzustellen, daß nichts geändert wird, sei politisch nicht genügend. Prof. Dr.
-                    Kelsen gibt zu bedenken: Das Nichtzustandekommen der Verfassung bedeutet, daß
-                    sich an der Schulfrage nichts ändert; gegenwärtig werden die Normen nicht
-                    befolgt. Es wäre also bereits ein Gewinn, wenn die gegenwärtige Rechtslage in
-                    der Verfassung juristisch festgelegt wird.</p>
-                <p>Nach Ansicht Prof. Dr. Seipels hätte es in Art. 10 zu lauten: Das gesamte
-                    Hochschulwesen, Lehrerbildung, fachliche Zentrallehranstalten, staatliche
-                    Erziehungsanstalten; Anstalten zur Erziehung der Sorgenkinder; die
+                    Regelung vorzubehalten, wird vom Präsidenten <emph>Seitz</emph> mit dem
+                        Hinweis<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw
+                        type="pageNum">- 6 -</fw>abgelehnt, daß bereits die Grund- und
+                    Freiheitsrechte in der Verfassung fehlen und nun auch noch das Schulwesen nicht
+                    enthalten wäre. Seine Partei habe das größte Entgegenkommen gezeigt und nur auf
+                    dem Gebiete des Schulwesens Forderungen gestellt. Der gegenwärtige Rechtszustand
+                    könne nicht maßgebend sein, da er auf dem Sanktionsrecht der Krone beruht.
+                    Einfach festzustellen, daß nichts geändert wird, sei politisch nicht genügend.
+                    Prof. Dr. <emph>Kelsen</emph> gibt zu bedenken: Das Nichtzustandekommen der
+                    Verfassung bedeutet, daß sich an der Schulfrage nichts ändert; gegenwärtig
+                    werden die Normen nicht befolgt. Es wäre also bereits ein Gewinn, wenn die
+                    gegenwärtige Rechtslage in der Verfassung juristisch festgelegt wird.</p>
+                <p>Nach Ansicht Prof. Dr. <emph>Seipels</emph> hätte es in Art. 10 zu lauten: Das
+                    gesamte Hochschulwesen, Lehrerbildung, fachliche Zentrallehranstalten,
+                    staatliche Erziehungsanstalten; Anstalten zur Erziehung der Sorgenkinder; die
                     pädagogisch-didaktische Einrichtung des mittleren und niederen Schulwesens mit
                     der Einschränkung, daß im Schulverwaltungsgesetz festgelegt werden soll, in
                     welchen Belangen der pädagogisch-didaktischen Einrichtung die Vollziehung
                     vollständig den Ländern zu übertragen ist, so z. B., daß es auf dem Gebiete der
                     Schulerleichterung keinen Instanzenzug geben darf. Hiezu bemerkt Präsident
-                    Seitz, daß der Vermittlungs vorschlag Dr. Bauers nur der Versuch eines
-                    Entgegenkommens, nicht aber der Standpunkt seiner Partei gewesen sei, die
+                        <emph>Seitz</emph>, daß der Vermittlungsvorschlag Dr. Bauers nur der Versuch
+                    eines Entgegenkommens, nicht aber der Standpunkt seiner Partei gewesen sei, die
                     dagegen sei, daß die einzelnen Punkte des Reichs-Volksschulgesetzes angegeben
-                    werden. Prof. Dr. Seipel meint fortfahrend, daß an die vorerwähnte Formulierung
-                    die übrigen unbestrittenen Belange des Art. 10, Punkt 13: Volksbildungswesen;
-                    Regelung des wirtschaftlichen und fachtechnischen Archiv- und
-                    Bibliotheksdienstes usw. anzuschließen wären. Endlich wären in Art. 12 als Punkt
-                    1 a Privatunterricht und Privatschulwesen einzugliedern und in Punkt 8 dieses
-                    Artikels nach den Worten „Dienstrecht der Organe<pb facs="#facs_8" n="8"
-                        xml:id="img_0008" break="yes"/><fw type="pageNum">7</fw> der Länder, die
-                    behördliche Aufgaben zu besorgen haben, Dienstrecht und Besoldungssystem der
+                    werden. Prof. Dr. <emph>Seipel</emph> meint fortfahrend, daß an die vorerwähnte
+                    Formulierung die übrigen unbestrittenen Belange des Art. 10, Pkt. 13:
+                    Volksbildungswesen; Regelung des wirtschaftlichen und fachtechnischen Archiv-
+                    und Bibliotheksdienstes usw. anzuschließen wären. Endlich wären in Art. 12 als
+                    Pkt. 1 a Privatunterricht und Privatschulwesen einzugliedern und in Pkt. 8
+                    dieses Artikels nach den Worten „Dienstrecht der Organe<pb facs="#facs_8" n="8"
+                        xml:id="img_0008" break="yes"/><fw type="pageNum">- 7 -</fw> der Länder, die
+                    behördliche Aufgaben zu besorgen haben, "Dienstrecht und Besoldungssystem der
                     Lehrpersonen an den Volks- und Bürgerschulen (oder an den anderen Schulen)“
                     anzuschließen.</p>
-                <p>Für das Elektrizitätswesen legt Min. Rat Ing. Gaertner eine Formulierung des
-                    Wasserkraft- und Elektrizitätswirtschaftsamtes vor, die aber nach Anschauung
-                    Prof. Dr. Kelsens nicht den Parteivereinbarungen entspricht. Professor Dr.
-                    Seipel verliest die Formulierung der Sachverständigen seiner Partei, nach der es
-                    in Art. 10 heißen sollte: „Normalisierung und Typisierung elektrischer Anlagen
-                    und Einrichtungen und Sicherheitsmaßnahmen auf diesem Gebiete;“ in Art. 12 hätte
-                    dort, wo von Wasserrecht die Rede ist, zu stehen: „Das Elektrizitätswesen mit
-                    471 17. Sitzung Ausnahme der in Punkt 10 genannten Belange“. Die Staatskanzlei
-                    wird eingeladen, diese Anregung in Erwägung zu ziehen. Min. Rat Gaertner findet
-                    über Befragen die Formulierung der christlichsozialen Partei aus dem Grunde gut,
-                    weil es dann nicht mehr möglich sein wird, daß in Abständen von wenigen
-                    Kilometern andere Elektrizitätswerke mit anderen Stromstärken etc. errichtet
-                    werden können. So könne es vielleicht gelingen, die Phase der Zwergkraftwerke zu
-                    überwinden. Die Formel biete aber noch nicht die Möglichkeit, das Großkraftwerk
-                    wirklich durchzuführen. Die Wasserkraftverwertung müsse nach einheitlichen
+                <p>Für das Elektrizitätswesen legt Min.Rat Ing. <emph>Gaertner</emph> eine
+                    Formulierung des Wasserkraft- und Elektrizitätswirtschaftsamtes vor, die aber
+                    nach Anschauung Prof. Dr. <emph>Kelsens</emph> nicht den Parteivereinbarungen
+                    entspricht. Professor Dr. <emph>Seipel</emph> verliest die Formulierung der
+                    Sachverständigen seiner Partei, nach der es in Art. 10 heißen sollte:
+                    „Normalisierung und Typisierung elektrischer Anlagen und Einrichtungen und
+                    Sicherheitsmaßnahmen auf diesem Gebiete“; in Art. 12 hätte dort, wo von
+                    Wasserrecht die Rede ist, zu stehen: „Das Elektrizitätswesen mit Ausnahme der in
+                    Pkt. 10 genannten Belange“. Die Staatskanzlei wird eingeladen, diese Anregung in
+                    Erwägung zu ziehen. Min.Rat <emph>Gaertner</emph> findet über Befragen die
+                    Formulierung der christlichsozialen Partei aus dem Grunde gut, weil es dann
+                    nicht mehr möglich sein wird, daß in Abständen von wenigen Kilometern andere
+                    Elektrizitätswerke mit anderen Stromstärken etc. errichtet werden können. So
+                    könne es vielleicht gelingen, die Phase der Zwergkraftwerke zu überwinden. Die
+                    Formel biete aber noch nicht die Möglichkeit, das Großkraftwerk wirklich
+                    durchzuführen. Die Wasserkraftverwertung müsse nach einheitlichen
                     Gesichtspunkten ausgeführt werden. Mit rein technischen Voraussetzungen sei kein
                     Erfolg zu erzielen. Auch in einigen Fragen der Elektrizitätswirtschaft, die mit
                     technischen Fragen untrennbar verknüpft sei, könne auf eine gewisse
                     Einheitlichkeit nicht verzichtet werden; ansonsten würden die Voraussetzungen
-                    für eine großzügige technische Lösung des Wasserkraft- und
+                    für eine grosszügige technische Lösung des Wasserkraft- und
                     Elektrizitätswirtschaftsproblems fehlen und uns die Möglichkeit benommen sein,
                     dieses technisch unbestrittene Ziel zu erreichen, ein Ziel, das die Schweiz
                     bereits erreicht habe als Folge der schweizerischen Bundes- und
                     Kantonal-Gesetzgebung, die dem Bunde die Führung aller einschlägigen
                     Angelegenheiten zugesteht.</p>
-                <p><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><fw type="pageNum"
-                    >8</fw>Prof. Dr. Seipel wünscht die Debatte über die vorgelegten Fassungen in
-                    der nächsten Sitzung gemeinsam mit der über die anderen strittigen Fragen
-                    abzuführen und erteilt zur technischen Lesung Prof. Dr. Kelsen das Wort. Dieser
-                    bittet vorerst zur Kenntnis zu nehmen, daß die vorliegenden Anträge gemeinsam
-                    von ihm und den Herren der Staatskanzlei ausgearbeitet wurden, mit denen er
-                    prinzipiell im Einvernehmen stehe. In sachlicher Beziehung erlaube er sich
-                    folgenden Titel für das Gesetz vorzuschlagen:</p>
+                <p><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><fw type="pageNum">- 8
+                        -</fw>Prof. Dr. <emph>Seipel</emph> wünscht die Debatte über die vorgelegten
+                    Fassungen in der nächsten Sitzung gemeinsam mit der über die anderen strittigen
+                    Fragen abzuführen und erteilt zur technischen Lesung Prof. Dr.
+                        <emph>Kelsen</emph> das Wort. Dieser bittet vorerst zur Kenntnis zu nehmen,
+                    daß die vorliegenden Anträge gemeinsam von ihm und den Herren der Staatskanzlei
+                    ausgearbeitet wurden, mit denen er prinzipiell im Einvernehmen stehe. In
+                    sachlicher Beziehung erlaube er sich folgenden Titel für das Gesetz
+                    vorzuschlagen:</p>
                 <quote>
-                    <p>„Gesetz, womit die Republik Österreich als Bundesstaat eingerichtet wird
-                        (Bundes-Verfassungsgesetz)“.</p>
+                    <p><emph>„Gesetz, womit die Republik Oesterreich als Bundesstaat eingerichtet
+                            wird (Bundes-Verfassungsgesetz)“</emph>.</p>
                 </quote>
-                <p>Der in Klammer beigesetzte short Titel nach englischem Beispiele sei zwecks
+                <p>Der in Klammer beigesetzte short titel nach englischem Beispiele sei zwecks
                     Zitierung notwendig.</p>
-                <p>Die vorgeschlagene Fassung wird angenommen.</p>
+                <p>Die vorgeschlagene Fassung wird <emph>angenommen</emph>.</p>
                 <p>Redner schlägt weiter vor, das erste Hauptstück folgendermaßen zu gliedern und
                     mit Untertiteln zu versehen: „A. Staatsform, Bundesgebiet, Bundesvolk (Art. 1
-                    bis 6); B. Verteilung der Zuständigkeit (Art. 7 bis 14 a); C. Organe“ und bittet
-                    erst nach erfolgter Lesung der betreffenden Artikel darüber zu entscheiden. An
-                    der Fassung des Art. 1, Abs. 2 haben zahlreiche Professoren ausgesetzt, daß der
-                    Subjektsbegriff in doppeltem Sinne gebraucht wird, u. zw. sowohl als Organ wie
-                    als Kompetenz, nämlich als Organ „eingesetzt“, aber als Kompetenz
-                    „ausgeübt“.</p>
-                <p>Der Unterausschuß beschließt auf Antrag Prof. Dr. Kelsens:</p>
+                    bis 6); <emph>B</emph>. Verteilung der Zuständigkeit (Art. 7 bis 14 a);
+                        <emph>C</emph>. Organe“ und bittet erst nach erfolgter Lesung der
+                    betreffenden Artikel darüber zu entscheiden. An der Fassung des Art. 1, Abs. 2
+                    haben zahlreiche Professoren ausgesetzt, daß der Subjektsbegriff in doppeltem
+                    Sinne gebraucht wird, u. zw. sowohl als Organ wie als Kompetenz, nämlich als
+                    Organ „eingesetzt“, aber als Kompetenz „ausgeübt“.</p>
+                <p>Der Unterausschuß beschließt auf Antrag Prof. Dr. <emph>Kelsens</emph>:</p>
                 <quote>
                     <p>"Artikel 1.</p>
-                    <p>Österreich ist eine demokratische Republik. Ihr Recht geht vom Volke
+                    <p>Oesterreich ist eine demokratische Republik. Ihr Recht geht vom Volke
                         aus".</p>
                 </quote>
-                <p>Ferner ist in Art. 2 nach Niederösterreich in Klammer einzuschalten
+                <p>Ferner <add>ist</add> in Art. 2 nach Niederösterreich in Klammer einzuschalten
                     (Niederösterreich-Land und Wien); nach Analogie der Schweizer Verfassung;
                     Basel-Land und Basel-Stadt.</p>
-                <p>In Art. 3, Abs. 1 schlägt Prof. Dr. Kelsen die Strei<pb facs="#facs_10" n="10"
-                        xml:id="img_0010" break="no"/><fw type="pageNum">9</fw>chung des zweiten
-                    Satzes „Es steht unter dem Schutz des Bundes“ vor, da hierin kein neuer Gedanke
-                    ausgedrückt sei. Der Unterausschuß beschließt die Streichung und formuliert auf
-                    Antrag Kelsens den dritten Absatz folgendermaßen:</p>
+                <p>In Art. 3, Abs. 1 schlägt Prof. Dr. <emph>Kelsen</emph> die Strei<pb
+                        facs="#facs_10" n="10" xml:id="img_0010" break="no"/><fw type="pageNum">- 9
+                        -</fw>chung des zweiten Satzes „Es steht unter dem Schutz des Bundes“ vor,
+                    da hierin kein neuer Gedanke ausgedrückt sei. Der Unterausschuß beschließt die
+                        <emph>Streichung</emph> und formuliert auf Antrag Kelsens den dritten Absatz
+                    folgendermaßen:</p>
                 <quote>
-                    <p>„(3) Die für Niederösterreich-Land und Wien geltenden Sonderbestimmungen
-                        enthält das vierte Hauptstück.“</p>
+                    <p>„<emph>(3) Die für Niederösterreich-Land und Wien geltenden
+                            Sonderbestimmungen enthält das vierte Hauptstück.“</emph></p>
                 </quote>
                 <p>Die Staatskanzlei schlägt mit Rücksicht darauf, daß die Frage der Flagge, des
                     Wappens und des Staatssiegels theoretisch zu den wichtigsten
-                    verfassungsrechtlichen Bestimmungen gehöre, vor, die bezüglichen Artikel des
-                    Linzer Entwurfes in die Verfassung aufzunehmen, was der Unterausschuß jedoch
-                    ablehnt.</p>
-                <p>Zu Art. 4 bringen sowohl Prof. Dr. Kelsen als auch Dr. Danneberg mehrfache
-                    Abänderungsvorschläge vor.</p>
+                    verfassungsrechtlichen Bestimmungen gehöre, <add>vor,</add> die bezüglichen
+                    Artikel des Linzer Entwurfes in die Verfassung aufzunehmen, was der
+                    Unterausschuß jedoch ablehnt.</p>
+                <p>Zu Art. 4 bringen sowohl Prof. Dr. <emph>Kelsen</emph> als auch Dr.
+                        <emph>Danneberg</emph> mehrfache Abänderungsvorschläge vor.</p>
                 <p>Ersterer verweist auf eine Anfrage des Präsidenten Seitz, daß das Optionsrecht in
-                    den Übergangsbestimmungen bereits berücksichtigt sei und findet, daß in der
+                    den Uebergangsbestimmungen bereits berücksichtigt sei und findet, daß in der
                     nunmehrigen Fassung, in der Staatsbürgerschaft und Heimatrecht durch Art. 10 der
                     Gesetzgebung und Vollziehung dem Bund überwiesen sind, Art. 4, Abs. 1 bis 3,
                     überhaupt gestrichen werden könnte. Man könne sachlich die Vollziehung bezüglich
                     Landesbürgerschaft und Heimatrecht den Ländern überlassen, bleibe es aber bei
                     der jetzigen Kompetenzverteilung, dann könne der Artikel bis auf den vierten
                     Absatz gestrichen werden.</p>
-                <p>Präsident Seitz meint jedoch, daß es der Arbeiterschaft nicht gleichgültig sein
-                    könne, daß im Heimatrechtsfragen der Rechtszug nicht bei den Ländern endigt.
-                    Ebenso sei es wegen der Invalidenversorgung für den Bund von Wichtigkeit in
-                    letzter Instanz zu entscheiden.</p>
+                <p>Präsident <emph>Seitz</emph> meint jedoch, daß es der Arbeiterschaft nicht
+                    gleichgültig sein könne, daß im Heimatrechtsfragen der Rechtszug nicht bei den
+                    Ländern endigt. Ebenso sei es wegen der Invalidenversorgung für den Bund von
+                    Wichtigkeit in letzter Instanz zu entscheiden.</p>
                 <p>Nachdem der Unterausschuß für Abs. 1 des Art. 4 folgendem Wortlaut zugestimmt
                     hat:</p>
                 <quote>
                     <p>„(1) Für jedes Land besteht eine Landesbürgerschaft. Voraussetzung der
                         Landesbürgerschaft ist das Heimatrecht in einer<pb facs="#facs_11" n="11"
-                            xml:id="img_0011" break="yes"/><fw type="pageNum">10</fw> Gemeinde des
-                        Landes. Die Bedingungen für den Erwerb und den Verlust der
+                            xml:id="img_0011" break="yes"/><fw type="pageNum">- 10 -</fw> Gemeinde
+                        des Landes. Die Bedingungen für den Erwerb und den Verlust der
                         Landesbürgerschaft sind in jedem Land gleich“, wird die weitere Erörterung
-                        der Streichungsfrage bis zur Besprechung des Art. 10, Punkt 2 vertagt.</p>
+                        der Streichungsfrage bis zur Besprechung des Art. 10, Pkt. 2 vertagt.</p>
                 </quote>
-                <p>Zu Art. 4 a teilt Prof. Dr. Kelsen einen Vorschlag des Staatsamtes für Justiz
-                    mit, das in der jetzigen Fassung des Absatzes 1 die Gefahr erblickt, die Frauen
-                    könnten gewisse Privilegien, z. B. bei Vormundschaft und Geschworenenamt etc.
-                    verlieren.</p>
-                <p>Präsident Seitz findet dies nicht gerechtfertigt, da auch andere Personen, z. B.
-                    Geistliche und Beamte, das Geschworenenamt ablehnen können.</p>
-                <p>Min. Rat. Dr. Froehlich meint, daß ein Mann nur aus besonderen Gründen ablehnen
-                    könne, die Frau aber aus dem Grunde des Geschlechtes; das Staatsamt für Justiz
-                    wäre gezwungen, die gesetzliche Bestimmung über die Geschworenen und über die
-                    Vormundschaft im außerstreitigen Verfahren abzuändern.</p>
-                <p>Prof. Kelsen hält den Abänderungsvorschlag nicht für wesentlich, worauf der
-                    Unterausschuß den Art. 4 a, Abs. 1 im vorgeschlagenen Wortlaut annimmt. Auf
-                    Vorschlag des Redners, werden im zweiten Absatz des Artikels 4 a die Worte „und
-                    Funktionären“ gestrichen, da dieser Ausdruck im ganzen Verfassungsgesetz
-                    ausgemerzt werden soll; der Begriff des öffentlichen Angestellten genügt.</p>
-                <p>In Art. 6 wird beschlossen, anstatt gesetzlich „bundesgesetzlich“ zu setzen,
-                    worauf der Unterausschuß die Überschrift für den Abschnitt A, wie oben
-                    vorgeschlagen, genehmigt („Staatsform, Bundesgebiet und Bundesvolk").</p>
-                <p>In Art. 10, Punkt 1 wird der Wortlaut nach „Volksabstimmung“ geändert, so daß es
-                    nicht heißt „die sich auf das ganze Bundesgebiet erstrecken“, sondern „auf Grund
-                    der Bundesverfassung“.</p>
-                <p><pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><fw type="pageNum"
-                        >11</fw>In Art. 10, Punkt 2 wird das Wort „auswärtige“ in „äußere“
-                    berichtigt und anstatt „Regelung des Waren- und Viehverkehres mit dem Ausland“
-                    gesetzt, „Waren- und Viehverkehr mit dem Ausland“.</p>
-                <p>Prof. Dr. Seipel greift nun auf die frühere Erörterung über die
+                <p>Zu Art. 4 a teilt Prof. Dr. <emph>Kelsen</emph> einen Vorschlag des Staatsamtes
+                    für Justiz mit, das in der jetzigen Fassung des Absatzes 1 die Gefahr erblickt,
+                    die Frauen könnten gewisse Privilegien, z. B. bei Vormundschaft und
+                    Geschworenenamt etz. verlieren.</p>
+                <p>Präsident <emph>Seitz</emph> findet dies nicht gerechtfertigt, da auch andere
+                    Personen, z. B. Geistliche und Beamte, das Geschworenenamt ablehnen können.</p>
+                <p>Min.Rat. Dr. <emph>Froehlich</emph> meint, daß ein Mann nur aus besonderen
+                    Gründen ablehnen könne, die Frau aber aus dem Grunde des Geschlechtes; das
+                    Staatsamt für Justiz wäre gezwungen, die gesetzliche Bestimmung über die
+                    Geschworenen und über die Vormundschaft im außerstreitigen Verfahren
+                    abzuändern.</p>
+                <p>Prof. <emph>Kelsen</emph> hält den Abänderungsvorschlag nicht für wesentlich,
+                    worauf der Unterausschuß den Art. 4 a, Abs. 1 im vorgeschlagenen Wortlaut
+                    annimmt. Auf Vor<add>schlag</add> des Redners, werden im zweiten Absatz des
+                    Artikels 4 a die Worte „<emph>und Funktionären“ gestrichen</emph>, da dieser
+                    Ausdruck im ganzen Verfassungsgesetz ausgemerzt werden soll; der Begriff des
+                    öffentlichen Angestellten genügt.</p>
+                <p>In <emph>Art. 6</emph> wird beschlossen, anstatt gesetzlich
+                        „<emph>bundesgesetzlich</emph>“ zu setzen, worauf der Unterausschuß die
+                    Ueberschrift für den Abschnitt A, wie oben vorgeschlagen, genehmigt
+                    („Staatsform, Bundesgebiet und Bundesvolk").</p>
+                <p>In Art. 10, Pkt. 1 wird der Wortlaut nach „Volksabstimmung“ geändert, so daß es
+                    nicht heißt „die sich auf das ganze Bundesgebiet erstrecken“, sondern „<emph>auf
+                        Grund der Bundesverfassung“.</emph></p>
+                <p><pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><fw type="pageNum">- 11
+                        -</fw>In Art. 10, Pkt. 2 wird das Wort „auswärtige“ in „äußere“ berichtigt
+                    und anstatt „Regelung des Waren- und Viehverkehres mit dem Ausland“ gesetzt,
+                    „Waren- und Viehverkehr mit dem Ausland“.</p>
+                <p>Prof. Dr. <emph>Seipel</emph> greift nun auf die frühere Erörterung über die
                     Kompetenzabgrenzung bezüglich Staatsbürgerschaft und Heimatrecht zurück und
                     möchte auf Anregung des Abg. Fink hierüber nicht abstimmen. Sollte bei den
                     anderen strittigen Punkten — „Schul- und Elektrizitätswesen“ — eine Einigung
                     erzielt werden, so dürfte die christlichsoziale Partei in diesem Punkte zu einer
                     Einigung bereit sein.</p>
-                <p>Das Paßwesen wird aus diesem Punkte sinngemäß in Punkt 3 zwischen
+                <p>Das <emph>Paßwesen</emph> wird aus diesem Punkte sinngemäß in Punkt 3 zwischen
                     „Auswanderungswesen“ und „Abschiebung“ eingeschaltet. Punkt 6 wird auf Antrag
-                    Prof. Dr. Kelsens vom Unterausschuß wie folgt beschlossen:</p>
+                    Prof. Dr. <emph>Kelsens</emph> vom Unterausschuß wie folgt beschlossen:</p>
                 <quote>
                     <p>„6. Zivilrechtswesen einschließlich des wirtschaftlichen Assoziationswesens;
                         Strafrechtswesen mit Ausschluß des Verwaltungsstrafrechtes und
@@ -494,30 +509,31 @@
                 </quote>
                 <p>Nachdem festgestellt wird, daß die „Kammern für Handel, Gewerbe und Industrie“,
                     wie der Titel nach der jüngst erfolgten Regelung zu lauten hat, auch staatliche
-                    Funktionen haben, während die Arztekammern Arbeiterkammer und andere reine
+                    Funktionen haben, während die Aerztekammern Arbeiterkammer und andere reine
                     Standesorganisationen sind, wird auf die Aufzählung der letzteren verzichtet und
-                    die Änderung des Punktes 7 im Sinne des Vorschlages Prof. Dr. Kelsens
-                    angenommen:</p>
+                    die Aenderung des Punktes 7 im Sinne des Vorschlages Prof. Dr.
+                        <emph>Kelsens</emph> angenommen:</p>
                 <quote>
                     <p> „7. Angelegenheiten des Gewerbes und der Industrie; Be<pb facs="#facs_13"
-                            n="13" xml:id="img_0013" break="no"/><fw type="pageNum">12</fw>kämpfung
-                        des unlauteren Wettbewerbes; Patentwesen sowie Schutz von Mustern, Marken
-                        und anderen Warenbezeichnungen; Angelegenheiten der Patentanwälte;
-                        Ingenieur- und Ziviltechnikerwesen; Kammern für Handel, Gewerbe und
-                        Industrie."</p>
+                            n="13" xml:id="img_0013" break="no"/><fw type="pageNum">- 12
+                        -</fw>kämpfung des unlauteren Wettbewerbes; Patentwesen sowie Schutz von
+                        Mustern, Marken und anderen Warenbezeichnungen; Angelegenheiten der
+                        Patentanwälte; Ingenieur- und Ziviltechnikerwesen; Kammern für Handel,
+                        Gewerbe und Industrie."</p>
                 </quote>
                 <p>In Punkt 8 wird das Wort „Luftschiffahrt“ durch das Wort „Luftfahrt“ ersetzt, da
                     zufolge Erklärung des Staatsamtes für Verkehrswesen unter Luftschiffahrt nur der
                     Verkehr mit Zeppelinen und dgl., nicht aber mit Aeroplanen verstanden wird.</p>
-                <p>Angenommen wird auch in Punkt 9 die Fassung „Bau und Instandhaltung derjenigen
-                    Wasserstraßen usw.“ und Punkt 10 in folgendem Wortlaut: „10. Bodenreform
-                    insbesondere agrarische Operationen, Wiederbesiedlung und Bodenentschuldung.</p>
+                <p>Angenommen wird auch in Pkt. 9 die Fassung „<emph>Bau und Instandhaltung</emph>
+                    derjenigen Wasserstraßen usw.“ und Pkt. 10 in folgendem Wortlaut: „10.
+                    Bodenreform insbesondere agrarische Operationen, Wiederbesiedlung und
+                    Bodenentschuldung.</p>
                 <p>In
                     Punkt 11 wird statt „gesamtes Arbeiterrecht“ nur „Arbeiterrecht“ gesetzt.</p>
-                <p>Die
-                    Beratung über Punkt 12 und 13 wird zurückgestellt und auf Antrag des Präsidenten
-                    Seitz die Änderung des Titels Vizepräsident des Nationalrates in „zweiten und
-                    dritten Präsidenten des Nationalrates“ beschlossen.</p>
+                <p>Die Beratung über Pkt. 12 und 13 wird zurückgestellt und auf Antrag des
+                    Präsidenten <emph>Seitz</emph> die Aenderung des Titels Vizepräsident des
+                    Nationalrates in „zweiten und dritten Präsidenten des Nationalrates“
+                    beschlossen.</p>
                 <p>Die Sitzung wird hierauf
                     geschlossen: die nächste Sitzung findet Donnerstag den 23. September, 10 Uhr
                     vormittags statt.</p>
