@@ -106,10 +106,10 @@
                               23. April 1920 </date>
                   </creation>
             </profileDesc>
-            <revisionDesc status="created">
+            <revisionDesc status="text_correct">
                   <change when="2024-10-01" who="#cfh">document automatically created</change>
                   <change when="2025-06-07" who="#s_kury">Gegengelesen bis S. 24 (erneut)</change>
-                  <change when="2025-07-18" who="#s_kury">Gegengelesen bis S. 72 -Preußler</change>
+                  <change when="2025-07-19" who="#s_kury">Gegenlesen beendet</change>
             </revisionDesc>
       </teiHeader>
       <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -7043,12 +7043,12 @@
                               <speaker>Herr Landeshauptmannstellvertreter <emph>Preußler</emph>
                                     (Salzburg):</speaker>
                               <p>Nachdem aus der Verwaltungsgerichtshofpraxis hervorgeht, daß
-                                    Entscheidungen nach freiem Ermeisen sehr unliebsame Verletzungen
+                                    Entscheidungen nach freiem Ermessen sehr unliebsame Verletzungen
                                     privatrechtlicher Natur hervorbringen, wird es notwendig sein,
                                     die Bundesinteressen noch durch verschärfte Bestimmungen, als
-                                    wie sie im Artikel 141 des Vorentwurfes vorgefehen find,
+                                    wie sie im Artikel 141 des Vorentwurfes vorgesehen sind,
                                     unbedingt zu schützen. Wir stellen uns daher auf den Standpunkt
-                                    folgender Bestimmungen (lieft): </p>
+                                    folgender Bestimmungen (liest): </p>
                               <quote>
                                     <p>„Zum Schutze der Interessen des Bundes kann die
                                           Bundesregierung gegen Entscheidungen und Verfügungen von
@@ -7058,220 +7058,221 @@
                               </quote>
                         </sp>
                         <sp>
-                              <speaker>Herr Vorsitzender <emph>Dr. Mintelen </emph>(Steiermart): </speaker>
-                              <p>Ich bitte, hat noch jemand zu diesem Punkte etwas zu bemerfen?
-                                    (Niemand meldet fich.) Dann ift die Debatte über diesen Punkt
-                                    geschlössen. Zum Antrage zu diesem Punkte hat Herr Abgeordneter
-                                    Kunschäk (Wien) das Wort. </p>
+                              <speaker>Herr Vorsitzender <emph>Dr. Rintelen </emph>(Steiermark): </speaker>
+                              <p>Ich bitte, hat noch jemand zu diesem Punkte etwas zu bemerken?
+                                    (Niemand meldet sich.) Dann ist die Debatte über diesen Punkt
+                                    geschlossen. Zum Antrage zu diesem Punkt hat Herr Abgeordneter
+                                    Kunschak (Wien) das Wort. </p>
                         </sp>
                         <sp>
-                              <speaker>Herr Abgeordneter <emph>Runschak</emph> (Wien):</speaker>
-                              <p>Ich bitte nur einen furzen Augenblick noch um die Aufmerksamkeit
+                              <speaker>Herr Abgeordneter <emph>Kunschak</emph> (Wien):</speaker>
+                              <p>Ich bitte nur einen kurzen Augenblick noch um die Aufmerksamkeit
                                     der geehrten Herren.</p>
-                              <p>Ich möchte mir erlauben, zwei Anträge zu teflen, durch welche die
+                              <p>Ich möchte mir erlauben, zwei Anträge zu stellen, durch welche die
                                     Konferenz heute hier zu einem Abschluß gebracht werden soll,
                                     aber anderseits auch ein Zustand herbeigeführt werden soll, der
                                     es ermöglicht, im Sinne der Konferenzergebnisse weitere Schritte
-                                    zu unternehmen. Der erste Antrag lautet (lieft):</p>
+                                    zu unternehmen. Der erste Antrag lautet (liest):</p>
                               <quote>
                                     <p>„Die Staatsregierung wird aufgefordert, mit größter
                                           Beschleunigung und unter Berücksichtigung der
-                                          Willensmeinung der Länderkonferenzen in Salzburg und Zinz
-                                          den Entwurf einer Staatsverfafsung auszuarbeiten und
+                                          Willensmeinung der Länderkonferenzen in Salzburg und Linz
+                                          den Entwurf einer Staatsverfassung auszuarbeiten und
                                           vorzulegen.“ </p>
                               </quote>
-                              <p>Der zweite Antrag lautet (lieft): </p>
+                              <p>Der zweite Antrag lautet (liest): </p>
                               <quote>
                                     <p>„Der Landesrat von Steiermark wird ersucht, die Durchführung
-                                          der Willensmeinung der Ländertonferenzen in Salzburg und
-                                          Zinz in die Wegezu leiten und alle hiezu notwendigen oder
+                                          der Willensmeinung der Länderkonferenzen in Salzburg und
+                                          Linz in die Wege zu leiten und alle hiezu notwendigen oder
                                           sich daraus ergebenden Schritte zu unternehmen.“</p>
                               </quote>
-                              <p>Ich glaube zur Begründung dieser beiden Anträgé feine weitere
-                                    Erklärung geben zu müfsen. Sie sprechen für sich selbst und
+                              <p>Ich glaube zur Begründung dieser beiden Anträge keine weitere
+                                    Erklärung geben zu müssen. Sie sprechen für sich selbst und
                                     bitte die verehrten Herren, zu diesen Anträgen Ihre Zustimmung
                                     zu geben.</p>
                         </sp>
                         <sp>
-                              <speaker>Herr Vorsitzender Landeshaubtmann <emph>Doktor Rintelen
-                                    </emph>(Steiermarf): </speaker>
+                              <speaker>Herr Vorsitzender Landeshauptmann <emph>Doktor Rintelen
+                                    </emph>(Steiermark): </speaker>
                               <p>Herr Landeshauptmannstellvertreter Langoth hat das Wort. </p>
                         </sp>
                         <sp>
-                              <speaker>Herr Landeshauptmannstellvertreter Vangoth
-                                    (Oberöfterreich):</speaker>
-                              <p> Namens meiner Varteifreünde<pb facs="#facs_69" n="69"
-                                          xml:id="img_0069" break="yes"/>kann ich die Erklärung
-                                    abgeben, daß wir mit den Anträgen des Herrn Landesrates Kunschak
-                                    einverstanden sind. </p>
+                              <speaker>Herr Landeshauptmannstellvertreter <emph>Doktor
+                                          Rintelen</emph>(Oberösterreich):</speaker>
+                              <p> Namens meiner Parteifreunde <pb facs="#facs_69" n="69"
+                                          xml:id="img_0069" break="yes"/><fw type="pageNum"
+                                    >73</fw>kann ich die Erklärung abgeben, daß wir mit den Anträgen
+                                    des Herrn Landesrates Kunschak einverstanden sind. </p>
                         </sp>
                         <sp>
                               <speaker>Herr Vorsitzender Landeshauptmann <emph>Doktor
-                                          Mintelen</emph> (Steiermark): </speaker>
-                              <p>Herr Dr. Dannebera hat das Wort. </p>
+                                          Rintelen</emph> (Steiermark): </speaker>
+                              <p>Herr Dr. Danneberg hat das Wort. </p>
                         </sp>
                         <sp>
-                              <speaker>Herr Dr. Danneberg (Wien): </speaker>
-                              <p>Was den ersten Antrag des Herrn Abgeordneten Kunschaf anbelangt,
+                              <speaker>Herr <emph>Dr. Danneberg</emph> (Wien): </speaker>
+                              <p>Was den ersten Antrag des Herrn Abgeordneten Kunschak anbelangt,
                                     daß die Regierung, wenn ich recht verstanden habe, aufgefordert
                                     werde, schleunigst einen Verfassungsentwurf unter
                                     Berücksichtigung der Meinungsäußerungen auf den beiden
                                     Länderkonferenzen vorzulegen, möchte ich im Namen meiner Partei
                                     dazu folgendes bemerken. Wir sind dafür, daß die Regierung
                                     schleunigst einen Entwurf der Verfassung vorlegt, wir sind
-                                    dafür, daß sie dabei berücksichtiat, was als Meinungzäußerungen
+                                    dafür, daß sie dabei berücksichtigt, was als Meinungsäußerungen
                                     auf den Konferenzen zu Tage getreten ist. Ich muß hinzufügen,
                                     daß in vielen und wichtigen Dingen auf diesen Länderkonferenzen
-                                    ganz verschiedene und entgegengeseßzte Meinungsäußerungen zu
+                                    ganz verschiedene und entgegengesetzte Meinungsäußerungen zu
                                     Tage getreten sind. Und ich für meine Partei verlange
-                                    elbstverständlich, daß die Regierung unsere Meinungsäußerung in
-                                    diesen Dingen berücksichtigt. Gs ist Sache der Herren, zu
+                                    selbstverständlich, daß die Regierung unsere Meinungsäußerung in
+                                    diesen Dingen berücksichtigt. Es ist Sache der Herren, zu
                                     verlangen, daß Ihre Meinungsäußerungen berücksichtigt werden.
                                     Ich möchte das deshalb nur sagen, weil der Antrag des
-                                    Abgeordneten Kunschaf in diesem Punkte eigentlich, wie es mir
+                                    Abgeordneten Kunschak in diesem Punkte eigentlich, wie es mir
                                     vorkommt — ich weiß nicht, wie ich mich eigentlich ausdrücken
-                                    follnicht ganz richtig ist. Bei zwei oder drei entgegengesetzten
-                                    Meinungen kann die Regierung nur eine berückichtigen. (Herr
-                                    Landesrat Runschak: „Wir haben auch einheitliche
-                                    Meinungen1“)</p>
-                              <p>Sa, das habe ich ja hervorgehoben.</p>
+                                    soll — nicht ganz richtig ist. Bei zwei oder drei
+                                    entgegengesetzten Meinungen kann die Regierung nur eine
+                                    berücksichtigen. (Herr Landesrat Kunschak: „Wir haben auch
+                                    einheitliche Meinungen!“)</p>
+                              <p>Ja, das habe ich ja hervorgehoben.</p>
                               <p>Ich bin dafür, daß überall dort, wo keine einheitliche
-                                    Meinungsäußerung vorhanden ift, die sozialdemokratische
+                                    Meinungsäußerung vorhanden ist, die sozialdemokratische
                                     berücksichtigt werden soll. Ich möchte bei der Gelegenheit
-                                    feftstellen, daß es sehr viele Bestimmungen im Entwurfe des
-                                    Staatäsetretärs Dr. Mahr gibt, wovon ich gestern in der
+                                    feststellen, daß es sehr viele Bestimmungen im Entwurfe des
+                                    Staatssekretärs Dr. Mayr gibt, wovon ich gestern in der
                                     Generaldebatte gesprochen habe, mit denen wir nicht
                                     einverstanden sind, über die wir nicht sprechen konnten, weil
                                     die Zeit nicht ausreicht und die Bestimmungen nicht alle auf die
                                     Tagesordnung gestellt werden konnten. Es darf aber nicht das
                                     lateinische Sprichwort gelten: „Quid tacet, consentire videtur.“
-                                    Wir ftimmen nicht zu, wo wir nicht gesprochen haben, weil keine
+                                    Wir stimmen nicht zu, wo wir nicht gesprochen haben, weil keine
                                     Gelegenheit dazu war. Was den zweiten Antrag des Herrn
-                                    Landesrates Kunschaf anbelangt, daß der Landesrat von Steiermark
+                                    Landesrates Kunschak anbelangt, daß der Landesrat von Steiermark
                                     die Aufgabe überwiesen bekommt, für die Durchführung der
                                     Anerkennung der Beschlüsse der Länderkonferenz zu sorgen, um
                                     alle notwendigen Schritte zu unternehmen, kann ich diesen
-                                    Auftrag nur dahin auffassen, daß eben ein Protofoll dieser
+                                    Auftrag nur dahin auffassen, daß eben ein Protokoll dieser
                                     Länderkonferenz verfaßt wird, so wie das bei der Länderkonferenz
                                     in Salzburg geschehen ist, und daß dieses Protokoll der
                                     Regierung übermittelt wird. Wozu da sich ein eigener Landesrat
-                                    strapazieren soll, das weiß ich nicht, Der Herr Staatssekretär
+                                    strapazieren soll, das weiß ich nicht. Der Herr Staatssekretär
                                     hat uns eingeladen und wir haben vor ihm unsere
                                     Meinungsäußerungen abgegeben und er als Mitglied der Regierung
-                                    wird in der Tage sein, die Beschlüsse und Meinungen der
-                                    Salzbürger Länderkonférenz zur Kenntnis zu bringen.</p>
+                                    wird in der Lage sein, die Beschlüsse und Meinungen der
+                                    Salzburger Länderkonferenz zur Kenntnis zu bringen. </p>
                               <p>Es scheint hier eine besondere Aufgabe für einen Landesrat nicht
-                                    gerade notwendig. Man könnte nur, fofern die Herren glauben, daß
-                                    noch eine Ffrage den Landesrat von Steiermark interessieren
+                                    gerade not wendig. Man könnte nur, sofern die Herren glauben,
+                                    daß noch eine Frage den Landesrat von Steiermark interessieren
                                     würde, eine neue Länderkonferenz einberufen, wenn Sie es für
-                                    notwendig halten, mit den Landesräten der einzelnen Länder
-                                    Verbindung zu setzen. Ich für meine Person glaube, daß sich eine
-                                    dritte Länderkonferenz nicht für notwendig erweisen wird, um so
-                                    weniger, als die Roalitionsvereinbarungen ja vorfehen, daß, wenn
-                                    die Regierung mit einem Entwürf in den Verassungsausschuß der
-                                    Nationalversammlung kommt, den Vertretern der Landesregierung
-                                    dort Gelejenheit gegeben fein wird, den Beratungen der
-                                    Nationalversammlung anzuwohnen und ihre Meinungen dort zu
-                                    äußzern. Der zweite Antrag des Herrn Abgeordneten Kunschak
-                                    erscheint mir nicht notwendig. Den ersten nehmen wir mit den
-                                    Einschränkungen und Bemerkungen, die zu machen ich mir erlaubt
-                                    habe, an.</p>
+                                    notwendig halten, sich mit den Landesräten der einzelnen Länder
+                                    in Verbindung zu setzen. Ich für meine Person glaube, daß sich
+                                    eine dritte Länderkonferenz nicht für notwendig erweisen wird,
+                                    um so weniger, als die Koalitionsvereinbarungen ja vorsehen,
+                                    daß, wenn die Regierung mit dem Entwurf in den
+                                    Verfassungsausschuß der Nationalversammlung kommt, den Vertreter
+                                    der Landesregierung dort Gelegenheit gegeben sein wird, den
+                                    Beratungen der Nationalversammlung anzuwohnen und ihre Meinungen
+                                    dort zu äußern. Der zweite Antrag des Herrn Abgeordneten
+                                    Kunschak erscheint mir nicht notwendig. Den ersten nehmen wir
+                                    mit den Einschränkungen, die zu machen ich mir erlaubt habe, an.
+                              </p>
                         </sp>
                         <sp>
                               <speaker>Herr Vorsitzender Landeshauptmann <emph>Doktor
                                           Rintelen:</emph></speaker>
-                              <p>Herr Abgeordneter Kunschak hat das Wort</p>
+                              <p>Herr Abgeordneter Kunschak hat das Wort.</p>
                         </sp>
                         <sp>
                               <speaker>Herr Abgeordneter <emph>Kunschak</emph> (Wien):</speaker>
-                              <p> Ich habe nur ganz furz zur Enthüllung meiner Abichten, die ich
-                                    gehabt habe, einige Bemerkungen zu machen. Zunächst händelt es
-                                    sich darum, daß emand vorhanden ist, der unsere Arbeiten, die
+                              <p>Ich habe nur ganz kurz zur Enthüllung meiner Absichten, die ich
+                                    gehabt habe, einige Bemerkungen zu machen. Zunächst handelt es
+                                    sich darum, daß jemand vorhanden ist, der unsere Arbeiten, die
                                     wir in Salzburg und Linz geleistet haben, am zuständigen Ort
                                     vertritt. Wir haben nicht nur für uns und für die Zeitungen
                                     gearbeitet, wir haben offizielle Arbeit geleistet und die soll
-                                    doch auch irgendwo ihren Auzdruck finden und zur Kenntnis
+                                    doch auch irgendwo ihren Ausdruck finden und zur Kenntnis
                                     gebracht werden. In erster Linie gilt das für die Regierung. Ich
                                     halte mich überzeugt, daß der Herr Staatskanzler gewiß die
                                     Berichte lesen wird über die Länderkonferenz, aber er ist nicht
                                     verpflichtet, davon nähere Kenntnis zu nehmen und ebensowenig
                                     ist der Herr Staatssekretär verpflichtet, hier der Vertreter,
-                                    der Vormund der Länderkonferenz zu fein und unfere Angelegenheit
-                                    gegenüber dem Staatsfanzler zur Sprache zu bringen.</p>
+                                    der Vormund der Länderkonferenz zu sein und unsere Angelegenheit
+                                    gegenüber dem Staatskanzler zur Sprache zu bringen. </p>
                               <p>Wir haben den Weg gewählt, jeweils einen Landesrat mit der Aufgabe
                                     zu betrauen, und diese Aufgabe übernimmt der steiermärkische
                                     Landesrat. Was sich weiter ergeben wird, wissen wir alle
-                                    miteinänder nicht. Vielleicht ergibt sich die Notwendigkeit,
-                                    eine dritte Länderkonferenz einzuberufen. Ich hälte es für den
+                                    miteinander nicht. Vielleicht ergibt sich die Notwendigkeit,
+                                    eine dritte Länderkonferenz einzuberufen. Ich halte es für den
                                     Augenblick nicht für wahrscheinlich, daß es dazu kommt, aber
                                     immerhin für möglich. Wenn sich eine solche Notwendigkeit er<pb
-                                          facs="#facs_70" n="70" xml:id="img_0070" break="no"/>geben
-                                    follte, dann mußz iemand da fein, der diese Notwendigkeit
-                                    erkennt. der diese Notwendigkeit in einem Kreise bespricht,
-                                    parteimäßig bespricht, was in Steiermark möglich ist, weil dort
-                                    alle drei Varteien in der Landesregierung vertreten find, und
-                                    der die notwendigen Vorarbeiten und Durchführungen bollzieht. Es
-                                    mußz auch für diese ebentuellen Fälle vorgeforgt fein.</p>
+                                          facs="#facs_70" n="70" xml:id="img_0070" break="no"/><fw
+                                          type="pageNum">74</fw>geben sollte, dann muß jemand da
+                                    sein, der diese Notwendigkeit erkennt, der diese Notwendigkeit
+                                    in einem Kreise bespricht, parteimäßig bespricht, was in
+                                    Steiermark möglich ist, weil dort alle drei Parteien in der
+                                    Landesregierung vertreten sind, und der die notwendigen
+                                    Vorarbeiten und Durchführungen vollzieht. Es muß auch für diese
+                                    eventuellen Fälle vorgesorgt sein.</p>
                               <p>In diesem Sinne habe ich den Antrag gestellt und bitte die
-                                    Vertreter der fozialdemokratichen Partei. in diesem Antrage
+                                    Vertreter der sozialdemokratischen Partei, in diesem Antrage
                                     nichts anderes zu suchen, als was ich jetzt ausgeführt habe.
                                     Wenn Sie das tun, so können Sie ohneweiters Ihre Stimme für
-                                    diesen Antrag abgeben.</p>
+                                    diesen Antrag abgeben. </p>
                         </sp>
                         <sp>
                               <speaker>Herr Vorsitzender Landeshauptmann <emph>Doktor
-                                          Mintelen</emph>:</speaker>
+                                          Rintelen</emph>:</speaker>
                               <p>Wünscht noch jemand das Wort? Da ist bezüglich dieses Punktes eine
                                     Einstimmigkeit nicht vorhanden. Es ist seinerzeit beschlossen
                                     worden, keine Abstimmungen vorzunehmen.</p>
-                              <p>Jedenfalls fann das nur in den einzelnen Parteien geschehen.</p>
+                              <p>Jedenfalls kann das nur in den einzelnen Parteien geschehen.</p>
                               <p>Abgestimmt wird ja hier nicht.</p>
                               <p>Ist hier doch nicht noch eine Einigung möglich?</p>
                         </sp>
                         <sp>
-                              <speaker>Herr Abgeordneter Runschak (Wien):</speaker>
-                              <p> Es muß emand da fein, der die Sache zum A6- doch schluß
-                                    bringt.</p>
+                              <speaker>Herr Abgeordneter <emph>Kunschak</emph> (Wien):</speaker>
+                              <p> Es muß doch jemand da sein, der die Sache zum Abschluß bringt.
+                              </p>
                         </sp>
                         <sp>
-                              <speaker>Herr Gemeinderat <emph>Dr. Danneberg</emph> (Wien); </speaker>
-                              <p>Der Herr Staatsfanzler hat einen Referenten hieher geschickt, daß
+                              <speaker>Herr Gemeinderat <emph>Dr. Danneberg</emph> (Wien):</speaker>
+                              <p>Der Herr Staatskanzler hat einen Referenten hieher geschickt, daß
                                     er der Verhandlung folgen und auch berichten soll. Der Herr
-                                    Staatssekretär ist auch der Referent, fein Vormund, aber
-                                    Vollzugsorgan der Länder.</p>
+                                    Staatssekretär ist auch der Referent, kein Vormund, aber
+                                    Vollzugsorgan der Länder. </p>
                         </sp>
                         <sp>
-                              <speaker> Herr Abgeordneter Runschak (Wien): </speaker>
-                              <p>Da nutt nichts. Wir müssen zur Kenntnis nehmen, daß die
-                                    Sozialdemotraten sich für diesen Antrag nicht ausgesprochen
-                                    haben und werden die Sache an den Tandesrat bringen, ob er einem
-                                    solchen Wunsche entsprechen will.</p>
+                              <speaker> Herr Abgeordneter <emph>Kunschak</emph> (Wien): </speaker>
+                              <p>Da nutzt nichts. Wir müssen zur Kenntnis nehmen, daß die
+                                    Sozialdemokraten sich für diesen Antrag nicht ausgesprochen
+                                    haben und werden die Sache an den Landesrat bringen, ob er einem
+                                    solchen Wunsche entsprechen will. </p>
                         </sp>
                         <sp>
-                              <speaker>Herr Landeshauptmann Dr. Rintelen: </speaker>
+                              <speaker>Herr Landeshauptmann <emph>Dr. Rintelen</emph>: </speaker>
                               <p>Für diesen Antrag erklären sich die Christlichsozialen und
                                     Großdeutschen, die Sozialdemokraten lehnen ihn ab. (Herr Dr.
-                                    Danneberg: „Für den ersten Antrag sind wir auch 1“ </p>
-                              <p>Hat noch jemand eine Anregung oder einen Antrag? (Gs ift nicht der
-                                    Fall.</p>
-                              <p>Wenn ich hiemit die Linzer Länderkonferenz chließe, kann ich mit
+                                    Danneberg: „Für den ersten Antrag sind wir auch!“)</p>
+                              <p>Hat noch jemand eine Anregung oder einen Antrag? (Es ist nicht der
+                                    Fall.) </p>
+                              <p>Wenn ich hiemit die Linzer Länderkonferenz schließe, kann ich mit
                                     Vergnügen feststellen, daß sie sich würdig an die Salzburger
                                     Beratungen angeschlossen hat. Der Erfolg liegt darin, daß durch
                                     gegenseitige Aussprache manche Differenzen überbrückt oder doch
                                     gewisse Annäherungen erzielt worden sind. Aber auch dort, wo
-                                    Gegensätze geblieben find, wurde durch Herausarbeitung der
+                                    Gegensätze geblieben sind, wurde durch Herausarbeitung der
                                     prinzipiellen Auffassung die weitere Entwicklung der Sache
-                                    gefördert, wie überhaupt die Ländertonferenzen den Vorteil
-                                    haben, daß sie die Länderpfnchologisch einander näher bringen,
-                                    was auch dem Staaté als Ganzem gewiß förderlich ist.</p>
+                                    gefördert, wie überhaupt die Länderkonferenzen den Vorteil
+                                    haben, daß sie die Länder psychologisch einander näher bringen,
+                                    was auch dem Staate als Ganzem gewiß förderlich ist. </p>
                               <p>Indem ich nochmals dem Linzer Landesrate für die Aufmerksamkeit und
-                                    Gaftfreundschaft danke, reut es mich, der Genuatuung Ausdruck
-                                    geben zu können, daß wir durch die wefentliche Förderung des
+                                    Gastfreundschaft danke, freut es mich, der Genugtuung Ausdruck
+                                    geben zu können, daß wir durch die wesentliche Förderung des
                                     Verfassungswerkes dem Ausbau des Staatswesens, für den die
                                     Länderkonferenz stets geschichtliche Bedeutung haben wird,
                                     wieder ein so beträchtliches Stück näher gekommen sind. Die
                                     Länder nehmen es für sich in Anspruch, ihren Einfluß auf den
-                                    weiteren Ausbau des Verfafsungswerfes entsprechend zur Geltung
+                                    weiteren Ausbau des Verfassungswerkes entsprechend zur Geltung
                                     zu bringen. </p>
                               <p>Die Konferenz ist geschlossen.</p>
                               <p>(Schluß der Sitzung um 12 Uhr mittags.)</p>
