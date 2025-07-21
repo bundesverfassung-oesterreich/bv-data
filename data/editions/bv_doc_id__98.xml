@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__96">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__98">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">CS Entwurf I Textvariante</title>
+                <title type="main">Positionspapier Föderative Republik Deutschösterreich</title>
                 <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
@@ -56,23 +56,23 @@
                         <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
                     </licence>
                 </availability>
-                <idno type="transkribus_doc">9199218</idno>
+                <idno type="transkribus_doc">9217641</idno>
                 <idno type="transkribus_collection">196429</idno>
                 <idno type="bv_data_set">Datenset C</idno>
-                <idno type="goobi">18760</idno>
+                <idno type="goobi">18766</idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
                         <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
-                        <idno type="archive">KVVI-Archiv, Christlichsozialer Parlamentsclub, Karton 93</idno>
+                        <idno type="archive">KVVI-Archiv, Christlichsozialer Parlamentsclub, Karton 94</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
                             <author role="acdh:hasAuthor">Christlichsoziale Partei</author>
-                            <title>CS Entwurf I Textvariante</title>
-                            <note type="editor">CS Entwurf I Textvariante (Titel des Dokuments: "Bundesverfassung des deutschen Freistaates Österreich"), Typ: Typoskript, Zustand: gut, keine Ergänzungen, 53 Artikel. BEMERKUNG: Offenbar Vorstufe zu CS I, gegenüber dem definitiven Entwurf mehrere textliche Abweichungen</note>
+                            <title>Positionspapier Föderative Republik Deutschösterreich</title>
+                            <note type="editor">Verfassungskonzept der Christlichsozialen (Titel des Dokuments: "Föderative Republik Deutschösterreich"), weneger Verfassungsentwurf, als viel mehr Konzeptpapier, was ein solcher vom Standpunkt der Christlichsozialen inhaltlich enthalten muss. Zustand gut, wenige Anmerkungen.</note>
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -82,7 +82,7 @@
                         </handDesc>
                     </physDesc>
                     <history>
-                        <origin notBefore-iso="1919-01-01" notAfter-iso="1919-05-13">Vor dem 14. Mai 1919</origin>
+                        <origin notBefore-iso="1919-12-18" notAfter-iso="1920-01-22">Vor dem 14. Mai 1919</origin>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -92,7 +92,7 @@
                 <p/>
             </abstract>
             <creation>
-                <date notBefore-iso="1919-01-01" notAfter-iso="1919-05-13">
+                <date notBefore-iso="1919-12-18" notAfter-iso="1920-01-22">
                     Vor dem 14. Mai 1919
                 </date>
             </creation>
@@ -136,9 +136,25 @@
          </surface>
       <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_18">
          </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_19">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_20">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_21">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_22">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_23">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_24">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_25">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_26">
+         </surface>
    </facsimile>
    
-    <text type="Verfassungsentwurf">
+    <text type="Verfassungskonzept">
         <body>
          <div type="main">
             <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
@@ -158,6 +174,14 @@
             <pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>
             <pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>
             <pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>
+            <pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/>
+            <pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/>
+            <pb facs="#facs_21" n="21" xml:id="img_0021" break="yes"/>
+            <pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/>
+            <pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"/>
+            <pb facs="#facs_24" n="24" xml:id="img_0024" break="yes"/>
+            <pb facs="#facs_25" n="25" xml:id="img_0025" break="yes"/>
+            <pb facs="#facs_26" n="26" xml:id="img_0026" break="yes"/>
          </div>
       </body>
    
