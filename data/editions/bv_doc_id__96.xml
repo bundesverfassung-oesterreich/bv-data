@@ -62,27 +62,37 @@
                 <idno type="goobi">18760</idno>
             </publicationStmt>
             <sourceDesc>
-                <msDesc type="invetory">
+                <listWit>
+                    <witness sameAs="#bv_doc_id__31"/>
+                    <witness sameAs="#bv_doc_id__66"/>
+                </listWit>
+                <msDesc type="invetory" subtype="secondary">
                     <msIdentifier>
-                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
-                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
-                        <idno type="archive">KVVI-Archiv, Christlichsozialer Parlamentsclub, Karton 93</idno>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
+                            Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik
+                            (Wien)</repository>
+                        <idno type="archive">KVVI-Archiv, Christlichsozialer Parlamentsclub, Karton
+                            93</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
                             <author role="acdh:hasAuthor">Christlichsoziale Partei</author>
                             <title>CS Entwurf I Textvariante</title>
-                            <note type="editor">CS Entwurf I Textvariante (Titel des Dokuments: "Bundesverfassung des deutschen Freistaates Österreich"), Typ: Typoskript, Zustand: gut, keine Ergänzungen, 53 Artikel. BEMERKUNG: Offenbar Vorstufe zu CS I, gegenüber dem definitiven Entwurf mehrere textliche Abweichungen</note>
+                            <note type="editor">CS Entwurf I Textvariante (Titel des Dokuments:
+                                "Bundesverfassung des deutschen Freistaates Österreich"), Typ:
+                                Typoskript, Zustand: gut, keine Ergänzungen, 53 Artikel. BEMERKUNG:
+                                Offenbar Vorstufe zu CS I, gegenüber dem definitiven Entwurf mehrere
+                                textliche Abweichungen</note>
                         </msItem>
                     </msContents>
                     <physDesc>
-                        <objectDesc form="Typoskript">
-                        </objectDesc>
-                        <handDesc>
-                        </handDesc>
+                        <objectDesc form="Typoskript"/>
+                        <handDesc/>
                     </physDesc>
                     <history>
-                        <origin notBefore-iso="1919-01-01" notAfter-iso="1919-05-13">Vor dem 14. Mai 1919</origin>
+                        <origin notBefore-iso="1919-01-01" notAfter-iso="1919-05-13">Vor dem 14. Mai
+                            1919</origin>
                     </history>
                 </msDesc>
             </sourceDesc>
