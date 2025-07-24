@@ -70,7 +70,7 @@
                               <witness sameAs="#bv_doc_id__20"/>
                               <witness sameAs="#bv_doc_id__26"/>
                         </listWit>
-                        <msDesc type="invetory">
+                        <msDesc type="invetory" subtype="primary">
                               <msIdentifier>
                                     <institution key="https://d-nb.info/gnd/37748-X"
                                           >Österreichisches Staatsarchiv</institution>
