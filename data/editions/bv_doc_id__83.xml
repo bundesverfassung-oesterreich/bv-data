@@ -67,37 +67,39 @@
                               <witness sameAs="#bv_doc_id__30"/>
                               <witness sameAs="#bv_doc_id__18"/>
                         </listWit>
-                <msDesc type="invetory">
-                    <msIdentifier>
-                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
-                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
-                        <idno type="archive">AdR, Büro Seitz, Karton 7</idno>
-                    </msIdentifier>
-                    <msContents>
-                        <msItem>
-                            <author role="acdh:hasAuthor">Länderkonferenz</author>
-                            <title>Evidenzexemplar Entwurf maschinschriftlich - Sozialdemokratische
-                                                Fassung</title>
-                            <note type="editor">Evidenzexemplar Entwurf maschinschriftlich -
-                                                Sozialdemokratische Fassung (basierend auf Mayr II
-                                                -> Titel des Dokuments: "Zweite Fassung Vorentwurf
-                                                einer Bundesstaatsverfassung. Mit Ersichtlichmachung
-                                                der Ergebnisse der Linzer Länderkonferenz").
+                <msDesc type="invetory" subtype="primary">
+                              <msIdentifier>
+                                    <institution key="https://d-nb.info/gnd/37748-X"
+                                          >Österreichisches Staatsarchiv</institution>
+                                    <repository key="https://d-nb.info/gnd/1601181-8">Archiv der
+                                          Republik (Wien)</repository>
+                                    <idno type="archive">AdR, Büro Seitz, Karton 7</idno>
+                              </msIdentifier>
+                              <msContents>
+                                    <msItem>
+                                          <author role="acdh:hasAuthor">Länderkonferenz</author>
+                                          <title>Evidenzexemplar Entwurf maschinschriftlich -
+                                                Sozialdemokratische Fassung</title>
+                                          <note type="editor">Evidenzexemplar Entwurf
+                                                maschinschriftlich - Sozialdemokratische Fassung
+                                                (basierend auf Mayr II -> Titel des Dokuments:
+                                                "Zweite Fassung Vorentwurf einer
+                                                Bundesstaatsverfassung. Mit Ersichtlichmachung der
+                                                Ergebnisse der Linzer Länderkonferenz").
                                                 Parteienstandpunkte maschinschriftlich eingetragen
                                                 (rote bzw. schwarze Tinte), Zustand gut, zahlreiche
                                                 maschinschriftliche Ergänzungen, 157 Artikel</note>
-                        </msItem>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc form="Druck">
-                        </objectDesc>
-                        <handDesc>
-                        </handDesc>
-                    </physDesc>
-                    <history>
-                        <origin notBefore-iso="1920-04-24" notAfter-iso="1920-07-08">Zwischen 24. April 1920 und 8. Juli 1920</origin>
-                    </history>
-                </msDesc>
+                                    </msItem>
+                              </msContents>
+                              <physDesc>
+                                    <objectDesc form="Druck"/>
+                                    <handDesc/>
+                              </physDesc>
+                              <history>
+                                    <origin notBefore-iso="1920-04-24" notAfter-iso="1920-07-08"
+                                          >Zwischen 24. April 1920 und 8. Juli 1920</origin>
+                              </history>
+                        </msDesc>
                 <relatedItem type="based_on" target="bv_doc_id__30"/>
             </sourceDesc>
         </fileDesc>

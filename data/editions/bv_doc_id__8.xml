@@ -63,9 +63,13 @@
                         <idno type="goobi">14513</idno>
                   </publicationStmt>
                   <sourceDesc>
-                        <msDesc type="invetory">
+                        <listWit>
+                              <witness sameAs="#bv_doc_id__99"/>
+                        </listWit>
+                        <msDesc type="invetory" subtype="primary">
                               <msIdentifier>
-                                    <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                                    <institution key="https://d-nb.info/gnd/37748-X"
+                                          >Österreichisches Staatsarchiv</institution>
                                     <repository key="https://d-nb.info/gnd/1601181-8">Archiv der
                                           Republik (Wien)</repository>
                                     <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton
@@ -81,8 +85,8 @@
                                     </msItem>
                               </msContents>
                               <physDesc>
-                                    <objectDesc form="Lithographie"> </objectDesc>
-                                    <handDesc> </handDesc>
+                                    <objectDesc form="Lithographie"/>
+                                    <handDesc/>
                               </physDesc>
                               <history>
                                     <origin notBefore-iso="1919-10-07" notAfter-iso="1919-10-07">7.
