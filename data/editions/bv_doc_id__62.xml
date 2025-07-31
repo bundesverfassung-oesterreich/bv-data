@@ -63,9 +63,10 @@
             </publicationStmt>
             <sourceDesc>
                         <listWit>
+                              <witness sameAs="#bv_doc_id__92"/>
                               <witness sameAs="#bv_doc_id__11"/>
                         </listWit>
-                <msDesc type="invetory" subtype="primary">
+                <msDesc type="invetory" subtype="secondary">
                               <msIdentifier>
                                     <institution key="https://d-nb.info/gnd/37748-X"
                                           >Österreichisches Staatsarchiv</institution>
