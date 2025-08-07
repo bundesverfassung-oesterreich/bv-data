@@ -855,14 +855,21 @@
                 <head>Artikel 50.</head>
                 <p type="legal_section"><label>(1)</label> Dem Präsidenten des Bundestages obliegt
                   außer den ihm nach anderen Bestimmungen dieser Verfassung übertragenen Befugnissen
-                  ferner: a) die Ernennung der Bundesangestellten (einschließlich der Offiziere) und
-                  der sonstigen Bundesfunktionäre und die Verleihung von Amtstiteln an solche; b)
-                  die Schaffung von Amts- und Berufstiteln, die Verleihung der Berufstitel; c) die
-                  Begnadigung der von den Gerichten rechtskräftig Verurteilten, die Milderung und
-                  Umwandlung der von den Gerichten ausgesprochenen Strafen, die Nachsicht von
-                  Rechtsfolgen und die Tilgung von Verurteilungen, ferner die Abolution von
-                  strafgerichtlichen Verfahren; d) die Erklärung unehelicher Kinder zu ehelichen
-                  über Ansuchen der Eltern. </p>
+                  ferner: <list>
+                    <label>a) </label>
+                    <item>die Ernennung der Bundesangestellten (einschließlich der Offiziere) und
+                      der sonstigen Bundesfunktionäre und die Verleihung von Amtstiteln an solche;  </item>
+                    <label>b) </label>
+                    <item>die Schaffung von Amts- und Berufstiteln, die Verleihung der Berufstitel;  </item>
+                    <label>c) </label>
+                    <item>die Begnadigung der von den Gerichten rechtskräftig Verurteilten, die
+                      Milderung und Umwandlung der von den Gerichten ausgesprochenen Strafen, die
+                      Nachsicht von Rechtsfolgen und die Tilgung von Verurteilungen, ferner die
+                      Abolution von strafgerichtlichen Verfahren; </item>
+                    <label>d) </label>
+                    <item>die Erklärung unehelicher Kinder zu ehelichen über Ansuchen der Eltern.
+                    </item>
+                  </list></p>
                 <p type="legal_section"><label>(2)</label> Inwieweit dem Präsidenten des Bundestages
                   außerdem noch Befugnisse hinsichtlich Gewährung von Ehrenrechten,
                   außerordentlichen Zuwendungen, Zulagen und Versorgungsgenüssen, Ernennungs- und
