@@ -100,6 +100,7 @@
         <revisionDesc status="structured">
             <change when="2025-07-29" who="#cfh">document automatically created</change>
             <change when="2025-07-31" who="#m_huber">@ Sophia: Gegenlesen</change>
+            <change when="2025-08-08" who="#s_kury">Neu Geschrieben bis § 6</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -150,16 +151,55 @@
                 <pb facs="#facs_1" n="1" xml:id="img_0001" break="yes"/>
                 <head>Verfassung des Bundesstaates Österreich.</head>
                 <div type="section">
-                    <head>I. Staatshoheit, Verfassungsschaffung und Verfassungsänderung</head>
-                    <div type="article"/>
-                    <div type="article"/>
-                    <div type="article"/>
-                    <div type="article"/>
-                    <div type="article"/>
-                    <div type="article"/>
-                    <div type="article"/>
-                    <div type="article"/>
-                    <div type="article"/>
+                    <head>I. Staatshoheit, Verfassungsschaffung und Verfassungsänderung.</head>
+                    <div type="article">
+                        <head>§ 1</head>
+                        <p>Die durch die Auflösung der österreichischen Monarchie selbständig
+                            gewordenen Länder Kärnten, Oesterreich ob der Enns, Oesterreich unter
+                            der Enns, Salzburg, Steiermark, Tirol, Vorarlberg und die freie Stadt
+                            Wien schliessen sich als selbständige Staaten durch freien Vertrag zum
+                            Bundesstaat Oesterreich zusammen.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 2</head>
+                        <p>Sie beschränken sich in der Ausübung ihrer Staatshoheit zu Gunsten der
+                            Bundesgewalt freiwillig im Ausmass der nachfolgenden Verfassung.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 3</head>
+                        <p>Durch die Bundesschließung entäußerten sich die Länder nicht ihrer
+                            Staatshoheit auf den der Bundesgewalt überlassenen Gebieten, sondern
+                            übertragen derselben lediglich auf diesem Wege eines Mandates für
+                            Bundesdauer die legislative und exekutive Ausübung derselben.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 4</head>
+                        <p>Die Länder nehmen die Gründung des Bundes durch den Bundesrat vor. Ihm
+                            allein steht es zu, die Bundesverfassung zu schaffen und nachträglich
+                            abzuändern. </p>
+                    </div>
+                    <div type="article">
+                        <head>§ 5</head>
+                        <p>Der Bundesrat besteht aus je 10 Delegierten, welche die Landtage der
+                            einzelnen Länder in denselben entscheiden. Der Gemeinderat der Stadt
+                            Wien spielt hierbei die Rolle eines Landtags.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 6</head>
+                        <p/>
+                    </div>
+                    <div type="article">
+                        <head>§ 7</head>
+                        <p/>
+                    </div>
+                    <div type="article">
+                        <head>§ 8</head>
+                        <p/>
+                    </div>
+                    <div type="article">
+                        <head>§ 9</head>
+                        <p/>
+                    </div>
                     <div type="article">
                         <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
                         <fw type="pageNum">2</fw>
