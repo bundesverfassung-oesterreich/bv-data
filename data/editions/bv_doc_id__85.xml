@@ -97,10 +97,10 @@
                 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="structured">
+        <revisionDesc status="text_correct">
             <change when="2025-07-29" who="#cfh">document automatically created</change>
             <change when="2025-07-31" who="#m_huber">@ Sophia: Gegenlesen</change>
-            <change when="2025-08-08" who="#s_kury">Neu geschrieben bis S. 7, § 47</change>
+            <change when="2025-08-15" who="#s_kury">Text fertig neu erstellt </change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -472,97 +472,393 @@
                             <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
                             <fw type="pageNum">6</fw>
                         </div>
-                        <div type="article"/>
-                        <div type="article"/>
-                        <div type="article"/>
-                        <div type="article"/>
-                        <div type="article"/>
+                        <div type="article">
+                            <head>§ 47</head>
+                            <p>Die Führung der bundesstaatlichen Statistik.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 48</head>
+                            <p>Das Arbeitsrecht, Frauen- und Kinderschutz, das soziale
+                                Versicherungswesen, soweit es sich um Verhältnisse der industriellen
+                                Arbeiterschaft handelt.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 49</head>
+                            <p>Die Gesetzgebung auf dem Gebiete des Straf- und Zivilrechtes sowie
+                                Prozesses, die Gesetzgebung auf dem Gebiete der
+                                Konsulgerichtsbarkeit sowie Regelung derselben. Die Gesetzgebung
+                                betreffend die Rechtsverhältnisse am Grund und Boden bleibt den
+                                Ländern vorbehalten, innerhalb vom Bundesrate auf dem Wege der
+                                Verfassung genau festgelegten Grenzen.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 50</head>
+                            <p>Die Regelung des Handels- und Wechselrechtes, des Patentwesens,
+                                Marken- und Musterschutz, der Schutz des geistigen Eigentums, das
+                                Münz- und Währungswesen, die Bundesbank, das Punzierungswesen, Mass
+                                und Gewicht, Das Zollwesen.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 51</head>
+                            <p>Das Verkehrswesen (Eisenbahnen, Schiffahrt, Luftschiffahrt, Post,
+                                Telegraph und Telephon, soferne es sich hiebei um Materien handelt,
+                                die über die Grenzen des einzelnen Landes hinaus öffentliche
+                                Interessen tangieren.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 52</head>
+                            <p>Nähere Ausgestaltung der Bundesverfassung innerhalb der Grenzen,
+                                welche der Bundesrat durch die von ihm beschlossene Verfassung
+                                gezogen hat.</p>
+                        </div>
                     </div>
                     <div type="section">
                         <head>C. Die Legislative des Bundes:</head>
                         <div type="section">
                             <head>a) das legislative Organ.</head>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
+                            <div type="article">
+                                <head>§ 53</head>
+                                <p>Das gesetzgebende Organ des Bundes ist der Bundestag. - Er
+                                    besteht aus einem Ober- und Unterhaus.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 54</head>
+                                <p>Beide Häuser werden in gleicher, geheimer unmittelbarer
+                                    Abstimmung nach dem Verhältniswahlrecht aus dem ganzen Bunde
+                                    gewählt. Wahlberechtigt ist jeder Bundesbürger, der durch das
+                                    Wahlgesetz vom Wahlrecht nicht ausgeschlossen ist.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 55</head>
+                                <p>Die Altersgrenze für das aktive Wahlrecht ist im Oberhaus 30, im
+                                    Unterhaus 20 Jahre. Für das passive Wahlrecht im Oberhaus 35, im
+                                    Unterhaus 25 Jahre.</p>
+                            </div>
                             <div type="article">
                                 <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
                                 <fw type="pageNum">7</fw>
                             </div>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
+                            <div type="article">
+                                <head>§ 56</head>
+                                <p>Die Wahlkreise dürfen die Landesgrenzen nicht überschrieten. die
+                                    sollen für das Oberhaus beiläufig 80.000 Einwohner, für das
+                                    Unterhaus beiläufig 40.000 Einwohner umfassen.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 57</head>
+                                <p>Die Mandatsdauer ist im Unterhaus 4, im Oberhaus 8 Jahre.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 58</head>
+                                <p>Beide Häuser treten getrennt unter dem Vorsitze ihres Aeltesten
+                                    zusammen und wählen ihre Leitung, die aus einem Vorsitzenden, 2
+                                    Stellvertretern, 3 Schriftführern besteht, auf ein Jahr. Die
+                                    Verhandlungen beider Kammern sind immer getrennt.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 59</head>
+                                <p>Das Vorschlagrecht (die Initiative) steht dem Präsidenten des
+                                    Bundesfreistaates der Bundesregierung jeder der beiden Kammern
+                                    und jedem einzelnen Mitgliede zu. Wenn hunderttausend
+                                    stimmberechtigte Bundesbürger es fordern, steht die Initiative
+                                    auch beim Volk.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 60</head>
+                                <p>Vorlagen der Bundesregierung können in jeder der beiden Kammern
+                                    eingebracht werden.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 61</head>
+                                <p>Zu einem giltigen Beschluss ist in beiden Kammern die Anwesenheit
+                                    eines vollen Drittels der Mitglieder erforderlich. Es
+                                    entscheidet die absolute Mehrheit der Anwesenden.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 62</head>
+                                <p>Zur Erledigung aller Angelegenheiten im Wirkungskreis des
+                                    Bundestages ist der übereinstimmende Beschluss beider Kammern
+                                    erforderlich.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 63</head>
+                                <p>Wenn trotz zweimaliger Beratung die Uebereinstimmung beider
+                                    Kammern nicht erreicht werden kann, dann hat das Oberhaus das
+                                    Recht, ein Referendum im ganzen Bunde anzuordnen. Die
+                                    Stimmenzählung findet hiebei nicht länderweise statt, wie bei
+                                    den vom Bundesrat angeordneten Referenden (siehe § 15, 18, 21),
+                                    sondern es entscheidet die Majorität der Stimmen des ganzen
+                                    Bundes.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 64</head>
+                                <p>Wenn das Oberhaus auf dieses Referendum verzichtet, dass gilt der
+                                    Beschluss des Unterhauses als Beschluss des Bundestages.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 65</head>
+                                <p>Zur giltigen Erledigung dieser Angelegenheiten im Wirkungskreis
+                                    des Bundestages ist ausserdem die Zustimmung des Präsidenten
+                                    erforderlich.</p>
+                            </div>
                             <div type="article">
                                 <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
                                 <fw type="pageNum">8</fw>
                             </div>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
+                            <div type="article">
+                                <p>wenn der Präsident seine Zustimmung weiter verweigert, trotzdem
+                                    rechtskräftig.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 66</head>
+                                <p>Die Mitglieder der Bundesregierung sind berechtigt, an allen
+                                    Verhandlungen des Bundestages teilzunehmen und kann ihre
+                                    Anwesenheit auch von letzterem gefordert werden.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 67</head>
+                                <p>Die Sitzungen beider Kammern sind öffentlich, sofern dieselben
+                                    nicht ausdrücklich das Gegenteil beschliessen.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 68</head>
+                                <p>Die Mitglieder beider Kammern werden aus der Bundeskasse
+                                    bezahlt.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 69</head>
+                                <p>Die Verhandlungssprache ist ausschließlich die deutsche.</p>
+                            </div>
                         </div>
                         <div type="section">
                             <head>b) Die Kompetenz des legislativen Organes:</head>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
+                            <div type="article">
+                                <head>§ 70</head>
+                                <p>In den Wirkungskreis des Bundestages fällt der legislative Teil
+                                    aller jener Angelegenheiten, die der Bundesrat durch
+                                    Verfassungsgebung der Bundesgewalt überträgt. (insbesondere auch
+                                    Wahlgesetz zum Bundestage und Geschäftsordnung desselben).
+                                    Ferner</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 71</head>
+                                <p>Die Entscheidung über Krieg und Frieden.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 72</head>
+                                <p>Die Prüfung und Genehmigung der Staats- und Handelsverträge.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 73</head>
+                                <p>Die jährliche Prüfung und Genehmigung der Führung des
+                                    Bundeshaushaltes und der Rechnungsabschlüsse, die jährliche
+                                    Bewilligung der Steuern und Abgaben.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 74</head>
+                                <p>Die Erhebung der Staatsanklage.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 75</head>
+                                <p>Die Ausuebung der Kontrolle der Bundesschulen.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 76</head>
+                                <p>Jede Kammer ist berechtigt, die Mitglieder der Bundesregierung zu
+                                    interpellieren, in allem, was ihr Wirkungskreis erfordert,
+                                    Ausschüsse einzusetzen und ihrer Ansicht in Form von
+                                    Entschliessungen Ausdruck zu verleihen.</p>
+                            </div>
                         </div>
                     </div>
                     <div type="section">
                         <head><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><fw
-                                type="pageNum">9</fw>D. Exekutive des Bundes</head>
+                                type="pageNum">9</fw>D. Exekutive des Bundes:</head>
                         <div type="section">
                             <head>a) Präsident und Vizepräsidenten:</head>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
+                            <div type="article">
+                                <head>§ 77</head>
+                                <p>Die Wahl des Präsidenten und Vizepräsidenten des Bundes findet
+                                    durch den Bundesrat statt. (§ 27)</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 78</head>
+                                <p>Passiv wahlberechtigt ist jeder Staatsbürger, der nach dem
+                                    Wahlgesetz zum Bundestag wahlberechtigt ist und das 40.
+                                    Lebensjahr vollendet hat.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 79</head>
+                                <p>Präsident und Vizepräsident müssen verschiedenen Ländern
+                                    angehören und dürfen während ihrer Amtsdauer kein anderes
+                                    öffentliches Amt bekleiden und weder Mitglieder des
+                                    Bundesstaates noch des Bundestages sein.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 80</head>
+                                <p>Präsident und Vizepräsident leisten in die Hand des Präsidenten
+                                    des Bundesrates die Angelobung auf die Bundesverfassung.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 81</head>
+                                <p>Der Präsident vertritt den Bundesstaat nach aussen, empfängt und
+                                    beglaubigt die Gesandten, ihm obliegt ferner Erstattung von
+                                    Vorschlägen über die Bestellung oder Abberufung der
+                                    Bundesregierung an den Bundestag. Die Ernennung und Abberufung
+                                    der diplomatischen und kommerziellen Vertreter im Auslande. Die
+                                    Zeichnung der Bundesgesetze und Beschlüsse (siehe § 65)</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 82</head>
+                                <p>Dem Präsidenten des Bundesstaates steht das Recht der Ablition zu
+                                    sowie das Recht  Strafnachlass und Aufhebung der Straffolgen zu
+                                    gewähren, sowie das Recht der Initiative (§ 59).</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 83</head>
+                                <p>Der Präsident ist dem Volke für seine Amtsführung verantwortlich
+                                    und kann unter Staatsanklage gestellt werden.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 84</head>
+                                <p>Wenn der Präsident des Bundesstaates aus irgend einem Grund sein
+                                    Amt verliert, tritt der Vizepräsident für die restliche Dauer
+                                    der Amtsperiode in seine Rechte und Pflichten. Auch während
+                                    seiner Amtsdauer kann der Präsident den Vizepräsidenten für
+                                    einen bestimmten Fall oder auf bestimmte Zeit mit seiner
+                                    Stellvertretung betrauen (zum Beispiel bei Abwesenheit des
+                                    Präsidenten im Auslande.)</p>
+                            </div>
                         </div>
                         <div type="section">
                             <head><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><fw
-                                    type="pageNum">10</fw>c) die Bundesregierung</head>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
+                                    type="pageNum">10</fw>c) die Bundesregierung.</head>
+                            <div type="article">
+                                <head>§ 85</head>
+                                <p>Zur Durchführung der Aufgaben der obersten Bundesverwaltung wählt
+                                    der Bundestag über Vorschlag des Präsidenten des Bundesrates die
+                                    Bundesregierung.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 86</head>
+                                <p>Der Sitz der Bundesregierung ist die Bundeshauptstadt wien. Die
+                                    Bundesregierung steht unter der Leitung des Bundeskanzlers.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 87</head>
+                                <p>Welche Bundesämter mit dauernden Aufträgen und Vollmachten
+                                    einzurichten und von den Mitgliedern der Bundesregierung zu
+                                    bestzen sind, wird durch ein besonderes Gesetz des Bundestages
+                                    bestimmt, sofern sich dies der Bundesrat nicht durch die
+                                    Verfassung für einzelne Fälle vorbehalten hat.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 88</head>
+                                <p>Wenn der Bundestag auf Vorschlag des Präsidenten des
+                                    Bundesstaates die Bundesregierung oder einzelne Mitgleider
+                                    derselben abberuft, so bestimmt der Präsident des Bundesstaats
+                                    wer deren Aufträge und Vollmachten bis zur Bestellung einer
+                                    neuen Bundesregierung auszuführen hat.</p>
+                            </div>
                         </div>
                     </div>
                     <div type="section">
                         <head>E. Landesverfassung.</head>
-                        <div type="article"/>
-                        <div type="article"/>
+                        <div type="article">
+                            <head>§ 89</head>
+                            <p>Jedes Land gibt sich seine Verfassung selbst und ist hierin nur durch
+                                die vom Bundesrat in der Bundesverfassung gezogenen Grenzen
+                                beschränkt. Die nährere Bestimmung dieser Grenzen ist durch die
+                                Bundesgrundgesetze (§ 30 - 42) und durch die Aufzählung der vom
+                                Bundesrat dem Bunde überwiesenen Angelegenheiten (§ 43 bis 62)
+                                erschöpft.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 90</head>
+                            <p>Jedes Land ist verpflichtet, die von ihm beschlossenen Landesgesetze
+                                vor ihrer Publizierung dem Bundespräsidenten mitzuteilen, damit
+                                derselbe im Falle sie der Bundesverfassung widersprechen, dem
+                                Verfassungsgerichtshof anzeigen könne. Dies hat innerhalb 14 Tagen
+                                zu geschehen. Der Verfassungsgerichtshof hat sein Urteil innerhalb
+                                längstens eines Monates zu fällen. Erst wenn dieses zustimmend
+                                ausfällt, kann das Landesgesetz publiziert werden.</p>
+                        </div>
                     </div>
                     <div type="section">
                         <head><pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><fw
                                 type="pageNum">11</fw>F. Ständische Autonomien.</head>
-                        <div type="article"/>
+                        <div type="article">
+                            <head>§ 91</head>
+                            <p>Der Bundesrat behält sich ausdrücklich vor den durch einstimmigen
+                                Beschluss Autonomien legislativen und administrativen Charakters in
+                                Angelegenheiten, der von ihnen vertretenen Stände eventuell auch im
+                                Umfange des ganzen Bundes zu gewähren.</p>
+                        </div>
                     </div>
                     <div type="section">
                         <head>G. Allgemeine Bestimmungen über die Rechte und Pflichten der
                             Volksvertreter:</head>
-                        <div type="article"/>
-                        <div type="article"/>
-                        <div type="article"/>
-                        <div type="article"/>
-                        <div type="article"/>
-                        <div type="article"/>
+                        <div type="article">
+                            <head>§ 92</head>
+                            <p>Die Mitgliedschaft im Bundesrat im Oberhaus des Bundestags und im
+                                Unterhaus des Bundestags ist incompatibel. Niemand kann mehr als
+                                eines dieser Aemter gleichzeitig bekleiden. Ueber die Compatibilität
+                                mit einem Landtagsmandat entscheidet die betreffende
+                                Landesverfassung.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 93</head>
+                            <p>Die Mitgleider der drei genannten Volksvertretungen können wegen der
+                                in Ausübung ihres Berufes geschehenen Abstimmung niemals, wegen der
+                                in diesem Berufe gemachten Aeusserungen aber nur von ihrer
+                                Volksvertretung zur Verantwortung gezogen werden.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 94</head>
+                            <p>Kein Mitglied der genannten 3 Volksvertretungen darf während der
+                                Dauer der Wahlperiode wegen einer strafbaren Handlung ausgenommen
+                                bei Ergreifung auf frischer Tat ohne Zustimmung seiner
+                                Volksvertretung vorteilhaft oder gerichtlich verfolgt werden. Im
+                                Falle der Ergreifung auf frischer Tat ist die Volksvertretung, der
+                                der Betroffene angehört, sofort zu verständigen.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 95</head>
+                            <p>Wenn die betreffende Volksvertretung es verlangt, muss der Verhaft
+                                aufgehoben oder die Verfolgung auf die Dauer der ganzen Wahlperiode
+                                aufgeschoben werden. Dasselbe Recht haben die 3 genannten
+                                Volksvertretungen in Betreff einer Verhaftung oder Untersuchung,
+                                welche über ein Mitglied derselben vor der Wahlperiode verhängt
+                                worden ist.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 96</head>
+                            <p>Die Mitgleider der genannten 3 Volksvertretungen haben ihr Stimmrecht
+                                persönlich auszuüben.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 97</head>
+                            <p>die Mandate der Mitglieder der genannten 3 Volksvertretungen
+                                erlöschen mit dem Wahltag für die kommende Wahlperiode. Bestimmungen
+                                über eventuelle Nachwahlen während der Wahlperiode setzen die
+                                betreffenden Wahlgesetze fest.</p>
+                        </div>
+                        <pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>
+                        <fw type="pageNum">12</fw>
+                        <div type="article">
+                            <head>Variante II</head>
+                            <p>§ 14 - § 19 fällt aus und wird durch nichts ersetzt.</p>
+                        </div>
+                        <div type="article">
+                            <head>Variante III</head>
+                            <p>§ 13 - § 19 fällt aus, statt dessen kommt: Zum Beschluss der
+                                Verfassung ist Einstimmigkeit des Bundesratsbeschlusses
+                                erforderlich. Zum Beschluss von Verfassungsänderungen 4/5 Majorität.
+                                Wie die 4/5tel Majorität im vorliegenden Falle zu berechnen ist,
+                                bestimmt der Bundesrat mit einstimmigem Beschluss.</p>
+                        </div>
                     </div>
                 </div>
-                <p><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><fw type="pageNum"
-                        >12</fw></p>
             </div>
       </body>
    
