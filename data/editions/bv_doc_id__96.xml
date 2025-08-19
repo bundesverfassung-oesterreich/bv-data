@@ -112,64 +112,114 @@
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_2">
-         </surface>
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_3">
-         </surface>
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_4">
-         </surface>
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_5">
-         </surface>
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_6">
-         </surface>
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_7">
-         </surface>
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_8">
-         </surface>
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_9">
-         </surface>
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_10">
-         </surface>
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_11">
-         </surface>
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_12">
-         </surface>
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_13">
-         </surface>
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_14">
-         </surface>
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_15">
-         </surface>
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_16">
-         </surface>
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_17">
-         </surface>
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_18">
-         </surface>
-   </facsimile>
-   
+        <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_2">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0118/full/full/0/default.jpg"
+                width="3840px" height="5120px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_3">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0119/full/full/0/default.jpg"
+                width="3840px" height="5120px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_4">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0120/full/full/0/default.jpg"
+                width="3840px" height="5120px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_5">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0121/full/full/0/default.jpg"
+                width="3840px" height="5120px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_6">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0122/full/full/0/default.jpg"
+                width="3840px" height="5120px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_7">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0123/full/full/0/default.jpg"
+                width="3840px" height="5120px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_8">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0124/full/full/0/default.jpg"
+                width="3840px" height="5120px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_9">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0125/full/full/0/default.jpg"
+                width="3840px" height="5120px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_10">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0126/full/full/0/default.jpg"
+                width="3840px" height="5120px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_11">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0127/full/full/0/default.jpg"
+                width="3840px" height="5120px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_12">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0128/full/full/0/default.jpg"
+                width="3840px" height="5120px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_13">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0129/full/full/0/default.jpg"
+                width="3840px" height="5120px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_14">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0130/full/full/0/default.jpg"
+                width="3840px" height="5120px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_15">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0131/full/full/0/default.jpg"
+                width="3840px" height="5120px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_16">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0132/full/full/0/default.jpg"
+                width="3840px" height="5120px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_17">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0133/full/full/0/default.jpg"
+                width="3840px" height="5120px"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_18">
+            <graphic
+                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0134/full/full/0/default.jpg"
+                width="3840px" height="5120px"/>
+        </surface>
+    </facsimile>
+    
     <text type="Verfassungsentwurf">
         <body>
-         <div type="main">
-            <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
-            <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
-            <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
-            <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
-            <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
-            <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
-            <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
-            <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
-            <pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>
-            <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
-            <pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>
-            <pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>
-            <pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>
-            <pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>
-            <pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>
-            <pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>
-            <pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>
-         </div>
-      </body>
-   
+            <div type="main">
+                <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+                <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
+                <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
+                <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
+                <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+                <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+                <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
+                <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
+                <pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>
+                <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
+                <pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>
+                <pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>
+                <pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>
+                <pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>
+                <pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>
+                <pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>
+                <pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>
+            </div>
+        </body>
     </text>
 </TEI>
