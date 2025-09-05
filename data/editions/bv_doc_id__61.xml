@@ -103,6 +103,7 @@ Zustand: gut</note>
         </profileDesc>
         <revisionDesc status="created">
             <change when="2025-09-03" who="#cfh">document automatically created</change>
+            <change when="2025-09-06" who="#s_kury">Formatiert und gegengelesen bis S. 5</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -286,120 +287,150 @@ Zustand: gut</note>
                 <p>Vertraulich! </p>
                 <head>Protokoll über die 7. Länderkonferenz (12. und 13. Oktober 1919) </head>
                 <p>(Stenoaraphische Aufnahme) </p>
-                <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>Anwesend: Vorsitzender:
-                    Staatskanzler Dr. Nienner. Die Staatssekretäre: Dr. Bratusch, Dr. Deutsch,
-                    Hanusch, Dr. Eoewenfeld-Auß, Paul, Dr. Schumpeter und Zerdik Die
-                    Unterstaatssekretäre: Dr. Ellenbogen, Glöckel, Mitlas, Dr. Resch und Dr. Wais.
-                    Als Vertreter der Landesregierungen: von Niederösterreich: Landeshauptmann
-                    Sever, Landeshauptmann-Steflvertreter Mayer, Landeshauptmann-Stellvertreter
-                    Steiner, Landeshauptmann-Stellvertreter Widholz, Landesrat Müller,
-                    Landesamtsdirektor Dr. Castell; von Oberösterreich:
-                    Landeshauptmann-Stellvertreter Gruber, Landeshauptmann-Stellvertreter Dr.
-                    Schlegel; von Satzburg: Landeshauptmann Meyer, Landeshauptmann-Stellvertreter
-                    Prenßler, Landeshauptmann-Stellvertreter Dr. Rehrl,
-                    Landeshauptmann-Stellvertreter Ott; von Steiermark:
-                    Landeshauptmann-Stellvertreter Dr. Uhrer, Landesrat Prisching; von Kärnten:
-                    Landeshauptmann Dr. Demisch, Landeshauptmann-Stellvertreter Neupler, Landesrat
-                    Leer; von Tirof: Landeshauptmann-Stellvertreter Dr. Schumacher, Landesrat Dr.
-                    Schmidt, Landessekretär Dr. Fischer; als Vertreter der Stadt WienBürgermeister
-                    Neumann, Stadtrat Dr. Rienböck, Magistratsdirektor Dr. Hartl; ferner vom
-                    Staatsamte für Inneres und Unterricht: Settionschei Wencdikter; vom Staatsamte
-                    für Justiz: Ministerialrat Dr. Hermann; vom Staatsamte für Finanzen:
-                    Seltionschef Dr. Mühlvenzl. Sektionschei Dr. Gottlieb-Vilfroth, Ministerialrat
-                    Vaernklan, Oberfinanzrat Dr. Grünwald, Finanzrat Dr. Pfaundler; vom Staatsamte
-                    für Land- und Forftwirtschaft: Hofrat Dr. Hennet; vom Staatsamte für Handel und
-                    Gewerbe, Industrie und Vauten: Sektionschef Riedl, Sektionschef Reich. vom
-                    Staatsamte für Volksernährung: Ministerialrat Dr. Haager, Sektionsrat Dr.
-                    Buresch. <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/> (Sitzung vom
-                    12. Oktober 1919. — Beginn um 10 Uhr 15 Minuten vormittags.) Staatskanzler Dr.
-                    Kenner: Die Sitzung ist eröffnet. Der Herr Vizekanzler Fink läßt sich
-                    entschuldigen, er ist wegen dringender Familienverhältnisse verhindert, an der
-                    Länderkonferenz teilzunehmen. Die Tagesordnung umfaßt folgende Punkte: 1. Die
-                    Dotation der Landesfonds durch den Staat und die Forderungen der Lehrerschaft;
-                    2. Die Getreideaufbringung und die Brot- und Mehlquote; ). Weiterer Abbau der
-                    Verkehrsbeschränkungen sowie der Wirtschaftsgentralen in den Ländern; 4.
-                    Beratung der einzuleitenden Vorverhandlungen behuss Fertigstellung des
-                    Verfassungsentwurfes; 5. Ergänzende Mitteilungen des Staatsjetretärs für
-                    Heerwejen über die Organisation der künftigen Wehrmacht. Sie sehen, daß die
-                    Tagesordnung die wichtigsten Probleme des Staates und der Länder enthält, und
-                    ich glaube, Sie werden es begreiflich finden, – daß ich für die Verhandlung
-                    dieser Gegenstände zwei Tage in Aussicht genommen habe. Nun sind unsere
-                    Verhandlungen durch einen Umstand beeinträchtigt. Die beiden Koalitionsparteien
-                    führen die Verhandlungen über die Wiederherstellung der Koalition und über die
-                    neue Regierung. Diese Verhandlungen dauern schon vier Tage, sie werden aber noch
-                    zwei Tage in Anspruch nehmen. Es mus also parallel verhandelt werden. Dadurch
-                    sind einige Herren, auf deren Anwesenheit ich großes Gewicht legen würde,
-                    verhindert, anderseits werde ich selbit heute nachmittags verhindert sein. Wir
-                    müssen infolgedessen unsere Verhandlungen möglichst konzis führen und ich würde
-                    die Tänderkonferenz bitten, heute etwa bis 1 oder 1/-2 Uhr zu tagen, dann morgen
-                    die Tagung um 9 Uhr wiederaufzunehmen und vor- und nachmittags fortzusetzen.
-                    Dann habe ich mitzuteilen, daß die Vertreter der Lehrervereine an die
+                <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>Anwesend: <list>
+                        <item>Vorsitzender: Staatskanzler Dr. <emph>Renner</emph></item>
+                        <item>Die Staatssekretäre: Dr. <emph>Bratusch</emph>, Dr.
+                                <emph>Deutsch</emph>, <emph>Hanusch</emph>, Dr.
+                                <emph>Loewenfeld-Ruß</emph>, <emph>Paul</emph>, Dr.
+                                <emph>Schumpeter</emph> und <emph>Zerdik</emph>.</item>
+                        <item>Die Unterstaatssekretäre: Dr. <emph>Ellenbogen</emph>,
+                                <emph>Glöckel</emph>, <emph>Mitlas</emph>, Dr. <emph>Resch</emph>
+                            und Dr. <emph>Wais</emph>.</item>
+                        <item>Als Vertreter der Landesregierungen: </item>
+                        <item>von Niederösterreich: Landeshauptmann-Stellvertreter
+                                <emph>Mayer</emph>, Landeshauptmann-Stellvertreter
+                                <emph>Steiner</emph>, Landeshauptmann-Stellvertreter
+                                <emph>Widholz</emph>, Landesrat <emph>Müller</emph>,
+                            Landesamtsdirektor Dr. <emph>Castell</emph>; </item>
+                        <item>von Oberösterreich: Landeshauptmann-Stellvertreter
+                            <emph>Gruber</emph>, Landeshauptmann-Stellvertreter Dr.
+                                <emph>Schlegel</emph>; </item>
+                        <item>von Salzburg: Landeshauptmann <emph>Meyer</emph>,
+                            Landeshauptmann-Stellvertreter <emph>Preußler</emph>,
+                            Landeshauptmann-Stellvertreter Dr. <emph>Rehrl</emph>,
+                            Landeshauptmann-Stellvertreter <emph>Ott</emph>; </item>
+                        <item>von Steiermark: Landeshauptmann-Stellvertreter Dr. <emph>Uhrer</emph>,
+                            Landesrat <emph>Prisching</emph>; </item>
+                        <item>von Kärnten: Landeshauptmann Dr. <emph>Lemisch</emph>,
+                            Landeshauptmann-Stellvertreter <emph>Neußler</emph>, Landesrat
+                                <emph>Leer</emph>; </item>
+                        <item>von Tirol: Landeshauptmann-Stellvertreter Dr. <emph>Schumacher</emph>,
+                            Landesrat Dr. <emph>Schmidt</emph>, Landessekretär Dr.
+                                <emph>Fischer</emph>; </item>
+                        <item>als Vertreter der Stadt Wien: Bürgermeister <emph>Reumann</emph>,
+                            Stadtrat Dr. <emph>Rienböck</emph>, Magistratsdirektor Dr.
+                                <emph>Hartl</emph>; </item>
+                        <item>ferner vom Staatsamte für Inneres und Unterricht: Sektionschef
+                                <emph>Wenedikter</emph>; </item>
+                        <item>vom Staatsamte für Justiz: Ministerialrat Dr. <emph>Hermann</emph>;  </item>
+                        <item>vom Staatsamte für Finanzen: Sektionschef Dr. <emph>Mühlvenzl</emph>,
+                            Sektionschef Dr. <emph>Gottlieb-Villroth</emph>, Ministerialrat
+                            Vaernklan, Oberfinanzrat Dr. Grünwald, Finanzrat Dr. Pfaundler; vom
+                            Staatsamte für Land- und Forftwirtschaft: Hofrat Dr. Hennet; </item>
+                        <item>vom Staatsamte für Handel und Gewerbe, Industrie und Bauten:
+                            Sektionschef <emph>Riedl</emph>, Sektionschef <emph>Reich</emph>.</item>
+                        <item> vom Staatsamte für Volksernährung: Ministerialrat Dr.
+                                <emph>Haager</emph>, Sektionsrat Dr. <emph>Buresch</emph>.</item>
+                    </list></p>
+                <p><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/> (Sitzung vom 12. Oktober
+                    1919. — Beginn um 10 Uhr 15 Minuten vormittags.) </p>
+                <p>Staatskanzler Dr. <emph>Renner</emph>: Die Sitzung ist eröffnet. Der Herr
+                    Vizekanzler Fink läßt sich entschuldigen, er ist wegen dringender
+                    Familienverhältnisse verhindert, an der Länderkonferenz teilzunehmen.</p>
+                <p>Die Tagesordnung umfaßt folgende Punkte:<list>
+                        <item>1. Die Dotation der Landesfonds durch den Staat und die Forderungen
+                            der Lehrerschaft;  </item>
+                        <item>2. Die Getreideaufbringung und die Brot- und Mehlquote; </item>
+                        <item>3. Weiterer Abbau der Verkehrsbeschränkungen sowie der
+                            Wirtschaftszentralen in den Ländern; </item>
+                        <item>4. Beratung der einzuleitenden Vorverhandlungen behufs Fertigstellung
+                            des Verfassungsentwurfes; </item>
+                        <item> 5. Ergänzende Mitteilungen des Staatssetretärs für Heerwesen über die
+                            Organisation der künftigen Wehrmacht. </item>
+                    </list>
+                </p>
+                <p>Sie sehen, daß die Tagesordnung die wichtigsten Probleme des Staates und der
+                    Länder enthält, und ich glaube, Sie werden es begreiflich finden, daß ich für
+                    die Verhandlung dieser Gegenstände zwei Tage in Aussicht genommen habe. Nun sind
+                    unsere Verhandlungen durch einen Umstand beeinträchtigt. Die beiden
+                    Koalitionsparteien führen die Verhandlungen über die Wiederherstellung der
+                    Koalition und über die neue Regierung. Diese Verhandlungen dauern schon vier
+                    Tage, sie werden aber noch zwei Tage in Anspruch nehmen. Es muß also parallel
+                    verhandelt werden. Dadurch sind einige Herren, auf deren Anwesenheit ich großes
+                    Gewicht legen würde, verhindert, anderseits werde ich selbst heute nachmittags
+                    verhindert sein. Wir müssen infolgedessen unsere Verhandlungen möglichst konzis
+                    führen und ich würde die Länderkonferenz bitten, heute etwa bis 1 oder 1/2 2 Uhr
+                    zu tagen, dann morgen die Tagung um 9 Uhr wiederaufzunehmen und vor- und
+                    nachmittags fortzusetzen.</p>
+                <p>Dann habe ich mitzuteilen, daß die Vertreter der Lehrervereine an die
                     Staatsregierung mit dem Ersuchen herangetreten sind, während der Tagung der
                     Länderkonferenz vorsprechen zu dürfen. Diese Abordnung der Lehrervereine wird
                     morgen um die zwölfte Stunde hier im Hause erscheinen und ihre Wünsche zum
                     Vortrage bringen. Infolgedessen wird es notwendig sein, die Forderungen der
                     Lehrerschaft, die an den Punkt 1 der Tagesordnung angeschlossen sind, vielleicht
-                    erit morgen nachmittags zu behandeln. Das Problem der Länderfinanzen aber in
+                    erst morgen nachmittags zu behandeln. Das Problem der Länderfinanzen aber in
                     seiner Allgemeinheit wäre dann von der Behandlung der Lehrergehalte zu trennen.
-                    Dieje Trennung wird wohl schwer sein, aber ich glaube, wir sind es den Lehrern
+                    Diese Trennung wird wohl schwer sein, aber ich glaube, wir sind es den Lehrern
                     schuldig, daß wir über die Lehrerfrage erst dann definitive Beschlüsse fassen,
                     wenn wir die Lehrer gehört haben. Ich stelle mir nun vor, daß wir heute
                     vormittag zunächst über den Punkt 1 beraten und dann die Dotation der
-                    Landesfonds durch den Staat behandeln. (Landeshaupitmann-Stellvertrefer Mayer:
-                    Was hüngt mit den Lehrern zuxammen!) Gewisz, aber ich meine, wir können in die
-                    Verhandlungen dieses Punktes eintreten und die letzte Beschlupfasjung erst
+                    Landesfonds durch den Staat behandeln. (Landeshauptmann-Stellvertreter Mayer:
+                    Das hängt mit den Lehrern zuxammen!) Gewiß, aber ich meine, wir können in die
+                    Verhandlungen dieses Punktes eintreten und die letzte Beschlußfassung erst
                     morgen nachmittags vornehmen, nachdem wir die Lehrervertretungen gehört haben.
                     Morgen vormittags würden wir dann die Getreideaufbringung, die Brot- und
                     Mehlquote und im Zusammenhange damit den weiteren Abbau der
                     Verkehrsbeschränkungen sowie der Wirtschaftszentralen in den Ländern behandeln;
-                    die ergänzenden Mitteilungen des Staatsjekretärs für Heerwesen über die
+                    die ergänzenden Mitteilungen des Staatssekretärs für Heerwesen über die
                     Organisation der künftigen Wehrmacht würden wir morgen an den Schluß der
-                    Verhandlungen jetzen. Wird gegen diese Geschäftsbehandlung von irgendeiner Seite
-                    eine Einwendung erhoben? Bürgermeister Reumann: Ich glaube, es wäre besser, wenn
-                    heute über die Getreideaufbringung, die Brot- und Mehlquote sowie den Abbau der
+                    Verhandlungen setzen. Wird gegen diese Geschäftsbehandlung von irgendeiner Seite
+                    eine Einwendung erhoben?</p>
+                <p>Bürgermeister <emph>Reumann</emph>: Ich glaube, es wäre besser, wenn heute über
+                    die Getreideaufbringung, die Brot- und Mehlquote sowie den Abbau der
                     Verkehrsbeschränkungen verhandelt würde und dann erst über die Dotation der
                     Landesfonds und die Verhandlungen über den Verfassungsentwurf. Dadurch wäre der
-                    Zusammenhaug in der Tagesordnung weit besser hergestellt. Ich würde also den
+                    Zusammenhang in der Tagesordnung weit besser hergestellt. Ich würde also den
                     Wunsch aussprechen, daß heute vor allem in die Beratung über die
-                    Getreideaufbringung und die Brot- und Mehlquote eingegangen wird. Staatstanzler
-                    Dr. Kenner: Ich habe nichts gegen diesen Vorschlag und möchte nur das eine
-                    betonen: Die Beratung der einzuleitenden Vorverhandlungen behuss Fertigstellung
-                    eines Verfassungsentwurfes wird uns nur ganz kurze Zeit in Anspruch nehmen. Das
-                    kann auf jeden Fall vorweggenommen werden, weil es, wie die Herren sofort sehen
-                    werden, gar keinen Anlaß zu vielen Erörterungen bieten wird. Wir würden also
-                    zuerst die einzuleitenden Borverhandlungen behuss Fertigstellung des
-                    Verfassungsentwurfes erledigen und dann in die Beratung der Getreideaufbringung
-                    und des weiteren Abbaues der Verkehrsbeschränkungen eintreten. Diese
-                    Verhandlungen werden wahrscheinlich heute nicht zum Abschlusse gelangen und <pb
-                        facs="#facs_5" n="5" xml:id="img_0005" break="yes"/> morgen vormittags
+                    Getreideaufbringung und die Brot- und Mehlquote eingegangen wird.</p>
+                <p>Staatstanzler Dr. <emph>Renner</emph>: Ich habe nichts gegen diesen Vorschlag und
+                    möchte nur das eine betonen: Die Beratung der einzuleitenden Vorverhandlungen
+                    behuss Fertigstellung eines Verfassungsentwurfes wird uns nur ganz kurze Zeit in
+                    Anspruch nehmen. Das kann auf jeden Fall vorweggenommen werden, weil es, wie die
+                    Herren sofort sehen werden, gar keinen Anlaß zu vielen Erörterungen bieten wird.
+                    Wir würden also zuerst die einzuleitenden Vorverhandlungen behuss Fertigstellung
+                    des Verfassungsentwurfes erledigen und dann in die Beratung der
+                    Getreideaufbringung und des weiteren Abbaues der Verkehrsbeschränkungen
+                    eintreten. Diese Verhandlungen werden wahrscheinlich heute nicht zum Abschlusse
+                    gelangen und</p>
+                <p><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>morgen vormittags
                     fortgeführt werden. Morgen nachmittags würden die Länderfinangen und die
                     Lehrerfragen behandelt werden, so daß wir morgen um ungefähr 1/-1 die Abordnung
                     der Lehrer empfangen könnten. In welcher Weise und Form das geschehen wird,
                     werden wir erst hören. Wir können nicht das ganze Plenum der Länderkonferenz der
                     Abordnung der Lehren gegenüberstellen, wir werden irgendeine Delegation
-                    entsenden, welche die Lehrer anhört und darüber berichtet. Die Tagesordnung
-                    steht also jest. Wir werden vormittag bis 1 oder 1/-2 Uhr tagen Wir gehen nun in
-                    den Punkt 4 der Tagesordnung ein: Beratung der einzuleitenden Vorverhandlungen
-                    behufs Fertigstellung des Verfassungsentwurfes. Die Aufnahme dieses Gegenstandes
-                    in die Tagesordnung wurde durch einen Beschluß des Tiroler Landtages veranlaßt.
-                    Der Tiroler Landtag hat nämlich in einer seiner letzten Sitzungen einen Beschluß
-                    gefaßt, in dem zur Frage der Verfassungsreform Stellung genommen und folgendes
-                    verlangt wird: a) Die Verfassung dürfe nur auf föderatiber Grundlage aufgebaut
-                    sein und daher nicht ohne Zustimmung der Länder und ohne deren Einigung auf das
-                    Verfassungsstatut eingeführt werden; 1) zur Vorbereitung der Verfassungsreform
-                    soll ein Länderkomitee eingesetzt werden, das die Fühlung der Länder
-                    untereinander und mit der Staatsregierung herstellt; c) der Regierungsentwurf
-                    der Bundesverfassung soll angemessene Zeit vor der Einbringung in der
-                    Nationalversammlung dem Tiroler Landesrat zur Stellungnahme mitgeteilt werden;
-                    d) der Verfassungsausschuß des Landtages wird selbst die Grundzüge einer
-                    Bundesverfassung ausarbeiten, die der Regierung als Beitrag zu den Vorarbeiten
-                    einer Verfassungsreform zu überreichen ist; unter Berücksichtigung der
-                    Bundesverfassung soll der Entwurf einer Landesverfassung vorbereitet werden.
-                    Diese Entschließung des Tiroler Landtages, deren Inhalt ich hier nur punttweise
-                    hervorgehoben habe, zeigt, daß in diesem Lande und wahrscheinlich auch in
-                    anderen Ländern verschiedene Auffassungen über die Art und Weise vorwalten, wie
-                    das Verfassungsproblem behandelt werden soll. Nun würde das ganze
-                    Verfassungswerk dadurch erschwert werden, wenn einzelne Länder einen
+                    entsenden, welche die Lehrer anhört und darüber berichtet.</p>
+                <p>       Die Tagesordnung steht also jest. Wir werden vormittag bis 1 oder 1/-2 Uhr
+                    tagen Wir gehen nun in den Punkt 4 der Tagesordnung ein: Beratung der
+                    einzuleitenden Vorverhandlungen behufs Fertigstellung des Verfassungsentwurfes.
+                    Die Aufnahme dieses Gegenstandes in die Tagesordnung wurde durch einen Beschluß
+                    des Tiroler Landtages veranlaßt. Der Tiroler Landtag hat nämlich in einer seiner
+                    letzten Sitzungen einen Beschluß gefaßt, in dem zur Frage der Verfassungsreform
+                    Stellung genommen und folgendes verlangt wird: a) Die Verfassung dürfe nur auf
+                    föderatiber Grundlage aufgebaut sein und daher nicht ohne Zustimmung der Länder
+                    und ohne deren Einigung auf das Verfassungsstatut eingeführt werden; 1) zur
+                    Vorbereitung der Verfassungsreform soll ein Länderkomitee eingesetzt werden, das
+                    die Fühlung der Länder untereinander und mit der Staatsregierung herstellt; c)
+                    der Regierungsentwurf der Bundesverfassung soll angemessene Zeit vor der
+                    Einbringung in der Nationalversammlung dem Tiroler Landesrat zur Stellungnahme
+                    mitgeteilt werden; d) der Verfassungsausschuß des Landtages wird selbst die
+                    Grundzüge einer Bundesverfassung ausarbeiten, die der Regierung als Beitrag zu
+                    den Vorarbeiten einer Verfassungsreform zu überreichen ist; unter
+                    Berücksichtigung der Bundesverfassung soll der Entwurf einer Landesverfassung
+                    vorbereitet werden. Diese Entschließung des Tiroler Landtages, deren Inhalt ich
+                    hier nur punttweise hervorgehoben habe, zeigt, daß in diesem Lande und
+                    wahrscheinlich auch in anderen Ländern verschiedene Auffassungen über die Art
+                    und Weise vorwalten, wie das Verfassungsproblem behandelt werden soll. Nun würde
+                    das ganze Verfassungswerk dadurch erschwert werden, wenn einzelne Länder einen
                     verschiedenen Vorgang, einen verschiedenen Verfahrensmodus in Aussicht nähmen.
                     Es ist also notwendig, daß die Staatsregierung sich mit den Landesregierungen
                     darüber einigt, in welcher Weise vorgegangen werden sofl. Wenn wir in eine
