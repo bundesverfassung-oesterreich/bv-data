@@ -188,16 +188,22 @@
     <text type="Sitzungsprotokoll">
         <body>
             <div type="main">
-                <pb facs="#facs_1" n="1" xml:id="img_0001" break="yes"/>
-                <p>25. Sitz. <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
-                </p>
-                <p>Konstituierende Nationalversammlung der Republik Österreich.
-                    Verfassungs-Ausschuss Protokoll über die Sitzung am 25. September 1920 /:nachm.
-                    3h:/ Anwesende: Seitens der Regierung: Obmann: Bauer Obmann Stellvertreter:
-                    Schriftführer: Mitglieder: <pb facs="#facs_3" n="3" xml:id="img_0003"
-                        break="yes"/> 25.9.1920 Sitzung des Verfassungsausschusses.
-                    Bundesverfassungsgesetz. Mit Mehrheitsbeschluß <del>zur</del> Einleitung
-                        <emph>Art. 10</emph> angenommen.</p>
+                <p><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>Konstituierende
+                    Nationalversammlung der Republik Österreich.</p>
+                <head>Verfassungs-Ausschuss</head>
+                <p>Protokoll über die Sitzung am 25. September 1920 /:nachm. 3h:/</p>
+                <p>Anwesende:</p>
+                <p>Seitens der Regierung:</p>
+                <p>Obmann: <list>
+                        <item>Bauer </item>
+                    </list></p>
+                <p>Obmann Stellvertreter:</p>
+                <p>Schriftführer:</p>
+                <p>Mitglieder: </p>
+                <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>25.9.1920 Sitzung des
+                    Verfassungsausschusses. Bundesverfassungsgesetz.</p>
+                <p>Mit Mehrheitsbeschluß <del>zur</del> Einleitung <emph>Art. 10</emph>
+                    angenommen.</p>
                 <p>al. 1, 2 beschlossen. </p>
                 <p>2a mit Anfügung des Wortes „Fremdenpolizei“ in art. 11 einzufügen
                     beschlossen.</p>
@@ -209,46 +215,47 @@
                     „<?oxy_comment_start author="zuegel.n" timestamp="20250728T142333+0200" comment="kann das sein?"?>Dampfkessel<?oxy_comment_end?>“
                         <emph>einzuschalten</emph> ein Zusatzantrag Dr. Seipel über
                     Elektrizitätswesen. Beschlossen.</p>
-                <p>al. 10 gestrichen: In Art 12 als Punkt 5a eingestellt.</p>
-                <p>Hinzufügung eines al. 2 in Art. 12 u. al. 3 in Art. 84. Beschlossen.</p>
+                <p>al. 10 gestrichen: In Art 12 als Punkt 5a eingestellt. Hinzufügung eines al. 2 in
+                    Art. 12 u. al. 3 in Art. 84. Beschlossen.</p>
                 <p>al. 11 die Einfügung „soweit es sich nicht um land- und forstw. Arbeiter u.
                     Angestellte handelt“ abgelehnt. Wird als Minoritätsvotum Fink und Gen.
                     angemeldet.</p>
-                <p>al. 12 in der Fassung Dr. Seipels beschlossen.</p>
-                <p>Art. 11 P. 7, Art 12 P. 2 in Seipels Fassung beschlossen.</p>
+                <p>al. 12 in der Fassung Dr. Seipels beschlossen. Art. 11 P. 7, Art 12 P. 2 in
+                    Seipels Fassung beschlossen.</p>
                 <p>al. 13 Danneberg gibt eine Erklärung namens der sozialdem. Partei ab betreffend
                     das Schulwesen. Antrag auf Einschaltung eines diesbezüglichen Art. 12b. Seipel
                     gibt namens der christl.soz. eine Erklärung ab, in der er unter Vorbehalten der
                     Anregung Danneberg zustimmt. Clessin gibt namens der Großdeutschen die Erklärung
-                    ab, die die Beibehaltung des Schul- und Erziehungswesen im al. 13 verlangt. Als
-                    Artikel 12, b wurde der modifizierte Antrag Danneberg beschlossen.</p>
+                    ab, die die Beibehaltung des Schul- und Erziehungswesen im al. 13 verlangt.</p>
+                <p>Als Artikel 12, b wurde der modifizierte Antrag Danneberg beschlossen.</p>
                 <p>al. 13 beginnt: „Wissenschaftl. fachtechnischer Archiv- und Bibliotheksdienst“
                     u.s.w. Beschlossen.</p>
                 <p>13a beschlossen. 14 <del>statt</del> Kriegsgräberwesen <del>Kriegsgräber<gap
                             reason="illegible"/></del>gestrichen. Beschlossen.</p>
                 <p>15 beschlossen. </p>
-                <p>Art. 11</p>
+                <p><emph>Art. 11</emph></p>
                 <p>1. christl. soz. Minderheitsantrag abgelehnt. Bleibt für das Haus.</p>
                 <p>2, 3 beschlossen. 4 beschlossen. 5 beschlossen</p>
                 <p>8 beschlossen</p>
                 <p>Punkt 1 u. 2 umgestellt.</p>
-                <p>Art. 12</p>
+                <p><emph>Art. 12</emph></p>
                 <p>1, 2, 3, 4 beschlossen. 5. christl. soz. Minoritätsvotum.</p>
                 <p>5a, 6, 6a beschlossen. 7. Christl. soz. Antrag auf Streichung abgelehnt. 8
                     beschlossen.</p>
-                <p>Art. 13 Antrag Seipel auf Reassumierung. Antrag Danneberg auf Streichung der
-                    Worte: „zur Ermöglichung“ bis „Absatz 2“ beschlossen. <pb facs="#facs_4" n="4"
-                        xml:id="img_0004" break="yes"/> Minoritätsvotum der Christlichsozialen
-                        <add>im Unterausschuss</add>. Antrag Danneberg auf Veränderung des ersten
-                    Satzes. Beschlossen. 2. Satz beschlossen.</p>
+                <p><emph>Art. 13</emph> Antrag Seipel auf Reassumierung. Antrag Danneberg auf
+                    Streichung der Worte: „zur Ermöglichung“ bis „Absatz 2“ beschlossen.´</p>
+                <p><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>Minoritätsvotum der
+                    Christlichsozialen <add>im Unterausschuss</add>. Antrag Danneberg auf
+                    Veränderung des ersten Satzes. Beschlossen. 2. Satz beschlossen.</p>
                 <p>Minoritätsvotum Fink u. Gen. angemeldet.<emph>Titel u. Eingang</emph>
                     beschlossen.</p>
                 <p><emph>Gesetz</emph> betreffend den <emph>Übergang</emph> zur bundesstaatl.
                     Verfassung</p>
-                <p>§ 1 4. Zeile statt welche „die“. „Bundes-Verfassungsgesetz“ §2 al. 2 gestrichen.
-                    § 3 al. 3 gestrichen. al. I beschlossen. al. 2 Seipels Antrag auf bewegliche
-                    Frist von 3 Jahren. Im Prinzip beschlossen.§ 4 al I Antrag Austerlitz auf
-                    stilistische Änderung beschlossen. al. 2 beschlossen. al. 3 gestrichen.</p>
+                <p>§ 1 4. Zeile statt welche „die“. „Bundes-Verfassungsgesetz“</p>
+                <p>§2 al. 2 gestrichen. § 3 al. 3 gestrichen. al. I beschlossen. al. 2 Seipels
+                    Antrag auf bewegliche Frist von 3 Jahren. Im Prinzip beschlossen.</p>
+                <p>§ 4 al I Antrag Austerlitz auf stilistische Änderung beschlossen. al. 2
+                    beschlossen. al. 3 gestrichen.</p>
                 <p>§ 4a Die Bestimmungen der § 2 bis 4 gelten <gap reason="illegible"/>sinngemäss
                     auch für die auf Grund der Gesetze ergangene Vollzugkommision/Vertretungen) </p>
                 <p>§ 5 <add><gap reason="illegible"/></add> Abänderungsantrag <gap
@@ -260,30 +267,31 @@
                 <p> § 7 <del>3.1. der neuen Fassung der Regierung</del> in der neuen Fassung der
                     Regierung mit Abänderung der <gap reason="illegible"/> angenommen</p>
                 <p>§ 8. Absatz 1,2, der neuen Regierungsvorlage u</p>
-                <p>§ 9. Absatz 1<gap reason="illegible"/>6 angenommen <del/></p>
-                <p><del>Absatz 2 in der neuen Fassung beschlossen </del></p>
-                <p><del><gap reason="illegible"/><gap reason="illegible"/><gap reason="illegible"
-                        /></del></p>
-                <p><gap reason="illegible"/>
+                <p>§ 9. Absatz 1<gap reason="illegible"/>6 angenommen <del/><del>Absatz 2 in der
+                        neuen Fassung beschlossen </del><del><gap reason="illegible"/><gap
+                            reason="illegible"/><gap reason="illegible"/></del><gap
+                        reason="illegible"/>
                     <gap reason="illegible"/></p>
                 <p>Absatz 2 <del><gap reason="illegible"/></del>
                     <gap reason="illegible"/> Fassung der Regierung mit Abänderungungsantrag Seipel
                     angenommen</p>
                 <p>§ 8a 1. Die bestehenden <gap reason="illegible"/><gap reason="illegible"/> werden
-                    Landesbehörden und führen ihre bisherigen GEschäfte als Landesgeschäfte fort</p>
-                <p>3. die bisherige <gap reason="illegible"/> wird Landes<gap reason="illegible"
-                    /></p>
+                    Landesbehörden und führen ihre bisherigen GEschäfte als Landesgeschäfte fort. 3.
+                    die bisherige <gap reason="illegible"/> wird Landes<gap reason="illegible"/></p>
                 <p>§ 10 entfällt</p>
                 <p>§ 11 angenommen mit stilistischer Änderung</p>
-                <p> § 12 1. angenommen</p>
+                <p> § 12</p>
+                <p>1. angenommen</p>
                 <p>2. bestehende <gap reason="illegible"/>
                     <gap reason="illegible"/><gap reason="illegible"/><gap reason="illegible"/><gap
                         reason="illegible"/></p>
                 <p>3. <gap reason="illegible"/><gap reason="illegible"/><gap reason="illegible"/><pb
-                        facs="#facs_5" n="5" xml:id="img_0005" break="yes"/> § 12 <gap
+                        facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>§ 12 <gap
                         reason="illegible"/> Fink 31. VIII 21 angemeldet.</p>
-                <p>§ 13. 1 angenommen 2. mit <del><gap reason="illegible"/></del> in der <gap
-                        reason="illegible"/> Fassung der Regierung angenommen</p>
+                <p>§ 13.</p>
+                <p>1 angenommen</p>
+                <p>2. mit <del><gap reason="illegible"/></del> in der <gap reason="illegible"/>
+                    Fassung der Regierung angenommen</p>
                 <p>§ 14, <add>15</add> angenommen </p>
                 <p>§ 16 ins besonders in l<gap reason="illegible"/> Verfuegung des <gap
                         reason="illegible"/> mit <gap reason="illegible"/>gegenständen</p>
@@ -303,7 +311,7 @@
                                 reason="illegible"/></del></add> Zusammentritt des
                     Nationalrates.</p>
                 <p>§ 20, 21, angenommen</p>
-                <p>. § 22. abgeändert "am 28 Tage nach dem Zusammentritt des Nationalrates" in Zahl
+                <p>§ 22. abgeändert "am 28 Tage nach dem Zusammentritt des Nationalrates" in Zahl
                         <gap reason="illegible"/> "bisherige Präsidente"</p>
                 <p>§ 23. angenommen </p>
                 <p>§ 24. Zahl 1 neue Fassung der Staatskanzlei, Zahl 2 angenommen </p>
@@ -315,14 +323,16 @@
                         <sic/>
                         <corr>.</corr>
                     </choice> Zweiter Satz abgelehnt</p>
-                <p>§ 30. <add>Z. 1</add> die <del>Landesre</del> bisherigen Landesregierungen sind
-                    die LAndesregierungen im Sinne der Bundesverfassung</p>
+                <p>§ 30.</p>
+                <p><add>Z. 1</add> die <del>Landesre</del> bisherigen Landesregierungen sind die
+                    LAndesregierungen im Sinne der Bundesverfassung</p>
                 <p>Z. 2 </p>
                 <p>Z.3 angenommen</p>
-                <p>§ 31 1.  <del>2</del> angenommen, 3 die Wahl der Bezirksvertretungen wird auf
-                    Grund …. nach dem Verhältnis der <add>ihrer</add> Bürgerzahl aufgeteilt ….Absatz
-                    2 werden sinngemäß angewendet<pb facs="#facs_6" n="6" xml:id="img_0006"
-                        break="yes"/>2. mit Zusatzantrag Danneberg Danneberg angenommen</p>
+                <p>§ 31</p>
+                <p>1. <del>2</del> angenommen, 3 die Wahl der Bezirksvertretungen wird auf Grund ….
+                    nach dem Verhältnis der <add>ihrer</add> Bürgerzahl aufgeteilt ….Absatz 2 werden
+                    sinngemäß angewendet<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>2.
+                    mit Zusatzantrag Danneberg Danneberg angenommen</p>
                 <p> 4. 5 <del>angenommen</del></p>
                 <p>6. "<gap reason="illegible"/>" gestrichen, "hat zu erfolgen" statt "wird
                     erfolgen". "ein" statt "zwei" </p>
@@ -335,29 +345,52 @@
                 <p>§ 37 einbehalten</p>
                 <p>§ 38 <del>einbehalten</del> angenommen mit Staatsregierung </p>
                 <p>Bestimmungen über Wien und N. O. einbehalten </p>
-                <p>Schluß der Sitzung 7h Bauer Gürtler Schriftführer <pb facs="#facs_7" n="7"
-                        xml:id="img_0007" break="yes"/> Präsenzliste der Sitzung des
-                    Verfassungs-Ausschusses vom 25. September 1920 /:nachm. 3 h:/ </p>
-                <p> Gürtler <gap reason="illegible"/> Seipel <gap reason="illegible"/>
-                    <gap reason="illegible"/> Fink Wagner Clessin Popp Schiegl
-                    Austerlitz Regierungsvertreter: Min.Rat D. Froehlich Sekt. Rat D. Mannlicher 
-                    M.V.Sk. D. Merkl - St.K.<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
-                    Artikel 10, Punkt 12. Gesundheitswesen mit Ausnahme des Leichen- und
-                    Bestattungswesens sowie des Gemeindesanitätsdienstes und Rettungswesens,
-                    hinsichtlich der Heil-und Pflegeanstelten, des Kurortewesens und der
-                    Heilquellen, jedoch nur die sanitäre Aufsicht. Ernährungswesen einschliesslich
-                    der Nahrungsmittelkontrolle. </p>
-                <p>Artikel 11, Punkt 7 Volkswohnungswesen. </p>
-                <p>Artikel 12, Punkt 7. Volkspflegestättenwesen, Mutterschafts-, Säuglings- und
-                    Jugendfürsorge, Heil- und Pflegeanstalten, Kurortewesen, Heilquellen. </p>
-                <p>Artikel 12 b. Auf dem Gebiete des Schul-<add>,</add>
+                <p>Schluß der Sitzung 7h</p>
+                <p>Bauer</p>
+                <p>Gürtler Schriftführer</p>
+                <p><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>Präsenzliste der Sitzung
+                    des Verfassungs-Ausschusses vom 25. September 1920 /:nachm. 3 h:/ <list>
+                        <item>Gürtler </item>
+                        <item><gap reason="illegible"/>
+                        </item>
+                        <item>Seipel </item>
+                        <item><gap reason="illegible"/>
+                        </item>
+                        <item><gap reason="illegible"/>
+                        </item>
+                        <item>Fink </item>
+                        <item>Wagner </item>
+                        <item>Clessin </item>
+                        <item>Popp </item>
+                        <item>Schiegl </item>
+                        <item>Austerlitz </item>
+                    </list></p>
+                <p>Regierungsvertreter: <list>
+                        <item>Min.Rat D. Froehlich </item>
+                        <item>Sekt . Rat D. Mannlicher  </item>
+                        <item> M.V.Sk. D. Merkl  </item>
+                    </list></p>
+                <p>- St.K.</p>
+                <p><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>Artikel 10, Punkt 12. </p>
+                <p>Gesundheitswesen mit Ausnahme des Leichen- und Bestattungswesens sowie des
+                    Gemeindesanitätsdienstes und Rettungswesens, hinsichtlich der Heil-und
+                    Pflegeanstelten, des Kurortewesens und der Heilquellen, jedoch nur die sanitäre
+                    Aufsicht. Ernährungswesen einschliesslich der Nahrungsmittelkontrolle. </p>
+                <p>Artikel 11, Punkt 7</p>
+                <p>Volkswohnungswesen. </p>
+                <p>Artikel 12, Punkt 7.</p>
+                <p>Volkspflegestättenwesen, Mutterschafts-, Säuglings- und Jugendfürsorge, Heil- und
+                    Pflegeanstalten, Kurortewesen, Heilquellen. </p>
+                <p>Artikel 12 b.</p>
+                <p>Auf dem Gebiete des Schul-<add>,</add>
                     <del>und</del> Erziehungs<add> u. Volksbildungs</add>wesens wird der
                     Wirkungsbereich des Bundes und der Länder durch ein<choice>
                         <del/>
                         <add> </add>
-                    </choice>besonderes Bundes-Verfassungsgesetz geregelt. <pb facs="#facs_9" n="9"
-                        xml:id="img_0009" break="yes"/>§ 24. Bisheriger 2. Absatz als Absatz 1,
-                    bisheriger Absatz 1 als Absatz 3 in folgender Fassung: </p>
+                    </choice>besonderes Bundes-Verfassungsgesetz geregelt.</p>
+                <p><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>§ 24.</p>
+                <p>Bisheriger 2. Absatz als Absatz 1, bisheriger Absatz 1 als Absatz 3 in folgender
+                    Fassung: </p>
                 <p>Bis zur Wahl einer Bundesregierung gemäß Artikel 60 <choice>
                         <del>führt</del>
                         <add>ist</add>
@@ -367,7 +400,8 @@
                     </choice> erste Bundesregierung <del>die nach dem Bundes-Verfassungsgesetz der
                         Bundesregierung obliegenden Geschäfte</del>. <pb facs="#facs_10" n="10"
                         xml:id="img_0010" break="yes"/>Beilage 6 </p>
-                <p>§ 13. (2) <choice>
+                <p>§ 13.</p>
+                <p>(2) <choice>
                         <del>Staatsbürger, die in keiner</del>
                         <add>Personen, die österreichische Staatsbürger sind, ohne in einer</add>
                     </choice> Gemeinde der Republik heimatberechtigt <choice>
@@ -379,9 +413,10 @@
                     von St. Germain durch Option oder die auf Grund einer bloßen Erklärung gemäß § 2
                     des Gesetzes vom 5. Dezember 1918, StGB1. Nr. 91 über das Staatsbürgerrecht, die
                     Staatsbürgerschaft ohne Erlangung eines Heimatrechtes erworben haben, steht auch
-                    die Vollziehung dem Bunde zu. <pb facs="#facs_11" n="11" xml:id="img_0011"
-                        break="yes"/> (2) Alles übrige staatliche Vermögen ist Vermögen des Bundes;
-                        <add>die endgültige Auseinandersetzung über das staatliche Vermögen wird ein
+                    die Vollziehung dem Bunde zu. </p>
+                <p><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>§ 9.</p>
+                <p>(2) Alles übrige staatliche Vermögen ist Vermögen des Bundes; <add>die endgültige
+                        Auseinandersetzung über das staatliche Vermögen wird ein
                         Bundes-Verfasungsgesetz Landes...  auseinandersetzung zwischen dem Bund u.
                         den Ländern geregelt. </add>
                     <choice>
@@ -391,8 +426,8 @@
                     ständigen Dienstbetrieb einer Behörde dient, die nach den Bestimmungen des
                     Bundes-Verfassungsgesetzes über die Organisation der Verwaltung in den Ländern
                     nicht Bandesbehörde bleibt, wird im Zugemenhang mit dem eben erwähnten
-                    Bundes-Verfasaungegesetze geregelt. (Absatz 3 entfällt.) <pb facs="#facs_12"
-                        n="12" xml:id="img_0012" break="yes"/> § 8. </p>
+                    Bundes-Verfasaungegesetze geregelt. (Absatz 3 entfällt.)</p>
+                <p><pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/> § 8. </p>
                 <p>(1) Die Angestellten der staatlichen Behörden, die nach § 7, Abs. 1
                     Bundesbehörden werden, werden Angestellte des Bundes. </p>
                 <p>(2) Die Stellung der Angestellten der in § 7, Abs. 1 angenommenen staatlichen
@@ -401,8 +436,8 @@
                 <p><del>(3) Die bei staatlichen Anstalten angestellten Personen werden Angestellte
                         des Bundes, die Angestellten bei Landesanstalten Angestellte der Länder, die
                         Angestellten bei Anstalten der Bezirke, Gemeinden und sonstiger öffentlicher
-                        Körperschaften sind Angestellte dieser Körperschaften. </del><pb
-                        facs="#facs_13" n="13" xml:id="img_0013" break="yes"/> § 7.</p>
+                        Körperschaften sind Angestellte dieser Körperschaften. </del></p>
+                <p><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/> § 7.</p>
                 <p>(1) Die staatlichen Behörden mit Ausnahme jener der allgemeinen politischen
                     Verwaltung in den Ländern (Landesregierungen, Bezirkshauptmannschaften)
                     einschließlich der bei diesen Behörden vereinigten besonderen Dienstzweige (bau-
@@ -425,22 +460,22 @@
                     des Landes im Sinne des Bundes-Verfassungsgesetzes.</p>
                 <p>(4) Die staatlichen Anstalten gehen an den Bund über, die Landesanstalten sind
                     Anstalten der Länder; die Anstalten der Bezirke, Gemeinden und sonstigen
-                    öffentlich-rechtlichen Körperschaften sind Anstalten dieser Körperschaften. <pb
-                        facs="#facs_14" n="14" xml:id="img_0014" break="yes"/> § 6. </p>
+                    öffentlich-rechtlichen Körperschaften sind Anstalten dieser Körperschaften. </p>
+                <p><pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/> § 6. </p>
                 <p>(1) Die gesetzlich den bisherigen Organen des Staates und der Länder übertragenen
                     Befugnisse gehen auf die mit einem gleichartigen Wirkungskreis betrauten Organe
                     des Bundes und der Länder über, soweit nicht die Zuständigkeit dieser Organe
-                    durch das Bundesverfassungsgesetz anders geregelt sind. Demnach treten… <pb
-                        facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>
+                    durch das Bundesverfassungsgesetz anders geregelt sind. Demnach treten… </p>
+                <p>
+                    <pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>
                 </p>
                 <p>Art. 9 <gap reason="illegible"/> 24./IX Die <add>allgemeinen technischen</add><choice>
                         <sic>Massnhamen</sic>
                         <corr>Massnahmen</corr>
-                    </choice>  für die <del>technisch</del> zweckmässige Nutzbarmachung der
-                    Wasserkräfte,</p>
-                <p> ausschliesslich der landwirtschaftlichen und kleingewerblichen Triebwerke, </p>
-                <p><del>die</del> Normalisierung und Typisierung elektrischer Anlagen und
-                    Einrichtungen, ferner Sicherheitsvorkehrungen auf diesem Gebiete, sowie das <choice>
+                    </choice> für die <del>technisch</del> zweckmässige Nutzbarmachung der
+                    Wasserkräfte, ausschliesslich der landwirtschaftlichen und kleingewerblichen
+                    Triebwerke, <del>die</del> Normalisierung und Typisierung elektrischer Anlagen
+                    und Einrichtungen, ferner Sicherheitsvorkehrungen auf diesem Gebiete, sowie das <choice>
                         <del>Elektrizitäts-</del>
                         <add>Starkstrom</add>
                     </choice>legerecht <del>einschliesslich der Begründung von
@@ -452,8 +487,8 @@
                         elektrischer Energie alle Anlagen für Kraftwerke, die den Interessenkreis
                         mehrerer auch fremder Länder umfassen, dann für Kraftwerke an übertretenden
                         und Grenzgewässern des Bundes und insbesondere auch alle Anlagen für
-                        Bahnkraftwerke Kraftwerke der Bundesbahnen Kraftwerke des Bundes </del><pb
-                        facs="#facs_16" n="16" xml:id="img_0016" break="yes"/> § 8.</p>
+                        Bahnkraftwerke Kraftwerke der Bundesbahnen Kraftwerke des Bundes </del></p>
+                <p><pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/> § 8.</p>
                 <p>(1) Die Angestellten der staatlichen Behörden, die nach § 7, Abs. 1
                     Bundesbehörden werden, werden Angestellte des Bundes.</p>
                 <p>(2) Die Stellung der Angestellten der in § 7, Abs. 1 angenommenen staatlichen
@@ -462,8 +497,8 @@
                 <p><del>(3) Die bei staatlichen Anstalten angestellten Personen werden Angestellte
                         des Bundes, die Angestellten bei Landesanstalten Angestellte der Länder, die
                         Angestellten bei Anstalten der Bezirke, Gemeinden und sonstiger öffentlicher
-                        Körperschaften sind Angestellte dieser Körperschaften. </del><pb
-                        facs="#facs_17" n="17" xml:id="img_0017" break="yes"/> Art. 10. Punkt 12:
+                        Körperschaften sind Angestellte dieser Körperschaften. </del></p>
+                <p><pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>Art. 10. Punkt 12:
                         <add>Ernährungswesen einschl. Nahrungsmittelkontrolle</add>
                     "Gesundheitswesen mit Ausnahme des Leichen- und Bestattungswesens sowie des
                     Gemeindesanitätsdienstes und Rettungswesens: hinsichtlich der Heil- und
@@ -475,43 +510,49 @@
                     Säuglings- und Jugendfürsorge. Heil- und Pflegeanstalten. <gap
                         reason="illegible"/>, Kurortwesen, <add>Heilquellen,</add> Leichen- und
                     Bestattungswesen. <add>Heilquellen. </add></p>
-                <p>[] Art. 12: </p>
-                <p>Art. 11: Volkswohnungswesen <pb facs="#facs_18" n="18" xml:id="img_0018"
-                        break="yes"/> Artikel 10, Punkt 12.</p>
+                <p>Art. 11: Volkswohnungswesen </p>
+                <p><pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>Artikel 10, Punkt
+                    12.</p>
                 <p>Gesundheitswesen mit Ausnahme des Leichen- und Bestattungswesens sowie des
                     Gemeindesanitätsdienstes und Rettungswesens; hinsichtlich der Heil- und
                     Pflegeanstalten, des Kurortewesens und der Heilquellen. Jedoch nur die sanitäre
                     Aufsicht. Ernährungswesen einschliesslich der Nahrungsmittelkontrolle.</p>
-                <p>Artikel 11, Punkt 7. Volkswohnungswesen.</p>
-                <p>Artikel 12, Punkt 7.Volkspflegestättenwesen, Mutterschafts-. Säuglings- und
-                    Jugendfürsorge, Heil- und Pflegeanstalten, Kurortewesen, Heilquellen.</p>
-                <p>Artikel 12 b.Auf dem Gebiete des Schul- und Erziehungswesens wird der
-                    Wirkungsbereich des Bundes und der Länder durch ein besonderes
-                    Bundes-Verfassungsgesetz geregelt. <pb facs="#facs_19" n="19" xml:id="img_0019"
-                        break="yes"/> Artikel 10, Punkt 9. Allgemeine technische Maßnahmen für die
-                        <add>zweckmäßige</add> Nutzbarmachung der Wasserkräfte, ausschliesslich der
-                    landwirtschaftlichen und kleingewerblichen Triebwerke, Normalisierung und
-                    Typisierung elektrischer Anlagen und Einrichtungen, ferner Sicherheits<choice>
+                <p>Artikel 11, Punkt 7.</p>
+                <p>Volkswohnungswesen.</p>
+                <p>Artikel 12, Punkt 7.</p>
+                <p>Volkspflegestättenwesen, Mutterschafts-. Säuglings- und Jugendfürsorge, Heil- und
+                    Pflegeanstalten, Kurortewesen, Heilquellen.</p>
+                <p>Artikel 12 b.</p>
+                <p>Auf dem Gebiete des Schul- und Erziehungswesens wird der Wirkungsbereich des
+                    Bundes und der Länder durch ein besonderes Bundes-Verfassungsgesetz
+                    geregelt.</p>
+                <p><pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/>Artikel 10, Punkt 9.
+                    Allgemeine technische Maßnahmen für die <add>zweckmäßige</add> Nutzbarmachung
+                    der Wasserkräfte, ausschliesslich der landwirtschaftlichen und kleingewerblichen
+                    Triebwerke, Normalisierung und Typisierung elektrischer Anlagen und
+                    Einrichtungen, ferner Sicherheits<choice>
                         <del>vorkehrungen</del>
                         <add>maßnahmen</add>
                     </choice> auf diesem Gebiete, <del>sowie das</del> Starkstromwegerecht, soweit
                     sich die Leitungsanlage auf zwei oder mehrere Länder erstreckt. Aus Artikel 11
                     ist Elektrizitätswesen zu streichen und im Artikel 12 heisst es: Punkt 6a
-                    Elektrizitätswesen und Wasserrecht, soweit sie nicht unter Artikel 10 fallen.
-                        <pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/> Artikel 10, Punkt
-                    9. Allgemeine technische Maßnahmen für die Nutzbarmachung der Wasserkräfte,
+                    Elektrizitätswesen und Wasserrecht, soweit sie nicht unter Artikel 10
+                    fallen.</p>
+                <p><pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/>Artikel 10, Punkt 9.
+                    Allgemeine technische Maßnahmen für die Nutzbarmachung der Wasserkräfte,
                     ausschließlich der landwirtschaftlichen und kleingewerblichen Triebwerke,
                     Normalisierung und Typisierung elektrischer Anlagen und Einrichtungen, ferner
                     Sicherheitsvorkehrungen auf diesem Gebiete, sowie das Starkstromwegerecht,
                     soweit sich die Leitungsanlage auf zwei oder mehrere Länder erstreckt. Aus
                     Artikel 11 ist Elektrizitätswesen zu streichen und im Artikel 12 heisst es :
                     Punkt 6a Elektrizitätswesen und Wasserrecht, soweit sie nicht unter Artikel 10
-                    fallen. <pb facs="#facs_21" n="21" xml:id="img_0021" break="yes"/> §
-                    24. Bisheriger 2. Absatz als Absatz 1, bisheriger Absatz 3 in folgender Fassung:
-                    Bis zur Wahl einer Bundesregierung gemäß Artikel 60 führt die Staatsregierung
-                    als erste Bundesregierung die nach dem Bundes-Verfassungsgesetz der
-                    Bundesregierung obliegenden Geschäfte. <pb facs="#facs_22" n="22"
-                        xml:id="img_0022" break="yes"/> § 13.</p>
+                    fallen.</p>
+                <p><pb facs="#facs_21" n="21" xml:id="img_0021" break="yes"/>§ 24. Bisheriger 2.
+                    Absatz als Absatz 1, bisheriger Absatz 3 in folgender Fassung:</p>
+                <p>Bis zur Wahl einer Bundesregierung gemäß Artikel 60 führt die Staatsregierung als
+                    erste Bundesregierung die nach dem Bundes-Verfassungsgesetz der Bundesregierung
+                    obliegenden Geschäfte.</p>
+                <p><pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/> § 13.</p>
                 <p>(2) <choice>
                         <del>Staatsbürger</del>
                         <add>Personen</add>
@@ -525,13 +566,13 @@
                     von St. Germain durch Option oder die auf Grund einer bloßen Erklärung gemäß § 2
                     des Gesetzes vom 5. Dezember 1918, StGB1. Nr. 91 über das Staatsbürgerrecht, die
                     Staatsbürgerschaft ohne Erlangung eines Heimatrechtes erworben haben, steht auch
-                    die Vollziehung dem Bunde zu. <pb facs="#facs_23" n="23" xml:id="img_0023"
-                        break="yes"/>§ 6. </p>
+                    die Vollziehung dem Bunde zu.</p>
+                <p><pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"/>§ 6. </p>
                 <p>(1) Die gesetzlich den bisherigen Organen des Staates und der Länder übertragenen
                     Befugnisse gehen auf die mit einem gleichartigen Wirkungskreis betrauten Organe
                     des Bundes und der Länder über, soweit nicht die Zuständigkeiten dieser Organe
-                    durch das Bundes-Verfassungsgesetz anders geregelt sind. Demnach treten ... <pb
-                        facs="#facs_24" n="24" xml:id="img_0024" break="yes"/> § 7.</p>
+                    durch das Bundes-Verfassungsgesetz anders geregelt sind. Demnach treten ...</p>
+                <p><pb facs="#facs_24" n="24" xml:id="img_0024" break="yes"/>§ 7.</p>
                 <p>(1) Die staatlichen Behörden mit Ausnahme jener der allgemeinen politischen
                     Verwaltung in den Ländern (Landesregierungen, Bezirkshauptmannschaften)
                     einschließlich der bei diesen Behörden vereinigten besonderen Dienstzweige (bau-
@@ -545,13 +586,13 @@
                 <p>(3) Die Behörden und Aemter der bisherigen autonomen Verwaltung <choice>
                         <del>in den</del>
                         <add>der</add>
-                    </choice>  Länder<del>n</del><del> (Landesämter, Bezirksausschüsse,
+                    </choice> Länder<del>n</del><del> (Landesämter, Bezirksausschüsse,
                         Gemeinden)</del> werden Behörden (Aemter) des Landes im Sinne des
-                    Bundes-Verfassungsgesetzes.(4) Die staatlichen Anstalten gehen an den Bund über,
-                    die Landesanstalten sind Anstalten der Länder; die Anstalten der Bezirke,
-                    Gemeinden und sonstigen öffentlich-rechtlichen Körperschaften sind Anstalten
-                    dieser Körperschaften. <pb facs="#facs_25" n="25" xml:id="img_0025" break="yes"
-                    />  8.</p>
+                    Bundes-Verfassungsgesetzes.</p>
+                <p>(4) Die staatlichen Anstalten gehen an den Bund über, die Landesanstalten sind
+                    Anstalten der Länder; die Anstalten der Bezirke, Gemeinden und sonstigen
+                    öffentlich-rechtlichen Körperschaften sind Anstalten dieser Körperschaften. </p>
+                <p><pb facs="#facs_25" n="25" xml:id="img_0025" break="yes"/>8.</p>
                 <p>(1) Die Angestellten der staatlichen Behörden, die nach § 7, Abs. 1
                     Bundesbehörden werden, werden Angestellte des Bundes.</p>
                 <p>(2) Die Stellung der Angestellten der in § 7, Abs. 1 angenommenen staatlichen
@@ -560,10 +601,10 @@
                 <p><del>(3) Die bei staatlichen Anstalten angestellten Personen werden Angestellte
                         des Bundes, die Angestellten bei Landesanstalten Angestellte der Länder, die
                         Angestellten bei Anstalten der Bezirke, Gemeinden und sonstiger öffentlicher
-                        Körperschaften sind Angestellte dieser Körperschaften. </del><pb
-                        facs="#facs_26" n="26" xml:id="img_0026" break="yes"/>Beil. IV</p>
-                <p><head>Anträge des Prof. Seipel zu Art. 158 des Entwurfes.</head></p>
-                <p>(Anregung 1.St.K.) </p>
+                        Körperschaften sind Angestellte dieser Körperschaften. </del></p>
+                <p><pb facs="#facs_26" n="26" xml:id="img_0026" break="yes"/>Beil. IV</p>
+                <p><emph>Anträge des Prof. Seipel zu Art. 158 des Entwurfes.</emph>(Anregung
+                    1.St.K.) </p>
                 <p>Abs. (1) <del>„</del>Ausser diesem Gesetze haben im Sinne des Artikels 3, Abs. 1,
                     unter Berücksichtigung der durch dieses Gesetz bedingten Aenderungen als
                     Verfassungsgesetze zu gelten: </p>
@@ -577,8 +618,7 @@
                         n="27" xml:id="img_0027" break="yes"/> Der Verfassungsbeschluß hält morgen
                     Samstag, den 25. d. M., um 3 Uhr nachmittags im Lokal I Sitzung. Wien, am 24.
                     September 1920.Dr. Bauer, Obmann. </p>
-                <?oxy_comment_start author="zuegel.n" timestamp="20250805T160343+0200" comment="Das mir vorliegende PDF enthält 2 weitere DinA4 Seiten mit kleinteiligen BEilagen, die hier fehlen. Ich habe dies schon einmal zurückgemeldet. Ist deren Fehlen geklärt und für korrekt befunden?"?>
-            </div><?oxy_comment_end?>
+            </div>
         </body>
    
     </text>
