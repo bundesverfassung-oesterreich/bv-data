@@ -122,29 +122,55 @@
     <text type="Sitzungsprotokoll">
         <body>
          <div type="main">
-            <pb facs="#facs_1" n="1" xml:id="img_0001" break="yes"/>
-            <p>22 <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/> 92. KONSTITUIERENDE
-                    NATIONALVERSAMMLUNG DER REPUBLIK OSTERREICH. Verfassungs-Ausschuss Protokoll
-                    über die Sitzung am 15. Juli 1920 Anwesende: Seitens der Regierung: Hofräte
-                    Fröhlich u. Ruber Obmann: Dr Seipel Obmann=Stellvertreter: Schriftführer:
-                    Danneberg Mitglieder: <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
-                    <del>Vorsitzender Dr Seipel berichtet, daß</del> Berichterst. Dr. Adler
-                    beantragt die Reassumierung des § 4 (923 d Beil) und beantragt die
-                    Wiederherstellung "<emph>drei </emph> Jahre". </p>
+            <p><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>KONSTITUIERENDE
+                    NATIONALVERSAMMLUNG DER REPUBLIK OSTERREICH.</p>
+                <head>Verfassungs-Ausschuss</head>
+                <p>Protokoll über die Sitzung am 15. Juli 1920</p>
+                <p>Anwesende:</p>
+                <p>Seitens der Regierung: <list>
+                        <item>Hofräte Fröhlich </item>
+                        <item>u. Ruber  </item>
+                    </list></p>
+                <p>Obmann: <list>
+                        <item>Dr Seipel </item>
+                    </list>
+                </p>
+                <p>Obmann=Stellvertreter: </p>
+                <p>Schriftführer: <list>
+                        <item>Danneberg </item>
+                    </list></p>
+                <p>Mitglieder: </p>
+                <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
+                    <del>Vorsitzender Dr Seipel berichtet, daß</del>
+                </p>
+                <p>Berichterst. Dr. Adler beantragt die Reassumierung des § 4 (923 d Beil) und
+                    beantragt die Wiederherstellung "<emph>drei </emph> Jahre". </p>
                 <p>Zu Beil 924, Punkt 25 beantragt er <add>nach Reassumierung</add> bei Untersteier
                     statt 5 "6" Mandate zu <gap reason="illegible"/> u. den Absatz über Obersteier
                     zu streichen. Ferner die Bestimmung gemäß Antrag Danneberg bezügl. der
                     Wahlkreise 1-11 zu streichen. Alle Anträge werden angenommen. </p>
                 <p><del>Abg. Austerlitz</del> Zum Berichterstatter fürs Haus wird Dr Adler bestellt </p>
-                <p>Seipel Vorsitzender Danneberg Schriftführer <pb facs="#facs_4" n="4"
-                        xml:id="img_0004" break="yes"/> Präsenzliste des Verfassungs-Ausschusses vom
-                    15. Juli 1920 </p>
-                <p>Seipel Fink <gap reason="illegible"/><gap reason="illegible"/><gap
-                        reason="illegible"/> Austerlitz <gap reason="illegible"/><pb facs="#facs_5"
-                        n="5" xml:id="img_0005" break="yes"/> Der Verfassungsausschuß hält morgen,
-                    Donnerstag, den 15. d.M., nach Schluß der Haussitzung im Lokal I eine Sitzung
-                    ab. Tagesordnung: Die Wahlordnung für die Nationalversammlung. Wien, den 14.
-                    Juli 1920. Bauer, Obmann. </p>
+                <p>Seipel Vorsitzender </p>
+                <p>Danneberg Schriftführer</p>
+                <p><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><emph>Präsenzliste der
+                        Sitzung des Verfassungs-Ausschusses vom 15. Juli 1920 </emph><list>
+                        <item>Seipel Fink </item>
+                        <item><gap reason="illegible"/>
+                        </item>
+                        <item><gap reason="illegible"/>
+                        </item>
+                        <item><gap reason="illegible"/>
+                        </item>
+                        <item>Austerlitz </item>
+                        <item><gap reason="illegible"/>
+                        </item>
+                    </list></p>
+                <p><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>Der Verfassungsausschuß
+                    hält morgen, Donnerstag, den 15. d.M., nach Schluß der Haussitzung im Lokal I
+                    eine Sitzung ab.</p>
+                <p>Tagesordnung: Die Wahlordnung für die Nationalversammlung.</p>
+                <p>Wien, den 14. Juli 1920.</p>
+                <p>Bauer, Obmann. </p>
             
             
             
