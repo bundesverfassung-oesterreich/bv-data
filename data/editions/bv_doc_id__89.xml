@@ -97,7 +97,7 @@
                 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="created">
+        <revisionDesc status="done">
             <change when="2025-07-23" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
@@ -149,31 +149,51 @@
     <text type="Sitzungsprotokoll">
         <body>
          <div type="main">
-            <pb facs="#facs_1" n="1" xml:id="img_0001" break="yes"/>
-            <p>24. Sitz. <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>  24. Sitzung des
-                    Verfassungs-Ausschusses Protokoll über die Sitzung am 24. September 1920 /:
-                    vorm. 10h:/  Anwesende: Seitens der Regierung: Staatssekretär Dr. Mayr,
-                    Sektionsrat Dr Mannlicher, Professor Dr. Kelsen, der Staatskanzler. Staatsamt
-                    für Heerwesen, Sekt. Chef Dr. Kratowsky, Min.Rat Paul Staastamt für Justiz:
-                    Min.Rat Dr. Kadecka, Sekt.Rat Dr. Hesse, Min.Sek. Suchomel, Unterrichtsamt Min.
-                    Rat Dr. Ruger u. von der Staatskanzlei noch M. V. S. Dr. Merkl. Obmann: Dr.
-                    Bauer Obmann-Stellvertreter: Dr. Seipel Schriftführer: Dr. Aigner Mitglieder:
-                        <emph>laut Präsenzenzliste (Beilage 1.)</emph><pb facs="#facs_3" n="3"
-                        xml:id="img_0003" break="yes"/>
-                    <emph>Gegen 11 Uhr 30 Minuten v.m. Abg. Clessin</emph> beantragt vor Eingang in
-                    die Behandlung der "Verfassungsreform" den Antrag Dr. Dinghofer u. Genossen
-                    betrffd. die Durchführung einer Volksabtstimmung über den Anschluss an
-                    Deutschland in Verhandlung zu ziehen. Wird mit Rücksicht auf die Erklärungen des
-                    H. Praesidenten Seitz im heutigen Hauptausschuß (Vorstellungen Kärntens) mit den
+                <head><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>24. Sitzung des
+                    Verfassungs-Ausschusses</head>
+                <p>Protokoll über die Sitzung am 24. September 1920 /: vorm. 10h:/ </p>
+                <p>Anwesende: </p>
+                <p>Seitens der Regierung: <list>
+                        <item>Staatssekretär Dr. Mayr, </item>
+                        <item>Sektionsrat Dr Mannlicher, </item>
+                        <item>Professor Dr. Kelsen, </item>
+                        <item>der Staatskanzler. </item>
+                        <item>Staatsamt für Heerwesen, Sekt. </item>
+                        <item>Chef Dr. Kratowsky,  </item>
+                        <item>Min.Rat Paul Staastamt für Justiz: </item>
+                        <item>Min.Rat Dr. Kadecka, </item>
+                        <item>Sekt.Rat Dr. Hesse, </item>
+                        <item>Min.Sek. Suchomel, </item>
+                        <item>Unterrichtsamt Min. Rat Dr. Ruger </item>
+                        <item>u. von der Staatskanzlei noch M. V. S. Dr. Merkl.  </item>
+                    </list></p>
+                <p>Obmann:<list>
+                        <item>Dr. Bauer  </item>
+                    </list></p>
+                <p>Obmann-Stellvertreter: <list>
+                        <item>Dr. Seipel </item>
+                    </list></p>
+                <p>Schriftführer: <list>
+                        <item>Dr. Aigner </item>
+                    </list></p>
+                <p>Mitglieder: <list>
+                        <item>laut Präsenzenzliste (Beilage 1.) </item>
+                    </list></p>
+                <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><emph>Gegen 11 Uhr 30
+                        Minuten v.m. Abg. Clessin</emph> beantragt vor Eingang in die Behandlung der
+                    "Verfassungsreform" den Antrag Dr. Dinghofer u. Genossen betrffd. die
+                    Durchführung einer Volksabtstimmung über den Anschluss an Deutschland in
+                    Verhandlung zu ziehen. Wird mit Rücksicht auf die Erklärungen des H.
+                    Praesidenten Seitz im heutigen Hauptausschuß (Vorstellungen Kärntens) mit den
                     Stimmen der Christlichsozialen u. sozialdemokatischen Vertreter gegen die
                     Stimmen der Großdeutschen Mitglieder des Ausschusses <emph>abgelehnt</emph>. </p>
                 <p>Es wird sodann in die Tagsordnung eingegangen u. erstattet <emph>Abg. Dr.
                         Seipel</emph> als Referent des Unterauschusses den Bericht über den
                         <emph>Entwurf eines Gesetzes, womit die Republik Oesterreich als Bundestaat
                         eingerichtet wird (Bundes-Verfassungsgesetz) Fassung nach dem Stande der
-                        Beratungen am 15. September 1920</emph>. Abg. <emph>Seipel beantragt</emph>
-                    das Eingehen in die Spezialdebatte, nachdem sich zur Generaldebatte niemand zu
-                    Worte meldet. <emph>Angenommen</emph>. </p>
+                        Beratungen am 15. September 1920</emph>.</p>
+                <p>Abg. <emph>Seipel beantragt</emph> das Eingehen in die Spezialdebatte, nachdem
+                    sich zur Generaldebatte niemand zu Worte meldet. <emph>Angenommen</emph>. </p>
                 <p><emph>Es wird in die Spezialdebatte eingegangen</emph>. </p>
                 <p><emph>Artikel 1 wird beschlossen</emph>. </p>
                 <p><emph>Zum Artikel 2</emph> sprechen Abg. Dr. <emph>Danneberg</emph>, Abg. 
@@ -207,16 +227,16 @@
                 <p>Die Beratung über Artikel 10–12 wird wegen der noch anstehenden
                     Parteiverhandlungen über gewisse Materien dieser Artikel vorläufig verschoben. </p>
                 <p><emph>Über formalen Antrag Dr Weißkirchner wird die Sitzung um 12 Uhr 30 Minuten
-                        unterbrochen</emph>. Die Sitzung wird um 3 Uhr 15 Minuten nachm, wieder
-                    aufgenommen. Abg. Dr Seipel berichtet zunächst über den Minoritätsantrag
-                        <emph>Fink u. Genossen zu Artikel 3 (siehe Blg. 3.) Dieser Minoritätsantrag
-                        wird abgelehnt.</emph><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"
-                        /><gap reason="illegible"/>
+                        unterbrochen</emph>.</p>
+                <p>Die Sitzung wird um 3 Uhr 15 Minuten nachm, wieder aufgenommen. Abg. Dr Seipel
+                    berichtet zunächst über den Minoritätsantrag <emph>Fink u. Genossen zu Artikel 3
+                        (siehe Blg. 3.) Dieser Minoritätsantrag wird abgelehnt.</emph><pb
+                        facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><gap reason="illegible"/>
                     <emph>Abg. Danneberg</emph> berichtet über den Minoritätsantrag der
-                    Sozialdemokraten zu Artikel 3. <emph>Dieser Minoritätsantrag Danneberg und
-                        Genossen wird abgelehnt (siehe Artikel 4 der Blge 904)</emph>. A<emph>bg. Dr
-                        Seipel</emph> berichtet über Artikel <emph>12a</emph>. <emph>Artikel 12a ist
-                        beschlossen</emph>. </p>
+                    Sozialdemokraten zu Artikel 3. <emph/></p>
+                <p><emph>Dieser Minoritätsantrag Danneberg und Genossen wird abgelehnt (siehe
+                        Artikel 4 der Blge 904)</emph>. A<emph>bg. Dr Seipel</emph> berichtet über
+                    Artikel <emph>12a</emph>. <emph>Artikel 12a ist beschlossen</emph>. </p>
                 <p><emph>Artikel 13 beschlossen</emph>. </p>
                 <p><emph>Artikel 13a beschlossen</emph>. </p>
                 <p><emph>Artikel 14 beschlossen</emph>. <emph>Die Beratung über Artikel 14a wird
@@ -258,13 +278,15 @@
                             wer<del>Artikel</del>den beschlossen.</emph></p>
                 <p>Abg. Danneberg spricht zu Artikel 49, Artikel 49–57 werden beschlossen </p>
                 <p><emph>Überschrift "Bundesregierung" beschlossen. Artikel 58–66 werden
-                        beschlossen. Überschrift "Bundesheer" sowie Artikel 69–71 werden
-                        beschlossen. Überschrift "Gerichtsbarkeit" sowie </emph><pb facs="#facs_8"
-                        n="8" xml:id="img_0008" break="yes"/>
-                    <emph>Artikel 72–84 werden beschlossen.  Min. Sek. Dr. Suchomel</emph> schlägt
-                    vor, in Artikel <emph>76, Art. 1, Zeile 2 die Worte "oder in dem
-                        Gerichtsverfassungsgesetze" als überflüssig zu streichen</emph>
-                    <emph>Abg. Dr Seipel nimmt diesen Vorschlag als Antrag auf. angenommen.</emph>
+                        beschlossen.</emph></p>
+                <p><emph>Überschrift "Bundesheer" sowie Artikel 69–71 werden beschlossen.</emph></p>
+                <p><emph>Überschrift "Gerichtsbarkeit" sowie </emph><pb facs="#facs_8" n="8"
+                        xml:id="img_0008" break="yes"/><emph>Artikel 72–84 werden
+                        beschlossen.</emph></p>
+                <p><emph>Min. Sek. Dr. Suchomel</emph> schlägt vor, in Artikel <emph>76, Art. 1,
+                        Zeile 2 die Worte "oder in dem Gerichtsverfassungsgesetze" als überflüssig
+                        zu streichen</emph></p>
+                <p><emph>Abg. Dr Seipel nimmt diesen Vorschlag als Antrag auf. angenommen.</emph>
                 </p>
                 <p><emph>Überschríft samt Untertitel des nächsten III. Hauptstückes werden
                         beschlossen.</emph></p>
@@ -281,20 +303,14 @@
                 <p><emph>Artikel 97a–97f werden beschlossen</emph></p>
                 <p><emph>Art. 97.e Abs 2. Zeile 10 "doch - gemacht werden" jedoch mit Majorität d.
                         h. gegen die Stimmen der Sozialdem. Vertreter. </emph></p>
-            
-            
-            
-            
-            
-            
-            
-            <p><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
-                    <emph>Abg. Fink stellt zu Artikel 31, Abs. 4, den Antrag, "daß für die zweite
-                        Abstimmung des Nationalrats die Zweidrittelmajorität notwendig sei"  u. der
-                        Eventualantrag für den Fall der Ablehnung des ersten Antrag "daß für die
-                        zweite Abstimmung des Nationalrates die Anwesenheit der Hälfte der
-                        Nationalratmitglieder notwendig sei.  Über Antrag des Abg. Dr. Seipel wird
-                        die Abstimmung über Artikel. 31. Abs. 4, ressümiert </emph></p>
+                <p><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><emph>Abg. Fink stellt zu
+                        Artikel 31, Abs. 4, den Antrag, "daß für die zweite Abstimmung des
+                        Nationalrats die Zweidrittelmajorität notwendig sei" u. der Eventualantrag
+                        für den Fall der Ablehnung des ersten Antrag "daß für die zweite Abstimmung
+                        des Nationalrates die Anwesenheit der Hälfte der Nationalratmitglieder
+                        notwendig sei.</emph></p>
+                <p><emph>Über Antrag des Abg. Dr. Seipel wird die Abstimmung über Artikel. 31. Abs.
+                        4, ressümiert </emph></p>
                 <p><emph>Eventualantrag Fink beschlossen</emph></p>
                 <p><emph>Überschrift u. Untertitel des nächsten V. Hauptstückes werden
                         beschlossen</emph></p>
@@ -304,57 +320,82 @@
                 <p><emph>Überschrift des VI. Hauptstückes samt Untertitel wird
                     beschlossen.</emph></p>
                 <p><emph>Es wird nochmals die Debatte über frühere, bereits behandelte Artikel
-                        eröffnet.</emph>
-                    <emph>Zu Artikel 13 sprechen die Abg. Dr. Seipel, Dr. Gürtler, Austerlitz, Prof.
-                        Kelsen.</emph>
-                    <emph>Zu Artikel 13, Abs. 4, sprechen Prof. Dr. Kelsen, Dr. Bauer, ersterer
+                        eröffnet.</emph></p>
+                <p><emph>Zu Artikel 13 sprechen die Abg. Dr. Seipel, Dr. Gürtler, Austerlitz, Prof.
+                        Kelsen.</emph></p>
+                <p><emph>Zu Artikel 13, Abs. 4, sprechen Prof. Dr. Kelsen, Dr. Bauer, ersterer
                         schlägt vor, hier die</emph> Worte "zur Ermöglichung der Geltendmachung des
-                    Beschwerderechtes nach Artikel 138, Abs. 2" zu streichen. <pb facs="#facs_10"
-                        n="10" xml:id="img_0010" break="yes"/> Abg. Danneberg beantragt die
-                    Reassumierung der früheren Beschlußfassung. <emph>angenommen</emph>. Abg.
-                        <emph>Danneberg</emph> nimmt den Vorschlag des Prof. Kelsen als
-                        <emph>Antrag</emph> auf. <emph>gefallen</emph>. <emph>Die Artikel 138–146
-                        des VI. Hauptstückes samt Titel Verwaltungsgerichtshof werden
-                        beschlossen.</emph>
-                    <del><emph>Die Artikel 147–157 samt Titel "Verfassungsgerichtshof" werden
+                    Beschwerderechtes nach Artikel 138, Abs. 2" zu streichen.</p>
+                <p><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>Abg. Danneberg
+                    beantragt die Reassumierung der früheren Beschlußfassung.
+                        <emph>angenommen</emph>. Abg. <emph>Danneberg</emph> nimmt den Vorschlag des
+                    Prof. Kelsen als <emph>Antrag</emph> auf. <emph>gefallen</emph>.</p>
+                <p><emph>Die Artikel 138–146 des VI. Hauptstückes samt Titel Verwaltungsgerichtshof
+                        werden beschlossen.</emph></p>
+                <p><del><emph>Die Artikel 147–157 samt Titel "Verfassungsgerichtshof" werden
                             beschlossen,</emph></del>
                     <emph>In Artikel 152 sollen <del>jedoch</del> die Worte "nebst dem Erkenntnis
                         nach" nach Vorschlag des Prof. Kelsen gestrichen werden.</emph>
                     <emph>Abg. Dr. Seipel nimmt diesen Vorschlag als Antrag auf. Dieser Antrag wird
                         beschlossen.</emph>
-                    <emph>Mit dieser Abänderung werden die Artikel 147–152 beschlossen.</emph> Abg.
-                        <emph>Austerlitz beantragt</emph> zu Artikel 152 statt der Worte
+                    <emph>Mit dieser Abänderung werden die Artikel 147–152 beschlossen.</emph></p>
+                <p>Abg. <emph>Austerlitz beantragt</emph> zu Artikel 152 statt der Worte
                         <emph>"bezeichneten Personen</emph>" durch "<emph>genannten</emph>" zu
-                    ersetzen. <emph>angenommen</emph>. <emph>Artikel 152a–157 werden
-                        beschlossen</emph>. <emph>Titel "VII. Hauptstück, Schlußbestimmungen wird
-                        beschloßen</emph>. <emph>Zu Artikel 158 schlägt Hofrat Dr. Froehlich mehrere
-                        Änderungen vor, die aus Beilage 4. dieses Protokolles zu entnehmen
-                        sind.</emph> (Blatt 4 wird, von der Staatskanzlei nachgebracht:) </p>
-            
-            
-            <p><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
-                    <emph>Abg. Dr. Seipel</emph> nimmt diese Vorschläge als <emph>Anträge</emph>
-                    auf. Artikel 158 wird mit den <emph>Änderungen</emph> nach dem vorstehenden
+                    ersetzen. <emph>angenommen</emph>.</p>
+                <p><emph>Artikel 152a–157 werden beschlossen</emph>.</p>
+                <p><emph>Titel "VII. Hauptstück, Schlußbestimmungen wird beschloßen</emph>.</p>
+                <p><emph>Zu Artikel 158 schlägt Hofrat Dr. Froehlich mehrere Änderungen vor, die aus
+                        Beilage 4. dieses Protokolles zu entnehmen sind.</emph> (Blatt 4 wird, von
+                    der Staatskanzlei nachgebracht:) </p>
+                <p><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><emph>Abg. Dr.
+                        Seipel</emph> nimmt diese Vorschläge als <emph>Anträge</emph> auf.</p>
+                <p>Artikel 158 wird mit den <emph>Änderungen</emph> nach dem vorstehenden
                         <emph>Antrag Dr. Seipel beschlossen</emph>. </p>
                 <p><emph>Artikel 159</emph> wird beschlossen. </p>
                 <p><emph>Zu Artikel 160 beantragt Abg. Austerlitz "ein bestimmtes Datum" zu
                         setzten.</emph>
                     <emph>abgelehnt</emph>. </p>
                 <p><emph>Artikel 160 u. 161. beschlossen</emph>. </p>
-                <p>Nächste Sitzung 25. d.M. 3 Uhr. u.m.  <emph>Schluß der Sitzung 5 Uhr 40 Minuten
-                        nachmittags</emph>. Bauer Dr. Aigner Schriftführer <pb facs="#facs_12"
-                        n="12" xml:id="img_0012" break="yes"/> Präsenzliste der Sitzung des
-                    Verfassungs-Ausschusses vom 24. September 1920  Bauer Seipel <gap
-                        reason="illegible"/>
-                    <gap reason="illegible"/>
-                    <gap reason="illegible"/><gap reason="illegible"/>
-                    <gap reason="illegible"/>
-                    <gap reason="illegible"/> Austerlitz <gap reason="illegible"/>
-                    <gap reason="illegible"/> Wagner Fink <gap reason="illegible"/>Dr. Aigner  Dr.
-                        Ramek<gap reason="illegible"/></p>
-                <p><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>Beilage 3</p>
-                <head>Minderheitsantrag der Abgeordneten Pink und Genossen</head>
-                <p> Dem Artikel 3 ist anzufügen: (<choice>
+                <p>Nächste Sitzung 25. d.M. 3 Uhr. u.m.</p>
+                <p><emph>Schluß der Sitzung 5 Uhr 40 Minuten nachmittags</emph>.</p>
+                <p>Bauer</p>
+                <p>Dr. Aigner</p>
+                <p>Schriftführer</p>
+                <p><pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>Präsenzliste der
+                    Sitzung des Verfassungs-Ausschusses vom 24. September 1920 <list>
+                        <item>Bauer </item>
+                        <item>Seipel </item>
+                        <item><gap reason="illegible"/>
+                        </item>
+                        <item><gap reason="illegible"/>
+                        </item>
+                        <item><gap reason="illegible"/>
+                        </item>
+                        <item><gap reason="illegible"/>
+                        </item>
+                        <item><gap reason="illegible"/>
+                        </item>
+                        <item><gap reason="illegible"/>
+                        </item>
+                        <item>Austerlitz </item>
+                        <item><gap reason="illegible"/>
+                        </item>
+                        <item><gap reason="illegible"/>
+                        </item>
+                        <item> Wagner</item>
+                        <item>Fink</item>
+                        <item><gap reason="illegible"/>
+                        </item>
+                        <item>Dr. Aigner </item>
+                        <item>Dr. Ramek </item>
+                        <item><gap reason="illegible"/>
+                        </item>
+                    </list></p>
+                <head><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>Minderheitsantrag
+                    der Abgeordneten Pink und Genossen</head>
+                <p>Beilage 3</p>
+                <p>Dem Artikel 3 ist anzufügen:</p>
+                <p>(<choice>
                         <del>3</del>
                         <add>4</add>
                     </choice>) Innerhalb der ersten zehn Jahre des Bestandes dieser Verfassung kann
@@ -375,15 +416,17 @@
                     aus Anlass der Lösung des Bundesverhältnisses finanzrechtliche Schwierigkeiten
                     ergeben, die durch Einvernehmen des Bundes mit dem ausscheidenden Lande nicht
                     behoben werden können. </p>
-                <p>Wien, 24. September 1920 Fink Dr. Ramek Dr. Aigner 21. Sitz. Prot. 24./9.1920 <pb
-                        facs="#facs_14" n="14" xml:id="img_0014" break="yes"/> Der
-                    Verfassungsausschuß hält Freitag, den 24.d.M um 11 Uhr vermittags im Lokale I
-                    Sitzung. Wien, am 18. September 1920. Dr. Bauer, Obmann. </p>
-            
-            
-            
-            
-         </div>
+                <p>Wien, 24. September 1920<list>
+                        <item>Fink </item>
+                        <item>Dr. Ramek </item>
+                        <item>Dr. Aigner </item>
+                    </list></p>
+                <p>21. Sitz. Prot. 24./9.1920 <pb facs="#facs_14" n="14" xml:id="img_0014"
+                        break="yes"/>Der Verfassungsausschuß hält Freitag, den 24.d.M um 11 Uhr
+                    vermittags im Lokale I Sitzung.</p>
+                <p>Wien, am 18. September 1920.</p>
+                <p>Dr. Bauer, Obmann.</p>
+            </div>
       </body>
    
     </text>
