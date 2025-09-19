@@ -61,7 +61,11 @@
         <idno type="bv_data_set">Datenset A</idno>
         <idno type="goobi">14540</idno>
       </publicationStmt>
-      <sourceDesc>
+      <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">2000</biblScope>
+</seriesStmt>
+<sourceDesc>
         <msDesc type="invetory">
           <msIdentifier>
             <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
@@ -237,8 +241,7 @@
               erfolgt die Gebietsänderung, durch einfaches Gesetz dieses Landes. </p>
             <p type="legal_section"><label>(3)</label> Entscheidet die Volksabstimmung für die
               Bildung eines neuen Landes, dann ist, wenn das Gebiet wenigstens 140.000 Einwohner
-              zählt, durch den Präsidenten des Bundes<fw type="pageNum">573 </fw><pb facs="#facs_3"
-                n="3" xml:id="img_0003" break="no"/>tages nach dem Bundestagswahlrecht ein
+              zählt, durch den Präsidenten des Bundes<fw type="pageNum">573 </fw><pb facs="#facs_3" n="3" xml:id="img_0003" break="no"/>tages nach dem Bundestagswahlrecht ein
               verfassunggebender Landtag zur Konstituierung des neuen Landes einzuberufen. Das
               Nähere regelt ein Bundesgesetz. </p>
             <p type="legal_section"><label>(4)</label> Ueber Streitigkeiten, die aus der
@@ -441,8 +444,7 @@
               Durchführungsgesetzes auf den Bund über. </p>
             <p type="legal_section"><label>(3)</label> Die Länder sind im Bereiche ihres
               Gesetzgebungsrechtes befugt, die zur Regelung des Gegenstandes erforderlichen
-              Bestimmungen auch auf dem Gebiete des Straf- und Zivilrechtes zu treffen. <fw
-                type="pageNum">- 4 -</fw></p>
+              Bestimmungen auch auf dem Gebiete des Straf- und Zivilrechtes zu treffen. <fw type="pageNum">- 4 -</fw></p>
           </div>
           <div type="article">
             <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
@@ -568,8 +570,7 @@
               <p type="legal_section"><label>(2)</label> Die Vertagung ist vor Ablauf der
                 Hertagungszeit aufzuheben, wenn wenigstens ein Viertel der Mitglieder des
                 Bundestages einen schriftlichen Antrag beim Präsidenten gestellt hat. Dieser hat die
-                Bundesregierung von dem er<fw type="pageNum">- 6 - </fw><pb facs="#facs_8" n="8"
-                  xml:id="img_0008" break="no"/>folgten Antrag zu verständigen und den Bundestag
+                Bundesregierung von dem er<fw type="pageNum">- 6 - </fw><pb facs="#facs_8" n="8" xml:id="img_0008" break="no"/>folgten Antrag zu verständigen und den Bundestag
                 wieder einzuberufen. </p>
             </div>
             <div type="article">
@@ -897,8 +898,7 @@
                 <head>Artikel 53. </head>
                 <p type="legal_section"><label>(1)</label> Die dem Präsidenten des Bundestages
                   übertragenen Funktionen der Regierungs- und Vollzugsgewalt gehen im Falle seiner
-                  Verhinderung auf den zweiten und, wenn bei <fw type="pageNum">- 11 -</fw><pb
-                    facs="#facs_13" n="13" xml:id="img_0013" break="yes"/> diesem der gleiche Fall
+                  Verhinderung auf den zweiten und, wenn bei <fw type="pageNum">- 11 -</fw><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/> diesem der gleiche Fall
                   eintritt, auf den dritten Präsidenten über. </p>
                 <p type="legal_section"><label>(2)</label> Ebenso gehen die Funktionen der
                   Regierungs- und Vollzugsgewalt im Falle dauernder Erledigung der Stelle des
@@ -960,8 +960,7 @@
                 <head>Artikel 59. </head>
                 <p type="legal_section"><label>(1)</label> Versagt der Bundestag der Bundesregierung
                   oder einzelnen ihrer Mitglieder durch ausdrückliche Entschließung das Vertrauen,
-                  so ist eine neue Bundesregierung zu be<fw type="pageNum">- 12 -</fw><pb
-                    facs="#facs_14" n="14" xml:id="img_0014" break="no"/> stellen oder der
+                  so ist eine neue Bundesregierung zu be<fw type="pageNum">- 12 -</fw><pb facs="#facs_14" n="14" xml:id="img_0014" break="no"/> stellen oder der
                   betreffende Staatssekretär seines Amtes zu entheben. </p>
                 <p type="legal_section"><label>(2)</label> Zu einem Beschlusse des Bundestages, mit
                   dem das Vertrauen versagt wird, ist die Anwesenheit der Hälfte der Mitglieder des
@@ -1159,8 +1158,7 @@
             <head>Artikel 81. </head>
             <p type="legal_section"><label>(1)</label> Die gesetzgebende Gewalt der Länder wird
               durch die Landtage ausgeübt, deren Mitglieder auf Grund des gleichen, geheimen,
-              direkten und persönlichen Verhältniswahl<fw type="pageNum">- 15 -</fw><pb
-                facs="#facs_17" n="17" xml:id="img_0017" break="no"/> rechtes aller nach den
+              direkten und persönlichen Verhältniswahl<fw type="pageNum">- 15 -</fw><pb facs="#facs_17" n="17" xml:id="img_0017" break="no"/> rechtes aller nach den
               Landtagswahlordnungen wahlberechtigten Bundesangehörigen ohne Unterschied des
               Geschlechtes gewählt werden. </p>
             <p type="legal_section"><label>(2)</label> Die Landtagswahlordnungen sowie die
@@ -1593,8 +1591,7 @@
             <head>Artikel 128. </head>
             <p type="legal_section">Es besteht allgemeine Schulpflicht. Ihrer Erfüllung dient
               grundsätzlich die Volksschule mit mindestens acht Schuljahren und die anschließende
-              Fortbildungsschule bis zum vollen<fw type="pageNum">- 22 -</fw><pb facs="#facs_24"
-                n="24" xml:id="img_0024" break="no"/>deten 18. Lebensjahre. Der Unterricht und die
+              Fortbildungsschule bis zum vollen<fw type="pageNum">- 22 -</fw><pb facs="#facs_24" n="24" xml:id="img_0024" break="no"/>deten 18. Lebensjahre. Der Unterricht und die
               Lernmittel sind unentgeltlich. </p>
           </div>
           <div type="article">
@@ -1658,8 +1655,7 @@
             <head>Artikel 135. </head>
             <p type="legal_section">Wo eine verhältnismäßig beträchtliche Anzahl von
               Bundesangehörigen wohnt, die einer Minderheit nach Nationa<fw type="pageNum">- 23
-                -</fw><fw type="pageNum">584</fw><pb facs="#facs_25" n="25" xml:id="img_0025"
-                break="no"/>lität oder Sprache angehört, sind von allen Beiträgen, die etwa für
+                -</fw><fw type="pageNum">584</fw><pb facs="#facs_25" n="25" xml:id="img_0025" break="no"/>lität oder Sprache angehört, sind von allen Beiträgen, die etwa für
               Erziehungs- oder Wohltätigkeitszwecke aus öffentlichen Mitteln zugewendet werden,
               diese Minderheiten angemessen zu beteilen. </p>
           </div>

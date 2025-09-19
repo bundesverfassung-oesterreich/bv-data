@@ -30,13 +30,11 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372"
-                        >Peter Andorfer </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X"
-                        >Carl Friedrich Haak </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -63,7 +61,11 @@
                 <idno type="bv_data_set">Datenset B</idno>
                 <idno type="goobi">14597</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset B</title>
+<biblScope unit="part">2000</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
@@ -110,64 +112,40 @@
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
         <surface ulx="0" uly="0" lrx="2931" lry="4851" xml:id="facs_2">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0037/full/full/0/default.jpg"
-                width="2931px" height="4851px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0037/full/full/0/default.jpg" width="2931px" height="4851px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2945" lry="4834" xml:id="facs_3">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0038/full/full/0/default.jpg"
-                width="2945px" height="4834px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0038/full/full/0/default.jpg" width="2945px" height="4834px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2929" lry="4862" xml:id="facs_4">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0039/full/full/0/default.jpg"
-                width="2929px" height="4862px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0039/full/full/0/default.jpg" width="2929px" height="4862px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2929" lry="4803" xml:id="facs_5">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0040/full/full/0/default.jpg"
-                width="2929px" height="4803px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0040/full/full/0/default.jpg" width="2929px" height="4803px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2961" lry="4798" xml:id="facs_6">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0041/full/full/0/default.jpg"
-                width="2961px" height="4798px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0041/full/full/0/default.jpg" width="2961px" height="4798px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2869" lry="4776" xml:id="facs_7">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0042/full/full/0/default.jpg"
-                width="2869px" height="4776px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0042/full/full/0/default.jpg" width="2869px" height="4776px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2854" lry="4744" xml:id="facs_8">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0043/full/full/0/default.jpg"
-                width="2854px" height="4744px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0043/full/full/0/default.jpg" width="2854px" height="4744px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2858" lry="4739" xml:id="facs_9">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0044/full/full/0/default.jpg"
-                width="2858px" height="4739px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0044/full/full/0/default.jpg" width="2858px" height="4739px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2874" lry="4722" xml:id="facs_10">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0045/full/full/0/default.jpg"
-                width="2874px" height="4722px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0045/full/full/0/default.jpg" width="2874px" height="4722px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2836" lry="4801" xml:id="facs_11">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0046/full/full/0/default.jpg"
-                width="2836px" height="4801px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0046/full/full/0/default.jpg" width="2836px" height="4801px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2842" lry="4675" xml:id="facs_12">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0047/full/full/0/default.jpg"
-                width="2842px" height="4675px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0047/full/full/0/default.jpg" width="2842px" height="4675px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2806" lry="4692" xml:id="facs_13">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0048/full/full/0/default.jpg"
-                width="2806px" height="4692px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__48/files/images/IMG_0048/full/full/0/default.jpg" width="2806px" height="4692px"/>
         </surface>
     </facsimile>
     <text type="Sitzungsprotokoll">
@@ -226,8 +204,7 @@
                 <p>Auf Grund einer Anregung Prof. Dr. Kelsens wird hiebei beschlossen in Art. 140
                     eine Umstellung der Angelegenheiten, bezüglich deren die Zuständigkeit des
                     Verwaltungsgerichtshofes ausgeschlossen ist, in der Weise vorzunehmen, daß als
-                    Punkt 1 Angelegenheiten „die zur Kompetenz<pb facs="#facs_4" n="4"
-                        xml:id="img_0004" break="yes"/> des Verfassungsgerichtshofes“ als Punkt 2
+                    Punkt 1 Angelegenheiten „die zur Kompetenz<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/> des Verfassungsgerichtshofes“ als Punkt 2
                     solche, über „die den ordentlichen Gerichten die Entscheidung zusteht“,
                     angeführt werden.</p>
                 <p>Auf Einladung des <emph>Vorsitzenden</emph> macht hierauf Min. Rat Dr. Froehlich
@@ -260,8 +237,7 @@
                     beschlossen werden“.</p>
                 <p>Die Annahme dieser Formulierung wird aus dem Grund empfohlen, weil nach der
                     Legaldefinition des Art. 31 alle Gesetze Verfassungsgesetze sind, die mit zwei
-                    Dritteln der abgegebenen Stimmen und mit erhöhtem Quorum beschlos<pb
-                        facs="#facs_5" n="5" xml:id="img_0005" break="no"/>sen werden.</p>
+                    Dritteln der abgegebenen Stimmen und mit erhöhtem Quorum beschlos<pb facs="#facs_5" n="5" xml:id="img_0005" break="no"/>sen werden.</p>
                 <p>Der <emph>Vorsitzende</emph> bemerkt gelegentlich der anschließenden
                     Besprechung, daß in die <emph>Übergangsbestimmungen ein Artikel aufzunehmen sein
                         wird, der besagt, welche Gesetze außer Wirksamkeit gesetzt werden.</emph>
@@ -321,8 +297,7 @@
                     Fragen zu stellen an die Landesverwaltung. Bei der Abstimmung wird die Änderung
                     des Wortes „wahrnehmen“ in „überwachen“ <emph>abgelehnt</emph>. </p>
                 <p>Bei Art. 14 b hält es Prof. Dr. Kelsen für zweifelhaft, ob die Staatssekretäre
-                    nach ihrer staatsrechtli <pb facs="#facs_7" n="7" xml:id="img_0007" break="no"
-                    />chen Stellung als Volksbeauftragte bezeichnet werden können. Der
+                    nach ihrer staatsrechtli <pb facs="#facs_7" n="7" xml:id="img_0007" break="no"/>chen Stellung als Volksbeauftragte bezeichnet werden können. Der
                         <emph>Vorsitzende</emph> stellt fest, daß die Ministerverantwortlichkeit
                     nicht zum Wesen des Volksbeauftragten gehört, wohl aber ist er vom Volk
                     eingesetzt und zählt zu den gewählten Organen wie auch z. B. die Leiter der
@@ -350,8 +325,7 @@
                     anderen Ort. Weiters wird Art. 20, Abs. 2 folgendermaßen stilisiert: „Der
                     neugewählte Nationalrat ist vom Bundespräsidenten innerhalb 30 Tage nach der
                     Wahl einzuberufen“.</p>
-                <p>Bei Art. 26 wird zwar die angeregte Teilung unterlas<pb facs="#facs_8" n="8"
-                        xml:id="img_0008" break="no"/>sen, im 8. Abs. jedoch anstatt „für dessen
+                <p>Bei Art. 26 wird zwar die angeregte Teilung unterlas<pb facs="#facs_8" n="8" xml:id="img_0008" break="no"/>sen, im 8. Abs. jedoch anstatt „für dessen
                     Beschlußfassung“ gesetzt: „<emph>für seine Beschlußfassung</emph>“. Ferner wird
                     in Art. 27, Abs. 1 geändert wie folgt:</p>
                 <p>„(1) <emph>Im Vorsitz des Bundesrates wechseln die Länder halbjährlich in
@@ -377,8 +351,7 @@
                         Geschäftsführung des Nationalrates, ein Gesetz über die Auflösung des
                         Nationalrates, die Bewilligung des Bundesvoranschlages und die Genehmigung
                         des Rechnungsabschlusses, die Aufnahme und Konvertierung von Bundesanleihen
-                        und die Verfügung über Bundesvermögen betreffen, kann der<pb facs="#facs_9"
-                            n="9" xml:id="img_0009" break="yes"/>Bundesrat keinen Einspruch erheben.
+                        und die Verfügung über Bundesvermögen betreffen, kann der<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>Bundesrat keinen Einspruch erheben.
                         Diese Gesetzesbeschlüsse des Nationalrates sind ohne weiters zu beurkunden
                         und kundzumachen“. </p>
                 </quote>
@@ -436,8 +409,7 @@
                     besaß und dessen Rechte auf die Regierung übergegangen sind. Das wichtigste
                     Machtmittel der auswärtigen Politik gegenüber schwachen Ländern ist die
                     Kreditbewilligung. Es wäre denkbar, daß fremde Staaten einzelnen Ländern gegen
-                    Verpfändung oder Veräußerung von Landes<pb facs="#facs_11" n="11"
-                        xml:id="img_0011" break="no"/>vermögen Kredit gewähren, so daß Land um Land
+                    Verpfändung oder Veräußerung von Landes<pb facs="#facs_11" n="11" xml:id="img_0011" break="no"/>vermögen Kredit gewähren, so daß Land um Land
                     der p<choice>
                         <sic>e</sic>
                         <corr>é</corr>
@@ -474,8 +446,7 @@
                     Kelsen angeregten Kürzung der sehr ausführlichen Bestimmungen über das
                     Gemeindewahlrecht, möchte Prof. Dr. Seipel die Parteiberatungen abwarten. Im
                     Sinne einer anderen Anregung Prof. Dr. Kelsens stellt Abg. Leuthner den Antrag
-                    auf Einschaltung eines<pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"
-                    />„ Art. 150 a.</p>
+                    auf Einschaltung eines<pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>„ Art. 150 a.</p>
                 <p>In den Angelegenheiten der Art. 149 - 150 kann der Verfassungsgerichtshof seine
                     Zuständigkeit auch von amtswegen wahrnehmen“. Obwohl Prof. Dr. Kelsen betont,
                     daß der Verfassungsgerichtshof erst durch diese Bestimmung ein objektiver Wahrer
@@ -502,8 +473,7 @@
                     Eherechtsreform fordern eine Festlegung des Rechtes bezüglich Ehedispens und der
                     obligatorischen Zivilehe in der Verfassung. </p>
                 <p>Das Stadtamt Rottenmann wendet sich an die Staatsregierung mit allen Mitteln den
-                    Anschluß an das Deutsche Reich<pb facs="#facs_13" n="13" xml:id="img_0013"
-                        break="yes"/>anzustreben und die Gemeinde Furth im Bezirk Krems begrüßt den
+                    Anschluß an das Deutsche Reich<pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>anzustreben und die Gemeinde Furth im Bezirk Krems begrüßt den
                     Beschluß gegen Verstaatlichung des Schulwesens. </p>
                 <p>Schluß der Sitzung 7 Uhr abends.</p>
             </div>

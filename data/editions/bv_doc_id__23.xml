@@ -61,14 +61,17 @@
                 <idno type="bv_data_set">Datenset A</idno>
                 <idno type="goobi">14547</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">3900</biblScope>
+</seriesStmt>
+<sourceDesc>
                         <listWit>
                               <witness sameAs="#bv_doc_id__22"/>
                         </listWit>
                 <msDesc type="invetory" subtype="secondary">
                               <msIdentifier>
-                                    <institution key="https://d-nb.info/gnd/37748-X"
-                                          >Österreichisches Staatsarchiv</institution>
+                                    <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
                                     <repository key="https://d-nb.info/gnd/1601181-8">Archiv der
                                           Republik (Wien)</repository>
                                     <idno type="archive">AVA, Nachlasssammlung, E1717 (Nachlass
@@ -121,8 +124,7 @@
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="2741" lry="3737" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0136/full/full/0/default.jpg" width="2741px" height="3737px"/></surface><surface ulx="0" uly="0" lrx="2733" lry="3791" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0137/full/full/0/default.jpg" width="2733px" height="3791px"/></surface><surface ulx="0" uly="0" lrx="2765" lry="3775" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0138/full/full/0/default.jpg" width="2765px" height="3775px"/></surface><surface ulx="0" uly="0" lrx="2716" lry="3758" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0139/full/full/0/default.jpg" width="2716px" height="3758px"/></surface><surface ulx="0" uly="0" lrx="2754" lry="3790" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0140/full/full/0/default.jpg" width="2754px" height="3790px"/></surface><surface ulx="0" uly="0" lrx="2724" lry="3742" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0141/full/full/0/default.jpg" width="2724px" height="3742px"/></surface><surface ulx="0" uly="0" lrx="2748" lry="3738" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0142/full/full/0/default.jpg" width="2748px" height="3738px"/></surface><surface ulx="0" uly="0" lrx="2720" lry="3764" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0143/full/full/0/default.jpg" width="2720px" height="3764px"/></surface><surface ulx="0" uly="0" lrx="2767" lry="3746" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0144/full/full/0/default.jpg" width="2767px" height="3746px"/></surface><surface ulx="0" uly="0" lrx="2743" lry="3755" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0145/full/full/0/default.jpg" width="2743px" height="3755px"/></surface><surface ulx="0" uly="0" lrx="2819" lry="3718" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0146/full/full/0/default.jpg" width="2819px" height="3718px"/></surface><surface ulx="0" uly="0" lrx="2787" lry="3816" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0147/full/full/0/default.jpg" width="2787px" height="3816px"/></surface><surface ulx="0" uly="0" lrx="2825" lry="3806" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0148/full/full/0/default.jpg" width="2825px" height="3806px"/></surface><surface ulx="0" uly="0" lrx="2795" lry="3749" xml:id="facs_15"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0149/full/full/0/default.jpg" width="2795px" height="3749px"/></surface><surface ulx="0" uly="0" lrx="2803" lry="3846" xml:id="facs_16"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0150/full/full/0/default.jpg" width="2803px" height="3846px"/></surface><surface ulx="0" uly="0" lrx="2809" lry="3758" xml:id="facs_17"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0151/full/full/0/default.jpg" width="2809px" height="3758px"/></surface><surface ulx="0" uly="0" lrx="2770" lry="4429" xml:id="facs_18"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0152/full/full/0/default.jpg" width="2770px" height="4429px"/></surface><surface ulx="0" uly="0" lrx="2814" lry="3759" xml:id="facs_19"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0153/full/full/0/default.jpg" width="2814px" height="3759px"/></surface><surface ulx="0" uly="0" lrx="2837" lry="3817" xml:id="facs_20"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0154/full/full/0/default.jpg" width="2837px" height="3817px"/></surface><surface ulx="0" uly="0" lrx="2787" lry="3776" xml:id="facs_21"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0155/full/full/0/default.jpg" width="2787px" height="3776px"/></surface><surface ulx="0" uly="0" lrx="2789" lry="3784" xml:id="facs_22"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0156/full/full/0/default.jpg" width="2789px" height="3784px"/></surface><surface ulx="0" uly="0" lrx="2799" lry="3744" xml:id="facs_23"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0157/full/full/0/default.jpg" width="2799px" height="3744px"/></surface><surface ulx="0" uly="0" lrx="2781" lry="3762" xml:id="facs_24"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0158/full/full/0/default.jpg" width="2781px" height="3762px"/></surface><surface ulx="0" uly="0" lrx="2806" lry="3767" xml:id="facs_25"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0159/full/full/0/default.jpg" width="2806px" height="3767px"/></surface><surface ulx="0" uly="0" lrx="2806" lry="3842" xml:id="facs_26"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0160/full/full/0/default.jpg" width="2806px" height="3842px"/></surface><surface ulx="0" uly="0" lrx="2772" lry="4555" xml:id="facs_27"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0161/full/full/0/default.jpg" width="2772px" height="4555px"/></surface><surface ulx="0" uly="0" lrx="2788" lry="4542" xml:id="facs_28"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0162/full/full/0/default.jpg" width="2788px" height="4542px"/></surface><surface ulx="0" uly="0" lrx="2777" lry="4481" xml:id="facs_29"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0163/full/full/0/default.jpg" width="2777px" height="4481px"/></surface><surface ulx="0" uly="0" lrx="2791" lry="4559" xml:id="facs_30"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0164/full/full/0/default.jpg" width="2791px" height="4559px"/></surface><surface ulx="0" uly="0" lrx="2797" lry="4562" xml:id="facs_31"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0165/full/full/0/default.jpg" width="2797px" height="4562px"/></surface><surface ulx="0" uly="0" lrx="2828" lry="4576" xml:id="facs_32"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0166/full/full/0/default.jpg" width="2828px" height="4576px"/></surface><surface ulx="0" uly="0" lrx="2777" lry="4527" xml:id="facs_33"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0167/full/full/0/default.jpg" width="2777px" height="4527px"/></surface><surface ulx="0" uly="0" lrx="2813" lry="4537" xml:id="facs_34"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0168/full/full/0/default.jpg" width="2813px" height="4537px"/></surface><surface ulx="0" uly="0" lrx="2786" lry="4523" xml:id="facs_35"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0169/full/full/0/default.jpg" width="2786px" height="4523px"/></surface><surface ulx="0" uly="0" lrx="2777" lry="4500" xml:id="facs_36"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0170/full/full/0/default.jpg" width="2777px" height="4500px"/></surface><surface ulx="0" uly="0" lrx="2787" lry="4502" xml:id="facs_37"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0171/full/full/0/default.jpg" width="2787px" height="4502px"/></surface><surface ulx="0" uly="0" lrx="2773" lry="4540" xml:id="facs_38"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0172/full/full/0/default.jpg" width="2773px" height="4540px"/></surface><surface ulx="0" uly="0" lrx="2783" lry="4541" xml:id="facs_39"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0173/full/full/0/default.jpg" width="2783px" height="4541px"/></surface><surface ulx="0" uly="0" lrx="2774" lry="4500" xml:id="facs_40"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0174/full/full/0/default.jpg" width="2774px" height="4500px"/></surface><surface ulx="0" uly="0" lrx="2781" lry="4505" xml:id="facs_41"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0175/full/full/0/default.jpg" width="2781px" height="4505px"/></surface><surface ulx="0" uly="0" lrx="2773" lry="4429" xml:id="facs_42"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__23/files/images/IMG_0176/full/full/0/default.jpg" width="2773px" height="4429px"/></surface></facsimile>
     <text type="Verfassungsentwurf">
         <body><div type="main">
-                        <p><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><fw
-                                    type="pageNum">1</fw><emph>Ergebnis der Beratungen des
+                        <p><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><fw type="pageNum">1</fw><emph>Ergebnis der Beratungen des
                                     Unterausschusses des Verfassungsausschustes.</emph></p>
                         <head>Entwurf der Bundesstaatsverfassung. </head>
                         <div type="section">
@@ -167,9 +169,7 @@
                                     <p type="legal_section"><label>(1)</label> Das Bundesgebiet
                                           bildet ein einheitliches Währungs-, Wirtschafts- und
                                           Zollgebiet.</p>
-                                    <p type="legal_section"><pb facs="#facs_3" n="3"
-                                                xml:id="img_0003" break="yes"/><fw type="pageNum"
-                                                >2</fw><label>(2)</label> Innerhalb der Grenzen des
+                                    <p type="legal_section"><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw type="pageNum">2</fw><label>(2)</label> Innerhalb der Grenzen des
                                           Bundes dürfen keinerlei Zwischenzollinien errichtet
                                           werden. Artikel 3b. Bundeshauptstadt und Sitz der obersten
                                           Organe des Bundes ist Wien. </p>
@@ -241,8 +241,7 @@
                                                   des Waren= und Viehverkehrs mit dem Auslande;
                                                   Zollwesen: </item>
                                                 <fw type="pageNum">124</fw>
-                                                <pb facs="#facs_4" n="4" xml:id="img_0004"
-                                                  break="yes"/>
+                                                <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
                                                 <fw type="pageNum">3</fw>
                                                 <label>3.</label>
                                                 <item> Regelung und Überwachung des Eintrittes in
@@ -311,8 +310,7 @@
                                                   Gemeindesanitätsdienstes und Rettungswesens;
                                                   Nahrungsmittelkontrolle;</item>
                                                 <fw type="pageNum">125</fw>
-                                                <pb facs="#facs_5" n="5" xml:id="img_0005"
-                                                  break="yes"/>
+                                                <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
                                                 <fw type="pageNum">4</fw>
                                                 <label>13.</label>
                                                 <item>gesamtes Schul= und Erziehungswesen;
@@ -384,8 +382,7 @@
                                                   soweit es nicht dem Monopol unterliegt, sowie
                                                   Waffenwesen; betriebstechnische Vorschriften beim
                                                   Kraftfahrwesen;</item>
-                                                <pb facs="#facs_6" n="6" xml:id="img_0006"
-                                                  break="yes"/>
+                                                <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
                                                 <fw type="pageNum">5</fw>
                                                 <label>9.</label>
                                                 <item>Elektrizitätswesen; </item>
@@ -460,9 +457,7 @@
                                           nicht eingehalten, so geht die Zuständigkeit zur Erlassung
                                           des Ausführungsgesetzes für dieses Land auf den Bund
                                           über.</p>
-                                    <p type="legal_section"><pb facs="#facs_7" n="7"
-                                                xml:id="img_0007" break="yes"/><fw type="pageNum"
-                                                >6</fw><label>(3)</label> Soll ein Akt der
+                                    <p type="legal_section"><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum">6</fw><label>(3)</label> Soll ein Akt der
                                           vollziehenden Gewalt mehrere Länder Rechtswirksamkeit
                                           äußern und ist in dem die Angelegenheit regelnden
                                           Bundesgesetz nicht ein anderer Vorgang vorgesehen, so geht
@@ -517,9 +512,7 @@
                                     <p type="legal_section"><label>(7)</label> Zur Unterstützung der
                                           mit der Aufrechterhaltung der öffentlichen Ordnung, Ruhe
                                           und Sicherheit im Gebiete der Bundeshauptstadt Wien und
-                                          der Landeshauptstädte betrauten Behörden<fw type="pageNum"
-                                                >128</fw><pb facs="#facs_8" n="8" xml:id="img_0008"
-                                                break="yes"/><fw type="pageNum">7</fw>dient die
+                                          der Landeshauptstädte betrauten Behörden<fw type="pageNum">128</fw><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">7</fw>dient die
                                           Bundespolizei. Ihre Einrichtung, Ausbildung, Ausrüstung
                                           und Erhaltung sowie die Leitung des inneren dienstes und
                                           die Erlassung der Dienstvorschriften steht dem Bunde zu.
@@ -604,9 +597,7 @@
                                           Volksbeauftragten des Bundes, die Diensthoheit der Länder
                                           gegenüber ihren Organen von den Volksbeauftragten der
                                           Länder ausgeübt.</p>
-                                    <p type="legal_section"><fw type="pageNum">138</fw><pb
-                                                facs="#facs_10" n="10" xml:id="img_0010" break="yes"
-                                                /><fw type="pageNum">7b</fw><label>(3)</label> Die
+                                    <p type="legal_section"><fw type="pageNum">138</fw><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><fw type="pageNum">7b</fw><label>(3)</label> Die
                                           Bestellung und das Dienstrecht der Organe der Gebiets= und
                                           Ortsgemeinden, die behördliche Aufgaben zu vollziehen
                                           haben, werden durch die Gesetze über die Organisation der
@@ -812,9 +803,7 @@
                                                 von wenigstens drei Mitgliedern. </p>
                                           <p type="legal_section"><label>(3)</label> Für jedes
                                                 Mitglied wird ein Ersatzmann bestellt.</p>
-                                          <p type="legal_section"><pb facs="#facs_14" n="14"
-                                                  xml:id="img_0014" break="yes"/><fw type="pageNum"
-                                                  >10</fw><label>(4)</label> Die Mitglieder des
+                                          <p type="legal_section"><pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><fw type="pageNum">10</fw><label>(4)</label> Die Mitglieder des
                                                 Bundesrates und deren Ersatzmänner werden von den
                                                 Landtagen für die Dauer ihrer Gesetzgebungsperiode
                                                 nach dem Grundsatze der Verhältniswahl gewählt,
@@ -1009,10 +998,7 @@
                                                 Nationalrate innerhalb acht Wochen nach Einlangen
                                                 des Gesetzesbeschlusses beim Bundesrate schriftlich
                                                 mitgeteilt werden.</p>
-                                          <p type="legal_section"><fw type="pageNum">137</fw><pb
-                                                  facs="#facs_17" n="17" xml:id="img_0017"
-                                                  break="yes"/><fw type="pageNum"
-                                                  >18</fw><label>(4)</label> Wiederholt der
+                                          <p type="legal_section"><fw type="pageNum">137</fw><pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/><fw type="pageNum">18</fw><label>(4)</label> Wiederholt der
                                                 Nationalrat seinen ursprünglichen Beschluß, so ist
                                                 dieser zu beurkunden und kundzumachen. Beschließt
                                                 der Bundesrat, keinen Einspruch zu erheben, oder
@@ -1141,10 +1127,7 @@
                                                 Nationalrat verlangt, muß der Verhaft aufgehoben
                                                 oder die Verfolgung auf die Dauer der
                                                 Gesetzgebungsperiode aufgeschoben werden.</p>
-                                          <p type="legal_section"><fw type="pageNum">140</fw><pb
-                                                  facs="#facs_20" n="20" xml:id="img_0020"
-                                                  break="yes"/><fw type="pageNum"
-                                                  >15</fw><label>(5)</label> Die Immunität der
+                                          <p type="legal_section"><fw type="pageNum">140</fw><pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/><fw type="pageNum">15</fw><label>(5)</label> Die Immunität der
                                                 Organe des Nationalrates, deren Funktion über die
                                                 Gesetzgebungsperiode hinausgeht, bleibt für die
                                                 Dauer dieser Funktion bestehen. </p>
@@ -1282,8 +1265,7 @@
                                           </div>
                                           <div type="article">
                                                 <fw type="pageNum">142</fw>
-                                                <pb facs="#facs_22" n="22" xml:id="img_0022"
-                                                  break="yes"/>
+                                                <pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/>
                                                 <fw type="pageNum">17</fw>
                                                 <head>Artikel 53. </head>
                                                 <p type="legal_section"><label>(1)</label> Wenn der
@@ -1354,8 +1336,7 @@
                                           </div>
                                           <div type="article">
                                                 <fw type="pageNum">143</fw>
-                                                <pb facs="#facs_23" n="23" xml:id="img_0023"
-                                                  break="yes"/>
+                                                <pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"/>
                                                 <fw type="pageNum">18</fw>
                                                 <head>Artikel 56. </head>
                                                 <p type="legal_section">Alle Akte des
@@ -1425,8 +1406,7 @@
                                           </div>
                                           <div type="article">
                                                 <fw type="pageNum">144</fw>
-                                                <pb facs="#facs_24" n="24" xml:id="img_0024"
-                                                  break="yes"/>
+                                                <pb facs="#facs_24" n="24" xml:id="img_0024" break="yes"/>
                                                 <fw type="pageNum">19</fw>
                                                 <head>Artikel 61. </head>
                                                 <p type="legal_section">Ist die Bundesregierung
@@ -1496,8 +1476,7 @@
                                           </div>
                                           <div type="article">
                                                 <fw type="pageNum">145</fw>
-                                                <pb facs="#facs_25" n="25" xml:id="img_0025"
-                                                  break="yes"/>
+                                                <pb facs="#facs_25" n="25" xml:id="img_0025" break="yes"/>
                                                 <fw type="pageNum">20</fw>
                                                 <head>Artikel 64. </head>
                                                 <p type="legal_section"><label>(1)</label> Zur
@@ -1565,9 +1544,7 @@
                                                   die Bundesregierung oder innerhalb der von dieser
                                                   erteilten Ermächtigung der zuständige
                                                   Bundesminister betraut.</p>
-                                                <p type="legal_section"><fw type="pageNum"
-                                                  >146</fw><pb facs="#facs_26" n="26"
-                                                  xml:id="img_0026" break="yes"/><label>(2) </label>
+                                                <p type="legal_section"><fw type="pageNum">146</fw><pb facs="#facs_26" n="26" xml:id="img_0026" break="yes"/><label>(2) </label>
                                                   Inwieweit auch die Behörden der Länder und
                                                   Gemeinden die Mitwirkung des Bundesheeres zu den
                                                   im Artikel 69, Absatz 2, erwähnten Zwecken
@@ -1717,9 +1694,7 @@
                                                 Gerichtsverfassungsgesetz wird eine Altersgrenze
                                                 bestimmt, nach deren Erreichung die Richter in den
                                                 dauernden Ruhe stand zu versetzen sind.</p>
-                                          <p type="legal_section"><pb facs="#facs_29" n="29"
-                                                  xml:id="img_0029" break="yes"/><fw type="pageNum"
-                                                  >35</fw><label>(2)</label> Im übrigen dürfen
+                                          <p type="legal_section"><pb facs="#facs_29" n="29" xml:id="img_0029" break="yes"/><fw type="pageNum">35</fw><label>(2)</label> Im übrigen dürfen
                                                 Richter nur in den vom Gesetze vorgeschriebenen
                                                 Fällen und Formen und auf Grund eines förmlichen
                                                 richterlichen Erkenntnisses ihres Amtes entsetzt
@@ -1769,10 +1744,7 @@
                                                 Gesetz zu bezeichnen hat, sowie bei allen
                                                 politischen Verbrechen und Vergehen entscheiden
                                                 Geschworene über die Schuld des Angeklagten.</p>
-                                          <p type="legal_section"><fw type="pageNum">149</fw><pb
-                                                  facs="#facs_30" n="30" xml:id="img_0030"
-                                                  break="yes"/><fw type="pageNum"
-                                                  >36</fw><label>(3)</label> Im Strafverfahren wegen
+                                          <p type="legal_section"><fw type="pageNum">149</fw><pb facs="#facs_30" n="30" xml:id="img_0030" break="yes"/><fw type="pageNum">36</fw><label>(3)</label> Im Strafverfahren wegen
                                                 niederer Verbrechen und Vergehen nehmen Schöffen an
                                                 der Rechtsprechung teil. </p>
                                     </div>
@@ -1823,9 +1795,7 @@
                                           Landtages geniessen die gleiche Immunität wie die
                                           Mitglieder des Nationalrates, wobei die Bestimmungen des
                                           Artikels 43 sinngemäß Anwendung finden.</p>
-                                    <p type="legal_section"><pb facs="#facs_31" n="31"
-                                                xml:id="img_0031" break="yes"/><fw type="pageNum"
-                                                >37</fw><label>(2)</label> Die Bestimmungen der
+                                    <p type="legal_section"><pb facs="#facs_31" n="31" xml:id="img_0031" break="yes"/><fw type="pageNum">37</fw><label>(2)</label> Die Bestimmungen der
                                           Artikel 24 und 25 gelten auch für die Sitzungen der
                                           Landtage und ihrer Ausschüsse, </p>
                               </div>
@@ -1922,9 +1892,7 @@
                                           Landesregierungen mit der Ausübung der vollziehenden
                                           Gewalt des Bundes zu beauftragen. </p>
                                     <p type="legal_section"><label>(3)</label> Die Errichtung von
-                                          eigenen Bundesbehörden für andere als die<pb
-                                                facs="#facs_33" n="33" xml:id="img_0033" break="yes"
-                                                /><fw type="pageNum">39</fw> im Absatz 2
+                                          eigenen Bundesbehörden für andere als die<pb facs="#facs_33" n="33" xml:id="img_0033" break="yes"/><fw type="pageNum">39</fw> im Absatz 2
                                           bezeichneten Angelegenheiten kann nur mit Zustimmung der
                                           beteiligten Länder erfolgen. </p>
                                     <p type="legal_section"><label>(4)</label> In den
@@ -2011,9 +1979,7 @@
                               <div type="article">
                                     <head>Artikel 100. </head>
                                     <p type="legal_section"><label>(1)</label> Der Präsident des
-                                          Rechnungshofes ist in bezug auf Verant<pb facs="#facs_35"
-                                                n="35" xml:id="img_0035" break="no"/><fw
-                                                type="pageNum">41</fw> wortlichkeit den Mitgliedern
+                                          Rechnungshofes ist in bezug auf Verant<pb facs="#facs_35" n="35" xml:id="img_0035" break="no"/><fw type="pageNum">41</fw> wortlichkeit den Mitgliedern
                                           der Bundesregierung gleichgestellt. </p>
                                     <p type="legal_section"><label>(2)</label> Er kann durch
                                           Beschluss des Nationalrates abberufen werden. </p>
@@ -2115,8 +2081,7 @@
                                                   <label>2.</label>
                                                   <item>die zur Kompetenz des
                                                   Verfassungsgerichtshofes gehören;</item>
-                                                  <pb facs="#facs_37" n="37" xml:id="img_0037"
-                                                  break="yes"/>
+                                                  <pb facs="#facs_37" n="37" xml:id="img_0037" break="yes"/>
                                                   <fw type="pageNum">43</fw>
                                                   <label>3.</label>
                                                   <item> über die eine Kollegialbehörde zu
@@ -2220,9 +2185,7 @@
                                           <p type="legal_section"><label>(1)</label> Der
                                                 Verfassungsgerichtshof entscheidet über
                                                 Gesetzwidrigkeit von Verordnungen einer Bundes -
-                                                oder Landesbehörde auf Antrag eines Gerichtes;<pb
-                                                  facs="#facs_39" n="39" xml:id="img_0039"
-                                                  break="yes"/><fw type="pageNum">45</fw>über
+                                                oder Landesbehörde auf Antrag eines Gerichtes;<pb facs="#facs_39" n="39" xml:id="img_0039" break="yes"/><fw type="pageNum">45</fw>über
                                                 Gesetzwidrigkeit von Verordnungen einer
                                                 Landesbehörde auch auf Antrag der Bundesregierung; </p>
                                           <p type="legal_section"><label>(2)</label> Das
@@ -2267,10 +2230,7 @@
                                     <div type="article">
                                           <head>Artikel 152. </head>
                                           <p type="legal_section"><label>(1)</label> Der
-                                                Verfassungsgerichtshof entscheidet über die Ver<fw
-                                                  type="pageNum">154</fw><pb facs="#facs_40" n="40"
-                                                  xml:id="img_0040" break="no"/><fw type="pageNum"
-                                                  >46</fw>antwortlichkeit: <list>
+                                                Verfassungsgerichtshof entscheidet über die Ver<fw type="pageNum">154</fw><pb facs="#facs_40" n="40" xml:id="img_0040" break="no"/><fw type="pageNum">46</fw>antwortlichkeit: <list>
                                                   <label>a) </label>
                                                   <item>des Bundespräsidenten, </item>
                                                   <label>b) </label>
@@ -2323,9 +2283,7 @@
                                                 Verfassungsgerichtshof entscheidet über Beschwerden
                                                 wegen Verletzung der verfassungsmässig
                                                 gewährleisteten politischen Rechte durch eine
-                                                Behörde nach Erschöpfung des admini<pb
-                                                  facs="#facs_41" n="41" xml:id="img_0041"
-                                                  break="no"/><fw type="pageNum">47</fw>strativen
+                                                Behörde nach Erschöpfung des admini<pb facs="#facs_41" n="41" xml:id="img_0041" break="no"/><fw type="pageNum">47</fw>strativen
                                                 Instanzenzuges. </p>
                                           <p type="legal_section"><label>(2)</label> Das
                                                 stattgebende Erkenntnis des Verfassungsgerichtshofes

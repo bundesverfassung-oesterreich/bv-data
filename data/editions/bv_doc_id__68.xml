@@ -61,7 +61,11 @@
                 <idno type="bv_data_set">Datenset A</idno>
                 <idno type="goobi">14642</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">1400</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
@@ -266,8 +270,7 @@
                                                   nur zu einem Lande gehört, Luft- und
                                                   Kraftfahrzeuge, Bundesbahnen, Bundesstraßen. </item>
                                                 <fw type="pageNum">- 2 -</fw>
-                                                <pb facs="#facs_4" n="4" xml:id="img_0004"
-                                                  break="yes"/>
+                                                <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
                                                 <label>9. </label>
                                                 <item>Bergbauangelegenheiten, Energiewirtschaft mit
                                                   Ausnahme der Elektrizität, Kraft- und
@@ -377,9 +380,7 @@
                                           der Gemeinde beschränkt werden. </p>
                                     <p type="legal_section">Jedes Land muß um die Gewährleistung
                                           seiner Verfassung beim Bund ansuchen.</p>
-                                    <p type="legal_section"><fw type="pageNum">- 3 -</fw><pb
-                                                facs="#facs_5" n="5" xml:id="img_0005" break="yes"
-                                          />Sofern die Landesverfassung den Vorschriften der
+                                    <p type="legal_section"><fw type="pageNum">- 3 -</fw><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>Sofern die Landesverfassung den Vorschriften der
                                           Bundesverfassung nicht widerstreitet, hat der Bund die
                                           Landesverfassung zu gewährleisten. Mit der Gewährleistung
                                           übernimmt der Bund die Pflicht, die Landesverfassung gegen
@@ -454,9 +455,7 @@
                                           auf Grund eines richterlichen Befehles (Art. 13), im Falle
                                           der Verfolgung auf frischer Tat auch durch den gesetzlich
                                           berechtigten Beamten.</p>
-                                    <p type="legal_section"><fw type="pageNum">- 4 -</fw><pb
-                                                facs="#facs_6" n="6" xml:id="img_0006" break="yes"
-                                          />Die Unverletzlichkeit der Wohnung verhindert nicht die
+                                    <p type="legal_section"><fw type="pageNum">- 4 -</fw><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>Die Unverletzlichkeit der Wohnung verhindert nicht die
                                           Verhaftung eines gerichtlich Verfolgten. Gegen das
                                           Eindringen von Privatpersonen wird das Recht der
                                           Selbsthilfe anerkannt. </p>
@@ -697,9 +696,7 @@
                                     <p type="legal_section">Aufgabe des Staates ist es, alle
                                           wirtschaftlichen Kräfte zur größtmöglichen Leistung im
                                           Dienste der Gesamtheit zu entwickeln.</p>
-                                    <p type="legal_section"><fw type="pageNum">- 7 -</fw><pb
-                                                facs="#facs_9" n="9" xml:id="img_0009" break="yes"
-                                          />Durch Bundesgesetz kann festgestellt werden, inwieweit
+                                    <p type="legal_section"><fw type="pageNum">- 7 -</fw><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>Durch Bundesgesetz kann festgestellt werden, inwieweit
                                           zu diesem Zwecke für gewisse wirtschaftliche Zweige die
                                           Vereinigung von Betrieben oder eine gemeinsame
                                           Planwirtschaft vorzusehen ist, durch welche
@@ -779,9 +776,7 @@
                                           Vertragsfreiheit. Wucher ist verboten. </p>
                                     <p type="legal_section">Rechtsgeschäfte, die gegen die guten
                                           Sitten verstoßen, sind nichtig.</p>
-                                    <p type="legal_section"><fw type="pageNum">- 8 -</fw><pb
-                                                facs="#facs_10" n="10" xml:id="img_0010" break="yes"
-                                          />Die Arbeitnehmer einerseits, die Arbeitgeber anderseits
+                                    <p type="legal_section"><fw type="pageNum">- 8 -</fw><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>Die Arbeitnehmer einerseits, die Arbeitgeber anderseits
                                           sind berufen, sich zu Verbänden zusammenzuschließen,
                                           welche in gemeinsamer Arbeit an der Regelung der Lohn- und
                                           Arbeitsbedingungen mitzuwirken haben. </p>
@@ -857,8 +852,7 @@
                                           </div>
                                           <div type="article">
                                                 <fw type="pageNum">- 9 -</fw>
-                                                <pb facs="#facs_11" n="11" xml:id="img_0011"
-                                                  break="yes"/>
+                                                <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
                                                 <head>Art. 42.  </head>
                                                 <head>Wirkungskreis des Bundespräsidenten.</head>
                                                 <p type="legal_section"><label>1.</label> Er
@@ -956,9 +950,7 @@
                                                   dient der Bundesrat. </p>
                                                 <p type="legal_section">Jedes Land entsendet drei
                                                   vom Landtage für die Dauer von 4 Jahren gewählte
-                                                  Vertreter. Wenn die Bevölkerungszahl nach<fw
-                                                  type="pageNum">- 10 -</fw><pb facs="#facs_12"
-                                                  n="12" xml:id="img_0012" break="yes"/>der letzten
+                                                  Vertreter. Wenn die Bevölkerungszahl nach<fw type="pageNum">- 10 -</fw><pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>der letzten
                                                   amtlichen Volkszählung 400.000 überschreitet, so
                                                   gebührt dem Land für je weitere 400.000 Einwohner
                                                   ein weiterer Vertreter. Beträgt der Überschuß
@@ -1057,8 +1049,7 @@
                                                   Abgeordneten werden in allgemeiner, gleicher
                                                   unmittelbarer und geheimer Wahl nach dem
                                                   Grundsatze der Ver<fw type="pageNum">- 11
-                                                  -</fw><pb facs="#facs_13" n="13" xml:id="img_0013"
-                                                  break="no"/>hältniswahl aus allen männlichen und
+                                                  -</fw><pb facs="#facs_13" n="13" xml:id="img_0013" break="no"/>hältniswahl aus allen männlichen und
                                                   weiblichen Staatsbürgern, die im Vollgenusse der
                                                   bürgerlichen Rechte stehen, gewählt. Das nähere
                                                   bestimmt ein Wahlgesetz. </p>
@@ -1152,8 +1143,7 @@
                                           </div>
                                           <div type="article">
                                                 <fw type="pageNum">- 12 -</fw>
-                                                <pb facs="#facs_14" n="14" xml:id="img_0014"
-                                                  break="yes"/>
+                                                <pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>
                                                 <head>Art. 58 </head>
                                                 <head>Zuständigkeit des Bundestages.</head>
                                                 <p type="legal_section"> Dem Bundestage obliegt: <list>
@@ -1250,9 +1240,7 @@
                                                 des Bundestages und die Genehmigung durch den
                                                 Bundespräsidenten oder ein Volksentscheid (Art. 62
                                                 Z. 1 und 2) erforderlich.</p>
-                                          <p type="legal_section"><fw type="pageNum">- 13 -</fw><pb
-                                                  facs="#facs_15" n="15" xml:id="img_0015"
-                                                  break="yes"/>Jeder Beschluß des Bundestages ist
+                                          <p type="legal_section"><fw type="pageNum">- 13 -</fw><pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>Jeder Beschluß des Bundestages ist
                                                 gleichzeitig dem Bundesrat und dem Bundespräsidenten
                                                 zur Kenntnis zu bringen. Gibt der Bundespräsident
                                                 binnen 4 Wochen keine Erklärung ab, so gilt der
@@ -1334,9 +1322,7 @@
                                     <p type="legal_section"> Zu einem Landesgesetz ist der Beschluß
                                           des Landtages, die Genehmigung und Beurkundung durch den
                                           Landeshauptmann erforderlich. Wird die Genehmigung
-                                          verweigert, der Beschluß<fw type="pageNum">- 14 -</fw><pb
-                                                facs="#facs_16" n="16" xml:id="img_0016" break="yes"
-                                          />aber vom Landtag wiederholt, so kann der Bundespräsident
+                                          verweigert, der Beschluß<fw type="pageNum">- 14 -</fw><pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>aber vom Landtag wiederholt, so kann der Bundespräsident
                                           den Landtag auflösen. Faßt der neugewählte Landtag den
                                           gleichen Beschluß, so ist dieser ohne weitere Genehmigung
                                           als Gesetz kund zu machen. </p>
@@ -1425,8 +1411,7 @@
                                                   <item>Entscheidung über Beschwerden gegen
                                                   Beschlüsse der Betriebsräte; </item>
                                                   <fw type="pageNum">- 15 -</fw>
-                                                  <pb facs="#facs_17" n="17" xml:id="img_0017"
-                                                  break="yes"/>
+                                                  <pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>
                                                   <label>4. </label>
                                                   <item>die Durchführung der Geschäfte der sozialen
                                                   Versicherung, des Arbeitsnachweises und die
@@ -1535,9 +1520,7 @@
                                                 ausgeübt. </p>
                                           <p type="legal_section">über Beschwerden gegen Verfügungen
                                                 der Behörden erster Instanz, durch welche Strafen
-                                                verhängt wurden, oder über Rechte<fw type="pageNum"
-                                                  >- 16 -</fw><pb facs="#facs_18" n="18"
-                                                  xml:id="img_0018" break="yes"/>von Bürgern erkannt
+                                                verhängt wurden, oder über Rechte<fw type="pageNum">- 16 -</fw><pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>von Bürgern erkannt
                                                 wurde, hat ein Landesverwaltungsgericht das aus
                                                 Richtern, Verwaltungsbeamten und Laien
                                                 zusammengesetzt wird, zu entscheiden. </p>
@@ -1631,9 +1614,7 @@
                                           <p type="legal_section">Die ordentliche Gerichtsbarkeit
                                                 wird vom Bundesgerichte und den Gerichten der Länder
                                                 ausgeübt. </p>
-                                          <p type="legal_section"><fw type="pageNum">- 17 -</fw><pb
-                                                  facs="#facs_19" n="19" xml:id="img_0019"
-                                                  break="yes"/>In jedem Lande ist ein Landesgericht
+                                          <p type="legal_section"><fw type="pageNum">- 17 -</fw><pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/>In jedem Lande ist ein Landesgericht
                                                 zu errichten. Der Rechtszug in Angelegenheiten der
                                                 Rechtssprechung geht von den Gerichten des Landes an
                                                 das Landesgericht und von diesem an den Obersten
@@ -1715,9 +1696,7 @@
                                                 Anklageprozeß.</p>
                                           <p type="legal_section">Die Todesstrafe ist nur wegen
                                                 Mordes und räuberischer Tötung zulässig.</p>
-                                          <p type="legal_section"><fw type="pageNum">- 18 -</fw><pb
-                                                  facs="#facs_20" n="20" xml:id="img_0020"
-                                                  break="yes"/>Die Gerichtsbarkeit in erster Instanz
+                                          <p type="legal_section"><fw type="pageNum">- 18 -</fw><pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/>Die Gerichtsbarkeit in erster Instanz
                                                 wird von Einzelrichtern Schöffengerichten und
                                                 Geschwornengerichte ausgeübt. Die Geschwornen haben
                                                 über die Schuld der Angeklagten zu entscheiden und

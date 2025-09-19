@@ -61,14 +61,17 @@
                 <idno type="bv_data_set">Datenset A</idno>
                 <idno type="goobi">14550</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">3400</biblScope>
+</seriesStmt>
+<sourceDesc>
                         <listWit>
                               <witness sameAs="#bv_doc_id__33"/>
                         </listWit>
                 <msDesc type="invetory" subtype="secondary">
                               <msIdentifier>
-                                    <institution key="https://d-nb.info/gnd/37748-X"
-                                          >Österreichisches Staatsarchiv</institution>
+                                    <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
                                     <repository key="https://d-nb.info/gnd/1601181-8">Archiv der
                                           Republik (Wien)</repository>
                                     <idno type="archive">AVA, Nachlasssammlung, E1717 (Nachlass
@@ -449,9 +452,7 @@
                                           Bundesgesetzgebung bloß die Regelung der Grundsätze
                                           vorbehalten ist, obliegt die nähere Ausführung der
                                           Landesgesetzgebung innerhalb des bundesgesetzlich
-                                          festgelegten Rahmens. Das Bundes<pb facs="#facs_3" n="3"
-                                                xml:id="img_0003" break="no"/><fw type="pageNum"
-                                                >2</fw>gesetz kann für die Erlassung der
+                                          festgelegten Rahmens. Das Bundes<pb facs="#facs_3" n="3" xml:id="img_0003" break="no"/><fw type="pageNum">2</fw>gesetz kann für die Erlassung der
                                           Ausführungsgesetze eine Frist bestimmen, die nicht kürzer
                                           als drei monate und nicht länger als ein Jahr sein darf.
                                           Wird diese Frist von einer Landesgesetzgebung nicht
@@ -771,9 +772,7 @@
                                           <p type="legal_section"><label>(1)</label> Im Bundesrate
                                                 sind die Länder im Verhältnis ihrer Einwohnerzahl
                                                 gemäß den folgenden Bestimmungen vertreten.</p>
-                                          <p type="legal_section"><pb facs="#facs_4" n="4"
-                                                  xml:id="img_0004" break="yes"/><fw type="pageNum"
-                                                  >3</fw><label>(2)</label> Das Land mit der größten
+                                          <p type="legal_section"><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><fw type="pageNum">3</fw><label>(2)</label> Das Land mit der größten
                                                 Einwohnerzahl entsendet 12 Mitglieder, jedes andere
                                                 Land so viele Mitglieder, als dem Verhältnisse
                                                 seiner Einwohnerzahl zur erstangeführten
@@ -1863,9 +1862,7 @@
                                     <head>Artikel 93. </head>
                                     <p type="legal_section"><label>(1)</label> Der Landeshauptmann
                                           oder sein Stellvertreter vertritt das Land. Er trägt in
-                                          den Angelegenheiten <fw type="pageNum">65</fw><pb
-                                                facs="#facs_8" n="8" xml:id="img_0008" break="yes"
-                                          />der mittelbaren Bundesverwaltung die Verantwortung
+                                          den Angelegenheiten <fw type="pageNum">65</fw><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>der mittelbaren Bundesverwaltung die Verantwortung
                                           gegenüber der Bundesregierung gemäß Artikel 152. Der
                                           Geltendmachung dieser Verantwortung steht die Immunität
                                           nicht im Wege. </p>
@@ -2200,9 +2197,7 @@
                                                 Bundespräsidenten ernannt. Der Vorschlag der
                                                 Bundesregierung bedarf bezüglich des Präsidenten und
                                                 der Hälfte der Mitglieder der Zustimmung des
-                                                Hauptauschusses des<pb facs="#facs_9" n="9"
-                                                  xml:id="img_0009" break="yes"/><fw type="pageNum"
-                                                  >- 7 -</fw>Nationalrates, bezüglich des
+                                                Hauptauschusses des<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><fw type="pageNum">- 7 -</fw>Nationalrates, bezüglich des
                                                 Vizepräsidenten und der anderen Hälfte der
                                                 Mitglieder der Zustimmung des Bundesrates. </p>
                                     </div>

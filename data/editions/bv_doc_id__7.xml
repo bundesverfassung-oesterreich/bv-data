@@ -63,7 +63,11 @@
                         <idno type="bv_data_set">Datenset A</idno>
                         <idno type="goobi">14511</idno>
                   </publicationStmt>
-                  <sourceDesc>
+                  <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">1200</biblScope>
+</seriesStmt>
+<sourceDesc>
                         <msDesc type="invetory">
                               <msIdentifier>
                                     <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
@@ -193,10 +197,8 @@
                                           ihrer Landesvertretungen und des Wiener Gemeinderates,
                                           sowie der Nationalversammlung der Republik
                                           Deutschösterreich zu einem ewigen Bunde mit den Namen</p>
-                                          <p
-                                                type="legal_section">Republik der deutschen
-                                                Alpenlande</p><p type="legal_section">oder</p><p
-                                                type="legal_section">Republik Oesterreich</p><p>und mit
+                                          <p type="legal_section">Republik der deutschen
+                                                Alpenlande</p><p type="legal_section">oder</p><p type="legal_section">Republik Oesterreich</p><p>und mit
                                           der Bundeshauptstadt Wien zusammen. Beide Namen sind in
                                           allen von den Bundes- und Landesbehörden ausgehenden oder
                                           von ihnen zu unterfertigenden Erlässen, Kundmachungen,
@@ -218,8 +220,7 @@
                                           verpflichtet, über Ersuchen der Landesregierungen zur
                                           Aufrechthaltung der Ruhe und Ordnung im Innern Bundeshilfe
                                           zu gewähren.<fw type="pageNum">23</fw></p>
-                                    <p type="legal_section"><pb facs="#facs_3" n="3"
-                                                xml:id="img_0003" break="yes"/><fw type="pageNum">-
+                                    <p type="legal_section"><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw type="pageNum">-
                                                 2 -</fw>Auch ohne solches Ersuchen kann die
                                           Bundesgewalt gegen Störungen der öffentlichen Ruhe und
                                           Ordnung innerhalb des Gebietes eines oder mehrerer der
@@ -304,9 +305,7 @@
                                     <head>Art. VII. </head>
                                     <p type="legal_section">Die Glaubens- und Gewissensfreiheit ist
                                           unverletzlich. Niemand darf zur Teilnahme an einer
-                                          Religionsgesellschaft oder an einem <fw type="pageNum"
-                                                >25</fw><pb facs="#facs_5" n="5" xml:id="img_0005"
-                                                break="yes"/><fw type="pageNum">- 4 -</fw>religiösen
+                                          Religionsgesellschaft oder an einem <fw type="pageNum">25</fw><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><fw type="pageNum">- 4 -</fw>religiösen
                                           Unterrichte oder zur Vornahme einer religiösen Handlung
                                           gezwungen werden.</p>
                                     <p type="legal_section">Ueber die religiöse Erziehung der Kinder
@@ -402,10 +401,7 @@
                                                   Schranken des Art. IV, über die militärische
                                                   Befehlsgewalt, über Vorspannleistung, Verpflegung
                                                   und Einquartierung des Heeres, ferner die Regelung
-                                                  der Militärgerichtsbarkeit in den <fw
-                                                  type="pageNum">27</fw><pb facs="#facs_7" n="7"
-                                                  xml:id="img_0007" break="yes"/><fw type="pageNum"
-                                                  >- 6 -</fw>Schranken des Art. XI. </item>
+                                                  der Militärgerichtsbarkeit in den <fw type="pageNum">27</fw><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum">- 6 -</fw>Schranken des Art. XI. </item>
                                                 <label>4.)</label>
                                                 <item>Das Finanzwesen, soweit es die
                                                   gemeinschaftlich zu verwaltenden Einnahmen und
@@ -447,8 +443,7 @@
                                                   die Elektrizitätsgesetzgebung und die Verwaltung
                                                   der Bundesstraßen. </item>
                                                 <fw type="pageNum">28</fw>
-                                                <pb facs="#facs_8" n="8" xml:id="img_0008"
-                                                  break="yes"/>
+                                                <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
                                                 <fw type="pageNum">- 7 -</fw>
                                                 <label>7.)</label>
                                                 <item>Die Gesetzgebung über das Kredit- und
@@ -506,8 +501,7 @@
                                                   gelegenen Bundesglieder sind dem Verfahren als
                                                   beteiligte Parteien beizuziehen. </item>
                                                 <fw type="pageNum">29</fw>
-                                                <pb facs="#facs_9" n="9" xml:id="img_0009"
-                                                  break="yes"/>
+                                                <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
                                                 <fw type="pageNum">- 8 -</fw>
                                                 <label>14.)</label>
                                                 <item>Die Oberaufsicht über die Straßen und Brücken,
@@ -558,8 +552,7 @@
                                           kürzesten Wege mitzuteilen. Die Kundmachung des
                                           angefochtenen Beschlusses darf erst erfolgen, wenn der
                                           Gerichtshof dessen Verfassungsmässigkeit anerkannt hat;
-                                          der <fw type="pageNum">30</fw><pb facs="#facs_10" n="10"
-                                                xml:id="img_0010" break="yes"/><fw type="pageNum">-
+                                          der <fw type="pageNum">30</fw><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><fw type="pageNum">-
                                                 9 -</fw>Verfassungsgerichtshof hat binnen
                                           Monatsfrist das Erkenntnis zu fällen, widrigens die
                                           Kundmachung des angefochtenen Gesetzesbeschlusses mit
@@ -600,9 +593,7 @@
                                           Bundesglieder; jedes Bundesglied entsendet in das
                                           Ständehaus zehn Vertreter; die Vertretung kann nicht
                                           widerrufen werden; für ausscheidende Vertreter ist sobald
-                                          als möglich eine Nachwahl durchzufüh<fw type="pageNum"
-                                                >31</fw><pb facs="#facs_11" n="11" xml:id="img_0011"
-                                                break="no"/><fw type="pageNum">- 10 -</fw>ren. Die
+                                          als möglich eine Nachwahl durchzufüh<fw type="pageNum">31</fw><pb facs="#facs_11" n="11" xml:id="img_0011" break="no"/><fw type="pageNum">- 10 -</fw>ren. Die
                                           Art der Wahl und die Voraussetzungen der Wählbarkeit
                                           bestimmt die Landesgesetzgebung. </p>
                                     <p type="legal_section">Im Ständehause hat jedes Bundesglied
@@ -688,9 +679,7 @@
                                           verbindliche Bundesbeschlüsse sind dem Volke zur Annahme
                                           oder Verwerfung vorzulegen, wenn es von fünfzigtausend
                                           Bundesbürgern oder von drei Bundesgliedern verlangt
-                                                wird.<fw type="pageNum">33</fw><pb facs="#facs_13"
-                                                n="13" xml:id="img_0013" break="yes"/><fw
-                                                type="pageNum">- 12</fw>Die Durchführung der
+                                                wird.<fw type="pageNum">33</fw><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><fw type="pageNum">- 12</fw>Die Durchführung der
                                           Volksabstimmung und die Frist zur Einbringung dieses
                                           Verlangens wird durch Bundesgesetz geregelt. </p>
                               </div>
@@ -735,8 +724,7 @@
                               <div type="article">
                                     <head>Art. XXX. </head>
                                     <p type="legal_section">Die Mitglieder des Bundesrates beziehen
-                                          einen jährlichen Gehalt aus der Bundeskasse.<fw
-                                                type="pageNum">34</fw></p>
+                                          einen jährlichen Gehalt aus der Bundeskasse.<fw type="pageNum">34</fw></p>
                               </div>
                               <div type="article">
                                     <pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>
@@ -792,9 +780,7 @@
                                                   <corr>m</corr>
                                                   </choice>lung bei ihrer ordentlichen Tagung
                                                   Rechenschaft über seine Tätigkeit, sowie einen
-                                                  Bericht über <fw type="pageNum">35</fw><pb
-                                                  facs="#facs_15" n="15" xml:id="img_0015"
-                                                  break="yes"/><fw type="pageNum">- 14 -</fw>die
+                                                  Bericht über <fw type="pageNum">35</fw><pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/><fw type="pageNum">- 14 -</fw>die
                                                   Gesamtlage des Bundesstaates im Innern und nach
                                                   Aussen; er hat auch besondere Berichte zu
                                                   erstatten, wenn die Bundesversammlung oder das
@@ -837,9 +823,7 @@
                                           Bundesstaates und seiner Gliedstaaten übernommen, insoweit
                                           diese Bundesverfassung nichts gegenteiliges enthält; die
                                           Aenderung der verfassungsmäßigen Zuständigkeit auf dem
-                                          Gebiete der Gesetz<fw type="pageNum">36</fw><pb
-                                                facs="#facs_16" n="16" xml:id="img_0016" break="no"
-                                                /><fw type="pageNum">- 15 -</fw>gebung und
+                                          Gebiete der Gesetz<fw type="pageNum">36</fw><pb facs="#facs_16" n="16" xml:id="img_0016" break="no"/><fw type="pageNum">- 15 -</fw>gebung und
                                           Verwaltung, berührt die Fortdauer der Giltigkeit der
                                           vorstehend erwähnten Gesetze und Verordnungen nicht.</p>
                               </div>
@@ -881,9 +865,7 @@
                                     <p type="legal_section">Im Falle der Ablehnung durch die
                                           Mehrheit der giltig abgegebenen Stimmen hat die
                                           Bundesverfassung und das Ständehaus einen aus je
-                                          Mitgliedern und ebensoviel Ersatzmännern bestehenden <fw
-                                                type="pageNum">37</fw><pb facs="#facs_17" n="17"
-                                                xml:id="img_0017" break="yes"/><fw type="pageNum">-
+                                          Mitgliedern und ebensoviel Ersatzmännern bestehenden <fw type="pageNum">37</fw><pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/><fw type="pageNum">-
                                                 16 -</fw>Ausschuss behufs Ausarbeitung eines neuen
                                           Verfassungsentwurfes zu bestellen, der binnen Jahresfrist
                                           dem Bundesrate Bericht zu erstatten hat. Kommt im
@@ -932,9 +914,7 @@
                                     (Art. XVI und XVII).</p>
                               <p>Es ist aber wünschenswert, ja zum Gedeihen des Staatswesens
                                     notwendig, daß die Verfassung geändert werden kann, wenn das
-                                    Volk <fw type="pageNum">39</fw><pb facs="#facs_19" n="19"
-                                          xml:id="img_0019" break="yes"/><fw type="pageNum"
-                                    >2.</fw>als oberster Richter über sein eigenes Schicksal, übe
+                                    Volk <fw type="pageNum">39</fw><pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/><fw type="pageNum">2.</fw>als oberster Richter über sein eigenes Schicksal, übe
                                     sein Wohl und Wehe findet, daß die Teilung zwischen den Rechten
                                     des Bundes und den Rechten der Bundesglieder anders geartet sein
                                     soll, als wie sie der Entwurf vorsieht; die Aenderung der
@@ -956,8 +936,7 @@
                                     wenn jedes Bundesglied im Falle einer Ueberstimmung in
                                     Verfassungsfragen (wie viele abseits der Verfassung liegende
                                     Angelegenheiten lassen sich optima fide in Verfassungsfragen
-                                    umdeuten!) ausscheiden könnte. Innsbruck, 7.Oktober 1919. <fw
-                                          type="pageNum">40</fw></p>
+                                    umdeuten!) ausscheiden könnte. Innsbruck, 7.Oktober 1919. <fw type="pageNum">40</fw></p>
                         </div>
                   </div>
             </body>

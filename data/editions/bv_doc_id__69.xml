@@ -61,7 +61,11 @@
                 <idno type="bv_data_set">Datenset A</idno>
                 <idno type="goobi">14643</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">1500</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
@@ -181,8 +185,7 @@ Anzahl Artikel: 101</note>
                                                   Verwaltung zu (ausschließlicher Wirkungskreis)
                                                   oder </item>
                                                 <fw type="pageNum">- 1 -</fw>
-                                                <pb facs="#facs_3" n="3" xml:id="img_0003"
-                                                  break="yes"/>
+                                                <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
                                                 <label>2.  </label>
                                                 <item>nur die Gesetzgebung und die Aufsicht über die
                                                   Verwaltung zu, die den Ländern verbleibt
@@ -285,8 +288,7 @@ Anzahl Artikel: 101</note>
                                                 <item> Die Regelung des Arbeitsrechtes, des
                                                   Arbeitschutzes und des Arbeitsnachweises. </item>
                                                 <fw type="pageNum">- 2 -</fw>
-                                                <pb facs="#facs_4" n="4" xml:id="img_0004"
-                                                  break="yes"/>
+                                                <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
                                                 <label>3.  </label>
                                                 <item>Die Regelung der Versicherung für den Fall der
                                                   Krankheit, des Alters, der Arbeitslosigkeit und
@@ -447,9 +449,7 @@ Anzahl Artikel: 101</note>
                                     <p type="legal_section"> Jeder Staatsbürger hat Anspruch auf
                                           Rechtsschutz, der ihm von bürgerlichen oder
                                           Verwaltungsgerichten zu leisten ist. Nie mand darf seinem
-                                          ordentlichen Richter entzogen werden. Eine<fw
-                                                type="pageNum">- 4 -</fw><pb facs="#facs_6" n="6"
-                                                xml:id="img_0006" break="yes"/>Handlung kann nur
+                                          ordentlichen Richter entzogen werden. Eine<fw type="pageNum">- 4 -</fw><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>Handlung kann nur
                                           dann bestraft werden, wenn die Strafbarkeit gesetzlich
                                           bestimmt war, bevor die Handlung begangen worden ist.</p>
                                     <p type="legal_section"> Verletzt ein Richter oder ein
@@ -527,9 +527,7 @@ Anzahl Artikel: 101</note>
                                           nach dem Gesetze zu bestrafen. </p>
                                     <p type="legal_section">Die Freiheit der Vereinigung zu
                                           Religionsgesellschaften wird gewährleistet.</p>
-                                    <p type="legal_section"><fw type="pageNum">- 5 -</fw><pb
-                                                facs="#facs_7" n="7" xml:id="img_0007" break="yes"
-                                          />Neue religiöse Gesellschaften können sich frei bilden.
+                                    <p type="legal_section"><fw type="pageNum">- 5 -</fw><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>Neue religiöse Gesellschaften können sich frei bilden.
                                           Sie bedürfen der staatlichen Anerkennung nicht. Die
                                           Rechtsfähigkeit erlangen sie nach den Vorschriften des
                                           bürgerlichen Rechtes. </p>
@@ -774,8 +772,7 @@ Anzahl Artikel: 101</note>
                                           Ordnung erheblich gestört oder gefährdet, so kann zu ihrer
                                           Wiederherstellung der Bundespräsident mit Zustimmung des
                                           Bundesrates für das Staatsgebiet, bei<fw type="pageNum">-
-                                                8 -</fw><pb facs="#facs_10" n="10" xml:id="img_0010"
-                                                break="yes"/>augenblicklicher Gefahr ein
+                                                8 -</fw><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>augenblicklicher Gefahr ein
                                           Landespräsident für das betreffende Land die Art. 13, 14,
                                           15, 16, 17, 19, 20, 21, 23, 38 vorübergehend außer Kraft
                                           setzen. </p>
@@ -1068,8 +1065,7 @@ Anzahl Artikel: 101</note>
                                                   Bundestag zu beschließenden autonomen
                                                   Geschäftsordnung.</p>
                                                 <p type="legal_section"><fw type="pageNum">- 11
-                                                  -</fw><pb facs="#facs_13" n="13" xml:id="img_0013"
-                                                  break="yes"/>Die Sitzungen des Bundestages sind
+                                                  -</fw><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>Die Sitzungen des Bundestages sind
                                                   öffentlich. </p>
                                                 <p type="legal_section">Dem Hause steht das Recht
                                                   zu, ausnahmsweise die Öffentlichkeit
@@ -1342,8 +1338,7 @@ Anzahl Artikel: 101</note>
                                                   <item>Beratung aller wirtschaftlichen und
                                                   sozialpolitischen Angelegenheiten des Bezirkes; </item>
                                                   <fw type="pageNum">- 14 -</fw>
-                                                  <pb facs="#facs_16" n="16" xml:id="img_0016"
-                                                  break="yes"/>
+                                                  <pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>
                                                   <label>2.  </label>
                                                   <item>Erstattung von Gutachten und Vorschlägen in
                                                   Fällen der Sozialisierung und Planwirtschaft;  </item>
@@ -1456,9 +1451,7 @@ Anzahl Artikel: 101</note>
                                                 der Bundesregierung übertragen ist, wird von der
                                                 Landesregierung und den von ihr bestellten Organen
                                                 ausgeübt.</p>
-                                          <p type="legal_section"><fw type="pageNum">- 15 -</fw><pb
-                                                  facs="#facs_17" n="17" xml:id="img_0017"
-                                                  break="yes"/>Über Beschwerden gegen Verfügungen
+                                          <p type="legal_section"><fw type="pageNum">- 15 -</fw><pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>Über Beschwerden gegen Verfügungen
                                                 der Behörden erster Instanz, durch welche Strafen
                                                 verhängt wurden, oder über Rechte von Burgern
                                                 erkannt wurde, hat ein Landesverwaltungsgericht, das
@@ -1552,9 +1545,7 @@ Anzahl Artikel: 101</note>
                                           <p type="legal_section">Die ordentliche Gerichtsbarkeit
                                                 wird vom Bundesgerichte und den Gerichten der Länder
                                                 ausgeübt.</p>
-                                          <p type="legal_section"><fw type="pageNum">- 16 -</fw><pb
-                                                  facs="#facs_18" n="18" xml:id="img_0018"
-                                                  break="yes"/>In jedem Lande ist ein Landesgericht
+                                          <p type="legal_section"><fw type="pageNum">- 16 -</fw><pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>In jedem Lande ist ein Landesgericht
                                                 zu errichten. Der Rechtszug in Angelegenheiten der
                                                 Rechtssprechung geht von den Gerichten des Landes an
                                                 das Landesgericht und von diesem an den Obersten
@@ -1636,9 +1627,7 @@ Anzahl Artikel: 101</note>
                                                 Anklageprozeß. </p>
                                           <p type="legal_section">Die Todesstrafe ist nur wegen
                                                 Mordes und räuberischer Tötung zulässig.</p>
-                                          <p type="legal_section"><fw type="pageNum">- 17 -</fw><pb
-                                                  facs="#facs_19" n="19" xml:id="img_0019"
-                                                  break="yes"/>Die Gerichtsbarkeit in erster Instanz
+                                          <p type="legal_section"><fw type="pageNum">- 17 -</fw><pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/>Die Gerichtsbarkeit in erster Instanz
                                                 wird von Einzelrichtern Schöffengerichten und
                                                 Geschwornengerichten ausgeübt. Die Geschwornen haben
                                                 über die Schuld der Angeklagten zu entscheiden und

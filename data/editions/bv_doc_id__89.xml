@@ -61,7 +61,11 @@
                 <idno type="bv_data_set">Datenset B</idno>
                 <idno type="goobi">18739</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset B</title>
+<biblScope unit="part">2700</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
@@ -206,8 +210,7 @@
                 <p>Zum Art. 3a sprechen die Abg. Austerlitz, Fink<choice>
                         <sic/>
                         <corr>.</corr>
-                    </choice> Abg. <emph>Austerlitz</emph> beantragt in Abs. 2 ds. Art. <pb
-                        facs="#facs_4" n="4" xml:id="img_0004" break="yes"/> = identisch mit
+                    </choice> Abg. <emph>Austerlitz</emph> beantragt in Abs. 2 ds. Art. <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/> = identisch mit
                     vorherigem Blatt <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/> 3a das
                     Wort "<emph>keinerlei</emph>" zu streichen, vor "errichtet" das Wort
                         "<emph>nicht</emph>" zu setzen u. die Worte "<emph>der Gesetze</emph>" zu
@@ -230,8 +233,7 @@
                         unterbrochen</emph>.</p>
                 <p>Die Sitzung wird um 3 Uhr 15 Minuten nachm, wieder aufgenommen. Abg. Dr Seipel
                     berichtet zunächst über den Minoritätsantrag <emph>Fink u. Genossen zu Artikel 3
-                        (siehe Blg. 3.) Dieser Minoritätsantrag wird abgelehnt.</emph><pb
-                        facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><gap reason="illegible"/>
+                        (siehe Blg. 3.) Dieser Minoritätsantrag wird abgelehnt.</emph><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><gap reason="illegible"/>
                     <emph>Abg. Danneberg</emph> berichtet über den Minoritätsantrag der
                     Sozialdemokraten zu Artikel 3. <emph/></p>
                 <p><emph>Dieser Minoritätsantrag Danneberg und Genossen wird abgelehnt (siehe
@@ -261,8 +263,7 @@
                     "gemäß den folgenden Bestimmungen" zu streichen u. den Satz hinzuzufügen: <emph><choice>
                             <sic/>
                             <corr>"</corr>
-                        </choice>auf die Bürger </emph><pb facs="#facs_7" n="7" xml:id="img_0007"
-                        break="yes"/><emph> zahl des kleinsten Landes fällt je ein Vertreter.</emph><choice>
+                        </choice>auf die Bürger </emph><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><emph> zahl des kleinsten Landes fällt je ein Vertreter.</emph><choice>
                         <sic/>
                         <corr>"</corr>
                     </choice><emph> ferner den Abs 3 zu streichen</emph>. <emph>gefallen</emph>
@@ -280,8 +281,7 @@
                 <p><emph>Überschrift "Bundesregierung" beschlossen. Artikel 58–66 werden
                         beschlossen.</emph></p>
                 <p><emph>Überschrift "Bundesheer" sowie Artikel 69–71 werden beschlossen.</emph></p>
-                <p><emph>Überschrift "Gerichtsbarkeit" sowie </emph><pb facs="#facs_8" n="8"
-                        xml:id="img_0008" break="yes"/><emph>Artikel 72–84 werden
+                <p><emph>Überschrift "Gerichtsbarkeit" sowie </emph><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><emph>Artikel 72–84 werden
                         beschlossen.</emph></p>
                 <p><emph>Min. Sek. Dr. Suchomel</emph> schlägt vor, in Artikel <emph>76, Art. 1,
                         Zeile 2 die Worte "oder in dem Gerichtsverfassungsgesetze" als überflüssig
@@ -421,8 +421,7 @@
                         <item>Dr. Ramek </item>
                         <item>Dr. Aigner </item>
                     </list></p>
-                <p>21. Sitz. Prot. 24./9.1920 <pb facs="#facs_14" n="14" xml:id="img_0014"
-                        break="yes"/>Der Verfassungsausschuß hält Freitag, den 24.d.M um 11 Uhr
+                <p>21. Sitz. Prot. 24./9.1920 <pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>Der Verfassungsausschuß hält Freitag, den 24.d.M um 11 Uhr
                     vermittags im Lokale I Sitzung.</p>
                 <p>Wien, am 18. September 1920.</p>
                 <p>Dr. Bauer, Obmann.</p>

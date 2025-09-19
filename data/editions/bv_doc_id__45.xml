@@ -30,13 +30,11 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372"
-                        >Peter Andorfer </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X"
-                        >Carl Friedrich Haak </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -63,7 +61,11 @@
                 <idno type="bv_data_set">Datenset B</idno>
                 <idno type="goobi">14594</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset B</title>
+<biblScope unit="part">1700</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
@@ -111,84 +113,52 @@
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
         <surface ulx="0" uly="0" lrx="3012" lry="4748" xml:id="facs_2">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0017/full/full/0/default.jpg"
-                width="3012px" height="4748px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0017/full/full/0/default.jpg" width="3012px" height="4748px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2958" lry="4742" xml:id="facs_3">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0018/full/full/0/default.jpg"
-                width="2958px" height="4742px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0018/full/full/0/default.jpg" width="2958px" height="4742px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2951" lry="4735" xml:id="facs_4">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0019/full/full/0/default.jpg"
-                width="2951px" height="4735px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0019/full/full/0/default.jpg" width="2951px" height="4735px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3010" lry="4747" xml:id="facs_5">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0020/full/full/0/default.jpg"
-                width="3010px" height="4747px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0020/full/full/0/default.jpg" width="3010px" height="4747px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2979" lry="4802" xml:id="facs_6">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0021/full/full/0/default.jpg"
-                width="2979px" height="4802px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0021/full/full/0/default.jpg" width="2979px" height="4802px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2991" lry="4695" xml:id="facs_7">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0022/full/full/0/default.jpg"
-                width="2991px" height="4695px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0022/full/full/0/default.jpg" width="2991px" height="4695px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2988" lry="4698" xml:id="facs_8">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0023/full/full/0/default.jpg"
-                width="2988px" height="4698px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0023/full/full/0/default.jpg" width="2988px" height="4698px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2998" lry="4698" xml:id="facs_9">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0024/full/full/0/default.jpg"
-                width="2998px" height="4698px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0024/full/full/0/default.jpg" width="2998px" height="4698px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2979" lry="4689" xml:id="facs_10">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0025/full/full/0/default.jpg"
-                width="2979px" height="4689px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0025/full/full/0/default.jpg" width="2979px" height="4689px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2978" lry="4710" xml:id="facs_11">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0026/full/full/0/default.jpg"
-                width="2978px" height="4710px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0026/full/full/0/default.jpg" width="2978px" height="4710px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2975" lry="4797" xml:id="facs_12">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0027/full/full/0/default.jpg"
-                width="2975px" height="4797px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0027/full/full/0/default.jpg" width="2975px" height="4797px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2925" lry="4684" xml:id="facs_13">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0028/full/full/0/default.jpg"
-                width="2925px" height="4684px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0028/full/full/0/default.jpg" width="2925px" height="4684px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2954" lry="4685" xml:id="facs_14">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0029/full/full/0/default.jpg"
-                width="2954px" height="4685px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0029/full/full/0/default.jpg" width="2954px" height="4685px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2942" lry="4654" xml:id="facs_15">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0030/full/full/0/default.jpg"
-                width="2942px" height="4654px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0030/full/full/0/default.jpg" width="2942px" height="4654px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2898" lry="4683" xml:id="facs_16">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0031/full/full/0/default.jpg"
-                width="2898px" height="4683px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0031/full/full/0/default.jpg" width="2898px" height="4683px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2909" lry="4906" xml:id="facs_17">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0032/full/full/0/default.jpg"
-                width="2909px" height="4906px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0032/full/full/0/default.jpg" width="2909px" height="4906px"/>
         </surface>
     </facsimile>
     <text type="Sitzungsprotokoll">
@@ -250,8 +220,7 @@
                         seiner Mitglieder oder als Vorlagen der Bundesregierung. Der Bundesrat kann
                         im Wege der Bundesregierung Gesetzesanträge im Nationalrat stellen.</p>
                     <p>(2) Der von 300.000 Stimmberechtigten oder von je der Hälfte der
-                        Stimmberechtigten dreier Länder gestellte Antrag (Volkebe<pb facs="#facs_4"
-                            n="4" xml:id="img_0004" break="no"/><fw type="pageNum">- 3 -</fw>gehren)
+                        Stimmberechtigten dreier Länder gestellte Antrag (Volkebe<pb facs="#facs_4" n="4" xml:id="img_0004" break="no"/><fw type="pageNum">- 3 -</fw>gehren)
                         ist von der Bundesregierung dem Nationalrat zur geschäftsordnungsmäßigen
                         Behandlung vorzulegen“ </p>
                 </quote>
@@ -310,8 +279,7 @@
                     Abgabe geleistet hätten und nun mit einem Schlag das Gesetz durch Volksentscheid
                     aufgehoben wird. Dadurch würde die gesamte Rechtssicherheit auf das Schwerste
                     erschüttert. Kurze Legislaturperioden seien ein weit besserer Schutz. In der
-                    Schweiz sei die Verstaatlichung der Bahnen 15 Jahre lang <pb facs="#facs_6"
-                        n="6" xml:id="img_0006" break="yes"/><fw type="pageNum">- 5 -</fw>zum
+                    Schweiz sei die Verstaatlichung der Bahnen 15 Jahre lang <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><fw type="pageNum">- 5 -</fw>zum
                     größten Schaden der Allgemeinheit durch die Volksabstimmung verzögert worden.
                     Dr. Seipel erklärt, daß der Vorschlag des Entwurfes ganz von dem Vorgang in der
                     Schweiz abweicht.</p>
@@ -371,8 +339,7 @@
                     erhoben wird.</p>
                 <quote>
                     <head>Art. 38. </head>
-                    <p>(1) Jeder Gesetzesbeschluß des Nationalrates ist unverzüglich <pb
-                            facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">-
+                    <p>(1) Jeder Gesetzesbeschluß des Nationalrates ist unverzüglich <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">-
                             7 -</fw>durch dessen Präsidenten dem Bundeskanzler zu übermitteln, der
                         ihn sofort dem Bundesrate bekanntzugeben hat.</p>
                     <p>(2) Ein Gesetzesbeschluß kann, soweit nicht in diesem Artikel anderes
@@ -404,8 +371,7 @@
                         Bundesministern gegenzuzeichnen. </p>
                 </quote>
                 <p>Dr. Seipel und Dr. Danneberg wünschten eine Vereinfachung der Form des Art. 41,
-                    womit die Staatskanzlei betraut<pb facs="#facs_9" n="9" xml:id="img_0009"
-                        break="yes"/><fw type="pageNum">- 8 -</fw>wird. Zu Art. 42 bemerkt
+                    womit die Staatskanzlei betraut<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><fw type="pageNum">- 8 -</fw>wird. Zu Art. 42 bemerkt
                     Sektionsrat Dr. Mannlicher, daß die Verringerung der vacatio legis auch für die
                     Landesgesetzgebung bereits beschlossen sei; der Artikel wird im Wortlaut des
                     Linzer Entwurfes angenommen. Vor der folgenden Überschrift wird der Buchstabe D
@@ -435,8 +401,7 @@
                     Seipel meint, daß die Geschäftsordnung der Körperschaften für die Lösung dieser
                     Frage sorgen werde. Der Vorsitzende stellt fest, daß gegen den ersten Satz keine
                     Einwendung bestehe, der zweite Satz jedoch zu streichen wäre.</p>
-                <p> Abg. Clessin beantragt die Aufnahme eines Absatzes <pb facs="#facs_10" n="10"
-                        xml:id="img_0010" break="yes"/><fw type="pageNum">- 9 -</fw>durch den
+                <p> Abg. Clessin beantragt die Aufnahme eines Absatzes <pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><fw type="pageNum">- 9 -</fw>durch den
                     Mandatswerbern des Beamtenstandes der erforderliche Urlaub für die
                     Mandatsbewerbung gewährleistet werde. Der Vorsitzende macht auf die
                     Schwierigkeit der Feststellung aufmerksam, wer als Beamter zu betrachten sei.
@@ -464,9 +429,7 @@
                     <p>(1) Alle politischen Staatsvertrâge, andere nur, sofern sie gesetzesändernden
                         Inhalt haben, bedürfen zu ihrer Gültigkeit der Genehmigung durch den
                         Nationalrat. </p>
-                    <p>(2) Auf Beschlüsse des Nationalrates über die Genehmigung von<pb
-                            facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><fw type="pageNum"
-                            >- 10 -</fw>Staatsverträgen finden die Bestimmungen des Art. 38, Abs. 1
+                    <p>(2) Auf Beschlüsse des Nationalrates über die Genehmigung von<pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><fw type="pageNum">- 10 -</fw>Staatsverträgen finden die Bestimmungen des Art. 38, Abs. 1
                         bis 4 sinngemäße Anwendung.</p>
                 </quote>
                 <p> Mit der Formulierung eines eigenen Artikels über die Vorlage des Budgets wird
@@ -495,8 +458,7 @@
                     übertragen sind. Als Beispiel habe Art. 34 der deutschen Verfassung gedient:
                     „Der Reichstag hat das Recht und auf Antrag von einem Fünftel seiner Mitglieder
                     die Pflicht, Untersuchungsausschüsse einzusetzen“. Der Vorsitzende erblickt
-                    darin ein sehr weitgehendes Minoritätsrecht,<pb facs="#facs_12" n="12"
-                        xml:id="img_0012" break="yes"/><fw type="pageNum">- 11 -</fw> das von einer
+                    darin ein sehr weitgehendes Minoritätsrecht,<pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><fw type="pageNum">- 11 -</fw> das von einer
                     faktiösen Opposition dazu benützt werden kann, jeden Tag neue Untersuchungen zu
                     erzwingen, insbesondere können einzelne Abgeordnete ihr Privatinteresse durch
                     Einsichtnahme in Akte leicht befriedigen. Auch die Anwendung der
@@ -528,8 +490,7 @@
                 <p> Bei Besprechung der Überschrift des folgenden Abschnittes bemängelt Prof. Kelsen
                     die Worte „die Vollziehung des Bundes“ als juristisch unklar. Besser wäre die
                     vollziehende Gewalt des Bundes, doch sei man prinzipiell bestrebt gewesen, das
-                    Wort Gewalt zu<pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><fw
-                        type="pageNum">- 12 -</fw> vermeiden. Beschlossen wird folgender
+                    Wort Gewalt zu<pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><fw type="pageNum">- 12 -</fw> vermeiden. Beschlossen wird folgender
                     Wortlaut:</p>
                 <quote>
                     <head>Dritter Abschnitt.</head>
@@ -589,8 +550,7 @@
                         Abstimmung über den Gesamtvorschlag des Hauptausschusses vor. </p>
                     <p>(4) Ist der Nationalrat nicht versammelt, so wird die Bundesregierung bis zum
                         Zusammentritt des Nationalrates vom Hauptausschuß bestellt.</p>
-                    <p><pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/><fw type="pageNum"
-                            >- 14 -</fw> (5) Auf die Bestellung einzelner Mitglieder der
+                    <p><pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/><fw type="pageNum">- 14 -</fw> (5) Auf die Bestellung einzelner Mitglieder der
                         Bundesregierung finden die Bestimmungen der Absätze 2 bis 4 sinngemäß
                         Anwendung.</p>
                 </quote>
@@ -621,8 +581,7 @@
                     <head> "Art. 61 a.</head>
                     <p>(1) Die Bestallungsurkunden des Bundeskanzlers, des Vizekanzlers und der
                         übrigen Bundesminister werden vom Bundespräsidenten mit dem Datum des Tages
-                        der Angelobung ausgefertigt und vom neu<pb facs="#facs_16" n="16"
-                            xml:id="img_0016" break="no"/><fw type="pageNum">- 15 -</fw>bestellten
+                        der Angelobung ausgefertigt und vom neu<pb facs="#facs_16" n="16" xml:id="img_0016" break="no"/><fw type="pageNum">- 15 -</fw>bestellten
                         Bundeskanzler gegengezeichnet. </p>
                     <p> (2) Die Mitglieder der Bundesregierung werden vor Antritt ihres Amtes vom
                         Bundespräsidenten angelobt. </p>

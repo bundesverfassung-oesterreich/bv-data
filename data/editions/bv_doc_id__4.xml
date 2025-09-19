@@ -63,7 +63,11 @@
                         <idno type="bv_data_set">Datenset A</idno>
                         <idno type="goobi">14505</idno>
                   </publicationStmt>
-                  <sourceDesc>
+                  <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">0500</biblScope>
+</seriesStmt>
+<sourceDesc>
                         <msDesc type="invetory">
                               <msIdentifier>
                                     <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
@@ -331,8 +335,7 @@
                                                 <item> die Regelung des Administrativverfahrens und
                                                   die Festsetzung der allgemeinen Grundsätze des
                                                   Verwaltungsstrafverfahrens,</item>
-                                                <pb facs="#facs_4" n="4" xml:id="img_0004"
-                                                  break="yes"/>
+                                                <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
                                                 <fw type="pageNum">- 3 -</fw>
                                                 <label>6.</label>
                                                 <item> die Feststellung der Grundsätze des Wasser-
@@ -370,9 +373,7 @@
                                           Genehmigung des Bundesrates. </p>
                                     <p type="legal_section">Staatsverträge bedürfen zu ihrer Gültigkeit der Genehmigung durch die
                                           Bundesversammlung und den Bundesrat. </p>
-                                    <p type="legal_section">Nur Verwaltungsverträge geringerer Be<pb
-                                                facs="#facs_5" n="5" xml:id="img_0005" break="no"
-                                                /><fw type="pageNum">- 4 -</fw>deutung
+                                    <p type="legal_section">Nur Verwaltungsverträge geringerer Be<pb facs="#facs_5" n="5" xml:id="img_0005" break="no"/><fw type="pageNum">- 4 -</fw>deutung
                                           /Regierungsübereinkommen/ hat lediglich die
                                           Bundesregierung zu genehmigen. </p>
                               </div>
@@ -510,9 +511,7 @@
                               <div type="article">
                                     <head>Art. XXII. </head>
                                     <p type="legal_section">Das Ergebnis der Volksabstimmung ist im
-                                          Bundesgesetzblatt zu verlautbaren. Im Fal<pb
-                                                facs="#facs_9" n="9" xml:id="img_0009" break="no"
-                                                /><fw type="pageNum">- 8 -</fw>le ein Bundesgesetz
+                                          Bundesgesetzblatt zu verlautbaren. Im Fal<pb facs="#facs_9" n="9" xml:id="img_0009" break="no"/><fw type="pageNum">- 8 -</fw>le ein Bundesgesetz
                                           durch Volksabstimmung abgelehnt wurde, ist seine
                                           Ausserkraftsetzung kundzumachen. </p>
                               </div>
@@ -620,9 +619,7 @@
                               <div type="article">
                                     <head>Art. XXXI. </head>
                                     <note type="comment">Eventuell.</note>
-                                    <p type="legal_section">Hat der Bundesrat einem Gesetzes<pb
-                                                facs="#facs_12" n="12" xml:id="img_0012" break="no"
-                                                /><fw type="pageNum">- 11 -</fw>beschluss der
+                                    <p type="legal_section">Hat der Bundesrat einem Gesetzes<pb facs="#facs_12" n="12" xml:id="img_0012" break="no"/><fw type="pageNum">- 11 -</fw>beschluss der
                                           Bundesversammlung die Genehmigung verweigert und beharrt
                                           die Bundesversammlung auf ihrem Beschluss, so ist dieser
                                           Beschluss der Bundesversammlung einer Volksabstimmung zu
@@ -773,9 +770,7 @@
                                                 Art. XL. Abs. 2 gleichzeitig jedoch gesondert von
                                                 dem Stimmzettel für die Wahl zur Bundesversammlung
                                                 abzugeben.</p>
-                                          <p type="legal_section"><pb facs="#facs_16" n="16"
-                                                  xml:id="img_0016" break="yes"/><fw type="pageNum"
-                                                  >- 15 - </fw>Jeder Wähler darf nur einen
+                                          <p type="legal_section"><pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/><fw type="pageNum">- 15 - </fw>Jeder Wähler darf nur einen
                                                 Kandidaten für die Präsidentschaft bezeichnen. </p>
                                     </div>
                                     <div type="article">
@@ -982,8 +977,7 @@
                                           <p type="legal_section">Dem Bundeskanzler und den
                                                 Staatssekretären können zur Unterstützung in der
                                                 politischen Geschäftsführung und zur
-                                                parlamentarischen Vertre<pb facs="#facs_21" n="21"
-                                                  xml:id="img_0021" break="no"/><fw type="pageNum">-
+                                                parlamentarischen Vertre<pb facs="#facs_21" n="21" xml:id="img_0021" break="no"/><fw type="pageNum">-
                                                   20 -</fw>tung Unterstaatssekretäre beigegeben
                                                 werden. </p>
                                           <p type="legal_section">Die Unterstaatssekretäre werden in
@@ -1033,8 +1027,7 @@
                                           <p type="legal_section"> Die Richter werden - soferne
                                                 nicht anders bestimmt ist - auf Grund von
                                                 Besetzungsvorschlägen der durch die
-                                                Gerichtsverfassung dazu be<pb facs="#facs_22" n="22"
-                                                  xml:id="img_0022" break="no"/><fw type="pageNum">-
+                                                Gerichtsverfassung dazu be<pb facs="#facs_22" n="22" xml:id="img_0022" break="no"/><fw type="pageNum">-
                                                   21 -</fw>stimmten Senate über Antrag der
                                                 Bundesregierung vom Bundespräsidenten oder über
                                                 dessen Ermächtigung vom Staatssekretär für Justiz
@@ -1112,8 +1105,7 @@
                                           <head>Art. LXX.</head>
                                           <p type="legal_section"> Die Verhandlungen vor dem
                                                 erkennenden Richter sind in Zivil- und
-                                                Strafrechtssachen münd<pb facs="#facs_24" n="24"
-                                                  xml:id="img_0024" break="no"/><fw type="pageNum">-
+                                                Strafrechtssachen münd<pb facs="#facs_24" n="24" xml:id="img_0024" break="no"/><fw type="pageNum">-
                                                   23 -</fw>lich und öffentlich. Die Ausnahme
                                                 bestimmt das Gesetz. </p>
                                           <p type="legal_section">Im Strafverfahren gilt der Anklage prozess. </p>
@@ -1243,9 +1235,7 @@
                                     <p type="legal_section">In den von den Landesbehörden als
                                           Bundesorgan wahrgenommenen Angelegenheiten geht der
                                           administrative Instanzenzug - wenn nicht durch
-                                          Bundesgesetz ausdrücklich anderes be<pb facs="#facs_28"
-                                                n="28" xml:id="img_0028" break="no"/><fw
-                                                type="pageNum">- 27 -</fw>stimmt ist - bis zur
+                                          Bundesgesetz ausdrücklich anderes be<pb facs="#facs_28" n="28" xml:id="img_0028" break="no"/><fw type="pageNum">- 27 -</fw>stimmt ist - bis zur
                                           Bundesregierung bezw. den ressortmässig zustehenden
                                           Bundesämtern. </p>
                               </div>
@@ -1282,9 +1272,7 @@
                               <div type="article">
                                     <head>Art. LXXXVI. </head>
                                     <p type="legal_section"> Der Bundesrechnungshof besteht aus
-                                          einem Präsidenten und den erforderlichen Beam<pb
-                                                facs="#facs_29" n="29" xml:id="img_0029" break="no"
-                                                /><fw type="pageNum">- 28 -</fw>ten und
+                                          einem Präsidenten und den erforderlichen Beam<pb facs="#facs_29" n="29" xml:id="img_0029" break="no"/><fw type="pageNum">- 28 -</fw>ten und
                                           Hilfskräften. </p>
                                     <p type="legal_section">Der Präsident des Bundesrechnungshofes wird von der Bundesversammlung
                                           gewählt. Die Wahl bedarf der Genehmigung
@@ -1376,9 +1364,7 @@
                                     <head>Art. XCV. </head>
                                     <p type="legal_section">Der Bundesrechnungshof ist gegenüber den
                                           anweisenden Behörden und den diesen unterstehenden
-                                          Stellen, dann gegenüber den im Art.<pb facs="#facs_32"
-                                                n="32" xml:id="img_0032" break="yes"/><fw
-                                                type="pageNum">- 31 -</fw>LXXXV bezeichneten
+                                          Stellen, dann gegenüber den im Art.<pb facs="#facs_32" n="32" xml:id="img_0032" break="yes"/><fw type="pageNum">- 31 -</fw>LXXXV bezeichneten
                                           Vermögens- und Körperschaften berechtigt, zur Ueberprüfung
                                           der Gebarung <list>
                                                 <label> a</label>
@@ -1415,8 +1401,7 @@
                                           zweckmässiges und möglichst einfaches Rechnungsverfahren
                                           zu sorgen und dabei stets das Einvernehmen mit dem
                                           Bundesamte der Finanzen bezw. mit den Landesregierungen zu
-                                                pfle<pb facs="#facs_33" n="33" xml:id="img_0033"
-                                                break="no"/><fw type="pageNum">- 32 -</fw>gen. Falls
+                                                pfle<pb facs="#facs_33" n="33" xml:id="img_0033" break="no"/><fw type="pageNum">- 32 -</fw>gen. Falls
                                           eine Anordnung dieser Art die innere Einrichtung einer
                                           Verwaltungsstelle berührt, hat der Bundesrechnungshof auch
                                           das Einvernehmen mit dem zuständigen Bundesamte bezw. der
@@ -1439,9 +1424,7 @@
                                           Landesrechnungsabschlüsse und legt den
                                           ersteren der Bundesversammlung, die
                                           letzteren dem Bundesrate vor. </p>
-                                    <p type="legal_section">Der Bundesrat übermittelt die Lan<pb
-                                                facs="#facs_34" n="34" xml:id="img_0034" break="no"
-                                                /><fw type="pageNum">- 33
+                                    <p type="legal_section">Der Bundesrat übermittelt die Lan<pb facs="#facs_34" n="34" xml:id="img_0034" break="no"/><fw type="pageNum">- 33
                                           -</fw>desrechnungsabschlüsse den zuständigen
                                           Landesversammlungen zur verfassungsmässigen Behandlung. </p>
                               </div>
@@ -1516,8 +1499,7 @@
                                           Pressgesetze vorgesehen Gründen erfolgen. / Sie ist ohne
                                           gleichzeitige Verfolgung des Täters ausgeschlossen/. Das
                                           Postverbot kann nur gegen ausländische Druckschriften in
-                                          den durch be<pb facs="#facs_36" n="36" xml:id="img_0036"
-                                                break="no"/><fw type="pageNum">- 35 -</fw>sonderes
+                                          den durch be<pb facs="#facs_36" n="36" xml:id="img_0036" break="no"/><fw type="pageNum">- 35 -</fw>sonderes
                                           Gesetz vorgesehenen Fällen erlassen werden. </p>
                               </div>
                               <div type="article">
@@ -1556,8 +1538,7 @@
                                     <head>Art. CXV. </head>
                                     <p type="legal_section">Im Falle einer dringenden Gefahr für den
                                           Staat oder seine Bürger können die Grundrechte der
-                                          persönlichen Freiheit, des Haus<pb facs="#facs_37" n="37"
-                                                xml:id="img_0037" break="no"/><fw type="pageNum">-
+                                          persönlichen Freiheit, des Haus<pb facs="#facs_37" n="37" xml:id="img_0037" break="no"/><fw type="pageNum">-
                                                 36 -</fw>rechtes, der Vereins - und
                                           Versammlungsfreiheit und der Pressfreiheit mittels
                                           Vollzugsanweisungen der Staatsregierung den durch
@@ -1637,8 +1618,7 @@
                                           <p type="legal_section">Die Organisation der
                                                 Landesverwaltungsgerichte und des
                                                 Bundesverwaltungsgerichtes sowie das Verfahren vor
-                                                  ihnen<pb facs="#facs_39" n="39" xml:id="img_0039"
-                                                  break="yes"/><fw type="pageNum">- 38 -</fw>wird
+                                                  ihnen<pb facs="#facs_39" n="39" xml:id="img_0039" break="yes"/><fw type="pageNum">- 38 -</fw>wird
                                                 durch ein besonderes Bundesgesetz geregelt. </p>
                                     </div>
                                     <div type="article">
@@ -1679,9 +1659,7 @@
                                           <head>Art. CXXIII. </head>
                                           <p type="legal_section">Das Bundesverfassungsgericht in
                                                 Wien entscheidet alle Rechtsstreitigkeiten zwischen
-                                                den souveränen Ländern, sowie zwi<pb facs="#facs_40"
-                                                  n="40" xml:id="img_0040" break="no"/><fw
-                                                  type="pageNum">- 39 -</fw>schen einem souveränen
+                                                den souveränen Ländern, sowie zwi<pb facs="#facs_40" n="40" xml:id="img_0040" break="no"/><fw type="pageNum">- 39 -</fw>schen einem souveränen
                                                 Lande und dem Bund. </p>
                                     </div>
                                     <div type="article">
@@ -1768,9 +1746,7 @@
                                                   durch ihre Amtstätigkeit auf einen vom Bundesrat
                                                   genehmigten Antrag der Bundesversammlung; wegen
                                                   vorsätzlicher und grobfahrlässiger
-                                                  Gesetzesverletzung seitens der sub c/ ge<pb
-                                                  facs="#facs_42" n="42" xml:id="img_0042"
-                                                  break="no"/><fw type="pageNum">- 41</fw>nannten
+                                                  Gesetzesverletzung seitens der sub c/ ge<pb facs="#facs_42" n="42" xml:id="img_0042" break="no"/><fw type="pageNum">- 41</fw>nannten
                                                   Personen durch ihre Amtstätigkeit auf Antrag der
                                                   zuständigen Landesversammlung; und über die
                                                   Verantwortlichkeit des Landeshauptmannes wegen
@@ -1807,8 +1783,7 @@
                                                 Range des Bundeskanzlers. der
                                                 Vizepräsident im Range eines Staats sekretärs. </p>
                                           <p type="legal_section">Das Amt der Mitglieder des
-                                                  Bundesver<pb facs="#facs_43" n="43"
-                                                  xml:id="img_0043" break="no"/><fw type="pageNum">-
+                                                  Bundesver<pb facs="#facs_43" n="43" xml:id="img_0043" break="no"/><fw type="pageNum">-
                                                   42 </fw>fassungsgerichtes ist ein Ehrenamt. Nur
                                                 drei Mitglieder fungieren als selbständige
                                                 Referenten im Range eines Unterstaatssekretärs. Sie

@@ -30,13 +30,11 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372"
-                        >Peter Andorfer </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X"
-                        >Carl Friedrich Haak </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -63,7 +61,11 @@
                 <idno type="bv_data_set">Datenset B</idno>
                 <idno type="goobi">14600</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset B</title>
+<biblScope unit="part">2400</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
@@ -111,149 +113,91 @@
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
         <surface ulx="0" uly="0" lrx="3007" lry="4788" xml:id="facs_2">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0090/full/full/0/default.jpg"
-                width="3007px" height="4788px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0090/full/full/0/default.jpg" width="3007px" height="4788px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3012" lry="4839" xml:id="facs_3">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0091/full/full/0/default.jpg"
-                width="3012px" height="4839px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0091/full/full/0/default.jpg" width="3012px" height="4839px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2990" lry="4807" xml:id="facs_4">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0092/full/full/0/default.jpg"
-                width="2990px" height="4807px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0092/full/full/0/default.jpg" width="2990px" height="4807px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2969" lry="4777" xml:id="facs_5">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0093/full/full/0/default.jpg"
-                width="2969px" height="4777px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0093/full/full/0/default.jpg" width="2969px" height="4777px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2996" lry="4811" xml:id="facs_6">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0094/full/full/0/default.jpg"
-                width="2996px" height="4811px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0094/full/full/0/default.jpg" width="2996px" height="4811px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2992" lry="4857" xml:id="facs_7">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0095/full/full/0/default.jpg"
-                width="2992px" height="4857px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0095/full/full/0/default.jpg" width="2992px" height="4857px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3001" lry="4815" xml:id="facs_8">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0096/full/full/0/default.jpg"
-                width="3001px" height="4815px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0096/full/full/0/default.jpg" width="3001px" height="4815px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2991" lry="4845" xml:id="facs_9">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0097/full/full/0/default.jpg"
-                width="2991px" height="4845px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0097/full/full/0/default.jpg" width="2991px" height="4845px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3000" lry="4829" xml:id="facs_10">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0098/full/full/0/default.jpg"
-                width="3000px" height="4829px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0098/full/full/0/default.jpg" width="3000px" height="4829px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3012" lry="4825" xml:id="facs_11">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0099/full/full/0/default.jpg"
-                width="3012px" height="4825px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0099/full/full/0/default.jpg" width="3012px" height="4825px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2995" lry="4839" xml:id="facs_12">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0100/full/full/0/default.jpg"
-                width="2995px" height="4839px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0100/full/full/0/default.jpg" width="2995px" height="4839px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3002" lry="4839" xml:id="facs_13">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0101/full/full/0/default.jpg"
-                width="3002px" height="4839px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0101/full/full/0/default.jpg" width="3002px" height="4839px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3003" lry="4874" xml:id="facs_14">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0102/full/full/0/default.jpg"
-                width="3003px" height="4874px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0102/full/full/0/default.jpg" width="3003px" height="4874px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2991" lry="4855" xml:id="facs_15">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0103/full/full/0/default.jpg"
-                width="2991px" height="4855px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0103/full/full/0/default.jpg" width="2991px" height="4855px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3008" lry="4924" xml:id="facs_16">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0104/full/full/0/default.jpg"
-                width="3008px" height="4924px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0104/full/full/0/default.jpg" width="3008px" height="4924px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3046" lry="4845" xml:id="facs_17">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0105/full/full/0/default.jpg"
-                width="3046px" height="4845px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0105/full/full/0/default.jpg" width="3046px" height="4845px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3014" lry="4844" xml:id="facs_18">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0106/full/full/0/default.jpg"
-                width="3014px" height="4844px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0106/full/full/0/default.jpg" width="3014px" height="4844px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3017" lry="4834" xml:id="facs_19">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0107/full/full/0/default.jpg"
-                width="3017px" height="4834px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0107/full/full/0/default.jpg" width="3017px" height="4834px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2985" lry="4812" xml:id="facs_20">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0108/full/full/0/default.jpg"
-                width="2985px" height="4812px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0108/full/full/0/default.jpg" width="2985px" height="4812px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2997" lry="4819" xml:id="facs_21">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0109/full/full/0/default.jpg"
-                width="2997px" height="4819px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0109/full/full/0/default.jpg" width="2997px" height="4819px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2992" lry="4807" xml:id="facs_22">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0110/full/full/0/default.jpg"
-                width="2992px" height="4807px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0110/full/full/0/default.jpg" width="2992px" height="4807px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3050" lry="4833" xml:id="facs_23">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0111/full/full/0/default.jpg"
-                width="3050px" height="4833px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0111/full/full/0/default.jpg" width="3050px" height="4833px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2997" lry="4815" xml:id="facs_24">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0112/full/full/0/default.jpg"
-                width="2997px" height="4815px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0112/full/full/0/default.jpg" width="2997px" height="4815px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3012" lry="4826" xml:id="facs_25">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0113/full/full/0/default.jpg"
-                width="3012px" height="4826px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0113/full/full/0/default.jpg" width="3012px" height="4826px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3011" lry="4820" xml:id="facs_26">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0114/full/full/0/default.jpg"
-                width="3011px" height="4820px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0114/full/full/0/default.jpg" width="3011px" height="4820px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3025" lry="4806" xml:id="facs_27">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0115/full/full/0/default.jpg"
-                width="3025px" height="4806px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0115/full/full/0/default.jpg" width="3025px" height="4806px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3006" lry="4811" xml:id="facs_28">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0116/full/full/0/default.jpg"
-                width="3006px" height="4811px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0116/full/full/0/default.jpg" width="3006px" height="4811px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3009" lry="4795" xml:id="facs_29">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0117/full/full/0/default.jpg"
-                width="3009px" height="4795px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0117/full/full/0/default.jpg" width="3009px" height="4795px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3016" lry="4798" xml:id="facs_30">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0118/full/full/0/default.jpg"
-                width="3016px" height="4798px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__51/files/images/IMG_0118/full/full/0/default.jpg" width="3016px" height="4798px"/>
         </surface>
     </facsimile>
     <text type="Sitzungsprotokoll">
@@ -314,8 +258,7 @@
                 <p>Der Vorsitzende erklärt, daß die Parteien diese Erklärung ad referendum nehmen
                     und erteilt Prof. Dr. <emph>Kelsen</emph> das Wort zu seinem Entwurf über die
                     Bundeshauptstadt Wien. Dieser bemerkt einleitend, daß noch eine technische
-                    Lesung erforder<pb facs="#facs_4" n="4" xml:id="img_0004" break="no"/><fw
-                        type="pageNum">- 3 -</fw>lich sein würde, um namentlich alle auf Wien
+                    Lesung erforder<pb facs="#facs_4" n="4" xml:id="img_0004" break="no"/><fw type="pageNum">- 3 -</fw>lich sein würde, um namentlich alle auf Wien
                     bezüglichen Punkte zu überprüfen. Die <add>Wiener</add> Angelegenheiten sollen
                     in einem besonderen Hauptstück geregelt werden, das nach dem Hauptstück über die
                     Gemeinde einzuschalten wäre, denn es betrifft sowohl die Vollziehung in den
@@ -342,8 +285,7 @@
                     hätte durch eine vom gemeinsamen Landtag aus seiner Mitte nach dem
                     Verhältniswahlrecht zu wählende Kommission als gemeinsame Landesregierung zu
                     erfolgen, um nicht neue Verwaltungsapparate aufkommen zu lassen. Als
-                    Vorsitzender und<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><fw
-                        type="pageNum">- 4 -</fw>dessen Stellvertreter hätten abwechselnd der
+                    Vorsitzender und<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><fw type="pageNum">- 4 -</fw>dessen Stellvertreter hätten abwechselnd der
                     Bürgermeister und der Landeshauptmann zu fungieren. Für die endgiltige
                     Auseinandersetzung müßte ein übereinstimmendes Gesetz des Landes
                     Niederösterreich und der Gemeinde Wien genügen.</p>
@@ -374,8 +316,7 @@
                         spreche<add>,</add> den typischen Fall einer Delegation im Sinne des alten
                     Staatsrechts. Der <emph>Vorsitzende</emph> möchte namentlich die Worte „aus
                     seiner Mitte“ streichen und den Parteien die Freiheit geben zu wählen, wen sie
-                    wollen. Durch das Verhältniswahl<pb facs="#facs_6" n="6" xml:id="img_0006"
-                        break="no"/><fw type="pageNum">- 5 -</fw> recht sei überdies die
+                    wollen. Durch das Verhältniswahl<pb facs="#facs_6" n="6" xml:id="img_0006" break="no"/><fw type="pageNum">- 5 -</fw> recht sei überdies die
                     Benachteiligung einer Partei ausgeschlossen. Das Verfahren wäre so zu regeln wie
                     beim Bundesrat und bei den Landesregierungen. In der Regel werden sich die
                     Gemeinderäte wohl selbst delegieren.</p>
@@ -410,8 +351,7 @@
                             Stellung des Landtages.</emph></p>
                     <p><emph>Art. D.</emph></p>
                     <p><emph>(1) Zu den nicht gemeinsamen Angelegenheiten gehört die
-                            Verfassung</emph><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"
-                            /><fw type="pageNum">- 6 -</fw><emph>jedes der beiden Landesteile sowie
+                            Verfassung</emph><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum">- 6 -</fw><emph>jedes der beiden Landesteile sowie
                             die Wahl der Mitglieder zum Bundesrat.</emph></p>
                     <p><emph>(2) Ebenso sieht die Gesetzgebung hinsichtlich der Abgaben, soweit sie
                             in den Wirkungskreis der Länder fällt, dem Gemeinderat der Stadt Wien
@@ -479,8 +419,7 @@
                     Uebersicht würde wesentlich erschwert. Man könnte sich begnügen einen
                     Schlußartikel in die Verfassung aufzunehmen, der erklärt, daß die
                     Uebergangsbestimmungen in einem eigenen Gesetz, das zum Bestandteil der
-                    Verfassung erklärt wird, enthalten sind,<pb facs="#facs_9" n="9"
-                        xml:id="img_0009" break="yes"/><fw type="pageNum">- 8 -</fw>wobei jedoch für
+                    Verfassung erklärt wird, enthalten sind,<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><fw type="pageNum">- 8 -</fw>wobei jedoch für
                     dieses Gesetz die Bestimmungen über die 2/3 Majorität und die Volksabstimmung
                     nicht zu gelten hätten. Die Zeit zur Fertigstellung dieses Entwurfes war so
                     kurz, daß wahrscheinlich noch Ergänzungen erforderlich sein dürften, es wäre
@@ -509,8 +448,7 @@
                         <emph>Froehlich</emph> begründet diese Worte mit der Möglichkeit, daß die
                     verschiedenen Bestimmungen des Verfassungsgesetzes zu verschiedenen Zeiten in
                     Kraft treten, sodaß auch die Aenderung der Gesetze entsprechend zu erfolgen
-                    hätte. Abgeordneter <emph>Clessin</emph><pb facs="#facs_10" n="10"
-                        xml:id="img_0010" break="yes"/><fw type="pageNum">- 9 -</fw>schließt sich
+                    hätte. Abgeordneter <emph>Clessin</emph><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><fw type="pageNum">- 9 -</fw>schließt sich
                     den Streichungsantrag an und wünscht auch das Wort „insofern“ durch „insoweit“
                     ersetzt. Den Titel des Verfassungsgesetzes wünscht der <emph>Vorsitzende</emph>
                     offen zu lassen, auch soll das Wort „Oesterreich“ gestrichen werden.</p>
@@ -544,8 +482,7 @@
                             festgesetzt werden, sind solche Landesgesetze gemäß Artikel 13, Absatz
                             2, binnen der bundesgesetzlich festgelegten Frist abzuändern.</emph></p>
                     <p>(2) Sind die im Artikel 12 bezeichneten Angelegenheiten aber zur Gänze durch
-                        Staatsgesetze, einschließlich früherer Reichsgeset<pb facs="#facs_11" n="11"
-                            xml:id="img_0011" break="no"/><fw type="pageNum">- 10 -</fw>ze
+                        Staatsgesetze, einschließlich früherer Reichsgeset<pb facs="#facs_11" n="11" xml:id="img_0011" break="no"/><fw type="pageNum">- 10 -</fw>ze
                             <add>geregelt,</add> so bleibt ein solches Gesetz als Bundesgesetz bis
                         zum 31. Dezember 1924 in Giltigkeit, soweit es nicht schon vorher durch ein
                         die gleiche Angelegenheit im Sinne des Artikels 12 regelndes Bundesgesetz
@@ -579,8 +516,7 @@
                     durch Gesetz zu lösen aber bis dahin müsse die Verordnungsgewalt eingreifen. Der
                         <emph>Vorsitzende</emph> erblickt <add>eine</add> Gefahr in der Konkurrenz
                     der Bundes- und der Landesregierung<add>en</add> und möchte erwägen, ob man
-                    solche Verordnungen nicht an besondere Voraussetzungen<pb facs="#facs_12" n="12"
-                        xml:id="img_0012" break="yes"/><fw type="pageNum">- 11 -</fw>binden sollte,
+                    solche Verordnungen nicht an besondere Voraussetzungen<pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><fw type="pageNum">- 11 -</fw>binden sollte,
                     etwa unter Beiziehung des Hauptausschusses. Prof. Dr. <emph>Kelsen</emph>
                     erblickt darin eine Verzögerung, die dem Bedürfnis raschester Erledigung nicht
                     Rechnung trägt. Besonders bedenklich findet der <emph>Vorsitzende</emph>, daß im
@@ -612,9 +548,7 @@
                             Bestimmungen des Bundesverfassungsgesetzes im Widerspruch stehen —
                             namentlich was Zuständigkeit und Zusammensetzung der Behörden sowie
                             deren Eigenschaft als Bundes- und Landesbehörden anbelangt - gelten sie
-                            als sinngemäß abgeändert. Insbesondere endet demgemäß in den</emph><pb
-                            facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><fw type="pageNum"
-                            >- 12 -</fw><emph>Angelegenheiten, die nunmehr in der Vollziehung der
+                            als sinngemäß abgeändert. Insbesondere endet demgemäß in den</emph><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><fw type="pageNum">- 12 -</fw><emph>Angelegenheiten, die nunmehr in der Vollziehung der
                             Länder stehen, der Instanzenzug bei der Landesregierung.</emph></p>
                     <p><emph>(2) Soferne sich auf Grund dieser Auslegungsregel Zweifel ergeben
                             können, hat nach den die Zuständigkeit regelnden Bestimmungen des
@@ -647,8 +581,7 @@
                     <p>(2) Die nach dem Gesetz vom 24. Juli 1917, R.G.Bl. Nr. 307, mit welchem die
                         Regierung ermächtigt wird, aus Anlaß der durch den Kriegszustand
                         verursachten außerordentlichen Verhältnisse die notwendigen Verfügungen auf
-                        wirtschaftlichem Gebiete zu treffen, der Regierung <pb facs="#facs_14"
-                            n="14" xml:id="img_0014" break="yes"/><fw type="pageNum">- 13
+                        wirtschaftlichem Gebiete zu treffen, der Regierung <pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><fw type="pageNum">- 13
                             -</fw><emph> zustehenden Befugnisse gehen sowohl auf die
                             Bundesregierung, als auch auf die einzelnen Bundesminister
                         über."</emph></p>
@@ -684,9 +617,7 @@
                             Bundesverfassungsgesetzes. Bis zu diesem Zeitpunkte sind sie
                             Bundesbehörden."</emph></p>
                 </quote>
-                <p>Doch findet Abgeordneter <emph>Fink</emph> den Paragraph sehr weitgehend,<pb
-                        facs="#facs_15" n="15" xml:id="img_0015" break="yes"/><fw type="pageNum"
-                        >14</fw>solange man nicht genau weiß, ob die taxative Aufzählung dieses
+                <p>Doch findet Abgeordneter <emph>Fink</emph> den Paragraph sehr weitgehend,<pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/><fw type="pageNum">14</fw>solange man nicht genau weiß, ob die taxative Aufzählung dieses
                     Absatzes vollzählig ist. Abgeordneter <emph>Clessin</emph> verweist namentlich
                     auf das Schulwesen, das wie Sektionsrat Dr. <emph>Mannlicher</emph> mitteilt,
                     noch nicht behandelt werden konnte, da der Unterausschuß keinen Beschluß darüber
@@ -716,8 +647,7 @@
                     wäre. Auch sei die sofortige Konstituierung nicht möglich. Auf seinen Antrag
                     wird schließlich die Entscheidung über die §§ 7 und 8 den Parteiberatungen
                     überlassen.</p>
-                <p>Der Unterausschuß unterbricht hierauf die Beratungen von ½1 Uhr<pb
-                        facs="#facs_16" n="16" xml:id="img_0016" break="yes"/><fw type="pageNum">-
+                <p>Der Unterausschuß unterbricht hierauf die Beratungen von ½1 Uhr<pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/><fw type="pageNum">-
                         15 -</fw>bis 3 Uhr 45 Minuten nachmittags.</p>
                 <p>Nach kurzer Besprechung werden die §§ 8, 9 und 10 in der vorgelegten Fassung
                     angenommen. Sie lauten:</p>
@@ -750,8 +680,7 @@
                             sonst unmittelbar für Zwecke des Bundes, so sind Rechte und Pflichten
                             zwischen Bund und Land im Verhältnis der tatsächlichen Inanspruchnahme
                             im Zeitpunkt des Inkrafttretens des Bundesverfassungsgesetzes
-                            auseinanderzusetzen. Die Auseinandersetzung,</emph><pb facs="#facs_17"
-                            n="17" xml:id="img_0017" break="yes"/><fw type="pageNum">- 16
+                            auseinanderzusetzen. Die Auseinandersetzung,</emph><pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/><fw type="pageNum">- 16
                             -</fw><emph>und zwar auch mit Wirkung gegen Dritte, besorgt in jedem
                             Lande eine Kommission, bestehend aus einem vom Präsidenten des
                             zuständigen Oberlandesgerichtes aus den Richtern des Landes zu
@@ -787,8 +716,7 @@
                     Oberösterreich). Auch sind solche Beschränkungen im Interesse der Länder
                     mitunter unerläßlich. Der Verbrauch an Schlachtpferden hätte die ganze
                     oberösterreichische Pferdezucht ruiniert, wenn nicht <add>ein</add>
-                    Ausfuhrverbot erlassen worden wäre. Ministerialrat Dr. <pb facs="#facs_18"
-                        n="18" xml:id="img_0018" break="yes"/><fw type="pageNum">- 17
+                    Ausfuhrverbot erlassen worden wäre. Ministerialrat Dr. <pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/><fw type="pageNum">- 17
                         -</fw><emph>Froehlich</emph> bemerkt hiezu, daß das Einvernehmen mit dem
                     Volksernährungsamt in dieser Angelegenheit <emph>her</emph>gestellt worden sei.
                     Einzelne Verkehrsbeschränkungen von Waren sind von den Zentralstellen selbst
@@ -817,8 +745,7 @@
                     Staatsbürger der Republik Österreich, die in keiner österreichischen Gemeinde
                     das Heimatrecht haben, sind Bundesbürger. Ihre Zuweisung an eine Gemeinde der
                     Republik wird durch ein besonderes Gesetz geregelt.</p>
-                <p>Der folgende Paragraph wird in 2 Paragraphen zerlegt und zwar<pb facs="#facs_19"
-                        n="19" xml:id="img_0019" break="yes"/><fw type="pageNum">- 18 -</fw>lautet
+                <p>Der folgende Paragraph wird in 2 Paragraphen zerlegt und zwar<pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/><fw type="pageNum">- 18 -</fw>lautet
                     er:</p>
                 <quote>
                     <p>"§14.</p>
@@ -854,9 +781,7 @@
                     <p><emph>Die Bestimmungen des Gesetzes vom 12. Juli 1872, R.G.Bl.Nr.112, womit
                             zur Durchführung des Artikels 9 des Staatsgrundgesetzes vom 21. Dezember
                             1867, R.G.Bl.Nr.144, über die richterliche Gewalt, das Klagerecht der
-                            Parteien wegen der von richterlichen Beamten in Aus</emph><pb
-                            facs="#facs_20" n="20" xml:id="img_0020" break="no"/><fw type="pageNum"
-                            >- 19 -</fw><emph>übung ihrer amtlichen Wirksamkeit zugefügten
+                            Parteien wegen der von richterlichen Beamten in Aus</emph><pb facs="#facs_20" n="20" xml:id="img_0020" break="no"/><fw type="pageNum">- 19 -</fw><emph>übung ihrer amtlichen Wirksamkeit zugefügten
                             Rechtsverletzungen geregelt wird (Syndikatsgesetz), bleiben bis zur
                             Erlassung des zur Durchführung des Artikels 14 g erforderlichen Gesetzes
                             in Wirksamkeit."</emph></p>
@@ -929,8 +854,7 @@
                     <p>(2) <emph>Als erste Verlautbarungen des Bundesgesetzblattes sind das
                             Bundesverfassungsgesetz und dieses Gesetz neu kundzumachen; die so neu
                             verlautbarten Texte werden dann die maßgebenden.</emph></p>
-                    <p><pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/><fw type="pageNum"
-                            >- 21 -</fw>§ 19.</p>
+                    <p><pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/><fw type="pageNum">- 21 -</fw>§ 19.</p>
                     <p>Zu Artikel 42 c.</p>
                     <p><emph>Das Gesetz vom 13. April 1920, St.G.Bl.Nr.180, über die Mitwirkung der
                             Nationalversammlung an der Regelung von Eisenbahntarifen, Post-,
@@ -963,9 +887,7 @@
                             (Artikel 29 a) ohne besondere Einberufung am ... um 11 Uhr vormittags im
                             Parlamentsgebäude zusammen.</emph></p>
                     <p>(2) <emph>Kann die Angelobung des neugewählten Präsidenten nicht noch in
-                            derselben Sitzung der Bundesversammlung erfolgen, so hat die</emph><pb
-                            facs="#facs_23" n="23" xml:id="img_0023" break="yes"/><fw type="pageNum"
-                            >- 22 -</fw><emph>Bundeskanzlei die Bundesversammlung auf den
+                            derselben Sitzung der Bundesversammlung erfolgen, so hat die</emph><pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"/><fw type="pageNum">- 22 -</fw><emph>Bundeskanzlei die Bundesversammlung auf den
                             nächstmöglichen Zeitpunkt zur Angelobung des Bundespräsidenten
                             einzuberufen.</emph></p>
                     <p>(3) <emph>Bis zur Angelobung des Bundespräsidenten werden alle ihm
@@ -1001,9 +923,7 @@
                     <p>Der Paragraph lautet:</p>
                     <quote><p>§ 22.</p>
                     <p>Zu Artikel 58.</p>
-                    <p>(1) <emph>Bis zur Wahl einer Bundesregierung gemäß Artikel 60 führt</emph><pb
-                            facs="#facs_24" n="24" xml:id="img_0024" break="yes"/><fw type="pageNum"
-                            >- 23 -</fw><emph>die Staatsregierung die Geschäfte der
+                    <p>(1) <emph>Bis zur Wahl einer Bundesregierung gemäß Artikel 60 führt</emph><pb facs="#facs_24" n="24" xml:id="img_0024" break="yes"/><fw type="pageNum">- 23 -</fw><emph>die Staatsregierung die Geschäfte der
                             Bundesregierung.</emph></p>
                     <p>(2) <emph>Die Staatskanzlei und die Staatsämter führen ihre Geschäfte bis zur
                             Erlassung des im Artikel 64, Absatz 2, vorgesehenen Bundesgesetzes mit
@@ -1046,8 +966,7 @@
                             Staatsregierung hiezu noch nicht im Sinne der Artikel 14 und 15 des
                             Gesetzes vom 14. März 1919, St.G.Bl.Nr. 179, über die Volksvertretung,
                             Stellung genommen hat oder die in den letztbezogenen Gesetzesstellen
-                            bestimmten Fristen</emph><pb facs="#facs_25" n="25" xml:id="img_0025"
-                            break="yes"/><fw type="pageNum">- 24 -</fw><emph>noch nicht verstrichen
+                            bestimmten Fristen</emph><pb facs="#facs_25" n="25" xml:id="img_0025" break="yes"/><fw type="pageNum">- 24 -</fw><emph>noch nicht verstrichen
                             sind. Für die Berechnung der Frist des Artikels 88, Abs. 2, gilt der Tag
                             des Einlangens des Gesetzes bei der Staatsregierung als der Tag des
                             Einlangens bei der Bundesregierung.</emph></p>
@@ -1082,8 +1001,7 @@
                             Länder.</emph>"</p>
                 </quote>
                 <p>Ministerialrat Dr. <emph>Froehlich</emph> bemerkt hiezu, die Worte „im Sinne des
-                    Bundesverfassungsgesetzes“ bedeuten, daß der Lan<pb facs="#facs_26" n="26"
-                        xml:id="img_0026" break="no"/><fw type="pageNum">25</fw>deshauptmann die
+                    Bundesverfassungsgesetzes“ bedeuten, daß der Lan<pb facs="#facs_26" n="26" xml:id="img_0026" break="no"/><fw type="pageNum">25</fw>deshauptmann die
                     Verantwortung trägt.</p>
                 <p>Zu Art. 29 bemerkt der <emph>Vorsitzende</emph>, daß die Zeitbestimmung
                     nachzutragen sei. Auch hält Professor Dr. <emph>Kelsen</emph> einen Zusatz
@@ -1113,8 +1031,7 @@
                     <p>(4) <emph>In die Bezirksvertretung sind nur Personen wählbar, die im Bereiche
                             der Bezirkshauptmannschaft ihren ordentlichen Wohnsitz haben und zum
                             Landtage wählbar sind.</emph></p>
-                    <p><pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/><fw type="pageNum"
-                            >- 26 -</fw>(5) <emph>Die näheren Bestimmungen der Durchführung dieser
+                    <p><pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/><fw type="pageNum">- 26 -</fw>(5) <emph>Die näheren Bestimmungen der Durchführung dieser
                             Wahlen werden von der Landesgesetzgebung getroffen.</emph></p>
                     <p>(6) <emph>Die Festsetzung der weiteren Grundsätze für die vorläufige
                             Ausgestaltung der dermaligen Bezirksverwaltung nach den voranstehenden
@@ -1145,8 +1062,7 @@
                 <p>Zu § 32 wird ein weiterer Vorschlag der Staatskanzlei in Aussicht gestellt.</p>
                 <p>Zu § 33 bemerkt Professor Dr. <emph>Kelsen</emph> daß zwar eine Frist gesetzt
                     werden könnte, daß dies aber keine Sanktion wäre, weil man den Nationalrat nicht
-                    zur Wahl des Verfassungsgerichtshofes<pb facs="#facs_28" n="28"
-                        xml:id="img_0028" break="yes"/><fw type="pageNum">- 27 -</fw> zwingen könne.
+                    zur Wahl des Verfassungsgerichtshofes<pb facs="#facs_28" n="28" xml:id="img_0028" break="yes"/><fw type="pageNum">- 27 -</fw> zwingen könne.
                     Der Unterausschuß entschließt sich <add>für die</add> von der Staatskanzlei
                     vorgelegte Fassung.</p>
                 <quote>
@@ -1181,8 +1097,7 @@
                             157 vorgesehene Bundesgesetz.</emph>"</p>
                 </quote>
                 <p>Zum Entwurf des § 36, bei dem der <emph>Vorsitzende</emph> die technischen
-                    Schwierigkeiten hervorhebt, bemerkt Sektionsrat Dr. <emph>Mann</emph><pb
-                        facs="#facs_29" n="29" xml:id="img_0029" break="no"/><fw type="pageNum">- 28
+                    Schwierigkeiten hervorhebt, bemerkt Sektionsrat Dr. <emph>Mann</emph><pb facs="#facs_29" n="29" xml:id="img_0029" break="no"/><fw type="pageNum">- 28
                         -</fw><emph>licher</emph>, daß man die Möglichkeit gehabt hätte, eine Art
                     Liquidierung durchzuführen, was sich aber wohl kaum bewähren dürfte. Die
                     Schwierigkeit liegt darin, daß die künftige Bundesregierung Kompetenzen

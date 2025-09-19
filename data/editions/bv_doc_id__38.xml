@@ -30,13 +30,11 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372"
-                        >Peter Andorfer </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X"
-                        >Carl Friedrich Haak </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -63,7 +61,11 @@
                 <idno type="bv_data_set">Datenset B</idno>
                 <idno type="goobi">14587</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset B</title>
+<biblScope unit="part">0900</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
@@ -111,54 +113,34 @@
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
         <surface ulx="0" uly="0" lrx="3275" lry="5235" xml:id="facs_2">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0002/full/full/0/default.jpg"
-                width="3275px" height="5235px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0002/full/full/0/default.jpg" width="3275px" height="5235px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3263" lry="5254" xml:id="facs_3">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0003/full/full/0/default.jpg"
-                width="3263px" height="5254px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0003/full/full/0/default.jpg" width="3263px" height="5254px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3268" lry="5241" xml:id="facs_4">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0004/full/full/0/default.jpg"
-                width="3268px" height="5241px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0004/full/full/0/default.jpg" width="3268px" height="5241px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3256" lry="5231" xml:id="facs_5">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0005/full/full/0/default.jpg"
-                width="3256px" height="5231px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0005/full/full/0/default.jpg" width="3256px" height="5231px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3267" lry="5224" xml:id="facs_6">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0006/full/full/0/default.jpg"
-                width="3267px" height="5224px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0006/full/full/0/default.jpg" width="3267px" height="5224px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3270" lry="5207" xml:id="facs_7">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0007/full/full/0/default.jpg"
-                width="3270px" height="5207px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0007/full/full/0/default.jpg" width="3270px" height="5207px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3266" lry="5242" xml:id="facs_8">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0008/full/full/0/default.jpg"
-                width="3266px" height="5242px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0008/full/full/0/default.jpg" width="3266px" height="5242px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3264" lry="5252" xml:id="facs_9">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0009/full/full/0/default.jpg"
-                width="3264px" height="5252px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0009/full/full/0/default.jpg" width="3264px" height="5252px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3267" lry="5240" xml:id="facs_10">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0010/full/full/0/default.jpg"
-                width="3267px" height="5240px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0010/full/full/0/default.jpg" width="3267px" height="5240px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3260" lry="5219" xml:id="facs_11">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0011/full/full/0/default.jpg"
-                width="3260px" height="5219px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0011/full/full/0/default.jpg" width="3260px" height="5219px"/>
         </surface>
     </facsimile>
     <text type="Sitzungsprotokoll">
@@ -221,8 +203,7 @@
                     Sozialversicherungswesens aussprechen müsse. Staatssekretar <emph>Dr.
                         Mayr</emph> verweist darauf, daß die vorliegende Fassung des Pkt. 9 in Linz
                     die Zustimmung des überwiegenden Teiles der Ländervertreter gefunden habe und
-                    daß in ihr ein Kompromiß zwischen den<pb facs="#facs_4" n="4" xml:id="img_0004"
-                        break="yes"/>
+                    daß in ihr ein Kompromiß zwischen den<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
                     <fw type="pageNum">- 3 -</fw> beiden entgegengesetzten Parteistandpunkten
                     gefunden werden solle, indem sie das gesamte Sozialversicherungswesen dem Bunde
                     vorbehalte, das Arbeiterrecht und den Arbeiterschutz jedoch, soweit es sich um
@@ -251,8 +232,7 @@
                 <p>Im Art. 11: "<emph>nach Punkt 8:</emph> „das Privatschulwesen und der
                     Privatunterricht: der Denkmal-, Heimat- und Naturschutz.“</p>
                 <p>Im Art. 12: „Die Regelung der Grundsätze obliegt der Bundesgesetzgebung
-                    .......... für die Errichtung und Erhal<pb facs="#facs_5" n="5"
-                        xml:id="img_0005" break="no"/>
+                    .......... für die Errichtung und Erhal<pb facs="#facs_5" n="5" xml:id="img_0005" break="no"/>
                     <fw type="pageNum">- 4 -</fw>tung der Pflichtschulen; das Volksbildungswesen;
                     das Stiftungswesen.“</p>
                 <p><emph>Fink</emph> ersucht um Vervielfältigung dieser Anträge und beantragt
@@ -281,8 +261,7 @@
                     Einschaltung der Nahrungsmittelkontrolle in den Art. 10 grundsätzlich
                     beschlossen wurde und nur die örtliche Stellung dieses Punktes fraglich
                     geblieben ist. Es wird beschlossen, die Angelegenheit „Nahrungsmittelkontrolle“
-                    in den das Heilmittelwesen behandelnden Punkt einzu<pb facs="#facs_6" n="6"
-                        xml:id="img_0006" break="no"/>
+                    in den das Heilmittelwesen behandelnden Punkt einzu<pb facs="#facs_6" n="6" xml:id="img_0006" break="no"/>
                     <fw type="pageNum">- 5 -</fw>reihen.</p>
                 <p>Der <emph>Berichterstatter erö</emph>ffnet die Debatte über den Punkt 13 und
                     ersucht die Regierungsvertreter um Bekanntgabe der von ihnen ausgearbeiteten
@@ -311,8 +290,7 @@
                     christlichsoziale Partei auf einer dem Länderstandpunkte Rechnung tragenden
                     Formulierung beharre. <emph>Dr. Danneberg</emph> lehnt eine deratige
                     Formulierung ab, bemerkt jedoch, daß gegen den Ausdruck „selbständige Länder“ im
-                    Art. 2 von sozialdemokratischer Seite keine wesentli<pb facs="#facs_7" n="7"
-                        xml:id="img_0007" break="no"/>
+                    Art. 2 von sozialdemokratischer Seite keine wesentli<pb facs="#facs_7" n="7" xml:id="img_0007" break="no"/>
                     <fw type="pageNum">- 6 -</fw>chen Schwierigkeiten erhoben würden, wenn der
                     Eingang des Art. 11 wie der des Art. 10 in indifferenter Weise formuliert würde.
                     Es wird sodann die Fassung: „Bundessache ist die Gesetzgebung, Landessache die
@@ -370,8 +348,7 @@
                     Dieser Antrag und Eventualantrag werden abgelehnt. Von sozialdemokratischer
                     Seite wird ein Minoritätsvotum angemeldet.</p>
                 <p>Zu Absatz 3 beantragt Staatssekretär <emph>Dr. Mayr</emph> die Aufnahme dieser
-                    Bestimmung in einen selbständigen auf Art. 11 folgenden<pb facs="#facs_9" n="9"
-                        xml:id="img_0009" break="yes"/>
+                    Bestimmung in einen selbständigen auf Art. 11 folgenden<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
                     <fw type="pageNum">- 8 -</fw> Artikel. Der Antrag wird mit der von <emph>Dr.
                         Danneberg</emph> beantragten Modifikation angenommen, wonach die Bestimmung
                     über die Rezeption des Völkerrechtes als neuer Artikel dem gegenwärtigen Art. 12
@@ -403,8 +380,7 @@
                     wird der Antrag auf Streichung des Punktes als Minoritätsvotum angemeldet.</p>
                 <p>Punkt 3 des Art. 12 wird unter Streichung des Schlußpassus: „Die Ausgrabung und
                     Ueberführung von Leichen“ was durch Punkt 11 des Art. 11 des Linzer Entwurfes
-                    geregelt ist — zum Beschluß er<pb facs="#facs_10" n="10" xml:id="img_0010"
-                        break="no"/>
+                    geregelt ist — zum Beschluß er<pb facs="#facs_10" n="10" xml:id="img_0010" break="no"/>
                     <fw type="pageNum">- 9 -</fw>hoben.</p>
                 <p>Die Punkte 4 und 5 des Art. 12 des Linzer Entwurfes werden unverändert zum
                     Beschluß erhoben. <emph>Professor Kelsen</emph> gibt in diesem Zusammenhang auf
@@ -434,8 +410,7 @@
                     Landessache sei. Der Antrag <emph>Dris Clessin</emph> wird angenommen.
                     (Christlichsoziales Minoritätsvotum).</p>
                 <p>Der Pkt. 9 wird in folgender Fassung angenommen: „Dienstrecht der Organe der
-                    Länder, die behördliche Auf<pb facs="#facs_11" n="11" xml:id="img_0011"
-                        break="no"/>
+                    Länder, die behördliche Auf<pb facs="#facs_11" n="11" xml:id="img_0011" break="no"/>
                     <fw type="pageNum">- 10 -</fw>gaben zu besorgen haben“. Der Vorsitzende macht in
                     diesem Zusammenhange auf den Vorbehalt einer besonderen Regelung des
                     Dienstrechtes aufmerksam.</p>

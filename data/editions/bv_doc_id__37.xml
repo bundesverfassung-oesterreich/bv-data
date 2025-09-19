@@ -30,13 +30,11 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372"
-                        >Peter Andorfer </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X"
-                        >Carl Friedrich Haak </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -63,7 +61,11 @@
                 <idno type="bv_data_set">Datenset B</idno>
                 <idno type="goobi">14586</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset B</title>
+<biblScope unit="part">0600</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
@@ -112,99 +114,61 @@
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
         <surface ulx="0" uly="0" lrx="3232" lry="5155" xml:id="facs_2">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0046/full/full/0/default.jpg"
-                width="3232px" height="5155px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0046/full/full/0/default.jpg" width="3232px" height="5155px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3264" lry="5169" xml:id="facs_3">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0047/full/full/0/default.jpg"
-                width="3264px" height="5169px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0047/full/full/0/default.jpg" width="3264px" height="5169px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3264" lry="5183" xml:id="facs_4">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0048/full/full/0/default.jpg"
-                width="3264px" height="5183px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0048/full/full/0/default.jpg" width="3264px" height="5183px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3242" lry="5182" xml:id="facs_5">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0049/full/full/0/default.jpg"
-                width="3242px" height="5182px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0049/full/full/0/default.jpg" width="3242px" height="5182px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3237" lry="5177" xml:id="facs_6">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0050/full/full/0/default.jpg"
-                width="3237px" height="5177px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0050/full/full/0/default.jpg" width="3237px" height="5177px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3239" lry="5176" xml:id="facs_7">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0051/full/full/0/default.jpg"
-                width="3239px" height="5176px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0051/full/full/0/default.jpg" width="3239px" height="5176px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3238" lry="5172" xml:id="facs_8">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0052/full/full/0/default.jpg"
-                width="3238px" height="5172px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0052/full/full/0/default.jpg" width="3238px" height="5172px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3251" lry="5182" xml:id="facs_9">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0053/full/full/0/default.jpg"
-                width="3251px" height="5182px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0053/full/full/0/default.jpg" width="3251px" height="5182px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3243" lry="5168" xml:id="facs_10">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0054/full/full/0/default.jpg"
-                width="3243px" height="5168px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0054/full/full/0/default.jpg" width="3243px" height="5168px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3231" lry="5167" xml:id="facs_11">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0055/full/full/0/default.jpg"
-                width="3231px" height="5167px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0055/full/full/0/default.jpg" width="3231px" height="5167px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3242" lry="5191" xml:id="facs_12">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0056/full/full/0/default.jpg"
-                width="3242px" height="5191px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0056/full/full/0/default.jpg" width="3242px" height="5191px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3235" lry="5173" xml:id="facs_13">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0057/full/full/0/default.jpg"
-                width="3235px" height="5173px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0057/full/full/0/default.jpg" width="3235px" height="5173px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3234" lry="5171" xml:id="facs_14">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0058/full/full/0/default.jpg"
-                width="3234px" height="5171px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0058/full/full/0/default.jpg" width="3234px" height="5171px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3230" lry="5171" xml:id="facs_15">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0059/full/full/0/default.jpg"
-                width="3230px" height="5171px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0059/full/full/0/default.jpg" width="3230px" height="5171px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3242" lry="5150" xml:id="facs_16">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0060/full/full/0/default.jpg"
-                width="3242px" height="5150px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0060/full/full/0/default.jpg" width="3242px" height="5150px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3241" lry="5176" xml:id="facs_17">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0061/full/full/0/default.jpg"
-                width="3241px" height="5176px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0061/full/full/0/default.jpg" width="3241px" height="5176px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3243" lry="5166" xml:id="facs_18">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0062/full/full/0/default.jpg"
-                width="3243px" height="5166px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0062/full/full/0/default.jpg" width="3243px" height="5166px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3238" lry="5167" xml:id="facs_19">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0063/full/full/0/default.jpg"
-                width="3238px" height="5167px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0063/full/full/0/default.jpg" width="3238px" height="5167px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3248" lry="5201" xml:id="facs_20">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0064/full/full/0/default.jpg"
-                width="3248px" height="5201px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0064/full/full/0/default.jpg" width="3248px" height="5201px"/>
         </surface>
     </facsimile>
     <text type="Sitzungsprotokoll">
@@ -258,8 +222,7 @@
                         <emph>Vorsitzende</emph> in Art. 10 an erster Stelle folgendes
                     einzuschalten:</p>
                 <quote>
-                    <p>„1. <emph>Bundesverfassung, insbeson</emph><pb facs="#facs_4" n="4"
-                            xml:id="img_0004" break="no"/><fw type="pageNum">- 3 -</fw><emph>dere
+                    <p>„1. <emph>Bundesverfassung, insbeson</emph><pb facs="#facs_4" n="4" xml:id="img_0004" break="no"/><fw type="pageNum">- 3 -</fw><emph>dere
                             Wahlen zum Bundestag, Volksabstimmungen im ganzen Bundesgebiete,
                             Verfassungsgerichtsbarkeit.</emph>“</p>
                 </quote>
@@ -277,8 +240,7 @@
                     gleichfalls vor, die Gewerbeangelegenheiten aus Art. 11 hieher zu setzen, da
                     sich die Interessen sämtlicher Länder für einheitliche Gesetzgebung und
                     Verwaltung auf dem Gebiete des Gewerbes und der Industrie ausgesprochen hätten.
-                    Um diesem Wunsche gerecht zu werden, müsse aber eine Zentralstelle<pb
-                        facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><fw type="pageNum">- 4
+                    Um diesem Wunsche gerecht zu werden, müsse aber eine Zentralstelle<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><fw type="pageNum">- 4
                         -</fw> in oberster Instanz entscheiden. Nach längerer Beratung über die
                     Formulierung, an der sich <emph>Dr. Danneberg</emph> und <emph>M.
                         Eldersch</emph> mit dem Wunsche nach Einbeziehung des Munitions-, Schieß-
@@ -302,8 +264,7 @@
                     zurück. Auf eine Anfrage <emph>J. Fin<choice>
                             <sic>c</sic>
                             <corr/>
-                        </choice>ks</emph>, wer<pb facs="#facs_6" n="6" xml:id="img_0006"
-                        break="yes"/><fw type="pageNum">- 5 -</fw> die Gewerbeinspektoren zu
+                        </choice>ks</emph>, wer<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><fw type="pageNum">- 5 -</fw> die Gewerbeinspektoren zu
                     ernennen haben werde, betont der <emph>Vorsitzende</emph>, daß diese
                     Angelegenheit des Arbeiterrechtes unbedingt Bundessache bleiben müsse. Eine
                     Verfassung, die diese Kompetenz den Ländern überläßt, wird nie die Zustimmung
@@ -321,8 +282,7 @@
                     Altersfürsorge, jedoch mit Ausschluß des Leichenbestattungswesens, des
                     Gemeindesanitätswesens, des Hilfs- und Rettungswesens; Wohnungswesen."</p>
                 <p>Der Berichterstatter weist nach, daß diese Belange im Art. 12 zum Teil enthalten
-                    sind; die Bundeskompetenz in Ernährungsangelegenheiten durch Art. 10,<pb
-                        facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum">- 6
+                    sind; die Bundeskompetenz in Ernährungsangelegenheiten durch Art. 10,<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum">- 6
                         -</fw> Pkt. 11 gesichert (die aus Anlaß eines Krieges, insbesondere im
                     Gefolge eines solchen zur Sicherung der einheitlichen Führung der Wirtschaft
                     notwendig erscheinenden Maßnahmen, insbesondere auch hinsichtlich der Versorgung
@@ -339,8 +299,7 @@
                     Fälschungen durch die Nahrungsmittelkontrolle unter das Gesundheitswesen, vgl.
                     Art. 11, Pkt. 11, dessen Fassung auf einen Vorschlag der zuständigen Fachleute
                     zurückgeht. Zur Forderung <emph>M. Eldersch</emph>, eigens das Ernährungswesen
-                    zu erwähnen, da im<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw
-                        type="pageNum">- 7 -</fw> Entwurf nur von der Versorgung der Bevölkerung mit
+                    zu erwähnen, da im<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">- 7 -</fw> Entwurf nur von der Versorgung der Bevölkerung mit
                     Bedarfsgegenständen die Rede sei, bemerkt Min.Vizesekretär <emph>Dr.
                         Frieberger</emph>, daß nach der das gesamte Ernährungswesen grundlegenden
                     kais. Verordnung (die letzterlassene, noch geltende vom 24. März 1917, R.G.Bl.
@@ -358,8 +317,7 @@
                     jedoch mit Ausnahme der Heil- und Pflegeanstalten und Ambulatorien, des
                     Kurorte-, Leichen- und Begräbniswesens sowie des Gemeindesanitätsdienstes und
                     Rettungswesen.“</p>
-                <p>Auch das „Volkswohnung- und Volkspflegestättenwesen“ wünscht Dr.<pb
-                        facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
+                <p>Auch das „Volkswohnung- und Volkspflegestättenwesen“ wünscht Dr.<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
                     <fw type="pageNum">- 8 -</fw>
                     <emph>Danneberg</emph> im Gegensatz zu <emph>Dr. Mayr</emph>, der die
                     Kompetenzzuweisung des Art. 11 für genügend erachtet, in Art. 10 aufzunehmen.
@@ -378,8 +336,7 @@
                         Seipel</emph> Zentralisierungstendenzen, die umso weiter gehen, als die
                     Wohnungsfrage aufs innigste mit lokalen Verhältnissen zusammenhängt, weshalb die
                     Vollziehung der einschlägigen Bundesgesetze den Ländern gewahrt bleiben muß.
-                    Staatssekretär Dr. Mayr richtet, unterstützt vom Vorred<pb facs="#facs_10"
-                        n="10" xml:id="img_0010" break="no"/>
+                    Staatssekretär Dr. Mayr richtet, unterstützt vom Vorred<pb facs="#facs_10" n="10" xml:id="img_0010" break="no"/>
                     <fw type="pageNum">- 9 -</fw>ner, bei diesem Anlaß an das Subkomitée die
                     Mahnung, in diesem grundlegenden Gesetze keine Details regeln zu wollen, um die
                     Gefahr einer baldigen Aufhebung der Verfassung möglichst zu vermeiden. Das
@@ -416,8 +373,7 @@
                     geregelte Materien den Ländern überlassen werden, wie z. B. das Recht der
                     Güterbeamten. In Angelegenheiten des Arbeiterschutzes läßt sich vielleicht ein
                     Kompromiß erhoffen, so daß eventl. die Angelegenheit von Art. 12 in Art. 11
-                    verlegt werden könnte. Die<pb facs="#facs_12" n="12" xml:id="img_0012"
-                        break="yes"/>
+                    verlegt werden könnte. Die<pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>
                     <fw type="pageNum">- 11 -</fw> land- und forstwirtschaftlichen Arbeiter legen
                     auf diese Regelung besonderen Wert. Auch der Zusammenhang mit der Alters- und
                     Invaliditätsversicherung macht die Einheitlichkeit unentbehrlich. Die Länder
@@ -460,8 +416,7 @@
                     Bundeskompetenz für notwendig, da im Staate das Gegeneinanderwirken
                     verschiedener Kräfte eine rein parteimäßige Handhabung der einschlägigen Gesetze
                     auf die Dauer unmöglich mache, anders im Falle der Verländerung, wo im engeren
-                    Rahmen der parteimäßige Einfluß<pb facs="#facs_14" n="14" xml:id="img_0014"
-                        break="yes"/>
+                    Rahmen der parteimäßige Einfluß<pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>
                     <fw type="pageNum">- 13 -</fw> überwiege. Auch bei einheitlicher Gesetzgebung
                     sei Vollziehung durch die Länder eine Gefahr, da z. B. das objektive Verfahren
                     noch nicht aufgehoben sei, aber derzeit nicht gehandhabt werde; es könne daher
@@ -502,8 +457,7 @@
                     eines solchen zur Sicherung<del>s</del> der einheitlichen Führung der Wirtschaft
                     notwendig erscheinenden Maßnahmen, insbesondere auch hinsichtlich der Versorgung
                     der Bevölkerung mit Bedarfsgegenständen;</p>
-                <p>Zu Pkt. 13 bemerkt Sekt.-Rat <emph>Dr. Mann</emph><pb facs="#facs_16" n="16"
-                        xml:id="img_0016" break="no"/><fw type="pageNum">- 15
+                <p>Zu Pkt. 13 bemerkt Sekt.-Rat <emph>Dr. Mann</emph><pb facs="#facs_16" n="16" xml:id="img_0016" break="no"/><fw type="pageNum">- 15
                         -</fw><emph>licher</emph>, daß für die Formulierung dieses Punktes die
                     Anschauung maßgebend gewesen sei, im Dienstrechte sei auch das Disziplinarrecht
                     inbegriffen. Da aber die Stilisierung des Entwurfes sehr schwerfällig klinge,
@@ -551,8 +505,7 @@
                     Derzeit ist die Sicherheitspolizei in Wien Sache des Staates und es bedarf eines
                     Gesetzes, um diesen Zustand zu ändern. Vor einer Behandlung Wiens aber, die
                     ungünstiger wäre, als die der Länder, müsse gewarnt werden. Was die Formulierung
-                    des Entwurfes anlangt, sei die Fassung „innere Einrichtung, Ausrüstung<pb
-                        facs="#facs_19" n="19" xml:id="img_0019" break="yes"/>
+                    des Entwurfes anlangt, sei die Fassung „innere Einrichtung, Ausrüstung<pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/>
                     <fw type="pageNum">- 18 -</fw> und Ausbildung der Gendarmerie einschließlich der
                     Dienstvorschriften“ nicht glücklich. Das Ernennungsrecht, das dem Staatssekretär
                     verbleiben müsse, falle unter keinen dieser Ausdrücke. Auch das Verfügungsrecht
@@ -570,8 +523,7 @@
                     bleibt, während die Gendarmerie in den Ländern nach Gutdünken des
                     Staatssekretärs disloziert wird.</p>
                 <p>Der <emph>Vorsitzende</emph> betont, daß sich die Bedenken nur gegen das Recht
-                    zum Hinschicken der Gendarmerie wenden. Das<pb facs="#facs_20" n="20"
-                        xml:id="img_0020" break="yes"/>
+                    zum Hinschicken der Gendarmerie wenden. Das<pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/>
                     <fw type="pageNum">- 19 -</fw> Recht sie abzuziehen kann dem Staatssekretär
                     nicht genommen werden. Uebrigens kann mit Zustimmung des Bürgermeisters auch in
                     Wien Gendarmerie verwendet werden. Ueber Anregung des <emph>Vorsitzenden</emph>

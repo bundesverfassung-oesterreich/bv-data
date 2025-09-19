@@ -30,13 +30,11 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372"
-                        >Peter Andorfer </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X"
-                        >Carl Friedrich Haak </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -63,7 +61,11 @@
                 <idno type="bv_data_set">Datenset B</idno>
                 <idno type="goobi">14588</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset B</title>
+<biblScope unit="part">1000</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
@@ -113,49 +115,31 @@
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
         <surface ulx="0" uly="0" lrx="3270" lry="5253" xml:id="facs_2">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0003/full/full/0/default.jpg"
-                width="3270px" height="5253px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0003/full/full/0/default.jpg" width="3270px" height="5253px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3268" lry="5239" xml:id="facs_3">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0004/full/full/0/default.jpg"
-                width="3268px" height="5239px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0004/full/full/0/default.jpg" width="3268px" height="5239px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3270" lry="5263" xml:id="facs_4">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0005/full/full/0/default.jpg"
-                width="3270px" height="5263px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0005/full/full/0/default.jpg" width="3270px" height="5263px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3257" lry="5232" xml:id="facs_5">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0006/full/full/0/default.jpg"
-                width="3257px" height="5232px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0006/full/full/0/default.jpg" width="3257px" height="5232px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3264" lry="5221" xml:id="facs_6">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0007/full/full/0/default.jpg"
-                width="3264px" height="5221px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0007/full/full/0/default.jpg" width="3264px" height="5221px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3261" lry="5218" xml:id="facs_7">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0008/full/full/0/default.jpg"
-                width="3261px" height="5218px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0008/full/full/0/default.jpg" width="3261px" height="5218px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3282" lry="5245" xml:id="facs_8">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0009/full/full/0/default.jpg"
-                width="3282px" height="5245px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0009/full/full/0/default.jpg" width="3282px" height="5245px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3273" lry="5218" xml:id="facs_9">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0010/full/full/0/default.jpg"
-                width="3273px" height="5218px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0010/full/full/0/default.jpg" width="3273px" height="5218px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3260" lry="5261" xml:id="facs_10">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0011/full/full/0/default.jpg"
-                width="3260px" height="5261px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0011/full/full/0/default.jpg" width="3260px" height="5261px"/>
         </surface>
     </facsimile>
     <text type="Sitzungsprotokoll">
@@ -220,8 +204,7 @@
                     landwirtschaftliche Sozialversicherungswesen müsste naturgemäß dem St.A. für
                     Land- und Forstwirtschaft unterstehen. Auch sei nicht ausgeschlossen, dass sich
                     die getrennten Organisationen der beiden Versicherungszweige in einem
-                    übergeordneten Zweckverbande vereinigen, wodurch die versicherungstechni<pb
-                        facs="#facs_4" n="4" xml:id="img_0004" break="no"/>
+                    übergeordneten Zweckverbande vereinigen, wodurch die versicherungstechni<pb facs="#facs_4" n="4" xml:id="img_0004" break="no"/>
                     <fw type="pageNum">- 3 -</fw>schen Mängel der Doppelorganisation des
                     Versicherungswesens paralysiert werden könnten. Der <emph>Vorsitzende</emph>
                     bemerkt, dass gemäß dem jetzt zum Durchbruch gelangten Grundsatze, dass die
@@ -246,8 +229,7 @@
                     forstwirtschaftlichen Fachschulen aus der Bundeskompetenz ausgenommen werden;
                     anderenfalls sei er bereit, den Vorschlag B anzunehmen. Staatssekretär <emph>Dr.
                         Mayr</emph> gibt zu bedenken, dass die vorgeschlagene Regelung des
-                    Schulwesens eine Zentralisierung bedeute, die<pb facs="#facs_5" n="5"
-                        xml:id="img_0005" break="yes"/>
+                    Schulwesens eine Zentralisierung bedeute, die<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
                     <fw type="pageNum">- 4 -</fw> weit über den gegenwärtigen Rechtszustand
                     hinausgehe und aus diesem Grunde für die Länder unannehmbar sei. <emph>Dr.
                         Eisler</emph> verweist auf das lebhafte Interesse, das in Landstrichen mit

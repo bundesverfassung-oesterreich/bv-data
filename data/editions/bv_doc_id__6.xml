@@ -63,7 +63,11 @@
                         <idno type="bv_data_set">Datenset A</idno>
                         <idno type="goobi">14507</idno>
                   </publicationStmt>
-                  <sourceDesc>
+                  <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">0700</biblScope>
+</seriesStmt>
+<sourceDesc>
                         <msDesc type="invetory">
                               <msIdentifier>
                                     <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
@@ -325,8 +329,7 @@
                                     <p type="legal_section">Eine Aenderung des Bundesgebietes die
                                           zugleich Aenderung eines Landesgebietes ist, ebenso eine
                                           Aenderung der Landesgrenze innerhalb des Bundesgebietes,
-                                          kann nur durch übereinstimmende<pb facs="#facs_3" n="3"
-                                                xml:id="img_0003" break="yes"/><fw type="pageNum">-
+                                          kann nur durch übereinstimmende<pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw type="pageNum">-
                                                 2 -</fw>Verfassungsgesetze des Bundes und desjenigen La<choice>
                                                 <sic>b</sic>
                                                 <corr>n</corr>
@@ -378,9 +381,7 @@
                                                 <label>6)</label>
                                                 <item> Mass- und Gewichtswesen, Punzierungswesen, </item>
                                                 <label>7)</label>
-                                                <item> Zivil- und Strafjustiz,<pb facs="#facs_4"
-                                                  n="4" xml:id="img_0004" break="yes"/><fw
-                                                  type="pageNum">- 3 -</fw>
+                                                <item> Zivil- und Strafjustiz,<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><fw type="pageNum">- 3 -</fw>
                                                 </item>
                                                 <label>8)</label>
                                                 <item> Kultus- und Hochschulwesen, </item>
@@ -566,9 +567,7 @@
                                           <p type="legal_section">Auf Antrag der Bundesregierung
                                                 kann der Bundespräsident den Bundestag, jedoch nur
                                                 einmal aus demselben Anlasse, auflösen. </p>
-                                          <p type="legal_section">In diesem Falle hat der Bundes<pb
-                                                  facs="#facs_8" n="8" xml:id="img_0008" break="no"
-                                                  /><fw type="pageNum">- 7 -</fw>präsident binnen .
+                                          <p type="legal_section">In diesem Falle hat der Bundes<pb facs="#facs_8" n="8" xml:id="img_0008" break="no"/><fw type="pageNum">- 7 -</fw>präsident binnen .
                                                 . . . Wochen nach erfolgter Auflösung Neuwahlen
                                                 auszuschreiben und den neugewählten Bundestag binnen
                                                 . . . Wochen nach durchgeführter Wahl
@@ -685,8 +684,7 @@
                                                 der Bundesregierung Gesetzesanträge im Bundestage
                                                 stellen. Stimmt die Bundesregierung einem solchen
                                                 Antrage nicht zu, so hat sie ihren abweichenden
-                                                  Stand<pb facs="#facs_11" n="11" xml:id="img_0011"
-                                                  break="no"/><fw type="pageNum">- 10 -</fw>punkt
+                                                  Stand<pb facs="#facs_11" n="11" xml:id="img_0011" break="no"/><fw type="pageNum">- 10 -</fw>punkt
                                                 bei Einbringung der Vorlage darzulegen. </p>
                                     </div>
                                     <div type="article">
@@ -816,8 +814,7 @@
                                           <p type="legal_section">Die Kundmachung der
                                                 Gesetzesbeschlüsse sowie der im Art. 14 Abs. 2 Art.
                                                 15 erwähnten Beschlüsse des Bundestages erfolgt mit
-                                                Berufung auf den Be<pb facs="#facs_14" n="14"
-                                                  xml:id="img_0014" break="no"/><fw type="pageNum">-
+                                                Berufung auf den Be<pb facs="#facs_14" n="14" xml:id="img_0014" break="no"/><fw type="pageNum">-
                                                   13 -</fw>schluss des Bundestages oder das Ergebnis
                                                 der Volksabstimmung. </p>
                                           <p type="legal_section">Diese Beschlüsse erlangen ebenso
@@ -1295,8 +1292,7 @@
                                                 Ruhestand wider Willen nur durch gerichtlichen
                                                 Beschluss in den durch das Gesetz bestimmten Fällen
                                                 und Formen stattfinden. Diese Bestimmungen finden
-                                                  je<pb facs="#facs_24" n="24" xml:id="img_0024"
-                                                  break="no"/><fw type="pageNum">- 23 -</fw>doch bei
+                                                  je<pb facs="#facs_24" n="24" xml:id="img_0024" break="no"/><fw type="pageNum">- 23 -</fw>doch bei
                                                 Uebersetzung und Versetzungen in den Ruhestand keine
                                                 Anwendung, die durch Veränderungen in der Verfassung
                                                 der Gerichte nötig werden. In einem solchen Falle
@@ -1615,8 +1611,7 @@
                                           </choice></head>
                                     <p type="legal_section">Aus besonderen Gründen kann auf
                                           Beschluss der Bundesregierung zur Wahrnehmung der
-                                          Angelegenheiten des der Landesre<pb facs="#facs_31" n="31"
-                                                xml:id="img_0031" break="no"/><fw type="pageNum">-
+                                          Angelegenheiten des der Landesre<pb facs="#facs_31" n="31" xml:id="img_0031" break="no"/><fw type="pageNum">-
                                                 30 -</fw>gierung vom Bunde übertragenen
                                           Wirkungskreises vom Bundespräsidenten ein
                                           ausserordentlicher Bundeskommissär bestellt werden. </p>
@@ -1790,8 +1785,7 @@
                                           </choice></head>
                                     <p type="legal_section">Der Bundesrechnungshof ist gegenüber den
                                           anweisenden Behörden und den diesen unterstehenden
-                                          Stellen, dann gegenüber<pb facs="#facs_35" n="35"
-                                                xml:id="img_0035" break="yes"/><fw type="pageNum">-
+                                          Stellen, dann gegenüber<pb facs="#facs_35" n="35" xml:id="img_0035" break="yes"/><fw type="pageNum">-
                                                 34 -</fw>den im Art. . . . bezeichneten Vermögens-
                                           und Körperschaften berechtigt, zur Ueberprüfung der
                                           Gebarung. <list>
@@ -1886,9 +1880,7 @@
                                                 <corr>104</corr>
                                           </choice></head>
                                     <p type="legal_section">Die näheren Bestimmungen über die innere
-                                          Einrichtung und den Geschäftsgang des Bundes<pb
-                                                facs="#facs_37" n="37" xml:id="img_0037" break="no"
-                                                /><fw type="pageNum">- 36 -</fw>rechnungshofes
+                                          Einrichtung und den Geschäftsgang des Bundes<pb facs="#facs_37" n="37" xml:id="img_0037" break="no"/><fw type="pageNum">- 36 -</fw>rechnungshofes
                                           regelt die Geschäftsordnung. Sie ist vom
                                           Bundesrechnungshofe dem Bundespräsidenten im Wege der
                                           Bundesregierung zur Genehmigung vorzulegen. </p>
@@ -2286,8 +2278,7 @@
                                           Nationalität, Sprache oder Religion einer Minderheit
                                           angehören, haben das Recht, in den auf ihre eigenen Kosten
                                           errichteten Wohltätigkeits- Religions-, Unterrichts-,
-                                                Erziehungs-<pb facs="#facs_45" n="45"
-                                                xml:id="img_0045" break="yes"/><fw type="pageNum">-
+                                                Erziehungs-<pb facs="#facs_45" n="45" xml:id="img_0045" break="yes"/><fw type="pageNum">-
                                                 44 -</fw>und sonstigen Anstalten ihre eigene Sprache
                                           nach Belieben zu gebrauchen und ihre Religion frei
                                           auszuüben. </p>
@@ -2343,9 +2334,7 @@
                                                 <sic/>
                                                 <corr>135</corr>
                                           </choice></head>
-                                    <p type="legal_section">Der Bund kann durch Gesetz gegen Ent<pb
-                                                facs="#facs_46" n="46" xml:id="img_0046" break="no"
-                                                /><fw type="pageNum">- 45 -</fw>schädigung, in
+                                    <p type="legal_section">Der Bund kann durch Gesetz gegen Ent<pb facs="#facs_46" n="46" xml:id="img_0046" break="no"/><fw type="pageNum">- 45 -</fw>schädigung, in
                                           sinngemässer Anwendung der für Enteignung geltenden
                                           Bestimmungen, für die Vergesellschaftung geeignete
                                           private, wirtschaftliche Unternehmungen in Gemeineigentum ü<choice>
@@ -2432,9 +2421,7 @@
                                           <p type="legal_section">Wegen Rechtsverletzung durch die
                                                 Entscheidung oder Verfügung einer Verwaltungsbehörde
                                                 des Bundes oder eines Landes entscheiden nach
-                                                Erschöpfung des administrativen<pb facs="#facs_48"
-                                                  n="48" xml:id="img_0048" break="yes"/><fw
-                                                  type="pageNum">- 47 -</fw>Instanzenzuges : <list>
+                                                Erschöpfung des administrativen<pb facs="#facs_48" n="48" xml:id="img_0048" break="yes"/><fw type="pageNum">- 47 -</fw>Instanzenzuges : <list>
                                                   <label>a</label>
                                                   <item> in Angelegenheiten des selbständigen
                                                   Wirkungskreises der Länder, die

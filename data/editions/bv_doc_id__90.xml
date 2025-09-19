@@ -61,7 +61,11 @@
                 <idno type="bv_data_set">Datenset B</idno>
                 <idno type="goobi">18742</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset B</title>
+<biblScope unit="part">2800</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
@@ -230,8 +234,7 @@
                 <p>Als Artikel 12, b wurde der modifizierte Antrag Danneberg beschlossen.</p>
                 <p>al. 13 beginnt: „Wissenschaftl. fachtechnischer Archiv- und Bibliotheksdienst“
                     u.s.w. Beschlossen.</p>
-                <p>13a beschlossen. 14 <del>statt</del> Kriegsgräberwesen <del>Kriegsgräber<gap
-                            reason="illegible"/></del>gestrichen. Beschlossen.</p>
+                <p>13a beschlossen. 14 <del>statt</del> Kriegsgräberwesen <del>Kriegsgräber<gap reason="illegible"/></del>gestrichen. Beschlossen.</p>
                 <p>15 beschlossen. </p>
                 <p><emph>Art. 11</emph></p>
                 <p>1. christl. soz. Minderheitsantrag abgelehnt. Bleibt für das Haus.</p>
@@ -258,19 +261,14 @@
                     beschlossen. al. 3 gestrichen.</p>
                 <p>§ 4a Die Bestimmungen der § 2 bis 4 gelten <gap reason="illegible"/>sinngemäss
                     auch für die auf Grund der Gesetze ergangene Vollzugkommision/Vertretungen) </p>
-                <p>§ 5 <add><gap reason="illegible"/></add> Abänderungsantrag <gap
-                        reason="illegible"/> und <gap reason="illegible"/><gap reason="illegible"/>
+                <p>§ 5 <add><gap reason="illegible"/></add> Abänderungsantrag <gap reason="illegible"/> und <gap reason="illegible"/><gap reason="illegible"/>
                     Absatz 2 angenommen</p>
-                <p>§ 6 Abänderungungdsantrag der Regierung und statt "somit <gap reason="illegible"
-                    /> die R.G. berufen "nur" - "hiermit ernennt Regierungs<gap reason="illegible"
-                    />betraut ein" angenommen</p>
+                <p>§ 6 Abänderungungdsantrag der Regierung und statt "somit <gap reason="illegible"/> die R.G. berufen "nur" - "hiermit ernennt Regierungs<gap reason="illegible"/>betraut ein" angenommen</p>
                 <p> § 7 <del>3.1. der neuen Fassung der Regierung</del> in der neuen Fassung der
                     Regierung mit Abänderung der <gap reason="illegible"/> angenommen</p>
                 <p>§ 8. Absatz 1,2, der neuen Regierungsvorlage u</p>
                 <p>§ 9. Absatz 1<gap reason="illegible"/>6 angenommen <del/><del>Absatz 2 in der
-                        neuen Fassung beschlossen </del><del><gap reason="illegible"/><gap
-                            reason="illegible"/><gap reason="illegible"/></del><gap
-                        reason="illegible"/>
+                        neuen Fassung beschlossen </del><del><gap reason="illegible"/><gap reason="illegible"/><gap reason="illegible"/></del><gap reason="illegible"/>
                     <gap reason="illegible"/></p>
                 <p>Absatz 2 <del><gap reason="illegible"/></del>
                     <gap reason="illegible"/> Fassung der Regierung mit Abänderungungsantrag Seipel
@@ -283,32 +281,24 @@
                 <p> § 12</p>
                 <p>1. angenommen</p>
                 <p>2. bestehende <gap reason="illegible"/>
-                    <gap reason="illegible"/><gap reason="illegible"/><gap reason="illegible"/><gap
-                        reason="illegible"/></p>
-                <p>3. <gap reason="illegible"/><gap reason="illegible"/><gap reason="illegible"/><pb
-                        facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>§ 12 <gap
-                        reason="illegible"/> Fink 31. VIII 21 angemeldet.</p>
+                    <gap reason="illegible"/><gap reason="illegible"/><gap reason="illegible"/><gap reason="illegible"/></p>
+                <p>3. <gap reason="illegible"/><gap reason="illegible"/><gap reason="illegible"/><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>§ 12 <gap reason="illegible"/> Fink 31. VIII 21 angemeldet.</p>
                 <p>§ 13.</p>
                 <p>1 angenommen</p>
                 <p>2. mit <del><gap reason="illegible"/></del> in der <gap reason="illegible"/>
                     Fassung der Regierung angenommen</p>
                 <p>§ 14, <add>15</add> angenommen </p>
-                <p>§ 16 ins besonders in l<gap reason="illegible"/> Verfuegung des <gap
-                        reason="illegible"/> mit <gap reason="illegible"/>gegenständen</p>
+                <p>§ 16 ins besonders in l<gap reason="illegible"/> Verfuegung des <gap reason="illegible"/> mit <gap reason="illegible"/>gegenständen</p>
                 <p>§ 16a angenommen, in Absatz <gap reason="illegible"/> statt "sofort"
                     "gleichzeitig mit den Bestimmungen der Artikel 111 und 12"</p>
-                <p> § 17 mit Gesetzantrag d<gap reason="illegible"/> Staatsamts<gap
-                        reason="illegible"/> für Justiz angenommen<choice>
+                <p> § 17 mit Gesetzantrag d<gap reason="illegible"/> Staatsamts<gap reason="illegible"/> für Justiz angenommen<choice>
                         <sic/>
                         <corr>,</corr>
                     </choice> "womit" bis "wird" gestrichen</p>
-                <p> § 18, <add>1, 2</add> mit Streichung der Worte in Z. 2 "der Nationalrat<gap
-                        reason="illegible"/> tritt …. zwischen Sitzungzusammen" angenommen</p>
+                <p> § 18, <add>1, 2</add> mit Streichung der Worte in Z. 2 "der Nationalrat<gap reason="illegible"/> tritt …. zwischen Sitzungzusammen" angenommen</p>
                 <p>§ 18, 3, 4 angenommen</p>
-                <p> § 19, 1 angenommen <add><gap reason="illegible"/> statt <gap reason="illegible"
-                        /></add>, 2 mit Abänderung der Staatskanzlei angenommen; 3 bleibt für
-                    Eilantrag offen, festgesetzt wird der "21. Zug nach dem <add><del><gap
-                                reason="illegible"/></del></add> Zusammentritt des
+                <p> § 19, 1 angenommen <add><gap reason="illegible"/> statt <gap reason="illegible"/></add>, 2 mit Abänderung der Staatskanzlei angenommen; 3 bleibt für
+                    Eilantrag offen, festgesetzt wird der "21. Zug nach dem <add><del><gap reason="illegible"/></del></add> Zusammentritt des
                     Nationalrates.</p>
                 <p>§ 20, 21, angenommen</p>
                 <p>§ 22. abgeändert "am 28 Tage nach dem Zusammentritt des Nationalrates" in Zahl
@@ -398,8 +388,7 @@
                         <del>als</del>
                         <add>die</add>
                     </choice> erste Bundesregierung <del>die nach dem Bundes-Verfassungsgesetz der
-                        Bundesregierung obliegenden Geschäfte</del>. <pb facs="#facs_10" n="10"
-                        xml:id="img_0010" break="yes"/>Beilage 6 </p>
+                        Bundesregierung obliegenden Geschäfte</del>. <pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>Beilage 6 </p>
                 <p>§ 13.</p>
                 <p>(2) <choice>
                         <del>Staatsbürger, die in keiner</del>
@@ -507,8 +496,7 @@
                         Nahrungsmittelkontrolle. </del></p>
                 <p>Art. 12. Punkt 7: <del>Volks<gap reason="illegible"/> und
                         Volkspflegestättenwesen. </del><add>Volkspflegestätten</add> Mutterschafts-
-                    Säuglings- und Jugendfürsorge. Heil- und Pflegeanstalten. <gap
-                        reason="illegible"/>, Kurortwesen, <add>Heilquellen,</add> Leichen- und
+                    Säuglings- und Jugendfürsorge. Heil- und Pflegeanstalten. <gap reason="illegible"/>, Kurortwesen, <add>Heilquellen,</add> Leichen- und
                     Bestattungswesen. <add>Heilquellen. </add></p>
                 <p>Art. 11: Volkswohnungswesen </p>
                 <p><pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>Artikel 10, Punkt
@@ -614,8 +602,7 @@
                 <p>Als letztes Gesetz im Abs. 1 ist einzuschalten: „Das Gesetz vom 8. Mai 1919, St.
                     G. Bl. Nr. 257, über das Staatswappen und das Staatssiegel der Republik
                     Deutschösterreich mit den durch die Artikel 2,5 und 6 des Gesetzes vom 21.
-                    Oktober 1919, St. G. Bl. Nr. 484, bewirkte Aenderungen. <pb facs="#facs_27"
-                        n="27" xml:id="img_0027" break="yes"/> Der Verfassungsbeschluß hält morgen
+                    Oktober 1919, St. G. Bl. Nr. 484, bewirkte Aenderungen. <pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/> Der Verfassungsbeschluß hält morgen
                     Samstag, den 25. d. M., um 3 Uhr nachmittags im Lokal I Sitzung. Wien, am 24.
                     September 1920.Dr. Bauer, Obmann. </p>
             </div>

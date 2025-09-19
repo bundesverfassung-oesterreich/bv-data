@@ -63,7 +63,11 @@
                         <idno type="bv_data_set">Datenset C</idno>
                         <idno type="goobi">14520</idno>
                   </publicationStmt>
-                  <sourceDesc>
+                  <seriesStmt>
+<title>Datenset C</title>
+<biblScope unit="part">0400</biblScope>
+</seriesStmt>
+<sourceDesc>
                         <msDesc type="invetory">
                               <msIdentifier>
                                     <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
@@ -218,8 +222,7 @@
                         <p type="legal_section"> Als selbstverständlich muß angenommen werden, daß
                               die Durchführung des Volksgesundheitswesens, der sozialen Fürsorge,
                               des Kultuswesens usw. in den Ländern durch die Landesregierung besorgt
-                              wird, da <fw type="pageNum">20</fw><pb facs="#facs_3" n="3"
-                                    xml:id="img_0003" break="yes"/>man sich ansonsten in den
+                              wird, da <fw type="pageNum">20</fw><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>man sich ansonsten in den
                               einzelnen Ländern vor lauter bürokratisch organisierten
                               Regierungsbehörden nicht mehr auskennen würde und schließlich für die
                               Selbstregierung im übertragenen Wirkungskreis nichts mehr übrig
@@ -334,8 +337,7 @@
                         <p type="legal_section"> betrifft, so ist nach dem Regierungsentwürfe der
                               Bundestag das, was heute die Nationalversammlung ist, während der
                               Bundesrat eine Länderkammer darstellt. Wir wollen in den weiteren
-                              Ausführungen an Stelle<pb facs="#facs_4" n="4" xml:id="img_0004"
-                                    break="yes"/><fw type="pageNum">3</fw>des von der Regierung
+                              Ausführungen an Stelle<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><fw type="pageNum">3</fw>des von der Regierung
                               vorgeschlagenen Namens "Bundesrat" den Ausdruck, Länderkammer
                               gebrauchen, da der Name Bundesrat für die Bundesregierung aufbewahrt
                               werden soll. Die Länderkammer soll nach Vorschlag der Regierung durch
@@ -441,10 +443,8 @@
                               Verwaltungszweige, die, wie die Post- und Eisenbahn, die Monopole usw.
                               bis heute zentralistisch-bürokratisch verwaltet worden sind und
                               dadurch den rechtlich ganz unmöglichen Zuständ geschaffen haben, daß
-                              diese Unternehmungen gleichzeitig Partei und Behörde waren, sind <fw
-                                    type="pageNum">21</fw>
-                              <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><fw
-                                    type="pageNum">4</fw>ihres behördlichen Charakters zur Gänze zu
+                              diese Unternehmungen gleichzeitig Partei und Behörde waren, sind <fw type="pageNum">21</fw>
+                              <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><fw type="pageNum">4</fw>ihres behördlichen Charakters zur Gänze zu
                               entkleiden und als Verwaltungsbetriebe des Staates auf kaufmännische
                               Grundtage zu stellen. Insoweit eine Staatsaussicht notwendig ist, wird
                               dieselbe durch ein eigenes Referat in der Bundeskanzlei besorgt.</p>
@@ -558,9 +558,7 @@
                               Aufgaben nötig sind. DIe biem Verhältniswahlgang als 1., 2. eventuell
                               3. Beisitzer Gewählten haben die Funktion eines Stellvertrefers des
                               Landeshauptmannes. Jedoch ist hiemit zum Unterschiede von jetzt nur
-                              dann eine besondere Funktion verbunden, wenn diesselben <pb
-                                    facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><fw
-                                    type="pageNum">5</fw>den Landeshauptmann im Falle von Krankheit,
+                              dann eine besondere Funktion verbunden, wenn diesselben <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><fw type="pageNum">5</fw>den Landeshauptmann im Falle von Krankheit,
                               Abwesenheit. Versetzung in den Anklagezustand oder bestimmten Auftrag
                               im einzelnen Falle zu vertreten haben. Die Bestätigung des
                               Landeshauptmannes und seiner Stellvertreter, wie sie die
@@ -672,9 +670,7 @@
                               darf. </p>
                         <p type="legal_section">Schließlich sei noch auf </p>
                         <p type="legal_section"><emph>die obersten Gerichtshöfe </emph></p>
-                        <p type="legal_section">hingewiesen, auf den Bundesverwaltungsge<fw
-                                    type="pageNum">22</fw><pb facs="#facs_7" n="7" xml:id="img_0007"
-                                    break="no"/><fw type="pageNum">6</fw> richtshof, der zuständig
+                        <p type="legal_section">hingewiesen, auf den Bundesverwaltungsge<fw type="pageNum">22</fw><pb facs="#facs_7" n="7" xml:id="img_0007" break="no"/><fw type="pageNum">6</fw> richtshof, der zuständig
                               ist für die dem Bunde vorbehaltenen Angelegenheiten, auf den
                               Bundesverfassungsgerichtshof, der zuständig ist für alle
                               Rechtsstreitigkeiten zwischen den Ländern, sowie zwischen einem Lande

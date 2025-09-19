@@ -30,13 +30,11 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372"
-                        >Peter Andorfer </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X"
-                        >Carl Friedrich Haak </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -63,7 +61,11 @@
                 <idno type="bv_data_set">Datenset B</idno>
                 <idno type="goobi">14599</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset B</title>
+<biblScope unit="part">2300</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
@@ -112,74 +114,46 @@
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
         <surface ulx="0" uly="0" lrx="3011" lry="4790" xml:id="facs_2">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0073/full/full/0/default.jpg"
-                width="3011px" height="4790px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0073/full/full/0/default.jpg" width="3011px" height="4790px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2976" lry="4794" xml:id="facs_3">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0074/full/full/0/default.jpg"
-                width="2976px" height="4794px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0074/full/full/0/default.jpg" width="2976px" height="4794px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3004" lry="4796" xml:id="facs_4">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0075/full/full/0/default.jpg"
-                width="3004px" height="4796px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0075/full/full/0/default.jpg" width="3004px" height="4796px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2986" lry="4817" xml:id="facs_5">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0076/full/full/0/default.jpg"
-                width="2986px" height="4817px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0076/full/full/0/default.jpg" width="2986px" height="4817px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2989" lry="4782" xml:id="facs_6">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0078/full/full/0/default.jpg"
-                width="2989px" height="4782px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0078/full/full/0/default.jpg" width="2989px" height="4782px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2987" lry="4858" xml:id="facs_7">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0079/full/full/0/default.jpg"
-                width="2987px" height="4858px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0079/full/full/0/default.jpg" width="2987px" height="4858px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2999" lry="4864" xml:id="facs_8">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0080/full/full/0/default.jpg"
-                width="2999px" height="4864px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0080/full/full/0/default.jpg" width="2999px" height="4864px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3012" lry="4841" xml:id="facs_9">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0081/full/full/0/default.jpg"
-                width="3012px" height="4841px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0081/full/full/0/default.jpg" width="3012px" height="4841px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3118" lry="4862" xml:id="facs_10">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0082/full/full/0/default.jpg"
-                width="3118px" height="4862px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0082/full/full/0/default.jpg" width="3118px" height="4862px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3111" lry="4892" xml:id="facs_11">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0083/full/full/0/default.jpg"
-                width="3111px" height="4892px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0083/full/full/0/default.jpg" width="3111px" height="4892px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3062" lry="4873" xml:id="facs_12">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0084/full/full/0/default.jpg"
-                width="3062px" height="4873px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0084/full/full/0/default.jpg" width="3062px" height="4873px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3014" lry="4849" xml:id="facs_13">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0085/full/full/0/default.jpg"
-                width="3014px" height="4849px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0085/full/full/0/default.jpg" width="3014px" height="4849px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3003" lry="4827" xml:id="facs_14">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0086/full/full/0/default.jpg"
-                width="3003px" height="4827px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0086/full/full/0/default.jpg" width="3003px" height="4827px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3066" lry="4848" xml:id="facs_15">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0087/full/full/0/default.jpg"
-                width="3066px" height="4848px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0087/full/full/0/default.jpg" width="3066px" height="4848px"/>
         </surface>
     </facsimile>
     <text type="Sitzungsprotokoll">
@@ -244,8 +218,7 @@
                 <p><emph>„(3) Die Wähler üben ihr Wahlrecht in Wahlbezirken aus, von denen jeder ein
                         geschlossenes Gebiet umfassen muß. Die Zahl der Abgeordneten ist auf die
                         Wahlbezirke im Verhältnis der Zahl der Bundesangehörigen, die in ihnen nach
-                        dem Ergebnis der</emph><pb facs="#facs_4" n="4" xml:id="img_0004"
-                        break="yes"/><fw type="pageNum">- 3 -</fw><emph>letzten Volkszählung ihren
+                        dem Ergebnis der</emph><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><fw type="pageNum">- 3 -</fw><emph>letzten Volkszählung ihren
                         Wohnsitz hatten, zu verteilen. Eine Gliederung der Wählerschaft in andere
                         Wahlkörper ist nicht zulässig“.</emph></p>
                 <p> Die anderen sozialdemokratischen Minderheitsanträge zu diesem Artikel sind
@@ -273,8 +246,7 @@
                     für Land- und Forstwirtschaft gleichfalls hier aufgenommen wünscht. Sie wurde
                     jedoch mit Rücksicht auf verwaltungsreformatorische Ideen weggelassen. Es sei
                     nämlich eine Umgestaltung in der Richtung geplant, daß diese Behörden auch
-                    Geschäfte der jetzigen poli<pb facs="#facs_5" n="5" xml:id="img_0005" break="no"
-                        /><fw type="pageNum">- 4 -</fw> tischen Behörden zu übernehmen hätten. Zu
+                    Geschäfte der jetzigen poli<pb facs="#facs_5" n="5" xml:id="img_0005" break="no"/><fw type="pageNum">- 4 -</fw> tischen Behörden zu übernehmen hätten. Zu
                     erwähnen wäre noch, daß die Agenden der Volksgesundheit so eng mit der
                     politischen Verwaltung zusammenhängen, daß sie von dieser nicht getrennt werden
                     können. Eine weitere Ergänzung wünscht, wie Ministerialrat Dr.
@@ -302,8 +274,7 @@
                     endlich um Aufklärungen zu einzelnen Punkten, welche Beamte mit diesen
                     Angelegenheiten befaßt sind. Zum Beispiel „Waren und Viehverkehr mit dem
                     Ausland“. Sehr allgemein ist auch die Wendung „Arbeiterrecht und Arbeiter- und
-                    Angestelltenschutz“, auf<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"
-                        /><fw type="pageNum">- 5 -</fw> Grund deren viele neue Organe eingeführt
+                    Angestelltenschutz“, auf<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><fw type="pageNum">- 5 -</fw> Grund deren viele neue Organe eingeführt
                     werden könnten, während jetzt nur die Gewerbeinspektoren vorhanden sind. </p>
                 <p> Sekt.Rat. Dr. <emph>Mannlicher</emph> erwähnt, daß das Staatsamt für Land- und
                     Forstwirtschaft großes Gewicht auf die Aufnahme des Veterinärdienstes gelegt
@@ -330,8 +301,7 @@
                         (mittelbare Bundesverwaltung) ausgeübt. </emph></p>
                 <p><emph> (2) Folgende Angelegenheiten können im Rahmen des durch das
                         Bundesverfassungsgesetz festgestellten Wirkungsbereiches des Bundes
-                            <del>und</del> unmittelbar durch Bundesbehörden ver</emph><pb
-                        facs="#facs_7" n="7" xml:id="img_0007" break="no"/><fw type="pageNum">- 6
+                            <del>und</del> unmittelbar durch Bundesbehörden ver</emph><pb facs="#facs_7" n="7" xml:id="img_0007" break="no"/><fw type="pageNum">- 6
                         -</fw><emph>sehen werden:</emph>
                 </p>
                 <p>
@@ -367,8 +337,7 @@
                     Durchsicht vor.</p>
                 <p>Ein soz.dem. Minderheitsantrag zu Artikel 97 wird der Abstimmung überlassen.</p>
                 <p> Zum folgenden 5. Hauptstück bemerkt der <emph>Vorsitzende</emph> daß
-                    prinzipielle Fragen offen geblieben seien: Die Einführung<pb facs="#facs_8"
-                        n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">- 7 -</fw>von
+                    prinzipielle Fragen offen geblieben seien: Die Einführung<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">- 7 -</fw>von
                     Kreisen überhaupt, da die Vertreter der christlichsozialen Partei gegen die
                     Einführung von Kreisen in den größeren Ländern Stellung genommen
                         ha<add>ben</add>; ferner wünscht die soz.dem. Partei, daß die Leiter der
@@ -396,8 +365,7 @@
                     Verwaltungsgesetz, das mit gewöhnlicher Mehrheit beschlossen werden kann, Kreise
                     bekommen, werden sie nicht als Garantie betrachten. Prof. Dr.
                         <emph>Seipel</emph> meint, daß die Bildung von Gebietsgemeinden in den
-                    größeren Ländern, auch wenn die Kreise nicht ausdrücklich ge<pb facs="#facs_9"
-                        n="9" xml:id="img_0009" break="no"/><fw type="pageNum">- 8 -</fw>nannt
+                    größeren Ländern, auch wenn die Kreise nicht ausdrücklich ge<pb facs="#facs_9" n="9" xml:id="img_0009" break="no"/><fw type="pageNum">- 8 -</fw>nannt
                     werden, als Garantie angesehen werden könne. Der <emph>Vorsitzende</emph>
                     erwähnt, daß für die kleineren Länder ja schon von der Bildung von Kreisen
                     Abstand genommen worden sei, man bedarf aber einer Sicherung daß sie in Nieder-
@@ -466,8 +434,7 @@
                 <p> Abgeordneter <emph>Clessin</emph> verweist auf eine ähnliche Bestimmung im
                     Deutschen Reich. Abgeordneter Dr. <emph>Weiskirchner</emph> meint, daß die
                     Seßhaftigkeitsklausel im alten Oesterreich viel bedeutsamer gewesen sei, die
-                        Zuwande<pb facs="#facs_11" n="11" xml:id="img_0011" break="no"/><fw
-                        type="pageNum">- 10 -</fw>rer waren Andersnationale. In Wien hielten sich in
+                        Zuwande<pb facs="#facs_11" n="11" xml:id="img_0011" break="no"/><fw type="pageNum">- 10 -</fw>rer waren Andersnationale. In Wien hielten sich in
                     der guten Zeit etwa 60 bis 80000 Bauarbeiter auf, die Saisonarbeiter waren.
                     Abgeordneter <emph>Fink</emph> hält die Zahl von 1000 Einwohnern für zu gering.
                     So seien beim Spuller See 1000 Arbeiter beschäftigt, die mehr oder minder alle
@@ -526,8 +493,7 @@
                     zweckmäßiger erschienen, da er sich an die bestehende Gemeindeordnung
                     anschließt, also eingelebte Ausdrücke verwendet, die einen bestimmten Inhalt
                     haben.</p>
-                <p> Prof. Dr. <emph>Kelsen</emph> bemerkt hiezu, daß der Begriff<pb facs="#facs_13"
-                        n="13" xml:id="img_0013" break="yes"/><fw type="pageNum">- 12 -</fw>der
+                <p> Prof. Dr. <emph>Kelsen</emph> bemerkt hiezu, daß der Begriff<pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><fw type="pageNum">- 12 -</fw>der
                     Sicherheitspolizei sehr strittig sei, was sich auch bei der Verhandlung mit den
                     Vertretern der Staatsämter herausgestellt hat, daher wurde die Bezeichnung der
                     Gemeindeordnung gewählt. Hinzugefügt wird jedoch auf Antrag des Vorsitzenden in

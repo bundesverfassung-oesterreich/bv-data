@@ -61,14 +61,17 @@
                 <idno type="bv_data_set">Datenset A</idno>
                 <idno type="goobi">14641</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">1700</biblScope>
+</seriesStmt>
+<sourceDesc>
                         <listWit>
                               <witness sameAs="#bv_doc_id__29"/>
                         </listWit>
                 <msDesc type="invetory" subtype="primary">
                               <msIdentifier>
-                                    <institution key="https://d-nb.info/gnd/37748-X"
-                                          >Österreichisches Staatsarchiv</institution>
+                                    <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
                                     <repository key="https://d-nb.info/gnd/1601181-8">Archiv der
                                           Republik (Wien)</repository>
                                     <idno type="archive">AvA, Justizministerium, Signatur I-VI/1,
@@ -90,8 +93,7 @@
                                     <handDesc/>
                               </physDesc>
                               <history>
-                                    <origin notBefore-iso="1920-01-25" notAfter-iso="1920-02-10"
-                                          >Nach dem 25. Jänner 1920 (Ende Gespräche Mayers mit den
+                                    <origin notBefore-iso="1920-01-25" notAfter-iso="1920-02-10">Nach dem 25. Jänner 1920 (Ende Gespräche Mayers mit den
                                           Ländern, jedoch vor dem 10. Februar 1920 (Erscheinen in
                                           der Rechspost)</origin>
                               </history>
@@ -158,9 +160,7 @@
                                           Bundesgebiet steht im Verhältnis nach außen und im
                                           Verhaltnis der Länder zueinander unter dem Schutze des
                                           Bundes.</p>
-                                    <p type="legal_section"><fw type="pageNum">1</fw><pb
-                                                facs="#facs_3" n="3" xml:id="img_0003" break="yes"
-                                                /><fw type="pageNum">2</fw><label>(2) </label>Eine
+                                    <p type="legal_section"><fw type="pageNum">1</fw><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw type="pageNum">2</fw><label>(2) </label>Eine
                                           Änderung des Bundesgebietes, die zugleich eine Änderung
                                           eines Landesgebietes ist, ebenso die Änderung einer
                                           Landesgrenze innerhalb des Bundesgebietes kann nur durch
@@ -220,9 +220,7 @@
                                           und Vollziehung des Bundes: <list>
                                                 <label>1. </label>
                                                 <item>Die auswärtigen Angelegenheiten mit Einschluß
-                                                  der politischen und wirtschaftlichen Vertretung<pb
-                                                  facs="#facs_4" n="4" xml:id="img_0004" break="yes"
-                                                  /><fw type="pageNum">3</fw>gegenüber dem Ausland
+                                                  der politischen und wirtschaftlichen Vertretung<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><fw type="pageNum">3</fw>gegenüber dem Ausland
                                                   sowie die Regelung und Überwachung des Eintrittes
                                                   in das Bundesgebiet und des Austrittes aus diesem,
                                                   das Ein- und Auswanderungswesen, die Abschiebung,
@@ -285,9 +283,7 @@
                                                 <label>8.</label>
                                                 <item>das Hochschulwesen; die Angelegenheiten des
                                                   Kultus; das Archiv- sowie Bibliothekswesen sowie
-                                                  die Angelegenheiten der künstlerischen und<pb
-                                                  facs="#facs_5" n="5" xml:id="img_0005" break="yes"
-                                                  /><fw type="pageNum">4</fw> wissenschaftlichen
+                                                  die Angelegenheiten der künstlerischen und<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><fw type="pageNum">4</fw> wissenschaftlichen
                                                   Sammlungen; die Statistik, soweit sie nicht nur
                                                   den Interessen eines einzelnen Landes dient,
                                                   ferner das Volkszählungswesen und die Viehzählung;
@@ -354,9 +350,7 @@
                                                   Kurorte-, Leichen- und Begräbniswesens sowie des
                                                   Gemeindesanitätsdienstes- und Rettungswesens; die
                                                   Bevölkerungspolitik, die Mutterschafts-,
-                                                  Säuglings-<pb facs="#facs_6" n="6"
-                                                  xml:id="img_0006" break="yes"/><fw type="pageNum"
-                                                  >5</fw> und Jugendfürsorge sowie das
+                                                  Säuglings-<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><fw type="pageNum">5</fw> und Jugendfürsorge sowie das
                                                   Volkswohnungs- und Volkspflegestättenwesen; das
                                                   Veterinärwesen und die Tierseuchenbekämpfung. </item>
                                           </list></p>
@@ -551,9 +545,7 @@
                                                 wählt aus seiner Mitte auf die Dauer der
                                                 Sitzungsperiode einen Präsidenten sowie einen ersten
                                                 und zweiten Stellvertreter des Präsidenten.</p>
-                                          <p type="legal_section"><pb facs="#facs_9" n="9"
-                                                  xml:id="img_0009" break="yes"/><fw type="pageNum"
-                                                  >8</fw><label>(2)</label> Nach Auflösung des
+                                          <p type="legal_section"><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><fw type="pageNum">8</fw><label>(2)</label> Nach Auflösung des
                                                 Bundestages oder nach Ablauf der Legislaturperiode
                                                 bleiben der Präsident und seine Stellvertreter
                                                 solange im Amte, bis der neugewählte Bundestag das
@@ -617,9 +609,7 @@
                                                 Landtag an erster und zweiter Stelle entsendeten
                                                 Vertreter des jeweils zum Vorsitz berufenen
                                                 Landes.</p>
-                                          <p type="legal_section"><pb facs="#facs_10" n="10"
-                                                  xml:id="img_0010" break="yes"/><fw type="pageNum"
-                                                  >9</fw><label>(3)</label> Der Bundesrat wird durch
+                                          <p type="legal_section"><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><fw type="pageNum">9</fw><label>(3)</label> Der Bundesrat wird durch
                                                 seinen Vorsitzenden vertreten. Alle Ausfertigungen
                                                 des Bundesrates müssen die Unterschrift seines
                                                 Vorsitzenden tragen. </p>
@@ -749,9 +739,7 @@
                                           <head>Artikel 37. </head>
                                           <p type="legal_section">Jeder Gesetzesbeschluß des
                                                 Bundestages ist unverzüglich durch den Präsidenten
-                                                des Bundes<pb facs="#facs_12" n="12"
-                                                  xml:id="img_0012" break="no"/><fw type="pageNum"
-                                                  >11</fw>tages dem Bundeskanzler zu übermitteln,
+                                                des Bundes<pb facs="#facs_12" n="12" xml:id="img_0012" break="no"/><fw type="pageNum">11</fw>tages dem Bundeskanzler zu übermitteln,
                                                 der ihn sofort dem Bundesrat zur Genehmigung
                                                 vorzulegen hat. </p>
                                           <p type="legal_section"><label>(2)</label> Der Bundesrat
@@ -812,9 +800,7 @@
                                                 Gesetzesstelle; die Kundmachung der in Artikel 16,
                                                 Absatz 1 und Artikel 17 erwähnten Beschlüsse des
                                                 Bundestages mit ausdrücklicher Berufung auf den
-                                                Beschluß des<pb facs="#facs_13" n="13"
-                                                  xml:id="img_0013" break="yes"/><fw type="pageNum"
-                                                  >12</fw> Bundestages, die Kundmachung von
+                                                Beschluß des<pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><fw type="pageNum">12</fw> Bundestages, die Kundmachung von
                                                 Staatsverträgen, die der Genehmigung des Bundestages
                                                 und Bundesrates bedürfen, mit Berufung auf diese
                                                 Genehmigung im Bundesgesetzblatt durch den
@@ -873,9 +859,7 @@
                                           <head>Artikel 43. </head>
                                           <p type="legal_section">Die Mitglieder des Bundesrates
                                                 genießen die ihnen als Mitglieder eines Landtages
-                                                  gewährte<pb facs="#facs_14" n="14"
-                                                  xml:id="img_0014" break="yes"/><fw type="pageNum"
-                                                  >13</fw>Immunität auch für ihre Funktion im
+                                                  gewährte<pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><fw type="pageNum">13</fw>Immunität auch für ihre Funktion im
                                                 Bundesrate während der ganzen Dauer dieser Funktion.
                                           </p>
                                     </div>
@@ -1001,8 +985,7 @@
                                                   Bundesminister.</p>
                                           </div>
                                           <div type="article">
-                                                <pb facs="#facs_16" n="16" xml:id="img_0016"
-                                                  break="yes"/>
+                                                <pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>
                                                 <fw type="pageNum">15</fw>
                                                 <head>Artikel 53. </head>
                                                 <p type="legal_section"><label>(1)</label> Die dem
@@ -1073,8 +1056,7 @@
                                                   Bundeskanzler gegengezeichnet.</p>
                                           </div>
                                           <div type="article">
-                                                <pb facs="#facs_17" n="17" xml:id="img_0017"
-                                                  break="yes"/>
+                                                <pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>
                                                 <fw type="pageNum">16</fw>
                                                 <head>Artikel 58. </head>
                                                 <p type="legal_section">Bis die neue Bundesregierung
@@ -1141,8 +1123,7 @@
                                                   übertragen werden.</p>
                                           </div>
                                           <div type="article">
-                                                <pb facs="#facs_18" n="18" xml:id="img_0018"
-                                                  break="yes"/>
+                                                <pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>
                                                 <fw type="pageNum">17</fw>
                                                 <head>Artikel 63. </head>
                                                 <p type="legal_section">In besonderen Fällen kann
@@ -1278,10 +1259,7 @@
                                                 sind in Ausübung ihres richterlichen Amtes
                                                 unabhängig. In Ausübung seines richterlichen Amtes
                                                 ist ein Richter bei Besorgung aller ihm nach dem
-                                                Gesetze und der Geschäftsverteilung zustehenden<pb
-                                                  facs="#facs_20" n="20" xml:id="img_0020"
-                                                  break="yes"/><fw type="pageNum"
-                                                >19</fw>gerichtlichen Geschäfte, mit Ausschluß der
+                                                Gesetze und der Geschäftsverteilung zustehenden<pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/><fw type="pageNum">19</fw>gerichtlichen Geschäfte, mit Ausschluß der
                                                 Justizverwaltungssachen, die nicht nach Vorschrift
                                                 des Gesetzes durch Senate oder Kommissionen zu
                                                 erledigen sind. </p>
@@ -1470,9 +1448,7 @@
                                           Landesregierung müssen nicht dem Landtage angehören.
                                           Jedoch kann in die Landesregierung nur gewählt werden, wer
                                           zum Landtage wählbar ist.</p>
-                                    <p type="legal_section"><pb facs="#facs_23" n="23"
-                                                xml:id="img_0023" break="yes"/><fw type="pageNum"
-                                                >22</fw><label>(4)</label> Der Landeshauptmann und
+                                    <p type="legal_section"><pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"/><fw type="pageNum">22</fw><label>(4)</label> Der Landeshauptmann und
                                           sein Stellvertreter werden durch den Bundespräsidenten auf
                                           die Bundesverfassung beeidet. </p>
                               </div>
@@ -1529,9 +1505,7 @@
                                           persönlichen Verantwortung zu führen; für diese
                                           Verantwortung gelten dieselben Bestimmungen wie für jene
                                           des Landeshauptmannes.</p>
-                                    <p type="legal_section"><pb facs="#facs_24" n="24"
-                                                xml:id="img_0024" break="yes"/><fw type="pageNum"
-                                                >23</fw><label>(3)</label> Zur Vertretung des
+                                    <p type="legal_section"><pb facs="#facs_24" n="24" xml:id="img_0024" break="yes"/><fw type="pageNum">23</fw><label>(3)</label> Zur Vertretung des
                                           Landesamtsdirektors ist jeweils der rangälteste politische
                                           Konzeptsbeamte der Landesregierung berufen, auf den in
                                           diesem Fall auch die Bestimmungen des Artikels 91
@@ -1587,9 +1561,7 @@
                                     <p type="legal_section"><label>(2)</label> Der Rechnungshof
                                           besteht aus einem Präsidenten und den erforderlichen
                                           Beamten und Hilfskräften.</p>
-                                    <p type="legal_section"><pb facs="#facs_25" n="25"
-                                                xml:id="img_0025" break="yes"/><fw type="pageNum"
-                                                >24</fw><label>(3)</label> Der Präsident des
+                                    <p type="legal_section"><pb facs="#facs_25" n="25" xml:id="img_0025" break="yes"/><fw type="pageNum">24</fw><label>(3)</label> Der Präsident des
                                           Rechnungshofes wird vom Bundestag gewählt. Die Wahl bedarf
                                           der Genehmigung des Bundesrates. </p>
                                     <p type="legal_section"><label>(4)</label> Der Präsident des
@@ -1646,9 +1618,7 @@
                                     <p type="legal_section">Alle Urkunden über Staatsschulden
                                           (Finanz- und Verwaltungsschulden), insoweit sie eine
                                           Verpflichtung des Bundes beinhalten, sind vom Präsidenten
-                                          des Rechnungshofes gegenzuzeichnen; durch<pb
-                                                facs="#facs_26" n="26" xml:id="img_0026" break="yes"
-                                                /><fw type="pageNum">25</fw>diese Gegenzeichnung
+                                          des Rechnungshofes gegenzuzeichnen; durch<pb facs="#facs_26" n="26" xml:id="img_0026" break="yes"/><fw type="pageNum">25</fw>diese Gegenzeichnung
                                           wird lediglich die Gesetzmäßigkeit und rechnungsmäßige
                                           Richtigkeit der Gebarung bekräftigt. </p>
                               </div>
@@ -1775,9 +1745,7 @@
                                     <p type="legal_section"><label>(1)</label> Die Freiheit der
                                           Meinungsäußerung ist nur durch das Strafgesetz
                                           beschränkt.</p>
-                                    <p type="legal_section"><pb facs="#facs_28" n="28"
-                                                xml:id="img_0028" break="yes"/><fw type="pageNum"
-                                                >27</fw><label>(2)</label> Die Preßfreiheit ist
+                                    <p type="legal_section"><pb facs="#facs_28" n="28" xml:id="img_0028" break="yes"/><fw type="pageNum">27</fw><label>(2)</label> Die Preßfreiheit ist
                                           gewährleistet. Die Beschlagnahme von Druckschriften darf
                                           nur aus den vom Strafgesetz, von der Strafprozeßordnung
                                           und vom Preßgesetz vorgesehenen Gründen stattfinden. Sie
@@ -1836,9 +1804,7 @@
                                           Vereinigung zu Religionsgemeinschaften wird gewährleistet.
                                           Der Zusammenschluß von Religionsgemeinschaften innerhalb
                                           des Bundesgebietes unterliegt keinen Beschränkungen.</p>
-                                    <p type="legal_section"><pb facs="#facs_29" n="29"
-                                                xml:id="img_0029" break="yes"/><fw type="pageNum"
-                                                >28</fw><label>(2)</label> Jede
+                                    <p type="legal_section"><pb facs="#facs_29" n="29" xml:id="img_0029" break="yes"/><fw type="pageNum">28</fw><label>(2)</label> Jede
                                           Religionsgemeinschaft ordnet und verwaltet ihre
                                           Angelegenheiten einschließlich der Verleihung und
                                           Entziehung ihrer Ämter selbständig innerhalb der Schranken
@@ -2019,9 +1985,7 @@
                                     <p type="legal_section">Wo eine verhältnismäßig beträchtliche
                                           Anzahl von Bundesangehörigen wohnt, die einer Minderheit
                                           nach Nationalität, Sprache oder Religion angehört, sind
-                                          von allen Beiträgen, die etwa für Erziehungs-,<pb
-                                                facs="#facs_32" n="32" xml:id="img_0032" break="yes"
-                                                /><fw type="pageNum">31</fw>Religions- oder
+                                          von allen Beiträgen, die etwa für Erziehungs-,<pb facs="#facs_32" n="32" xml:id="img_0032" break="yes"/><fw type="pageNum">31</fw>Religions- oder
                                           Wohltätigkeitszwecke aus öffentlichen Mitteln zugewendet
                                           werden, diese Minderheiten angemessen zu beteilen. </p>
                               </div>
@@ -2145,8 +2109,7 @@
                                                 Angelegenheiten des selbständigen Wirkungskreises
                                                 der Länder noch vor der Entscheidung der
                                                 Landesregierung, in den übrigen Angelegenheiten noch
-                                                  vor<pb facs="#facs_34" n="34" xml:id="img_0034"
-                                                  break="yes"/><fw type="pageNum">33</fw>der
+                                                  vor<pb facs="#facs_34" n="34" xml:id="img_0034" break="yes"/><fw type="pageNum">33</fw>der
                                                 Entscheidung der Bundesregierung zu enden, sofern
                                                 nicht in den ersteren Fällen die Landesregierung, in
                                                 den letzteren die Bundesregierung in erster Instanz
@@ -2284,8 +2247,7 @@
                                                   <label>a) </label>
                                                   <item>des Bundespräsidenten und seiner
                                                   Stellvertreter,</item>
-                                                  <pb facs="#facs_36" n="36" xml:id="img_0036"
-                                                  break="yes"/>
+                                                  <pb facs="#facs_36" n="36" xml:id="img_0036" break="yes"/>
                                                   <fw type="pageNum">35</fw>
                                                   <label>b) </label>
                                                   <item>der Mitglieder der Bundesregierung und der

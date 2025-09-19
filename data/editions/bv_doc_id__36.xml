@@ -30,13 +30,11 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372"
-                        >Peter Andorfer </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X"
-                        >Carl Friedrich Haak </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -63,7 +61,11 @@
                 <idno type="bv_data_set">Datenset B</idno>
                 <idno type="goobi">14582</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset B</title>
+<biblScope unit="part">0500</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
@@ -117,74 +119,46 @@
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
         <surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_2">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0030/full/full/0/default.jpg"
-                width="3840px" height="5760px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0030/full/full/0/default.jpg" width="3840px" height="5760px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_3">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0031/full/full/0/default.jpg"
-                width="3840px" height="5760px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0031/full/full/0/default.jpg" width="3840px" height="5760px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_4">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0032/full/full/0/default.jpg"
-                width="3840px" height="5760px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0032/full/full/0/default.jpg" width="3840px" height="5760px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_5">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0033/full/full/0/default.jpg"
-                width="3840px" height="5760px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0033/full/full/0/default.jpg" width="3840px" height="5760px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_6">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0034/full/full/0/default.jpg"
-                width="3840px" height="5760px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0034/full/full/0/default.jpg" width="3840px" height="5760px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_7">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0035/full/full/0/default.jpg"
-                width="3840px" height="5760px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0035/full/full/0/default.jpg" width="3840px" height="5760px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_8">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0036/full/full/0/default.jpg"
-                width="3840px" height="5760px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0036/full/full/0/default.jpg" width="3840px" height="5760px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_9">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0037/full/full/0/default.jpg"
-                width="3840px" height="5760px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0037/full/full/0/default.jpg" width="3840px" height="5760px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_10">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0038/full/full/0/default.jpg"
-                width="3840px" height="5760px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0038/full/full/0/default.jpg" width="3840px" height="5760px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_11">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0039/full/full/0/default.jpg"
-                width="3840px" height="5760px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0039/full/full/0/default.jpg" width="3840px" height="5760px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_12">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0040/full/full/0/default.jpg"
-                width="3840px" height="5760px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0040/full/full/0/default.jpg" width="3840px" height="5760px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_13">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0041/full/full/0/default.jpg"
-                width="3840px" height="5760px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0041/full/full/0/default.jpg" width="3840px" height="5760px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_14">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0042/full/full/0/default.jpg"
-                width="3840px" height="5760px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0042/full/full/0/default.jpg" width="3840px" height="5760px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_15">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0043/full/full/0/default.jpg"
-                width="3840px" height="5760px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0043/full/full/0/default.jpg" width="3840px" height="5760px"/>
         </surface>
     </facsimile>
     <text type="Sitzungsprotokoll">
@@ -251,8 +225,7 @@
                             Vollziehung dem <emph>Bund</emph> zustehen, </item>
                         <label>B: </label>
                         <item> Angelegenheiten, in denen die <emph>Gesetzgebung dem Bunde</emph> und
-                            die <emph>Vollziehung</emph><pb facs="#facs_4" n="4" xml:id="img_0004"
-                                break="yes"/><fw type="pageNum">- 3 -</fw> den <emph>Ländern</emph>
+                            die <emph>Vollziehung</emph><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><fw type="pageNum">- 3 -</fw> den <emph>Ländern</emph>
                             zusteht, </item>
                         <label>C:  </label>
                         <item>Angelegenheiten, in denen dem <emph>Bunde nur die
@@ -273,8 +246,7 @@
                     dem Entwurf Dr. Dannebergs ergänzt wurde, also auch der Dreiteilung der
                     Kompetenzen einhellig angeschlossen hätten. Die Subsumierung der Kompetenzen
                     hingegen sei unter großen Schwierigkeiten in der Staatskanzlei unter Mitwirkung
-                    der maßgebenden Beamten der Verfassungs- und Verwaltungsabteilung<pb
-                        facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><fw type="pageNum">- 4
+                    der maßgebenden Beamten der Verfassungs- und Verwaltungsabteilung<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><fw type="pageNum">- 4
                         -</fw> erfolgt, wobei getrachtet wurde, unter Heranziehung zuständiger Fach<choice>
                         <del>ö</del>
                         <add>l</add>
@@ -320,8 +292,7 @@
                     Entwürfe <add>wie alle übrigen</add> mangelhaft und reformbedürftig seien, daß
                     sich aber eine Kompetenzabgrenzung nach zwei Gesichtspunkten<emph>, wie sie der
                         Entwurf Dr. Renners versucht,</emph> nicht durchführen lasse und
-                        Unstimmigkeit<emph>en</emph> im Gefolge habe. Auch er redet einer Rahmen<pb
-                        facs="#facs_7" n="7" xml:id="img_0007" break="no"/>
+                        Unstimmigkeit<emph>en</emph> im Gefolge habe. Auch er redet einer Rahmen<pb facs="#facs_7" n="7" xml:id="img_0007" break="no"/>
                     <fw type="pageNum">- 6 -</fw>gesetzgebung das Wort, nur müsse man die Länder
                     verpflichten, diese Gesetze binnen einer bestimmten Frist durchzuführen.</p>
                 <p>Der Vorsitzende bringt hierauf den <emph>Antrag Dr. Seipel</emph> zur Abstimmung,
@@ -344,8 +315,7 @@
                         Folgenden haben dann die bestimmten Artikel<del>n</del> zu
                     entfallen.</emph></p>
                 <p>Zu Pkt. 1 empfiehlt der Berichterstatter nach dem Wort „Ausland" einzufügen:
-                        <emph>„insbesondere der Abschluß aller</emph><pb facs="#facs_8" n="8"
-                        xml:id="img_0008" break="yes"/>
+                        <emph>„insbesondere der Abschluß aller</emph><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
                     <fw type="pageNum">- 7 -</fw>
                     <emph>Staatsverträge“</emph>, was zwar nach Anschauung des Staatssekretärs
                         <emph>Dr. Mayr</emph> nicht notwendig sei, aber, <del>da man damit
@@ -391,8 +361,7 @@
                     spreche, während <emph>Dr. Seipel</emph> gegen eine Streichung des Beisatzes
                     nichts einzuwenden hat, weil die Angelegenheit noch nicht spruchreif sei.</p>
                 <p>Da auch der <emph>Vorsitzende</emph> den Beisatz nicht für notwendig hält, weil
-                    die Vollziehung in Wahlangelegenheiten<pb facs="#facs_10" n="10"
-                        xml:id="img_0010" break="yes"/>
+                    die Vollziehung in Wahlangelegenheiten<pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>
                     <fw type="pageNum">- 9 -</fw> und Volksabstimmungen Bundessache sei und
                         <add>daher</add> die <add>Bundesregierung</add> die Anlegung einer
                     Bürgerliste verfügen könne, wird <emph>Punkt 3</emph> in der Fassung des
@@ -412,8 +381,7 @@
                     Ländern überlassen bleiben, dann ist zu fürchten, daß die großen
                     Auseinandersetzungen zwischen Bund und Ländern dann erst noch zwischen Gemeinden
                     und Ländern durchgekämpft werden müssen, während so eine einheitliche Regelung
-                    möglich wäre. <emph>Prof. Dr. Kelsen</emph> meint in verfas<pb facs="#facs_11"
-                        n="11" xml:id="img_0011" break="no"/>
+                    möglich wäre. <emph>Prof. Dr. Kelsen</emph> meint in verfas<pb facs="#facs_11" n="11" xml:id="img_0011" break="no"/>
                     <fw type="pageNum">- 10 -</fw>sungstechnischer Hinsicht die Einfügung davon
                     abhängig machen zu müssen, wie die Gemeinden in die Verfassung eingegliedert
                     werden, denn Dr. Renner habe die Gemeinden den Ländern selbständig
@@ -455,8 +423,7 @@
                         <corr/>
                     </choice>ks den Antrag <emph>Dr. Dannebergs</emph> zu vertragen, welcher
                         <emph>Antrag angenommen wird.</emph> Im übrigen wird der <emph>Pkt. 4</emph>
-                    im <emph>Wortlaut angenommen. Ebenso</emph> auch Pkt. 5,<pb facs="#facs_13"
-                        n="13" xml:id="img_0013" break="yes"/>
+                    im <emph>Wortlaut angenommen. Ebenso</emph> auch Pkt. 5,<pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>
                     <fw type="pageNum">- 12 -</fw> nachdem ein <emph>Antrag Clessins</emph> auf
                     Einschaltung der Worte „mit Ausnahme der Länderbanken und gewerblichen
                     Kreditanstalten“ nach dem Wort „Bankwesen“ im Verlauf einer Debatte, an der sich
@@ -489,8 +456,7 @@
                     wie es bei uns mit den Hauptlinien der Reichsstraßen w<choice>
                         <del>i</del>
                         <add>e</add>
-                    </choice>rd<add>e</add> geschehen müssen. Gegen die Einbeziehung<pb
-                        facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>
+                    </choice>rd<add>e</add> geschehen müssen. Gegen die Einbeziehung<pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>
                     <fw type="pageNum">- 13 -</fw> spricht auch, daß es sich nicht um ein
                     geschlossenes Ganzes handelt, sondern nur um einen Teil der Betätigung auf den
                     Straßen, weshalb <add>das Kraftfahrwesen</add> im Einvernehmen mit dem Staatsamt
@@ -513,8 +479,7 @@
                     daß ausländische Mittel für besonders ertragsreiche Projekte wohl gegeben
                     werden, daß aber dadurch eine einheitliche und<add> </add>systematische
                     Verwertung sämtlicher Wasserkräfte Oesterreichs unmöglich gemacht wird. In
-                    Deutschland wäre es undenkbar, daß <del>sich</del><pb facs="#facs_15" n="15"
-                        xml:id="img_0015" break="yes"/>
+                    Deutschland wäre es undenkbar, daß <del>sich</del><pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>
                     <fw type="pageNum">- 14 -</fw> zum Beispiel Bayern beim Ausbau seiner
                     Wasserkräfte dem Reiche irgendein Zugeständnis macht.</p>
                 <p>Zur Annahme gelangt folgende Fassung des Punktes 8:</p>

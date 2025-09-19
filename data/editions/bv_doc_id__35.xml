@@ -60,7 +60,11 @@
                 <idno type="bv_data_set">Datenset A</idno>
                 <idno type="goobi">14574</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">0100</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
@@ -245,9 +249,7 @@
                                     <sic/>
                                     <corr>örigen</corr>
                                 </choice></del>Angehörigen des deutschen Volkes, welche in<add>einem
-                                Teile</add>der Oesterreich<add>isch</add>-Ungarischen Monarchie<pb
-                                facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw
-                                type="pageNum">2</fw> Staatsbürgerrecht genießen, bilden den in
+                                Teile</add>der Oesterreich<add>isch</add>-Ungarischen Monarchie<pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw type="pageNum">2</fw> Staatsbürgerrecht genießen, bilden den in
                             Hinkunft den Staat Südostdeutschland.</p>
                     </div>
                     <div type="article">
@@ -292,8 +294,7 @@
                                 <del>die gekreuz<choice>
                                     <sic/>
                                     <corr>ten</corr>
-                                </choice></del> zwei gekreuzte <pb facs="#facs_4" n="4"
-                                xml:id="img_0004" break="yes"/><fw type="pageNum">3</fw>Hämmer, über
+                                </choice></del> zwei gekreuzte <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><fw type="pageNum">3</fw>Hämmer, über
                             denen ein Kranz von Roggenähren liegt und die Umschrift „Freistaat
                                 <del>Deutschösterreich"</del> Südostdeutschland“. </p>
                     </div>
@@ -350,8 +351,7 @@
                         <p type="legal_section">Sie behalten ihre bisherige Vertretung in der
                             provisorischen Nationalversammlung und bleiben der Gesetzgebungs- und
                             Vollzugsgewalt <add>des Freistaates</add> unterstellt.</p>
-                        <p type="legal_section"><pb facs="#facs_5" n="5" xml:id="img_0005"
-                                break="yes"/>Die bisher auf seinem Boden und über sein Volk
+                        <p type="legal_section"><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>Die bisher auf seinem Boden und über sein Volk
                                 bestehende<del>n</del> Gewalt und rechtliche Ordnung wird
                             Südostdeutschland auf friedliche, organische Weise in den neuen Zustand
                             zu überführen bemüht sein. </p>
@@ -527,9 +527,7 @@
                                 <add>v</add>
                             </choice>erfassungs- und völkerrechtlichen Regelung der
                             Rechtsverhältnisse zwischen den Nationen der bisherigen
-                            österreichisch-ungarischen Monarchie für die südostdeutsche Staats<pb
-                                facs="#facs_8" n="8" xml:id="img_0008" break="no"/><fw
-                                type="pageNum">6</fw>bürgerschaft optieren. </p>
+                            österreichisch-ungarischen Monarchie für die südostdeutsche Staats<pb facs="#facs_8" n="8" xml:id="img_0008" break="no"/><fw type="pageNum">6</fw>bürgerschaft optieren. </p>
                     </div>
                     <div type="article">
                         <head><choice>
@@ -754,9 +752,7 @@
                                         <del>Vollzugsausschusses </del>
                                         <add>Staatsrats</add>
                                     </choice>
-                                    <add>mit seiner Namensfertigung</add> bestätigt, dass der <pb
-                                        facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><fw
-                                        type="pageNum">7-</fw><choice>
+                                    <add>mit seiner Namensfertigung</add> bestätigt, dass der <pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><fw type="pageNum">7-</fw><choice>
                                         <del>der Vollzugsausschuss</del>
                                         <add>Staatsrat</add>
                                     </choice> den Beschluss der Nationalversammlung gemäss den
@@ -870,8 +866,7 @@
                                                 <corr>hlt</corr>
                                             </choice></sic>
                                         <corr/>
-                                    </choice><pb facs="#facs_11" n="11" xml:id="img_0011"
-                                        break="yes"/><fw type="pageNum">-8-</fw>w<choice>
+                                    </choice><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><fw type="pageNum">-8-</fw>w<choice>
                                         <sic> </sic>
                                         <corr>i</corr>
                                     </choice>eder gewählt werden. </p>
@@ -957,8 +952,7 @@
                                         beschliesst das Volkshaus und der Senat seine Geschäfts- und
                                         Hausordnung selbständig. Die Wahlen zum Volkshause <del>und
                                             zu</del> finden am 1. Sonntag des Monates März statt.
-                                        Die Wahlen zum Senate am 3. Sonntag dieses<note
-                                            type="comment">bricht ab</note></del></p>
+                                        Die Wahlen zum Senate am 3. Sonntag dieses<note type="comment">bricht ab</note></del></p>
                             </div>
                         </div>
                     </div>
@@ -1068,9 +1062,7 @@
                                         <del> Gesetzgebungsgewalt</del>
                                         <add> Gewalt</add>
                                     </choice> und Hoheit des Freistaates nach innen und außen. Sie
-                                    ordnet, gliedert und richtet alle öffent<pb facs="#facs_14"
-                                        n="14" xml:id="img_0014" break="no"/><fw type="pageNum"
-                                        >9</fw><del>auf</del>lichen Gewalten im Staate ein. Sie wird
+                                    ordnet, gliedert und richtet alle öffent<pb facs="#facs_14" n="14" xml:id="img_0014" break="no"/><fw type="pageNum">9</fw><del>auf</del>lichen Gewalten im Staate ein. Sie wird
                                         <del>von</del> einberufen, sobald die Wiederkehr des
                                     Friedens Neuwahlen und <del>d</del> ihren Zusammentritt
                                     ermöglicht haben. Die Wahlordnung für sie wird vo<choice>
@@ -1336,8 +1328,7 @@
                                         <del>dem</del>
                                         <add>im</add>
                                     </choice> Volkshaus eine eigene Vorlage einzubringen. Liegt über
-                                    diese Vorlage ein neuerlicher Beschluß<pb facs="#facs_17" n="17"
-                                        xml:id="img_0017" break="yes"/><fw type="pageNum">12</fw>der
+                                    diese Vorlage ein neuerlicher Beschluß<pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/><fw type="pageNum">12</fw>der
                                     Nationalversammlung vor, so kann der Staatsrat <choice>
                                         <del>dem</del>
                                         <add>ihm den</add>
@@ -1650,8 +1641,7 @@
                                 <p type="legal_section">Der Kreistag <choice>
                                         <del> hat das Recht</del>
                                         <add>ist befugt</add>
-                                    </choice>, in<pb facs="#facs_20" n="20" xml:id="img_0020"
-                                        break="yes"/><fw type="pageNum">20</fw> allen
+                                    </choice>, in<pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/><fw type="pageNum">20</fw> allen
                                     Angelegenheiten der Gesetzgebung und Verwaltung, dem Volkshause <choice>
                                         <del>,</del>
                                         <add>und</add>
@@ -1734,8 +1724,7 @@
                                     <del>dessen den</del>
                                     <add>und</add>
                                 </choice>  Vizepraesidenten den Staatsrats, <del>den
-                                    Beanträger</del> und den<pb facs="#facs_21" n="21"
-                                    xml:id="img_0021" break="yes"/><fw type="pageNum">21</fw>
+                                    Beanträger</del> und den<pb facs="#facs_21" n="21" xml:id="img_0021" break="yes"/><fw type="pageNum">21</fw>
                                 <add>jeden der</add> Siegelbewahrer des <choice>
                                     <del>Staats</del>
                                     <add>Freistaats</add>
@@ -2135,8 +2124,7 @@
                             </choice> . Außerdem hat jeder Staatssekretär <add>u<choice>
                                     <sic/>
                                     <corr>nd</corr>
-                                </choice> Unterstaatssekretär</add> das Recht<pb facs="#facs_26"
-                                n="26" xml:id="img_0026" break="yes"/><fw type="pageNum">14</fw>und
+                                </choice> Unterstaatssekretär</add> das Recht<pb facs="#facs_26" n="26" xml:id="img_0026" break="yes"/><fw type="pageNum">14</fw>und
                             die Pflicht, <add>allein oder mit dem Kanzler</add> in der seinen
                             Verwaltungszweig berührenden Kommission des <choice>
                                 <del>Vollzugsauschusses</del>
@@ -2268,8 +2256,7 @@
                             Kreistages <add>und der Kreis- und Landesgerichte</add>werden
                             Kreisregierungen <add> als oberste und zusammenfassende
                                 Lokalverwaltungstellen</add>errichtet. Der Kreistag bestellt aus
-                            seiner Mitte<pb facs="#facs_28" n="28" xml:id="img_0028" break="yes"
-                                /><fw type="pageNum">16 </fw>einen Kreisausschuß von <choice>
+                            seiner Mitte<pb facs="#facs_28" n="28" xml:id="img_0028" break="yes"/><fw type="pageNum">16 </fw>einen Kreisausschuß von <choice>
                                 <del>17</del>
                                 <add>sieben</add>
                             </choice> Mitgliedern, dieser aus seiner Mitte <choice>
@@ -2317,8 +2304,7 @@
                             </choice></head>
                         <p type="legal_section">Der Kreisregierung zur Seite steht das Kreisamt. Für
                             die Leitung der Kanzleigeschäfte bestellt <add>und dem Kreishauptmann
-                                verantwortlich</add> ist der Kreisamts<pb facs="#facs_29" n="29"
-                                xml:id="img_0029" break="no"/><fw type="pageNum">17</fw>leiter.</p>
+                                verantwortlich</add> ist der Kreisamts<pb facs="#facs_29" n="29" xml:id="img_0029" break="no"/><fw type="pageNum">17</fw>leiter.</p>
                         <p type="legal_section">Das Kreisamt hat außer den Fachabteilungen an seinem
                             Sitze exponierte Abteilungen außerhalb <choice>
                                 <del>dieses Sitzes</del>
@@ -2619,9 +2605,7 @@
                             </choice> besteht aus sieben Mitgliedern von denen 4 das Volkshaus, 3
                             der Senat entsendet. Die Ausfertigung der Ernennung erfolgt vom
                             Praesidenten des Staatsrats unter
-                                <?oxy_comment_start author="zuegel.n" timestamp="20250328T141112+0100" comment="Fortsetzung des Textes nicht auf nächster, sondern auf übernächster Seite"?>Mitfe<?oxy_comment_end?>r<pb
-                                facs="#facs_35" n="35" xml:id="img_0035" break="no"/><fw
-                                type="pageNum">21</fw>tigung des Vorsitzenden des Heeres<choice>
+                                <?oxy_comment_start author="zuegel.n" timestamp="20250328T141112+0100" comment="Fortsetzung des Textes nicht auf nächster, sondern auf übernächster Seite"?>Mitfe<?oxy_comment_end?>r<pb facs="#facs_35" n="35" xml:id="img_0035" break="no"/><fw type="pageNum">21</fw>tigung des Vorsitzenden des Heeres<choice>
                                 <del>kollegiums </del>
                                 <add>direktoriums</add>
                             </choice> und unter Gegenzeichnung das Staatssekretärs <add>für
@@ -2771,8 +2755,7 @@
                                 <del>Be</del> Quellen und Arten der ihnen überlassenen Steuern u<choice>
                                 <sic/>
                                 <corr>nd</corr>
-                            </choice> Abgaben nutzbar<pb facs="#facs_36" n="36" xml:id="img_0036"
-                                break="yes"/><fw type="pageNum">22</fw> gemacht werden.<del> Diese
+                            </choice> Abgaben nutzbar<pb facs="#facs_36" n="36" xml:id="img_0036" break="yes"/><fw type="pageNum">22</fw> gemacht werden.<del> Diese
                                 Gesetze, Anordnungen und Beschlüsse unterliegen der Genehmigung der
                                 Natio</del> Die bezüglichen Gemeindebeschlüsse müssen vom Kreistage,
                             die Anordnungen der Kreise vom Landtage, die Landesgesetze vom Staatsrat

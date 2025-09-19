@@ -61,15 +61,18 @@
                 <idno type="bv_data_set">Datenset A</idno>
                 <idno type="goobi">14618</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">4200</biblScope>
+</seriesStmt>
+<sourceDesc>
                         <listWit>
                               <witness sameAs="#bv_doc_id__92"/>
                               <witness sameAs="#bv_doc_id__11"/>
                         </listWit>
                 <msDesc type="invetory" subtype="secondary">
                               <msIdentifier>
-                                    <institution key="https://d-nb.info/gnd/37748-X"
-                                          >Österreichisches Staatsarchiv</institution>
+                                    <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
                                     <repository key="https://d-nb.info/gnd/1601181-8">Archiv der
                                           Republik (Wien)</repository>
                                     <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton
@@ -333,8 +336,7 @@
                                                   Personenstandsangelegenheiten einschließlich des
                                                   Matriken wesens und der Namensänderung;
                                                   Fremdenpolizei;</item>
-                                                <pb facs="#facs_4" n="4" xml:id="img_0004"
-                                                  break="yes"/>
+                                                <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
                                                 <fw type="pageNum">3</fw>
                                                 <label>2.</label>
                                                 <item> berufliche Vertretungen, soweit sie nicht
@@ -461,9 +463,7 @@
                                           liegt innerhalb des bundesgesetzlich festgelegten Rahmens
                                           die nähere Ausführung der Landesgesetzgebung ob. Das
                                           Bundesgesetz kann für die Erlassung der Ausführungsgesetze
-                                          eine Frist bestimmen, die ohne Zu<pb facs="#facs_5" n="5"
-                                                xml:id="img_0005" break="no"/><fw type="pageNum"
-                                                >4</fw>stimmung des Bundesrates nicht kürzer als
+                                          eine Frist bestimmen, die ohne Zu<pb facs="#facs_5" n="5" xml:id="img_0005" break="no"/><fw type="pageNum">4</fw>stimmung des Bundesrates nicht kürzer als
                                           sechs Monate und nicht länger als ein Jahr sein darf. Wird
                                           diese Frist von einem Land nicht eingehalten, so geht die
                                           Zuständigkeit zur Erlassung des Ausführungsgesetzes für
@@ -586,9 +586,7 @@
                                           vollzogen. Durch Bundesgesetz können besondere
                                           Einrichtungen zur Erleichterung des Dienstwechsels
                                           geschaffen werden.</p>
-                                    <p type="legal_section"><pb facs="#facs_6" n="6"
-                                                xml:id="img_0006" break="yes"/><fw type="pageNum"
-                                                >5</fw><label>(5)</label> Amtstitel für die Organe
+                                    <p type="legal_section"><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><fw type="pageNum">5</fw><label>(5)</label> Amtstitel für die Organe
                                           des Bundes, der Länder und der Gemeinden können durch
                                           Bundesgesetz einheitlich festgesetzt werden. Sie sind
                                           gesetzlich geschützt. </p>
@@ -722,9 +720,7 @@
                                           <p type="legal_section">Zu einem Beschluß des
                                                 Nationalrates ist, soweit in diesem Gesetz nicht
                                                 anderes bestimmt ist die Anwesenheit von mindestens
-                                                einem Drittel der<pb facs="#facs_7" n="7"
-                                                  xml:id="img_0007" break="yes"/><fw type="pageNum"
-                                                  >6</fw>Mitglieder und die unbedingte Mehrheit der
+                                                einem Drittel der<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum">6</fw>Mitglieder und die unbedingte Mehrheit der
                                                 abgegebenen Stimmen erforderlich. </p>
                                     </div>
                                     <div type="article">
@@ -858,9 +854,7 @@
                                                 des Artikels 63. Absatz 2, des Artikels 64, Absatz
                                                 2, und des Artikels 68, Absatz 2 — vom
                                                 Bundespräsidenten einberufen. Der Vorsitz wird
-                                                abwechselnd vom Präsidenten des<pb facs="#facs_8"
-                                                  n="8" xml:id="img_0008" break="yes"/><fw
-                                                  type="pageNum">7</fw>Nationalrates und vom
+                                                abwechselnd vom Präsidenten des<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">7</fw>Nationalrates und vom
                                                 Vorsitzenden des Bundesrates, das erstemal von
                                                 jenem, geführt. </p>
                                           <p type="legal_section"><label>(2)</label> In der
@@ -996,9 +990,7 @@
                                                 beurkundet. </p>
                                           <p type="legal_section"><label>(2)</label> Die Vorlage zur
                                                 Veurkundung erfolgt durch den Bundeskanzler.</p>
-                                          <p type="legal_section"><pb facs="#facs_9" n="9"
-                                                  xml:id="img_0009" break="yes"/><fw type="pageNum"
-                                                  >8</fw><label>(3)</label> Die Beurkundung ist vom
+                                          <p type="legal_section"><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><fw type="pageNum">8</fw><label>(3)</label> Die Beurkundung ist vom
                                                 Bundeskanzler und von den zuständigen
                                                 Bundesministern gegenzuzeichnen. </p>
                                     </div>
@@ -1125,9 +1117,7 @@
                                                 bei Verübung eines Verbrechens ausgenommen — ohne
                                                 Zustimmung des Nationalrates verhaftet oder sonst
                                                 behördlich verfolgt werden.</p>
-                                          <p type="legal_section"><pb facs="#facs_10" n="10"
-                                                  xml:id="img_0010" break="yes"/><fw type="pageNum"
-                                                  >9</fw><label>(3)</label> Im Fall der Ergreifung
+                                          <p type="legal_section"><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><fw type="pageNum">9</fw><label>(3)</label> Im Fall der Ergreifung
                                                 auf frischer Tat hat die Behörde dem Präsidenten des
                                                 Nationalrates sogleich die geschehene Verhaftung
                                                 bekanntzugeben. </p>
@@ -1263,9 +1253,7 @@
                                                   Milderung und Umwandlung der von den Gerichten
                                                   ausgesprochenen Strafen, die Nachsicht von
                                                   Rechtsfolgen und die Tilgung von Verurteilungen im
-                                                  Gnadenweg, ferner die <pb facs="#facs_11" n="11"
-                                                  xml:id="img_0011" break="yes"/><fw type="pageNum"
-                                                  >10</fw>Niederschlagung des strafgerichtlichen
+                                                  Gnadenweg, ferner die <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><fw type="pageNum">10</fw>Niederschlagung des strafgerichtlichen
                                                   Verfahrens bei den von Amts wegen zu verfolgenden
                                                   strafbaren Handlungen:   </item>
                                                   <label>d) </label>
@@ -1401,9 +1389,7 @@
                                                 <head>Artikel 73. </head>
                                                 <p type="legal_section">Im Falle der zeitweiligen
                                                   Verhinderung eines Bundesministers betraut der
-                                                  Bundspräsident<pb facs="#facs_12" n="12"
-                                                  xml:id="img_0012" break="yes"/><fw type="pageNum"
-                                                  >11</fw>einen der Bundesminister oder einen
+                                                  Bundspräsident<pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><fw type="pageNum">11</fw>einen der Bundesminister oder einen
                                                   höheren Beamten eines Bundesamtes mit der
                                                   Vertretung. Dieser Vertreter trägt die gleiche
                                                   Verantwortung wie ein Bundesminister (Artikel 76).
@@ -1818,9 +1804,7 @@
                                                 Landesregierung aus. </p>
                                           <p type="legal_section"><label>(2)</label> Die Mitglieder
                                                 der Landesregierung müssen nicht dem Landtag
-                                                angehören. Jedoch kann in die<pb facs="#facs_15"
-                                                  n="15" xml:id="img_0015" break="yes"/><fw
-                                                  type="pageNum">14</fw>Landesregierung nur gewählt
+                                                angehören. Jedoch kann in die<pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/><fw type="pageNum">14</fw>Landesregierung nur gewählt
                                                 werden, wer zum Landtag wählbar ist. </p>
                                           <p type="legal_section"><label>(3)</label> Die
                                                 Landesregierung besteht aus dem Landeshauptmann der
@@ -2086,10 +2070,7 @@
                                           <p type="legal_section"><label>(4)</label> Die
                                                 Vertretungen können nach dem Grundsatz der
                                                 Verhältniswahl aus ihrer Mitte für die einzelnen
-                                                Zweige der Verwaltung besondere Ver<pb
-                                                  facs="#facs_17" n="17" xml:id="img_0017"
-                                                  break="no"/><fw type="pageNum"
-                                                >16</fw>waltungsausschüsse bestellen, die, soweit
+                                                Zweige der Verwaltung besondere Ver<pb facs="#facs_17" n="17" xml:id="img_0017" break="no"/><fw type="pageNum">16</fw>waltungsausschüsse bestellen, die, soweit
                                                 bestimmte Berufs= oder Interessentengruppen in
                                                 Betracht kommen, auch noch durch die Heranziehung
                                                 von Vertretern dieser Berufs= oder
@@ -2516,8 +2497,7 @@
                                     </div>
                                     <div type="article">
                                           <head>Artikel 146. </head>
-                                          <p type="legal_section">Die <emph><gap reason="illegible"
-                                                  /></emph>der Erkenntnisse des
+                                          <p type="legal_section">Die <emph><gap reason="illegible"/></emph>der Erkenntnisse des
                                                 Verfassungsgerichtshofes liegt dem Bundespräsidenten
                                                 ob. </p>
                                     </div>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__19">
   <teiHeader>
     <fileDesc>
@@ -60,7 +61,11 @@
         <idno type="bv_data_set">Datenset A</idno>
         <idno type="goobi">14543</idno>
       </publicationStmt>
-      <sourceDesc>
+      <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">2400</biblScope>
+</seriesStmt>
+<sourceDesc>
         <listWit>
           <witness sameAs="#bv_doc_id__28"/>
         </listWit>
@@ -218,8 +223,7 @@
               liegt, in eines der Länder erfolgt durch übereinstimmende Gesetze des Bundes und des
               betreffenden Landes. Die Änderung der Grenzen zweier Länder, die Teilung eines Landes,
               die Zusammenlegung mehrerer Länder erfolgt durch übereinstimmende Gesetze des Bundes
-              und der beteiligten Länder. <fw type="pageNum">- 1 -</fw><fw type="pageNum"
-              >663</fw></p>
+              und der beteiligten Länder. <fw type="pageNum">- 1 -</fw><fw type="pageNum">663</fw></p>
           </div>
           <div type="article">
             <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
@@ -385,9 +389,7 @@
             <p type="legal_section"> Jedes Land muß eine demokratische, republikanische Verfassung
               haben. Die politische Volksvertretung in Land und Gemeinde muß in allgemeiner,
               gleicher, unmittelbarer und geheimer Wahl nach den Grundsätzen der Verhältniswahl von
-              Männern und Frauen gewählt werden. Nur die Wahlberechtigung in die Gemeinde kann<fw
-                type="pageNum">- 3 -</fw><fw type="pageNum">664</fw><pb facs="#facs_5" n="5"
-                xml:id="img_0005" break="yes"/>durch die Bedingung des einjährigen Aufenthaltes in
+              Männern und Frauen gewählt werden. Nur die Wahlberechtigung in die Gemeinde kann<fw type="pageNum">- 3 -</fw><fw type="pageNum">664</fw><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>durch die Bedingung des einjährigen Aufenthaltes in
               der Gemeinde beschränkt werden.</p>
             <p type="legal_section"> Jedes Land muß um die Gewährleistung seiner Verfassung beim
               Bund ansuchen. </p>
@@ -518,8 +520,7 @@
               <p type="legal_section"> Alle Staatsbürger haben das Recht, sich unbewaffnet zu
                 versammeln. </p>
               <p type="legal_section">Versammlungen unter freiem Himmel bedürfen der Anmeldung und
-                können bei Gefahr für die öffentliche Sicherheit verboten werden.<fw type="pageNum"
-                  >- 5 -</fw><fw type="pageNum">665</fw></p>
+                können bei Gefahr für die öffentliche Sicherheit verboten werden.<fw type="pageNum">- 5 -</fw><fw type="pageNum">665</fw></p>
             </div>
             <div type="article">
               <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
@@ -648,10 +649,8 @@
               <head>Das Verhältnis der Gesamtheit zu den Wirtschaftsverhättnissen. </head>
               <p type="legal_section"> Die Ordnung des Wirtschaftslebens muß den Grundsätzen der
                 Gerechtigkeit mit dem Ziele der angemessenen Anteilnahme aller Schaffenden an dem
-                Ertrag der Volkswirtschaft entsprechen. <fw type="pageNum">- 7 -</fw><fw
-                  type="pageNum">666</fw></p>
-              <p type="legal_section"><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"
-                />Aufgabe des Staates ist es, alle wirtschaftlichen Kräfte zur größtmöglichen
+                Ertrag der Volkswirtschaft entsprechen. <fw type="pageNum">- 7 -</fw><fw type="pageNum">666</fw></p>
+              <p type="legal_section"><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>Aufgabe des Staates ist es, alle wirtschaftlichen Kräfte zur größtmöglichen
                 Leistung im Dienste der Gesamtheit zu entwickeln. </p>
               <p type="legal_section">Durch Bundesgesetz kann festgestellt werden, inwieweit zu
                 diesem Zwecke für gewisse wirtschaftliche Zweige die Vereinigung von Betrieben oder
@@ -852,8 +851,7 @@
                   Verwaltung des Bundes dient der Bundesrat. </p>
                 <p type="legal_section">Jedes Land entsendet drei vom Landtage für die Dauer von 4
                   Jahren gewählte Vertreter. Wenn die Bevölkerungszahl nach der letzten amtlichen
-                  Volkszählung 400.000 überschreitet, so gebührt <fw type="pageNum">- 10 -</fw><pb
-                    facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>dem Land für je weitere
+                  Volkszählung 400.000 überschreitet, so gebührt <fw type="pageNum">- 10 -</fw><pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>dem Land für je weitere
                   400.000 Einwohner ein weiterer Vertreter. Beträgt der Überschuß nicht volle
                   400.000, ist er aber so groß als die Einwohnerzahl des kleinsten Landes, so gilt
                   er für volle 400.000. </p>
@@ -929,8 +927,7 @@
                 <p type="legal_section">Der Bundestag besteht aus den Abgeordneten des
                   österreichischen Volkes. Die Abgeordneten werden in allgemeiner, gleicher,
                   unmittelbarer und geheimer Wahl nach dem Grundsatze der Ver<fw type="pageNum">- 11
-                    -</fw><fw type="pageNum">668</fw><pb facs="#facs_13" n="13" xml:id="img_0013"
-                    break="no"/>hältniswahl aus allen männlichen und weiblichen Staatsbürgern, die
+                    -</fw><fw type="pageNum">668</fw><pb facs="#facs_13" n="13" xml:id="img_0013" break="no"/>hältniswahl aus allen männlichen und weiblichen Staatsbürgern, die
                   im Vollgenusse der bürgerlichen Rechte stehen, gewählt. Das nähere bestimmt ein
                   Wahlgesetz. </p>
                 <p type="legal_section">Als Wahlprüfungsgericht hat das Bundesverfassungsbericht auf
@@ -1073,8 +1070,7 @@
                 Genehmigung durch den Bundespräsidenten oder ein Volksentscheid (Art. 62, Z. 1 und
                 2) und die Kundgebung im Staatsgesetzblatt erforderlich. <fw type="pageNum">- 13
                   -</fw></p>
-              <p type="legal_section"><fw type="pageNum">669</fw><pb facs="#facs_15" n="15"
-                  xml:id="img_0015" break="yes"/>Jeder Beschluß des Bundestages ist gleichzeitig dem
+              <p type="legal_section"><fw type="pageNum">669</fw><pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>Jeder Beschluß des Bundestages ist gleichzeitig dem
                 Bundesrat und dem Bundespräsidenten zur Kenntnis zu bringen. Gibt der
                 Bundespräsident binnen 4 Wochen keine Erklärung ab, so gilt der Beschluß des
                 Bundestages als genehmigt. </p>
@@ -1136,8 +1132,7 @@
               <head>Die Gesetzgebung der Lände</head>
               <p type="legal_section">Zu einem Landesgesetz ist der Beschluß des Landtages, die
                 Genehmigung und Beurkundung durch den Landeshauptmann sowie die Kundmachung im
-                Landesgesetzblatt erforderlich. Wird<fw type="pageNum"> - 14 -</fw><pb
-                  facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>die Genehmigung verweigert,
+                Landesgesetzblatt erforderlich. Wird<fw type="pageNum"> - 14 -</fw><pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>die Genehmigung verweigert,
                 der Beschluß aber vom Landtag wiederholt, so kann der Bundespräsident den Landtag
                 auflösen; es müssen aber die Neuwahlen sofort ausgeschrieben und der neu gewählte
                 Landtag unverzüglich einberufen werden. </p>
@@ -1350,8 +1345,7 @@
             <div type="article">
               <head>Art. 86. </head>
               <p type="legal_section">Die ordentliche Gerichtsbarkeit wird vom Bundesgerichte und
-                den Gerichten der Länder ausgeübt.<fw type="pageNum">- 17 -</fw><fw type="pageNum"
-                  >672</fw></p>
+                den Gerichten der Länder ausgeübt.<fw type="pageNum">- 17 -</fw><fw type="pageNum">672</fw></p>
               <p type="legal_section"><pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/>In
                 jedem Lande ist ein Landesgericht zu errichten. </p>
               <p type="legal_section">In Justizverwaltungssachen unterstehen die Gerichte des Landes
@@ -1414,8 +1408,7 @@
                 und räuberischer Tötung zulässig. </p>
               <p type="legal_section">Die Gerichtsbarkeit in erster Instanz wird von Einzelrichtern
                 Schöffengerichten und Geschwornengerichten ausgeübt. Die Geschwornen haben über die
-                Schuld der Angeklagten zu entscheiden<fw type="pageNum">- 18 -</fw><pb
-                  facs="#facs_20" n="20" xml:id="img_0020" break="yes"/>und bei Bemessung der Strafe
+                Schuld der Angeklagten zu entscheiden<fw type="pageNum">- 18 -</fw><pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/>und bei Bemessung der Strafe
                 mitzuwirken. Über politische Verbrechen und Vergehen können nur Geschwornengerichte
                 entscheiden. </p>
             </div>

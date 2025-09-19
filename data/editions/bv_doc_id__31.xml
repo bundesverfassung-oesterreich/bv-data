@@ -61,14 +61,17 @@
                 <idno type="bv_data_set">Datenset A</idno>
                 <idno type="goobi">14566</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">0800</biblScope>
+</seriesStmt>
+<sourceDesc>
                         <listWit>
                               <witness sameAs="#bv_doc_id__66"/>
                         </listWit>
                 <msDesc type="invetory" subtype="secondary">
                               <msIdentifier>
-                                    <institution key="https://d-nb.info/gnd/37748-X"
-                                          >Österreichisches Staatsarchiv</institution>
+                                    <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
                                     <repository key="https://d-nb.info/gnd/1601181-8">Archiv der
                                           Republik (Wien)</repository>
                                     <idno type="archive">AdR, Büro Seitz, Karton 7</idno>
@@ -137,9 +140,7 @@
                                     als eine demokratische Republik, deren öffentliche Gewalten vom
                                     Volke eingesetzt werden, sowie als ein Bestandteil des Deutschen
                                     Reiches erklärt wird. Der ganze verfassungsmäßige Aufbau dieser
-                                    demokratischen Republik wurde der weiteren Tätigkeit der<pb
-                                          facs="#facs_4" n="4" xml:id="img_0004" break="yes"
-                                    />konstituierenden Nationalversammlung vorbehalten. Das neue
+                                    demokratischen Republik wurde der weiteren Tätigkeit der<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>konstituierenden Nationalversammlung vorbehalten. Das neue
                                     Verfassungswerk hat selbst die wichtigste Grundfrage, ob der
                                     neue Freistaat auf zentralistischer oder föderalistischer
                                     Grundlage aufzubauen sei, erst zu lösen. Hierüber ist die eheste
@@ -162,8 +163,7 @@
                                     schweizerischen Eidgenossenschaft und der Vereinigten Staaten
                                     von Nordamerika unternehmen. Der wahre Volksstaat kann in
                                     Wirklichkeit, wenn man tiefer blickt, nur durch die reine
-                                          Demokra¬<pb facs="#facs_5" n="5" xml:id="img_0005"
-                                          break="yes"/><fw type="pageNum">5</fw>tie, die
+                                          Demokra¬<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><fw type="pageNum">5</fw>tie, die
                                     ausschließlich in der Eigenstaatlichkeit der Länder liegt, durch
                                     die Teilnahme des ganzen Volkes an der öffentlichen Verwaltung
                                     verwirklicht werden. Nur die Länder können bleibend die Heimat
@@ -187,9 +187,7 @@
                                     pragmatischen Sanktion ihre volle freie Selbstbestimmung und
                                     selbstständigkeit wiedererlangt haben, können sich nicht länger
                                     durch verfehlte und widernatürliche verfassungsrechtliche
-                                    experimente, wie es die untaugliche<pb facs="#facs_6" n="6"
-                                          xml:id="img_0006" break="yes"/><fw type="pageNum"
-                                    >6</fw>staatliche und autonome Doppelverwaltung des letzten
+                                    experimente, wie es die untaugliche<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><fw type="pageNum">6</fw>staatliche und autonome Doppelverwaltung des letzten
                                     halben Jahrhunderts war, oder ein neues rein zentralistisches
                                     System sein müßte, in ihrer natürlichen Entwicklung hemmen und
                                     unterdrücken lassen. Sie haben ein heiliges Recht, wenn sie
@@ -219,8 +217,7 @@
                                           Bundesfreistaat Oesterreich umfaßt das Gebiet der
                                           selbständigen Länder Oesterreich unter der Enns,
                                           Oesterreich ob der Enns, Salzburg, Steiermark, Kärnten,
-                                                Tirol,<pb facs="#facs_7" n="7" xml:id="img_0007"
-                                                break="yes"/><fw type="pageNum">7</fw>Vorarlberg,
+                                                Tirol,<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum">7</fw>Vorarlberg,
                                           Heinzenland, sowie das Gebiet der Freistadt Wien, und zwar
                                           in ihrem gegenwärtigen Umfange. </p>
                                     <p type="legal_section"><label>(2)</label> Die Grenzen der
@@ -263,9 +260,7 @@
                                           Bundesverfassung eingeschränkt ist; sie üben als solch
                                           alle Rechte aus, welche nicht durch die Bundesverfassung
                                           der Bundesgewalt übertragen sind.</p>
-                                    <p type="legal_section"><pb facs="#facs_8" n="8"
-                                                xml:id="img_0008" break="yes"/><fw type="pageNum"
-                                                >8</fw><label>(2)</label> Die verfassungsmäßig
+                                    <p type="legal_section"><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">8</fw><label>(2)</label> Die verfassungsmäßig
                                           zustandegekommenen Bundesgesetze binden alle Länder. </p>
                               </div>
                               <div type="article">
@@ -360,9 +355,7 @@
                                     <head>Artikel 14. </head>
                                     <p type="legal_section"><label>(1)</label> Der Wirkungskreis der
                                           Bundesgewalt umfaßt alle Angelegenheiten, die sich auf
-                                          Rechte, Pflichten und Interessen be<pb facs="#facs_10"
-                                                n="10" xml:id="img_0010" break="yes"/><fw
-                                                type="pageNum">10</fw> ziehen, welche den Ländern
+                                          Rechte, Pflichten und Interessen be<pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><fw type="pageNum">10</fw> ziehen, welche den Ländern
                                           des Bundesfreistaates gemeinschaftlich sind. </p>
                                     <p type="legal_section"><label>(2)</label> Diese Angelegenheiten
                                           sind: <list>
@@ -414,9 +407,7 @@
                                                 <label> k) </label>
                                                 <item>ferner der Regelung des Handels= und
                                                   Wechselrechtes, das Patentwesen, Marken= und
-                                                  Musterschutz, der Schutz des<pb facs="#facs_11"
-                                                  n="11" xml:id="img_0011" break="yes"/><fw
-                                                  type="pageNum">11</fw> die geistigen Eigentums,
+                                                  Musterschutz, der Schutz des<pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><fw type="pageNum">11</fw> die geistigen Eigentums,
                                                   das Münz= und Währungswesen, Bundesbank, das
                                                   Punzierungswesen, Maß= und Gewicht, dass
                                                   Zollwesen;  </item>
@@ -518,9 +509,7 @@
                                                   Verhältniswahlverfahren in das Ständehaus
                                                   Wahlberechtigt ist jedes Mitglied des Landtages.
                                                   Wählbar ist jeder zum Landtage Wahlberechtigte,
-                                                  der das 30. Lebensjahr vollendet hat.<pb
-                                                  facs="#facs_13" n="13" xml:id="img_0013"
-                                                  break="yes"/><fw type="pageNum">13</fw>
+                                                  der das 30. Lebensjahr vollendet hat.<pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><fw type="pageNum">13</fw>
                                                   </item>
                                                   <label>2. </label>
                                                   <item> Ebenso entsenden die Räteorganisationen als
@@ -570,9 +559,7 @@
                                                   <item>die jährliche Prüfung und Genehmigung der
                                                   Führung des Bundeshaushaltes und der
                                                   Rechnungsabschlüsse; die jährliche Bewilligung der
-                                                  Steuern und Abgaben;<pb facs="#facs_14" n="14"
-                                                  xml:id="img_0014" break="yes"/><fw type="pageNum"
-                                                  >14</fw>
+                                                  Steuern und Abgaben;<pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><fw type="pageNum">14</fw>
                                                   </item>
                                                   <label>d) </label>
                                                   <item>die Gesetzgebung über Errichtung, Einrichtug
@@ -625,8 +612,7 @@
                                                   steht die Institative auch beim Volke.</p>
                                           </div>
                                           <div type="article">
-                                                <pb facs="#facs_15" n="15" xml:id="img_0015"
-                                                  break="yes"/>
+                                                <pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>
                                                 <fw type="pageNum">15</fw>
                                                 <head>Artikel 24. </head>
                                                 <p type="legal_section">Vorlagen der Bundesregierung
@@ -675,9 +661,7 @@
                                                 <p type="legal_section"><label>(4)</label> Alle
                                                   Angelegenheiten des Wirkungskreises der
                                                   Volksvertretung, welche nicht in gemeinsamer
-                                                  Sitzung beider<pb facs="#facs_16" n="16"
-                                                  xml:id="img_0016" break="yes"/><fw type="pageNum"
-                                                  >16</fw> Kammern erledigt werden, sind von der
+                                                  Sitzung beider<pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/><fw type="pageNum">16</fw> Kammern erledigt werden, sind von der
                                                   erstberatenden Kammer der anderen zu eigener
                                                   Behandlung zu übermitteln. </p>
                                           </div>
@@ -727,8 +711,7 @@
                                                   Entscheidung vorzulegen.</p>
                                           </div>
                                           <div type="article">
-                                                <pb facs="#facs_17" n="17" xml:id="img_0017"
-                                                  break="yes"/>
+                                                <pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>
                                                 <fw type="pageNum">17</fw>
                                                 <head>Artikel 28. </head>
                                                 <p type="legal_section"><label>(1)</label> Die
@@ -779,9 +762,7 @@
                                                 <p type="legal_section"><label>(3)</label> Wenn das
                                                   Volk die totalrevision der Bundesverfassung
                                                   fordert, wird die Volksvertretung auch vor Ablauf
-                                                  der Wahl<pb facs="#facs_18" n="18"
-                                                  xml:id="img_0018" break="yes"/><fw type="pageNum"
-                                                  >18</fw> periode vom Präsidenten des
+                                                  der Wahl<pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/><fw type="pageNum">18</fw> periode vom Präsidenten des
                                                   Bundesfreistaates aufgelöst und es finden
                                                   Neuwahlen statt. (Art. 40 und 42.) </p>
                                                 <p type="legal_section"><label>(4)</label> Gewesene
@@ -831,8 +812,7 @@
                                                   Entschließungen Ausdruck zu verleihen. </p>
                                           </div>
                                           <div type="article">
-                                                <pb facs="#facs_19" n="19" xml:id="img_0019"
-                                                  break="yes"/>
+                                                <pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/>
                                                 <fw type="pageNum">19</fw>
                                                 <head>Artikel 33. </head>
                                                 <p type="legal_section">Die Ausübung der Kontrolle
@@ -887,9 +867,7 @@
                                                   <item>über alle jene Angelegenheiten der
                                                   bundesstaatlichen Gesetzgebung, die von mindestens
                                                   200.000 Stimmberechtigten oder von der Mehrheit
-                                                  der Stimmberechtigten<pb facs="#facs_20" n="20"
-                                                  xml:id="img_0020" break="yes"/><fw type="pageNum"
-                                                  >20</fw> dreier Länder für die Volksabstimmung
+                                                  der Stimmberechtigten<pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/><fw type="pageNum">20</fw> dreier Länder für die Volksabstimmung
                                                   innerhalb 6 Wochen nach dem Tage des
                                                   Inkrafttretens des Gesetzes verlangt werden.
                                                   </item>
@@ -947,9 +925,7 @@
                                                 jeder Staatsbürger, der nach dem Wahlgesetze zum
                                                 Volkshause wahlberechtigt ist und das 40. Lebensjahr
                                                 vollendet hat. </p>
-                                          <p type="legal_section"><pb facs="#facs_21" n="21"
-                                                  xml:id="img_0021" break="yes"/><fw type="pageNum"
-                                                  >21</fw><label>(3)</label> Präsident und
+                                          <p type="legal_section"><pb facs="#facs_21" n="21" xml:id="img_0021" break="yes"/><fw type="pageNum">21</fw><label>(3)</label> Präsident und
                                                 Vizepräsâdent müssen verschiedenen Ländern angehören
                                                 und dürfen während ihrer Amtsdauer kein anderes
                                                 öffentliches Amt bekleiden und nicht Mitglieder
@@ -1058,9 +1034,7 @@
                                           <head>Artikel 46. </head>
                                           <p type="legal_section">Die Gesetzgebung über alle
                                                 Gegenstände, die nach dieser Verfassung der
-                                                Landesgesetzgebung unterliegen (Art. 14 bis 16),<pb
-                                                  facs="#facs_23" n="23" xml:id="img_0023"
-                                                  break="yes"/><fw type="pageNum">23</fw> wird von
+                                                Landesgesetzgebung unterliegen (Art. 14 bis 16),<pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"/><fw type="pageNum">23</fw> wird von
                                                 den Landtagen der einzelnen selbständigen Länder
                                                 nach den jeweils geltenden Landesverfassungen und
                                                 den durch Landesgesetze eingeführten
@@ -1117,9 +1091,7 @@
                                           <p type="legal_section"><label>(3)</label> Die Anfechtung
                                                 ist der Landesregierung unverzüglich
                                                 mitzuteilen.</p>
-                                          <p type="legal_section"><pb facs="#facs_24" n="24"
-                                                  xml:id="img_0024" break="yes"/><fw type="pageNum"
-                                                  >24</fw>
+                                          <p type="legal_section"><pb facs="#facs_24" n="24" xml:id="img_0024" break="yes"/><fw type="pageNum">24</fw>
                                                 <label>(4)</label> Die Kundmachung des angefochtenen
                                                 Beschlusses darf erst erfolgen, wenn der
                                                 Verfaffungsgerichtshof die Verfassungsmäßigkeit

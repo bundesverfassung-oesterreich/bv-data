@@ -30,13 +30,11 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372"
-                        >Peter Andorfer </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X"
-                        >Carl Friedrich Haak </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -63,7 +61,11 @@
                 <idno type="bv_data_set">Datenset B</idno>
                 <idno type="goobi">14602</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset B</title>
+<biblScope unit="part">2600</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
@@ -112,174 +114,106 @@
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
         <surface ulx="0" uly="0" lrx="3068" lry="4792" xml:id="facs_2">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0134/full/full/0/default.jpg"
-                width="3068px" height="4792px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0134/full/full/0/default.jpg" width="3068px" height="4792px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3053" lry="4833" xml:id="facs_3">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0135/full/full/0/default.jpg"
-                width="3053px" height="4833px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0135/full/full/0/default.jpg" width="3053px" height="4833px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3068" lry="4807" xml:id="facs_4">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0136/full/full/0/default.jpg"
-                width="3068px" height="4807px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0136/full/full/0/default.jpg" width="3068px" height="4807px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3045" lry="4861" xml:id="facs_5">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0137/full/full/0/default.jpg"
-                width="3045px" height="4861px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0137/full/full/0/default.jpg" width="3045px" height="4861px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3066" lry="4816" xml:id="facs_6">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0138/full/full/0/default.jpg"
-                width="3066px" height="4816px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0138/full/full/0/default.jpg" width="3066px" height="4816px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3025" lry="4833" xml:id="facs_7">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0140/full/full/0/default.jpg"
-                width="3025px" height="4833px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0140/full/full/0/default.jpg" width="3025px" height="4833px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3110" lry="4874" xml:id="facs_8">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0141/full/full/0/default.jpg"
-                width="3110px" height="4874px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0141/full/full/0/default.jpg" width="3110px" height="4874px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3029" lry="4821" xml:id="facs_9">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0142/full/full/0/default.jpg"
-                width="3029px" height="4821px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0142/full/full/0/default.jpg" width="3029px" height="4821px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3068" lry="4828" xml:id="facs_10">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0143/full/full/0/default.jpg"
-                width="3068px" height="4828px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0143/full/full/0/default.jpg" width="3068px" height="4828px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3025" lry="4813" xml:id="facs_11">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0144/full/full/0/default.jpg"
-                width="3025px" height="4813px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0144/full/full/0/default.jpg" width="3025px" height="4813px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3054" lry="4822" xml:id="facs_12">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0145/full/full/0/default.jpg"
-                width="3054px" height="4822px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0145/full/full/0/default.jpg" width="3054px" height="4822px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3031" lry="4860" xml:id="facs_13">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0146/full/full/0/default.jpg"
-                width="3031px" height="4860px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0146/full/full/0/default.jpg" width="3031px" height="4860px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3055" lry="4834" xml:id="facs_14">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0147/full/full/0/default.jpg"
-                width="3055px" height="4834px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0147/full/full/0/default.jpg" width="3055px" height="4834px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3066" lry="4974" xml:id="facs_15">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0148/full/full/0/default.jpg"
-                width="3066px" height="4974px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0148/full/full/0/default.jpg" width="3066px" height="4974px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3045" lry="4906" xml:id="facs_16">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0149/full/full/0/default.jpg"
-                width="3045px" height="4906px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0149/full/full/0/default.jpg" width="3045px" height="4906px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3024" lry="4960" xml:id="facs_17">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0150/full/full/0/default.jpg"
-                width="3024px" height="4960px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0150/full/full/0/default.jpg" width="3024px" height="4960px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3065" lry="4931" xml:id="facs_18">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0151/full/full/0/default.jpg"
-                width="3065px" height="4931px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0151/full/full/0/default.jpg" width="3065px" height="4931px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3028" lry="4965" xml:id="facs_19">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0152/full/full/0/default.jpg"
-                width="3028px" height="4965px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0152/full/full/0/default.jpg" width="3028px" height="4965px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3051" lry="4947" xml:id="facs_20">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0153/full/full/0/default.jpg"
-                width="3051px" height="4947px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0153/full/full/0/default.jpg" width="3051px" height="4947px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3089" lry="4949" xml:id="facs_21">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0154/full/full/0/default.jpg"
-                width="3089px" height="4949px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0154/full/full/0/default.jpg" width="3089px" height="4949px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3126" lry="4933" xml:id="facs_22">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0155/full/full/0/default.jpg"
-                width="3126px" height="4933px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0155/full/full/0/default.jpg" width="3126px" height="4933px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3101" lry="4969" xml:id="facs_23">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0156/full/full/0/default.jpg"
-                width="3101px" height="4969px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0156/full/full/0/default.jpg" width="3101px" height="4969px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3128" lry="4910" xml:id="facs_24">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0157/full/full/0/default.jpg"
-                width="3128px" height="4910px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0157/full/full/0/default.jpg" width="3128px" height="4910px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3110" lry="4965" xml:id="facs_25">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0158/full/full/0/default.jpg"
-                width="3110px" height="4965px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0158/full/full/0/default.jpg" width="3110px" height="4965px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3127" lry="4883" xml:id="facs_26">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0159/full/full/0/default.jpg"
-                width="3127px" height="4883px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0159/full/full/0/default.jpg" width="3127px" height="4883px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3094" lry="4970" xml:id="facs_27">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0160/full/full/0/default.jpg"
-                width="3094px" height="4970px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0160/full/full/0/default.jpg" width="3094px" height="4970px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3114" lry="4888" xml:id="facs_28">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0161/full/full/0/default.jpg"
-                width="3114px" height="4888px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0161/full/full/0/default.jpg" width="3114px" height="4888px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3067" lry="4983" xml:id="facs_29">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0162/full/full/0/default.jpg"
-                width="3067px" height="4983px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0162/full/full/0/default.jpg" width="3067px" height="4983px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3127" lry="4870" xml:id="facs_30">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0163/full/full/0/default.jpg"
-                width="3127px" height="4870px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0163/full/full/0/default.jpg" width="3127px" height="4870px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3059" lry="4921" xml:id="facs_31">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0164/full/full/0/default.jpg"
-                width="3059px" height="4921px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0164/full/full/0/default.jpg" width="3059px" height="4921px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3141" lry="4875" xml:id="facs_32">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0165/full/full/0/default.jpg"
-                width="3141px" height="4875px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0165/full/full/0/default.jpg" width="3141px" height="4875px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3068" lry="4946" xml:id="facs_33">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0166/full/full/0/default.jpg"
-                width="3068px" height="4946px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0166/full/full/0/default.jpg" width="3068px" height="4946px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3124" lry="4910" xml:id="facs_34">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0167/full/full/0/default.jpg"
-                width="3124px" height="4910px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0167/full/full/0/default.jpg" width="3124px" height="4910px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3125" lry="4912" xml:id="facs_35">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0168/full/full/0/default.jpg"
-                width="3125px" height="4912px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__53/files/images/IMG_0168/full/full/0/default.jpg" width="3125px" height="4912px"/>
         </surface>
     </facsimile>
     <text type="Sitzungsprotokoll">
@@ -342,8 +276,7 @@
                     Eingang folgendermaßen zu formulieren: Bundessache ist die Gesetzgebung über die
                     Grundsätze, Landessache ...........“ Der Punkt „Wasserrecht“ der die Ziffer 6a
                     erhalten soll, wird gleichfalls den Parteibesprechungen vorbehalten. Zu Punkt 7
-                    wird die einfache For<pb facs="#facs_4" n="4" xml:id="img_0004" break="no"/><fw
-                        type="pageNum">- 3 -</fw>mulierung „Bauwesen“ zum Beschluss erhoben. Im
+                    wird die einfache For<pb facs="#facs_4" n="4" xml:id="img_0004" break="no"/><fw type="pageNum">- 3 -</fw>mulierung „Bauwesen“ zum Beschluss erhoben. Im
                     Punkt 8 wird auf Beschluß des Ausschusses das Wort „Organe“ durch „Angestellten“
                     ersetzt.</p>
                 <p>Im Artikel 13 wird das erste Wort „Wenn“ durch „Soweit“ ersetzt und in der
@@ -370,8 +303,7 @@
                     haben die beteiligten Länder zunächst einvernehmlich vorzugehen. Falls sie sich
                     nicht einigen können, geht die Zuständigkeit zu einem solchen Akt auf Antrag
                     eines Landes an das zuständige Bundesministerium über. Das Nähere können die
-                    nach den<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><fw
-                        type="pageNum">- 4 -</fw> Art. 11 und 12 ergehenden Bundesgesetze regeln.“
+                    nach den<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><fw type="pageNum">- 4 -</fw> Art. 11 und 12 ergehenden Bundesgesetze regeln.“
                     Abgeordneter <emph>Danneberg</emph> bemerkt, daß die neue Formulierung eine
                     meritorische Aenderung zu Ungunsten der Bundeskompetenz bedeute und Abgeordneter
                         <emph>Bauer</emph> stellt fest, dass die Worte: „für mehrere Länder wirksam
@@ -397,8 +329,7 @@
                     Staatskanzlei gemachten Vorschlages, Punkt 6 erhält Ziffer 5.</p>
                 <p>Art. 13 a wird in der folgenden von Min. Rat. Dr. <emph>Fröhlich</emph>
                     vorgeschlagen veränderten Fassung zum Beschluß erhoben: „(1) Die Länder sind
-                    verpflichtet, Massnahmen zu tref<pb facs="#facs_6" n="6" xml:id="img_0006"
-                        break="no"/><fw type="pageNum">- 5 -</fw>fen, die in ihrem selbständigen
+                    verpflichtet, Massnahmen zu tref<pb facs="#facs_6" n="6" xml:id="img_0006" break="no"/><fw type="pageNum">- 5 -</fw>fen, die in ihrem selbständigen
                     Wirkungsbereich zur Durchführung von Staatsverträgen erforderlich werden; kommt
                     ein Land dieser Verpflichtung nicht rechtzeitig nach, so geht die Zuständigkeit
                     zu solchen Massnahmen, insbesondere auch zur Erlassung der notwendigen Gesetze,
@@ -423,8 +354,7 @@
                         <emph>Fröhlich</emph> bemerkt hiezu, daß in verschiedenen Zentralstellen
                     Besorgnisse entstanden seien, ob die in diesem Artikel vorgesehenen
                     Unternehmungen und Veranstaltungen des Bundes in den Ländern, z. B. die
-                    Abhaltung einer Ausstellung und ähnliches <pb facs="#facs_7" n="7"
-                        xml:id="img_0007" break="yes"/><fw type="pageNum">- 6 -</fw> mangels einer
+                    Abhaltung einer Ausstellung und ähnliches <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum">- 6 -</fw> mangels einer
                     solchen ausdrücklichen verfassungsmäßigen Legitimation möglich seien. Der
                     Vorsitzende erklärt einen solchen Zusatz, wofern in dieser Richtung Zweifel
                     bestünden, für erwünscht, Professor Dr. <emph>Seipel</emph> und Dr.
@@ -452,8 +382,7 @@
                 <p>Im Artikel 14 d wird das Wort „Organe“ an vier Stellen durch das Wort
                     „Angestellten“ ersetzt. Nach dem 1. Absatz wird folgende Zitierung
                     eingeschaltet: (Artikel 10,Zl.15, und Artikel 12,Zl.8). „Im 3. Absatz treten an
-                    Stelle der Worte: „durch die<pb facs="#facs_8" n="8" xml:id="img_0008"
-                        break="yes"/><fw type="pageNum">- 7 -</fw> Gesetze über die“ die Worte „im
+                    Stelle der Worte: „durch die<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">- 7 -</fw> Gesetze über die“ die Worte „im
                     Zusammenhang mit der“. Absatz 4 und 5 des Artikels 14 d werden gemäß einer von
                     Min.Rat Dr. <emph>Fröhlich</emph> gegebenen Anregung unter Berücksichtigung
                     einer von Professor Dr. <emph>Seipel</emph> beantragten Modifikation in
@@ -480,8 +409,7 @@
                     einige stilistische Aenderungen des 1. Absatzes beschlossen. Zum zweiten Absatz
                     beantragt Abgeordneter <emph>Clessin</emph> die Statuierung der primären Haftung
                     der dort genannten öffentlichen Körperschaften für die Rechtsverletzungen
-                        ihrer<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><fw
-                        type="pageNum">- 8 -</fw> Angestellten und Funktionäre. Der Unterausschuß
+                        ihrer<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><fw type="pageNum">- 8 -</fw> Angestellten und Funktionäre. Der Unterausschuß
                     lehnt diesen Antrag ab, beschließt jedoch die Streichung jener Einschränkungen,
                     wonach der Geschädigte nur dann die öffentlichen Körperschaften haftbar machen
                     kann, wenn er von deren Angestellten und sonstigen Funktionären keinen
@@ -508,8 +436,7 @@
                     das Wort „unmittelbaren“ eingeschaltet. Der zweite Absatz erhält auf Vorschlag
                     des Professors <emph>Kelsen</emph> folgende Formulierung: „(2) Das Bundesgebiet
                     wird innerhalb der Landesgrenzen in räumlich geschlossene Wahlkreise geteilt.
-                    Die Zahl der Abgeordneten ist auf die Wahlberechtigten ei<pb facs="#facs_10"
-                        n="10" xml:id="img_0010" break="no"/><fw type="pageNum">- 9 -</fw>nes
+                    Die Zahl der Abgeordneten ist auf die Wahlberechtigten ei<pb facs="#facs_10" n="10" xml:id="img_0010" break="no"/><fw type="pageNum">- 9 -</fw>nes
                     Wahlkreises (Wahlkörper) im Verhältnis der Bürgerzahl der Wahlkreise, d. i. der
                     Zahl der Bundesbürger zu verteilen, die nach dem Ergebnis der letzten
                     Volkszählung in den Wahlkreisen ihren ordentlichen Wohnsitz hatten. Eine
@@ -566,8 +493,7 @@
                     Artikel 26 a vereinigt. Im bisherigen Absatz 6 wird das Wort „delegierten“ durch
                     das Wort „entsendeten“ ersetzt. Der Absatz 7, wonach die Mitglieder des
                     Bundesrates bei der Ausübung ihres Mandates an keinen Auftrag gebunden sind,
-                    wird an dieser Stelle gestrichen. Ueber den 1. Absatz des Art. 26 a<pb
-                        facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><fw type="pageNum">-
+                    wird an dieser Stelle gestrichen. Ueber den 1. Absatz des Art. 26 a<pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><fw type="pageNum">-
                         11 -</fw> wird auf Antrag des Professors <emph>Seipel</emph> getrennt
                     abgestimmt. Die Worte bis „... gewählt“ werden einstimmig angenommen. Der
                     Zusatz: „jedoch muss wenigstens ein Mandat der Partei zufallen, welche die
@@ -596,8 +522,7 @@
                     Professors <emph>Kelsen</emph> werden der 2. bis 5. Absatz des Art. 29 a in
                     etwas veränderter Fassung und Reihenfolge in einen neuen Art. 29 aa
                     zusammengefasst. Der neue Artikel 29 aa erhält folgenden Wortlaut: „(1) Die
-                        Bundesversamm<pb facs="#facs_13" n="13" xml:id="img_0013" break="no"/><fw
-                        type="pageNum">- 12 -</fw>lung wird — abgesehen von den Fällen des Artikels
+                        Bundesversamm<pb facs="#facs_13" n="13" xml:id="img_0013" break="no"/><fw type="pageNum">- 12 -</fw>lung wird — abgesehen von den Fällen des Artikels
                     52, Absatz 2, des Artikels 53, Absatz 2, und des Artikels 57, Absatz 2 — vom
                     Bundespräsidenten einberufen. Der Vorsitz wird abwechselnd vom Präsidenten des
                     Nationalrates und vom Vorsitzenden des Bundesrates, das erstemal von jenem,
@@ -654,8 +579,7 @@
                     „verhaftet oder“ vor den Worten „behördlich verfolgt werden“ aus dem Grunde zu
                     streichen, weil die Verhaftung nur eine Form der behördlichen Verfolgung sei,
                     der Unterausschuss macht sich jedoch diese Anregung nicht zu eigen. Hingegen
-                    werden auf Anregung des Prof. <emph>Kelsen</emph> im 2. Absatz die<pb
-                        facs="#facs_15" n="15" xml:id="img_0015" break="yes"/><fw type="pageNum">-
+                    werden auf Anregung des Prof. <emph>Kelsen</emph> im 2. Absatz die<pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/><fw type="pageNum">-
                         14 -</fw> Worte „während der Gesetzgebungsperiode“ gestrichen, das Wort „der
                     Verhaft“ durch das Wort „die Haft“ ersetzt und nach dem Worte „Verfolgung“ das
                     Wort „überhaupt“ eingeschaltet.</p>
@@ -710,8 +634,7 @@
                     Ressortübereinkommen sanktioniert, und damit zugleich die innerstaatliche
                     Regelung dieser Materie mit der völkerrechtlichen Praxis in Einklang gebracht
                     werden. — Im bisherigen Text desselben Artikels, der nunmehr die Absatzziffer 1
-                    erhält, wird das Wort „ressortmäßig" ge<pb facs="#facs_17" n="17"
-                        xml:id="img_0017" break="no"/>
+                    erhält, wird das Wort „ressortmäßig" ge<pb facs="#facs_17" n="17" xml:id="img_0017" break="no"/>
                     <fw type="pageNum">- 16 -</fw>strichen.</p>
                 <p>Artikel 57 erhält auf übereinstimmenden Vorschlag des Ministerialrates
                         <emph>Froehlich</emph> und des Professor<add>s</add>
@@ -739,8 +662,7 @@
                         <emph>Seipel</emph> ist ebenfalls für die Beibehaltung einer derartigen
                     Bestimmung, möchte jedoch dem Erfordernisse einer Neuwahl der Regierung durch
                     den zusammentretenden Nationalrat vor der anderen Möglichkeit einer blossen
-                    Vertrauenserteilung an die vom Haupt<pb facs="#facs_18" n="18" xml:id="img_0018"
-                        break="no"/>
+                    Vertrauenserteilung an die vom Haupt<pb facs="#facs_18" n="18" xml:id="img_0018" break="no"/>
                     <fw type="pageNum">- 17 -</fw>ausschuss bestellte Regierung den Vorzug geben.
                     Der Absatz wird schliesslich in folgender Fassung beschlossen: (3) Ist der
                     Nationalrat nicht versammelt, so wird die Bundesreg<add>ie</add>rung vorläufig
@@ -770,8 +692,7 @@
                 <p>Zu Artikel 73 bemerkt Ministerialrat <emph>Froehlich</emph>, dass nach der
                     gegenwärtigen Formulierung des dritten Absatzes Ausnahmsgerichte nur über
                     Zivilpersonen und nicht auch über Militärpersonen judizieren können. Der
-                    Ausdruck „in der Strafprozessordnung“ sei nämlich zu eng und müsse zweckmässi<pb
-                        facs="#facs_19" n="19" xml:id="img_0019" break="no"/>
+                    Ausdruck „in der Strafprozessordnung“ sei nämlich zu eng und müsse zweckmässi<pb facs="#facs_19" n="19" xml:id="img_0019" break="no"/>
                     <fw type="pageNum">- 18 -</fw>gerweise durch den Ausdruck „durch die Gesetze
                     über das Verfahren in Strafsachen“ ersetzt werden. - Der vierte Absatz wird
                     gestrichen, um im Hauptstück über die Verfassungsgarantien Aufnahme zu
@@ -800,8 +721,7 @@
                         <emph>Clessin</emph> abgelehnt.</p>
                 <p>Professor <emph>Kelsen</emph> schlägt die Eliminierung des Artikels 84 vor und
                     bemerkt, dass mehrere der vorliegenden wissenschaftlichen Gutachten feststellen,
-                    dass namentlich dem zweiten<pb facs="#facs_20" n="20" xml:id="img_0020"
-                        break="yes"/>
+                    dass namentlich dem zweiten<pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/>
                     <fw type="pageNum">- 19 -</fw> Absatze des Artikels 84 eine praktische Bedeutung
                     mangle. Ministerialrat <emph>Froehlich</emph> spricht sich für die Beibehaltung
                     dieses Artikels aus, da die blosse Tatsache der Streichung dieses schon in der
@@ -856,8 +776,7 @@
                     Länder wird die Vollziehung des Bundes, soweit nicht eigene Bundesbehörden
                     bestehen (unmittelbare Bundesverwaltung), durch den Landeshauptmann und die ihm
                     unterstellten Landesbehörden ausgeübt (mittelbare Bundesverwaltung)“. Zum
-                    zweiten Absatz äussert der Vorsitzende Bedenken wegen der<pb facs="#facs_22"
-                        n="22" xml:id="img_0022" break="yes"/>
+                    zweiten Absatz äussert der Vorsitzende Bedenken wegen der<pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/>
                     <fw type="pageNum">- 21 -</fw> taxativen Aufzählung. Es wird der Beschluss
                     gefaßt, in die Aufzählung noch die Punkte: „Schutz von Marken, Mustern und
                     anderen Warenbezeichnungen, technisches Versicherungswesen, hydrographischer
@@ -1001,8 +920,7 @@
                     Klagelegitimation, wie sie dem Art. 139 zu entnehmen sei, für den
                     Verwaltungsgerichtshof nicht die Möglichkeit der Abweisung der Beschwerde
                     bestehe. Der <emph>Vorsitzende</emph> erhebt des weiteren dagegen Bedenken, daß
-                    das Beschwerderecht des Bundesministers auf die Fülle des Art. 11<pb
-                        facs="#facs_27" n="27" xml:id="img_0027" break="yes"/>
+                    das Beschwerderecht des Bundesministers auf die Fülle des Art. 11<pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/>
                     <fw type="pageNum">- 26 -</fw> und 12 eingeschränkt sei. Professor
                         <emph>Kelsen</emph> erwidert, dass diese — überdies auch sachlich
                     gerechtfertigte — Einschränkung als entsprechende Kompensation für den Wegfall
@@ -1116,8 +1034,7 @@
                         einen Landeshauptmann wegen Gesetzesverletzung sowie gegen Nichtbefolgung
                         der Verordnungen oder sonstigen Anordnungen des Bundes in Angelegenheiten
                         der mittelbaren Bundesverwaltung: durch Beschluß der Bundesregierung. — (3)
-                        Das verurteilende Erkenntnis des Verfassungsge<pb facs="#facs_31" n="31"
-                            xml:id="img_0031" break="no"/>
+                        Das verurteilende Erkenntnis des Verfassungsge<pb facs="#facs_31" n="31" xml:id="img_0031" break="no"/>
                         <fw type="pageNum">- 30 -</fw>richtshofes hat auf Verlust des Amtes, unter
                         besonders erschwerenden Umständen auch auf zeitlichen Verlust der
                         politischen Rechte zu lauten; bei geringfügigen Rechtsverletzungen in den in
@@ -1145,8 +1062,7 @@
                     „Der Verfassungsgerichtshof erkennt über Verletzungen des Völkerrechtes nach den
                     Bestimmungen eines besonderen Bundesgesetzes.“</p>
                 <p>Art. 155 erhält auf Anregung des Professors <emph>Kelsen</emph>, der es für
-                    bedenklich erklärt, die Anzahl der Mitglieder des<pb facs="#facs_32" n="32"
-                        xml:id="img_0032" break="yes"/>
+                    bedenklich erklärt, die Anzahl der Mitglieder des<pb facs="#facs_32" n="32" xml:id="img_0032" break="yes"/>
                     <fw type="pageNum">- 31 -</fw> Verfassungsgerichtshofes bereits
                     verfassungsgesetzlich festzulegen, folgenden Wortlaut: „(1) Der
                     Verfassungsgerichtshof hat seinen Sitz in Wien. — (2) Er besteht aus einem
@@ -1181,8 +1097,7 @@
                         </choice> und die Uebernahme des Vermögens des Hauses Habsburg-Lothringen;
                         Gesetz vom 3. April 1919, St.G.Bl.Nr. 211, Über die Aufhebung des Adels, der
                         weltlichen Ritter- und Damenorden und gewisser Titel und Würden. — (2)
-                        Verfassungsbestimmungen im Sinne<pb facs="#facs_33" n="33" xml:id="img_0033"
-                            break="yes"/>
+                        Verfassungsbestimmungen im Sinne<pb facs="#facs_33" n="33" xml:id="img_0033" break="yes"/>
                         <fw type="pageNum">- 32 -</fw> des Artikels 33, Absatz 1 sind: Abschnitt V
                         des III. Teiles den Staatsvertrag von St. Germain vom 10. September 1919, St
                         .G.Bl.Nr. 302; Paragraph 21, Abs. 2, des Gesetzes vom 10. Juni 1920,
@@ -1209,8 +1124,7 @@
                     Staatsgrundgesetzes auch das gegenwärtige Gesetz über den Ausnahmszustand vom 5.
                     Mai 1869, R.G.BI.Nr. 66, rezipiert sei. Es wird demnach dem Art. 158 folgender
                     3. Absatz angefügt: „Artikel 20 des Gesetzes vom 21. Dezember 1867, R.G.BI.Nr.
-                    142, sowie das auf Grund dieses Artikels erlassene Gesetz vom 5. Mai<pb
-                        facs="#facs_34" n="34" xml:id="img_0034" break="yes"/>
+                    142, sowie das auf Grund dieses Artikels erlassene Gesetz vom 5. Mai<pb facs="#facs_34" n="34" xml:id="img_0034" break="yes"/>
                     <fw type="pageNum">- 33 -</fw> 1869, R.G.BI.Nr. 66, treten ausser Kraft."</p>
                 <p>Der <emph>Vorsitzende</emph> stellt die Frage, ob Lücken im Katalog der
                     rezipierten Verfassungsgesetze ausgeschlossen seien. Min. Rat Dr.
@@ -1236,8 +1150,7 @@
                     die Bahnkraftwerke nach Gesetzgebung und Vollziehung dem Bunde vorbehalten
                     werden müssten; insbesondere sei es ein unerträglicher Gedanke, dass die
                     Elektrifizierung der Bahnen vom guten Willen der Länder abhängen solle. Der
-                        <emph>Vorsitzende</emph> stellt auch fest, dass<pb facs="#facs_35" n="35"
-                        xml:id="img_0035" break="yes"/>
+                        <emph>Vorsitzende</emph> stellt auch fest, dass<pb facs="#facs_35" n="35" xml:id="img_0035" break="yes"/>
                     <fw type="pageNum">- 34 -</fw> der Entwurf des Herrn Staatssekretärs
                         <emph>Mayr</emph> im Punkte Elektrizitätswesen den gesamtstaatlichen
                     Erfordernissen besser Rechnung getragen habe, als die nunmehr vorliegenden

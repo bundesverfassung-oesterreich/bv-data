@@ -61,7 +61,11 @@
                 <idno type="bv_data_set">Datenset B</idno>
                 <idno type="goobi">14598</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset B</title>
+<biblScope unit="part">2200</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
@@ -83,8 +87,8 @@
                         </msItem>
                     </msContents>
                     <physDesc>
-                        <objectDesc form="Lithographie"></objectDesc>
-                        <handDesc></handDesc>
+                        <objectDesc form="Lithographie"/>
+                        <handDesc/>
                     </physDesc>
                     <history>
                         <origin notBefore-iso="1920-09-13" notAfter-iso="1920-09-13">13. September
@@ -236,8 +240,7 @@
                     Danneberg mitteilt, der Wiener Gemeinderat über die Angelegenheit am kommenden
                     Freitag eine Plenarsitzung abhalten.</p>
                 <p>Auf Antrag des Letzteren erhält Absatz 2 des Artikels 3 a folgende Fassung: „(2)
-                    Innerhalb der Grenzen des Bundes<pb facs="#facs_4" n="4" xml:id="img_0004"
-                        break="yes"/> dürfen keinerlei Zwischenzolllinien oder sonstige
+                    Innerhalb der Grenzen des Bundes<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/> dürfen keinerlei Zwischenzolllinien oder sonstige
                     Verkehrsbeschränkungen errichtet werden.“</p>
                 <p>Zu diesem Beschluß verliest Min. Rat. Dr. Froehlich die in Aussicht genommene
                     Übergangsbestimmung: „§ 12. Alle Maßnahmen insbesondere Beschränkungen oder
@@ -264,8 +267,7 @@
                 <quote>
                     <p>„Artikel 12 a. </p>
                     <p>(1) Bundessache ist die Gesetzgebung und die Vollziehung hinsichtlich der
-                        Regelung, welche Abgaben dem Bunde, den<pb facs="#facs_5" n="5"
-                            xml:id="img_0005" break="yes"/> Ländern und den Gemeinden zustehen; der
+                        Regelung, welche Abgaben dem Bunde, den<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/> Ländern und den Gemeinden zustehen; der
                         Regelung der Anteile der Länder und Gemeinden an den Einnahmen des Bundes
                         und der Regelung der Beiträge und Zuschüsse aus Bundesmitteln zu den
                         Ausgaben der Länder und Gemeinden. </p>
@@ -293,8 +295,7 @@
                     hinsichtlich Artikel 11, Punkt 8 „Munitions-, Schieß- und Sprengmittelwesen,
                     soweit es nicht dem Monopol unterliegt sowie Waffenwesens“. Seines Erinnerns hat
                     Hofrat Falser gefragt, wie es sich in diesen Belangen mit den Tiroler
-                    Spezialgesetzen verhält und<pb facs="#facs_6" n="6" xml:id="img_0006"
-                        break="yes"/> der Vorsitzende festgestellt, daß diese durch die
+                    Spezialgesetzen verhält und<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/> der Vorsitzende festgestellt, daß diese durch die
                     Kompetenzbestimmung der Verfassung nicht berührt werden. Auch auf den
                     Friedensvertrag sei hingewiesen worden, doch sei kein endgültiger Beschluß
                     gefaßt worden.</p>
@@ -347,8 +348,7 @@
                     momentane Entscheidung möglich sei.</p>
                 <p>Zu Punkt 14 und 15 liegt, wie der Vorsitzende feststellt, kein Antrag vor:
                     Artikel 11 muß entsprechend den vorstehend erwähnten Einschaltungen in Artikel
-                    10 geändert werden. Es entfallen die bisherigen Punkte 1, 2 und<pb
-                        facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>4, von Punkt 5 bleibt
+                    10 geändert werden. Es entfallen die bisherigen Punkte 1, 2 und<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>4, von Punkt 5 bleibt
                     nur die „Fremden-Polizei“. Bei den öffentlichen Agentien gibt Dr. Bauer zu
                     bedenken, daß die bloße Erwähnung den Ländern die Wiederbelebung dieser
                     Institutionen ermögliche. Die Anführung der Bestimmungen über die Besteuerung
@@ -372,8 +372,7 @@
                     nur mehr internationale Angelegenheiten des Gesundheitswesens zu regeln hätte
                     und im übrigen nur ein legistisches Departement wäre; er stellt fest, daß eine
                     Einigung nicht zustande gekommen sei. Zu Punkt 11 des Artikels 11 und zum 2.
-                    Absatz liegt kein Antrag vor. Die Erörterung des Minderheitsantra <pb
-                        facs="#facs_9" n="9" xml:id="img_0009" break="no"/> ges der
+                    Absatz liegt kein Antrag vor. Die Erörterung des Minderheitsantra <pb facs="#facs_9" n="9" xml:id="img_0009" break="no"/> ges der
                     christlichsozialen Partei zu Art. 12 (Punkt 1 a = Verhältnis zwischen Schule und
                     Kirche usw.) soll erst im Zusammenhang mit der allgemeinen Besprechung der
                     Schulfrage stattfinden.</p>
@@ -401,8 +400,7 @@
                     der Grundsatz lex posterior derogat priori. Prof. Dr. Kelsen meint, daß dieser
                     Grundsatz für die gewöhnlichen Gerichte gegeben sei, solange die Gerichte
                     gehörig kundgemachte Gesetze anwenden müssen. Es ist aber notwendig, dem Richter
-                    das Recht auf Prüfung der Bundesgesetz<pb facs="#facs_10" n="10"
-                        xml:id="img_0010" break="no"/> mäßigkeit jedes einzelnen Gesetzes
+                    das Recht auf Prüfung der Bundesgesetz<pb facs="#facs_10" n="10" xml:id="img_0010" break="no"/> mäßigkeit jedes einzelnen Gesetzes
                     einzuräumen und ihn von der Regel zu befreien, daß er gehörig kundgemachte
                     Gesetze anwenden müsse. Der Vorsitzende stellt fest, daß auch der
                     Verfassungsgerichtshof nur kassieren kann, wenn der Wirkungskreis überschritten
@@ -428,8 +426,7 @@
                     Rücksicht auf Qualität und Parteirichtung der Gendarmen Wert darauf, daß nicht
                     willkürlich Verschiebungen der Gendarmerie zwischen den einzelnen Ländern
                     stattfinden. Auch soll ihre Mitwirkung bei der Bestellung und bei der Abberufung
-                    des Landesgendarmeriekommandanten gewahrt bleiben.<pb facs="#facs_11" n="11"
-                        xml:id="img_0011" break="yes"/> Zu 14 f ist nichts zu bemerken, zu 14 g
+                    des Landesgendarmeriekommandanten gewahrt bleiben.<pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/> Zu 14 f ist nichts zu bemerken, zu 14 g
                     teilt der Vorsitzende mit, daß er eine Reihe von Zuschriften erhalten hat, die
                     vom Standpunkt des Publikums beklagen, daß bei der Subsidiarhaftung des Staates
                     verschiedene langwierige Prozesse geführt werden müssen. Artikel 15 bleibt im
@@ -453,8 +450,7 @@
                 <p>In Artikel 11 wurde bisher die Einschaltung „pädagogisch-didaktische Einrichtung
                     des mittleren Schulwesens“ beantragt: darauf wird verzichtet. Hingegen werden in
                     Artikel 12 einige Einschaltungen verlangt; nach Punkt 1: Die Errichtung und
-                    Erhaltung der Volks- und Bürgerschulen sowie der Hilfs<pb facs="#facs_12" n="12"
-                        xml:id="img_0012" break="no"/> schulen, ferner zu Punkt 8 des Artikels 12:
+                    Erhaltung der Volks- und Bürgerschulen sowie der Hilfs<pb facs="#facs_12" n="12" xml:id="img_0012" break="no"/> schulen, ferner zu Punkt 8 des Artikels 12:
                     Das Dienstrecht und das Besoldungssystem der Lehrpersonen an öffentlichen
                     Volksund Bürgerschulen. Präsident Seitz hält dem entgegen, daß der Staat derzeit
                     das gesamte Schulwesen bis hinaus zum Bezirksschulrat untersteht. Es würde einen
@@ -506,8 +502,7 @@
                     erörtert hingegen Präsident Seitz die Nachteile für die Kinder der
                     Arbeiterbevölkerung, die in Übersiedlungsfällen wegen der großen Unterschiede
                     des Lehrplanes nicht in die ihrem Alter entsprechende Klasse aufgenommen werden
-                    können. Es sei eine begründete Klage der tschechischen<pb facs="#facs_14" n="14"
-                        xml:id="img_0014" break="yes"/> Bevölkerung wesen, daß ihre Kinder stets um
+                    können. Es sei eine begründete Klage der tschechischen<pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/> Bevölkerung wesen, daß ihre Kinder stets um
                     ein bis zwei Jahre zurückgesetzt werden mußten. Durch Zugeständnisse auf diesem
                     Gebiete gebe der Staat die ganze Schulreform preis.</p>
                 <p>Abgeordneter Dr. Seipel findet auf Grund seiner Erfahrungen als Lehrer — 10
@@ -559,8 +554,7 @@
                     bezüglich der Lehrplanverschiedenheit durch vernünftige Regelung abgeholfen
                     werden könne und verweist auf die Schwierigkeit des Übertrittes aus einer
                     Diözese in eine andere. Hiedruch lebe der Geistliche im Gegensetz zu dem
-                    Vorgang, der bei den Lehrern geplant sei, in einem viel engeren<pb
-                        facs="#facs_16" n="16" xml:id="img_0016" break="yes"/> Bereich.</p>
+                    Vorgang, der bei den Lehrern geplant sei, in einem viel engeren<pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/> Bereich.</p>
                 <p>Der Vorsitzende findet, daß hier unüberbrückbare Gegensätze einander
                     gegenüberstehen. Der Beschluß des Unterausschusses hat alle Agenden als
                     Bundessache erklärt. Hingegen will der Vorschlag der 432 Protokolle des
@@ -590,8 +584,7 @@
                     Art. 10 käme, müßte man hievon ausnehmen: „Die Festsetzung der einer Lehrperson
                     zuzuweisenden Schülerzahl“.</p>
                 <p>Der Unterausschuß beschließt die Erörterung der Schulfragen zu vertagen, um
-                    neuerlich Parteiberatungen zu<pb facs="#facs_17" n="17" xml:id="img_0017"
-                        break="yes"/> ermöglichen.</p>
+                    neuerlich Parteiberatungen zu<pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/> ermöglichen.</p>
                 <p>Der Vorsitzende stellt hierauf fest, welche Fragen bezüglich der künftigen
                     Stellung Wiens als Bundeshauptstadt noch zu erledigen wären. So muß Wien
                     hinsichtlich der Überweisungen und der Vertretung im Bundesrate den Ländern
@@ -618,8 +611,7 @@
                     sondern nach dem Erträgnis gewisser Steuern erfolgen, was für Wien vorteilhafter
                     sei. Während Präsident Seitz es als unerträglich bezeichnet, daß ein
                     Verwaltungskörper von der Größe Wiens stets die Zustimmung einer Mehrheit agrar.
-                    Vertreter im Landtag cinholen müsse,<pb facs="#facs_18" n="18" xml:id="img_0018"
-                        break="yes"/> wenn er eine neue Steuer irgendwelcher Art beschließt,
+                    Vertreter im Landtag cinholen müsse,<pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/> wenn er eine neue Steuer irgendwelcher Art beschließt,
                     erblickt Abg. Dr. Seipel im Überprüfungsrecht des Landtages einen besseren
                     Schutz der Bevölkerung. Dr. Danneberg verweist auf die möglichen
                     Schwierigkeiten, die entstehen können, wenn im Landtag eine andere Mehrheit
@@ -644,8 +636,7 @@
                     besonderer Vereinbarungen gedeckt werden. Prof. Dr. Kelsen’s vermittelnde
                     Anregung, daß Wien in finanzieller Hinsicht unbeschadet seiner Stellung als
                     Gemeinde die Stellung eines selbständigen Landes erhalten soll, findet die
-                    Zustimmung des Unterausschusses. Der Vorsitzende fügt<pb facs="#facs_19" n="19"
-                        xml:id="img_0019" break="yes"/> hinzu, daß der Magistrat Kompetenzen zu
+                    Zustimmung des Unterausschusses. Der Vorsitzende fügt<pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/> hinzu, daß der Magistrat Kompetenzen zu
                     übernehmen hat, die bisher der niederösterreichischen Landesregierung zustanden.
                     Auch müßte eine besondere zweite Instanz für Wien in Gestalt einer Kommission
                     gebildet werden, die zusammengesetzt wäre aus rechtskundigen Verwaltungsbeamten
@@ -671,8 +662,7 @@
                     was nach Anschauung Dr. Weiskirchner's prinzipiell jede Statutargemeinde
                     verlangen könne. </p>
                 <p>Präsident Seitz ist der Ansachuung, daß sich Östereich noch in der Revolution
-                    befinde, der Bund daher<pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"
-                    /> auch sagen könne, diese Agenden übertrage ich in der Form, daß ich die
+                    befinde, der Bund daher<pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/> auch sagen könne, diese Agenden übertrage ich in der Form, daß ich die
                     Statthaltereibefugnisse einer gewählten Regierung übertrage.</p>
                 <p>Prof. Kelsen: Gegenwärtig kann die Landesordnung durch Staatsgesetz abgeändert
                     werden. Wie sich aus der Staatsgesetzgebung erweisen läßt, so könnte auch durch
@@ -722,8 +712,7 @@
                     die Zahl der Stimmberechtigten statt mit 300.000 mit 200.000 festgesetzt.</p>
                 <p>Die Worte „im Wege der Bundesregierung“ sind so auszulegen, daß gemäß Artikel 30
                     die Bundesregierung auch Gesetzesanträge, mit denen sie nicht einverstanden ist,
-                    als Gesetzesvorlagen einzubringen hat. In Artikel 32 wünscht<pb facs="#facs_22"
-                        n="22" xml:id="img_0022" break="yes"/> ein sozialdemokratischer
+                    als Gesetzesvorlagen einzubringen hat. In Artikel 32 wünscht<pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/> ein sozialdemokratischer
                     Minderheitsantrag die „Mehrheit des Bundesrates“ anstatt einem „Drittel der
                     Mitglieder des Bundesrates“. Das Verlangen kann durch Sammlung der
                     erforderlichen Unterschriften geltend gemacht werden. </p>

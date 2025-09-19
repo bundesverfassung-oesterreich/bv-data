@@ -61,7 +61,11 @@
                 <idno type="bv_data_set">Datenset A</idno>
                 <idno type="goobi">18727</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">1000</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
@@ -672,8 +676,7 @@
                         </div>
                     </div>
                     <div type="section">
-                        <head><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><fw
-                                type="pageNum">9</fw>D. Exekutive des Bundes:</head>
+                        <head><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><fw type="pageNum">9</fw>D. Exekutive des Bundes:</head>
                         <div type="section">
                             <head>a) Präsident und Vizepräsidenten:</head>
                             <div type="article">
@@ -731,8 +734,7 @@
                             </div>
                         </div>
                         <div type="section">
-                            <head><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><fw
-                                    type="pageNum">10</fw>c) die Bundesregierung.</head>
+                            <head><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><fw type="pageNum">10</fw>c) die Bundesregierung.</head>
                             <div type="article">
                                 <head>§ 85</head>
                                 <p>Zur Durchführung der Aufgaben der obersten Bundesverwaltung wählt
@@ -785,8 +787,7 @@
                         </div>
                     </div>
                     <div type="section">
-                        <head><pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><fw
-                                type="pageNum">11</fw>F. Ständische Autonomien.</head>
+                        <head><pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><fw type="pageNum">11</fw>F. Ständische Autonomien.</head>
                         <div type="article">
                             <head>§ 91</head>
                             <p>Der Bundesrat behält sich ausdrücklich vor den durch einstimmigen

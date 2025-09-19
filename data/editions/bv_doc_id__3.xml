@@ -63,7 +63,11 @@
                         <idno type="bv_data_set">Datenset A</idno>
                         <idno type="goobi">14504</idno>
                   </publicationStmt>
-                  <sourceDesc>
+                  <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">0400</biblScope>
+</seriesStmt>
+<sourceDesc>
                         <msDesc type="invetory">
                               <msIdentifier>
                                     <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
@@ -310,9 +314,7 @@
                               </div>
                               <div type="article">
                                     <head>Art. 5. </head>
-                                    <p type="legal_section">Eine Aenderung des Bundesgebietes,<pb
-                                                facs="#facs_3" n="3" xml:id="img_0003" break="yes"
-                                                /><fw type="pageNum">- 2 -</fw>die zugleich eine
+                                    <p type="legal_section">Eine Aenderung des Bundesgebietes,<pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw type="pageNum">- 2 -</fw>die zugleich eine
                                           Aenderung eines Landesgebietes ist, ebenso eine Aenderung <choice>
                                                 <sic>d</sic>
                                                 <corr/>
@@ -405,8 +407,7 @@
                                           <p type="legal_section">Der Sitz des Bundestages ist die Bundeshauptstadt Wien. </p>
                                           <p type="legal_section">Für die Dauer ausserordentlicher
                                                 Verhältnisse kann der Bundespräsident (Art. . . . .
-                                                der Bundesverfassung) auf An<pb facs="#facs_6" n="6"
-                                                  xml:id="img_0006" break="no"/><fw type="pageNum">-
+                                                der Bundesverfassung) auf An<pb facs="#facs_6" n="6" xml:id="img_0006" break="no"/><fw type="pageNum">-
                                                   5 -</fw>trag der Bundesregierung den Bundestag in
                                                 einen anderen Ort des Bundesgebietes berufen. </p>
                                     </div>
@@ -441,9 +442,7 @@
                                                   <corr>überschritten</corr>
                                                 </choice> haben, nach dem System der Verhältniswahl
                                                 gewählt.</p>
-                                          <p type="legal_section"><pb facs="#facs_7" n="7"
-                                                  xml:id="img_0007" break="yes"/><fw type="pageNum"
-                                                  >- 6 -</fw>Wählbar ist ohne Unterschied des
+                                          <p type="legal_section"><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum">- 6 -</fw>Wählbar ist ohne Unterschied des
                                                 Geschlechtes jeder wahlberechtigte Bundesbürger, der
                                                 vor dem 1. Jänner des Jahres, in welchem die Wahl
                                                 zur Bundesversammlung stattfindet, das 29.
@@ -640,9 +639,7 @@
                                           <head>Art. 30. </head>
                                           <p type="legal_section">Stimmberechtigt ist jeder zum
                                                 Bundestag wahlberechtigter Bundesbürger. Das
-                                                Bundesvolk hat die vom Bundestag beschlos<pb
-                                                  facs="#facs_12" n="12" xml:id="img_0012"
-                                                  break="no"/><fw type="pageNum">- 11 -</fw>sene
+                                                Bundesvolk hat die vom Bundestag beschlos<pb facs="#facs_12" n="12" xml:id="img_0012" break="no"/><fw type="pageNum">- 11 -</fw>sene
                                                 Verfassungsänderung angenommen und es hat das
                                                 bereits kundgemachte Bundesgesetz abgelehnt, wenn
                                                 die relative Mehrheit der abgegebenen Stimmen sich
@@ -787,8 +784,7 @@
                                                   Wiederwahl ist zulässig.</p>
                                           </div>
                                           <div type="article">
-                                                <pb facs="#facs_16" n="16" xml:id="img_0016"
-                                                  break="yes"/>
+                                                <pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>
                                                 <fw type="pageNum">- 15 -</fw>
                                                 <head>Art. 41. </head>
                                                 <p type="legal_section">Der Bundespräsident darf
@@ -830,8 +826,7 @@
                                                   sonstiger Bundesfunktionäre sowie
                                                   Verleihungen von Titeln; </p>
                                                 <p type="legal_section">die Begnadigung
-                                                  rechtskräftig Verur<pb facs="#facs_17" n="17"
-                                                  xml:id="img_0017" break="no"/><fw type="pageNum">-
+                                                  rechtskräftig Verur<pb facs="#facs_17" n="17" xml:id="img_0017" break="no"/><fw type="pageNum">-
                                                   16 -</fw>teilter, die Milderung der von den
                                                   Gerichten ausgesprochenen Strafen, die Nachsicht
                                                   von Rechtsfolgen und die Tilgung von
@@ -940,9 +935,7 @@
                                                   Bundestages mit welchem das Vertrauen versagt
                                                   wird, ist die Anwesenheit der Hälfte der
                                                   Mitglieder des Bundestages erforderlich. Doch ist,
-                                                  wenn . . . Mitglieder es ver<pb facs="#facs_20"
-                                                  n="20" xml:id="img_0020" break="no"/><fw
-                                                  type="pageNum">- 19 -</fw>langen, die Abstimmung
+                                                  wenn . . . Mitglieder es ver<pb facs="#facs_20" n="20" xml:id="img_0020" break="no"/><fw type="pageNum">- 19 -</fw>langen, die Abstimmung
                                                   auf den zweitnächsten Werktag zu vertagen. Eine
                                                   neuerliche Vertagung der Abstimmung kann nur auf
                                                   Beschluß des Bundestages erfolgen. </p>
@@ -1061,8 +1054,7 @@
                                           <div type="article">
                                                 <head>Art. 63. </head>
                                                 <p type="legal_section">Die Bundesregierung sowie
-                                                  jedes Mit<pb facs="#facs_23" n="23"
-                                                  xml:id="img_0023" break="no"/><fw type="pageNum">-
+                                                  jedes Mit<pb facs="#facs_23" n="23" xml:id="img_0023" break="no"/><fw type="pageNum">-
                                                   22 -</fw>glied des Bundesrates sind befugt, im
                                                   Bundesrate Anträge zu stellen. Die
                                                   Geschäftsordnung des Bundesrates wird von diesen
@@ -1105,8 +1097,7 @@
                                                 solcher Fall vorliegt, wird, abgesehen von den in
                                                 der Strafprozeßordnung geregelten Fällen, durch
                                                 Beschluß der Bundesregierung festgesetzt. Die
-                                                  Bundes<pb facs="#facs_24" n="24" xml:id="img_0024"
-                                                  break="no"/><fw type="pageNum">- 23
+                                                  Bundes<pb facs="#facs_24" n="24" xml:id="img_0024" break="no"/><fw type="pageNum">- 23
                                                 -</fw>regierung ist verpflichtet, jeden solchen
                                                 Beschluß ungesäumt der Bundesversammlung und dem
                                                 Bundesrat vorzulegen und über Beschluß eines der
@@ -1177,9 +1168,7 @@
                                                 Ruhestand wider Willen nur durch gerichtlichen
                                                 Beschluß in den durch das Gesetz bestimmten Fällen
                                                 und Formen stattfinden. Diese Bestimmungen finden
-                                                jedoch bei Uebersetzung und Ver<pb facs="#facs_26"
-                                                  n="26" xml:id="img_0026" break="no"/><fw
-                                                  type="pageNum">- 25 -</fw>setzungen in den
+                                                jedoch bei Uebersetzung und Ver<pb facs="#facs_26" n="26" xml:id="img_0026" break="no"/><fw type="pageNum">- 25 -</fw>setzungen in den
                                                 Ruhestand keine Anwendung, die durch Veränderungen
                                                 in der Verfassung der Gerichte nötig werden. In
                                                 einem solchen Falle wird durch Gesetz festgestellt,
@@ -1250,8 +1239,7 @@
                                     <div type="article">
                                           <head>Art. 80. </head>
                                           <p type="legal_section">In allen Fällen, wo eine
-                                                  Verwaltungs<pb facs="#facs_28" n="28"
-                                                  xml:id="img_0028" break="no"/><fw type="pageNum">-
+                                                  Verwaltungs<pb facs="#facs_28" n="28" xml:id="img_0028" break="no"/><fw type="pageNum">-
                                                   27 -</fw>behörde nach den bestehenden oder künftig
                                                 zu erlassenden Gesetzen über Privatrechtsansprüche
                                                 zu entscheiden hat, steht es dem durch diese
@@ -1524,9 +1512,7 @@
                                           Ueberprüfung der Gebarung. </p>
                                     <p type="legal_section">a) die Einsendung von Rechnungsbelegen und Behelfen (Geschäftsstücke, Verträge u.s.w.) zu verlangen. </p>
                                     <p type="legal_section">b) Durch Beauftragte an Ort und Stelle
-                                          in die mit der Gebarung der betreffen<pb facs="#facs_38"
-                                                n="38" xml:id="img_0038" break="no"/><fw
-                                                type="pageNum">- 37 -</fw>den Stelle im
+                                          in die mit der Gebarung der betreffen<pb facs="#facs_38" n="38" xml:id="img_0038" break="no"/><fw type="pageNum">- 37 -</fw>den Stelle im
                                           Zusammenhange stehenden Behelfe Einschau zu nehmen. </p>
                                     <p type="legal_section">c) Die Vornahme von Lokalerhebungen durch die Verwaltungsbehörden anzuordnen und an diesen Amtshandlungen
                                           durch Beauftragte teilzunehmen. </p>
@@ -1606,9 +1592,7 @@
                               </div>
                               <div type="article">
                                     <head>Art. 115. </head>
-                                    <p type="legal_section">Die Freizügigkeit der Personen und<pb
-                                                facs="#facs_41" n="41" xml:id="img_0041" break="yes"
-                                                /><fw type="pageNum">- 40 - </fw>Güter innerhalb des
+                                    <p type="legal_section">Die Freizügigkeit der Personen und<pb facs="#facs_41" n="41" xml:id="img_0041" break="yes"/><fw type="pageNum">- 40 - </fw>Güter innerhalb des
                                           Bundesgebietes ist gewährleistet. Einschränkungen können
                                           nur durch Bundesgesetz bestimmt werden. </p>
                               </div>
@@ -1633,8 +1617,7 @@
                                           wird, sind spätestens am darauffolgenden Tage in Kenntnis
                                           zu setzen, von welcher Behörde und aus welchen Gründen die
                                           Entziehung der Freiheit angeordnet worden ist;
-                                          unverzüglich soll ihnen Ge<pb facs="#facs_42" n="42"
-                                                xml:id="img_0042" break="no"/><fw type="pageNum">-
+                                          unverzüglich soll ihnen Ge<pb facs="#facs_42" n="42" xml:id="img_0042" break="no"/><fw type="pageNum">-
                                                 41 -</fw>legenheit gegeben werden, Einwendungen
                                           gegen ihre Freiheitsentzienung vorzubringen. </p>
                               </div>
@@ -1714,9 +1697,7 @@
                                           Bundesgebietes unterliegt keinen
                                           Beschränkungen. </p>
                                     <p type="legal_section">Jede Religionsgesellschaft ordnet und
-                                          verwaltet ihre Angelegenheiten selbstän<pb facs="#facs_45"
-                                                n="45" xml:id="img_0045" break="no"/><fw
-                                                type="pageNum">- 44 -</fw>dig innerhalb der
+                                          verwaltet ihre Angelegenheiten selbstän<pb facs="#facs_45" n="45" xml:id="img_0045" break="no"/><fw type="pageNum">- 44 -</fw>dig innerhalb der
                                           gesetzlichen Schranken. Sie verleiht ihre Aemter ohne
                                           Mitwirkung des Staates. </p>
                                     <p type="legal_section">Die Rechtsfähigkeit der Religionsgesellschaften richtet sich nach den Vorschriften des bürgerlichen Rechtes
@@ -1794,8 +1775,7 @@
                                           den Volksschulen den Kindern dieser
                                           Staatsbürger der Unterricht in ihrer
                                           Muttersprache erteilt werde.</p>
-                                    <p type="legal_section"><pb facs="#facs_48" n="48"
-                                                xml:id="img_0048" break="yes"/><fw type="pageNum">-
+                                    <p type="legal_section"><pb facs="#facs_48" n="48" xml:id="img_0048" break="yes"/><fw type="pageNum">-
                                                 47 - </fw>Der Unterricht in der deutschen Sprache
                                           ist jedoch auch in solchen Schulen stets
                                           Pflichtgegenstand. </p>
@@ -1828,9 +1808,7 @@
                               <div type="article">
                                     <head>Art. 136. </head>
                                     <p type="legal_section">Oesterreichische Staatsbürger, die nach
-                                          Nationalität, Sprache oder Religion<pb facs="#facs_49"
-                                                n="49" xml:id="img_0049" break="yes"/><fw
-                                                type="pageNum">- 48 -</fw> einer Minderheit
+                                          Nationalität, Sprache oder Religion<pb facs="#facs_49" n="49" xml:id="img_0049" break="yes"/><fw type="pageNum">- 48 -</fw> einer Minderheit
                                           angehören, haben das Recht, in den auf ihre eigenen Kosten
                                           errichteten Wohltätigkeits-, Religions-, Unterrichts-,
                                           Erziehungs- und sonstigen Anstalten ihre eigene Sprache
@@ -1892,8 +1870,7 @@
                                     <p type="legal_section">Wer durch rechtswidrige Ausübung der
                                           öffentlichen Gewalt Schaden erleidet, hat abgesehen von
                                           dem im Art. 74 geregelten Fall - einen im Wege der
-                                          ordentlichen Ge<pb facs="#facs_51" n="51"
-                                                xml:id="img_0051" break="no"/><fw type="pageNum">-
+                                          ordentlichen Ge<pb facs="#facs_51" n="51" xml:id="img_0051" break="no"/><fw type="pageNum">-
                                                 50 -</fw>richte geltend zu machenden Anspruch auf
                                           Entschädigung gegen den Bund oder das Land, durch dessen
                                           Organ der Schade zugefügt wurde. </p>
@@ -1992,9 +1969,7 @@
                                                 Verwaltungsgerichte sind ausgeschlossen: </p>
                                           <p type="legal_section"><list>
                                                   <label>a) </label>
-                                                  <item> Angelegenheiten, über welche den<pb
-                                                  facs="#facs_54" n="54" xml:id="img_0054"
-                                                  break="yes"/><fw type="pageNum">- 53
+                                                  <item> Angelegenheiten, über welche den<pb facs="#facs_54" n="54" xml:id="img_0054" break="yes"/><fw type="pageNum">- 53
                                                   -</fw>ordentlichen Gerichten die Entscheidung
                                                   zusteht; </item>
                                                   <label>b) </label>
@@ -2038,9 +2013,7 @@
                                           <p type="legal_section">Es entscheidet ferner:
                                                 Kompetenzkonflikte <list>
                                                   <label>a) </label>
-                                                  <item>zwischen Gerichten und Verwaltungs<pb
-                                                  facs="#facs_55" n="55" xml:id="img_0055"
-                                                  break="no"/><fw type="pageNum">- 54 -</fw>behörden
+                                                  <item>zwischen Gerichten und Verwaltungs<pb facs="#facs_55" n="55" xml:id="img_0055" break="no"/><fw type="pageNum">- 54 -</fw>behörden
                                                   des Bundes oder der Länder; </item>
                                                   <label>b) </label>
                                                   <item> zwischen Landesregierungen untereinander,
@@ -2122,9 +2095,7 @@
                                                   auf Antrag des zuständigen Landtages; und über die
                                                   Verantwortlichkeit des Landeshauptmannes wegen
                                                   vorsätzlicher und grobfahrlässiger
-                                                  Gesetzesverletzung durch<pb facs="#facs_57" n="57"
-                                                  xml:id="img_0057" break="yes"/><fw type="pageNum"
-                                                  >- 56 -</fw>seine Amtstätigkeit oder wegen
+                                                  Gesetzesverletzung durch<pb facs="#facs_57" n="57" xml:id="img_0057" break="yes"/><fw type="pageNum">- 56 -</fw>seine Amtstätigkeit oder wegen
                                                   Nichtbefolgung der Vollzugsanweisungen oder
                                                   sonstigen Anordnungen der Bundesregierung auf
                                                   Antrag der letzteren.  </item>

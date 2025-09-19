@@ -30,13 +30,11 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372"
-                        >Peter Andorfer </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X"
-                        >Carl Friedrich Haak </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -63,7 +61,11 @@
                 <idno type="bv_data_set">Datenset B</idno>
                 <idno type="goobi">14593</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset B</title>
+<biblScope unit="part">1600</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
@@ -111,69 +113,43 @@
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
         <surface ulx="0" uly="0" lrx="3083" lry="4928" xml:id="facs_2">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0003/full/full/0/default.jpg"
-                width="3083px" height="4928px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0003/full/full/0/default.jpg" width="3083px" height="4928px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2927" lry="4787" xml:id="facs_3">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0004/full/full/0/default.jpg"
-                width="2927px" height="4787px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0004/full/full/0/default.jpg" width="2927px" height="4787px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2901" lry="4837" xml:id="facs_4">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0005/full/full/0/default.jpg"
-                width="2901px" height="4837px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0005/full/full/0/default.jpg" width="2901px" height="4837px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2955" lry="4811" xml:id="facs_5">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0006/full/full/0/default.jpg"
-                width="2955px" height="4811px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0006/full/full/0/default.jpg" width="2955px" height="4811px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2940" lry="4833" xml:id="facs_6">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0007/full/full/0/default.jpg"
-                width="2940px" height="4833px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0007/full/full/0/default.jpg" width="2940px" height="4833px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2937" lry="4788" xml:id="facs_7">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0008/full/full/0/default.jpg"
-                width="2937px" height="4788px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0008/full/full/0/default.jpg" width="2937px" height="4788px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2863" lry="4849" xml:id="facs_8">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0009/full/full/0/default.jpg"
-                width="2863px" height="4849px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0009/full/full/0/default.jpg" width="2863px" height="4849px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2736" lry="4829" xml:id="facs_9">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0010/full/full/0/default.jpg"
-                width="2736px" height="4829px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0010/full/full/0/default.jpg" width="2736px" height="4829px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2795" lry="4826" xml:id="facs_10">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0011/full/full/0/default.jpg"
-                width="2795px" height="4826px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0011/full/full/0/default.jpg" width="2795px" height="4826px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2839" lry="4821" xml:id="facs_11">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0012/full/full/0/default.jpg"
-                width="2839px" height="4821px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0012/full/full/0/default.jpg" width="2839px" height="4821px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2758" lry="4816" xml:id="facs_12">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0013/full/full/0/default.jpg"
-                width="2758px" height="4816px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0013/full/full/0/default.jpg" width="2758px" height="4816px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2751" lry="4791" xml:id="facs_13">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0014/full/full/0/default.jpg"
-                width="2751px" height="4791px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0014/full/full/0/default.jpg" width="2751px" height="4791px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2910" lry="4790" xml:id="facs_14">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0015/full/full/0/default.jpg"
-                width="2910px" height="4790px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0015/full/full/0/default.jpg" width="2910px" height="4790px"/>
         </surface>
     </facsimile>
     <text type="Sitzungsprotokoll">
@@ -204,8 +180,7 @@
                 <list>
                     <item>Professor Dr. Hans Kelsen als Experte des Verfassungsausschusses. </item>
                 </list>
-                <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw type="pageNum"
-                    >2</fw>Der <emph>Vorsitzende</emph> leitet die durch Beratung des Linzer
+                <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw type="pageNum">2</fw>Der <emph>Vorsitzende</emph> leitet die durch Beratung des Linzer
                     Entwurfes von Anfang an ein und bespricht die Einleitung der Verfassung, über
                     die sich der Ausschuß wie Abgeordneter Dr. Seipel meint, nur schwer wird einigen
                     können. Weder der sozialdemokratische Entwurf (904 der Beilage) noch der
@@ -258,8 +233,7 @@
                     Vorsitzende bemerkt hiezu, daß das Burgenland bis zur Wahl nur ein Territorium
                     sei, das von Österreich verwaltet wird, erst wenn es einen Landtag hat, kann es
                     ein eigenes Land werden.</p>
-                <p>Die Frage ob Wien als selbständiges Bundesland zu behan<pb facs="#facs_5" n="5"
-                        xml:id="img_0005" break="no"/><fw type="pageNum">4</fw>deln sei und
+                <p>Die Frage ob Wien als selbständiges Bundesland zu behan<pb facs="#facs_5" n="5" xml:id="img_0005" break="no"/><fw type="pageNum">4</fw>deln sei und
                     inwiefern seine Loslösung von Niederösterreich in der Verfassung zu erwähnen
                     sei, wird ein Antrag des <emph>Vorsitzenden</emph> angenommen, demzufolge
                         <emph>die Staatskanzlei ersucht wird, im Einvernehmen mit dem Lande
@@ -289,8 +263,7 @@
                     <p>(1) Das Bundesgebiet bildet ein einheitliches Währungs-, Wirtschafts- und
                         Zollgebiet.</p>
                     <p> (2) <emph>Innerhalb der Grenzen des Bundes dürfen keine Zwischenzollinien
-                                <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><fw
-                                type="pageNum">5</fw>errichtet werden.</emph></p>
+                                <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><fw type="pageNum">5</fw>errichtet werden.</emph></p>
                 </quote>
                 <p> Hierauf wird folgender Artikel angenommen:</p>
                 <quote>
@@ -325,8 +298,7 @@
                 </quote>
                 <p>Artikel 5 fällt aus.</p>
                 <p>
-                    <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum"
-                        >6</fw>Artikel 6 des Linzer Entwurfes wird unter Betonung der großen
+                    <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum">6</fw>Artikel 6 des Linzer Entwurfes wird unter Betonung der großen
                     praktisch-politischen Bedeutung, die eine Erwähnung der Minderheitsrechte
                     bezüglich des Burgenlandes und Kärntens hat, unverändert angenommen.</p>
                 <p>Der Vorsitzende zieht nun Artikel 117 des sozialdemokratischen Entwurfes (904 der
@@ -357,8 +329,7 @@
                     Fehlen derartiger Bestimmungen führt ihn zu außerordentlichen Schwierigkeiten.
                     So sei im Gesetz über die Vermögensabgabe die Stelle enthalten: „die
                     Vermögensabgabe wird nicht vorgeschrieben zum Zwecke der Einhebung von Umlagen
-                    auf sie“. Diese <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw
-                        type="pageNum">7</fw>Bestimmung erklärten die Vertreter des Staatsamtes für
+                    auf sie“. Diese <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">7</fw>Bestimmung erklärten die Vertreter des Staatsamtes für
                     Finanzen damit, daß dies die einzige Möglichkeit sei, ohne Widerspruch mit der
                     Verfassung die Zuschlagsfreiheit auszudrücken. Er verweise auf die Regelung in
                     England (grants in aid).</p>
@@ -392,8 +363,7 @@
                         die gleichen Rechte gegenüber den Landesregierungen zu, wie bei den
                         Angelegenheiten der mittelbaren Bundesverwaltung". </p>
                 </quote>
-                <p><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><fw type="pageNum"
-                    >8</fw>Hierauf bespricht Abgeordneter Dr. Seipel Artikel 15 des
+                <p><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><fw type="pageNum">8</fw>Hierauf bespricht Abgeordneter Dr. Seipel Artikel 15 des
                     sozialdemokratischen Entwurfes (904 der Beilage); er befürwortet die Aufnahme
                     derartiger Bestimmungen, wie sie ähnlich auch im großdeutschen Entwurfe
                     enthalten seien. Bisher hat man sich ausschließlich mit den Aufbau einer
@@ -420,8 +390,7 @@
                     Teilnahme der Berufsorganisation bei der wirtschaftlichen und sozialen
                     Gesetzgebung. </p>
                 <p>Unter Benützung des Abs. 1 des Art. 15 (904 der Beilagen) – der übrige Teil des
-                    Artikels, über den Dr. Danneberg Abstim<pb facs="#facs_10" n="10"
-                        xml:id="img_0010" break="no"/><fw type="pageNum">9</fw>mung wünscht, wird
+                    Artikels, über den Dr. Danneberg Abstim<pb facs="#facs_10" n="10" xml:id="img_0010" break="no"/><fw type="pageNum">9</fw>mung wünscht, wird
                     abgelehnt – wird eingeschoben: </p>
                 <quote>
                     <head> „Artikel 14a".</head>
@@ -452,8 +421,7 @@
                     <p>(3) Wählbar ist jeder Wahlberechtigte, der das 24. Lebensjahr überschritten
                         hat.</p>
                     <p>
-                        <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><fw type="pageNum"
-                            >10</fw>(4) Die Ausschließung vom Wahlrecht und der Wählbarkeit kann nur
+                        <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><fw type="pageNum">10</fw>(4) Die Ausschließung vom Wahlrecht und der Wählbarkeit kann nur
                         infolge einer gerichtlichen Verurteilung oder Verfügung sein.</p>
                 </quote>
                 <p>Bei Besprechung des Artikels 20 meint der Vorsitzende, daß die Einberufung des
@@ -482,8 +450,7 @@
                     Auflösung die an monarchische Gepflogenheiten erinnere. Auch geht es, wie Abg.
                     Clessin meint, nicht an, daß die vom Nationalrat gewählte Regierung diesen
                     auflöse. Der <emph>Vorsitzende</emph> ist der Ansicht, daß stets, wenn es sich
-                    zeigt, daß eine Wahl ein anderes Ergebnis hätte, <pb facs="#facs_12" n="12"
-                        xml:id="img_0012" break="yes"/><fw type="pageNum">11</fw>der
+                    zeigt, daß eine Wahl ein anderes Ergebnis hätte, <pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><fw type="pageNum">11</fw>der
                     Vertretungskörper aufzulösen und eine Neuwahl einzuleiten sei. Abg. Leuthner
                     zeigt an englischen Beispielen wie gefährlich es sei, wenn die Regierung darüber
                     zu bestimmen vermag, den ihr günstigen Zeitpunkt zur Neuwahl eines Parlamentes
@@ -521,8 +488,7 @@
                         Stimmen beschlossen werden."</p>
                 </quote>
                 <p>
-                    <pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><fw type="pageNum"
-                        >12</fw>Artikel 24 und 25 werden im Wortlaut des Linzer Entwurfes
+                    <pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><fw type="pageNum">12</fw>Artikel 24 und 25 werden im Wortlaut des Linzer Entwurfes
                     angenommen.</p>
                 <p> Der früher beschlossene Artikel über die Bundesversammlung ist zwischen Art. 29
                     und 30 einzuschalten. </p>
@@ -558,9 +524,7 @@
                     <p>(2) Der Bundesrat wird durch seinen Vorsitzenden vertreten. Alle
                         Ausfertigungen des Bundesrates müssen die Unterschrift seines Vorsitzenden
                         tragen. </p>
-                    <p>(3) Der Bundesrat gibt sich seine Geschäftsordnung durch <pb facs="#facs_14"
-                            n="14" xml:id="img_0014" break="yes"/><fw type="pageNum"
-                        >13</fw>Beschluss, der nur bei Anwesenheit der Hälfte der Mitglieder und mit
+                    <p>(3) Der Bundesrat gibt sich seine Geschäftsordnung durch <pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><fw type="pageNum">13</fw>Beschluss, der nur bei Anwesenheit der Hälfte der Mitglieder und mit
                         Zweidrittelmehrheit gefaßt werden kann."</p>
                 </quote>
                 <p>Beschlossen wird ferner:</p>

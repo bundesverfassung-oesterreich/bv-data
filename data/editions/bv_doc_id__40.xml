@@ -30,13 +30,11 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372"
-                        >Peter Andorfer </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X"
-                        >Carl Friedrich Haak </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -63,7 +61,11 @@
                 <idno type="bv_data_set">Datenset B</idno>
                 <idno type="goobi">14589</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset B</title>
+<biblScope unit="part">1200</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
@@ -112,44 +114,28 @@
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
         <surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_2">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0002/full/full/0/default.jpg"
-                width="3840px" height="5760px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0002/full/full/0/default.jpg" width="3840px" height="5760px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_3">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0003/full/full/0/default.jpg"
-                width="3840px" height="5760px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0003/full/full/0/default.jpg" width="3840px" height="5760px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_4">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0004/full/full/0/default.jpg"
-                width="3840px" height="5760px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0004/full/full/0/default.jpg" width="3840px" height="5760px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_5">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0005/full/full/0/default.jpg"
-                width="3840px" height="5760px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0005/full/full/0/default.jpg" width="3840px" height="5760px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_6">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0006/full/full/0/default.jpg"
-                width="3840px" height="5760px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0006/full/full/0/default.jpg" width="3840px" height="5760px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_7">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0007/full/full/0/default.jpg"
-                width="3840px" height="5760px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0007/full/full/0/default.jpg" width="3840px" height="5760px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_8">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0008/full/full/0/default.jpg"
-                width="3840px" height="5760px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0008/full/full/0/default.jpg" width="3840px" height="5760px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_9">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0009/full/full/0/default.jpg"
-                width="3840px" height="5760px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__40/files/images/IMG_0009/full/full/0/default.jpg" width="3840px" height="5760px"/>
         </surface>
     </facsimile>
     <text type="Sitzungsprotokoll">
@@ -243,8 +229,7 @@
                             Errungenschaft, die man den Ländern irgendwie sichern müsste.
                             Staatssekretär Dr. <emph>Mayr</emph> erklärt, keinen Wert</sic>
                         <corr/></choice></p>
-                <p><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><fw type="pageNum"
-                    >4</fw>Bestimmung nur die lex Starzynski der alten Verfassung, eine
+                <p><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><fw type="pageNum">4</fw>Bestimmung nur die lex Starzynski der alten Verfassung, eine
                     Errungenschaft, die man den Ländern irgendwie sichern müßte.</p>
                 <p>Staatssekretär Dr. <emph>Mayr</emph> erklärt<choice>
                         <sic/>
@@ -274,9 +259,7 @@
                     Bundesparlament in einem großzügigen Bodenreformgesetz unter anderem auch
                     Bestimmungen über Kommassation treffen; daraufhin könne ein Landtag die
                     bundesrechtlichen Bestimmungen über Kommassation, ohne daß der
-                    Verfassungsgerichtshof dagegen einschreiten könnte, weil ein Ge<pb
-                        facs="#facs_6" n="6" xml:id="img_0006" break="no"/><fw type="pageNum"
-                    >5</fw>setz mangelt, demzufolge Bundesrecht dem Landesrecht vorgeht.</p>
+                    Verfassungsgerichtshof dagegen einschreiten könnte, weil ein Ge<pb facs="#facs_6" n="6" xml:id="img_0006" break="no"/><fw type="pageNum">5</fw>setz mangelt, demzufolge Bundesrecht dem Landesrecht vorgeht.</p>
                 <p>Dr. <emph>Seipel</emph> lehnt die Aufnahme eines solchen Satzes aus politisch
                     taktischen Gründen ab, während Abgeordneter <emph>Abram</emph> einen solchen
                     Fingerzeig für die Länder für wünschenswert erachtet, Professor Dr.
@@ -305,8 +288,7 @@
                 <p>Bei der Beratung des Art. 14 meint Staatssekretär Dr. <emph>Mayr</emph>, man
                     könne Abs. 2 streichen, da der Bund auch ohne verfassungsrechtliche Ermächtigung
                     dazu berechtigt sei, während Dr. <emph>Danneberg</emph> für die Beibehaltung
-                    ist. Auch <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw
-                        type="pageNum">6</fw> Professor <emph>Kelsen</emph> findet im Fall der
+                    ist. Auch <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum">6</fw> Professor <emph>Kelsen</emph> findet im Fall der
                     Streichung verschiedene Auffassungen möglich; man könnte allenfalls vertreten,
                     dass Alles, was der Bund tun darf, wenn die Kompetenzen des Bundes taxativ
                     aufgezählt sind, ausdrücklich angegeben sein müsse, sonst könne ein Land jede
@@ -363,8 +345,7 @@
                     der sich Min.Rat Dr. <emph>Froehlich</emph>, Sekt.Rat Dr.
                         <emph>Mannlicher</emph>, Dr. <emph>Danneberg</emph>, Prof.
                         <emph>Kelsen</emph> und Dr. <emph>Seipel</emph> beteiligen, werden der 3.
-                    und 4. Ab<pb facs="#facs_9" n="9" xml:id="img_0009" break="no"/><fw
-                        type="pageNum">8</fw>satz abgelehnt und von Dr. <emph>Seipel</emph> als
+                    und 4. Ab<pb facs="#facs_9" n="9" xml:id="img_0009" break="no"/><fw type="pageNum">8</fw>satz abgelehnt und von Dr. <emph>Seipel</emph> als
                         <emph>Minoritäsvotum der Christlichsozialen Partei</emph>  angemeldet. <choice>
                         <del>H</del>
                         <add>Absatz 4 wird gleichfalls abgelehnt, h</add>

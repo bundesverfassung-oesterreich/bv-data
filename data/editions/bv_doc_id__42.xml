@@ -30,13 +30,11 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372"
-                        >Peter Andorfer </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X"
-                        >Carl Friedrich Haak </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -63,7 +61,11 @@
                 <idno type="bv_data_set">Datenset B</idno>
                 <idno type="goobi">14591</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset B</title>
+<biblScope unit="part">1400</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
@@ -112,89 +114,55 @@
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
         <surface ulx="0" uly="0" lrx="3053" lry="5053" xml:id="facs_2">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0002/full/full/0/default.jpg"
-                width="3053px" height="5053px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0002/full/full/0/default.jpg" width="3053px" height="5053px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3055" lry="5054" xml:id="facs_3">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0003/full/full/0/default.jpg"
-                width="3055px" height="5054px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0003/full/full/0/default.jpg" width="3055px" height="5054px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3055" lry="5045" xml:id="facs_4">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0004/full/full/0/default.jpg"
-                width="3055px" height="5045px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0004/full/full/0/default.jpg" width="3055px" height="5045px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3049" lry="5040" xml:id="facs_5">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0005/full/full/0/default.jpg"
-                width="3049px" height="5040px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0005/full/full/0/default.jpg" width="3049px" height="5040px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3052" lry="5048" xml:id="facs_6">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0006/full/full/0/default.jpg"
-                width="3052px" height="5048px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0006/full/full/0/default.jpg" width="3052px" height="5048px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3052" lry="5055" xml:id="facs_7">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0007/full/full/0/default.jpg"
-                width="3052px" height="5055px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0007/full/full/0/default.jpg" width="3052px" height="5055px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3050" lry="5053" xml:id="facs_8">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0008/full/full/0/default.jpg"
-                width="3050px" height="5053px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0008/full/full/0/default.jpg" width="3050px" height="5053px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3051" lry="5053" xml:id="facs_9">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0009/full/full/0/default.jpg"
-                width="3051px" height="5053px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0009/full/full/0/default.jpg" width="3051px" height="5053px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3049" lry="5055" xml:id="facs_10">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0010/full/full/0/default.jpg"
-                width="3049px" height="5055px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0010/full/full/0/default.jpg" width="3049px" height="5055px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3053" lry="5062" xml:id="facs_11">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0011/full/full/0/default.jpg"
-                width="3053px" height="5062px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0011/full/full/0/default.jpg" width="3053px" height="5062px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3054" lry="5063" xml:id="facs_12">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0012/full/full/0/default.jpg"
-                width="3054px" height="5063px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0012/full/full/0/default.jpg" width="3054px" height="5063px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3049" lry="5057" xml:id="facs_13">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0013/full/full/0/default.jpg"
-                width="3049px" height="5057px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0013/full/full/0/default.jpg" width="3049px" height="5057px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3054" lry="5047" xml:id="facs_14">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0014/full/full/0/default.jpg"
-                width="3054px" height="5047px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0014/full/full/0/default.jpg" width="3054px" height="5047px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3052" lry="5051" xml:id="facs_15">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0015/full/full/0/default.jpg"
-                width="3052px" height="5051px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0015/full/full/0/default.jpg" width="3052px" height="5051px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3059" lry="5051" xml:id="facs_16">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0016/full/full/0/default.jpg"
-                width="3059px" height="5051px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0016/full/full/0/default.jpg" width="3059px" height="5051px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3055" lry="5051" xml:id="facs_17">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0017/full/full/0/default.jpg"
-                width="3055px" height="5051px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0017/full/full/0/default.jpg" width="3055px" height="5051px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3048" lry="5048" xml:id="facs_18">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0018/full/full/0/default.jpg"
-                width="3048px" height="5048px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__42/files/images/IMG_0018/full/full/0/default.jpg" width="3048px" height="5048px"/>
         </surface>
     </facsimile>
     <text type="Sitzungsprotokoll">
@@ -262,8 +230,7 @@
                         gebunden.</p>
                     <p>(7) Die Bestimmungen dieses Artikels können nur abgeändert werden, wenn im
                         Bundesrate — abgesehen von der für dessen Beschlußfassung überhaupt
-                        erforderlichen Stimmenmehrheit<pb facs="#facs_4" n="4" xml:id="img_0004"
-                            break="yes"/>
+                        erforderlichen Stimmenmehrheit<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
                         <fw type="pageNum">- 3 -</fw> die Mehrheit der Vertreter von wenigstens vier
                         Ländern die Aenderung angenommen hat."</p>
                 </quote>
@@ -296,8 +263,7 @@
                         die Befassung aus, hat der Bundeskanzler die Bundesversammlung innerhalb
                         drei Wochen einzuberufen.“</p>
                 </quote>
-                <p>Eine Anregung Prof. Dr. <emph>Kelsens</emph>, daß bei der Ab<pb facs="#facs_5"
-                        n="5" xml:id="img_0005" break="no"/>
+                <p>Eine Anregung Prof. Dr. <emph>Kelsens</emph>, daß bei der Ab<pb facs="#facs_5" n="5" xml:id="img_0005" break="no"/>
                     <fw type="pageNum">- 4 -</fw>stimmung die Parteien entsprechend ihrer
                     Mitgliederzahl in beiden Körperschaften vertreten sein sollten, findet keine
                     Zustimmung, da der Vorsitzende Schwierigkeiten hinsichtlich der jeweils
@@ -328,8 +294,7 @@
                     sich unsere Vertretungskörper von den politisch sehr zersplitterten
                     französischen unterscheiden, für genügend erklärt und Prof. Dr.
                         <emph>Kelsen</emph> zu bedenken gibt, daß bei einer Parteienkoalition deren
-                    allfällige Sprengung auch die Stellung des Präsidenten erschüttern müßte,<pb
-                        facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+                    allfällige Sprengung auch die Stellung des Präsidenten erschüttern müßte,<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
                     <fw type="pageNum">- 5 -</fw>wird befürwortet von den Abgeordneten Dr.
                         <emph>Danneberg</emph>, <emph>Fink</emph> und Dr. <emph>Seipel</emph> das
                     französische Beispiel gewählt und folgende Fassung beschlossen:</p>
@@ -363,8 +328,7 @@
                         <add>man </add>
                     </choice>sich nach seiner persönlichen Auffassung nicht auf eine bestimmte
                     Einwohnerzahl festlegen, vielmehr könne in Gebirgsgegenden mit wenig Industrie
-                    und geringerer Besiedlung die Gemeinde auch einen kleineren Bruchteil der<pb
-                        facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+                    und geringerer Besiedlung die Gemeinde auch einen kleineren Bruchteil der<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
                     <fw type="pageNum">- 6 -</fw> Bevölkerung umfassen. Er hält es auch für möglich
                     Grenzgebiete aus Gründen der Verkehrspolitik und gleichartiger wirtschaftlicher
                     wie sozialer Verhältnisse ohne Rücksicht auf die Landesgrenzen zu solchen
@@ -506,8 +470,7 @@
                     ist der Anschauung, daß eine Staatsverwaltung wie bisher auf Grund der neuen
                     Verfassung nicht mehr existieren wird. Bundesagenden, für die nicht eigene
                     Bundesorgane vorgesehen sind, werden die Landesorgane ausführen.</p>
-                <p>Ueber die Frage, ob die Länder im Stande wären, die<pb facs="#facs_12" n="12"
-                        xml:id="img_0012" break="yes"/>
+                <p>Ueber die Frage, ob die Länder im Stande wären, die<pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>
                     <fw type="pageNum">- 11 -</fw>Kosten der Verwaltung zu tragen, sind der
                         <emph>Vorsitzende</emph> und Staatssekretär Dr. <emph>Mayr</emph>
                     entgegengesetzter Meinung. Auch letzterer ist aber der Ansicht, daß die
@@ -537,8 +500,7 @@
                 <p>Bezüglich des Art. 97 bezweifelt Staatssekretär Dr. <emph>Mayr</emph>, ob die
                     Demokratisierung bereits soweit gediehen sei, daß man zur Wahl von
                     Kreishauptmännern schreiten könne. Abgeordneter <emph>Clessin</emph> befürchtet
-                    den Mangel genügender fähiger Ver<pb facs="#facs_13" n="13" xml:id="img_0013"
-                        break="no"/>
+                    den Mangel genügender fähiger Ver<pb facs="#facs_13" n="13" xml:id="img_0013" break="no"/>
                     <fw type="pageNum">- 12 -</fw>waltungsfachmänner; schon jetzt bedürften die
                     gewählten Landesorgane mehrerer zugeteilter Beamten, die sie in die Verwaltung
                     einführen. Der <emph>Vorsitzende</emph> erklärt, daß es auch sehr wohl der Fall
@@ -566,8 +528,7 @@
                     diesem Antrage und dem Antrage des Berichterstatters <emph>Abram</emph>, daß der
                     Kreishauptmann von der Kreisvertretung zu wählen sei, der Antrag des Abg. Dr.
                         <emph>Seipel</emph> angenommen: Eine Bestimmung über die Wahl des
-                    Kreishauptmannes ist in die Verfassung nicht aufzu<pb facs="#facs_14" n="14"
-                        xml:id="img_0014" break="no"/>
+                    Kreishauptmannes ist in die Verfassung nicht aufzu<pb facs="#facs_14" n="14" xml:id="img_0014" break="no"/>
                     <fw type="pageNum">- 13 -</fw>nehmen.</p>
                 <p>Sekt.Rat Dr. <emph>Mannlicher</emph> meint unter Hinweis auf die Schulverwaltung,
                     daß die Frage zu klären wäre, inwiefern die Selbstverwaltung durch politische,
@@ -593,8 +554,7 @@
                 <p>Nach längerer Beratung über die Frage, welchen Städten die Stellung von
                     Kreisgemeinden einzuräumen sei, ob solchen mit mehr als 10.000 oder nur solchen
                     mit mehr als 15.000 Einwohnern wird unter Hinweis auf die großen finanziellen
-                    Lasten der Vermittlungsantrag des Vorsitzenden angenommen:<pb facs="#facs_15"
-                        n="15" xml:id="img_0015" break="yes"/>
+                    Lasten der Vermittlungsantrag des Vorsitzenden angenommen:<pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>
                     <fw type="pageNum">- 14 -</fw> Städten mit mehr als 15.000 Einwohnern, ist auf
                     ihren Antrag die Stellung von Kreis<choice>
                         <del>gemeinden</del>
@@ -625,8 +585,7 @@
                     Unterausschuß die Anschauung herrscht, es seien Bezirksvertretungen zu wählen,
                     die zum bisherigen Bezirkshauptmanne hinzutreten: Über das Zusammenwirken beider
                     soll das erforderliche durch ein besonderes Gesetz geregelt werden. Dr.
-                        <emph>Danneberg</emph><pb facs="#facs_16" n="16" xml:id="img_0016"
-                        break="yes"/>
+                        <emph>Danneberg</emph><pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>
                     <fw type="pageNum">- 15 -</fw> ist der Überzeugung, daß die Aenderung der
                     Verwaltung unterster Instanz heute viel schwieriger ist als in normalen Zeiten,
                     man müsse also für die Uebergangszeit, die Jahre dauern kann,
@@ -652,8 +611,7 @@
                     Art. 106 die Bezirksvertretungen sofort zu wählen wären.</p>
                 <p>Sekt.Rat Dr. <emph>Mannlicher</emph> findet es notwendig, daß die Staatsregierung
                     erklärt, welche Agenden der Bezirkshauptmann allein, welche er unter Mitwirkung
-                    der gewählten Vertretung zu erledigen hat; dazu wäre eine doppelte Gesetz<pb
-                        facs="#facs_17" n="17" xml:id="img_0017" break="no"/>
+                    der gewählten Vertretung zu erledigen hat; dazu wäre eine doppelte Gesetz<pb facs="#facs_17" n="17" xml:id="img_0017" break="no"/>
                     <fw type="pageNum">- 16 -</fw>gebung erforderlich. Prof. Dr. <emph>Kelsen</emph>
                     ist der Änsicht, daß bei Bestimmung der Grundzüge durch Bundesrahmengesetz sich
                     die Frist nach den allgemeinen hiefür beschlossenen Regeln und somit eine

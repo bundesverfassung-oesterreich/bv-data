@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__13">
   <teiHeader>
     <fileDesc>
@@ -60,7 +61,11 @@
         <idno type="bv_data_set">Datenset A</idno>
         <idno type="goobi">14522</idno>
       </publicationStmt>
-      <sourceDesc>
+      <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">2600</biblScope>
+</seriesStmt>
+<sourceDesc>
         <msDesc type="invetory">
           <msIdentifier>
             <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
@@ -213,8 +218,7 @@
             </div>
             <div type="article">
               <head>Art. 2. </head>
-              <p type="legal_section">Die Republik Oesterreich ist ein freier Bundesstaat. <note
-                  type="comment">Art. 2, Al. 1. </note></p>
+              <p type="legal_section">Die Republik Oesterreich ist ein freier Bundesstaat. <note type="comment">Art. 2, Al. 1. </note></p>
               <p type="legal_section">Der Bund wird gebildet durch den Zusammenschluß der Länder
                 Burgenland, Kärnten, Niederösterreich, Oberösterreich, Salzburg, Steiermark, Tirol,
                 Vorarlberg und Wien (Bundesländer). <note type="comment">Al. 2 wird Art.
@@ -228,8 +232,7 @@
                 soweit sie nicht durch Staatsverträge herbeigeführt werden, durch Bundesverfassungsgesetz. </p>
               <p type="legal_section"><label>(3)</label> Aenderungen der Landesgrenzen innerhalb des
                 Bundesgebietes können entweder durch Bundesverfassungsgesetze oder durch
-                übereinstimmende einfache Gesetze <pb facs="#facs_3" n="3" xml:id="img_0003"
-                  break="yes"/>
+                übereinstimmende einfache Gesetze <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
                 <fw type="pageNum">- 2 -</fw>des Bundes und derjenigen Bundesländer, deren Gebiet
                 eine Aenderung erfahren soll, vorgenommen werden. </p>
               <p type="legal_section"><label>(4)</label> Wächst der Republik ein Gebiet zu, das geschichtlich zu einem Bundeslande gehört hat, so wird es diesem Lande einverleibt. </p>
@@ -284,8 +287,7 @@
             <div type="article">
               <head>Art. 9 </head>
               <p type="legal_section">Die deutsche Sprache ist, unbeschadet der den sprachlichen
-                Minderheiten gesetzlich eingeräumten Rechte, die Staatssprache der Republik <note
-                  type="comment">Art. 6.</note></p>
+                Minderheiten gesetzlich eingeräumten Rechte, die Staatssprache der Republik <note type="comment">Art. 6.</note></p>
             </div>
           </div>
           <div type="section">
@@ -302,8 +304,7 @@
               <fw type="pageNum">4.</fw><head>Art. 11. </head>
               <p type="legal_section"><label>(1)</label> Der Oberste Träger der öffentlichen Gewalt
                 der Republik ist die Bundesversammlung die nach aussen durch den von ihr gewählten
-                Bundespräsidenten vertreten und verkörpert wird. <note type="comment"
-                >Vacat.</note></p>
+                Bundespräsidenten vertreten und verkörpert wird. <note type="comment">Vacat.</note></p>
               <p type="legal_section"><label>(2)</label> Die Bundesversammlung besteht aus einem
                 Volkshaus, dem Bundestag, und aus einem Länderhaus, dem Bundesrat. Die zwei Häuser
                 der Bundesversammlung tagen mit Ausnahme der in der Verfassung ausdrücklich
@@ -326,8 +327,7 @@
               <head>Art. 13. </head>
               <p type="legal_section"><label>(1)</label> Das gesetzgebende Organ des Bundes ist der
                 Bundestag, den das ganze Bundesvolk direkt wählt, in Gemeinschaft mit dem
-                Bundesrate, dessen Mitglieder von den Landtagen gewählt werden. <note type="comment"
-                  >Siehe Art. 15 und 26.</note></p>
+                Bundesrate, dessen Mitglieder von den Landtagen gewählt werden. <note type="comment">Siehe Art. 15 und 26.</note></p>
               <p type="legal_section"><label>(2)</label> Das gesetzgebende Organ der Länder sind die
                 vom Volke direkt gewählten Landtage. <note type="comment">Siehe Art. 65.</note></p>
             </div>
@@ -335,12 +335,10 @@
               <head>Art. 14. </head>
               <p type="legal_section"><label>(1)</label> Mit dem Vollzuge der Gesetze sind
                 Volksbeauftragte betraut, die von den Volksvertretungen auf jederzeitigen Widerruf
-                bestellt und diesen unmittelbar und vor dem<pb facs="#facs_6" n="6"
-                  xml:id="img_0006" break="yes"/>
+                bestellt und diesen unmittelbar und vor dem<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
                 <fw type="pageNum">5</fw> Verfassungsgerichtshof verantwortlich sind. Der
                 Geltendmachung dieser Verantwortung steht die Nichtverantwortlichkeit des
-                Volksvertreters (Art. 12, Al. 2) nicht im Wege.<note type="comment"
-                >Vacat.</note></p>
+                Volksvertreters (Art. 12, Al. 2) nicht im Wege.<note type="comment">Vacat.</note></p>
               <p type="legal_section"><label>(2)</label> An der Vollzugsgewalt nehmen nach Maßgabe
                 dieser Verfassung der Bund und die Bundesländer und auf Grund der Bundes- und
                 Landesgesetze die Gemeinden teil. <note type="comment">Vacat.</note></p>
@@ -372,8 +370,7 @@
                 gewählt und besteht aus dem Bundeskanzler, seinem Stellvertreter (Vizekanzler) und
                 den Bundesministern. <note type="comment">Siehe Art. 60. </note></p>
               <p type="legal_section"><label>(4) </label>Die den Mitgliedern der Bundesregierung
-                zustehenden Aufträge und Vollmachten werden durch Verfassungsge<note type="comment"
-                  >Siehe Art. 64, al. 2.</note><pb facs="#facs_7" n="7" xml:id="img_0007" break="no"/>
+                zustehenden Aufträge und Vollmachten werden durch Verfassungsge<note type="comment">Siehe Art. 64, al. 2.</note><pb facs="#facs_7" n="7" xml:id="img_0007" break="no"/>
                 <fw type="pageNum">6.</fw>setz des Bundes bestimmt und abgegrenzt. </p>
             </div>
             <div type="article">
@@ -409,8 +406,7 @@
               <head>Art. 20. </head>
               <p type="legal_section"><label>(1)</label> Alle Gerichtsbarkeit ist dem Bunde
                 vorbehalten, sie ist von der Vollzugsgewalt getrennt und wird durch unabhängige Richter ausgeübt.</p>
-              <p type="legal_section"><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw
-                  type="pageNum">7. </fw><label>(2)</label> Die Richter sind auf Lebenszeit bestellt
+              <p type="legal_section"><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">7. </fw><label>(2)</label> Die Richter sind auf Lebenszeit bestellt
                 und nur vor Gerichten ihres Standes verantwortlich. </p>
               <note type="comment">Siehe Art. 92.</note>
             </div>
@@ -420,8 +416,7 @@
                 Krieg und Frieden, sie verfügt in gleicher Weise über die bewaffnete Macht der Republik. <note type="comment">Vacat, Siehe Art. 17, Al. 1 Siehe Art. 70 </note></p>
               <p type="legal_section"><label>(2)</label> Jeder wehrfähige Bundesangehörige ist
                 verpflichtet, nach den Anordnungen der Bundesversammlung an der Verteidigung der
-                Republik wider den angreifenden Feind teilzunehmen. <note type="comment"
-                  >Vacat.</note></p>
+                Republik wider den angreifenden Feind teilzunehmen. <note type="comment">Vacat.</note></p>
               <p type="legal_section"><label>(3)</label> Auf dem Bundesgebiete und unter dem
                 Bundesvolke ist ausser den zuständigen Bundesbehörden niemand befugt eine bewaffnete
                 Macht zu werben, zu halten oder zu verwenden. <note type="comment">Vacat.</note></p>
@@ -429,8 +424,7 @@
             <div type="article">
               <head>Art. 22. </head>
               <p type="legal_section">Sämtliche Behörden und Aemter der Republik sind im Rahmen
-                ihrer gesetzlichen Befugnisse zur wechselseitigen Hilfeleistung verpflichtet. <note
-                  type="comment">Art. 9.</note></p>
+                ihrer gesetzlichen Befugnisse zur wechselseitigen Hilfeleistung verpflichtet. <note type="comment">Art. 9.</note></p>
             </div>
             <div type="article">
               <head>Art. 23. </head>
@@ -487,8 +481,7 @@
               <head>Art. 29. </head>
               <p type="legal_section"><label>(1)</label> Die zum Vollzuge der Bundesgesetze nötigen
                 Verordnungen erläßt die Bundesregierung, soweit nicht die Erlassung von Ausführungsgesetzen Landessache ist.  </p>
-              <p type="legal_section"><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><fw
-                  type="pageNum">9</fw><label>(2) </label> Die zum Vollzuge der Landesgesetze
+              <p type="legal_section"><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><fw type="pageNum">9</fw><label>(2) </label> Die zum Vollzuge der Landesgesetze
                 nötigen Verordnungen erlassen die Landesregierungen. </p>
               <p type="legal_section"><label><choice>
                     <sic/>
@@ -530,8 +523,7 @@
               <p type="legal_section">Das Staatswappen der Republik stellt einen freischwebenden
                 einköpfigen, schwarzen, golden bewaffneten und rot bezungten Adler dar, dessen Brust
                 mit einem roten, von einem silbernen Querbalken durchzogenen Schildchen belegt ist.
-                Der Adler trägt auf dem Haupte eine goldene <pb facs="#facs_11" n="11"
-                  xml:id="img_0011" break="yes"/><fw type="pageNum">10</fw> Mauerkrone mit drei
+                Der Adler trägt auf dem Haupte eine goldene <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><fw type="pageNum">10</fw> Mauerkrone mit drei
                 sichtbaren Zinnen, im rechten Fange eine goldene Sichel mit einwärts gekehrter
                 Schneide, im linken Fange einen goldenen Hammer. </p>
               <note type="comment">Art. 7 u. 6.</note>
@@ -601,8 +593,7 @@
               <p type="legal_section"><label>(3)</label> Die Zahl der Mitglieder wird nach jeder
                 allgemeinen Volkszählung durch den Bundesrat festgesetzt. </p>
               <note type="comment">Art. 26</note>
-              <p type="legal_section"><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><fw
-                  type="pageNum">12</fw><label>(4)</label> Für jedes Mitglied wird ein Ersatzmann
+              <p type="legal_section"><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><fw type="pageNum">12</fw><label>(4)</label> Für jedes Mitglied wird ein Ersatzmann
                 bestellt.</p>
               <p type="legal_section"><label>(5)</label> Bei der Ausübung ihres Mandates sind die
                 Mitglieder des Bundesrates an keinen Auftrag gebunden.<note type="comment">Al. 6
@@ -677,8 +668,7 @@
               <p type="legal_section"><label>(2)</label> Der Bundesrat erstattet dem Bundestag zu
                 Gesetzesbeschlüssen, die nicht nach Art. 50 und 51 gefaßt sind, im Wege der
                 Bundesregierung zu den übermittelten Beschlüssen seine Aeußerung. </p>
-              <p type="legal_section"><pb break="yes" xml:id="vmc_lp5_4bc" facs="#facs_15" n=""
-                  /><label>(3)</label> Stimmt diese Aeußerung ohne Vorbehalt dem Beschlusse zu, so
+              <p type="legal_section"><pb break="yes" xml:id="vmc_lp5_4bc" facs="#facs_15" n=""/><label>(3)</label> Stimmt diese Aeußerung ohne Vorbehalt dem Beschlusse zu, so
                 kann er sofort beurkundet und als Gesetz kundgemacht werden. </p>
               <p type="legal_section"><label>(4)</label> Enthält die Aeußerung einen Vorbehalt oder
                 Einspruch, so legt die Bundesregierung den Beschluß samt Aeußerung und Begründung
@@ -708,8 +698,7 @@
             <div type="article">
               <head>Art. 54</head>
               <p type="legal_section"><label>(1)</label> Zu einem Beschlusse ist im Bundestag die
-                Anwesenheit von mindestens einem Viertel, <pb facs="#facs_16" n="16"
-                  xml:id="img_0016" break="yes"/><fw type="pageNum">13</fw> im Bundesrat von
+                Anwesenheit von mindestens einem Viertel, <pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/><fw type="pageNum">13</fw> im Bundesrat von
                 mindestens der Hälfte aller Mitglieder und die absolute Mehrheit der abgegebenen
                 Stimmen erforderlich. </p>
               <p type="legal_section"><label>(2)</label> Eine Abänderung der Bundesverfassung kann
@@ -750,8 +739,7 @@
               <head>Art. 60</head>
               <p type="legal_section"><label>(1)</label> Das verfassungsmässige Zustandekommen der
                 Bundesgesetze wird durch die Unterschrift des Bundespräsidenten beurkundet. </p>
-              <p type="legal_section"><pb break="yes" facs="#facs_17" n="17" xml:id="img_0017"/><fw
-                  type="pageNum">16.</fw><label>(2)</label> Die Beurkundung ist vom Bundeskanzler
+              <p type="legal_section"><pb break="yes" facs="#facs_17" n="17" xml:id="img_0017"/><fw type="pageNum">16.</fw><label>(2)</label> Die Beurkundung ist vom Bundeskanzler
                 und von den zuständigen Bundesministern gegenzuzeichnen. </p>
               <note type="comment">Art. 40.</note>
             </div>
@@ -817,8 +805,7 @@
                     </item>
                   </list>
                 </p>
-                <p type="legal_section"><pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"
-                    /><label>(2)</label> Die Sitzungen der Bundesversammlung sind nicht öffentlich.
+                <p type="legal_section"><pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/><label>(2)</label> Die Sitzungen der Bundesversammlung sind nicht öffentlich.
                   Der Bundesrat und der Bundestag beraten die zu entscheidenden Gegenstände
                   gesondert und treten bloß zum Zwecke der Abstimmung zusammen. Das Ergebnis der
                   Abstimmung wird beiden Häusern durch deren Vorsitzenden mitgeteilt. </p>
@@ -954,8 +941,7 @@
                 Bundesregierung vom Bundespräsidenten oder auf Grund seiner Ermächtigung vom
                 zuständigen Bundesminister ernannt. <note type="comment">Art. 76, Al. 1</note>
               </p>
-              <p type="legal_section"><pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/><fw
-                  type="pageNum">21.</fw><label>(2)</label> Die Bundesregierung stellt ihre Anträge
+              <p type="legal_section"><pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/><fw type="pageNum">21.</fw><label>(2)</label> Die Bundesregierung stellt ihre Anträge
                 auf Grund von Besetzungsvorschlägen von Kollegien, die durch das
                 Gerichtsverfassungsgesetz eingerichtet werden. </p>
               <p type="legal_section"><label>(3) </label> In diese Kollegien entsenden die durch das
@@ -1058,8 +1044,7 @@
               nicht bloß die Ortsgemeinden, sondern auch die Gerichtsbezirke und
               die politischen Bezirke (Gebietsgemeinden). Diese sind als öffentlich rechtliche Körperschaften und zugleich als juristische Personen des Privatrechtes mit eigenen gewählten Vertretungen (Art. 105, Ab. 3 ) einzurichten. Die Nichtverantwortlichkeit der Volksvertreter (Art. 14, Ab. 1) kommt den Gemeindevertretern nicht zu. </p>
             <p type="legal_section"><label>(3)</label> Zu diesem Behufe sind die politischen Bezirke
-              unter Berücksichtigung der geschichtlichen Landeseinteilung tunlichst <pb
-                facs="#facs_25" n="25" xml:id="img_0025" break="yes"/>
+              unter Berücksichtigung der geschichtlichen Landeseinteilung tunlichst <pb facs="#facs_25" n="25" xml:id="img_0025" break="yes"/>
               <fw type="pageNum">24. </fw>zu Kreisen (Gauen, Vierteln) zu vereinigen. Aenderungen in
               der Abgrenzung der Gerichts- und politischen Bezirke und die Einteilung eines Landes
               in Kreise bedürfen übereinstimmender Bundes- und Landesgesetze. </p>
@@ -1095,8 +1080,7 @@
           <div type="article">
             <head>Art. 120. </head>
             <p type="legal_section"><label>(1)</label> Die Bezirks- und Kreisvertretungen haben alle
-              bisher durch besondere Ausschüsse, Konkurrenzen und sonstigen Sonder<pb
-                facs="#facs_26" n="26" xml:id="img_0026" break="no"/>
+              bisher durch besondere Ausschüsse, Konkurrenzen und sonstigen Sonder<pb facs="#facs_26" n="26" xml:id="img_0026" break="no"/>
               <fw type="pageNum">25 </fw>vertretungen besorgten Geschäfte ihres Gebietes zu
               übernehmen. </p>
             <p type="legal_section"><label>(2)</label> Die Amtsgeschäfte der bisherigen

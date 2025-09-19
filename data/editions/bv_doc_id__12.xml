@@ -61,7 +61,11 @@
                 <idno type="bv_data_set">Datenset A</idno>
                 <idno type="goobi">14521</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">4000</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
@@ -135,8 +139,7 @@
             <p type="legal_section"><label>(1)</label> Das Bundesgebiet umfaßt die Gebiete der Bundesländer.</p>
             <p type="legal_section"><label>(2)</label> Eine Änderung des Bundesgebietes, die
               zugleich Änderung eines Landesgebietes ist, ebenso die Änderung einer Landesgrenze
-              innerhalb des Bundesgebietes kann - abgesehen von Friedens <pb facs="#facs_3" n="3"
-                xml:id="img_0003" break="no"/><fw type="pageNum">2</fw>verträgen - nur durch
+              innerhalb des Bundesgebietes kann - abgesehen von Friedens <pb facs="#facs_3" n="3" xml:id="img_0003" break="no"/><fw type="pageNum">2</fw>verträgen - nur durch
               übereinstimmende Verfassungsgesetze des Bundes und jenes Landes erfolgen, dessen
               Gebiet eine Änderung erfährt.</p>
             <p type="legal_section"><label>(3)</label> Die für Niederösterreich-Land und Wien
@@ -1032,8 +1035,7 @@
                 <head>Artikel 81.</head>
                 <p type="legal_section"><label>(1)</label> Über das Heer verfügt der Nationalrat.
                   Insoweit diesem nicht durch das Wehrgesetz die unmittelbare Verfügung vorbehalten
-                  ist, wird mit der Verfügung die Bundesregierung oder innerhalb<pb facs="#facs_24"
-                    n="24" xml:id="img_0024" break="yes"/>
+                  ist, wird mit der Verfügung die Bundesregierung oder innerhalb<pb facs="#facs_24" n="24" xml:id="img_0024" break="yes"/>
                   <fw type="pageNum"> 23</fw> der von dieser erteilten Ermächtigung der zuständige
                   Bundesminister betraut.</p>
                 <p type="legal_section"><label>(2)</label> Inwieweit auch die Behörden der Länder und Gemeinden die Mitwirkung des Bundesheeres zu den im Artikel 80, Absatz 2, erwähnten Zwecken unmittelbar
@@ -1238,8 +1240,7 @@
                 Industrie, Patentwesen, Schutz von Marken, Mustern und anderen Warenbezeichnungen,
                 Ingenieur- und Ziviltechnikerwesen, Verkehrswesen, Bundesstraßen, Strom- und
                 Schiffahrtspolizei, Post-, Telegraphen- und Fernsprechwesen, Bergwesen, Regulierung
-                und Instandhaltung von Gewässern, Bau und Instand<pb facs="#facs_29" n="29"
-                  xml:id="img_0029" break="no"/>
+                und Instandhaltung von Gewässern, Bau und Instand<pb facs="#facs_29" n="29" xml:id="img_0029" break="no"/>
                 <fw type="pageNum">28</fw> haltung von Wasserstraßen, hydrographischer Dienst,
                 Vermessungswesen, Arbeiterrecht, Arbeiter- und Angestelltenschutz,
                 Sozialversicherungswesen, Denkmalschutz, Bundespolizei, Bundesgendarmerie,
@@ -1321,8 +1322,7 @@
             <div type="article">
               <head>Artikel 113.</head>
               <p type="legal_section">Für beide Landesteile gelten die allgemeinen Bestimmungen
-                dieses Hauptstückes. Für Wien hat<pb facs="#facs_31" n="31" xml:id="img_0031"
-                  break="yes"/><fw type="pageNum">30</fw> dabei der vom Gemeinderat gewählte
+                dieses Hauptstückes. Für Wien hat<pb facs="#facs_31" n="31" xml:id="img_0031" break="yes"/><fw type="pageNum">30</fw> dabei der vom Gemeinderat gewählte
                 Bürgermeister auch die Stellung eines Landeshauptmannes, der vom Gemeinderat
                 gewählte Stadtsenat auch die Stellung einer Landesregierung und der
                 Magistratsdirektor der Stadt Wien auch die Stellung eines Landesamtsdirektors.</p>

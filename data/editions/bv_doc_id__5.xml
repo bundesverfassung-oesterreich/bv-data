@@ -63,7 +63,11 @@
                         <idno type="bv_data_set">Datenset A</idno>
                         <idno type="goobi">14506</idno>
                   </publicationStmt>
-                  <sourceDesc>
+                  <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">0600</biblScope>
+</seriesStmt>
+<sourceDesc>
                         <msDesc type="invetory">
                               <msIdentifier>
                                     <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
@@ -382,9 +386,7 @@
                                                 <label>8.)</label>
                                                 <item> Kultus- und Hochschulwesen,  </item>
                                                 <label>9.)</label>
-                                                <item>Volksgesundheit und soziale Für<pb
-                                                  facs="#facs_4" n="4" xml:id="img_0004" break="no"
-                                                  /><fw type="pageNum">- 3 -</fw>sorge. </item>
+                                                <item>Volksgesundheit und soziale Für<pb facs="#facs_4" n="4" xml:id="img_0004" break="no"/><fw type="pageNum">- 3 -</fw>sorge. </item>
                                           </list></p>
                                     <p type="legal_section">In diesen Angelegenheiten steht dem Bunde die Gesetzgebung und Vollziehung
                                           zu. </p>
@@ -825,9 +827,7 @@
                                     <div type="article">
                                           <head>Art. 44. </head>
                                           <p type="legal_section">Der Bundespräsident und die
-                                                Mitglieder der Bundesregierung sind nach Maßga<pb
-                                                  facs="#facs_16" n="16" xml:id="img_0016"
-                                                  break="no"/><fw type="pageNum">- 15 -</fw>be des
+                                                Mitglieder der Bundesregierung sind nach Maßga<pb facs="#facs_16" n="16" xml:id="img_0016" break="no"/><fw type="pageNum">- 15 -</fw>be des
                                                 Art. . . . . . der Bundesverfassung, der
                                                 Bundesversammlung und dem Bundesrate verantwortlich. </p>
                                     </div>
@@ -1050,8 +1050,7 @@
                                                 Bundestages kann der Bundesrat Einspruch erheben. </p>
                                           <p type="legal_section">Der Einspruch muß innerhalb zweier
                                                 Wochen nach der Schlußabstimmung im Bundestage bei
-                                                der Bundesregierung einge<pb facs="#facs_22" n="22"
-                                                  xml:id="img_0022" break="no"/><fw type="pageNum">-
+                                                der Bundesregierung einge<pb facs="#facs_22" n="22" xml:id="img_0022" break="no"/><fw type="pageNum">-
                                                   21 -</fw>bracht, und spätestens in zwei weiteren
                                                 Wochen mit Gründen versehen werden. </p>
                                           <p type="legal_section">Im Falle des Einspruchs wird das
@@ -1118,8 +1117,7 @@
                                                 auswärtigen Staaten ist ausschließlich Sache des
                                                 Bundes. </p>
                                           <p type="legal_section">Den Ländern ist es untersagt, mit
-                                                  aus<pb facs="#facs_24" n="24" xml:id="img_0024"
-                                                  break="no"/><fw type="pageNum"> 23 </fw>wärtigen
+                                                  aus<pb facs="#facs_24" n="24" xml:id="img_0024" break="no"/><fw type="pageNum"> 23 </fw>wärtigen
                                                 Staaten in Verhandlung zu treten oder Staatsverträge
                                                 abzuschliessen, Vereinbarungen über Gegenstände
                                                 ihres selbstständigen Wirkungskreises können mehrere
@@ -1420,8 +1418,7 @@
                                     <p type="legal_section">Die gesetzgebende Gewalt der Länder wird
                                           durch den Landtag ausgeübt, dessen Mitglieder auf Grund
                                           des gleichen, geheimen persönlichen und direkten
-                                                Verhältnis<pb facs="#facs_32" n="32"
-                                                xml:id="img_0032" break="no"/><fw type="pageNum">-
+                                                Verhältnis<pb facs="#facs_32" n="32" xml:id="img_0032" break="no"/><fw type="pageNum">-
                                                 31 -</fw>wahlrechtes aller nach den
                                           Landtagsordnungen <choice>
                                                 <sic>W</sic>
@@ -1458,8 +1455,7 @@
                                     <p type="legal_section">Wegen Gefährdung von Bundesinteressen
                                           kann die Bundesregierung binnen 4 Wochen vom Tage der
                                           erfolgten Bekanntmachung an gegen einen Gesetzesbeschluß
-                                          des Landtages<pb facs="#facs_33" n="33" xml:id="img_0033"
-                                                break="yes"/><fw type="pageNum">- 32 -
+                                          des Landtages<pb facs="#facs_33" n="33" xml:id="img_0033" break="yes"/><fw type="pageNum">- 32 -
                                           </fw>Einspruch erheben. </p>
                                     <p type="legal_section">Ein solcher Gesetzesbeschluß kann nur dann in Rechtskraft erwachsen, wenn er bei Anwesenheit von zwei Drittel
                                           aller Mitglieder des Landtages mit einer
@@ -1627,9 +1623,7 @@
                               <div type="article">
                                     <head>Art. 113. </head>
                                     <p type="legal_section">Bei vorübergehender Verhinderung wird
-                                          der Präsident durch den im Range nächsten<pb
-                                                facs="#facs_38" n="38" xml:id="img_0038" break="yes"
-                                                /><fw type="pageNum">- 37 -</fw>Beamten des
+                                          der Präsident durch den im Range nächsten<pb facs="#facs_38" n="38" xml:id="img_0038" break="yes"/><fw type="pageNum">- 37 -</fw>Beamten des
                                           Bundesrechnungshofes vertreten. </p>
                                     <p type="legal_section">Für den Stellvertreter gelten die
                                           Bestimmungen des Art. . .,Abs. 2. </p>
@@ -1659,9 +1653,7 @@
                                           zum Bunde oder einem Lande in einem Subventions- oder
                                           Vertragsverhältnisse stehen, beteiligt sein. Ausgenommen
                                           sind Unternehmungen, die ausschließlich die Förderung
-                                          humaner Bestrebungen oder der wirtschaftlichen Ver<pb
-                                                facs="#facs_39" n="39" xml:id="img_0039" break="no"
-                                                /><fw type="pageNum">- 38 -</fw>hältnisse von
+                                          humaner Bestrebungen oder der wirtschaftlichen Ver<pb facs="#facs_39" n="39" xml:id="img_0039" break="no"/><fw type="pageNum">- 38 -</fw>hältnisse von
                                           öffentlichen Beamten oder deren Angehörigen zum Zwecke
                                           haben. </p>
                               </div>
@@ -1696,9 +1688,7 @@
                                                   verlangen; </item>
                                                 <label>b) </label>
                                                 <item> durch Beauftragte an Ort und Stelle in die
-                                                  mit der Gebarung der betreffen<pb facs="#facs_40"
-                                                  n="40" xml:id="img_0040" break="no"/><fw
-                                                  type="pageNum">- 39 -</fw>den Stelle im
+                                                  mit der Gebarung der betreffen<pb facs="#facs_40" n="40" xml:id="img_0040" break="no"/><fw type="pageNum">- 39 -</fw>den Stelle im
                                                   Zusammenhange stehenden Behelfe Einschau zu
                                                   nehmen; </item>
                                                 <label>c) </label>
@@ -1916,9 +1906,7 @@
                                           zu schützen. Staat und Gemeinde haben die erforderlichen
                                           Einrichtungen zu treffen. </p>
                                     <p type="legal_section">Fürsorgemaßregeln im Wege des Zwanges
-                                          können nur auf Grund des Gesetzes angeord<pb
-                                                facs="#facs_46" n="46" xml:id="img_0046" break="no"
-                                                /><fw type="pageNum">- 45 -</fw>net werden. </p>
+                                          können nur auf Grund des Gesetzes angeord<pb facs="#facs_46" n="46" xml:id="img_0046" break="no"/><fw type="pageNum">- 45 -</fw>net werden. </p>
                               </div>
                               <div type="article">
                                     <head>Art. 138. </head>
@@ -1985,9 +1973,7 @@
                                           Ruhestand oder in ein anderes Amt mit geringerem Gehalt
                                           versetzt werden. </p>
                                     <p type="legal_section">Gegen jedes dienstliche Straferkenntnis
-                                          muß ein Beschwerdeweg und die Möglich<pb facs="#facs_48"
-                                                n="48" xml:id="img_0048" break="no"/><fw
-                                                type="pageNum">- 47 -</fw>keit eines
+                                          muß ein Beschwerdeweg und die Möglich<pb facs="#facs_48" n="48" xml:id="img_0048" break="no"/><fw type="pageNum">- 47 -</fw>keit eines
                                           Wiederaufnahmeverfahrens eröffnet sein. In die Nachweise
                                           über die Person des Beamten sind Eintragungen von ihm
                                           ungünstigen Tatsachen erst vorzunehmen, wenn dem Beamten
@@ -2017,8 +2003,7 @@
                                           in Uebereinstimmung mit den Grundsätzen der betreffenden
                                           Religionsgesellschaft unbeschadet des Aufsichtsrechttes
                                           des Staates erteilt.</p>
-                                    <p type="legal_section"><pb facs="#facs_49" n="49"
-                                                xml:id="img_0049" break="yes"/><fw type="pageNum">-
+                                    <p type="legal_section"><pb facs="#facs_49" n="49" xml:id="img_0049" break="yes"/><fw type="pageNum">-
                                                 48 -</fw>Die Erteilung religiösen Unterrichtes und
                                           die Vornahme kirchlicher Verrichtungen bleibt der
                                           Willenserklärung der Lehrer, die Teilnahme an religiösen
@@ -2086,9 +2071,7 @@
                               </div>
                               <div type="article">
                                     <head>Art. 153. </head>
-                                    <p type="legal_section">Die bürgerlichen und staatsbürgerli<pb
-                                                facs="#facs_51" n="51" xml:id="img_0051" break="no"
-                                                /><fw type="pageNum">- 50 -</fw>chen Rechte und
+                                    <p type="legal_section">Die bürgerlichen und staatsbürgerli<pb facs="#facs_51" n="51" xml:id="img_0051" break="no"/><fw type="pageNum">- 50 -</fw>chen Rechte und
                                           Pflichten werden durch die Ausübung der Religionsfreiheit
                                           weder bedingt noch beschränkt. </p>
                                     <p type="legal_section">Der Genuß bürgerlicher und
@@ -2118,8 +2101,7 @@
                                           Schranken des für alle geltenden Gesetzes. Sie verleiht
                                           ihre Aemter ohne Mitwirkung des Staates oder der
                                           bürgerlichen Gemeinde.</p>
-                                    <p type="legal_section"><pb facs="#facs_52" n="52"
-                                                xml:id="img_0052" break="yes"/><fw type="pageNum">-
+                                    <p type="legal_section"><pb facs="#facs_52" n="52" xml:id="img_0052" break="yes"/><fw type="pageNum">-
                                                 51 -</fw>Die Religionsgesellschaften bleiben
                                           Körperschaften des öffentlichen Rechtes, soweit sie solche
                                           bisher waren. Anderen Religionsgesellschaften sind auf
@@ -2220,9 +2202,7 @@
                                     <p type="legal_section">Innerhalb der Gemeinden sind indes auf
                                           Antrag von Erziehungsberechtigten Volksschulen ihres
                                           Bekenntnisses oder ihrer Weltanschauung einzurichten,
-                                          soweit hiedurch ein geordneter Schulbetrieb auch<pb
-                                                facs="#facs_55" n="55" xml:id="img_0055" break="yes"
-                                                /><fw type="pageNum">- 54 -</fw>im Sinne des Abs. 1
+                                          soweit hiedurch ein geordneter Schulbetrieb auch<pb facs="#facs_55" n="55" xml:id="img_0055" break="yes"/><fw type="pageNum">- 54 -</fw>im Sinne des Abs. 1
                                           nicht beeinträchtigt wird. Der Wille der
                                           Erziehungsberechtigten ist möglichst zu berücksichtigen. </p>
                                     <p type="legal_section">Für den Zugang Minderbemittelter zu den
@@ -2250,9 +2230,7 @@
                                           Erziehungsberechtigten, deren Wille nach Art. . . . zu
                                           berücksichtigen ist, eine öffentliche Volksschule ihres
                                           Bekenntnisses oder ihrer Weltanschauung in der Gemeinde
-                                          nicht besteht oder die Unterrichtsverwaltung<pb
-                                                facs="#facs_56" n="56" xml:id="img_0056" break="yes"
-                                                /><fw type="pageNum">- 55 -</fw>ein besonderes
+                                          nicht besteht oder die Unterrichtsverwaltung<pb facs="#facs_56" n="56" xml:id="img_0056" break="yes"/><fw type="pageNum">- 55 -</fw>ein besonderes
                                           pädagogisches Interesse anerkennt. </p>
                                     <p type="legal_section">Private Vorschulen sind aufzuheben. </p>
                                     <p type="legal_section">Für private Schulen, die nicht als
@@ -2282,8 +2260,7 @@
                                           Gewährleistung eines menschenwürdigen Daseins für alle
                                           entsprechen. In diesen Grenzen ist die wirtschaftliche
                                           Freiheit des Einzelnen zu sichern.</p>
-                                    <p type="legal_section"><pb facs="#facs_57" n="57"
-                                                xml:id="img_0057" break="yes"/><fw type="pageNum">-
+                                    <p type="legal_section"><pb facs="#facs_57" n="57" xml:id="img_0057" break="yes"/><fw type="pageNum">-
                                                 56 -</fw>Gesetzlicher Zwang ist nur zulässig zur
                                           Verwirklichung bedrohter Rechte oder im Dienst
                                           überragender Forderungen des Gemeinwohls. </p>
@@ -2422,8 +2399,7 @@
                                     <p type="legal_section">Zur Erhaltung der Gesundheit und
                                           Arbeitsfähigkeit, zum Schutze der Mutterschaft und zur
                                           Vorsorge gegen die wirtschaftlichen Folgen von Alter,
-                                          Schwäche und<pb facs="#facs_61" n="61" xml:id="img_0061"
-                                                break="yes"/><fw type="pageNum">- 60
+                                          Schwäche und<pb facs="#facs_61" n="61" xml:id="img_0061" break="yes"/><fw type="pageNum">- 60
                                           -</fw>Wechselfällen des Lebens schafft der Bund ein
                                           umfassendes Versicherungswesen unter maßgebender
                                           Mitwirkung der Versicherten. </p>
@@ -2459,9 +2435,7 @@
                               <div type="article">
                                     <head>Art. 180. </head>
                                     <p type="legal_section">Die Arbeiter und Angestellten sind dazu
-                                          berufen, gleichberechtigt in Gemein<pb facs="#facs_62"
-                                                n="62" xml:id="img_0062" break="no"/><fw
-                                                type="pageNum">- 61 -</fw>schaft mit den
+                                          berufen, gleichberechtigt in Gemein<pb facs="#facs_62" n="62" xml:id="img_0062" break="no"/><fw type="pageNum">- 61 -</fw>schaft mit den
                                           Unternehmern an der Regelung der Lohn- und
                                           Arbeitsbedingungen sowie an der gesamten wirtschaftlichen
                                           Entwicklung der produktiven Kräfte mitzuwirken. Die
@@ -2490,8 +2464,7 @@
                                           Einbringung dem Bundeswirtschaftsrat zur Begutachtung
                                           vorgelegt werden. Der Bundeswirtschaftsrat hat das Recht,
                                           selbst solche Gesetzesvorlagen zu beantragen. Stimmt ihnen
-                                          die Bundesregierung nicht zu,<pb facs="#facs_63" n="63"
-                                                xml:id="img_0063" break="yes"/><fw type="pageNum">-
+                                          die Bundesregierung nicht zu,<pb facs="#facs_63" n="63" xml:id="img_0063" break="yes"/><fw type="pageNum">-
                                                 62 -</fw>so hat sie trotzdem die Vorlage unter
                                           Darlegung ihres Standpunktes beim Bundestag einzubringen.
                                           Der Bundeswirtschaftsrat kann die Vorlage durch eines
@@ -2685,8 +2658,7 @@
                                                   <item>der Mitglieder der Bundesregierung und der
                                                   ihnen hinsichtlich der Verantwortlichkeit
                                                   gleichgestellten Organe, </item>
-                                                  <pb facs="#facs_68" n="68" xml:id="img_0068"
-                                                  break="yes"/>
+                                                  <pb facs="#facs_68" n="68" xml:id="img_0068" break="yes"/>
                                                   <fw type="pageNum">- 67 -</fw>
                                                   <label>c) </label>
                                                   <item>der Mitglieder der Landesregierungen und der

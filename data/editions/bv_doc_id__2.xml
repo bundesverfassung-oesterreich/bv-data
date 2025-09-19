@@ -63,7 +63,11 @@
                         <idno type="bv_data_set">Datenset A</idno>
                         <idno type="goobi">14503</idno>
                   </publicationStmt>
-                  <sourceDesc>
+                  <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">0300</biblScope>
+</seriesStmt>
+<sourceDesc>
                         <msDesc type="invetory">
                               <msIdentifier>
                                     <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
@@ -469,9 +473,7 @@
                                                 Aufnahme und Konvertierung von Bundesanleihen und
                                                 die Erteilung des Absolutoriums an die
                                                 Bundesregierung auf Grund des geprüften und
-                                                gebilligten Bundesrechnungsabschlusses / Art.….<pb
-                                                  facs="#facs_6" n="6" xml:id="img_0006" break="yes"
-                                                  /><fw type="pageNum">- 5 -</fw>Diese Beschlüsse
+                                                gebilligten Bundesrechnungsabschlusses / Art.….<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><fw type="pageNum">- 5 -</fw>Diese Beschlüsse
                                                 bedürfen der Genehmigung des Bundesrates. </p>
                                     </div>
                                     <div type="article">
@@ -511,9 +513,7 @@
                                           <head>Art. 18. </head>
                                           <p type="legal_section">Während der Sitzungsperiode kann
                                                 der Bundestag durch einen Beschluss des Hauses oder
-                                                auf Vorschlag der Bundesregierung<pb facs="#facs_7"
-                                                  n="7" xml:id="img_0007" break="yes"/><fw
-                                                  type="pageNum">- 7 -</fw>durch den
+                                                auf Vorschlag der Bundesregierung<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum">- 7 -</fw>durch den
                                                 Bundespräsidenten vertagt werden. </p>
                                           <p type="legal_section">Die Vertagung ist aufzuheben, wenn
                                                 wenigstens 50 Mitglieder des Bundestages einen
@@ -555,9 +555,7 @@
                                                 Bundestag entweder als Anträge seiner Mitglieder
                                                 oder als Vorlagen der Bundesregierung. Auch der
                                                 Bundesrat kann im Wege der Bundesregierung
-                                                Gesetzesanträge im Bundestag stellen.<pb
-                                                  facs="#facs_8" n="8" xml:id="img_0008" break="yes"
-                                                  /><fw type="pageNum">- 8 -</fw>Die
+                                                Gesetzesanträge im Bundestag stellen.<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">- 8 -</fw>Die
                                                 Gesetzesbeschlüsse des Bundestages einschliesslich
                                                 der in Art. 1<choice>
                                                   <?oxy_comment_start author="kury.s" timestamp="20240514T102116+0200" comment="Nicht erkennbar"?>
@@ -620,9 +618,7 @@
                                                   <add>0.</add>
                                                 </choice></head>
                                           <p type="legal_section">Einer solchen Volksabstimmung ist
-                                                ferner jedes Bundesgesetz unterworfen hin<pb
-                                                  facs="#facs_9" n="9" xml:id="img_0009" break="no"
-                                                  /><fw type="pageNum">- 9 -</fw>sichtlich dessen
+                                                ferner jedes Bundesgesetz unterworfen hin<pb facs="#facs_9" n="9" xml:id="img_0009" break="no"/><fw type="pageNum">- 9 -</fw>sichtlich dessen
                                                 dies von wenigstens 400000 Stimmenberechtigten oder
                                                 von der Mehrheit der Stimmenberechtigten dreier
                                                 Länder innerhalb 6 Wochen nach erfolgter Kundmachung
@@ -764,9 +760,7 @@
                                           <p type="legal_section">Als erster und zweiter
                                                 Stellvertreter des Bundesratsvorsitzenden fungieren
                                                 die bei der Wahl aus dem Landtag hiezu an erster und
-                                                zweiter Stelle ermächtigten Ver<pb facs="#facs_11"
-                                                  n="11" xml:id="img_0011" break="no"/><fw
-                                                  type="pageNum">- 11 -</fw>treter des jeweils zum
+                                                zweiter Stelle ermächtigten Ver<pb facs="#facs_11" n="11" xml:id="img_0011" break="no"/><fw type="pageNum">- 11 -</fw>treter des jeweils zum
                                                 stellvertretenden Vorsitz berufenen Landes. </p>
                                           <p type="legal_section">Der Bundesrat wird durch seinen
                                                 Vorsitzenden vertreten. Alle Ausfertigungen des
@@ -818,9 +812,7 @@
                                           <head>Art. 35. </head>
                                           <p type="legal_section">Jeder Gesetzesbeschluss sowie
                                                 jeder andere Beschluss des Bundestages, der einer
-                                                Genehmigung durch den Bundesrat bedarf,<pb
-                                                  facs="#facs_12" n="12" xml:id="img_0012"
-                                                  break="yes"/><fw type="pageNum">- 12 -</fw>ist
+                                                Genehmigung durch den Bundesrat bedarf,<pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><fw type="pageNum">- 12 -</fw>ist
                                                 unverzüglich durch den Präsidenten de<choice>
                                                   <del>r</del>
                                                   <add>s</add>
@@ -942,9 +934,7 @@
                                     <div type="article">
                                           <head>Art. 40. </head>
                                           <p type="legal_section">Die Mitglieder des Bundestages
-                                                können wegen der in Ausübung dieses Berufes<pb
-                                                  facs="#facs_14" n="14" xml:id="img_0014"
-                                                  break="yes"/><fw type="pageNum">- 14
+                                                können wegen der in Ausübung dieses Berufes<pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><fw type="pageNum">- 14
                                                 -</fw>geschehenen Abstimmungen niemals wegen der in
                                                 diesem Berufe gemachten Aeusserungen nur vo<choice>
                                                   <del>n</del>
@@ -1022,9 +1012,7 @@
                                                 Beweiserhebungen Folge zu leisten; alle öffentlichen
                                                 Aemter haben auf Verlangen ihre Akten vorzulegen.
                                                 Die Vorschriften der Strafgesetzordnung finden auch
-                                                in Erhebungen des Untersuchungsausschusses sinnge<pb
-                                                  facs="#facs_16" n="16" xml:id="img_0016"
-                                                  break="no"/><fw type="pageNum">- 16 -</fw>mässe
+                                                in Erhebungen des Untersuchungsausschusses sinnge<pb facs="#facs_16" n="16" xml:id="img_0016" break="no"/><fw type="pageNum">- 16 -</fw>mässe
                                                 Anwendung. </p>
                                           <p type="legal_section">Das Verfahren des Untersuchungsausschusses wird durch das
                                                 Geschäftsordnungsgesetz
@@ -1062,9 +1050,7 @@
                                                 <p type="legal_section">Zum Bundespräsidenten sowie
                                                   zu seinem Stellvertreter kann nur derjenige
                                                   deutschösterreichische Bundesbürger gewählt
-                                                  werden, der das aktive Wahlrecht zum Bundes<pb
-                                                  facs="#facs_17" n="17" xml:id="img_0017"
-                                                  break="no"/><fw type="pageNum">- 17 - </fw>tag hat
+                                                  werden, der das aktive Wahlrecht zum Bundes<pb facs="#facs_17" n="17" xml:id="img_0017" break="no"/><fw type="pageNum">- 17 - </fw>tag hat
                                                   und am 1. Jänner des Jahres, in welchem die Wahl
                                                   stattfindet, das 40. Lebensjahr vollendet hat.
                                                 </p>
@@ -1118,8 +1104,7 @@
                                                   keinen anderen Beruf ausüben.</p>
                                           </div>
                                           <div type="article">
-                                                <pb facs="#facs_18" n="18" xml:id="img_0018"
-                                                  break="yes"/>
+                                                <pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>
                                                 <fw type="pageNum">- 18 -</fw>
                                                 <head>Art. 53. </head>
                                                 <p type="legal_section">Eine strafgerichtliche
@@ -1161,9 +1146,7 @@
                                                   Bundespräsidentschaft. </p>
                                                 <p type="legal_section">Die Ernennung der
                                                   Bundesbeamten, Offizieren und sonstigen
-                                                  Bundesfunktionären<pb facs="#facs_19" n="19"
-                                                  xml:id="img_0019" break="yes"/><fw type="pageNum"
-                                                  >- 19 -</fw>sowie die Verleihung von Titeln. </p>
+                                                  Bundesfunktionären<pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/><fw type="pageNum">- 19 -</fw>sowie die Verleihung von Titeln. </p>
                                                 <p type="legal_section">Die Begnadigung
                                                   rechtskräftig Verurteilter, die Milderung der von
                                                   den Gerichten ausgesprochenen Strafen, die
@@ -1204,8 +1187,7 @@
                                           <div type="article">
                                                 <head>Art. 60. </head>
                                                 <p type="legal_section">Wenn der Bundespräsident
-                                                  verhin<pb facs="#facs_20" n="20" xml:id="img_0020"
-                                                  break="no"/><fw type="pageNum">- 20 -</fw>dert ist
+                                                  verhin<pb facs="#facs_20" n="20" xml:id="img_0020" break="no"/><fw type="pageNum">- 20 -</fw>dert ist
                                                   oder wenn er gerichtlich verfolgt oder wenn seine
                                                   Stelle erledigt ist, im letzteren Falle <choice>
                                                   <del>bs</del>
@@ -1243,8 +1225,7 @@
                                                 <p type="legal_section">Mit der Ausübung der
                                                   Regierungs- und Vollzugsgewalt des Bundes sind,
                                                   soweit diese nicht dem Bundespräsidenten
-                                                  übertra<pb facs="#facs_21" n="21"
-                                                  xml:id="img_0021" break="no"/><fw type="pageNum">-
+                                                  übertra<pb facs="#facs_21" n="21" xml:id="img_0021" break="no"/><fw type="pageNum">-
                                                   21 - </fw>gen ist, der Bundeskanzler, der
                                                   Vizekanzler und die Staatssekretäre betraut. </p>
                                                 <p type="legal_section">Sie bilden in ihrer
@@ -1284,9 +1265,7 @@
                                                   der Geschäfte zu beauftragen, oder leitende Beamte
                                                   der Staatsämter unter dem Vorsitze eines dieser
                                                   leitenden Beamten oder eines eigens heizu
-                                                  bestellten Beamten mit der einst<pb
-                                                  facs="#facs_22" n="22" xml:id="img_0022"
-                                                  break="no"/><fw type="pageNum">- 22 -</fw>weiligen
+                                                  bestellten Beamten mit der einst<pb facs="#facs_22" n="22" xml:id="img_0022" break="no"/><fw type="pageNum">- 22 -</fw>weiligen
                                                   Leitung der Verwaltung zu betrauen. </p>
                                           </div>
                                           <div type="article">
@@ -1330,8 +1309,7 @@
                                                   dem Bundesrate verantwortlich.</p>
                                           </div>
                                           <div type="article">
-                                                <pb facs="#facs_23" n="23" xml:id="img_0023"
-                                                  break="yes"/>
+                                                <pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"/>
                                                 <fw type="pageNum">- 23 -</fw>
                                                 <head>Art. 67. </head>
                                                 <p type="legal_section">Zur Durchführung der
@@ -1373,9 +1351,7 @@
                                                 </head>
                                                 <p type="legal_section">Das Bundesheer ist bestimmt,
                                                   die Republik gegen Angriffe äußerer Feinde zu
-                                                  verteidigen und, soweit es die gesetzmäßige<pb
-                                                  facs="#facs_24" n="24" xml:id="img_0024"
-                                                  break="yes"/><fw type="pageNum">- 24 -
+                                                  verteidigen und, soweit es die gesetzmäßige<pb facs="#facs_24" n="24" xml:id="img_0024" break="yes"/><fw type="pageNum">- 24 -
                                                   </fw>bürgerliche Gewalt für nötig hält, <choice>
                                                   <del>am</del>
                                                   <add>zum</add>
@@ -1489,9 +1465,7 @@
                                                 Altersgrenzen dürfen Richter nur auf Grund eines
                                                 förmlichen richterlichen Erkenntnisses ihres Amtes
                                                 ersetzt werden; ihre zeitweise Enthebung vom Amte
-                                                darf nur durch Verfügung des Gerichtsvor<pb
-                                                  facs="#facs_27" n="27" xml:id="img_0027"
-                                                  break="no"/><fw type="pageNum">- 27 -</fw>standes
+                                                darf nur durch Verfügung des Gerichtsvor<pb facs="#facs_27" n="27" xml:id="img_0027" break="no"/><fw type="pageNum">- 27 -</fw>standes
                                                 oder höheren Gerichtsbehörde unter gleichzeitiger
                                                 Verweisung der Sache an das zuständige Gericht, die
                                                 Versetzung an eine andere Stelle oder in den
@@ -1523,9 +1497,7 @@
                                                 Ausübung seines Amtes verursachten
                                                 Rechtsverletzungen kann dieser Richter sowie der
                                                 Bund ausser den im gerichtlichen Verfahren
-                                                vorgezeichneten Rechtsmitteln mit Klage be<pb
-                                                  facs="#facs_28" n="28" xml:id="img_0028"
-                                                  break="no"/><fw type="pageNum">- 28 -</fw>langt
+                                                vorgezeichneten Rechtsmitteln mit Klage be<pb facs="#facs_28" n="28" xml:id="img_0028" break="no"/><fw type="pageNum">- 28 -</fw>langt
                                                 werden. Dieses Klagerecht wird durch ein besonderes
                                                 Bundesgesetz gereglt. </p>
                                           <p type="legal_section">Der B<choice>
@@ -1571,9 +1543,7 @@
                                     <div type="article">
                                           <head>Art. 87. </head>
                                           <p type="legal_section">Die Rechtspflege wird von der
-                                                Verwaltung in allen Instanzen getrennt. Die<pb
-                                                  facs="#facs_29" n="29" xml:id="img_0029"
-                                                  break="yes"/><fw type="pageNum">- 29 -
+                                                Verwaltung in allen Instanzen getrennt. Die<pb facs="#facs_29" n="29" xml:id="img_0029" break="yes"/><fw type="pageNum">- 29 -
                                                 </fw>Staatsanwaltschaft gilt als Verwaltungsbehörde. </p>
                                     </div>
                                     <div type="article">
@@ -1718,8 +1688,7 @@
                                           Dienstbetriebes der Landesregierung ist ein
                                                 Landesamtsdi<del>e</del>rektor zu bestellen; er ist
                                           der unmittelbare Vorgesetzte aller Landesangestellten und
-                                          hat für einen einheitlichen und<pb facs="#facs_33" n="33"
-                                                xml:id="img_0033" break="yes"/><fw type="pageNum">-
+                                          hat für einen einheitlichen und<pb facs="#facs_33" n="33" xml:id="img_0033" break="yes"/><fw type="pageNum">-
                                                 33 -</fw>geregelten Geschäftsgang in sämtlichen
                                           Zweigen der Landesverwaltung zu sorgen. </p>
                               </div>
@@ -1754,8 +1723,7 @@
                                           ihnen unterstellten Landesbehörden im übertragenen
                                           Wirkungskreise ausgeübt, soweit nicht für einzelne
                                           Bundesangelegenheiten eigene Bundesbehörden durch
-                                          Bundesgesetz berufen sind.<pb facs="#facs_34" n="34"
-                                                xml:id="img_0034" break="yes"/><fw type="pageNum">-
+                                          Bundesgesetz berufen sind.<pb facs="#facs_34" n="34" xml:id="img_0034" break="yes"/><fw type="pageNum">-
                                                 34 -</fw>In diesem Belange ist die Landesregierung
                                           samt den ihr unterstellten Behörden an die Bundesgesetze,
                                           die Vollzugsanweisungen und sonstigen Anordnungen der
@@ -1798,9 +1766,7 @@
                                           gesamten Staatswirtschaft des Bundes wie der Länder,
                                           einschließlich der Staatsschulden, ferner der Gebahrung
                                           der von Organen des Budes oder der Länder verwalteten
-                                          Stiftungen, Fonds und Anstalten sowie zur Ueberprüfung<pb
-                                                facs="#facs_35" n="35" xml:id="img_0035" break="yes"
-                                                /><fw type="pageNum">- 35 -</fw>von Gebarung jener
+                                          Stiftungen, Fonds und Anstalten sowie zur Ueberprüfung<pb facs="#facs_35" n="35" xml:id="img_0035" break="yes"/><fw type="pageNum">- 35 -</fw>von Gebarung jener
                                           Institute und Gesellschaften, an welchen der Bund oder die
                                           Länder in irgendeiner Form finanziell beteiligt sind, ist
                                           der Bundesrechnungshof berufen. </p>
@@ -1842,9 +1808,7 @@
                                           Leitung. Er ist hinsichtlich der
                                           Verantwortlichkeit den Mitgliedern der
                                           Bundesregierung gleichgestellt. </p>
-                                    <p type="legal_section">Abgesehen von dem in Art.…,<pb
-                                                facs="#facs_36" n="36" xml:id="img_0036" break="yes"
-                                                /><fw type="pageNum">- 36 - </fw>der
+                                    <p type="legal_section">Abgesehen von dem in Art.…,<pb facs="#facs_36" n="36" xml:id="img_0036" break="yes"/><fw type="pageNum">- 36 - </fw>der
                                           Bundesverfassung analoge Anwendung. </p>
                               </div>
                               <div type="article">
@@ -1884,8 +1848,7 @@
                                     <p type="legal_section">Ist die Stelle des Präsidenten dauernd
                                           erledigt, kann der Stellvertreter vom Bundespräsidenten,
                                           bis die Wahl des Präsidenten des Bundesrechnungshofes
-                                                erfolgt<pb facs="#facs_37" n="37" xml:id="img_0037"
-                                                break="yes"/><fw type="pageNum">- 37 -</fw>ist, mit
+                                                erfolgt<pb facs="#facs_37" n="37" xml:id="img_0037" break="yes"/><fw type="pageNum">- 37 -</fw>ist, mit
                                           der Leitung des Bundesrechnungshofes betraut werden. In
                                           diesem Falle finden auch auf den Stellvertreter die
                                           Bestimmungen des Art.… Anwendung. </p>
@@ -1929,8 +1892,7 @@
                                           </choice>. </head>
                                     <p type="legal_section">Alle Urkunden über Staatsschulden
                                           (Finanz- und Verwaltungsschulden) sind vom Präsidenten des
-                                          Bundesrechnungshofes gegen<pb facs="#facs_38" n="38"
-                                                xml:id="img_0038" break="no"/><fw type="pageNum">-
+                                          Bundesrechnungshofes gegen<pb facs="#facs_38" n="38" xml:id="img_0038" break="no"/><fw type="pageNum">-
                                                 38 - </fw>zuzeichnen; durch diese Gegenzeichnung
                                           wird lediglich die Gesetzmässigkeit und rechnungsmässige
                                           Richtigkeit der Gebarung bekräftigt. </p>
@@ -2117,9 +2079,7 @@
                                                 <add>5</add>
                                           </choice>. </head>
                                     <p type="legal_section">Die Auswanderungsfreiheit ist nur aus
-                                          dem Grunde der Landesverteidigung beschränkbar.<pb
-                                                facs="#facs_42" n="42" xml:id="img_0042" break="yes"
-                                                /><fw type="pageNum">- 42 - </fw>Der Verlust der
+                                          dem Grunde der Landesverteidigung beschränkbar.<pb facs="#facs_42" n="42" xml:id="img_0042" break="yes"/><fw type="pageNum">- 42 - </fw>Der Verlust der
                                           Staatsbürgerschaft infolge Auswanderung wird durch
                                           besondere Gesetze geregelt. </p>
                               </div>
@@ -2165,8 +2125,7 @@
                                           </choice>. </head>
                                     <p type="legal_section">Das Brief-, Post-, Telegraphen- und
                                           Fernsprechgeheimnis ist jedermann gewährleistet. Ausnahmen
-                                          in den Fällen strafgericht<pb facs="#facs_43" n="43"
-                                                xml:id="img_0043" break="no"/><fw type="pageNum">-
+                                          in den Fällen strafgericht<pb facs="#facs_43" n="43" xml:id="img_0043" break="no"/><fw type="pageNum">-
                                                 43 -</fw>licher Untersuchung und im Kriegsfall könne
                                           nur durch Bundesgesetz bestimmt werden. </p>
                               </div>
@@ -2210,9 +2169,7 @@
                                                 <add>2</add>
                                           </choice>. </head>
                                     <p type="legal_section">Alle Staatsbürger haben das Recht sich
-                                          ohne Anmeldung oder besondere Erlaubnis<pb facs="#facs_44"
-                                                n="44" xml:id="img_0044" break="yes"/><fw
-                                                type="pageNum">- 44 -</fw>friedlich und unbewaffnet
+                                          ohne Anmeldung oder besondere Erlaubnis<pb facs="#facs_44" n="44" xml:id="img_0044" break="yes"/><fw type="pageNum">- 44 -</fw>friedlich und unbewaffnet
                                           zu versammeln. </p>
                                     <p type="legal_section">Versammlungen unter freiem Himmel können durch Bundesgesetz
                                           anmeldepflichtig gemacht und bei
@@ -2249,9 +2206,7 @@
                                           davon Rechte und Pflichten abhängen,<?oxy_comment_start author="kury.s" timestamp="20240521T114828+0200" comment="unleserlich"?><add>X</add><?oxy_comment_end?>
                                           wenn eine gesetzlich angeordnete statistische Erhebung dies erfordert. </p>
                                     <p type="legal_section">In diesem Sinne ist durch Bundesgesetz
-                                          die Führung der Standesregister zu regeln.<pb
-                                                facs="#facs_45" n="45" xml:id="img_0045" break="yes"
-                                                /><fw type="pageNum">- 45 - </fw>Niemand darf <choice>
+                                          die Führung der Standesregister zu regeln.<pb facs="#facs_45" n="45" xml:id="img_0045" break="yes"/><fw type="pageNum">- 45 - </fw>Niemand darf <choice>
                                                 <?oxy_comment_start author="kury.s" timestamp="20240521T114921+0200" comment="unleserlich"?>
                                                 <del>[unleserlich]</del><?oxy_comment_end?>
                                                 <add>zu</add>
@@ -2538,13 +2493,11 @@
                                                 <add>1</add>
                                           </choice>.</head>
                                     <p type="legal_section">Wer durch rechtswidrige Ausübung der
-                                          öffentlichen Gewalt Schaden erleidet, hat <note
-                                                type="comment">– abgesehen von dem in
+                                          öffentlichen Gewalt Schaden erleidet, hat <note type="comment">– abgesehen von dem in
                                                 Art.…geregelten Fall –</note>einen im Wege der
                                           ordentlichen Gerichte geltend zu machenden Anspruch auf
                                           Entschädigung gegen den Bund oder das Land, durch dessen
-                                          Organ der<pb facs="#facs_51" n="51" xml:id="img_0051"
-                                                break="yes"/><fw type="pageNum">- 51 -</fw>Schade
+                                          Organ der<pb facs="#facs_51" n="51" xml:id="img_0051" break="yes"/><fw type="pageNum">- 51 -</fw>Schade
                                           zugefügt wurde. </p>
                                     <p type="legal_section">Die nähere Regelung erfolgt durch
                                           Bundesgesetz. </p>
@@ -2594,8 +2547,7 @@
                                                   <add>4</add>
                                                 </choice>.</head>
                                           <p type="legal_section">Wegen Rechtsverletzung durch die
-                                                  Ent<pb facs="#facs_52" n="52" xml:id="img_0052"
-                                                  break="no"/><fw type="pageNum">- 52 -
+                                                  Ent<pb facs="#facs_52" n="52" xml:id="img_0052" break="no"/><fw type="pageNum">- 52 -
                                                 </fw>scheidung oder Verfügung einer
                                                 Verwaltungsbehörde des Bundes oder eines Landes
                                                 entscheiden nach Erschöpfung des administrativen
@@ -2650,8 +2602,7 @@
                                                 </choice>.</head>
                                           <p type="legal_section">Das Bundesverwaltungsgericht und
                                                 die Landesverwaltungsgerichte haben in der Regel nur
-                                                über Beschwerden der Parteien zu erkennen. <note
-                                                  type="comment">Ev. Zu<choice>
+                                                über Beschwerden der Parteien zu erkennen. <note type="comment">Ev. Zu<choice>
                                                   <sic>m</sic>
                                                   <corr>r</corr>
                                                   </choice> Wahrung des Gesetzes wird bei den
@@ -2710,9 +2661,7 @@
                                                 Angelegenheiten, in denen ein Verwaltungsgericht
                                                 angerufen werden kann, der administrative
                                                 Instanzenzug bei Angelegenheiten des Wirkungskreises
-                                                der Länder noch vor der Entschei<pb facs="#facs_54"
-                                                  n="54" xml:id="img_0054" break="no"/><fw
-                                                  type="pageNum">- 54 - </fw>dung der
+                                                der Länder noch vor der Entschei<pb facs="#facs_54" n="54" xml:id="img_0054" break="no"/><fw type="pageNum">- 54 - </fw>dung der
                                                 Landesregierung, bei den übrigen Angelegenheiten
                                                 noch vor der Entscheidung der Bundesregierung bezw.
                                                 des zuständigen Bundesamtes beendet sei.</p>
@@ -2762,9 +2711,7 @@
                                                 Antrag einer Landesregierung. </p>
                                           <p type="legal_section">Das stattgebende Erkenntnis des
                                                 Bundesverfassungsgerichtes bewirkt die Kassation der
-                                                gesetzwidrigen Vollzugsanweisung und verpflich<pb
-                                                  facs="#facs_55" n="55" xml:id="img_0055"
-                                                  break="no"/><fw type="pageNum">- 54 -</fw>tet die
+                                                gesetzwidrigen Vollzugsanweisung und verpflich<pb facs="#facs_55" n="55" xml:id="img_0055" break="no"/><fw type="pageNum">- 54 -</fw>tet die
                                                 erlassende Behörde zur Kundmachung der erfolgten
                                                 Aufhebung. </p>
                                     </div>
@@ -2832,8 +2779,7 @@
                                                   gleichgestellten Organe, </item>
                                                   <label>c)</label>
                                                   <item>der Mitglieder der Landesregierungen </item>
-                                                </list><pb facs="#facs_56" n="56" xml:id="img_0056"
-                                                  break="yes"/><fw type="pageNum">- 56 - </fw>und
+                                                </list><pb facs="#facs_56" n="56" xml:id="img_0056" break="yes"/><fw type="pageNum">- 56 - </fw>und
                                                 der ihnen hinsichtlich der Verantwortlichkeit
                                                 gleichgestellten Organe, u.zw. wegen vorsätzlicher
                                                 oder grobfahrlässiger Verletzung der
@@ -2885,9 +2831,7 @@
                                           <p type="legal_section">Das Bundesverfassungsgericht in
                                                 Wien besteht aus einem Präsidenten, einem
                                                 Vizepräsidenten, 14 Mitgliedern und 8
-                                                  Ersatzmitgliedern.<pb facs="#facs_57" n="57"
-                                                  xml:id="img_0057" break="yes"/><fw type="pageNum"
-                                                  >- 54 -</fw>Der Präsident, der Vizepräsident, 7
+                                                  Ersatzmitgliedern.<pb facs="#facs_57" n="57" xml:id="img_0057" break="yes"/><fw type="pageNum">- 54 -</fw>Der Präsident, der Vizepräsident, 7
                                                 Mitglieder und 4 Ersatzmitglieder werden von dem
                                                 Bundestag, 7 Mitglieder und 4 Ersarzmitgliedner vom
                                                 Bundesrat auf Lebensdauer gewählt. </p>

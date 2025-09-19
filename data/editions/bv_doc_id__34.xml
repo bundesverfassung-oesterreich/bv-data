@@ -30,14 +30,12 @@
                         </respStmt>
                         <respStmt>
                               <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                              <persName role="acdh:hasContributor"
-                                    key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                              <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
                               </persName>
                         </respStmt>
                         <respStmt>
                               <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                              <persName role="acdh:hasContributor"
-                                    key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                              <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
                               </persName>
                         </respStmt>
                   </titleStmt>
@@ -65,11 +63,14 @@
                         <idno type="bv_data_set">Datenset A</idno>
                         <idno type="goobi">14575</idno>
                   </publicationStmt>
-                  <sourceDesc>
+                  <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">3600</biblScope>
+</seriesStmt>
+<sourceDesc>
                         <msDesc type="invetory">
                               <msIdentifier>
-                                    <institution key="https://d-nb.info/gnd/37748-X"
-                                          >Österreichisches Staatsarchiv</institution>
+                                    <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
                                     <repository key="https://d-nb.info/gnd/1601181-8">Archiv der
                                           Republik (Wien)</repository>
                                     <idno type="archive">AdR, Büro Seitz, Karton 9</idno>
@@ -118,39 +119,25 @@
       </teiHeader>
       <facsimile xmlns="http://www.tei-c.org/ns/1.0">
             <surface ulx="0" uly="0" lrx="3233" lry="4586" xml:id="facs_2">
-                  <graphic
-                        url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0010/full/full/0/default.jpg"
-                        width="3233px" height="4586px"/>
+                  <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0010/full/full/0/default.jpg" width="3233px" height="4586px"/>
             </surface>
             <surface ulx="0" uly="0" lrx="3171" lry="4633" xml:id="facs_3">
-                  <graphic
-                        url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0011/full/full/0/default.jpg"
-                        width="3171px" height="4633px"/>
+                  <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0011/full/full/0/default.jpg" width="3171px" height="4633px"/>
             </surface>
             <surface ulx="0" uly="0" lrx="3152" lry="4535" xml:id="facs_4">
-                  <graphic
-                        url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0012/full/full/0/default.jpg"
-                        width="3152px" height="4535px"/>
+                  <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0012/full/full/0/default.jpg" width="3152px" height="4535px"/>
             </surface>
             <surface ulx="0" uly="0" lrx="3149" lry="4543" xml:id="facs_5">
-                  <graphic
-                        url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0013/full/full/0/default.jpg"
-                        width="3149px" height="4543px"/>
+                  <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0013/full/full/0/default.jpg" width="3149px" height="4543px"/>
             </surface>
             <surface ulx="0" uly="0" lrx="3059" lry="4589" xml:id="facs_6">
-                  <graphic
-                        url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0014/full/full/0/default.jpg"
-                        width="3059px" height="4589px"/>
+                  <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0014/full/full/0/default.jpg" width="3059px" height="4589px"/>
             </surface>
             <surface ulx="0" uly="0" lrx="3147" lry="4607" xml:id="facs_7">
-                  <graphic
-                        url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0015/full/full/0/default.jpg"
-                        width="3147px" height="4607px"/>
+                  <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0015/full/full/0/default.jpg" width="3147px" height="4607px"/>
             </surface>
             <surface ulx="0" uly="0" lrx="3022" lry="4576" xml:id="facs_8">
-                  <graphic
-                        url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0016/full/full/0/default.jpg"
-                        width="3022px" height="4576px"/>
+                  <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0016/full/full/0/default.jpg" width="3022px" height="4576px"/>
             </surface>
       </facsimile>
       <text type="Verfassungsentwurf">
@@ -487,9 +474,7 @@
                                           Bundesgesetzgebung bloß die Regelung der Grundsätze
                                           vorbehalten ist, obliegt die nähere Ausführung der
                                           Landesgesetzgebung innerhalb des bundesgesetzlich
-                                          festgelegten Rahmens. Das Bundes<pb facs="#facs_3" n="3"
-                                                xml:id="img_0003" break="no"/><fw type="pageNum"
-                                                >2</fw>gesetz kann für die Erlassung der
+                                          festgelegten Rahmens. Das Bundes<pb facs="#facs_3" n="3" xml:id="img_0003" break="no"/><fw type="pageNum">2</fw>gesetz kann für die Erlassung der
                                           Ausführungsgesetze eine Frist bestimmen, die nicht kürzer
                                           als drei Monate und nicht länger als ein Jahr sein darf.
                                           Wird diese Frist von einer Landesgesetzgebung nicht
@@ -815,9 +800,7 @@
                                           <p type="legal_section"><label>(1)</label> Im Bundesrate
                                                 sind die Länder im Verhältnis zu ihrer Einwohnerzahl
                                                 gemäß den folgenden Bestimmungen vertreten.</p>
-                                          <p type="legal_section"><pb facs="#facs_4" n="4"
-                                                  xml:id="img_0004" break="yes"/><fw type="pageNum"
-                                                  >3</fw><label>(2)</label> Das Land mit der größten
+                                          <p type="legal_section"><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><fw type="pageNum">3</fw><label>(2)</label> Das Land mit der größten
                                                 Einwohnerzahl entsendet 12 Mitglieder, jedes andere
                                                 Land so viele Mitglieder, als dem Verhältnisse
                                                 seiner Einwohnerahl zur erstangeführten
@@ -1168,9 +1151,7 @@
                                                 angehören. </p>
                                           <p type="legal_section"><label>(2)</label> öffentliche
                                                 Angestellte und Funktionäre einschließlich der
-                                                Angehörigen des Bundesheeres bedürfen<pb
-                                                  facs="#facs_5" n="5" xml:id="img_0005" break="yes"
-                                                  /><fw type="pageNum">4</fw>zur Ausübung eines
+                                                Angehörigen des Bundesheeres bedürfen<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><fw type="pageNum">4</fw>zur Ausübung eines
                                                 Mandates im Nationalrat oder im Bundesrate keines
                                                 Urlaubes. </p>
                                           <p type="legal_section"><label>(3)</label> Wenn sich die
@@ -1540,9 +1521,7 @@
                                                   Republik ob. </p>
                                                 <p type="legal_section"><label>(2)</label> Das
                                                   Bundesheer ist, soweit die gesetzmäßige
-                                                  bürgerliche Gewalt seine Mitwirkung in Anspruch<pb
-                                                  facs="#facs_6" n="6" xml:id="img_0006" break="yes"
-                                                  /><fw type="pageNum">5</fw>nimmt, zum Schutz der
+                                                  bürgerliche Gewalt seine Mitwirkung in Anspruch<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><fw type="pageNum">5</fw>nimmt, zum Schutz der
                                                   verfassungsmäßigen Einrichtungen sowie zur
                                                   Aufrechterhaltung der Ordnung und Sicherheit im
                                                   Innern überhaupt und zur Hilfeleistung bei
@@ -1874,9 +1853,7 @@
                                     <head>Artikel 93. </head>
                                     <p type="legal_section"><label>(1)</label> Der Landeshauptmann
                                           oder sein Stellvertreter vertritt das Land. Er trägt in
-                                          den Angelegenheiten<pb facs="#facs_7" n="7"
-                                                xml:id="img_0007" break="yes"/><fw type="pageNum"
-                                                >6</fw>der mittelbaren Bundesverwaltung die
+                                          den Angelegenheiten<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum">6</fw>der mittelbaren Bundesverwaltung die
                                           Verantwortung gegenüber der Bundesregierung gemäß Artikel
                                           152. Der Geltendmachung dieser Verantwortung steht die
                                           Immunitat nicht im Wege. </p>
@@ -2215,9 +2192,7 @@
                                                 Bundespräsidenten ernannt. Der Vorschlag der
                                                 Bundesregierung bedarf bezüglich des Präsidenten und
                                                 der Hälfte der Mitglieder der Zustimmung des
-                                                Hauptausschusses des<pb facs="#facs_8" n="8"
-                                                  xml:id="img_0008" break="yes"/><fw type="pageNum"
-                                                  >7</fw>Nationalrates, bezüglich des
+                                                Hauptausschusses des<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">7</fw>Nationalrates, bezüglich des
                                                 Vizepräsidenten und der anderen Hälfte der
                                                 Mitglieder der Zustimmung des Bundesrates. </p>
                                     </div>

@@ -29,8 +29,7 @@
             </respStmt>
             <respStmt>
                <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-               <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372"
-                  >Peter Andorfer </persName>
+               <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer </persName>
             </respStmt>
             <respStmt>
                <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
@@ -62,7 +61,11 @@
             <idno type="bv_data_set">Datenset A</idno>
             <idno type="goobi">18724</idno>
          </publicationStmt>
-         <sourceDesc>
+         <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">2100</biblScope>
+</seriesStmt>
+<sourceDesc>
             <msDesc type="invetory">
                <msIdentifier>
                   <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
@@ -108,269 +111,163 @@
    </teiHeader>
    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
       <surface ulx="0" uly="0" lrx="3312" lry="5320" xml:id="facs_1">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00001/full/full/0/default.jpg"
-            width="3312px" height="5320px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00001/full/full/0/default.jpg" width="3312px" height="5320px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3346" lry="5320" xml:id="facs_2">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00002/full/full/0/default.jpg"
-            width="3346px" height="5320px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00002/full/full/0/default.jpg" width="3346px" height="5320px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3360" lry="5310" xml:id="facs_3">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00003/full/full/0/default.jpg"
-            width="3360px" height="5310px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00003/full/full/0/default.jpg" width="3360px" height="5310px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3348" lry="5268" xml:id="facs_4">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00004/full/full/0/default.jpg"
-            width="3348px" height="5268px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00004/full/full/0/default.jpg" width="3348px" height="5268px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3370" lry="5302" xml:id="facs_5">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00005/full/full/0/default.jpg"
-            width="3370px" height="5302px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00005/full/full/0/default.jpg" width="3370px" height="5302px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3368" lry="5302" xml:id="facs_6">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00006/full/full/0/default.jpg"
-            width="3368px" height="5302px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00006/full/full/0/default.jpg" width="3368px" height="5302px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3358" lry="5346" xml:id="facs_7">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00007/full/full/0/default.jpg"
-            width="3358px" height="5346px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00007/full/full/0/default.jpg" width="3358px" height="5346px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3352" lry="5314" xml:id="facs_8">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00008/full/full/0/default.jpg"
-            width="3352px" height="5314px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00008/full/full/0/default.jpg" width="3352px" height="5314px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3342" lry="5324" xml:id="facs_9">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00009/full/full/0/default.jpg"
-            width="3342px" height="5324px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00009/full/full/0/default.jpg" width="3342px" height="5324px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3236" lry="5322" xml:id="facs_10">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00010/full/full/0/default.jpg"
-            width="3236px" height="5322px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00010/full/full/0/default.jpg" width="3236px" height="5322px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3362" lry="5328" xml:id="facs_11">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00011/full/full/0/default.jpg"
-            width="3362px" height="5328px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00011/full/full/0/default.jpg" width="3362px" height="5328px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3382" lry="5350" xml:id="facs_12">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00012/full/full/0/default.jpg"
-            width="3382px" height="5350px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00012/full/full/0/default.jpg" width="3382px" height="5350px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3330" lry="5334" xml:id="facs_13">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00013/full/full/0/default.jpg"
-            width="3330px" height="5334px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00013/full/full/0/default.jpg" width="3330px" height="5334px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3348" lry="5334" xml:id="facs_14">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00014/full/full/0/default.jpg"
-            width="3348px" height="5334px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00014/full/full/0/default.jpg" width="3348px" height="5334px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3342" lry="5296" xml:id="facs_15">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00015/full/full/0/default.jpg"
-            width="3342px" height="5296px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00015/full/full/0/default.jpg" width="3342px" height="5296px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3374" lry="5334" xml:id="facs_16">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00016/full/full/0/default.jpg"
-            width="3374px" height="5334px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00016/full/full/0/default.jpg" width="3374px" height="5334px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3386" lry="5322" xml:id="facs_17">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00017/full/full/0/default.jpg"
-            width="3386px" height="5322px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00017/full/full/0/default.jpg" width="3386px" height="5322px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3374" lry="5322" xml:id="facs_18">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00018/full/full/0/default.jpg"
-            width="3374px" height="5322px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00018/full/full/0/default.jpg" width="3374px" height="5322px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3374" lry="5284" xml:id="facs_19">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00019/full/full/0/default.jpg"
-            width="3374px" height="5284px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00019/full/full/0/default.jpg" width="3374px" height="5284px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3362" lry="5284" xml:id="facs_20">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00020/full/full/0/default.jpg"
-            width="3362px" height="5284px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00020/full/full/0/default.jpg" width="3362px" height="5284px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3368" lry="5288" xml:id="facs_21">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00021/full/full/0/default.jpg"
-            width="3368px" height="5288px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00021/full/full/0/default.jpg" width="3368px" height="5288px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3380" lry="5288" xml:id="facs_22">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00022/full/full/0/default.jpg"
-            width="3380px" height="5288px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00022/full/full/0/default.jpg" width="3380px" height="5288px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3358" lry="5260" xml:id="facs_23">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00023/full/full/0/default.jpg"
-            width="3358px" height="5260px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00023/full/full/0/default.jpg" width="3358px" height="5260px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3356" lry="5312" xml:id="facs_24">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00024/full/full/0/default.jpg"
-            width="3356px" height="5312px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00024/full/full/0/default.jpg" width="3356px" height="5312px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3362" lry="5324" xml:id="facs_25">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00025/full/full/0/default.jpg"
-            width="3362px" height="5324px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00025/full/full/0/default.jpg" width="3362px" height="5324px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3382" lry="5306" xml:id="facs_26">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00026/full/full/0/default.jpg"
-            width="3382px" height="5306px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00026/full/full/0/default.jpg" width="3382px" height="5306px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3346" lry="5350" xml:id="facs_27">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00027/full/full/0/default.jpg"
-            width="3346px" height="5350px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00027/full/full/0/default.jpg" width="3346px" height="5350px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3384" lry="5316" xml:id="facs_28">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00028/full/full/0/default.jpg"
-            width="3384px" height="5316px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00028/full/full/0/default.jpg" width="3384px" height="5316px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3346" lry="5306" xml:id="facs_29">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00029/full/full/0/default.jpg"
-            width="3346px" height="5306px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00029/full/full/0/default.jpg" width="3346px" height="5306px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3340" lry="5256" xml:id="facs_30">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00030/full/full/0/default.jpg"
-            width="3340px" height="5256px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00030/full/full/0/default.jpg" width="3340px" height="5256px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3376" lry="5292" xml:id="facs_31">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00031/full/full/0/default.jpg"
-            width="3376px" height="5292px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00031/full/full/0/default.jpg" width="3376px" height="5292px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3370" lry="5364" xml:id="facs_32">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00032/full/full/0/default.jpg"
-            width="3370px" height="5364px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00032/full/full/0/default.jpg" width="3370px" height="5364px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3344" lry="5304" xml:id="facs_33">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00033/full/full/0/default.jpg"
-            width="3344px" height="5304px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00033/full/full/0/default.jpg" width="3344px" height="5304px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3350" lry="5332" xml:id="facs_34">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00034/full/full/0/default.jpg"
-            width="3350px" height="5332px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00034/full/full/0/default.jpg" width="3350px" height="5332px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3370" lry="5338" xml:id="facs_35">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00035/full/full/0/default.jpg"
-            width="3370px" height="5338px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00035/full/full/0/default.jpg" width="3370px" height="5338px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3352" lry="5278" xml:id="facs_36">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00036/full/full/0/default.jpg"
-            width="3352px" height="5278px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00036/full/full/0/default.jpg" width="3352px" height="5278px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3366" lry="5296" xml:id="facs_37">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00037/full/full/0/default.jpg"
-            width="3366px" height="5296px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00037/full/full/0/default.jpg" width="3366px" height="5296px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3380" lry="5352" xml:id="facs_38">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00038/full/full/0/default.jpg"
-            width="3380px" height="5352px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00038/full/full/0/default.jpg" width="3380px" height="5352px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3388" lry="5274" xml:id="facs_39">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00039/full/full/0/default.jpg"
-            width="3388px" height="5274px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00039/full/full/0/default.jpg" width="3388px" height="5274px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3364" lry="5252" xml:id="facs_40">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00040/full/full/0/default.jpg"
-            width="3364px" height="5252px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00040/full/full/0/default.jpg" width="3364px" height="5252px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3364" lry="5354" xml:id="facs_41">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00041/full/full/0/default.jpg"
-            width="3364px" height="5354px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00041/full/full/0/default.jpg" width="3364px" height="5354px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3376" lry="5378" xml:id="facs_42">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00042/full/full/0/default.jpg"
-            width="3376px" height="5378px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00042/full/full/0/default.jpg" width="3376px" height="5378px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3358" lry="5330" xml:id="facs_43">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00043/full/full/0/default.jpg"
-            width="3358px" height="5330px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00043/full/full/0/default.jpg" width="3358px" height="5330px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3348" lry="5330" xml:id="facs_44">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00044/full/full/0/default.jpg"
-            width="3348px" height="5330px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00044/full/full/0/default.jpg" width="3348px" height="5330px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3354" lry="5256" xml:id="facs_45">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00045/full/full/0/default.jpg"
-            width="3354px" height="5256px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00045/full/full/0/default.jpg" width="3354px" height="5256px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3348" lry="5256" xml:id="facs_46">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00046/full/full/0/default.jpg"
-            width="3348px" height="5256px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00046/full/full/0/default.jpg" width="3348px" height="5256px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3342" lry="5330" xml:id="facs_47">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00047/full/full/0/default.jpg"
-            width="3342px" height="5330px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00047/full/full/0/default.jpg" width="3342px" height="5330px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3364" lry="5330" xml:id="facs_48">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00048/full/full/0/default.jpg"
-            width="3364px" height="5330px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00048/full/full/0/default.jpg" width="3364px" height="5330px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3348" lry="5366" xml:id="facs_49">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00049/full/full/0/default.jpg"
-            width="3348px" height="5366px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00049/full/full/0/default.jpg" width="3348px" height="5366px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3360" lry="5324" xml:id="facs_50">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00050/full/full/0/default.jpg"
-            width="3360px" height="5324px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00050/full/full/0/default.jpg" width="3360px" height="5324px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3382" lry="5336" xml:id="facs_51">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00051/full/full/0/default.jpg"
-            width="3382px" height="5336px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00051/full/full/0/default.jpg" width="3382px" height="5336px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3374" lry="5128" xml:id="facs_52">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00052/full/full/0/default.jpg"
-            width="3374px" height="5128px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00052/full/full/0/default.jpg" width="3374px" height="5128px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3100" lry="5242" xml:id="facs_53">
-         <graphic
-            url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00053/full/full/0/default.jpg"
-            width="3100px" height="5242px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__72/files/images/00053/full/full/0/default.jpg" width="3100px" height="5242px"/>
       </surface>
    </facsimile>
 
@@ -415,8 +312,7 @@
                      absoluter Mehrheit der gültig abgegebenen Stimmen für die Angliederung an das
                      andere Land, dann erfolgt die Gebietsänderung, durch einfaches Gesetz dieses
                      Landes.</p>
-                  <p type="legal_section"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"
-                        /><fw type="pageNum">2</fw><label>(3)</label> Entscheidet die
+                  <p type="legal_section"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><fw type="pageNum">2</fw><label>(3)</label> Entscheidet die
                      Volksabstimmung für die Bildung eines neuen Landes, dann ist, wenn das Gebiet
                      wenigstens 140.000 Einwohner zählt, durch den Präsidenten des Bundestages nach
                      dem Bundestagswahlrecht ein verfassunggebender Landtag zur Konstituierung des
@@ -457,8 +353,7 @@
                   <p type="legal_section">Der Gesetzgebung und Vollziehung des Bundes sind
                      übertragen: <list>
                         <label>1.</label>
-                        <item>die auswärtigen Angelegenheiten mit Einschluss <pb facs="#facs_3"
-                              n="3" xml:id="img_0003" break="yes"/><fw type="pageNum">3</fw>der
+                        <item>die auswärtigen Angelegenheiten mit Einschluss <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw type="pageNum">3</fw>der
                            politischen und wirtschaftlichen Vertretung gegenüber dem Auslande; die
                            Grenzvermarkung; die Regelung des Waren- und Viehverkehres mit dem
                            Auslande; das Zollwesen; </item>
@@ -493,9 +388,7 @@
                         <label>7.</label>
                         <item>das Verkehrswesen bezüglich der Eisenbahnen, der Schiffahrt und
                            Luftschifffahrt; die Angelegenheiten der wegen ihrer Bedeutung für den
-                           Durchzugsverkehr durch Bundesgesetz als Bundesstraßen erklärten<pb
-                              facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><fw type="pageNum"
-                              >4</fw>Strassenzüge; die Strom und Schiffahrtspolizei; das Post-,
+                           Durchzugsverkehr durch Bundesgesetz als Bundesstraßen erklärten<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><fw type="pageNum">4</fw>Strassenzüge; die Strom und Schiffahrtspolizei; das Post-,
                            Telegraphen- und Fernsprechwesen; </item>
                         <label>8.</label>
                         <item> das Bergwesen; die Angelegenheiten der Wohlfahrtswälder (Schutz- und
@@ -527,8 +420,7 @@
                            insbesondere auch hinsichtlich der Versorgung der Bevölkerung mit
                            Bedarfsgegenständen; </item>
                         <label>12.</label>
-                        <item>die Organisation der Bundesbehörden und das<pb facs="#facs_5" n="5"
-                              xml:id="img_0005" break="yes"/><fw type="pageNum">5</fw>Dienstrecht
+                        <item>die Organisation der Bundesbehörden und das<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><fw type="pageNum">5</fw>Dienstrecht
                            der Bundesangestellten, einschließlich der Regelung des im Einvernehmen
                            mit dem in Betracht kommenden Land zu vollziehenden Wechsels zwischen
                            Bundes- und Landesdienst. </item>
@@ -570,8 +462,7 @@
                         <item> das Gesundheitswesen mit Ausnahme der Heil- und Pflegeanstalten und
                            Ambularien, des Kurorte-, Leichen- und Begräbniswesens, sowie des
                            Gemeindesanitätsdienstes und Rettungswesens; das Volkswohnungs- und
-                           Volkspflegestättenwesen; das Veterinär<pb facs="#facs_6" n="6"
-                              xml:id="img_0006" break="no"/><fw type="pageNum">6</fw>wesen: </item>
+                           Volkspflegestättenwesen; das Veterinär<pb facs="#facs_6" n="6" xml:id="img_0006" break="no"/><fw type="pageNum">6</fw>wesen: </item>
                         <label>10.</label>
                         <item>das Verwaltungs- und das Verwaltnugsstrafverfahren, einschließlich der
                            Zwangsvollstreckung, sowie die allgemeinen Bestimmungen des
@@ -609,8 +500,7 @@
                            Pflanzen gegen Krankheiten und Schädlinge; </item>
                         <label>6.</label>
                         <item> das Dienstrecht der Angestellten jener Landesbehörden die auch
-                           Bundesangelegenheiten zu besorgen<pb facs="#facs_7" n="7"
-                              xml:id="img_0007" break="yes"/><fw type="pageNum">7</fw>haben,
+                           Bundesangelegenheiten zu besorgen<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum">7</fw>haben,
                            einschließlich der Regelung des im Einvernehmen der in Betracht kommenden
                            Länder zu vollziehenden Dienstwechsels von Land zu Land. </item>
                      </list></p>
@@ -642,8 +532,7 @@
                   <p type="legal_section"><label>(1)</label> Durch die Bestimmungen der Artikel 9
                      bis 12 über die Zuständigkeit in Gesetzgebung und Vollziehung wird die Stellung
                      des Bundes als Träger von Privatrechten in keiner Weise berührt.</p>
-                  <p type="legal_section"><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"
-                        /><fw type="pageNum">8</fw><label>(2)</label> Ebenso bleibt es dem Bunde
+                  <p type="legal_section"><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">8</fw><label>(2)</label> Ebenso bleibt es dem Bunde
                      auch unbenommen, zu Förderung des wirtschaftlichen und kulturellen Lebens auf
                      allen Gebieten Unternehmungen und Einrichtungen zu schaffen und zu erhalten,
                      Veranstaltungen zu treffen und finanzielle Mittel zur Verfügung zu stellen. </p>
@@ -669,8 +558,7 @@
                      Recht, Zweige der Volkswirtschaft, die nicht in das Gemeineigentum überführt
                      sind, unter die Oberverwaltung und Aufsicht wirtschaftlicher
                      Selbstverwaltungskörper zu stellen. Die Mitwirkung der Arbeiter und
-                     Angestellten an der wirt<pb facs="#facs_9" n="9" xml:id="img_0009" break="no"
-                        /><fw type="pageNum">9</fw>schaftlichen Selbstverwaltung ist gewährleistet;
+                     Angestellten an der wirt<pb facs="#facs_9" n="9" xml:id="img_0009" break="no"/><fw type="pageNum">9</fw>schaftlichen Selbstverwaltung ist gewährleistet;
                      den Arbeitern und Angestellten kann in den Vertretungskörpern, die die
                      wirtschaftliche Selbstverwaltung besorgen, in keinem Falle ein geringerer
                      Einfluß zugestanden werden, als den Unternehmern. Desgleichen sind die
@@ -726,9 +614,7 @@
                      <p type="legal_section"><label>(5)</label> In Durchführung von Staatsverträgen
                         hat der Bund das Ueberwachungsrecht auch in solchen Angelegenheiten, die zum
                         selbständigen Wirkungskreis der Länder gehören. Hierbei stehen dem Bunde die
-                        gleichen Rechte gegenüber den Ländern zu, wie bei den Angelegenheiten des<pb
-                           facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><fw type="pageNum"
-                           >11</fw>übertragenen Wirkungskreises. </p>
+                        gleichen Rechte gegenüber den Ländern zu, wie bei den Angelegenheiten des<pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><fw type="pageNum">11</fw>übertragenen Wirkungskreises. </p>
                   </div>
                   <div type="article">
                      <head>Artikel 21. </head>
@@ -768,8 +654,7 @@
                   <div type="article">
                      <head>Artikel 24. </head>
                      <p type="legal_section"><label>(1)</label> Während der Sitzungsperiode kann
-                           der<pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><fw
-                           type="pageNum">12</fw>Bundestag nur durch einen Beschluß des Hauses
+                           der<pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><fw type="pageNum">12</fw>Bundestag nur durch einen Beschluß des Hauses
                         vertagt werden. </p>
                      <p type="legal_section"><label>(2)</label> Die Vertagung ist vor Ablauf der
                         Hertagungszeit aufzuheben, wenn wenigstens ein Viertel der Mitglieder des
@@ -806,8 +691,7 @@
                   </div>
                </div>
                <div type="section">
-                  <head><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><fw type="pageNum"
-                        >13</fw>B. Der Bundesrat. </head>
+                  <head><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><fw type="pageNum">13</fw>B. Der Bundesrat. </head>
                   <div type="article">
                      <head>Artikel 28.</head>
                      <p type="legal_section"><label>(1)</label> Im Bundesrat sind die Länder im
@@ -840,11 +724,9 @@
                         Geschäftsordnung durch Beschluß. </p>
                   </div>
                   <div type="article">
-                     <head><pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><fw
-                           type="pageNum">14</fw>Artikel 30. </head>
+                     <head><pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><fw type="pageNum">14</fw>Artikel 30. </head>
                      <p type="legal_section"><label>(1)</label> Der Bundesrat wird von seinem
-                        Vorsitzenden alljährlich an den Sitz des Bundestages einberufen.<fw
-                           type="pageNum">- 7 - </fw>
+                        Vorsitzenden alljährlich an den Sitz des Bundestages einberufen.<fw type="pageNum">- 7 - </fw>
                      </p>
                      <p type="legal_section"><label>(2)</label> Er faßt seine Beschlüsse mit
                         einfacher Stimmenmehrheit: der Anwesenden. </p>
@@ -878,8 +760,7 @@
                   <div type="article">
                      <head>Artikel 33. </head>
                      <p type="legal_section"><label>(1)</label> Zu einem Beschluß des Bundestages
-                        ist die Anwesenheit von mindestens einem Viertel <pb facs="#facs_15" n="15"
-                           xml:id="img_0015" break="yes"/><fw type="pageNum">15</fw>der Mitglieder
+                        ist die Anwesenheit von mindestens einem Viertel <pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/><fw type="pageNum">15</fw>der Mitglieder
                         und die absolute Mehrheit der abgegebenen Stimmen erforderlich. </p>
                      <p type="legal_section"><label>(2)</label> Eine Abänderung der Bundesverfassung
                         kann jedoch nur bei Anwesenheit der Hälfte aller Mitglieder und mit einer
@@ -919,8 +800,7 @@
                   <div type="article">
                      <head>Artikel 38. </head>
                      <p type="legal_section"><label>(1)</label> Jeder Gesetzesbeschluß des
-                           Bundestages<pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/><fw
-                           type="pageNum">16</fw>ist durch dessen Präsidenten im Wege des
+                           Bundestages<pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/><fw type="pageNum">16</fw>ist durch dessen Präsidenten im Wege des
                         Bundeskanzlers dem Bundesrate unverzüglich zu übermitteln. </p>
                      <p type="legal_section"><label>(2)</label> Gegen Gesetzesbeschlüsse des
                         Bundestages kann der Bundesrat Einspruch erheben. </p>
@@ -949,9 +829,7 @@
                         des Bundestages erfolgt mit Berufung auf den Beschluß des Bundestages, im
                         Falle einer Volksabstimmung aber mit Berufung auf deren Ergebnis, die
                         Kundmachung von Staatsverträgen, die der Genehmigung des Bundestages
-                        bedürfen, mit Berufung auf diese Genehmigung im<pb facs="#facs_17" n="17"
-                           xml:id="img_0017" break="yes"/><fw type="pageNum"
-                        >17</fw>Bundesgesetzblatt durch den Bundestanzler. </p>
+                        bedürfen, mit Berufung auf diese Genehmigung im<pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/><fw type="pageNum">17</fw>Bundesgesetzblatt durch den Bundestanzler. </p>
                      <p type="legal_section"><label>(2)</label> Die Bundesgesetze sowie die im
                         Artikel 20, Abs. 2, und Artikel 21 erwähnten Beschlüsse des Bundestages,
                         ebenso Staatsverträge, die vom Bundestag genehmigt und vom Präsidenten des
@@ -984,8 +862,7 @@
                      Fall der Ergreifung auf frischer Tat ausgenommen – ohne Zustimmung des
                      Bundestages verhaftet oder behördlich verfolgt werden. </p>
                   <p type="legal_section"><label>(3)</label> Selbst in dem Falle der Ergreifung auf
-                     frischer Tat hat die Behörde dem Präsidenten des <pb facs="#facs_18" n="18"
-                        xml:id="img_0018" break="yes"/><fw type="pageNum">18</fw>Bundestages
+                     frischer Tat hat die Behörde dem Präsidenten des <pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/><fw type="pageNum">18</fw>Bundestages
                      sogleich die geschehene Verhaftung bekanntzugeben. </p>
                   <p type="legal_section"><label>(4)</label> Wenn es der Bundestag verlangt, muß der
                      Verhaft aufgehoben oder die Verfolgung für die ganze Sitzungsperiode
@@ -1021,8 +898,7 @@
                      entsendeten Vertreter sind berechtigt, an allen Beratungen des Bundestages und
                      des Bundesrates sowie deren Ausschüsse teilzunehmen, jedoch mit Ausnahme des im
                      Artikel 57 vorgesehenen besonderen Ausschusses, an dessen Beratungen sie nur
-                     auf besondere Einladung teilnehmen dürfen. Sie<pb facs="#facs_19" n="19"
-                        xml:id="img_0019" break="yes"/><fw type="pageNum">19</fw> müssen auf ihr
+                     auf besondere Einladung teilnehmen dürfen. Sie<pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/><fw type="pageNum">19</fw> müssen auf ihr
                      Verlangen jedesmal gehört werden. Der Bundestag sowie der Bundesrat kann die
                      Anwesenheit der Mitglieder der Bundesregierung verlangen.</p>
                </div>
@@ -1048,8 +924,7 @@
                </div>
             </div>
             <div type="section">
-               <head><pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/><fw type="pageNum"
-                     >19</fw>Dritter Abschnitt. </head>
+               <head><pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/><fw type="pageNum">19</fw>Dritter Abschnitt. </head>
                <head>Die Vollziehung des Bundes.</head>
                <div type="section">
                   <head>A. Die Regierungsgewalt des Bundes. </head>
@@ -1077,8 +952,7 @@
                               <item>die Erklärung unehelicher Kinder zu ehelichen über Ansuchen der
                                  Eltern. </item>
                            </list></p>
-                        <p type="legal_section"><pb facs="#facs_21" n="21" xml:id="img_0021"
-                              break="yes"/><fw type="pageNum">20</fw><label>(2)</label> Inwieweit
+                        <p type="legal_section"><pb facs="#facs_21" n="21" xml:id="img_0021" break="yes"/><fw type="pageNum">20</fw><label>(2)</label> Inwieweit
                            dem Präsidenten des Bundestages außerdem noch Befugnisse hinsichtlich
                            Gewährung von Ehrenrechten, außerordentlichen Zuwendungen, Zulagen und
                            Versorgungsgenüssen, Ernennungs- und Bestätigungsrechten und sonstige
@@ -1156,9 +1030,7 @@
                            Bundestage wählbar ist. Die Mitglieder der Bundesregierung müssen nicht
                            dem Bundestage angehören. </p>
                         <p type="legal_section"><label>(2)</label> Die Bestallungsurkunden des
-                           Bundeskanzlers, des Vizekanzlers und der Staatssekretäre werden vom <pb
-                              facs="#facs_23" n="23" xml:id="img_0023" break="yes"/><fw
-                              type="pageNum">22</fw>Präsidenten des Bundestages mit dem Datum des
+                           Bundeskanzlers, des Vizekanzlers und der Staatssekretäre werden vom <pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"/><fw type="pageNum">22</fw>Präsidenten des Bundestages mit dem Datum des
                            Tages der Angelobung ausgefertigt und vom neubestellten Bundeskanzler
                            gegengezeichnet. </p>
                         <p type="legal_section"><label>(3)</label> Die Mitglieder der
@@ -1194,8 +1066,7 @@
                      <div type="article">
                         <head>Artikel 60. </head>
                         <p type="legal_section">Die Mitglieder der Bundesregierung sind nach Maßgabe
-                           des Artikels 158 der Bundesverfassung dem <pb facs="#facs_24" n="24"
-                              xml:id="img_0024" break="yes"/><fw type="pageNum">23</fw>Bundestage
+                           des Artikels 158 der Bundesverfassung dem <pb facs="#facs_24" n="24" xml:id="img_0024" break="yes"/><fw type="pageNum">23</fw>Bundestage
                            verantwortlich. </p>
                      </div>
                      <div type="article">
@@ -1241,8 +1112,7 @@
                         <p type="legal_section"><label>(1)</label> Das Bundesheer ist, soweit die
                            gesetzmäßige bürgerliche Gewalt seine Mitwirkung in Anspruch nimmt, zum
                            Schutz der verfassungsmäßigen Einrichtungen der Republik sowie zur
-                           Aufrechterhaltung der Ordnung und <pb facs="#facs_25" n="25"
-                              xml:id="img_0025" break="yes"/><fw type="pageNum">24</fw>Sicherheit im
+                           Aufrechterhaltung der Ordnung und <pb facs="#facs_25" n="25" xml:id="img_0025" break="yes"/><fw type="pageNum">24</fw>Sicherheit im
                            Innern überhaupt und zur Hilfeleistung bei Elementarereignissen und
                            Unglücksfällen außergewöhnlichen Umfanges bestimmt. </p>
                         <p type="legal_section"><label>(2)</label> Ferner obliegt dem Bundesheer der
@@ -1282,9 +1152,7 @@
                      <p type="legal_section"><label>(2)</label> Niemand darf seinem ordentlichen
                         Richter entzogen werden. </p>
                      <p type="legal_section"><label>(3)</label> Das Verfahren wegen Delikte gegen
-                        das Völkerrecht ist durch Bundesgesetz dem Verfassungsgerichts<pb
-                           facs="#facs_26" n="26" xml:id="img_0026" break="no"/><fw type="pageNum"
-                           >25</fw>hof zu übertragen. </p>
+                        das Völkerrecht ist durch Bundesgesetz dem Verfassungsgerichts<pb facs="#facs_26" n="26" xml:id="img_0026" break="no"/><fw type="pageNum">25</fw>hof zu übertragen. </p>
                   </div>
                   <div type="article">
                      <head>Artikel 71. </head>
@@ -1320,8 +1188,7 @@
                         welchen Zeitraumes Richter ohne die sonst vorgeschriebenen Förmlichkeiten
                         übersetzt und in den Ruhestand versetzt werden können. </p>
                      <p type="legal_section"><label>(3)</label> Die zeitweise Enthebung der Richter
-                        vom <pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/><fw
-                           type="pageNum">26</fw>Amte darf nur durch Verfügung des
+                        vom <pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/><fw type="pageNum">26</fw>Amte darf nur durch Verfügung des
                         Gerichtsvorstandes oder der höheren Gerichtsbehörde unter gleichzeitiger
                         Verweisung der Sache an das zuständige Gericht stattfinden. </p>
                   </div>
@@ -1418,8 +1285,7 @@
                      sind unmittelbar nach erfolgter Beschlußfassung des Landtages und vor ihrer
                      Kundmachung vom Landeshauptmann der Bundesregierung bekanntzugeben. </p>
                   <p type="legal_section"><label>(2)</label> Wegen Gefährdung von Bundesinteressen
-                     kann die Bundesregierung binnen 6 Wochen vom Tage<pb facs="#facs_30" n="30"
-                        xml:id="img_0030" break="yes"/><fw type="pageNum">29</fw> der erfolgten
+                     kann die Bundesregierung binnen 6 Wochen vom Tage<pb facs="#facs_30" n="30" xml:id="img_0030" break="yes"/><fw type="pageNum">29</fw> der erfolgten
                      Bekanntmachung an gegen einen Gesetzesbeschluß des Landtages Einspruch erheben. </p>
                   <p type="legal_section"><label>(3)</label> Wiederholt der Landtag seinen
                      Gesetzesbeschluß, so ist dieser kundzumachen. Hat jedoch der Einspruch der
@@ -1456,8 +1322,7 @@
                      durchgeführter Wahl den neugewählten Landtag einzuberufen. </p>
                </div>
                <div type="article">
-                  <head><pb facs="#facs_31" n="31" xml:id="img_0031" break="yes"/><fw type="pageNum"
-                        >30</fw>Artikel 88. </head>
+                  <head><pb facs="#facs_31" n="31" xml:id="img_0031" break="yes"/><fw type="pageNum">30</fw>Artikel 88. </head>
                   <p type="legal_section"><label>(1)</label> Die vollziehende Gewalt jedes Landes
                      wird durch eine vom Landtag zu wählende Landesregierung ausgeübt. </p>
                   <p type="legal_section"><label>(2)</label> Die Landesregierung besteht aus dem
@@ -1492,8 +1357,7 @@
                      Landesregierung übertragenen Wirkungskreises der Bundesgewalt die Verantwortung
                      gegenüber der Bundesregierung gemäß Artikel 158 der Bundesverfassung. Bei
                      Geltendmachung dieser Verantwortung steht die Immunität nicht im Wege. </p>
-                  <p type="legal_section"><pb facs="#facs_32" n="32" xml:id="img_0032" break="yes"
-                        /><fw type="pageNum">31</fw><label>(2)</label> Dem Landtage sind die
+                  <p type="legal_section"><pb facs="#facs_32" n="32" xml:id="img_0032" break="yes"/><fw type="pageNum">31</fw><label>(2)</label> Dem Landtage sind die
                      Mitglieder der Landesregierung gemäß Artikel 158 der Bundesverfassung
                      verantwortlich. </p>
                </div>
@@ -1523,8 +1387,7 @@
                <div type="article">
                   <head>Artikel 93. </head>
                   <p type="legal_section"><label>(1)</label> Die Verfassung der Gemeinden, Bezirke
-                     und Kreise innerhalb der Länder muß auf dem Grund<pb facs="#facs_33" n="33"
-                        xml:id="img_0033" break="no"/><fw type="pageNum">32</fw>satze der
+                     und Kreise innerhalb der Länder muß auf dem Grund<pb facs="#facs_33" n="33" xml:id="img_0033" break="no"/><fw type="pageNum">32</fw>satze der
                      Selbstverwaltung des Volkes aufgebaut sein. </p>
                   <p type="legal_section"><label>(2)</label> Die Gemeinde hat insbesondere für die
                      Aufrechterhaltung der Sicherheit zu sorgen. Diese Befugnis kann ihr gegen ihren
@@ -1538,8 +1401,7 @@
                </div>
             </div>
             <div type="section">
-               <head><pb facs="#facs_34" n="34" xml:id="img_0034" break="yes"/><fw type="pageNum"
-                     >33</fw>Fünfter Abschnitt. </head>
+               <head><pb facs="#facs_34" n="34" xml:id="img_0034" break="yes"/><fw type="pageNum">33</fw>Fünfter Abschnitt. </head>
                <head>Die Rechnungskontrolle im Bunde.</head>
                <div type="article">
                   <head>Artikel 95. </head>
@@ -1579,8 +1441,7 @@
                   </p>
                </div>
                <div type="article">
-                  <head><pb facs="#facs_35" n="35" xml:id="img_0035" break="yes"/><fw type="pageNum"
-                        >34</fw>Artikel 99. </head>
+                  <head><pb facs="#facs_35" n="35" xml:id="img_0035" break="yes"/><fw type="pageNum">34</fw>Artikel 99. </head>
                   <p type="legal_section"><label>(1)</label> Die Beamten des Rechnungshofes ernennt
                      auf Vorschlag und unter Gegenzeichnung des Präsidenten des Rechnungshofes der
                      Präsident des Bundestages. Das Gleiche gilt für die Verleihung von Amtstiteln.
@@ -1616,8 +1477,7 @@
                      austragen lassen, entscheidet der Bundesrat. </p>
                </div>
                <div type="article">
-                  <head><pb facs="#facs_36" n="36" xml:id="img_0036" break="yes"/><fw type="pageNum"
-                        >35</fw>Artikel 103.</head>
+                  <head><pb facs="#facs_36" n="36" xml:id="img_0036" break="yes"/><fw type="pageNum">35</fw>Artikel 103.</head>
                   <p type="legal_section"><label>(1)</label> Der Rechnungshof verfaßt den
                      Bundesrechnungsabschluß und gesondert von diesem die Landesrechnungsabschlüsse
                      und legt den ersteren dem Bundestag, die letzteren dem Bundesrate vor. </p>
@@ -1632,8 +1492,7 @@
                </div>
             </div>
             <div type="section">
-               <head><pb facs="#facs_37" n="37" xml:id="img_0037" break="yes"/><fw type="pageNum"
-                     >36</fw>Sechster Abschnitt. </head>
+               <head><pb facs="#facs_37" n="37" xml:id="img_0037" break="yes"/><fw type="pageNum">36</fw>Sechster Abschnitt. </head>
                <head>Die Grund- und Freiheitsrechte. </head>
                <div type="article">
                   <head>Artikel 105. </head>
@@ -1672,8 +1531,7 @@
                      infolge Auswanderung wird durch Bundesgesetz geregelt. </p>
                </div>
                <div type="article">
-                  <head><pb facs="#facs_38" n="38" xml:id="img_0038" break="yes"/><fw type="pageNum"
-                        >37</fw>Artikel 110. </head>
+                  <head><pb facs="#facs_38" n="38" xml:id="img_0038" break="yes"/><fw type="pageNum">37</fw>Artikel 110. </head>
                   <p type="legal_section"><label>(1)</label> Jeder Bundesangehörige kann in jedem
                      Orte des Bundesgebietes seinen Aufenthalt und Wohnsitz nehmen. Einschränkungen
                      werden durch Bundesgesetz bestimmt. </p>
@@ -1707,8 +1565,7 @@
                      Hausdurchsuchung zulässig ist, wird durch Bundesgesetz bestimmt. </p>
                </div>
                <div type="article">
-                  <head><pb facs="#facs_39" n="39" xml:id="img_0039" break="yes"/><fw type="pageNum"
-                        >38</fw>Artikel 114. </head>
+                  <head><pb facs="#facs_39" n="39" xml:id="img_0039" break="yes"/><fw type="pageNum">38</fw>Artikel 114. </head>
                   <p type="legal_section">Das Brief-, Post-, Telegraphen- und Fernsprechgeheimnis
                      ist gewährleistet. Ausnahmen in den Fällen strafgerichtlicher Untersuchung und
                      unter außerordentlichen Verhältnissen können nur durch Bundesgesetz bestimmt
@@ -1742,9 +1599,7 @@
                      Hindernis gesetzt werden. </p>
                   <p type="legal_section"><label>(2)</label> Die Möglichkeit einer Trennung der Ehe
                      im Falle des Einverständnisses beider Ehegatten ist zu gewährleisten. In
-                     welchen Fällen die Ehe auch ohne die Zustimmung eines der beiden<pb
-                        facs="#facs_40" n="40" xml:id="img_0040" break="yes"/><fw type="pageNum"
-                        >39</fw> Ehegatten zu trennen ist, bestimmt das Gesetz. Doch ist in beiden
+                     welchen Fällen die Ehe auch ohne die Zustimmung eines der beiden<pb facs="#facs_40" n="40" xml:id="img_0040" break="yes"/><fw type="pageNum">39</fw> Ehegatten zu trennen ist, bestimmt das Gesetz. Doch ist in beiden
                      Fällen auf die Versorgung der Kinder aus der getrennten Ehe durch ihre Eltern
                      gesetzlich Bedacht zu nehmen. </p>
                </div>
@@ -1783,8 +1638,7 @@
                      Strafgesetz zulässig. </p>
                </div>
                <div type="article">
-                  <head><pb facs="#facs_41" n="41" xml:id="img_0041" break="no"/><fw type="pageNum"
-                        >40</fw>Artikel 122. </head>
+                  <head><pb facs="#facs_41" n="41" xml:id="img_0041" break="no"/><fw type="pageNum">40</fw>Artikel 122. </head>
                   <p type="legal_section"><label>(1)</label> Der Genuß der bürgerlichen und
                      politischen Rechte sowie die Zulassung zu den öffentlichen Aemtern ist von dem
                      Religionsbekenntnis unabhängig; doch darf den staatsbürgerlichen Pflichten
@@ -1813,8 +1667,7 @@
                      Schranken. Sie verleiht ihre Aemter ohne Mitwirkung des Staates oder der
                      bürgerlichen Gemeinden. </p>
                   <p type="legal_section"><label>(4)</label> Die Rechtsfähigkeit der
-                     Religionsgesellschaften richtet sich nach den Vor<pb facs="#facs_42" n="42"
-                        xml:id="img_0042" break="no"/><fw type="pageNum">41</fw>schriften des
+                     Religionsgesellschaften richtet sich nach den Vor<pb facs="#facs_42" n="42" xml:id="img_0042" break="no"/><fw type="pageNum">41</fw>schriften des
                      bürgerlichen Rechtes über die Rechtsfähigkeit der Vereine.</p>
                </div>
                <div type="article">
@@ -1853,8 +1706,7 @@
                   <p type="legal_section"><label>(1)</label> In allen Schulen ist sittliche Bildung,
                      staatsbürgerliche Gesinnung und berufliche Tüchtigkeit zu erstreben. </p>
                   <p type="legal_section"><label>(2)</label> Beim Unterricht in öffentlichen Schulen
-                     ist Bedacht zu nehmen, dass die<pb facs="#facs_43" n="43" xml:id="img_0043"
-                        break="yes"/><fw type="pageNum">42</fw> Empfindungen Andersdenkender nicht
+                     ist Bedacht zu nehmen, dass die<pb facs="#facs_43" n="43" xml:id="img_0043" break="yes"/><fw type="pageNum">42</fw> Empfindungen Andersdenkender nicht
                      verletzt werden. </p>
                   <p type="legal_section"><label>(3)</label> Staatsbürgerkunde und Arbeitsunterricht
                      sind Lehrfächer der Schulen. Jeder Schüler erhält bei Beendigung der
@@ -1889,9 +1741,7 @@
                   <head>Artikel 133.</head>
                   <p type="legal_section"><label>(1)</label> Alle Bundesangehörigen haben ein
                      gleiches Recht auf Wahrung ihrer Nationalität und Sprache. </p>
-                  <p type="legal_section"><label>(2)</label> Keinem Bundesangehörigen werden<pb
-                        facs="#facs_44" n="44" xml:id="img_0044" break="yes"/><fw type="pageNum"
-                        >43</fw> im Gebrauche irgendeiner Sprache im Privat- oder Geschäftsverkehr
+                  <p type="legal_section"><label>(2)</label> Keinem Bundesangehörigen werden<pb facs="#facs_44" n="44" xml:id="img_0044" break="yes"/><fw type="pageNum">43</fw> im Gebrauche irgendeiner Sprache im Privat- oder Geschäftsverkehr
                      sowie bei Betätigung der religiösen Ueberzeugung, in der Presse oder in
                      sonstigen Veröffentlichungen oder in allgemein zugänglichen Versammlungen
                      Beschränkungen auferlegt. </p>
@@ -1924,8 +1774,7 @@
                   <p type="legal_section"><label>(2)</label> Die Zwecke, zu denen enteignet werden
                      kann, werden in besonderen Gesetzen, das Enteignungsverfahren wird durch
                      Bundesgesetz geregelt. </p>
-                  <p type="legal_section"><pb facs="#facs_45" n="45" xml:id="img_0045" break="yes"
-                        /><fw type="pageNum">44</fw><label>(3)</label> In welchen Fällen auf Verfall
+                  <p type="legal_section"><pb facs="#facs_45" n="45" xml:id="img_0045" break="yes"/><fw type="pageNum">44</fw><label>(3)</label> In welchen Fällen auf Verfall
                      oder Einziehung von Gegenständen als Folge einer rechtswidrigen Handlung zu
                      erkennen ist, bestimmt das Gesetz. </p>
                </div>
@@ -1962,8 +1811,7 @@
                <div type="article">
                   <head>Artikel 140. </head>
                   <p type="legal_section">Das Vereinigungsfreiheit zur Wahrung und Förderung der
-                        Arbeitsbedingungen<pb facs="#facs_46" n="46" xml:id="img_0046" break="yes"
-                        /><fw type="pageNum">45</fw> ist für jedermann und alle Berufe
+                        Arbeitsbedingungen<pb facs="#facs_46" n="46" xml:id="img_0046" break="yes"/><fw type="pageNum">45</fw> ist für jedermann und alle Berufe
                      gewährleistet. Alle Abreden und Massnahemn, weche diese Freiheit einschränken
                      oder zu behindern suchen, sind nichtig. </p>
                </div>
@@ -1993,8 +1841,7 @@
                </div>
             </div>
             <div type="section">
-               <head><pb facs="#facs_47" n="47" xml:id="img_0047" break="no"/><fw type="pageNum"
-                     >46</fw>Siebenter Abschnitt. </head>
+               <head><pb facs="#facs_47" n="47" xml:id="img_0047" break="no"/><fw type="pageNum">46</fw>Siebenter Abschnitt. </head>
                <head>Die Garantien der Verfassung und Verwaltung. </head>
                <div type="section">
                   <head> A. Der Verwaltungsgerichtshof. </head>
@@ -2033,8 +1880,7 @@
                   </div>
                   <div type="article">
                      <head>Artikel 147. </head>
-                     <p type="legal_section">Zum Schutze der Interessen des Bun<pb facs="#facs_48"
-                           n="48" xml:id="img_0048" break="yes"/><fw type="pageNum">47</fw>des kann
+                     <p type="legal_section">Zum Schutze der Interessen des Bun<pb facs="#facs_48" n="48" xml:id="img_0048" break="yes"/><fw type="pageNum">47</fw>des kann
                         die Bundesregierung gegen Entscheidungen und Verfügungen von Landesbehörden
                         auch dann den Verwaltungsgerichtshof anrufen, wenn die Entscheidung oder
                         Verfügung nach freiem Ermessen zu treffen war. </p>
@@ -2071,8 +1917,7 @@
                         muß die Eignung zum Richteramte haben.</p>
                   </div>
                   <div type="article">
-                     <head><pb facs="#facs_49" n="49" xml:id="img_0049" break="yes"/><fw
-                           type="pageNum">48</fw>Artikel 151. </head>
+                     <head><pb facs="#facs_49" n="49" xml:id="img_0049" break="yes"/><fw type="pageNum">48</fw>Artikel 151. </head>
                      <p type="legal_section">Der Präsident, der Vizepräsident und die Mitglieder des
                         Verwaltungsgerichtshofes werden auf Vorschlag der Bundesregierung vom
                         Präsidenten des Bundestages ernannt. </p>
@@ -2112,8 +1957,7 @@
                         Verordnungen einer Landesbehörde auch auf Antrag der Bundesregierung; über
                         Gesetzwidrigkeit von Verordnungen der Bundesbehörden auch auf Antrag einer
                         Landesregierung. </p>
-                     <p type="legal_section"><pb facs="#facs_50" n="50" xml:id="img_0050"
-                           break="yes"/><fw type="pageNum">49</fw><label>(2)</label> Das
+                     <p type="legal_section"><pb facs="#facs_50" n="50" xml:id="img_0050" break="yes"/><fw type="pageNum">49</fw><label>(2)</label> Das
                         stattgebende Erkenntnis des Verfassungsgerichtshofes bewirkt die Aufhebung
                         der gesetzwidrigen Verordnungen und verpflichtet die erlassende Behörde zur
                         unverzüglichen Kundmachung der erfolgten Aufhebung. </p>
@@ -2181,8 +2025,7 @@
                         entscheidet über Beschwerden wegen Verletzung eines der in den Artikeln 105
                         bis 143 gewährleisteten Rechte durch eine Behörde nach Erschöpfung des
                         administrativen Instanzenzuges. </p>
-                     <p type="legal_section"><pb facs="#facs_52" n="52" xml:id="img_0052"
-                           break="yes"/><fw type="pageNum">51</fw><label>(2)</label> Das
+                     <p type="legal_section"><pb facs="#facs_52" n="52" xml:id="img_0052" break="yes"/><fw type="pageNum">51</fw><label>(2)</label> Das
                         stattgebende Erkenntnis des Verfassungsgerichtshofes bewirkt die Aufhebung
                         der verfassungswidrigen Entscheidung oder Verfügung. Die Behörden sind bei
                         der neu zu treffenden Entscheidung oder Verfügung an die Rechtsanschauung
@@ -2219,8 +2062,7 @@
                         Verfassungsgerichtshofes wird durch Bundesgesetz geregelt.</p>
                   </div>
                   <div type="article">
-                     <head><pb facs="#facs_53" n="53" xml:id="img_0053" break="yes"/><fw
-                           type="pageNum"/>Art. 163</head>
+                     <head><pb facs="#facs_53" n="53" xml:id="img_0053" break="yes"/><fw type="pageNum"/>Art. 163</head>
                   </div>
                   <div type="article">
                      <head>Art. 164</head>

@@ -61,7 +61,11 @@
                 <idno type="bv_data_set">Datenset B</idno>
                 <idno type="goobi">18745</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset B</title>
+<biblScope unit="part">3000</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
@@ -132,21 +136,17 @@
             <p> 26. Sitz. <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/> Konstituierende
                     Nationalversammlung der Republik Österreich.Verfasungs-Ausschuss Protokoll über
                     die Sitzung am 27. September 1920</p>
-                <p>Anwesende: Seitens der Regierung: Staatsamt für Finanzen: Oberfinanzrat Dr. <gap
-                        reason="illegible"/>, Staatsamt für Inneres u. Unterricht: Ministerialratrat
+                <p>Anwesende: Seitens der Regierung: Staatsamt für Finanzen: Oberfinanzrat Dr. <gap reason="illegible"/>, Staatsamt für Inneres u. Unterricht: Ministerialratrat
                         <gap reason="illegible"/><gap reason="illegible"/>, Staatsamt für Handel
                     etc.: Ministerialrat Dr. <gap reason="illegible"/>, Sektionsrat Dr. Friedrich.
                     Staatskanzlei: Ministerialrat Dr. Fröhlich, Sektionsrat Dr. Man<choice>
                         <sic/>
                         <corr>n</corr>
                     </choice>licher, Experte: Professor Dr. Kelsen </p>
-                <p>Obmann: Dr. Otto Bauer Obmann-Stellvertreter: Prof. Seipel Schriftführer: <gap
-                        reason="illegible"/>
-                    <gap reason="illegible"/> Mitglieder: Eldersch, Gürtler, Seipel, <gap
-                        reason="illegible"/>, Danneberg, Fink, <gap reason="illegible"/>, Leutner,
+                <p>Obmann: Dr. Otto Bauer Obmann-Stellvertreter: Prof. Seipel Schriftführer: <gap reason="illegible"/>
+                    <gap reason="illegible"/> Mitglieder: Eldersch, Gürtler, Seipel, <gap reason="illegible"/>, Danneberg, Fink, <gap reason="illegible"/>, Leutner,
                         <gap reason="illegible"/>, Schiegel, <gap reason="illegible"/>Weiskirchner,
-                    Dr. Weber, <del>Kunschak</del> Kunschak. <pb facs="#facs_3" n="3"
-                        xml:id="img_0003" break="yes"/> Staatsamt für Finanzen:</p>
+                    Dr. Weber, <del>Kunschak</del> Kunschak. <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/> Staatsamt für Finanzen:</p>
                 <p>Oberfinanzrat D. Pfaundler</p>
                 <p>Staatsamt für Innres u. Unterricht:</p>
                 <p>Ministerialrat D. Trüger</p>
@@ -184,8 +184,7 @@
                 <p>Artikel 20 Schluß des II Absatzes wird gestrichen</p>
                 <p>Artikel 21 Antrag <emph>Weiskirchner</emph> Wien mit dem Vorsitze zu betrauen
                     wird angenommen.</p>
-                <p>Über Vorschlag Kelsen wird beschlossen, statt „Zusammentritt“ zu <pb
-                        facs="#facs_5" n="5" xml:id="img_0005" break="yes"/> sagen: Bundesrat
+                <p>Über Vorschlag Kelsen wird beschlossen, statt „Zusammentritt“ zu <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/> sagen: Bundesrat
                     versammelt sich“.</p>
                 <p><emph>22</emph> stilistische Aenderung und <gap reason="illegible"/></p>
                 <p>23 stilistisch</p>
@@ -201,8 +200,7 @@
                     Ausschüsse.</p>
                 <p>Absatz 3. Aenderungen nach Auschußbeschluss</p>
                 <p>Absatz 4. Sprengel statt Bereich</p>
-                <p>Festsetzung über Beginn der 4 Monate <del><gap reason="illegible"/></del> BG <gap
-                        reason="illegible"/> zurückgestellt</p>
+                <p>Festsetzung über Beginn der 4 Monate <del><gap reason="illegible"/></del> BG <gap reason="illegible"/> zurückgestellt</p>
                 <p>41 neu: Sobald die am 17 Oktober gewählte Nationalver. einberufen ist</p>
                 <p>Sitzung wird um 12 ½ einberufen und um 2 1/4 wird aufgenommen.</p>
                 <p>Bindung über Artikel 42 <add>die Artikel</add> 10 bis 13 und 15 werden an dem Tag
@@ -210,8 +208,7 @@
                 <p>Absatz 3 einige Worte gestrichen[?] 4-5 wird gestrichen</p>
                 <p><del>Dr. Bauer regt neuen Satz an: </del></p>
                 <p>Abg. Kunschak fragt an über Wortlaut Artikel 9 x betreffend Landesregierung und
-                    Bürgermeister. Neue Formulierung <pb facs="#facs_6" n="6" xml:id="img_0006"
-                        break="yes"/> Wird beschlossen.</p>
+                    Bürgermeister. Neue Formulierung <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/> Wird beschlossen.</p>
                 <p>Artikel 91 Abs. 3 gilt für Wien nicht</p>
                 <p>36 Abs. 2 neue Fassung beschlossen</p>
                 <p>Artikel 38wird geändert.</p>
@@ -221,8 +218,7 @@
                     Beschlossen</p>
                 <p><gap reason="illegible"/> Einigung beschlossen.</p>
                 <p>Bauer Obmann <gap reason="illegible"/>
-                    <gap reason="illegible"/> Schriftführerin<pb facs="#facs_7" n="7"
-                        xml:id="img_0007" break="yes"/> Präsenzliste des Verfassungs[-]Ausschusses
+                    <gap reason="illegible"/> Schriftführerin<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/> Präsenzliste des Verfassungs[-]Ausschusses
                     vom 27. September 1920</p>
                 <p>Seipel</p>
                 <p><gap reason="illegible"/></p>

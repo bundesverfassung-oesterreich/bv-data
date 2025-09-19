@@ -30,13 +30,11 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372"
-                        >Peter Andorfer </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X"
-                        >Carl Friedrich Haak </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -63,7 +61,11 @@
                 <idno type="bv_data_set">Datenset B</idno>
                 <idno type="goobi">14590</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset B</title>
+<biblScope unit="part">1300</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
@@ -112,84 +114,52 @@
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
         <surface ulx="0" uly="0" lrx="2884" lry="4793" xml:id="facs_2">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0002/full/full/0/default.jpg"
-                width="2884px" height="4793px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0002/full/full/0/default.jpg" width="2884px" height="4793px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2885" lry="4812" xml:id="facs_3">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0003/full/full/0/default.jpg"
-                width="2885px" height="4812px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0003/full/full/0/default.jpg" width="2885px" height="4812px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2870" lry="4804" xml:id="facs_4">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0004/full/full/0/default.jpg"
-                width="2870px" height="4804px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0004/full/full/0/default.jpg" width="2870px" height="4804px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2870" lry="4806" xml:id="facs_5">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0005/full/full/0/default.jpg"
-                width="2870px" height="4806px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0005/full/full/0/default.jpg" width="2870px" height="4806px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2884" lry="4763" xml:id="facs_6">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0006/full/full/0/default.jpg"
-                width="2884px" height="4763px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0006/full/full/0/default.jpg" width="2884px" height="4763px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2881" lry="4731" xml:id="facs_7">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0007/full/full/0/default.jpg"
-                width="2881px" height="4731px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0007/full/full/0/default.jpg" width="2881px" height="4731px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2881" lry="4769" xml:id="facs_8">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0009/full/full/0/default.jpg"
-                width="2881px" height="4769px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0009/full/full/0/default.jpg" width="2881px" height="4769px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2842" lry="4766" xml:id="facs_9">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0010/full/full/0/default.jpg"
-                width="2842px" height="4766px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0010/full/full/0/default.jpg" width="2842px" height="4766px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2851" lry="4765" xml:id="facs_10">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0011/full/full/0/default.jpg"
-                width="2851px" height="4765px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0011/full/full/0/default.jpg" width="2851px" height="4765px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2865" lry="4744" xml:id="facs_11">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0012/full/full/0/default.jpg"
-                width="2865px" height="4744px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0012/full/full/0/default.jpg" width="2865px" height="4744px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2903" lry="4735" xml:id="facs_12">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0013/full/full/0/default.jpg"
-                width="2903px" height="4735px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0013/full/full/0/default.jpg" width="2903px" height="4735px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2866" lry="4714" xml:id="facs_13">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0015/full/full/0/default.jpg"
-                width="2866px" height="4714px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0015/full/full/0/default.jpg" width="2866px" height="4714px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2839" lry="4726" xml:id="facs_14">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0016/full/full/0/default.jpg"
-                width="2839px" height="4726px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0016/full/full/0/default.jpg" width="2839px" height="4726px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2863" lry="4739" xml:id="facs_15">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0017/full/full/0/default.jpg"
-                width="2863px" height="4739px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0017/full/full/0/default.jpg" width="2863px" height="4739px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2879" lry="4742" xml:id="facs_16">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0018/full/full/0/default.jpg"
-                width="2879px" height="4742px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0018/full/full/0/default.jpg" width="2879px" height="4742px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2812" lry="4720" xml:id="facs_17">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0019/full/full/0/default.jpg"
-                width="2812px" height="4720px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0019/full/full/0/default.jpg" width="2812px" height="4720px"/>
         </surface>
     </facsimile>
     <text type="Sitzungsprotokoll">
@@ -316,8 +286,7 @@
                     Eine Gruppe unter 400.000 Einwohnern: Vorarlberg, Salzburg, Tirol und das
                     heutige Kärnten, wozu noch das Burgenland käme; eine Gruppe mit wesentlich
                     höherer Einwohnerzahl: Oberösterreich mit dreimal so viel Einwohnern als Tirol,
-                    Steiermark mit noch 90.000 Einwohnern mehr und Niederösterreich, ohne<pb
-                        facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+                    Steiermark mit noch 90.000 Einwohnern mehr und Niederösterreich, ohne<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
                     <fw type="pageNum">- 5 -</fw>Wien 1.000.000 Einwohner und Wien selbst mit
                     1.800.000 Einwohnern. Die soziale Zusammensetzung der Bevölkerung sei in den
                     Ländern grundverschieden. Die Bauernschaft habe allenthalben ihre gefestigte
@@ -343,8 +312,7 @@
                         <emph>Vorsitzende</emph> gibt dies zu und bemerkt, daß sich dies nur
                     vermeiden ließe, indem man die Zahl der Mandate in der Verfassung festlege,
                     wasjedoch im Laufe der Zeit zu ähnlichen Ungerechtigkeiten führe, wie in der
-                    alt-österreichischen Delegation. Dort<pb facs="#facs_7" n="7" xml:id="img_0007"
-                        break="yes"/>
+                    alt-österreichischen Delegation. Dort<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
                     <fw type="pageNum">- 6 -</fw> war die Zahl der Vertreter jedes Kronlandes, wie
                     Abg. <emph>Clessin</emph> erwähnt, auf Grund der Volkszählung von 1866
                     berechnet, so daß zuletzt Mähren noch immer mehr Delegierte absandte, als das
@@ -375,8 +343,7 @@
                 <p> Während Abg. <emph>Clessin</emph> die Absicht Salzburgs erörtert keine
                     Landtagsmitglieder zu entsenden, da diese zu sehr im Lande selbst beschäftigt
                     seien und bei der intensiven Gesetzgebungsarbeit der Nationalversammlung ständig
-                    in Wien tagen müßten, sieht der <emph>Vorsitzende</emph> den<pb facs="#facs_8"
-                        n="8" xml:id="img_0008" break="yes"/>
+                    in Wien tagen müßten, sieht der <emph>Vorsitzende</emph> den<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
                     <fw type="pageNum">- 7 -</fw> Wert des Bundesrates vor allem darin, daß
                         <add>dortselbst</add> die an der Entstehung der Gesetze mitwirken, die auch
                     mit ihrer späteren Durchführung betraut sind.</p>
@@ -411,8 +378,7 @@
                     gelegentlich der Beratung über die Volksabstimmung vor. Ueber seinen Antrag wird
                     folgende Fassung des Absatzes 6 Art. 26 angenommen:</p>
                 <quote>
-                    <p>„Die Bestimmungen dieses Artikels können nur abge<pb facs="#facs_9" n="9"
-                            xml:id="img_0009" break="no"/>
+                    <p>„Die Bestimmungen dieses Artikels können nur abge<pb facs="#facs_9" n="9" xml:id="img_0009" break="no"/>
                         <fw type="pageNum">- 8 -</fw>ändert werden, wenn die Aenderung von der
                         Mehrheit der Vertreter von wenigstens vier Ländern angenommen wird.“</p>
                 </quote>
@@ -441,8 +407,7 @@
                     zulänglich sei, sondern sich auch als sehr nützlich erwiesen habe. Die Wahl
                     eines eigenen Bundespräsidenten bedeute für unseren notleidenden Staat die
                     Schaffung einer neuen besonderen Stelle. Was die Wahl durch das gesamte
-                    Bundesvolk anlange, so scheine sie sehr demokra<pb facs="#facs_10" n="10"
-                        xml:id="img_0010" break="no"/>
+                    Bundesvolk anlange, so scheine sie sehr demokra<pb facs="#facs_10" n="10" xml:id="img_0010" break="no"/>
                     <fw type="pageNum">- 9 -</fw>tisch, beinhalte jedoch in unserem wenig
                     konsolidierten Staatswesen die Gefahr monarchistischer Experimente. Abg.
                         <emph>Clessin</emph> ist der Anschauung, daß der Bundespräsident vom Volke
@@ -467,8 +432,7 @@
                     formalen Geschäfte im Hause der Nationalversammlung und die Funktion als Ordner
                     bei den Sitzungen widerspricht der Würde eines Präsidenten. Die Wahl müßte ganz
                     anders durchgeführt werden als sonstige Wahlen.</p>
-                <p>Abg. <emph>Leuthner</emph> hält eine besondere Wahl für<pb facs="#facs_11" n="11"
-                        xml:id="img_0011" break="yes"/>
+                <p>Abg. <emph>Leuthner</emph> hält eine besondere Wahl für<pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
                     <fw type="pageNum">- 10 -</fw> den schlechtesten Weg um eine Person zu suchen,
                     die nicht im politischen Leben steht.</p>
                 <p>Der Unterausschuß entscheidet sich auf Grund prinzipieller Abstimmung dafür,
@@ -578,8 +542,7 @@
                     Klarheit geschaffen sei.</p>
                 <p>Nachdem nunmehr der Wirkungskreis des Bundespräsidenten festgestellt ist, erklärt
                     Prof. Dr. <emph>Seipel</emph>, daß er zwar prinzipiell für die Volksabstimmung
-                    sei, aber mit Rücksicht auf die Kompetenz des Präsidenten davon ab<pb
-                        facs="#facs_15" n="15" xml:id="img_0015" break="no"/>
+                    sei, aber mit Rücksicht auf die Kompetenz des Präsidenten davon ab<pb facs="#facs_15" n="15" xml:id="img_0015" break="no"/>
                     <fw type="pageNum">- 14 -</fw>stehen könne. Der Unterausschuss beschließt
                     hierauf nach einem Referate Dr. <emph>Dannebergs</emph>, dass der Präsident
                     durch Zusammentretung des Bundesrates und des Bundestages (Nationalrates)

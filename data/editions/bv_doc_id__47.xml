@@ -30,13 +30,11 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372"
-                        >Peter Andorfer </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X"
-                        >Carl Friedrich Haak </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -63,7 +61,11 @@
                 <idno type="bv_data_set">Datenset B</idno>
                 <idno type="goobi">14596</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset B</title>
+<biblScope unit="part">1900</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
@@ -111,59 +113,37 @@
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
         <surface ulx="0" uly="0" lrx="2909" lry="4762" xml:id="facs_2">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0025/full/full/0/default.jpg"
-                width="2909px" height="4762px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0025/full/full/0/default.jpg" width="2909px" height="4762px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2883" lry="4765" xml:id="facs_3">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0026/full/full/0/default.jpg"
-                width="2883px" height="4765px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0026/full/full/0/default.jpg" width="2883px" height="4765px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2854" lry="4755" xml:id="facs_4">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0027/full/full/0/default.jpg"
-                width="2854px" height="4755px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0027/full/full/0/default.jpg" width="2854px" height="4755px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2867" lry="4740" xml:id="facs_5">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0028/full/full/0/default.jpg"
-                width="2867px" height="4740px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0028/full/full/0/default.jpg" width="2867px" height="4740px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2835" lry="4766" xml:id="facs_6">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0029/full/full/0/default.jpg"
-                width="2835px" height="4766px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0029/full/full/0/default.jpg" width="2835px" height="4766px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2823" lry="4719" xml:id="facs_7">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0030/full/full/0/default.jpg"
-                width="2823px" height="4719px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0030/full/full/0/default.jpg" width="2823px" height="4719px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2791" lry="4704" xml:id="facs_8">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0031/full/full/0/default.jpg"
-                width="2791px" height="4704px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0031/full/full/0/default.jpg" width="2791px" height="4704px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2803" lry="4656" xml:id="facs_9">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0032/full/full/0/default.jpg"
-                width="2803px" height="4656px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0032/full/full/0/default.jpg" width="2803px" height="4656px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2762" lry="4638" xml:id="facs_10">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0033/full/full/0/default.jpg"
-                width="2762px" height="4638px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0033/full/full/0/default.jpg" width="2762px" height="4638px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2748" lry="4631" xml:id="facs_11">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0034/full/full/0/default.jpg"
-                width="2748px" height="4631px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0034/full/full/0/default.jpg" width="2748px" height="4631px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2794" lry="4663" xml:id="facs_12">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0035/full/full/0/default.jpg"
-                width="2794px" height="4663px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__47/files/images/IMG_0035/full/full/0/default.jpg" width="2794px" height="4663px"/>
         </surface>
     </facsimile>
     <text type="Sitzungsprotokoll">
@@ -256,8 +236,7 @@
                     eingeschaltet sodaß der Artikel folgendermaßen lautet: </p>
                 <quote>
                     <head>„Art. 97 d.</head>
-                    <p> Die Gemeinden, Bezirke und Kreise sind auch selbständi<pb facs="#facs_5"
-                            n="5" xml:id="img_0005" break="no"/>ge Wirtschaftskörper; sie haben das
+                    <p> Die Gemeinden, Bezirke und Kreise sind auch selbständi<pb facs="#facs_5" n="5" xml:id="img_0005" break="no"/>ge Wirtschaftskörper; sie haben das
                         Recht, Vermögen aller Art zu besitzen und zu erwerben und innerhalb der
                         Schranken der Bundes- und Landesgesetze darüber zu verfügen, wirtschaftliche
                         Unternehmungen zu betreiben, ihren Haushalt selbständig zu führen und
@@ -283,8 +262,7 @@
                     Wahlrecht mit Wahlkörpern eingeführt habe. Er machte bei dieser Erwähnung
                     geltend, daß die Staatsregierung es verabsäumt habe, gegen dieses
                     verfassungswidrige Vorgehen einzuschreiten. Nach seiner Überzeugung bedeute jede
-                    Schwächung eine Ungerechtigkeit. Dr. Danneberg<pb facs="#facs_6" n="6"
-                        xml:id="img_0006" break="yes"/>fügt hinzu, daß seine Partei unbedingt am
+                    Schwächung eine Ungerechtigkeit. Dr. Danneberg<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>fügt hinzu, daß seine Partei unbedingt am
                     Verhältniswahlrecht festhält. Man beabsichtigt wohl nur deshalb einen
                     Unterschied zwischen Industriegemeinden und anderen zu machen, damit in Orten
                     mit zahlreicher Industriearbeiterbevölkerung auch den agrarischen Ortsbewohnern
@@ -362,8 +340,7 @@
                         ihren Wohnsitz hatten, zu verteilen. Eine Gliederung der Wählerschaft in
                         andere Wahlkörper ist nicht zulässig.</p>
                     <p> (4) Die Vertretungen können nach dem Grundsatze der Verhältniswahl aus ihrer
-                        Mitte für die einzelnen Zwei<pb facs="#facs_9" n="9" xml:id="img_0009"
-                            break="no"/> ge der Verwaltung besondere Verwaltungsausschüsse
+                        Mitte für die einzelnen Zwei<pb facs="#facs_9" n="9" xml:id="img_0009" break="no"/> ge der Verwaltung besondere Verwaltungsausschüsse
                         bestellen, die, soweit bestimmte Berufs- oder Interessengruppen in Betracht
                         kommen, auch noch durch die Heranziehung von Vertretern dieser Berufs- oder
                         Interessengruppen erweitert werden können. </p>
@@ -390,8 +367,7 @@
                 </quote>
                 <p> Die übrigen von der Staatskanzlei vorgelegten Artikelentwürfe werden nach Antrag
                     des Abg. Dr. Seipel als Übergangsbestimmungen formuliert. In diesen Bestimmungen
-                    soll gesagt werden, daß an Stelle der Be<pb facs="#facs_10" n="10"
-                        xml:id="img_0010" break="no"/>zirksvertretungen in Bezirksgemeinden der
+                    soll gesagt werden, daß an Stelle der Be<pb facs="#facs_10" n="10" xml:id="img_0010" break="no"/>zirksvertretungen in Bezirksgemeinden der
                     Gemeinderat tritt. Dr. Danneberg meint, daß diese Funktion nicht der Gemeinderat
                     ausübe, sondern der Stadtrat, wogegen Abg. Clessin diesen Zustand als Ausnahme
                     bezeichnet, in der Regel, so in Wien und Innsbruck, besorgt diese Agenden der
@@ -417,8 +393,7 @@
                         Mandate der Bezirksvertretungen wird auf die Gerichtsbezirke nach dem
                         Verhältnis ihrer Einwohnerzahl aufgeteilt. Die Bestimmungen des Artikels 97
                         e Absatz 2, finden sinngemäße Anwendung. </p>
-                    <p>(4) In die Bezirksvertretung sind nur Personen<pb facs="#facs_11" n="11"
-                            xml:id="img_0011" break="yes"/> wählbar, die im Bereiche der
+                    <p>(4) In die Bezirksvertretung sind nur Personen<pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/> wählbar, die im Bereiche der
                         Bezirkshauptmannschaft ihren ordentlichen Wohnsitz haben und zum Landtage
                         wählbar sind.</p>
                     <p>(5) Die näheren Bestimmungen der Durchführung dieser Wahlen werden von der
