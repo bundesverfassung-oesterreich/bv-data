@@ -29,23 +29,24 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
-                    </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372"
+                        >Peter Andorfer </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
-                    </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X"
+                        >Carl Friedrich Haak </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
-                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital
+                        Humanities and Cultural Heritage an der Österreichischen Akademie der
+                        Wissenschaften</orgName>
                 </publisher>
                 <publisher>
-                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
-                        Verfassungsgeschichte</orgName>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für
+                        Rechts- und Verfassungsgeschichte</orgName>
                 </publisher>
                 <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
                 <date when="2023">2023</date>
@@ -61,36 +62,30 @@
                 <idno type="bv_data_set">Datenset B</idno>
                 <idno type="goobi">14617</idno>
             </publicationStmt>
-            <seriesStmt>
-<title>Datenset B</title>
-<biblScope unit="part">0200</biblScope>
-</seriesStmt>
-<sourceDesc>
+            <sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
-                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
-                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
+                            Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik
+                            (Wien)</repository>
                         <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 241</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
                             <author role="acdh:hasAuthor">Länderkonferenz</author>
                             <title>Protokoll 7. Länderkonferenz</title>
-                            <note type="editor">Protokoll der 7. Länderkonferenz vom 12. bis 13. Oktober 1919
-
-Typ: Druck
-
-Zustand: gut</note>
+                            <note type="editor">Protokoll der 7. Länderkonferenz vom 12. bis 13.
+                                Oktober 1919 Typ: Druck Zustand: gut</note>
                         </msItem>
                     </msContents>
                     <physDesc>
-                        <objectDesc form="Druck">
-                        </objectDesc>
-                        <handDesc>
-                        </handDesc>
+                        <objectDesc form="Druck"/>
+                        <handDesc/>
                     </physDesc>
                     <history>
-                        <origin notBefore-iso="1919-10-12" notAfter-iso="1919-10-13">12. bis 13. Oktober 1919</origin>
+                        <origin notBefore-iso="1919-10-12" notAfter-iso="1919-10-13">12. bis 13.
+                            Oktober 1919</origin>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -107,7 +102,7 @@ Zustand: gut</note>
         </profileDesc>
         <revisionDesc status="created">
             <change when="2025-09-03" who="#cfh">document automatically created</change>
-            <change when="2025-09-14" who="#s_kury">Formatiert und gegengelesen bis S. 16</change>
+            <change when="2025-09-20" who="#s_kury">Formatiert und gegengelesen bis S. 17</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -769,13 +764,14 @@ Zustand: gut</note>
                         gewinnt, daß die Länder durch die schließliche Annahme der Verfassung in den
                         Landtagen ein entsprechendes Gewicht auszuüben in der Lage sind. Würde die
                         endgültige Annahme in den Landtagen nicht erfolgen, würde also die
-                        Aussprache hier in Wien<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>der Staatsregierung die Möglichkeit bieten, die Länder zu
+                        Aussprache hier in Wien<pb facs="#facs_9" n="9" xml:id="img_0009"
+                            break="yes"/>der Staatsregierung die Möglichkeit bieten, die Länder zu
                         hören oder nicht — nach eigenem Ermessen —, würde insbesondere den
                         Zentralstellen die Möglichkeit geboten sein, bei allem und jedem zu
                         erklären, das gehe nicht, das gehe wegen der geschlossenen Verwaltung nicht,
                         so wäre die ganze Beratung illusorisch. </p>
                     <p>Es würde sich also nach unserer Ansicht empfehlen — das deckt sich fast ganz
-                        mit den Ausführungen des Herrn Staatskanzlers —  eine Staatskommission,
+                        mit den Ausführungen des Herrn Staatskanzlers — eine Staatskommission,
                         analog wie sie für die Sozialisierung besteht, zu schaffen, in der die
                         Länder paritätisch vertreten sind und welche die Aufgabe hätte, unter der
                         Leitung des Staatskanzlers die Vorarbeit für den Entwurf zu schaffen,
@@ -953,7 +949,8 @@ Zustand: gut</note>
                         des vorgeschriebenen Kontingents. Für Steiermark, Kärnten und Tirol kann ich
                         eigentlich überhaupt keine Ziffern nennen, denn sie sind fast Null.
                         Steiermark hat 219 Tonnen aufgebracht oder 2 ½ Prozent seines Kontingents,
-                        Kärnten 61 Tonnen <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>oder 32 Prozent seines Kontingents und Tirol 61 ½ Tonnen oder 0,4 Prozent
+                        Kärnten 61 Tonnen <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"
+                        />oder 32 Prozent seines Kontingents und Tirol 61 ½ Tonnen oder 0,4 Prozent
                         seines Kontingents. </p>
                     <p>Dieses Ergebnis der Aufbringung ist selbstverständlich für unsere Versorgung
                         von sehr unangenehmer Wirkung. Wir haben bereits vor einiger Zeit
@@ -1131,7 +1128,8 @@ Zustand: gut</note>
                         Versicherungen gegeben, aber der Zustand ist immer ärger geworden. Das kann
                         unmöglich so fortgehen und jeder Teil des Staatsgebietes und des Staatsvokes
                         muß sich darüber klar sein, daß er durch eine Politik der Sonderinteressen
-                        sich in letzter Linie nur selbst<pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>ruiniert; denn wenn die Gesamtheit untergeht, gehen die
+                        sich in letzter Linie nur selbst<pb facs="#facs_13" n="13" xml:id="img_0013"
+                            break="yes"/>ruiniert; denn wenn die Gesamtheit untergeht, gehen die
                         Teile mit unter und es wird sich niemand dadurch retten, daß er sich für
                         einige Zeit ein günstigeres Provisorium schafft. Ich möchte daher die
                         Vertreter der Länder bitten, sich zu äußern, in welcher Weise sie imstande
@@ -1218,7 +1216,8 @@ Zustand: gut</note>
                             <emph>Mayer</emph>: Der Kontakt war nur mit Niederösterreich!) Ja, bei
                         Niederöfterreich ist das Verhältnis ganz anders. Hier erscheint das
                         Volksernährungsamt gleichzeitig als das, was bei uns im Lande der
-                        Landeswirt- <pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>schaftsrat für Oberösterreich ist. Nun ist aber die Ernährung nicht mit
+                        Landeswirt- <pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"
+                        />schaftsrat für Oberösterreich ist. Nun ist aber die Ernährung nicht mit
                         der Getreidebersorgung allein abgetan. Eine Reihe wichtiger Lebensmittel
                         mangelt der Stadt Wien und auch anderen Konsumgebieten; diese Lebensmittel
                         können aus Oberösterreich herausgeholt werden, so weit eben irgend etwas
@@ -1307,7 +1306,8 @@ Zustand: gut</note>
                         frei läßt, auch auf dem Gebiete des Getreides einen großartigen
                         Schleichhandel erleben werden. Er hat sich ja im Vorjahre bei der strafferen
                         Bewirtschaftung bemerkbar gemacht, er wird sich heuer dann noch mehr
-                        bemerkbar- machen und, wenn einmal der Schleichhandel sich <pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>auf dem Gebiete
+                        bemerkbar- machen und, wenn einmal der Schleichhandel sich <pb
+                            facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>auf dem Gebiete
                         der Getreideaufbringung eingenistet hat, dann ist uns die Brotversorgung
                         überhaupt unmöglich gemacht. </p>
                 </sp>
@@ -1402,91 +1402,110 @@ Zustand: gut</note>
                         Kohle. Die meisten Leute, die Maschinen haben, müssen das für ihren eigenen
                         Hausbedarf nötige Getreide mit der Hand dreschen und ebenso das zum Anbau
                         notwendige Getreide. Daß die Ablieferung nicht vom Fleck kommt, können Sie
-                        sich denken. </p>
+                        sich denken. <pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"
+                        />Schließlich ist noch ein Moment zu berücksichtigen. Es haben bei uns
+                        allgemeine Wahlen stattgefunden, fast überall sind neue Bürgermeister
+                        gekommen und, daß sich nicht jeder Bürgermeister in dem Wust von
+                        Verordnungen, die auf dem Gebiete des Ernährungswesens in den sechs Jahren
+                        erlassen worden sind, so schnell einarbeiten kann, ist doch eine
+                        Selbstverständlichkeit. Er kommt in die Gemeindestube und findet nichts als
+                        einen Stoß von Verordnungen, von denen er die meisten nicht kennt. Wir
+                        bemühen uns nach Kräften, die Ablieferung in Fluß zu bringen, und
+                        hoffentlich wird es uns gelingen, die Schwierigkeiten zu überwinden. Wir
+                        werden auch bestrebt sein, das vorgeschriebene Haferkontingent aufzubringen.
+                    </p>
                 </sp>
                 <sp>
-                    <speaker/>
-                    <p/>
+                    <speaker>Staatskanzler Dr. <emph>Renner</emph>:</speaker>
+                    <p>Eine Agitation, von wem immer sie ausgeht, die darauf hinausläuft, daß nicht
+                        geliefert wird, ist ein Verbrechen gegen das Volk, in zweifacher Richtung.
+                        Ein Verbrechen gegen das Volk, das in seiner leiblichen Existenz bedroht
+                        wird, und ein Verbrechen gegen das Volk, das dadurch geradezu in einen
+                        Bürgerkrieg verwickelt zu werden droht. Es muß von allen Seiten, von der
+                        Staatsregierung, von den Landesregierungen, von den Bezirkshauptmannschaften
+                        jedermann gegenüber ausgesprochen und betont werden, daß eine solche Aktion,
+                        auch wenn sie mit dem Strafgesetze nicht erfaßt werden kann, ein Verbrechen
+                        ist an der Volksgesamtheit. Ich bitte, gegenwärtig die Debatte
+                        ausschließlich darauf zu beschränken: wie helfen wir uns gegenüber der
+                        Gefahr, daß wir in Wien die Zugpferde schlachten müssen, weil wir sie nicht
+                        nähren können, eine Gefahr, die uns in den nächsten Tagen droht. Ich glaube,
+                        jeder Landwirt wird verstehen, daß das eine Barbarei und eine Katastrophe
+                        wäre, die auf die Volksgesamtheit und damit auch auf die Landwirte
+                        zurückwirken würde.</p>
                 </sp>
-                <p>
-                    <pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/> Schließlich ist noch
-                    ein Moment zu berücksichtigen. Es haben bei uns allgemeine Wahlen stattgefunden,
-                    fast überall sind neue Bürgermeister gekommen und, daß sich nicht jeder
-                    Bürgermeister in dem Wust von Verordnungen, die auf dem Gebiete des
-                    Ernährungswesens in den sechs Jahren erlassen worden sind, so schnell
-                    einarbeiten kann, ist doch eine Selbstverständlichkeit. Er kommt in die
-                    Gemeindestube und findet nichts als einen Stoß von Verordnungen, von denen er
-                    die meisten nicht kennt. Wir bemühen uns nach Kräften, die Ablieferung in Fluß
-                    zu bringen, und hoffentlich wird es uns gelingen, die Schwierigkeiten zu
-                    überwinden. Wir werden auch bestrebt sein, das vorgeschriebene Haferkontingent
-                    aufzubringen. Staatskanzler Dr. Renner: Eine Agitation, von wem immer sie
-                    ausgeht, die darauf hinausläuft, daß nicht geliefert wird, ist ein Verbrechen
-                    gegen das Volk, in zweifacher Richtung. Ein Verbrechen gegen das Volk, das in
-                    seiner leiblichen Cristenz bedroht wird, und ein Verbrechen gegen das Volk, das
-                    dadurch geradezu in einen Bürgerkrieg verwickelt zu werden droht. Gs muß von
-                    allen Seiten, von der Staatsregierung, von den Landesregierungen, von den
-                    Bezirkshauptmannschaften jedermann gegenüber ausgesprochen und betont werden,
-                    daß eine solche Aktion, auch wenn sie mit dem Strafgesetze nicht erfaßt werden
-                    kann, ein Verbrechen ist an der Volksgesamtheit. Ich bitte, gegenwärtig die
-                    Debatte ausschließlich darauf zu beschränken: wie helfen wir uns gegenüber der
-                    Gefahr, daß wir in Wien die Zugpferde schlachten müssen, weil wir sie nicht
-                    nähren können, eine Gefahr, die uns in den nächsten Tagen droht. Ich glaube,
-                    jeder Landwirt wird verstehen, daß das eine Barbarei und eine Katastrophe wäre,
-                    die auf die Volksgesamtheit und damit auch auf die Landwirte zurückwirken würde.
-                    Landesrat Prisching: Aus Steiermark kann ich leider keine gute Nachricht
-                    bringenSteiermark ist trotz besten Willens augenblicklich nicht in der Lage, zu
-                    liefern. Wir haben den besten Willen, aber es liegen einige schwerwiegende
-                    Gründe vor, die ich ganz kurz berühren möchte. Erstens die ungünstige Witterung,
-                    durch die die Grute um mindestens sechs Wochen verzögert wurde. Als ich heute
-                    nach Wien fuhr, habe ich den grünen Hafer auf dem Felde stehen gesehen. Zweitens
-                    ist der Mangel an Druschbenzin die Ursache, daß wir die Ernte nicht dreschen
-                    können. Drittens, wenn wir schon ein bischen Hafer haben, so brauchen wir ihn
-                    notwendig dazu, um unsere Pferde für die Holzfuhrwerke kräftig zu füttern.
-                    Sobald die Möglichkeit vorhanden ist, wird Stciermark seiner Pflicht gewiß
-                    nachkommen. Augenblicklich können wir beim besten Willen nicht helfen.
-                    (Staatskanzler Dr. Kenner: Etwas1) Auch nicht etwas, weil wir selbst wenig
-                    haben. Staatskanzler Tr. Renner: Ich setze voraus, daß die Landesregierungen von
-                    Niederösterreich, Oberösterreich und nach Tunlichkeit auch von Salzburg das
-                    Ernährungsamt auf die wirksamste Weise unterstützen werden, um eine
-                    Futtermittelkatastrophe in Wien zu verhindern. Landeshauptmann-Stellvertreter
-                    Mayer: Ich muß schon konstatieren, daß die Folgen des Futtermangels in Wien ein
-                    bisschen zu drastisch geschildert werden. Unser Heu ist frei. (Staatssekretür
-                    Dr. Loewenfeld-Ruß: Das gilt nicht für Hartfutter1) Das Hartfutter ist in
-                    geringen Mengen vorhanden und ich behaupte, daß diese geringe Menge noch immer
-                    mehr bedeutet als früher das sogenannte Mischfulter, das in hohem Grade
-                    gesundheitsschädlich war. Ich kann nur nochmals konstatieren, daß auch die
-                    Berichte der Bezirkshauptmannschaften jetzt immer darauf hinweisen, daß die
-                    Anlieferung dadurch verzögert wird, daß sie leider nicht imstande sind, das
-                    nötige Benzin und die nötige Druschkohle zur Verfügung zu stellen. In den oberen
-                    Bezirken, wie in Pöggstall, ist es selbstverständlich, daß die durch die
-                    Witterung hervorgerufene verspätete Ernte schuld ist. Wir werden aber neuerlich
-                    telegraphisch die Bezirkshauptmannschaften auffordern, mit Nachdruck dahin zu
-                    wirken, daß Hafer angeliefert werde. Wenn wir aber nicht Benzin bekommen, ist
-                    die Sache nicht zu machen. Wir müssen jetzt alles im Schleichhandel kaufen.
-                    Staatskanzler Dr. Renner: Ich bitte den Herrn Vertreter des Handelsamtes, uns
-                    darüber Auskunft zu geben, wie es mit der Benzinfrage steht. Staatssekretär
-                    Berdik: Die Benzinangelegenheit steht folgendermaßen: Es ist mit Polen ein
-                    Vertrag geschlossen worden, den die Polen zum ersten Male als seriös aufgefaßt
-                    haben. Gs ist lediglich eine Frage, wie viele Tanks, wie viele Benzinwagen wir
-                    stellen können. Insgesamt sind uns nur 120 Wagen bei einem Stande von 490
-                    Zisternen zur Verfügung gestellt worden. Das ist ganz unzureichend. Wir haben
-                    uns nun bemüht, beim Staatsamte für Verkehrswesen zu veranlassen, daß alles
-                    zusammengezogen werde, was an Zisternen vorhanden ist. Nun ist aber etwas
-                    eingetrelen, was uns schwer schädigt. Es haben einzelne Länder
-                    Kompensationsverträge oder Valutaverträge gegen Zahlung abgeschlossen und haben
-                    es verstanden, sich Zisternen zu verschaffen. Das Benzin, das mit diesen
-                    Zisternen hereingeschafft wird, stellt sich nun ungleich höher als das Venzin,
-                    das wir aus Polen hereinschaffen könnten, wenn uns Zisternen zur Verfügung
-                    stünden. Ich verweise nur, daß es in einem Falle 12 bis 17 Kronen kostet,
-                    während wir auf 41/» Kronen mit Polen geschlossen haben. Das ist ein schwerer
-                    Schaden für die Volkswirtschaft. Die Polen haben nun nach den Informationen, die
-                    ich erhalten habe, die Ware mindestens fünfmal verkauft und, wenn wir das Benzin
-                    nicht bis November hereinbekommen, so kann ich es überhaupt nicht mehr
-                    hereinbringen, weil sie auf den Geschmack gekommen sind, daß die
-                    Schleichhandelspreise viel besser sind. Wir haben nun eine Vollzugsanweisung
-                    erlassen, wodurch <pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>
-                    alle Venzinzisternen für Zwecke des Staates angefordert werden, damit wir den
-                    Vertrag soweit als möglich durchführen können. Unterstaatssekretär Dr.
+                <sp>
+                    <speaker>Landesrat <emph>Prisching</emph>: </speaker>
+                    <p>Aus Steiermark kann ich leider keine gute Nachricht bringen. Steiermark ist
+                        trotz besten Willens augenblicklich nicht in der Lage, zu liefern. Wir haben
+                        den besten Willen, aber es liegen einige schwerwiegende Gründe vor, die ich
+                        ganz kurz berühren möchte. Erstens die ungünstige Witterung, durch die die
+                        Grute um mindestens sechs Wochen verzögert wurde. Als ich heute nach Wien
+                        fuhr, habe ich den grünen Hafer auf dem Felde stehen gesehen. Zweitens ist
+                        der Mangel an Druschbenzin die Ursache, daß wir die Ernte nicht dreschen
+                        können. Drittens, wenn wir schon ein bischen Hafer haben, so brauchen wir
+                        ihn notwendig dazu, um unsere Pferde für die Holzfuhrwerke kräftig zu
+                        füttern. Sobald die Möglichkeit vorhanden ist, wird Steiermark seiner
+                        Pflicht gewiß nachkommen. Augenblicklich können wir beim besten Willen nicht
+                        helfen. (Staatskanzler Dr. <emph>Renner</emph>: Etwas!) Auch nicht etwas,
+                        weil wir selbst wenig haben. </p>
+                </sp>
+                <sp>
+                    <speaker>Staatskanzler Dr. <emph>Renner</emph>: </speaker>
+                    <p>Ich setze voraus, daß die Landesregierungen von Niederösterreich,
+                        Oberösterreich und nach Tunlichkeit auch von Salzburg das Ernährungsamt auf
+                        die wirksamste Weise unterstützen werden, um eine Futtermittelkatastrophe in
+                        Wien zu verhindern. </p>
+                </sp>
+                <sp>
+                    <speaker>Landeshauptmann-Stellvertreter <emph>Mayer</emph>: </speaker>
+                    <p>Ich muß schon konstatieren, daß die Folgen des Futtermangels in Wien ein
+                        bisschen zu drastisch geschildert werden. Unser Heu ist frei.
+                        (Staatssekretär Dr. <emph>Loewenfeld-Ruß</emph>: Das gilt nicht für
+                        Hartfutter!) Das Hartfutter ist in geringen Mengen vorhanden und ich
+                        behaupte, daß diese geringe Menge noch immer mehr bedeutet als früher das
+                        sogenannte Mischfulter, das in hohem Grade gesundheitsschädlich war. Ich
+                        kann nur nochmals konstatieren, daß auch die Berichte der
+                        Bezirkshauptmannschaften jetzt immer darauf hinweisen, daß die Anlieferung
+                        dadurch verzögert wird, daß sie leider nicht imstande sind, das nötige
+                        Benzin und die nötige Druschkohle zur Verfügung zu stellen. In den oberen
+                        Bezirken, wie in Pöggstall, ist es selbstverständlich, daß die durch die
+                        Witterung hervorgerufene verspätete Ernte schuld ist. Wir werden aber
+                        neuerlich telegraphisch die Bezirkshauptmannschaften auffordern, mit
+                        Nachdruck dahin zu wirken, daß Hafer angeliefert werde. Wenn wir aber nicht
+                        Benzin bekommen, ist die Sache nicht zu machen. Wir müssen jetzt alles im
+                        Schleichhandel kaufen. </p>
+                </sp>
+                <sp>
+                    <speaker>Staatskanzler Dr. <emph>Renner</emph>:</speaker>
+                    <p>Ich bitte den Herrn Vertreter des Handelsamtes, uns darüber Auskunft zu
+                        geben, wie es mit der Benzinfrage steht. </p>
+                </sp>
+                <sp>
+                    <speaker>Staatssekretär <emph>Berdik</emph>:</speaker>
+                    <p>Die Benzinangelegenheit steht folgendermaßen: Es ist mit Polen ein Vertrag
+                        geschlossen worden, den die Polen zum ersten Male als seriös aufgefaßt
+                        haben. Es ist lediglich eine Frage, wie viele Tanks, wie viele Benzinwagen
+                        wir stellen können. Insgesamt sind uns nur 120 Wagen bei einem Stande von
+                        490 Zisternen zur Verfügung gestellt worden. Das ist ganz unzureichend. Wir
+                        haben uns nun bemüht, beim Staatsamte für Verkehrswesen zu veranlassen, daß
+                        alles zusammengezogen werde, was an Zisternen vorhanden ist. Nun ist aber
+                        etwas eingetreten, was uns schwer schädigt. Es haben einzelne Länder
+                        Kompensationsverträge oder Valutaverträge gegen Zahlung abgeschlossen und
+                        haben es verstanden, sich Zisternen zu verschaffen. Das Benzin, das mit
+                        diesen Zisternen hereingeschafft wird, stellt sich nun ungleich höher als
+                        das Benzin, das wir aus Polen hereinschaffen könnten, wenn uns Zisternen zur
+                        Verfügung stünden. Ich verweise nur, daß es in einem Falle 12 bis 17 Kronen
+                        kostet, während wir auf 4 ½ Kronen mit Polen geschlossen haben. Das ist ein
+                        schwerer Schaden für die Volkswirtschaft. Die Polen haben nun nach den
+                        Informationen, die ich erhalten habe, die Ware mindestens fünfmal verkauft
+                        und, wenn wir das Benzin nicht bis November hereinbekommen, so kann ich es
+                        überhaupt nicht mehr hereinbringen, weil sie auf den Geschmack gekommen
+                        sind, daß die Schleichhandelspreise viel besser sind. Wir haben nun eine
+                        Vollzugsanweisung erlassen, wodurch <pb facs="#facs_17" n="17"
+                            xml:id="img_0017" break="yes"/></p>
+                </sp>
+                <p>      alle Venzinzisternen für Zwecke des Staates angefordert werden, damit wir
+                    den Vertrag soweit als möglich durchführen können. Unterstaatssekretär Dr.
                     Ellenbogen: Ich möchte ergänzend noch hinzufügen, daß wir gegenwärtig im
                     Begriffe sind, mit Rumänien in Verhandlungen zu treten. Es ist im Gegensatze zu
                     den viclen privaten Vertretern, die früher hier waren, ein Vertreter der
@@ -1564,7 +1583,8 @@ Zustand: gut</note>
                     Land dieser künftigen Entwicklung anpassen, um mit ihr nicht in Widerspruch zu
                     kommen und nicht unter die Näder der Entwicklung zu geraten. Wir haben heute
                     folgenden Zustand: Jedes einzelne Land hat eine andere Währung. Die Krone gilt
-                    etwas ganz anderes in Wien, hat <pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/> einen anderen Wert in Steiermark, einen anderen in
+                    etwas ganz anderes in Wien, hat <pb facs="#facs_18" n="18" xml:id="img_0018"
+                        break="yes"/> einen anderen Wert in Steiermark, einen anderen in
                     Oberöfterreich, einen anderen in Tirol, und die Landesregierungen bemühen sich,
                     diesen anderen Wert zu verteidigen und der Krone dort eine höhere Kaufkraft zu
                     sichern. Das ist sehr löblich, aber es ist unmöglich und auf die Dauer
@@ -1644,7 +1664,8 @@ Zustand: gut</note>
                     verhältnismäßige Teil. Es gibt keine bessere Methode, als sich gegenseitig die
                     Wahrheit zu sagen, wenn sie manchmal auch unangenehm ist, und ich würde meine
                     Pflicht verletzen, wenn ich hier in diesem Kreise nicht ganz offenherzig
-                    erklären würde, daß wir bei den <pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/> gegenwärtigen Verwaltungszuständen zu abfurden Verhältnissen
+                    erklären würde, daß wir bei den <pb facs="#facs_19" n="19" xml:id="img_0019"
+                        break="yes"/> gegenwärtigen Verwaltungszuständen zu abfurden Verhältnissen
                     kommen, die nur in einer Katastrophe endigen können. Vor dieser Katastrophe will
                     ich den Staat und alle Länder bewahrt wissen. Es kann niemand sagen, daß die
                     Staatsregierung nicht in der weitestgehenden Weise die Selbstregierung der
@@ -1722,7 +1743,8 @@ Zustand: gut</note>
                     Volkes und nicht ein bloßes Rechtsproblem. Wir werden uns und müssen uns darum
                     kümmern, wie wir die Sache rechtlich ordnen, welche gesetzlichen Maßznahmen
                     notwendig sind, und wir werden die Maßnahmen, die notwendig sind,
-                    selbstverständlich nur im Einvernehmen mit den Ländern treffen. Ich glaube <pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/> aber nicht, daß eine
+                    selbstverständlich nur im Einvernehmen mit den Ländern treffen. Ich glaube <pb
+                        facs="#facs_20" n="20" xml:id="img_0020" break="yes"/> aber nicht, daß eine
                     Regierung die Verantwortung für die Führung der Geschäfte in Hinkunft übernehmen
                     kann, wenn der gegenwärtige Zustand andauert. Ich habe mich verpflichtet
                     gefühlt, das mit aller Deutlichkeit und Klarheit zu sagen und bitte die Länder,
@@ -1802,7 +1824,8 @@ Zustand: gut</note>
                     Landesregierung in Salzburg ganz dasselbe für Schafe und Ziegen gemacht. Ähnlich
                     war es in OberösterreichDa haben wir hinsichtlich der Versendung von Geflügel
                     nachträglich zugestimmt, aber nicht für den Postweg. Die Landesregierung hat
-                    sich überhaupt nicht darum gekümmert. <pb facs="#facs_21" n="21" xml:id="img_0021" break="yes"/> Wie strenge, das von manchen Ländern befolgt
+                    sich überhaupt nicht darum gekümmert. <pb facs="#facs_21" n="21"
+                        xml:id="img_0021" break="yes"/> Wie strenge, das von manchen Ländern befolgt
                     wird, geht daraus hervor, daß die Landesregierung in Oberösterreich, wo auch
                     Transportscheine für Pferde verlangt werden, Pferde, die auf dem Rückwege nach
                     Niederösterreich über die Grenze geführt werden und nicht einen Tranzportschein
@@ -1883,7 +1906,8 @@ Zustand: gut</note>
                     mit einer gewissen Raschheit in dieser Langsamkeit, der Abbau der
                     Transporthescheinigungen unbedingt notwendig ist. Es ist aber geradezu
                     fürchterlich, wenn diese Transportbescheinigungen, noch mit Gebühren und Abgaben
-                    verbunden sind. Wenn, es noch reine, <pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/> wirkliche Gebühren wären, wie zum Beispiel
+                    verbunden sind. Wenn, es noch reine, <pb facs="#facs_22" n="22"
+                        xml:id="img_0022" break="yes"/> wirkliche Gebühren wären, wie zum Beispiel
                     die gewisse Gehühr für den statistischen Anmeldeschein, also eine Gebühr im
                     finanzwissenschaftlichen Sinne für die Auslagen, die der Verwaltung entstehen,
                     so würde man davon nicht reden. Allein das sind nicht Gebühren, sondern das sind
@@ -1958,7 +1982,8 @@ Zustand: gut</note>
                     ist keine Freiheit aller mehr, wenn der eine das tut, was die anderen alle
                     unfrei macht, und dieser Zustand macht uns alle miteinander unfrei. Ich möchte
                     mich in keiner Weise philiströs darüber äußern, daß die Länder von ihrer
-                    Freiheit einen etwas abundanten Gebrauch gemacht haben. <pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"/> Man lernt den Gebrauch der Freiheit
+                    Freiheit einen etwas abundanten Gebrauch gemacht haben. <pb facs="#facs_23"
+                        n="23" xml:id="img_0023" break="yes"/> Man lernt den Gebrauch der Freiheit
                     erst durch übung. Wenn die Länder Erfahrung sammeln werden, werden sie finden,
                     daß sie von ihrer Freiheit den besten Gebrauch machen, wenn sie diese Freiheit
                     im Einvernehmen mit der Gesamtheit gebrauchen. Zweitens gestehe ich zu, daß
@@ -2042,7 +2067,8 @@ Zustand: gut</note>
                     Ergänzung des Absperrungssystems. Fällt die Absperrung weg, dann hört auch der
                     Schleichandel auf! — Landeshauptmann-Stellvertreter Dr. Schlegel: Der
                     Schleichhandel war das Primüre1) Es wird das Angebot von einer Seite, natürlich
-                    von der notlcidendsten Seite, von der, die <pb facs="#facs_25" n="25" xml:id="img_0025" break="yes"/> die meisten Menschen hat, ein überaus großes
+                    von der notlcidendsten Seite, von der, die <pb facs="#facs_25" n="25"
+                        xml:id="img_0025" break="yes"/> die meisten Menschen hat, ein überaus großes
                     sein, es wird ein derartiger Druck erfolgen, daß wir ihm nicht werden
                     widerstehen können und daß überall Kalastrophen eintreten. Wir haben ja nur ein
                     Überschußland und selbst dieses hat in seinen industriellen Gebieten Not. Der
@@ -2119,7 +2145,8 @@ Zustand: gut</note>
                     auf ihre sonstigen Bedürfnisse, insbesondere was die Sachdemobilisierung
                     betrifft, mehr entgegengekommen würde. Staatskanzler Dr. Renner: Meine Herren!
                     Ich bin jetzt gezwungen, die Sitzung zu verlassen. Der Herr Staatssekretär Dr.
-                    Coewenfeld-Ruß wird mich in meiner Abwesenheit <pb facs="#facs_26" n="26" xml:id="img_0026" break="yes"/> vertreten. Ich bringe in Erinnerung, daß um
+                    Coewenfeld-Ruß wird mich in meiner Abwesenheit <pb facs="#facs_26" n="26"
+                        xml:id="img_0026" break="yes"/> vertreten. Ich bringe in Erinnerung, daß um
                     12 Uhr die Vertreter der Lehrerschaft hier erscheinen werden und ich möchte
                     bitten, daß die Vertreter der Länder zusammen mit den Vertretern der
                     Staatsregierung die Herren empfangen. Vielleicht würde das Staatsamt der
@@ -2195,7 +2222,8 @@ Zustand: gut</note>
                     setzt man gleichzeitig die Anerkennung voraus, daß derjenige, der zum Kauf der
                     Lebensmittel gezwungen ist, einen entsprechenden Lohn bezicht. Ich kann mir aber
                     nicht recht vorstellen, wie vor der Bevöllkerung eine derartig sprunghafte
-                    Erhöhung der Preise gerechtfertigt werden könnte. <pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/> Es muß ferner auf die Tatsache verwiesen
+                    Erhöhung der Preise gerechtfertigt werden könnte. <pb facs="#facs_27" n="27"
+                        xml:id="img_0027" break="yes"/> Es muß ferner auf die Tatsache verwiesen
                     werden, daß auch unter normalen Verhältnissen vor Beginn des Krieges die Preise
                     in den einzelnen Ländern sehr weit vor den Weltmarktpreisen abgewichen sind.
                     Zweifellos sind Eier, die aus dem Schärdinger Bezirk nach England gegangen sind,
@@ -2278,7 +2306,8 @@ Zustand: gut</note>
                     2000 Kilogramm Schleichhandelbutter durchkommt. (Landeshauptmann Sever: Trotz
                     den Transportscheinen1) Da gibt es leider keine Transportscheine. Hätten wir von
                     der Postverwaltung das Recht erhalten oder würde von der Postverwaltung
-                    überhaupt verlangt werden, daß diesem Unfuge, <pb facs="#facs_28" n="28" xml:id="img_0028" break="yes"/> der mit falschen Deklarationen getrieben
+                    überhaupt verlangt werden, daß diesem Unfuge, <pb facs="#facs_28" n="28"
+                        xml:id="img_0028" break="yes"/> der mit falschen Deklarationen getrieben
                     wird, dadurch gesteuert wird, daß die einzelnen Postämter von dem Zentralamt
                     verhalten werden, bei der Aufgabe der Gegenstände eine Kontrofle durchzuführen,
                     so könnte man diese Unmengen von Waren, die in den Schleichhandel gehen und nur
@@ -2355,7 +2384,8 @@ Zustand: gut</note>
                     Staatssekretär weiß, was eine solche Sache bedeutet. Ich habe es als meine
                     Pflicht angesehen. Wenn jemand kommt, der, losgelöst von der Landesregierung,
                     diesen Dienst versehen will, dann ist er in acht Tagen überhaupt fertig, dann
-                    muß er erklären, er kann überhaupt <pb facs="#facs_29" n="29" xml:id="img_0029" break="yes"/> nichts machen. Nur auf dem Wege, den wir jetzt beschreiten,
+                    muß er erklären, er kann überhaupt <pb facs="#facs_29" n="29" xml:id="img_0029"
+                        break="yes"/> nichts machen. Nur auf dem Wege, den wir jetzt beschreiten,
                     ist es halbwegs möglich, etwas zu erreichen. Ich möchte am Schlusse betonen, daß
                     ich persönlich und auch die Vertreter der anderen Parteien, die in der
                     Landesregierung und im Landesrate sitzen, es als ihre Pflicht anerkennen und
@@ -2432,7 +2462,8 @@ Zustand: gut</note>
                     ausgesprochenen Willen hat. Ich bin der Meinung, daß manche Landesregierung
                     durch eine Landesorganisation, mag sie nun Landesbauernrat oder
                     Landesarbeiterrat heißen, manchmal sehr gegen ihren Willen beeinflußt wird und
-                    manches anders täte, wenn sie nicht einem starken Drucke von dieser Seite <pb facs="#facs_30" n="30" xml:id="img_0030" break="yes"/> ausgesetzt wäre. Ich
+                    manches anders täte, wenn sie nicht einem starken Drucke von dieser Seite <pb
+                        facs="#facs_30" n="30" xml:id="img_0030" break="yes"/> ausgesetzt wäre. Ich
                     glaube, es ist die Intention des Herrn Staatskanzlers, auf diese Weise die
                     Landesregierungen selbst gegen Einflüsse zu stärken, die ihnen manchmal selbst
                     nicht angenehm sind. Es läßt sich also die Sache, glaube ich, bei beiderseitigem
@@ -2511,7 +2542,8 @@ Zustand: gut</note>
                     insofern noch bedeutend gewachsen, als Transportscheine, die von den Ländern
                     verlangt werden, nicht auch vom Staate verlangt werden. Hier muß ich mich auf
                     den Standpunkt stellen, daß, solange nicht von der Staatsregierung meinem Amt
-                    der Auftrag gegeben wird, diese Trausportscheine zu <pb facs="#facs_31" n="31" xml:id="img_0031" break="yes"/> verlangen, ich nicht imstande bin, meinen
+                    der Auftrag gegeben wird, diese Trausportscheine zu <pb facs="#facs_31" n="31"
+                        xml:id="img_0031" break="yes"/> verlangen, ich nicht imstande bin, meinen
                     Beamten zu befehlen, diese Trausportscheine anzuerkennen und sie gleichfalls zu
                     verlangen. Die Länder bringen durch derartige Gesetze mich und sämtliche Beamte
                     in eine unangenehme und für die Zukunft außerordentlich gefährliche Tage, direkt
@@ -2590,7 +2622,8 @@ Zustand: gut</note>
                     Briefgeheimnis zu verletzen erlaubt und bestimmt, daß jedes Gut mit einem
                     Transportschein zu versehen ist, kann ich von meinem jetzigen Standpunkt nicht
                     abgehen. Wenn die Länder anders vorgehen, dann werden wir ja sehen, zu welchem
-                    Ende wir kommen. Aber ich glauke, es wäre <pb facs="#facs_32" n="32" xml:id="img_0032" break="yes"/> viel vernünftiger, wir würden zu einer
+                    Ende wir kommen. Aber ich glauke, es wäre <pb facs="#facs_32" n="32"
+                        xml:id="img_0032" break="yes"/> viel vernünftiger, wir würden zu einer
                     Vereinbarung gelangen, die es auch mir möglich macht, meinen Dienst im Interesse
                     der Republit anstandslos zu versehen. Landeshauptmann Dr. Kemisch: Ich glaube,
                     daß es ohne Ernährungsdittator nicht gehen wird und ich fürchte mich vor dem
@@ -2662,7 +2695,8 @@ Zustand: gut</note>
                     Auslande beschaffen wollen. Aber eine unbedingte Voraussetzung ist, daß das im
                     Einvernehmen mit uns geschieht, und zwar bevor die Transaktion angefangen ist
                     und nicht erst in einem Zeitpunkt, wo sie schon so weit ist, daß wir keinen
-                    Einfluß darauf nehmen können. Es ist vorgekommen, daß uns die <pb facs="#facs_33" n="33" xml:id="img_0033" break="yes"/> Länder von einer
+                    Einfluß darauf nehmen können. Es ist vorgekommen, daß uns die <pb
+                        facs="#facs_33" n="33" xml:id="img_0033" break="yes"/> Länder von einer
                     Transaktion Mitteilung gemacht haben, die schon soweit gediehen war, daß wir
                     nichts mehr machen konnten. Der Gfjekt war, daß wir Mislionen beisteuern mußten,
                     und zwar nicht etwa in Kronen, sondern die Forderung ist plötzlich gekommen, es
@@ -2742,7 +2776,8 @@ Zustand: gut</note>
                     richtig. Aber wenn wir uns die Ziffern der Zuschübe vom flachen Lande ansehen,
                     dann müssen wir sagen, es hätte auch in dieser Richtung so weit nicht kommen
                     dürfen. Die Zuschübe sind so gering, daß sie mit allen diesen Einwänden nicht
-                    entschuldigt werden können. <pb facs="#facs_34" n="34" xml:id="img_0034" break="yes"/> Wir stehen also in Wien vor der ärgsten Not. Ob es möglich
+                    entschuldigt werden können. <pb facs="#facs_34" n="34" xml:id="img_0034"
+                        break="yes"/> Wir stehen also in Wien vor der ärgsten Not. Ob es möglich
                     sein wird, daß das flachLand Niederösterreich, welches im Vorjahre in
                     hervorragender Weise seine Pflicht erfüllt hat, auch heuer wieder in der
                     nächsten Zeit verhindert, daß dieses Glend über die Bevölterung der Stadt Wien
@@ -2824,7 +2859,8 @@ Zustand: gut</note>
                     vielleicht die Verhandlungen über den Ernährungsdienst als untergeordnet
                     erscheinen ließen. Aber es wird uotwendig sein, daß eine eigene Kommission
                     gebildet wird, die sich mit der Angelegenheit der Beschaffung einer
-                    Valutaanleihe zu beschäftigen haben wird. Das muß sehr rasch geschehen. In <pb facs="#facs_35" n="35" xml:id="img_0035" break="yes"/> dieser Kommission
+                    Valutaanleihe zu beschäftigen haben wird. Das muß sehr rasch geschehen. In <pb
+                        facs="#facs_35" n="35" xml:id="img_0035" break="yes"/> dieser Kommission
                     werden nicht bloß die staatlichen Vertreter ihren Sitz haben, sondern auch die
                     Vertreter der Gemeinden, besonders jener Gemeinden, die davon betroffen werden,
                     daß wir nicht so viel produzieren können als wir brauchen. Dadurch wird diesen
@@ -2902,7 +2938,8 @@ Zustand: gut</note>
                     Quantitäten aus dem Ausland zu beziehen. Ich glaube also, mit Zwangsmaßregeln in
                     dem Sinne, daß der Staat den Ländern droht, ist nichts zu erreichen. Nur vom
                     guten Willen, der Einsicht und dem Gefühl der Solidarität können wir Abhilfe
-                    erwarten. Ich schließe mich also in diesem Sinne den Worten <pb facs="#facs_36" n="36" xml:id="img_0036" break="yes"/> des Herrn Bürgermeisters an, ich
+                    erwarten. Ich schließe mich also in diesem Sinne den Worten <pb facs="#facs_36"
+                        n="36" xml:id="img_0036" break="yes"/> des Herrn Bürgermeisters an, ich
                     richte aber auch für die Partei, der ich angehöre, den dringendsten Appell an
                     die verehrten Herren aus den Ländern, uns beizustehen und durch gemeinsames
                     Zusammenwirken dahin zu trachten, daß wir nicht vollständig zermürkt und
@@ -2980,7 +3017,8 @@ Zustand: gut</note>
                     gesagt: Wir haben ja mit den Vertretern von Osterreich einen Handelsvertrag
                     abgeschlossen. Daraufhin haben die zwei Vertreter von Salzburg dort erklärt: Das
                     geht uns gar nichts an. (Landeshauptmann-Stellvertreter Hr. Rehrl: Nus waren
-                    nicht Vertreter der Landesregierung! — Staatsschrefür Nr. Lorwen- <pb facs="#facs_37" n="37" xml:id="img_0037" break="yes"/> feld-Ruß: Aber sie
+                    nicht Vertreter der Landesregierung! — Staatsschrefür Nr. Lorwen- <pb
+                        facs="#facs_37" n="37" xml:id="img_0037" break="yes"/> feld-Ruß: Aber sie
                     huben sich dafür ausgegeben! — Lundeshuuptmann-Stellvertreter Dr. Kehrl: Das
                     kann jeder!) G3 ist also ein solcher Vertrag glücklicherweise noch nicht
                     zustande gekommen, aber wohin werden diese Dinge führen? Es wurde vom Herrn
@@ -3215,7 +3253,8 @@ Zustand: gut</note>
                     Valutagewinn besteuern möge, der sich aus der Ausfuhr von Zement und Metallen
                     ergibt. Wir haben uns diesbezüglich mit einer Anfrage an einen der Herren vom
                     Staatsamte für Finanzen gewendet, um es dem Staate zukommen zu lassen. Was ist
-                    nun geschehen? Im Staatsamte für Finanzen hat man <pb facs="#facs_40" n="40" xml:id="img_0040" break="yes"/> die Hände zusammengeschlagen und auf der
+                    nun geschehen? Im Staatsamte für Finanzen hat man <pb facs="#facs_40" n="40"
+                        xml:id="img_0040" break="yes"/> die Hände zusammengeschlagen und auf der
                     Länderkonferenz hat man über das böse Tirol gejammert, welches nun auch Metalle
                     mit einem Ausfuhrzoll belegen wolle. Das Land muß sich selbst helfen, wenn die
                     zentrale Hilfe fehlt. Das gilt auch vom Ankauf der Lebensmittel im Auslande. Not
@@ -3364,7 +3403,8 @@ Zustand: gut</note>
                     fallen würde. Wir hätten vor allem die Frage zu besprechen, wie das Söldnerheer
                     ausschauen soll. Ein Söldnerheer wird immer sehr schwer zu behandeln sein. Wir
                     müssen uns erst an den Begriff „Söldnerheer“ gewöhnen, wir sind zu sehr an das
-                    allgemeine Volksheer gewöhnt, so <pb facs="#facs_42" n="42" xml:id="img_0042" break="yes"/> daß wir uns zum Begriff „Söldnerheer“ fast nicht durchringen
+                    allgemeine Volksheer gewöhnt, so <pb facs="#facs_42" n="42" xml:id="img_0042"
+                        break="yes"/> daß wir uns zum Begriff „Söldnerheer“ fast nicht durchringen
                     und uns gar nicht vorstellen können, daß ein solches von ganz anderen
                     Gesichtspunkten geleitet werden muß als ein allgemeines Volksheer, daß der
                     innere Gehalt und die Mittel, die wir anwenden müssen, um das Söldnerheer
@@ -3446,7 +3486,8 @@ Zustand: gut</note>
                     Unteroffiziersstellen durch bisherige Subalternoffizicre angängig wäre. General
                     Hallier war der persönlichen Ansicht, daß dies vom Rate der Zehn aus
                     menschlichem Interesse für die Versorgung von Offizieren bewilligt werden
-                    dürfte. Er machte mich <pb facs="#facs_43" n="43" xml:id="img_0043" break="yes"/> darauf aufmerksam, daß dies eine Vermehrung der einzustellenden Offiziere von
+                    dürfte. Er machte mich <pb facs="#facs_43" n="43" xml:id="img_0043" break="yes"
+                    /> darauf aufmerksam, daß dies eine Vermehrung der einzustellenden Offiziere von
                     1500 auf 3500 bedeuten würde; ein darüber hinausgehendes Entgegenkommen etwa in
                     dem Sinne, daß Offiziere auch auf Mannschaftsposten gestellt werden dürften (wie
                     dies in letzter Zeit in der Presse und vom Gagistenverband ventiliert worden
@@ -3529,7 +3570,8 @@ Zustand: gut</note>
                     wesentlichen dasselbe zu sagen, wie bei den Offizieren. Auch hier werden
                     Kommissionen der Unteroffiziere über die Aufnahme jener entscheiden, die in die
                     neue Wehrmacht eintreten können. Wir werden in diese Kommissionen zur Kontrolle
-                    Vertreter des Staatsamtes für Heerwesen schicken. Das sind die <pb facs="#facs_44" n="44" xml:id="img_0044" break="yes"/> Tanderkommissionen,
+                    Vertreter des Staatsamtes für Heerwesen schicken. Das sind die <pb
+                        facs="#facs_44" n="44" xml:id="img_0044" break="yes"/> Tanderkommissionen,
                     die Auswahl erfolgt länderweise. Später werden diese Länderkommissionen in eine
                     Reichskommission zusammengefaßt, in der die letzte Entscheidung vorbereitet
                     wird. G3 wäre nur zu wünschen, daß die Landesregierungen in diese Kommissionen
@@ -3612,7 +3654,8 @@ Zustand: gut</note>
                     Bewilligung durch das Parlament die letzte Arbeit sofort in Angriff zu nehmen.
                     Ich bitte diesen Bericht zur Kenntnis zu nehmen und ersuche nochmals, uns
                     allfällige Wünsche und Fragen bezüglich der neuen Wehrmacht zur Kenntnis zu
-                    bringen. Ich bin überzeugt, daß <pb facs="#facs_45" n="45" xml:id="img_0045" break="yes"/> es uns gelingen kann, für unseren demokratischen Staat eine
+                    bringen. Ich bin überzeugt, daß <pb facs="#facs_45" n="45" xml:id="img_0045"
+                        break="yes"/> es uns gelingen kann, für unseren demokratischen Staat eine
                     zwar kleine, aber tüchtige demotratische Wehrmacht aufzustellen, aber nur dann,
                     wenn alle beteiligten Faktoren zusammenarbeiten, denn im Falle eines
                     Gegeneinanderarbeitens würden wir augenscheinlich anstatt zu einer Erleichterung
@@ -3768,7 +3811,8 @@ Zustand: gut</note>
                     morgen — ein fires Exposé an die Länder hinaussendet, damit diese dazu Stellung
                     nehmen können. Das würde der Sache sehr dienen. Es war ja sehr dankenzwert, daß
                     der Herr Staatzsetretär in den Ländern war, aber, wie man heute sieht, ist doch
-                    verschiedenes Neue herausgekommen. <pb facs="#facs_47" n="47" xml:id="img_0047" break="yes"/> Staatskanzler Dr. Renner: Es ist niemand mehr zum Worte
+                    verschiedenes Neue herausgekommen. <pb facs="#facs_47" n="47" xml:id="img_0047"
+                        break="yes"/> Staatskanzler Dr. Renner: Es ist niemand mehr zum Worte
                     gemeldet, der Herr Staatssekretär hat das Schlußwort. Staatssekretär Dr.
                     Drutsch: Ich freue mich, konstatieren zu können, daß ich die meisten Anregungen
                     des Herrn Vorredners sehr gerne aufnehme. In einigen Punkten allerdings muß ich
@@ -3847,7 +3891,8 @@ Zustand: gut</note>
                     Es ist selbstverständlich, daß diese Methode nicht allein zum Ziele führen kann,
                     es werden noch andere Mittel gebraucht werden. Der Staat kann so vorgehen, daß
                     er von einzelnen Steuern, die er selbst einhebt und verwaltet, einen Teil des
-                    Erträgnisses den Ländern überläßt. <pb facs="#facs_48" n="48" xml:id="img_0048" break="yes"/> Auf diesen Gedanken, vom Staate eingehobene und verwaltete
+                    Erträgnisses den Ländern überläßt. <pb facs="#facs_48" n="48" xml:id="img_0048"
+                        break="yes"/> Auf diesen Gedanken, vom Staate eingehobene und verwaltete
                     Steuern in ihrem Ergebnisse zu teilen und den Ländern einen Anteil zu gewähren,
                     beruht das System der Überweisungen, das bis jetzt gehandhabt wird, allerdings
                     nur zum Schein. Die Länder bezichen jetzt Überweisungen aus der
@@ -3926,7 +3971,8 @@ Zustand: gut</note>
                     war. Für die Pläne der Länder ist es wichtig, diesen Teil der Disposition zu
                     kennen. Es ist auch in der Tat unmöglich, jetzt, wo alles im Fluß ist und wo
                     nicht einmal der Geldwert fizierbar ist, die Auseinandersetzung zwischen Staats-
-                    und Landesfinanzen auf organische Weise zu vollziehen. <pb facs="#facs_49" n="49" xml:id="img_0049" break="yes"/> Iin wollen wir uns ansehen, wie wir
+                    und Landesfinanzen auf organische Weise zu vollziehen. <pb facs="#facs_49"
+                        n="49" xml:id="img_0049" break="yes"/> Iin wollen wir uns ansehen, wie wir
                     uns zunächst helfen können, und da muß ich eines auf das lebhafteste bedauern.
                     Wir besitzen von den Ländern nur die allerkümmerlichsten Nachweise über die
                     Finanzgebarung und Wirtschaftsführung. Wir kennen weder den Bedarf noch die
@@ -4007,7 +4053,8 @@ Zustand: gut</note>
                     nicht machen, wie es im alten Abgeordnetenhause geschehen ist, wir werden die
                     finanziellen Angelegenheiten nicht zum luogo di traffico machen, sondern wir
                     werden in der Auseinandersetzung der Finanzen die realen Auellen jedes Landes,
-                    seine Bedürfnisse und Aufwendungen <pb facs="#facs_50" n="50" xml:id="img_0050" break="yes"/> sorgfältig in Erwägung ziehen und versuchen, gemeinsam eine
+                    seine Bedürfnisse und Aufwendungen <pb facs="#facs_50" n="50" xml:id="img_0050"
+                        break="yes"/> sorgfältig in Erwägung ziehen und versuchen, gemeinsam eine
                     Ordnung der öffentlichen Angelegen heiten herbeizuführen. Was die Unlagen
                     betrifft, so haben einzelne Länder in letzter Zcit die Umlagen viermal erhöht,
                     andere gar nicht. Es zeigt sich auch eine gewisse Übereinstimmung in der Höhe
@@ -4085,7 +4132,8 @@ Zustand: gut</note>
                     abgezogen werden. Denn wie kämen die gesetzestreuen Länder dazu, diese Einnahmen
                     nicht zu haben und dafür bestraft zu werden? Es ist daher unerläßlich, daß den
                     Ländern das, was sie auf diese Weise bekommen haben, vom Pauschalbetrage ihrer
-                    Dotation abgezogen wird. <pb facs="#facs_51" n="51" xml:id="img_0051" break="yes"/> Nun müssen wir weiter daran denken, diese Überweisungen auch
+                    Dotation abgezogen wird. <pb facs="#facs_51" n="51" xml:id="img_0051"
+                        break="yes"/> Nun müssen wir weiter daran denken, diese Überweisungen auch
                     an gewisse formale Vorschriften zu binden. Es ist im Interesse der Länder
                     selbst, diese Sache einverständlich in Ordnung zu bringen. Deshalb werden zur
                     Vorlage an die nächsten Länderkonferenzen, die die Finanzfrage zum Gegenstande
@@ -4248,7 +4296,8 @@ Zustand: gut</note>
                     Steuerquellen eröffnet haben, die einem anderen Lande nicht zu Gebote stehen.
                     (Staatskanzler Dr. Renner: Ich habe nur gesagt, die anderen können nicht dafür
                     bestraft werden.) Über mir scheint, daß jencs Land, welches so klug war, sich
-                    eine Steuerquelle zu eröffnen, die <pb facs="#facs_53" n="53" xml:id="img_0053" break="yes"/> der Staat sich nicht eröffnet hat, weil er vielleicht zu spät
+                    eine Steuerquelle zu eröffnen, die <pb facs="#facs_53" n="53" xml:id="img_0053"
+                        break="yes"/> der Staat sich nicht eröffnet hat, weil er vielleicht zu spät
                     zugegriffen hat oder überhaupt zu schwerfällig dazu war, Anerkennung dafür
                     verdient und nicht eine Strafe, die sich darin ausdrückt, daß man ihm bei den
                     Überweisungen, auf die es Anspruch zu haben glaubte, das abzieht, was es sich
@@ -4320,7 +4369,8 @@ Zustand: gut</note>
                     schlecht und recht gewirtschaftet, wir haben mit einem Worte fortgewürftelt und
                     werden in das Jahr 1920 mit einem weiteren Defizit eintreten. Ich glaube, wenn
                     uns beispielsweile das Zweifache von dem, was in dem Geschfür das Jahr 1919
-                    steht, von der Regierung bewilligt würde, so würde uns das in den Stand <pb facs="#facs_54" n="54" xml:id="img_0054" break="yes"/> setzen, uns mit Ach
+                    steht, von der Regierung bewilligt würde, so würde uns das in den Stand <pb
+                        facs="#facs_54" n="54" xml:id="img_0054" break="yes"/> setzen, uns mit Ach
                     und Krach in das Jahr 1920 hinüberzuretten. (Stautskunzler Dr. Kenner: Dann
                     hätten wir Zeit, für das Jahr 1920 organisch Vorsorge zu trefsen.) Wir in
                     Oberösterreich sind unter gewissen Voraussetzungen in der Tage, das zu tun, weil
@@ -4460,7 +4510,8 @@ Zustand: gut</note>
                     ihre Voranschläge einsetzen sollen. Landeshauptmann-Stellvertreter Ott: Die
                     nächste Frage ist die der Übergangsbeiträge für die Lehrerschaft. Die würden bei
                     uns für das halbe Jahr rund 700p00 K betragen. Staatskanzler Dr. Kenner: Wir
-                    werden sehen, wie sich das bei den anderen Ländern verhält. <pb facs="#facs_56" n="56" xml:id="img_0056" break="yes"/> Landeshauptmann-Stellvertreter Mayer:
+                    werden sehen, wie sich das bei den anderen Ländern verhält. <pb facs="#facs_56"
+                        n="56" xml:id="img_0056" break="yes"/> Landeshauptmann-Stellvertreter Mayer:
                     Ich will nur einen einzigen Punkt herausgreifen, der auch vom Herrn
                     Staatskanzler berührt wurde. Ich meine die zukünftigen Mittel, mit denen das
                     Land wirtschaften soll. Über die Art und Weise der Zuschüsse zu sprechen, bin
