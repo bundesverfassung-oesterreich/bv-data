@@ -62,14 +62,17 @@
                 <idno type="bv_data_set">Datenset A</idno>
                 <idno type="goobi">14565</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">2900</biblScope>
+</seriesStmt>
+<sourceDesc>
                         <listWit>
                               <witness sameAs="#bv_doc_id__18"/>
                         </listWit>
                 <msDesc type="invetory" subtype="primary">
                               <msIdentifier>
-                                    <institution key="https://d-nb.info/gnd/37748-X"
-                                          >Österreichisches Staatsarchiv</institution>
+                                    <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
                                     <repository key="https://d-nb.info/gnd/1601181-8">Archiv der
                                           Republik (Wien)</repository>
                                     <idno type="archive">AdR, Büro Seitz, Karton 7</idno>
@@ -81,7 +84,7 @@
                                                 Christlichsoziale Fassung</title>
                                           <note type="editor">Evidenzexemplar Entwurf
                                                 maschinschriftlich – Christlichsoziale Fassung
-                                                (basierend auf Mayr II -> Titel des Dokuments:
+                                                (basierend auf Mayr II -&gt; Titel des Dokuments:
                                                 "Zweite Fassung Vorentwurf einer
                                                 Bundesstaatsverfassung. Mit Ersichtlichmachung der
                                                 Ergebnisse der Linzer Länderkonferenz").
@@ -95,8 +98,7 @@
                                     <handDesc/>
                               </physDesc>
                               <history>
-                                    <origin notBefore-iso="1920-04-24" notAfter-iso="1920-07-08"
-                                          >Zwischen 24. April 1920 und 8. Juli 1920</origin>
+                                    <origin notBefore-iso="1920-04-24" notAfter-iso="1920-07-08">Zwischen 24. April 1920 und 8. Juli 1920</origin>
                               </history>
                         </msDesc>
                 <relatedItem type="based_on" target="bv_doc_id__30"/>
@@ -169,8 +171,7 @@
                                           Bundesgebiet steht im Verhältnis nach außen und im
                                           Verhaltnis der Länder zueinander unter dem Schutze des
                                           Bundes.</p>
-                                    <p type="legal_section"><pb facs="#facs_3" n="3"
-                                                xml:id="img_0003" break="yes"/>
+                                    <p type="legal_section"><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
                                           <fw type="pageNum">2</fw><label>(2)</label> Eine Änderung
                                           des Bundesgebietes, die zugleich eine Änderung eines
                                           Landesgebietes ist, ebenso die Änderung einer Landesgrenze
@@ -232,9 +233,7 @@
                                           der Gesetzgebung und Vollziehung des Bundes: <list>
                                                 <label>1. </label>
                                                 <item> die auswärtigen Angelegenheiten mit Einschluß
-                                                  der politischen und wirtschaftlichen Vertretung<pb
-                                                  facs="#facs_4" n="4" xml:id="img_0004" break="yes"
-                                                  /><fw type="pageNum">3</fw> gegenüber dem
+                                                  der politischen und wirtschaftlichen Vertretung<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><fw type="pageNum">3</fw> gegenüber dem
                                                   Auslande; die Grenzvermarkung; die Regelung des
                                                   Waren- und Viehverkehrs mit dem Auslande; das
                                                   Zollwesen; </item>
@@ -300,9 +299,7 @@
                                                   und Angestelltenschutz, sowie das
                                                   Sozielversicherungswesen soweit es sich nicht um
                                                   land- und forstwirtschaftliche Arbeiter und
-                                                  Angestellte<pb facs="#facs_5" n="5"
-                                                  xml:id="img_0005" break="yes"/><fw type="pageNum"
-                                                  >4</fw>handelt; das Vertragsversicherungswesen; </item>
+                                                  Angestellte<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><fw type="pageNum">4</fw>handelt; das Vertragsversicherungswesen; </item>
                                                 <label>10.</label>
                                                 <item> das Hochschulwesen; die fachlichen
                                                   Zentrallehranstalten; die Bekämpfung übertragbarer
@@ -369,8 +366,7 @@
                                                 <label>7.</label>
                                                 <item>das Gewerbewesen, die öffentlichen Agentien
                                                   und die Privatgeschäftsvermittlung;</item>
-                                                <pb facs="#facs_6" n="6" xml:id="img_0006"
-                                                  break="yes"/>
+                                                <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
                                                 <fw type="pageNum">5</fw>
                                                 <label>8.</label>
                                                 <item> hinsichtlich der öffentlichen Abgaben, die
@@ -439,8 +435,7 @@
                                                   Zwangsarbeits- und ähnliche Anstalten; die
                                                   Abschiebung und Abschaffung aus einem in ein
                                                   anderes Land;</item>
-                                                <pb facs="#facs_7" n="7" xml:id="img_0007"
-                                                  break="yes"/>
+                                                <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
                                                 <fw type="pageNum">6</fw>
                                                 <label>5. </label>
                                                 <item>die öffentlichen Einrichtungen zur
@@ -526,9 +521,7 @@
                                           in Gesetzgebung und Vollziehung wird die Stellung des
                                           Bundes als Träger von Privatrechten (Eigentümer,
                                           Unternehmer, Pächter usw.) in keiner Weise berührt.</p>
-                                    <p type="legal_section"><pb facs="#facs_8" n="8"
-                                                xml:id="img_0008" break="yes"/><fw type="pageNum"
-                                                >7</fw><label>(2)</label> Der Bund kann in allen
+                                    <p type="legal_section"><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">7</fw><label>(2)</label> Der Bund kann in allen
                                           diesen Rechtsbeziehungen durch die Landesgesetzgebung
                                           niemals ungünstiger gestellt werden als das betreffende
                                           Land selbst.</p>
@@ -647,8 +640,7 @@
                                           <head>Artikel 22. </head>
                                           <p type="legal_section">Auf Antrag der Bundesregierung
                                                 kann der Bundespräsident den Bundestag, jedoch nur
-                                                  einmal<pb facs="#facs_10" n="10" xml:id="img_0010"
-                                                  break="yes"/><fw type="pageNum">9</fw>aus
+                                                  einmal<pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><fw type="pageNum">9</fw>aus
                                                 demselben Anlaß, auflösen. In diesem Falle hat der
                                                 Bundespräsident binnen sechs Wochen nach erfolgter
                                                 Auflösung Neuwahlen auszuschreiben und den
@@ -708,8 +700,7 @@
                                                 entfallen. </p>
                                           <p type="legal_section"><label>(3)</label> Für jedes
                                                 Mitglied wird ein Ersatzmann bestellt. </p>
-                                          <p type="legal_section"><pb facs="#facs_11" n="11"
-                                                  xml:id="img_0011" break="yes"/>
+                                          <p type="legal_section"><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
                                                 <fw type="pageNum">10</fw><label>(4)</label> Die
                                                 Mitglieder des Bundesrates und deren Ersatzmänner
                                                 werden von den Landtagen aus ihrer Mitte nach dem
@@ -897,8 +888,7 @@
                                                 Bundesvolk den Gesetzesbeschluß des Bundestages an,
                                                 so ist dieser ohne Genehmigung des Bundesrates vom
                                                 Bundespräsidenten zu beurkunden. </p>
-                                          <p type="legal_section"><pb facs="#facs_14" n="14"
-                                                  xml:id="img_0014" break="yes"/>
+                                          <p type="legal_section"><pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>
                                                 <fw type="pageNum">13</fw><label>(3)</label> Auf
                                                 diese Volksabstimmungen finden die Bestimmungen der
                                                 Artikel 34 und 37 Anwendung. </p>
@@ -1023,8 +1013,7 @@
                                           <p type="legal_section">Die Mitglieder der Bundesregierung
                                                 sowie die von ihnen entsendeten Vertreter sind
                                                 berechtigt, an allen Beratungen des Bundestages und
-                                                  des<pb facs="#facs_16" n="16" xml:id="img_0016"
-                                                  break="yes"/><fw type="pageNum">15</fw>Bundesrates
+                                                  des<pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/><fw type="pageNum">15</fw>Bundesrates
                                                 sowie deren Ausschüsse teilzunehmen jedoch mit
                                                 Ausnahme des im Artikel 60 vorgesehenen besonderen
                                                 Ausschusses, an dessen Beratungen sie nur auf
@@ -1089,8 +1078,7 @@
                                                   Nähere wird durch Bundesgesetz bestimmt. </p>
                                           </div>
                                           <div type="article">
-                                                <pb facs="#facs_17" n="17" xml:id="img_0017"
-                                                  break="yes"/>
+                                                <pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>
                                                 <fw type="pageNum">16</fw>
                                                 <head>Artikel 50. </head>
                                                 <p type="legal_section">Der Bundespräsident darf
@@ -1157,8 +1145,7 @@
                                                   <item>die Begnadigung der von den Gerichten
                                                   rechtskräftig Verurteilten, die Milderung und
                                                   Umwandlung der von den Gerichten ausgesprochenen
-                                                  <pb facs="#facs_18" n="18" xml:id="img_0018"
-                                                  break="yes"/><fw type="pageNum">17</fw>Strafen,
+                                                  <pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/><fw type="pageNum">17</fw>Strafen,
                                                   die Nachsicht von Rechtsfolgen und die Tilgung von
                                                   Verurteilungen, ferner die Abolution von
                                                   strafgerichtlichen Verfahren; </item>
@@ -1224,8 +1211,7 @@
                                                   in dessen gesamtem Wirkungskreis berufen. </p>
                                           </div>
                                           <div type="article">
-                                                <pb facs="#facs_19" n="19" xml:id="img_0019"
-                                                  break="yes"/>
+                                                <pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/>
                                                 <fw type="pageNum">18</fw>
                                                 <head>Artikel 59. </head>
                                                 <p type="legal_section"><label>(1)</label> Die
@@ -1291,8 +1277,7 @@
                                                   Werktag zu vertagen. Eine neuerliche Vertagung der
                                                   Abstimmung kann nur auf Beschluß des Bundestages
                                                   erfolgen. </p>
-                                                <p type="legal_section"><pb facs="#facs_20" n="20"
-                                                  xml:id="img_0020" break="yes"/>
+                                                <p type="legal_section"><pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/>
                                                   <fw type="pageNum">19</fw><label>(3)</label> Die
                                                   gesamte Bundesregierung und ihre einzelnen
                                                   Mitglieder werden in den gesetzlich bestimmten
@@ -1359,9 +1344,7 @@
                                                 <head>Artikel 69. </head>
                                                 <p type="legal_section"><label>(1)</label> Das
                                                   Bundesheer ist, soweit die gesetzmäßige
-                                                  bürgerliche Gewalt seine Mitwirkung in Anspruch<pb
-                                                  facs="#facs_21" n="21" xml:id="img_0021"
-                                                  break="yes"/>
+                                                  bürgerliche Gewalt seine Mitwirkung in Anspruch<pb facs="#facs_21" n="21" xml:id="img_0021" break="yes"/>
                                                   <fw type="pageNum">20</fw>nimmt, zum Schutz der
                                                   verfassungsmäßigen Einrichtungen sowie zur
                                                   Aufrechterhaltung der Ordnung und Sicherheit im
@@ -1496,9 +1479,7 @@
                                                 Zeitraumes Richter ohne die sonst vorgeschriebenen
                                                 Förmlichkeiten übersetzt und in den Ruhestand
                                                 versetzt werden können. </p>
-                                          <p type="legal_section"><pb facs="#facs_23" n="23"
-                                                  xml:id="img_0023" break="yes"/><fw type="pageNum"
-                                                  >22</fw><label>(3)</label> Die zeitweise Enthebung
+                                          <p type="legal_section"><pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"/><fw type="pageNum">22</fw><label>(3)</label> Die zeitweise Enthebung
                                                 der Richter vom Amte darf nur durch Verfügung des
                                                 Gerichtsvorstandes oder der höheren Gerichtsbehörde
                                                 unter gleichzeitiger Verweisung der Sache an das
@@ -1622,8 +1603,7 @@
                                           Kundmachung vom Landeshauptmann der Bundesregierung
                                           bekanntzugeben. </p>
                                     <p type="legal_section"><label>(2)</label> Wegen Gefährdung von
-                                          Bundesinteressen kann die Bundesregierung binnen <note
-                                                type="comment">vierzehn Tagen /: eventuell vier
+                                          Bundesinteressen kann die Bundesregierung binnen <note type="comment">vierzehn Tagen /: eventuell vier
                                                 Wochen, falls die ausdrückliche Vorschrift
                                                 aufgenommen wird, daß binnen dieser Frist auch schon
                                                 die Begründung bekanntgegeben werden muss
@@ -1743,9 +1723,7 @@
                                     <p type="legal_section">Zur Überprüfung der Gebarung in der
                                           gesamten Staatswirtschaft des Bundes und der Länder,
                                           ferner der Gebarung der von Organen des Bundes oder der
-                                          Länder verwalteten Stiftungen, Fonds<pb facs="#facs_27"
-                                                n="27" xml:id="img_0027" break="yes"/><fw
-                                                type="pageNum">26</fw> und Anstalten ist der
+                                          Länder verwalteten Stiftungen, Fonds<pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/><fw type="pageNum">26</fw> und Anstalten ist der
                                           Rechnungshof berufen. Er kann auch die Gebarung von
                                           Unternehmungen überprüfen, an denen der Bund oder die
                                           Länder finanziell beteiligt sind. </p>
@@ -1806,9 +1784,7 @@
                                           der Leitung und Verwaltung von Unternehmungen, die dem
                                           Bunde oder den Ländern Rechnung zu legen haben oder zum
                                           Bunde oder einem Lande in einem Subventions- oder
-                                                Vertragsverhältnisse<pb facs="#facs_28" n="28"
-                                                xml:id="img_0028" break="yes"/><fw type="pageNum"
-                                                >27</fw>stehen, beteiligt sein. Ausgenommen sind
+                                                Vertragsverhältnisse<pb facs="#facs_28" n="28" xml:id="img_0028" break="yes"/><fw type="pageNum">27</fw>stehen, beteiligt sein. Ausgenommen sind
                                           Unternehmungen, die ausschließlich die Förderung humaner
                                           Bestrebungen oder der wirtschaftlichen Verhältnisse von
                                           öffentlichen Angestellten oder deren Angehörigen zum
@@ -1866,9 +1842,7 @@
                                           rechtliche Vorrechte oder Nachteile der Geburt und des
                                           Standes sind aufgehoben. Adelsbezeichnungen gelten nur als
                                           Teil des Namens und dürfen nicht mehr verliehen werden. </p>
-                                    <p type="legal_section"><pb facs="#facs_29" n="29"
-                                                xml:id="img_0029" break="yes"/><fw type="pageNum"
-                                                >28</fw><label>(4)</label> Titel dürfen nur
+                                    <p type="legal_section"><pb facs="#facs_29" n="29" xml:id="img_0029" break="yes"/><fw type="pageNum">28</fw><label>(4)</label> Titel dürfen nur
                                           verliehen werden, wenn sie ein Amt oder einen Beruf
                                           bezeichnen; akademische grade und berufliche
                                           Standesbezeichnungen sind dadurch nicht betroffen. </p>
@@ -1988,8 +1962,7 @@
                                     <p type="legal_section"><label>(1)</label> Innerhalb des
                                           Bundesgebietes steht jedermann volle Glaubens- und
                                           Gewissensfreiheit, volle Freiheit des religiösen
-                                          Bekenntnisses sowie der<pb facs="#facs_31" n="31"
-                                                xml:id="img_0031" break="yes"/>
+                                          Bekenntnisses sowie der<pb facs="#facs_31" n="31" xml:id="img_0031" break="yes"/>
                                           <fw type="pageNum">30</fw>öffentlichen und häuslichen
                                           Religionsübung zu, sofern diese nicht mit der öffentlichen
                                           Ordnung oder den guten Sitten unvereinbar sind. </p>
@@ -2048,9 +2021,7 @@
                                           Einbringung solcher Abgaben wird, wenn sie mit
                                           behördlicher Zustimmung auferlegt sind, die politische
                                           Exekution gewährt. </p>
-                                    <p type="legal_section"><pb facs="#facs_32" n="32"
-                                                xml:id="img_0032" break="yes"/><fw type="pageNum"
-                                                >31</fw><label>(7)</label> Bei Neueinführung solcher
+                                    <p type="legal_section"><pb facs="#facs_32" n="32" xml:id="img_0032" break="yes"/><fw type="pageNum">31</fw><label>(7)</label> Bei Neueinführung solcher
                                           Abgaben sind die staatlichen Steuerlisten zur Grundlage zu
                                           nehmen. </p>
                               </div>
@@ -2170,8 +2141,7 @@
                                     <p type="legal_section"><label>(1)</label> Keinem
                                           Bundesangehörigen werden im freien Gebrauch irgendeiner
                                           Sprache im Privat- oder Geschäftsverkehr sowie bei
-                                          Betätigung der religiösen<pb facs="#facs_34" n="34"
-                                                xml:id="img_0034" break="yes"/>
+                                          Betätigung der religiösen<pb facs="#facs_34" n="34" xml:id="img_0034" break="yes"/>
                                           <fw type="pageNum">33</fw>Überzeugung, in der Presse oder
                                           in sonstigen Veröffentlichungen oder in allgemein
                                           zugänglichen Versammlungen Beschränkungen auferlegt. </p>
@@ -2228,8 +2198,7 @@
                                           Gewalt Schaden erleidet, hat Anspruch auf Entschädigung
                                           gegen den Bund oder das Land, durch dessen Organ der
                                           Schaden zugefügt wurde.</p>
-                                    <p type="legal_section"><pb facs="#facs_35" n="35"
-                                                xml:id="img_0035" break="yes"/>
+                                    <p type="legal_section"><pb facs="#facs_35" n="35" xml:id="img_0035" break="yes"/>
                                           <fw type="pageNum">34 </fw><label>(2)</label> Die nähere
                                           Regelung erfolgt durch Bundesgesetz. Dieses setzt auch
                                           fest, unter welchen Voraussetzungen ein Rückgriffsrecht
@@ -2420,8 +2389,7 @@
                                                 jederzeit gestellt werden; er ist sofort der
                                                 zuständigen Landesregierung oder der Bundesregierung
                                                 bekanntzugeben. </p>
-                                          <p type="legal_section"><pb facs="#facs_38" n="38"
-                                                  xml:id="img_0038" break="yes"/>
+                                          <p type="legal_section"><pb facs="#facs_38" n="38" xml:id="img_0038" break="yes"/>
                                                 <fw type="pageNum">37</fw><label>(3)</label> Das
                                                 stattgebende Erkenntnis des Verfassungsgerichtshofes
                                                 bewirkt die Aufhebung des Gesetzes und verpflichtet

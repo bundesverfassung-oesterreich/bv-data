@@ -30,13 +30,11 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372"
-                        >Peter Andorfer </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X"
-                        >Carl Friedrich Haak </persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -63,7 +61,11 @@
                 <idno type="bv_data_set">Datenset B</idno>
                 <idno type="goobi">14601</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset B</title>
+<biblScope unit="part">2600</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
@@ -113,64 +115,40 @@
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
         <surface ulx="0" uly="0" lrx="3036" lry="4802" xml:id="facs_2">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0121/full/full/0/default.jpg"
-                width="3036px" height="4802px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0121/full/full/0/default.jpg" width="3036px" height="4802px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3028" lry="4800" xml:id="facs_3">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0122/full/full/0/default.jpg"
-                width="3028px" height="4800px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0122/full/full/0/default.jpg" width="3028px" height="4800px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3025" lry="4811" xml:id="facs_4">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0123/full/full/0/default.jpg"
-                width="3025px" height="4811px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0123/full/full/0/default.jpg" width="3025px" height="4811px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3024" lry="4802" xml:id="facs_5">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0124/full/full/0/default.jpg"
-                width="3024px" height="4802px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0124/full/full/0/default.jpg" width="3024px" height="4802px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2982" lry="4795" xml:id="facs_6">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0125/full/full/0/default.jpg"
-                width="2982px" height="4795px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0125/full/full/0/default.jpg" width="2982px" height="4795px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3036" lry="4854" xml:id="facs_7">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0126/full/full/0/default.jpg"
-                width="3036px" height="4854px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0126/full/full/0/default.jpg" width="3036px" height="4854px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2983" lry="4878" xml:id="facs_8">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0127/full/full/0/default.jpg"
-                width="2983px" height="4878px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0127/full/full/0/default.jpg" width="2983px" height="4878px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2979" lry="4819" xml:id="facs_9">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0128/full/full/0/default.jpg"
-                width="2979px" height="4819px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0128/full/full/0/default.jpg" width="2979px" height="4819px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2990" lry="4794" xml:id="facs_10">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0129/full/full/0/default.jpg"
-                width="2990px" height="4794px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0129/full/full/0/default.jpg" width="2990px" height="4794px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2976" lry="4783" xml:id="facs_11">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0130/full/full/0/default.jpg"
-                width="2976px" height="4783px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0130/full/full/0/default.jpg" width="2976px" height="4783px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="2964" lry="4804" xml:id="facs_12">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0131/full/full/0/default.jpg"
-                width="2964px" height="4804px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0131/full/full/0/default.jpg" width="2964px" height="4804px"/>
         </surface>
         <surface ulx="0" uly="0" lrx="3033" lry="4798" xml:id="facs_13">
-            <graphic
-                url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0132/full/full/0/default.jpg"
-                width="3033px" height="4798px"/>
+            <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0132/full/full/0/default.jpg" width="3033px" height="4798px"/>
         </surface>
     </facsimile>
     <text type="Sitzungsprotokoll">
@@ -241,8 +219,7 @@
                         Bestattungswesens sowie des Gemeindesanitätsdienstes und Rettungswesens;
                         hinsichtlich der Heil- und Pflegeanstalten, Ambulatorien und des
                         Kurortewesens jedoch nur die sanitäre Aufsicht.</emph></p>
-                <p>Von einer ausdrücklichen Erwähnung der Medizinalstatistik<pb facs="#facs_4" n="4"
-                        xml:id="img_0004" break="yes"/><fw type="pageNum">- 3 -</fw> wird abgesehen,
+                <p>Von einer ausdrücklichen Erwähnung der Medizinalstatistik<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><fw type="pageNum">- 3 -</fw> wird abgesehen,
                     da zahlreiche Staatsämter gewisse Zweige der Statistik aufgenommen wünschen, die
                     man aber in Art. 10, Pkt. 13 in der Formel: Volkszählungswesen <emph>„sowie
                         sonstige Statistik, soweit sie nicht nur den Interessen eines einzelnen
@@ -271,8 +248,7 @@
                     pädagogisch-didaktischem Gebiete wird durch Bundes-Verfassungsgesetze geregelt.
                     Dienstrecht der Lehrer, einschließlich des Besoldungswesens und des
                     Disziplinarrechtes. Privatschulwesen; Volksbildung. Die Zusammensetzung der
-                        Schulverwaltungsbe<pb facs="#facs_5" n="5" xml:id="img_0005" break="no"/><fw
-                        type="pageNum">- 4 -</fw>hörden und die Diensthohieit über die
+                        Schulverwaltungsbe<pb facs="#facs_5" n="5" xml:id="img_0005" break="no"/><fw type="pageNum">- 4 -</fw>hörden und die Diensthohieit über die
                     Lehrerschaften an niederen Lehranstalten wird durch besondere
                     Bundes-Verfassungsgesetze bestimmt“.</p>
                 <p>Ergänzend bemerkt der <emph>Vorsitzende</emph>, daß ein Einvernehmen der Parteien
@@ -303,8 +279,7 @@
                     soweit als möglich entgegengekommen sei: nur in zwei Punkten bestehe ein
                     absoluter Widerspruch: Die Christlichsozialen fordern, daß die Lehrer
                     Landesbeamte sein sollen, während seine Partei sie als Bundesbeamte betrachtet;
-                        der<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><fw
-                        type="pageNum">- 5 -</fw> zweite strittige Punkt seien die
+                        der<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><fw type="pageNum">- 5 -</fw> zweite strittige Punkt seien die
                     Schulaufsichtsbehörden. Nach Anschauung seiner Partei sollen Landes- und
                     Bezirksschulräte Organe des Bundes sein, während die Christlichsozialen der
                     Anschauung sind, daß diese Behörden heute Landesorgane sind und auch weiterhin
@@ -331,8 +306,7 @@
                     zu machen, den gegenwärtigen Rechtszustand mit den Kategorien der neuen
                     Verfassung in Einklang zu bringen, die endgültige Regelung aber einer späteren
                     Regelung vorzubehalten, wird vom Präsidenten <emph>Seitz</emph> mit dem
-                        Hinweis<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw
-                        type="pageNum">- 6 -</fw>abgelehnt, daß bereits die Grund- und
+                        Hinweis<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><fw type="pageNum">- 6 -</fw>abgelehnt, daß bereits die Grund- und
                     Freiheitsrechte in der Verfassung fehlen und nun auch noch das Schulwesen nicht
                     enthalten wäre. Seine Partei habe das größte Entgegenkommen gezeigt und nur auf
                     dem Gebiete des Schulwesens Forderungen gestellt. Der gegenwärtige Rechtszustand
@@ -358,8 +332,7 @@
                     Volksbildungswesen; Regelung des wirtschaftlichen und fachtechnischen Archiv-
                     und Bibliotheksdienstes usw. anzuschließen wären. Endlich wären in Art. 12 als
                     Pkt. 1 a Privatunterricht und Privatschulwesen einzugliedern und in Pkt. 8
-                    dieses Artikels nach den Worten „Dienstrecht der Organe<pb facs="#facs_8" n="8"
-                        xml:id="img_0008" break="yes"/><fw type="pageNum">- 7 -</fw> der Länder, die
+                    dieses Artikels nach den Worten „Dienstrecht der Organe<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">- 7 -</fw> der Länder, die
                     behördliche Aufgaben zu besorgen haben, "Dienstrecht und Besoldungssystem der
                     Lehrpersonen an den Volks- und Bürgerschulen (oder an den anderen Schulen)“
                     anzuschließen.</p>
@@ -422,8 +395,7 @@
                 <p>Ferner <add>ist</add> in Art. 2 nach Niederösterreich in Klammer einzuschalten
                     (Niederösterreich-Land und Wien); nach Analogie der Schweizer Verfassung;
                     Basel-Land und Basel-Stadt.</p>
-                <p>In Art. 3, Abs. 1 schlägt Prof. Dr. <emph>Kelsen</emph> die Strei<pb
-                        facs="#facs_10" n="10" xml:id="img_0010" break="no"/><fw type="pageNum">- 9
+                <p>In Art. 3, Abs. 1 schlägt Prof. Dr. <emph>Kelsen</emph> die Strei<pb facs="#facs_10" n="10" xml:id="img_0010" break="no"/><fw type="pageNum">- 9
                         -</fw>chung des zweiten Satzes „Es steht unter dem Schutz des Bundes“ vor,
                     da hierin kein neuer Gedanke ausgedrückt sei. Der Unterausschuß beschließt die
                         <emph>Streichung</emph> und formuliert auf Antrag Kelsens den dritten Absatz
@@ -455,8 +427,7 @@
                     hat:</p>
                 <quote>
                     <p>„(1) Für jedes Land besteht eine Landesbürgerschaft. Voraussetzung der
-                        Landesbürgerschaft ist das Heimatrecht in einer<pb facs="#facs_11" n="11"
-                            xml:id="img_0011" break="yes"/><fw type="pageNum">- 10 -</fw> Gemeinde
+                        Landesbürgerschaft ist das Heimatrecht in einer<pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><fw type="pageNum">- 10 -</fw> Gemeinde
                         des Landes. Die Bedingungen für den Erwerb und den Verlust der
                         Landesbürgerschaft sind in jedem Land gleich“, wird die weitere Erörterung
                         der Streichungsfrage bis zur Besprechung des Art. 10, Pkt. 2 vertagt.</p>
@@ -514,8 +485,7 @@
                     die Aenderung des Punktes 7 im Sinne des Vorschlages Prof. Dr.
                         <emph>Kelsens</emph> angenommen:</p>
                 <quote>
-                    <p> „7. Angelegenheiten des Gewerbes und der Industrie; Be<pb facs="#facs_13"
-                            n="13" xml:id="img_0013" break="no"/><fw type="pageNum">- 12
+                    <p> „7. Angelegenheiten des Gewerbes und der Industrie; Be<pb facs="#facs_13" n="13" xml:id="img_0013" break="no"/><fw type="pageNum">- 12
                         -</fw>kämpfung des unlauteren Wettbewerbes; Patentwesen sowie Schutz von
                         Mustern, Marken und anderen Warenbezeichnungen; Angelegenheiten der
                         Patentanwälte; Ingenieur- und Ziviltechnikerwesen; Kammern für Handel,
