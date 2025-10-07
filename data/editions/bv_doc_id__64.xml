@@ -101,7 +101,7 @@
                 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="created">
+        <revisionDesc status="text_correct">
             <change when="2025-09-03" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
@@ -138,13 +138,10 @@
                     <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
                     <fw type="pageNum">1</fw>
                     <note type="comment">102/99-St.K.-1920</note>
-                    <note type="comment"
-                        ><?oxy_comment_start author="atkinson.j" timestamp="20250918T181809+0200" comment="Handschriftliche Notitz oben links vervollständigen" flag="done"?>z.Z.
-                        55221u Die Beurkundungsunterschrift durch den Herrn Präsidenten wurde im
-                        kurzen Wege
-                            eingeholt.<?oxy_comment_start author="atkinson.j" timestamp="20251006T112527+0200" comment="Unterschrift undeutlich (Welleg/Welberg?)" mid="1"?><gap
-                            reason="illegible"
-                        /><?oxy_comment_end?><?oxy_comment_end mid="1"?></note>
+                    <note type="comment">z.Z. 55221u Die Beurkundungsunterschrift durch den Herrn
+                        Präsidenten wurde im kurzen Wege
+                            eingeholt.<?oxy_comment_start author="atkinson.j" timestamp="20251006T112527+0200" comment="Unterschrift undeutlich (Welleg/Welberg?)"?><gap
+                            reason="illegible"/><?oxy_comment_end?></note>
                     <p>Die Nationalversammlung hat beschlossen:</p>
                 </div>
                 <div type="section">
@@ -396,9 +393,8 @@
                             (Verordnungen) derartige Fälle nicht regeln, tritt die Bestimmung des
                             Artikels 15, Absatz 3, sofort in Kraft.</p>
                     </div>
-                    <?oxy_comment_start author="atkinson.j" timestamp="20251006T125930+0200" comment="gegengelesen bis hier"?>
-                    <div type="article"><?oxy_comment_end?>
-                        <head>§ 19</head>
+                    <div type="article">
+                        <head>§ 19.</head>
                         <head>Zu Artikel 23.</head>
                         <p type="legal_section">Die Bestimmungen des Gesetzes vom 12. Juli 1872, R.
                             G. Bl. Nr. 112 (Syndikatsgesetz), bleiben mit den durch § 12, Absatz 2,
@@ -438,12 +434,12 @@
                         <p type="legal_section"><label>(1)</label>In den ersten Bundesrat entsenden:
                             Wien 12 Mitglieder. Niederösterreich-Land 10 Mitglieder, Steiermark 6
                             Mitglieder, Oberösterreich 6 Mitglieder, Tirol 3 Mitglieder, Kärnten 3
-                            Mitglieder, Salzburg 3 Mitglieder, Vorarlberg 3 Mitglieder. <pb
-                                facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><fw
-                                type="pageNum">4</fw></p>
-                        <p type="legal_section"><label>(2)</label>Sobald das Burgenland einen
-                            Landtag gewählt hat, wird die Anzahl der vom Burgenland zu entsendenden
-                            Mitglieder vom Bundespräsidenten nach Artikel 34 ermittelt.</p>
+                            Mitglieder, Salzburg 3 Mitglieder, Vorarlberg 3 Mitglieder.</p>
+                        <p type="legal_section"><pb facs="#facs_5" n="5" xml:id="img_0005"
+                                break="yes"/><fw type="pageNum">4</fw><label>(2)</label>Sobald das
+                            Burgenland einen Landtag gewählt hat, wird die Anzahl der vom Burgenland
+                            zu entsendenden Mitglieder vom Bundespräsidenten nach Artikel 34
+                            ermittelt.</p>
                         <p type="legal_section"><label>(3)</label>Der Bundesrat versammelt sich zu
                             seiner ersten Sitzung am 21. Tag nach dem ersten Zusammentritt des
                             Nationalrates in dem vom Bundeskanzler bezeichneten Sitzungsraum des
@@ -461,7 +457,7 @@
                             Bundesgesetzblatt, wobei § 6 dieses Gesetzes anzuwenden ist.</p>
                         <p type="legal_section"><label>(2)</label>Als erste Verlautbarungen des
                             Bundesgesetzblattes sind das Bundes-Verfassungsgesetz und dieses Gesetz
-                            sowie die im § 41 bezeichnete Kundmachung nen kundzumachen; die so neu
+                            sowie die im § 41 bezeichnete Kundmachung neu kundzumachen; die so neu
                             verlautbarten Gesetzestexte sind maßgebend.</p>
                     </div>
                     <div type="article">
@@ -527,29 +523,29 @@
                         <head>Zu Artikel 79.</head>
                         <p type="legal_section">Das auf Grund des Wehrgesetzes vom 18. März 1920,
                             St. G. Bl. Nr. 122, gebildete Heer ist das Bundesheer im Sinne des
-                            BundesVerfassungsgesetzes.</p>
+                            Bundes-Verfassungsgesetzes.</p>
                     </div>
                     <div type="article">
                         <head>§ 28.</head>
                         <head>Zu Artikel 82 bis 94.</head>
                         <p type="legal_section">Die geltenden Bestimmungen über die Zuständigkeit
-                            und Zusammensetzung der Zivil- und Strafgerichte bleiben bis ans
+                            und Zusammensetzung der Zivil- und Strafgerichte bleiben bis auf
                             weiteres in Kraft.</p>
                     </div>
                     <div type="article">
                         <head>§ 29.</head>
                         <head>Zu Artikel 95.</head>
                         <p type="legal_section">Die bestehenden Volksvertretungen in den Ländern
-                            sind die ersten Landtage im Sinne des Bundes-Verfassungsgesetzes. </p>
+                            sind die ersten Landtage im Sinne des Bundes-Verfassungsgesetzes.</p>
                     </div>
-                    <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
-                    <fw type="pageNum">5</fw>
                     <div type="article">
+                        <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+                        <fw type="pageNum">5</fw>
                         <head>§ 30.</head>
                         <head>Zu Artikel 98.</head>
                         <p type="legal_section"><label>(1)</label>Der Artikel 99 wird auch auf
                             Landesgesetze angewendet, die vor dem Inkrafttreten des
-                            BundesVerfassungsgesetzes beschlossen worden sind, sofern die
+                            Bundes-Verfassungsgesetzes beschlossen worden sind, sofern die
                             Staatsregierung hiezu noch nicht im Sinne der Artikel 14 und 15 des
                             Gesetzes vom 14. März 1919, St. G. Bl. Nr. 179, über die
                             Volksvertretung, Stellung genommen hat oder die in den letztbezogenen
@@ -581,7 +577,7 @@
                             jedoch auch schon vor der Angelobung die Geschäfte des Landeshauptmannes
                             im Sinne des Bundes-Verfassungsgesetzes.</p>
                         <p type="legal_section"><label>(3)</label>Die Bezüge der Mitglieder der
-                            Landesregie rungen, die nach dem im § 42, Absatz 1, bezeichneten
+                            Landesregierungen, die nach dem im § 42, Absatz 1, bezeichneten
                             Zeitpunkt fällig werden, tragen die Länder.</p>
                     </div>
                     <div type="article">
@@ -618,7 +614,7 @@
                             Bundesverwaltung erster und zweiter Instanz für Wien in einer Instanz
                             vereinigt. In allen jenen Angelegenheiten jedoch, in denen auf Grund
                             besonderer gesetzlicher Bestimmungen der Instanzenzug beim Land endet,
-                            entscheidet in erster Instanz die zuständige Amtsstelle des Magistrate,
+                            entscheidet in erster Instanz die zuständige Amtsstelle des Magistrates,
                             in zweiter Instanz der Bürgermeister als Landeshauptmann. Diese
                             Bestimmungen gelten bereits für die Entscheidung in den im Zeitpunkt des
                             Inkrafttretens dieses Gesetzes anhängigen Rechtsmittelverfahren.</p>
@@ -661,7 +657,7 @@
                             den voranstehenden Bestimmungen ist Sache der Bundesgesetzgebung; ihre
                             Ausführung liegt den Landesgesetzgebungen ob. Das Bundesgesetz ist
                             binnen vier Monaten nach dem Inkrafttreten des
-                            BundesVerfassungsgesetzes, die Landesgesetze sind binnen weiteren vier
+                            Bundes-Verfassungsgesetzes, die Landesgesetze sind binnen weiteren vier
                             Monaten nach Inkrafttreten des Bundesgesetzes zu erlassen.</p>
                     </div>
                     <div type="article">
@@ -691,7 +687,7 @@
                         <head>Zu Artikel 134 und 135.</head>
                         <p type="legal_section"><label>(1)</label>Der dermalige
                             Verwaltungsgerichtshof wird zum Verwaltungsgerichtshof im Sinne des
-                            BundesVerfassungsgesetzes.</p>
+                            Bundes-Verfassungsgesetzes.</p>
                         <p type="legal_section"><label>(2)</label>Sein Präsident und die Mitglieder
                             bleiben bis zu der gemäß Artikel 135 erfolgenden Neubesetzung im Amt.
                             Die Neubesetzung hat bis 1. Jänner 1921 zu erfolgen.</p>
@@ -716,13 +712,17 @@
                         <head>Zu Artikel 147.</head>
                         <p type="legal_section"><label>(1)</label>Der dermalige
                             Verfassungsgerichtshof wird zum Verfassungsgerichtshof im Sinne des
-                            BundesVerfassungsgesetzes.</p>
+                            Bundes-Verfassungsgesetzes.</p>
                         <p type="legal_section"><label>(2)</label>Sein Präsident, sein
                             Vizepräsident, die Mitglieder und Ersatzmänner bleiben bis zu der gemäß
-                            Artikel 147 erfolgenden Neubesetzung im Amt. § 40. Zu Artikel 148. Die
-                            Gesetze, die die Organisation und das Verfahren des dermaligen
-                            Verfassungsgerichtshofes regeln, gelten bis auf weiteres als das im
-                            Artikel 148 vorgesehene Bundesgesetz.</p>
+                            Artikel 147 erfolgenden Neubesetzung im Amt.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 40.</head>
+                        <head>Zu Artikel 148.</head>
+                        <p type="legal_section">Die Gesetze, die die Organisation und das Verfahren
+                            des dermaligen Verfassungsgerichtshofes regeln, gelten bis auf weiteres
+                            als das im Artikel 148 vorgesehene Bundesgesetz.</p>
                     </div>
                     <div type="article">
                         <head>§ 41.</head>
@@ -739,70 +739,68 @@
                     <div type="article">
                         <head>§ 42.</head>
                         <p type="legal_section"><label>(1)</label>Die Artikel 10 bis einschließlich
-                            13 und der Artikel 15 des Bundes-Verfassungsgesetzes werden, <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">7</fw>soweit es sich nicht um Angelegenheiten der
-                            ehemals autonomen Verwaltung der Länder handelt erst an dem Tag wirksam,
-                            an dem die folgenden Gesetze in Geltung getreten sind: <list>
-                                <label>1</label>
+                            13 und der Artikel 15 des Bundes-Verfassungsgesetzes werden, <pb
+                                facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw
+                                type="pageNum">7</fw>soweit es sich nicht um Angelegenheiten der
+                            ehemals autonomen Verwaltung der Länder handelt, erst an dem Tag
+                            wirksam, an dem die folgenden Gesetze in Geltung getreten sind: <list>
+                                <label>1.</label>
                                 <item>das Verfassungsgesetz des Bundes über die finanzielle
-                                    Auseinandersetzung zwischen dem Bund- und den Ländern,
-                                    beziehungsweise den Gemeinden</item>
+                                    Auseinandersetzung zwischen dem Bund und den Ländern,
+                                    beziehungsweise den Gemeinden;</item>
                                 <label>2.</label>
                                 <item>das Verfassungsgesetz des Bundes über den Wirkungsbereich des
                                     Bundes und der Länder auf dem Gebict des Schul-, Erziehungs- und
-                                    Volkzbildungswesens (Artikel 14 des
+                                    Volksbildungswesens (Artikel 14 des
                                     Bundes-Verfassungsgesetzes);</item>
                                 <label>3.</label>
                                 <item>das Verfassungsgesetz des Bundes über die Organisation der
-                                    Augemeinen staatlichen Verwaltung in den Ländern (Artifel 120
-                                    des BundesVerfassungsgesetztes).<list>
-                                        <label>a)</label>
-                                        <item>Auf dem Gebiet der Gesetzgebung und Vollziehung wird
-                                            die Verteilung der Zuständigkeiten zwischen Bund und
-                                            Ländern gegenüber der bestehenden zwischen Staat und
-                                            Ländern nicht geändert.</item>
-                                        <label>b)</label>
-                                        <item>Alle Angelegenheiten der ehemals autonomen. Verwaltung
-                                            werden von den Ländern im selbständigen Wirkungsbereich
-                                            vollzogen.</item>
-                                        <label>c)</label>
-                                        <item>Alle übrigen Angelegenheiten der Vollziehung werden
-                                            von den Ländern als Angelegenheiten. der mittelbaren
-                                            Bundesverwaltung im Sinne des Bundes-Verfassungsgesetzes
-                                            geführt, soweit sie nicht in den Wirkungsbereich der
-                                            eigenen Bundesbehörden (Artikel 102 des
-                                            BundesVerfassungsgesetzes) fallen; für die Führung
-                                            dieser mittelbaren Bundesverwaltung in Wien gilt § 33
-                                            Absatz 5.</item>
-                                        <label>d)</label>
-                                        <item>Die im § 8, Absatz 1, ausgenommenen Behörden sind
-                                            vorläufig Bundesbehörden, die im § 9, Absatz 1,
-                                            bezeichneten Angestellten vorläufig Bundesangestellte.
-                                            Die nach den bisherigen Vorschriften den
-                                            Landeshauptmaniern und den Landesregierungen zustehenden
-                                            Befugnisse in den Personalangelegenheiten der im § 9.
-                                            Absatz 1, bezeichneten Angestellten bleiben
-                                            bestehen.</item>
-                                        <label>e)</label>
-                                        <item>Die Bestimmungen des § 6, Absatz 1, werden nur
-                                            insoweit angewendet, als sie nicht im Widerspruch mit
-                                            den Bestimmungen dieses Absatzes stehen.</item>
-                                        <label>f)</label>
-                                        <item>Auf dem Gebiet des Schul- und Erziehungswejens können
-                                            die Staatsgesetze, einschließlich der früheren
-                                            Reichsgesetze, nur durch übereinstimmende Gerichte des
-                                            Bundes und der beteiligten Länder abgeändert werden;
-                                            hievon sind jene gesetzlichen Bestimmungen ausgenommen,
-                                            die das Hochschulwesen oder das Ausmaß der Bezüge der
-                                            Lehrpersonen betreffen. Änderungen der bestehenden
-                                            Landesgesetze können nur durch übereinstimmende Gesetze
-                                            des Landes und des Bundes erfolgen.</item>
-                                    </list></item>
+                                    allgemeinen staatlichen Verwaltung in den Ländern (Artikel 120
+                                    des Bundes-Verfassungsgesetztes).</item>
+                            </list></p>
+                        <p type="legal_section"><label>(2)</label>Bis dahin gelten nachstehende Bestimmungen:<list>
+                                <label>a)</label>
+                                <item>Auf dem Gebiet der Gesetzgebung und Vollziehung wird die
+                                    Verteilung der Zuständigkeiten zwischen Bund und Ländern
+                                    gegenüber der bestehenden zwischen Staat und Ländern nicht
+                                    geändert.</item>
+                                <label>b)</label>
+                                <item>Alle Angelegenheiten der ehemals autonomen. Verwaltung werden
+                                    von den Ländern im selbständigen Wirkungsbereich
+                                    vollzogen.</item>
+                                <label>c)</label>
+                                <item>Alle übrigen Angelegenheiten der Vollziehung werden von den
+                                    Ländern als Angelegenheiten der mittelbaren Bundesverwaltung im
+                                    Sinne des Bundes-Verfassungsgesetzes geführt, soweit sie nicht
+                                    in den Wirkungsbereich der eigenen Bundesbehörden (Artikel 102
+                                    des Bundes-Verfassungsgesetzes) fallen; für die Führung dieser
+                                    mittelbaren Bundesverwaltung in Wien gilt § 33 Absatz 5.</item>
+                                <label>d)</label>
+                                <item>Die im § 8, Absatz 1, ausgenommenen Behörden sind vorläufig
+                                    Bundesbehörden, die im § 9, Absatz 1, bezeichneten Angestellten
+                                    vorläufig Bundesangestellte. Die nach den bisherigen
+                                    Vorschriften den Landeshauptmännern und den Landesregierungen
+                                    zustehenden Befugnisse in den Personalangelegenheiten der im §
+                                    9. Absatz 1, bezeichneten Angestellten bleiben bestehen.</item>
+                                <label>e)</label>
+                                <item>Die Bestimmungen des § 6, Absatz 1, werden nur insoweit
+                                    angewendet, als sie nicht im Widerspruch mit den Bestimmungen
+                                    dieses Absatzes stehen.</item>
+                                <label>f)</label>
+                                <item>Auf dem Gebiet des Schul- und Erziehungswesens können die
+                                    Staatsgesetze, einschließlich der früheren Reichsgesetze, nur
+                                    durch übereinstimmende Gesetze des Bundes und der beteiligten
+                                    Länder abgeändert werden; hievon sind jene gesetzlichen
+                                    Bestimmungen ausgenommen, die das Hochschulwesen oder das Ausmaß
+                                    der Bezüge der Lehrpersonen betreffen. Änderungen der
+                                    bestehenden Landesgesetze können nur durch übereinstimmende
+                                    Gesetze des Landes und des Bundes erfolgen.</item>
                             </list></p>
                     </div>
                     <div type="article">
                         <head>§ 43.</head>
                         <p type="legal_section"><label>(1)</label>Dieses Gesetz tritt zugleich mit
-                            dem BundesVerfassungsgesetz in Kraft.</p>
+                            dem Bundes-Verfassungsgesetz in Kraft.</p>
                         <p type="legal_section"><label>(2)</label>Mit seinem Vollzug ist die
                             Staatsregierung betraut.</p>
                     </div>
