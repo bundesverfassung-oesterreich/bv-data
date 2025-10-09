@@ -104,7 +104,7 @@
                 <date notBefore-iso="1918-11-01" notAfter-iso="1918-11-30"> November 1918 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="created">
+        <revisionDesc status="text_correct">
             <change when="2024-07-09" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
