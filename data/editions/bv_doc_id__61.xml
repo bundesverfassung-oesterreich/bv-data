@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__61">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id_61">
   <teiHeader>
       <fileDesc>
           <titleStmt>
@@ -100,9 +100,9 @@
               </date>
           </creation>
       </profileDesc>
-      <revisionDesc status="created">
-          <change when="2025-09-03" who="#cfh">document automatically created</change>
-          <change when="2025-09-27" who="#s_kury">Formatiert und gegengelesen bis S. 27 von
+      <revisionDesc status="structured">
+            <change when="2025-09-03" who="#cfh">document automatically created</change>
+            <change when="2025-09-27" who="#s_kury">Formatiert und gegengelesen bis S. 27 von
                 58</change>
       </revisionDesc>
   </teiHeader>
@@ -296,9 +296,9 @@
                         <item>Die Unterstaatssekretäre: Dr. <emph>Ellenbogen</emph>,
                                 <emph>Glöckel</emph>, <emph>Miklas</emph>, Dr. <emph>Resch</emph>
                             und Dr. <emph>Waiß</emph>.</item>
-                        <item>Als Vertreter der Landesregierungen:<list>
+                        <item><emph>Als Vertreter der Landesregierungen:</emph><list>
                                 <item>von Niederösterreich:<list>
-                                        <item>Landeshauptmann <emph>Sever</emph></item>
+                                        <item>Landeshauptmann <emph>Sever</emph>,</item>
                                         <item>Landeshauptmann-Stellvertreter
                                             <emph>Mayer</emph>,</item>
                                         <item>Landeshauptmann-Stellvertreter
@@ -325,7 +325,7 @@
                                     </list></item>
                                 <item>von Steiermark:<list>
                                         <item>Landeshauptmann-Stellvertreter Dr.
-                                            <emph>Ahrer</emph></item>
+                                            <emph>Ahrer</emph>,</item>
                                         <item>Landesrat <emph>Prisching</emph>;</item>
                                     </list></item>
                                 <item>von Kärnten:<list>
@@ -346,30 +346,33 @@
                                         <item>Magistratsdirektor Dr. <emph>Hartl</emph>;</item>
                                     </list></item>
                             </list></item>
-                        <item>ferner vom Staatsamte für Inneres und Unterricht:<list>
-                                <item>Sektionschef <emph>Wenedikter</emph>;</item>
-                            </list></item>
-                        <item>vom Staatsamte für Justiz:<list>
-                                <item>Ministerialrat Dr. <emph>Hermann</emph>;</item>
-                            </list></item>
-                        <item>vom Staatsamte für Finanzen:<list>
-                                <item>Sektionschef Dr. <emph>Mühlvenzl</emph>,</item>
-                                <item>Sektionschef Dr. <emph>Gottlieb-Billroth</emph>,</item>
-                                <item>Ministerialrat <emph>Baernklau</emph>,</item>
-                                <item>Oberfinanzrat Dr. <emph>Grünwald</emph>,</item>
-                                <item>Finanzrat Dr. <emph>Pfaundler</emph>;</item>
-                            </list></item>
-                        <item>vom Staatsamte für Land- und Forstwirtschaft:<list>
-                                <item>Hofrat Dr. <emph>Hennet</emph>;</item>
-                            </list></item>
-                        <item>vom Staatsamte für Handel und Gewerbe, Industrie und Bauten:<list>
-                                <item>Sektionschef <emph>Riedl</emph>,</item>
-                                <item>Sektionschef <emph>Reich</emph>.</item>
-                            </list>
-                        </item>
-                        <item> vom Staatsamte für Volksernährung:<list>
-                                <item>Ministerialrat Dr. <emph>Haager</emph>,</item>
-                                <item>Sektionsrat Dr. <emph>Buresch</emph>.</item>
+                        <item><emph>ferner</emph><list>
+                                <item>vom Staatsamte für Inneres und Unterricht:<list>
+                                        <item>Sektionschef <emph>Wenedikter</emph>;</item>
+                                    </list></item>
+                                <item>vom Staatsamte für Justiz:<list>
+                                        <item>Ministerialrat Dr. <emph>Hermann</emph>;</item>
+                                    </list></item>
+                                <item>vom Staatsamte für Finanzen:<list>
+                                        <item>Sektionschef Dr. <emph>Mühlvenzl</emph>,</item>
+                                        <item>Sektionschef Dr.
+                                            <emph>Gottlieb-Billroth</emph>,</item>
+                                        <item>Ministerialrat <emph>Baernklau</emph>,</item>
+                                        <item>Oberfinanzrat Dr. <emph>Grünwald</emph>,</item>
+                                        <item>Finanzrat Dr. <emph>Pfaundler</emph>;</item>
+                                    </list></item>
+                                <item>vom Staatsamte für Land- und Forstwirtschaft:<list>
+                                        <item>Hofrat Dr. <emph>Hennet</emph>;</item>
+                                    </list></item>
+                                <item>vom Staatsamte für Handel und Gewerbe, Industrie und Bauten:<list>
+                                        <item>Sektionschef <emph>Riedl</emph>,</item>
+                                        <item>Sektionschef <emph>Reich</emph>.</item>
+                                    </list>
+                                </item>
+                                <item> vom Staatsamte für Volksernährung:<list>
+                                        <item>Ministerialrat Dr. <emph>Haager</emph>,</item>
+                                        <item>Sektionsrat Dr. <emph>Buresch</emph>.</item>
+                                    </list></item>
                             </list></item>
                     </list></p>
                 <p><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><fw type="pageNum"
@@ -377,9 +380,9 @@
                     vormittags.)</p>
                 <sp>
                     <speaker>Staatskanzler Dr. <emph>Renner</emph>:</speaker>
-                    <p>Die Sitzung ist eröffnet. Der Herr Vizekanzler Fink läßt sich entschuldigen,
-                        er ist wegen dringender Familienverhältnisse verhindert, an der
-                        Länderkonferenz teilzunehmen.</p>
+                    <p>Die Sitzung ist eröffnet. Der Herr Vizekanzler <emph>Fink</emph> läßt sich
+                        entschuldigen, er ist wegen dringender Familienverhältnisse verhindert, an
+                        der Länderkonferenz teilzunehmen.</p>
                     <p>Die Tagesordnung umfaßt folgende Punkte:<list>
                             <item><label>1.</label>Die Dotation der Landesfonds durch den Staat und
                                 die Forderungen der Lehrerschaft;</item>
@@ -2459,7 +2462,7 @@
                         daß diesem Unfuge, <pb facs="#facs_28" n="28" xml:id="img_0028" break="yes"
                             /><fw type="pageNum">27</fw>der mit falschen Deklarationen getrieben
                         wird, dadurch gesteuert wird, daß die einzelnen Postämter von dem Zentralamt
-                        verhalten werden, bei der Aufgabe der Gegenstände eine Kontrofle
+                        verhalten werden, bei der Aufgabe der Gegenstände eine Kontrolle
                         durchzuführen, so könnte man diese Unmengen von Waren, die in den
                         Schleichhandel gehen und nur ganz bestimmten Kreisen zukommen, erfassen und
                         den Konsumenten zuführen. Was helfen die Klagen, daß die einzelnen Länder
@@ -2468,14 +2471,14 @@
                         geregelte Kontingent nicht eingerechnet werden. Wenn das Verfügbare
                         überhaupt von den Schleichhändlern weggeschleppt wird, so bleibt nichts mehr
                         für die geregelte Versorgung der Konsumenten übrig. Es wird als
-                        selbstverständlich betrachtet, daß ein Paket, das von Bahern nach Osterreich
+                        selbstverständlich betrachtet, daß ein Paket, das von Bayern nach Österreich
                         geht, geöffnet wird, und kein Mensch erblickt darin eine Verletzung des
-                        Brieigeheimnisses, auf das sich immer die Postverwaltung stützt. Ich
+                        Briefgeheimnisses, auf das sich immer die Postverwaltung stützt. Ich
                         verweise nur darauf, daß wir zur Kriegszeit nicht einmal Briefe verschlossen
                         ins Ausland schicken konnten; die Post hatte das Recht der Kontrolle.</p>
                     <p>Es wäre also möglich, daß diese Dinge gemacht werden, aber ohne
                         Transportscheine werden Sie überhaupt keinen geregelten Verkehr zwischen den
-                        einzelnen Ländern erzielen. Essoll mit dem Worte Transportschein nicht
+                        einzelnen Ländern erzielen. Es soll mit dem Worte Transportschein nicht
                         dadurch Unfug getrieben werden, daß eine Absperrung des Landes erfolgt, aber
                         eine Regelung muß sein. Wenn heute der Verkehr frei ist und sich alle
                         Zwischenhändler von Wien auf Oberösterreich stürzen, so werden sie dort das,
@@ -2495,7 +2498,7 @@
                         Wette ein, daß es mindestens zu drei Viertel Wiener sind, die sich aus
                         diesem Gebiete versorgen. Wir sind ihnen um das nicht neidig, wir wollen es
                         den Wienern nicht vorenthalten, darum handelt es sich gar nicht. Aber es
-                        foll uns doch angerechnet werden Ich begreife den Standpunkt nicht, nicht
+                        soll uns doch angerechnet werden. Ich begreife den Standpunkt nicht, nicht
                         anerkennen zu wollen, daß das wirklich eine Butter aus Schärding oder ein
                         Geflügel aus dem Böcklabrucker Bezirk ist. Es werden tagtäglich Unmengen von
                         Waren auf den Zügen beschlagnahmt. Es sind also Waren, die von dort
@@ -2513,8 +2516,8 @@
                         Friedensvertrag ratifiziert ist, fallen schon aus diesem Grunde diese
                         Abgaben aller Wahrscheinlichkeit nach weg.</p>
                     <p>Im Punkt 4 heißt es: Die Landesregierungen verpflichten sich, keine
-                        kaufmännischen Tranzaktionen im Auslande zur Beschaffung von Lebensmitteln
-                        und Bedarfsartikeln vorzunehmen außer im Einverständnis mit dem
+                        kaufmännischen Transaktionen im Auslande zur Beschaffung von Lebensmitteln
+                        und Bedarfsartikeln vorzunehmen, außer im Einverständnis mit dem
                         Ernährungsamte. Ich für meinen Teil sage, diesen Punkt kann man vollständig
                         anerkennen. Wir haben dies auch nie anders gemacht, sondern immer in
                         Verbindung mit dem Volksernährungsamte.</p>
@@ -2522,8 +2525,8 @@
                         nicht annehmen, sondern es müssen mit Rücksicht auf die bestehenden
                         Verhältnisse gewisse Änderungen und Anpassungen erfolgen. Anders ist es
                         nicht möglich. Würde die Sache von seiten der Staatsregierung den Ländern
-                        oktrogiert werden, so würden die Landesregierungen ihre Mitwirkung versagen.
-                        Ich persönlich könnte von meinem Standpunkte eine solche Lösung- nur
+                        oktroyiert werden, so würden die Landesregierungen ihre Mitwirkung versagen.
+                        Ich persönlich könnte von meinem Standpunkte eine solche Lösung nur
                         begrüßen. Würde ich doch von einer Tätigkeit erlöst werden, die den
                         Betreffenden im Lande zur Verzweiflung bringt und ihn hier einer
                         ungerechtfertigten Kritik aussetzt. Wenn die Sache aber in der Form, wie sie
@@ -2563,22 +2566,22 @@
                 <sp>
                     <speaker>Unterstaatssekretär Dr. <emph>Waiß</emph>:</speaker>
                     <p>Der Herr Staatskanzler ermächtigt mich zur Erklärung, daß das
-                        Nachmittagsprogramim in der Weise festgesetzt wurde, daß um 3 Uhr die
+                        Nachmittagsprogramm in der Weise festgesetzt wurde, daß um 3 Uhr die
                         Heeresangelegenheiten zur Sprache kommen und nachher die Finanzfrage.
                         (Landesrat Dr. <emph>Schlegel</emph>: Uns sind die Finanzen das Wichtigste!)
-                        Wir haben Gewicht darauf gelegt, daß die Heeres angelegenheiten, weil sie
-                        für die Länder sehr wichtig sind, nicht als letzter Punkt zur Verhandlung
+                        Wir haben Gewicht darauf gelegt, daß die Heeresangelegenheiten, weil sie für
+                        die Länder sehr wichtig sind, nicht als letzter Punkt zur Verhandlung
                         kommen.</p>
                 </sp>
                 <sp>
                     <speaker>Staatssekretär Dr. <emph>Loewenfeld-Ruß</emph>:</speaker>
                     <p>Gestatten Sie, daß ich eine kurze Bemerkung mache, bevor ich dem nächsten
                         Redner das Wort erteile. Diese Vorschläge, die der Herr Staatzkanzler
-                        unterbreitet hat, sind seiner eigenen Initiatibe im letzten Momente
+                        unterbreitet hat, sind seiner eigenen Initiative im letzten Momente
                         entsprungen. Aus diesem Grunde sind sie den Landesregierungen vorher nicht
                         zugegangen. Nun sind diese Vorschläge, soweit ich die Intentionen des Herrn
                         Staatskanzlers kenne, absolut nicht so gedacht, daß sie den Ländern
-                        oktrohiert werden sollen. Es ist keine Rede davon, daß man daran denkt, hier
+                        oktroyiert werden sollen. Es ist keine Rede davon, daß man daran denkt, hier
                         eine Art Diktatur aufzurichten. Ich bin mir dessen bewußt, daß es heute
                         weder in den Ländern noch hier möglich wäre, auf diktatorischem Wege etwas
                         zu erreichen.</p>
@@ -2587,15 +2590,15 @@
                         zunächst provisorisch einen Mißstand abzuschaffen, und zwar bis zu der Zeit,
                         da durch die Verfassung die Kompetenzen und Machtvollkommenheiten abgegrenzt
                         und geregelt sind, um über die schwierige Zeit hinüberzukommen. Wenn der
-                        Herr Landeshauptmann-Stellvertreter Gruber gesagt hat, daß er nur als
-                        Politiker gewisse Dinge regeln kann, weil diese nur durch Verhandlungen und
-                        Überredungen zu erreichen sind, so möchte ich feststellen, daß ich dem Herrn
-                        Staatskanzler selbst den Vorschlag gemacht habe, er möge an die Spitze des
-                        Ernährungsamtes einen Politiker stellen, weil ich manchmal die Empfindung
-                        habe, daß es vielleicht praktischer wäre, auch an die oberste Leitung des
-                        Ernährungswesens jemanden zu stellen, der einen politischen Einfluß auf die
-                        Länder ausüben kann und nicht einen Beamten. Der Herr Staatskangler ist aber
-                        aus naheliegenden Gründen nicht dieser Meinung.</p>
+                        Herr Landeshauptmann-Stellvertreter <emph>Gruber</emph> gesagt hat, daß er
+                        nur als Politiker gewisse Dinge regeln kann, weil diese nur durch
+                        Verhandlungen und Überredungen zu erreichen sind, so möchte ich feststellen,
+                        daß ich dem Herrn Staatskanzler selbst den Vorschlag gemacht habe, er möge
+                        an die Spitze des Ernährungsamtes einen Politiker stellen, weil ich manchmal
+                        die Empfindung habe, daß es vielleicht praktischer wäre, auch an die oberste
+                        Leitung des Ernährungswesens jemanden zu stellen, der einen politischen
+                        Einfluß auf die Länder ausüben kann und nicht einen Beamten. Der Herr
+                        Staatskanzler ist aber aus naheliegenden Gründen nicht dieser Meinung.</p>
                     <p>Der Mißstand ist nun aber folgender: Die Landeshauptleute haben heute ihre
                         Wurzeln unten, sie sind gewählte Vertreter und Leiter und haben gegen oben —
                         wenn ich unter oben das Staatsamt verstehen kann — eigentlich keine
@@ -2603,7 +2606,7 @@
                         sind durch die Landesversammlung und den Landesrat gebunden und Weisungen
                         oder Wünsche der Zentralstellen kommen demzufolge an zweiter Stelle. Es
                         fassen die Herren die Verwaltung in den Ländern nicht als Staatsverwaltung,
-                        sondern als Landes verwaltung auf. Das Verschweißen der autonomen mit den
+                        sondern als Landesverwaltung auf. Das Verschweißen der autonomen mit den
                         landesfürstlichen Behörden hat nicht, wie es seinerzeit gedacht war, dazu
                         geführt, daß in den Ländern eine staatliche Verwaltung eingeführt wurde,
                         sondern der Staat hat in den Ländern keine Organe mehr.</p>
@@ -2611,27 +2614,27 @@
                         Es sind eigentlich keine Staatsorgane mehr, sondern Landesorgane, die
                         nebenbei auch noch Staatsgeschäfte führen, und das hat auf dem Gebiete des
                         Ernährungswesens sehr große Nachteile, weil eben die Länder — mit Ausnahme
-                        von Oberösterreich, aber auch da nicht vollkommenheute sich nicht selbst
+                        von Oberösterreich, aber auch da nicht vollkommen — heute sich nicht selbst
                         ernähren können und in vielen Beziehungen auf die Hilfe des Staates
                         angewiesen sind, eine einheitliche Ernährungsverwaltung also doch notwendig
                         ist, und dieser einheitlichen Ernährungsverwaltung fehlen eben die Organe.
                         Aus diesem Gesichtspunkt heraus ist dieser Vorschlag gemacht worden. Es ist
                         nicht gemeint, daß ein Diktator aufgestellt wird, es ist auch nicht gemeint,
-                        daß es unbedingt ein Bureaukrat sein muß, der hier als verantwortlichen
+                        daß es unbedingt ein Bureaukrat sein muß, der hier als verantwortlicher
                         Funktionär wirken soll. Es kann der Herr Landeshauptmann-Stellvertreter
-                        Gruber ohneweiters dieser verantwortliche Funktionär sein, aber es muß durch
-                        eine Vollzugsanweisung der Regierung festgestellt werden — und wenn ich mich
-                        nicht irre, ist diese Frage auch Gegenstand der Verhandlungen zwischen den
-                        koalierten Parteien —, daß dieses Organ der Staatsverwaltung gegenüber
-                        verantwortlich ist. Daß wir dabei nicht etwa den Landeswirtschaftsrat und
-                        die Bezirkswirtschaftsräte abschaffen wollen, ist selbstverständlich. Das
-                        Organ wird sich beraten lassen und mit den kompetenten Faktoren in dem
-                        betreffenden Lande in Fühlung bleiben müssen, aber es muß auch seinen
-                        Rückhalt darin finden, daß es eben der Staatsregierung verantwortlich ist.
-                        Ich weisnicht, ob ich da das ganz richtige Gefühl habe, daß es mancher
-                        Landesregierung vielleicht nicht so unangenehm sein würde, wenn sie sich
-                        darauf berufen könnte, daß die Staatsregierung hier einen so ausgesprochenen
-                        Willen hat.</p>
+                            <emph>Gruber</emph> ohneweiters dieser verantwortliche Funktionär sein,
+                        aber es muß durch eine Vollzugsanweisung der Regierung festgestellt werden —
+                        und wenn ich mich nicht irre, ist diese Frage auch Gegenstand der
+                        Verhandlungen zwischen den koalierten Parteien —, daß dieses Organ der
+                        Staatsverwaltung gegenüber verantwortlich ist. Daß wir dabei nicht etwa den
+                        Landeswirtschaftsrat und die Bezirkswirtschaftsräte abschaffen wollen, ist
+                        selbstverständlich. Das Organ wird sich beraten lassen und mit den
+                        kompetenten Faktoren in dem betreffenden Lande in Fühlung bleiben müssen,
+                        aber es muß auch seinen Rückhalt darin finden, daß es eben der
+                        Staatsregierung verantwortlich ist. Ich weiß nicht, ob ich da das ganz
+                        richtige Gefühl habe, daß es mancher Landesregierung vielleicht nicht so
+                        unangenehm sein würde, wenn sie sich darauf berufen könnte, daß die
+                        Staatsregierung hier einen so ausgesprochenen Willen hat.</p>
                     <p>Ich bin der Meinung, daß manche Landesregierung durch eine
                         Landesorganisation, mag sie nun Landesbauernrat oder Landesarbeiterrat
                         heißen, manchmal sehr gegen ihren Willen beeinflußt wird und manches anders
@@ -2642,7 +2645,7 @@
                         zu stärken, die ihnen manchmal selbst nicht angenehm sind. Es läßt sich also
                         die Sache, glaube ich, bei beiderseitigem Entgegenkommen schon regeln, aber,
                         was wir wünschen, ist, daß, wenn etwas verfügt werden muß — natürlich im
-                        Einbernehmen mit den Ländern —, es dann auch unbedingt gemacht wird und daß
+                        Einvernehmen mit den Ländern —, es dann auch unbedingt gemacht wird und daß
                         nicht der betreffende Landeshauptmann oder Funktionär sagt: Wir können das
                         nicht ausführen, wir sind an den Beschluß der Landesverwaltung oder
                         irgendeiner anderen Korporation gebunden. Das betrifft den Punkt 1. Ich
@@ -2681,10 +2684,10 @@
                     <p>Der Herr Landeshauptmann-Stellvertreter <emph>Preußler</emph> hat auch
                         gesagt, wenn man das durchführte, wären die Länder so gebunden, daß sie von
                         der Zentralregierung abhingen, nachdem diese ihnen aber nicht helfen könne,
-                        würde daraus ein vollkommenes Chavs entstehen. Sicher ist es richtig, daß
+                        würde daraus ein vollkommenes Chaos entstehen. Sicher ist es richtig, daß
                         Wien allein den Ländern nicht helfen kann, es ist auch leider das Umgekehrte
                         nicht möglich, aber zusammen müssen wir arbeiten. Daß die Länder allein ihre
-                        Eristenz fortführen können, das halte ich auch für ausgeschlossen und das
+                        Existenz fortführen können, das halte ich auch für ausgeschlossen und das
                         werden Sie mir selbst zugeben. Gerade die Besprechung, die wir vor der
                         Sitzung hatten, beweist am besten, daß Sie, wenn Sie sich auch durch
                         irgendwelche Geschäfte irgendwie eine Erleichterung verschaffen können, am
@@ -2701,7 +2704,7 @@
                         auf die letzte Linie ein Einvernehmen zu erzielen. Ich kann mir aber
                         vorstellen, daß wir, wenn die Herren im Prinzip die Vorschläge für
                         diskutabel erklären — und das ist hier schon gesagt worden —, in kürzester
-                        Zeit den Entwurf einer den erwähnten-Grundsätzen entsprechenden Vorschrift
+                        Zeit den Entwurf einer den erwähnten Grundsätzen entsprechenden Vorschrift
                         hinausschicken und daß diese Grundsätze dann verwirklicht werden können.</p>
                 </sp>
                 <sp>
@@ -2730,7 +2733,7 @@
                         Beamten zu befehlen, diese Trausportscheine anzuerkennen und sie gleichfalls
                         zu verlangen. Die Länder bringen durch derartige Gesetze mich und sämtliche
                         Beamte in eine unangenehme und für die Zukunft außerordentlich gefährliche
-                        Tage, direkt korrumpierend auf die Disziplin zu wirken. Ich kann diese
+                        Lage, direkt korrumpierend auf die Disziplin zu wirken. Ich kann diese
                         Transportscheine nicht anerkennen lassen, weil ich nicht darf, ich bin durch
                         die Staatsregierung, durch die Staatsgesetze gebunden. Auf der anderen Seite
                         soll aber der Beamte draußen dem Befehl des Landes Gehorsam leisten, einem
@@ -2747,7 +2750,7 @@
                         klagbar und haftbar. Infolgedessen kann ich nicht derartige Dinge
                         durchführen, wie es zum Beispiel von Oberösterreich verlangt wird, daß das
                         Frachtgut mit einer Marke seitens der Landesregierung versehen sein muß.
-                        Einen solchen Zwang kann ich auf das verfrachtende Publitum nicht ausüben.
+                        Einen solchen Zwang kann ich auf das verfrachtende Publikum nicht ausüben.
                         Wenn der Mann an dem Aufgeben eines Frachtgutes verhindert wird, klagt er
                         das Verkehrsamt und wir werden vor jedem Richter sachfällig.</p>
                     <p>Bezüglich der Durchsuchung des Gepäcks ist der Zustand, wie er heute geübt
@@ -2767,25 +2770,25 @@
                         ein Fall berichtet worden, wo es nur dadurch möglich wurde, den Zug weiter
                         zu bringen, daß das internationale Publikum, daß sich im Zuge befand, über
                         mehr Revolver verfügte als die Organe, welche die Untersuchung vornehmen
-                        sollten. Nach 11/- Stunden ist es dem Publikum zu dumm geworden, es hat
+                        sollten. Nach 1 ½ Stunden ist es dem Publikum zu dumm geworden, es hat
                         angefangen mit Revolvern zu drohen, die anderen natürlich auch, aber da
-                        diese in der Minderheit waren, konnte der Zug seine Jahrt fortsetzen. Wenn
-                        Sie also wünschen, daß wir in Osterreich einen geordneten Verkehr bekommen
+                        diese in der Minderheit waren, konnte der Zug seine Fahrt fortsetzen. Wenn
+                        Sie also wünschen, daß wir in Österreich einen geordneten Verkehr bekommen,
                         daß der Schnellzug halbwegs regelmäßig verkehrt, daß überhaupt noch jemand
                         in Osterreich reisen soll, dann müssen wir etwas machen, um diese Zustände
-                        auszuschalten. Sie dürfen das Staatsamt nicht in die Tage bringen, daß ich
+                        auszuschalten. Sie dürfen das Staatsamt nicht in die Lage bringen, daß ich
                         heute am 13. hier diese Dinge erörtere und am 16. in einer ebenfalls hier
                         stattfindenden Versammlung zur Förderung des Fremdenverkehres die Erklärung
                         abgehen soll, daß das Staatsamt alles zu tun bereit sei, um den
                         Fremdenverkehr zu fördern. Wie ich das tun kann, gehört in dasselbe Kapitel,
-                        wie die Frage, wie ich die Disziplin erhalten und die Rorruption von den
+                        wie die Frage, wie ich die Disziplin erhalten und die Korruption von den
                         Beamten fernhalten foll, wenn die Länder selbst in dieser Weise
                         vorgehen.</p>
                     <p>Was die Post anlangt, spreche ich ebenfalls nur als Beamter, wenn ich sage:
                         Ich bin sofort bereit, auf der Post jedes Kollo untersuchen zu lassen, wenn
                         die Staatsregierung das Briefgeheimnis aufhebt. Solange aber das
-                        Briefgeheimnis in Osterreich auf einem Gesetze beruht bin ich als Beamter
-                        der Republik nicht in der Tage, meinen Organen den Auftrag zu geben, die
+                        Briefgeheimnis in Österreich auf einem Gesetze beruht, bin ich als Beamter
+                        der Republik nicht in der Lage, meinen Organen den Auftrag zu geben, die
                         Sendungen, ohne dazu ermächtigt zu sein, zu eröffnen. Wenn das im Kriege
                         geschehen ist, so war das eine Kriegsmaßregel, die ich nicht zu verteidigen
                         habe, ich glaube aber nicht, daß wir heute im Frieden und in der Republik
@@ -2798,7 +2801,7 @@
                         dürfen die Kolli nicht aufmachen.</p>
                     <p>Es kommt noch ein weiteres hinzu. Die Herren sprechen von
                         Transportscheinzwang und Untersuchung der Kolli auf der Post. Das geschieht
-                        in den Städten. Gehen Sie auf das Landhinaus und sagen Sie einem
+                        in den Städten. Gehen Sie auf das Land hinaus und sagen Sie einem
                         Landbürgermeister, er solle die Kolli untersuchen lassen. Das tut er nicht.
                         Nun geht das Gut ohne diese Vorsichtsmaßregel und kommt in ein Gebiet, wo
                         das Land die Macht hat, das Gut untersuchen zu lassen, und dort wird diese
@@ -2820,10 +2823,10 @@
                         versehen. </p>
                 </sp>
                 <sp>
-                    <speaker>Landeshauptmann Dr. <emph>Kemisch</emph>:</speaker>
-                    <p>Ich glaube, daß es ohne Ernährungsdittator nicht gehen wird und ich fürchte
+                    <speaker>Landeshauptmann Dr. <emph>Lemisch</emph>:</speaker>
+                    <p>Ich glaube, daß es ohne Ernährungsdiktator nicht gehen wird und ich fürchte
                         mich vor dem Manne nicht so sehr.</p>
-                    <p>Dieser Ernährungsdiktator. müßte freilich eine Bedingung erfüllen: folgen
+                    <p>Dieser Ernährungsdiktator müßte freilich eine Bedingung erfüllen: folgen
                         müssen ihm die Leute, die Konsumenten sowohl als auch die Produzenten, und
                         das wird eine sehr schwierige Geschichte sein; denn die Herren haben bei der
                         Konstruktion, die sie da gemacht haben, etwas übersehen. Sie unterstellen
@@ -2832,19 +2835,20 @@
                         Ernährungsmann in einem Lande und in einem Bezirke arbeiten wird, ohne daß
                         die autonomen Verwaltungsbehörden ihm unterstehen und ohne daß er das Recht
                         hätte, sich dieses Apparates zu bedienen.</p>
-                    <p>Bezüglich des Punktes 2, daß von nun an die staatlichen Behörden den
-                        Landesregierungen nicht mehr zu folgen haben, befürchte ich, daß das eine
-                        andere Wirkung haben wird, die die Herren in Wien wahrscheinlich nicht haben
-                        wollen. Die Beamten draußen folgen Ihnen sehr wenig mehr und, wenn Sie
-                        solche Erlässe hinausgeben, werden sie auch uns nicht mehr folgen, also
-                        niemandem mehr. Ich bitte, diesen Punkt vielleicht doch in eine solche Form
-                        zu kleiden, daß nicht direkt ein Chaos herauskommt. Wir haben vom Herrn
-                        Staatssekretär Dr. <emph>Loewenfeld-Ruß</emph> schon geitern gehört, daß es
-                        zu Unstimmigkeiten kommt, wenn Verordnungen hinausgegeben werden, von denen
-                        die vorgesetzten Behörden nichts wissen. Er hat die Landesregierung in
-                        Kärnten beschuldigt, eine Verordnung erlassen zu haben, durch welche
-                        Gebühren, unter anderem eine einprozentige Wertzollgebühr, eingeführt wurde.
-                        Ich konstatiere, daß diese Verordnung nicht von der Landesregierung, sondern
+                    <p><?oxy_comment_start author="Atkinson.j" timestamp="20251013T134653+0200" comment="gegengelesen bis hier S. 31"?>Bezüglich<?oxy_comment_end?>
+                        des Punktes 2, daß von nun an die staatlichen Behörden den Landesregierungen
+                        nicht mehr zu folgen haben, befürchte ich, daß das eine andere Wirkung haben
+                        wird, die die Herren in Wien wahrscheinlich nicht haben wollen. Die Beamten
+                        draußen folgen Ihnen sehr wenig mehr und, wenn Sie solche Erlässe
+                        hinausgeben, werden sie auch uns nicht mehr folgen, also niemandem mehr. Ich
+                        bitte, diesen Punkt vielleicht doch in eine solche Form zu kleiden, daß
+                        nicht direkt ein Chaos herauskommt. Wir haben vom Herrn Staatssekretär Dr.
+                            <emph>Loewenfeld-Ruß</emph> schon geitern gehört, daß es zu
+                        Unstimmigkeiten kommt, wenn Verordnungen hinausgegeben werden, von denen die
+                        vorgesetzten Behörden nichts wissen. Er hat die Landesregierung in Kärnten
+                        beschuldigt, eine Verordnung erlassen zu haben, durch welche Gebühren, unter
+                        anderem eine einprozentige Wertzollgebühr, eingeführt wurde. Ich
+                        konstatiere, daß diese Verordnung nicht von der Landesregierung, sondern
                         ohne unser Wissen vom Landeswirtschaftsamt erlassen wurde, und so wird es
                         den Herren auch gehen, wenn sie ihre selbständigen Wirtschaftsämter haben,
                         ohne einen genauen Apparat eingerichtet zu haben. Sie werden in Wien nicht
@@ -4961,7 +4965,7 @@
                 <sp>
                     <speaker>Landeshauptmann-Stellvertreter <emph>Ott</emph>:</speaker>
                     <p>Wir haben im Budget einen Betrag von 3 Millionen Kronen für das ganze Jahr
-                        veranschlagt, aber nach den bisherigen Erfahrungen haben wir 21/2 Missionen
+                        veranschlagt, aber nach den bisherigen Erfahrungen haben wir 2 ½ Missionen
                         Kronen sicher zu erwarten.</p>
                 </sp>
                 <sp>
