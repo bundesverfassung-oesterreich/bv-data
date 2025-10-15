@@ -728,8 +728,7 @@
                                     <head>Artikel 3 </head>
                                     <p type="legal_section"><label>(1)</label> Das Bundesgebiet
                                           umfasst die Gebiete der in Artikel 1 bezeichneten Länder.
-                                          (2) <emph>Eine Aenderung des Bundesge-</emph>
-                                          <emph>bie</emph> Das Bundesgebiet steht unter dem Schutze
+                                          (2) <del>Eine Aenderung des Bundesgebie </del>Das Bundesgebiet steht unter dem Schutze
                                           des Bundes. </p>
                                     <p type="legal_section"><label>(3)</label> Abgesehen von solchen
                                           Gebietsveränderungen, die unmittelbar durch Staatsvertrag
@@ -1340,7 +1339,7 @@
                                                 Mitglieder wird durch den Bundesrat nach jeder
                                                 allgemeinen Volkszählung festgesetzt. </p>
                                           <p type="legal_section"><label>(3)</label> Für jedes
-                                                Mitglied des Bundestates ist zugleich ein Ersatzmann
+                                                Mitglied des Bundesrates ist zugleich ein Ersatzmann
                                                 zu wählen. </p>
                                           <p type="legal_section">oder: </p>
                                           <p type="legal_section"><label>(1)</label> Im Bundesrat
@@ -1469,9 +1468,10 @@
                                           <fw type="pageNum">- 36 - </fw>
                                           <head>Artikel 36 </head>
                                           <p type="legal_section"><label>(1)</label> Einer solchen
-                                                Volksabstimmung ist ferner jedes Bundesgesetz
-                                                  unterworf<emph>d</emph>en, wenn dies wenigstens
-                                                von </p>
+                                                Volksabstimmung ist ferner jedes Bundesgesetz unterwor<choice>
+                                                  <del>d</del>
+                                                  <add>f</add>
+                                                </choice>en, wenn dies wenigstens von </p>
                                           <p type="legal_section"><label>100.000</label>
                                                 Stimmberechtigten innerhalb sechs Wochen nach
                                                 erfolgter Kundmachung des Gesetzes gefordert
@@ -1785,13 +1785,18 @@
                                                   Personalangelegenheiten zustehen, bestimmen
                                                   besondere Gesetze und Vorschriften. </p>
                                                 <p type="legal_section"><label>3).</label> Alle in
-                                                  diesem Artikel auf<emph>s</emph>gezählten Akte des
-                                                  Bundespräsidenten erfolgen auf<pb facs="#facs_63" n="63" xml:id="img_0063" break="yes"/><fw type="pageNum">- 53a -</fw>Vorschlag der
-                                                  Bundesregierung oder des von dieser hiezu
-                                                  ermächtigten zuständigen Bundesministers.
-                                                  Inwieweit die Bundesregierung oder der zuständige
-                                                  Bundesminister hiebei selbst an Vorschläge anderer
-                                                  Stellen gebunden ist, bestimmt das Gesetz.</p>
+                                                  diesem Artikel au<choice>
+                                                  <del>s</del>
+                                                  <add>f</add>
+                                                  </choice>gezählten Akte des Bundespräsidenten
+                                                  erfolgen auf <pb facs="#facs_63" n="63"
+                                                  xml:id="img_0063" break="yes"/><fw type="pageNum"
+                                                  >- 53a -</fw>Vorschlag der Bundesregierung oder
+                                                  des von dieser hiezu ermächtigten zuständigen
+                                                  Bundesministers. Inwieweit die Bundesregierung
+                                                  oder der zuständige Bundesminister hiebei selbst
+                                                  an Vorschläge anderer Stellen gebunden ist,
+                                                  bestimmt das Gesetz.</p>
                                           </div>
                                           <div type="article">
                                                 <pb facs="#facs_64" n="64" xml:id="img_0064" break="yes"/>
@@ -1821,7 +1826,7 @@
                                                   Funktionen der Regierungs- und Vollzugsgewalt
                                                   gehen im Falle seiner Verhinderung auf den seinen
                                                   ersten zweiten und, wenn bei diesem der gleiche
-                                                  Fall eintritt, auf seinden zweiten Stellvertreter
+                                                  Fall eintritt, auf seinen zweiten Stellvertreter
                                                   über. </p>
                                                 <p type="legal_section"><label>(2)</label> Ebenso
                                                   gehen die Funktionen der Regierungs- und
@@ -2167,13 +2172,12 @@
                                                 <fw type="pageNum"> - 71 -</fw>
                                                 <head>Artikel 71 </head>
                                                 <p type="legal_section"><emph>Die Präsenzstärke und
-                                                  Organisa-</emph>
-                                                  <emph>tion des Heeres stellt das Wehrgesetz</emph>
-                                                  <emph>fest.</emph> Durch Bundesgesetz wird
-                                                  <emph>auch</emph> geregelt, inwieweit die Länder
-                                                  bei der Ergänzung, Verpflegung und Unterbringung
-                                                  des Heeres und der Beistellung seiner sonstigen
-                                                  Erfordernisse mitwirken.</p>
+                                                  Organisation des Heeres stellt das
+                                                  Wehrgesetzfest. Durch Bundesgesetz
+                                                  wird auch</emph> geregelt, inwieweit die
+                                                  Länder bei der Ergänzung, Verpflegung und
+                                                  Unterbringung des Heeres und der Beistellung
+                                                  seiner sonstigen Erfordernisse mitwirken.</p>
                                           </div>
                                     </div>
                               </div>
@@ -2418,19 +2422,18 @@
                                           Bundesinteressen kann die Bundesregierung binnen sechs
                                           Wochen vom Tage der erfolgten Bekanntmachung an gegen
                                           einen Gesetzesbeschluss des Landtages Einspruch erheben.
-                                                <emph>(3) Ein solcher Gesetzesbeschluss</emph>
-                                          <emph>kann nur kundgamacht werden, wenn er</emph>
-                                          <emph>bei Anwesenheit der Hälfte aller Mit-</emph>
-                                          <emph>glieder des Landtages mit einer Mehr-</emph>
-                                          <emph>heit von zwei Dritteln aller abgege-</emph>
-                                          <emph>benen Stimmen wiederholt wird.</emph></p>
+                                                <emph>(3) Ein solcher Gesetzesbeschluss kann nur
+                                                kundgemacht werden, wenn er bei Anwesenheit der
+                                                Hälfte aller Mitglieder des Landtages mit einer
+                                                Mehrheit von zwei Dritteln aller abgegebenen Stimmen
+                                                wiederholt wird.</emph></p>
                               </div>
                               <div type="article">
                                     <pb facs="#facs_110" n="110" xml:id="img_0110" break="yes"/>
                                     <fw type="pageNum"> - 89 - </fw>
                                     <head>Artikel 89 </head>
                                     <p type="legal_section"><label>(1)</label> Die durch
-                                          Landesgesetz zu erlassende Landesverfassung kanninsoweit
+                                          Landesgesetz zu erlassende Landesverfassung kann insoweit
                                           dadurch die Bundesverfassung nicht berührt wird - durch
                                           Landesgesetz abgeändert werden. </p>
                                     <p type="legal_section"><label>(2)</label> Ein
@@ -2543,10 +2546,12 @@
                                           Verhinderung des Landeshauptmannes und seines
                                           Stellvertreters. </p>
                                     <p type="legal_section"><label>(3)</label> Zur Vertretung des
-                                          Landesamtsdirektors ist jeweils der rangälteste politische
-                                                <emph>Konzepts</emph>Beamte der Landesregierung
-                                          berufen, auf den in diesem Fall auch die Bestimmungen des
-                                          Absatzes 2 Anwendung finden.</p>
+                                          Landesamtsdirektors ist jeweils der rangälteste politische <choice>
+                                                <del>B</del>
+                                                <add>Konzeptsb</add>
+                                          </choice>eamte der Landesregierung berufen, auf den in
+                                          diesem Fall auch die Bestimmungen des Absatzes 2 Anwendung
+                                          finden.</p>
                               </div>
                               <div type="article">
                                     <pb facs="#facs_118" n="118" xml:id="img_0118" break="yes"/>
@@ -2796,10 +2801,9 @@
                                     <fw type="pageNum">- 116 - </fw>
                                     <head>Artikel 116 </head>
                                     <p type="legal_section">Das Hausrecht ist jedem
-                                                <emph>Bun-</emph>
-                                          <emph>desangehö jedermann</emph> gewährleistet. Wann eine
-                                          Hausdurchsuchung zulässig ist, wird durch Bundesgesetz
-                                          bestimmt.</p>
+                                                <del>Bundesangehö jedermann </del>gewährleistet.
+                                          Wann eine Hausdurchsuchung zulässig ist, wird durch
+                                          Bundesgesetz bestimmt.</p>
                               </div>
                               <div type="article">
                                     <pb facs="#facs_138" n="138" xml:id="img_0138" break="yes"/>
@@ -2807,9 +2811,10 @@
                                     <head>Artikel 117 </head>
                                     <p type="legal_section">Das Brief-, Post-, Telegraphen- und
                                           Fernsprechgeheimnis ist gewährleistet. Ausnahmen in den
-                                          Fällen strafgerichtlicher Untersuchung und<emph> in</emph>
-                                          unter ausserordentlichen <emph>Fällen </emph>Verhältnissen
-                                          können nur durch Bundesgesetz bestimmt werden.</p>
+                                          Fällen strafgerichtlicher Untersuchung und
+                                                <del>unter</del> in ausserordentlichen
+                                                <del>Fällen</del> Verhältnissen können nur durch
+                                          Bundesgesetz bestimmt werden.</p>
                               </div>
                               <div type="article">
                                     <pb facs="#facs_139" n="139" xml:id="img_0139" break="yes"/>
@@ -2910,10 +2915,10 @@
                                           Relionsgesellschaften innerhalb des Bundesgebietes
                                           unterliegt keinen Beschränkungen. </p>
                                     <p type="legal_section"><label>(3)</label> Jede
-                                          Religionsgesellschaft <emph>ordent</emph> ordnet und
-                                          verwaltet ihre Angelegenheiten selbständig innerhalb
-                                                der<emph> S</emph> gesetzlichen Schranken. Sie
-                                          verleiht ihre Aemter ohne Mitwirkung des Staates oder der
+                                          Religionsgesellschaft <del>ordent </del>ordnet und
+                                          verwaltet ihre Angelegenheiten selbständig innerhalb der
+                                                <del>S </del>gesetzlichen Schranken. Sie verleiht
+                                          ihre Aemter ohne Mitwirkung des Staates oder der
                                           bürgerlichen Gemeinden. </p>
                                     <p type="legal_section"><label>(4)</label> Die Rechtsfähigkeit
                                           der Religionsgesellschaften richtet sich nach den
@@ -2939,12 +2944,10 @@
                                     <pb facs="#facs_146" n="146" xml:id="img_0146" break="yes"/>
                                     <fw type="pageNum">- 125 - </fw>
                                     <head>Artikel 125 </head>
-                                    <p type="legal_section"><emph>Den Angehörigen des
-                                                öffentli-</emph>
-                                          <emph>chen Dienstes sowie der Wehrmacht ist</emph> die
-                                          nötige freie Zeit zur<emph> Erfüllung</emph>
-                                          <emph>Befriedigung ihrer religiösen Bedürfnis-</emph>
-                                          <emph>se zu gewähren</emph>.</p>
+                                    <p type="legal_section"><emph>Den Angehörigen des öffentlichen
+                                                Dienstes sowie der Wehrmacht ist die nötige freie
+                                                Zeit zur <del>Erfüllung</del> Befriedigung ihrer
+                                                religiösen Bedürfnisse zu gewähren</emph>.</p>
                               </div>
                               <div type="article">
                                     <pb facs="#facs_147" n="147" xml:id="img_0147" break="yes"/>
@@ -3000,9 +3003,12 @@
                                     <head>Artikel 130 </head>
                                     <p type="legal_section">Es besteht allgemeine Schulpflicht.
                                           Ihrer Erfüllung dient grundsätzlich die Volksschule mit
-                                          mindestens acht Schuljehren und die anschliessende
-                                          Fortbildungsschule bis zum vollendeten 18. Lebensjahr. Der
-                                          Unterricht und die <emph>Lehrmittel </emph>Lernmittel sind
+                                          mindestens acht Schulj<choice>
+                                                <sic>e</sic>
+                                                <corr>a</corr>
+                                          </choice>hren und die anschliessende Fortbildungsschule
+                                          bis zum vollendeten 18. Lebensjahr. Der Unterricht und die
+                                                <del>Lehrmittel</del> Lernmittel sind
                                           unentgeltlich.</p>
                               </div>
                               <div type="article">
@@ -3015,13 +3021,11 @@
                                           und der Völkerversöhnung zu erstreben. </p>
                                     <p type="legal_section"><label>(2)</label> Beim Unterricht in
                                           öffentlichen Schulen ist Bedacht zu nehmen, dass die
-                                          Empfindungen <emph>anders Denkender</emph> Andersdenkender
-                                          nicht verletzt werden. <emph>(3) Staatsbürgerkunde und
-                                                Arbeits-</emph>
-                                          <emph>unterricht sind Lehrfächer der Schulen.</emph>
-                                          <emph>Jeder Schüler erhält bei Beendigung</emph>
-                                          <emph>der Schulpflicht einen Abdruck der Ver-</emph>
-                                          <emph>fassung.</emph></p>
+                                          Empfindungen <del>anders Denkender</del> Andersdenkender
+                                          nicht verletzt werden. (3) Staatsbürgerkunde und
+                                          Arbeitsunterricht sind Lehrfächer der Schulen. Jeder
+                                          Schüler erhält bei Beendigung der Schulpflicht einen
+                                          Abdruck der Verfassung.</p>
                               </div>
                               <div type="article">
                                     <pb facs="#facs_153" n="153" xml:id="img_0153" break="yes"/>
@@ -3097,15 +3101,14 @@
                                           das Gesetz Beschränkungen und Enteignungen vorsieht. </p>
                                     <p type="legal_section"><label>(2)</label> Eine Enteignung gegen
                                           den Willen des Eigentümers ist - soweit nicht durch Gesetz
-                                          anders bestimmt wirdnur gegen angemessene Entschädigung
+                                          anders bestimmt wird nur gegen angemessene Entschädigung
                                           zulässig. Ueber die Höhe der Entschädigung entscheiden im
                                           Streitfalle die ordentlichen Gerichte. </p>
                                     <p type="legal_section"><label>(3)</label> Die Zwecke, zu denen
-                                          enteignet werden kann, sowie das
-                                                <emph>Enteignungsver-</emph>
-                                          <emph>fahren </emph>werden in besonderen Gesetzen,
-                                                <emph>geregelt </emph>das Enteignungsverfahren wird
-                                          durch Bundesgesetz geregelt. </p>
+                                          enteignet werden kann, <del>sowie das
+                                                Enteignungsverfahren</del> werden in besonderen
+                                          Gesetzen, <del>geregelt</del> das Enteignungsverfahren
+                                          wird durch Bundesgesetz geregelt. </p>
                                     <p type="legal_section"><label>(4)</label> In welchen Fällen auf
                                           Verfall oder Einziehung von Gegenständen als Folge einer
                                           rechtswidrigen Handlung zu erkennen ist, bestimmt das
@@ -3408,13 +3411,16 @@
                                           <pb facs="#facs_179" n="179" xml:id="img_0179" break="yes"/>
                                           <fw type="pageNum">- 158 -</fw>
                                           <head>Artikel 158 </head>
-                                          <p type="legal_section">Es entscheidet ferner:
-                                                Kompetenzkonfilkte a) zwischen Gerichten und
-                                                Verwaltungsbehörden des Bundes oder der Länder, b)
-                                                zwischen dem Verwaltungsgerichtshof und den
-                                                ordentlichen Gerichten, c) zwischen
-                                                Landesregierungen untereinander, sowie zwischen
-                                                einer Landesregierung und der Bundesregierung.</p>
+                                          <p type="legal_section">E<choice>
+                                                  <del>s</del>
+                                                  <add>r</add>
+                                                </choice> entscheidet ferner: Kompetenzkonflikte a)
+                                                zwischen Gerichten und Verwaltungsbehörden des
+                                                Bundes oder der Länder, b) zwischen dem
+                                                Verwaltungsgerichtshof und den ordentlichen
+                                                Gerichten, c) zwischen Landesregierungen
+                                                untereinander, sowie zwischen einer Landesregierung
+                                                und der Bundesregierung.</p>
                                     </div>
                                     <div type="article">
                                           <pb facs="#facs_180" n="180" xml:id="img_0180" break="yes"/>
@@ -3496,7 +3502,9 @@
                                                 oder grobfahrlässiger Gesetzesverletzung der sub c
                                                 genannten Personen durch ihre Amtstätigkeit auf
                                                 Antrag des zuständigen Landtages; und über die
-                                                Verantwortlichkeit des Landeshauptmannes, seiner<pb facs="#facs_184" n="184" xml:id="img_0184" break="yes"/><fw type="pageNum">- 163 -
+                                                Verantwortlichkeit des Landeshauptmannes, seiner <pb
+                                                  facs="#facs_184" n="184" xml:id="img_0184"
+                                                  break="yes"/><fw type="pageNum">- 163 -
                                                 </fw>Stellvertreter und des Landesamtsdirektors
                                                 wegen vorsätzlicher und grobfahrlässiger
                                                 Gesetzesverletzung durch ihre Amtstätigkeit oder
