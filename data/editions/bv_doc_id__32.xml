@@ -2421,12 +2421,13 @@
                                     <p type="legal_section"><label>(2)</label> Wegen Gefährdung von
                                           Bundesinteressen kann die Bundesregierung binnen sechs
                                           Wochen vom Tage der erfolgten Bekanntmachung an gegen
-                                          einen Gesetzesbeschluss des Landtages Einspruch erheben.
-                                                <emph>(3) Ein solcher Gesetzesbeschluss kann nur
-                                                kundgemacht werden, wenn er bei Anwesenheit der
-                                                Hälfte aller Mitglieder des Landtages mit einer
-                                                Mehrheit von zwei Dritteln aller abgegebenen Stimmen
-                                                wiederholt wird.</emph></p>
+                                          einen Gesetzesbeschluss des Landtages Einspruch
+                                          erheben.</p>
+                                    <p type="legal_section"><label>(3)</label> Ein solcher
+                                          Gesetzesbeschluss kann nur kundgemacht werden, wenn er bei
+                                          Anwesenheit der Hälfte aller Mitglieder des Landtages mit
+                                          einer Mehrheit von zwei Dritteln aller abgegebenen Stimmen
+                                          wiederholt wird.</p>
                               </div>
                               <div type="article">
                                     <pb facs="#facs_110" n="110" xml:id="img_0110" break="yes"/>
@@ -2911,8 +2912,10 @@
                                           werden getrennt. </p>
                                     <p type="legal_section"><label>(2)</label> Die Freiheit der
                                           Vereinigung zu Religionsgesellschaften wird gewährleistet.
-                                          Der Zusammenschluss <emph>de </emph>von
-                                          Relionsgesellschaften innerhalb des Bundesgebietes
+                                          Der Zusammenschluss <del>de </del>von Reli<choice>
+                                                <sic/>
+                                                <corr>gi</corr>
+                                          </choice>onsgesellschaften innerhalb des Bundesgebietes
                                           unterliegt keinen Beschränkungen. </p>
                                     <p type="legal_section"><label>(3)</label> Jede
                                           Religionsgesellschaft <del>ordent </del>ordnet und
@@ -2962,17 +2965,16 @@
                                     <pb facs="#facs_148" n="148" xml:id="img_0148" break="yes"/>
                                     <fw type="pageNum">- 127 - </fw>
                                     <head>Artikel 127 </head>
-                                    <p type="legal_section">Die Kunst, die Wissenschaft und ihre
-                                          Lehre sind frei. <emph>Der und stehen</emph>
-                                          <emph>unter dem Schutze des Staates.</emph> Der Staat
-                                          gewährt ihnen Schutz und nimmt an ihrer Pflege teil.
-                                                <emph>Die Denkmäler</emph>
-                                          <emph>der Kunst, der Geschichte und der Natur</emph>
-                                          <emph>sowie die Landschaft geniessen den</emph>
-                                          <emph>Schutz und die Pflege des Staates.</emph>
-                                          <emph>(2) Der Bünd hat die Abwanderung der</emph>
-                                          <emph>Schätze von Kunst und Wissenschaft in</emph>
-                                          <emph>das-Ausland zu verhüten.</emph></p>
+                                    <p type="legal_section"><label>(1)</label> Die Kunst, die
+                                          Wissenschaft und ihre Lehre sind frei. <del>Der und stehen
+                                                unter dem Schutze des Staates.</del> Der Staat
+                                          gewährt ihnen Schutz und nimmt an ihrer Pflege teil. Die
+                                          Denkmäler der Kunst, der Geschichte und der Natur sowie
+                                          die Landschaft geniessen den Schutz und die Pflege des
+                                          Staates.</p>
+                                    <p type="legal_section"><label>(2)</label> Der Bund hat die
+                                          Abwanderung derSchätze von Kunst und Wissenschaft in das
+                                          Ausland zu verhüten.</p>
                               </div>
                               <div type="article">
                                     <pb facs="#facs_149" n="149" xml:id="img_0149" break="yes"/>
@@ -3035,17 +3037,19 @@
                                           Religionsunterricht erteilt, noch für die Ausbildung von
                                           Seelsorgern irgend einer Religion gesorgt. Doch ist den
                                           Religionsgesellschaften Gelegenheit zu geben, an den
-                                          öffentlichen Volksschulen (im Rahmen des <emph>Sch
-                                          </emph>Unterrichtsplanes) für den Unterricht in ihrer
-                                                <emph>dem </emph>Religion Sorge zu tragen. Dem
-                                          Aufsichtsrecht des Staates kann dadurch kein Abbruch
-                                          geschehen. </p>
+                                          öffentlichen Volksschulen (im Rahmen des <del>Sch
+                                          </del>Unterrichtsplanes) für den Unterricht in <choice>
+                                                <del>der</del>
+                                                <add>ihrer</add>
+                                          </choice> Religion Sorge zu tragen. Dem Aufsichtsrecht des
+                                          Staates kann dadurch kein Abbruch geschehen. </p>
                                     <p type="legal_section"><label>(2)</label> Die Teilnahme der
-                                          Schüler an dem<emph> religiösen Unterrichtsfächern
-                                          </emph>Religionsunterrichte und an kirchlichen Feiern und
-                                          Handlungen bleibt der Willenserklärung desjenigen
-                                          überlassen, der über die religiöse Erziehung des Kindes zu
-                                          bestimmen hat.</p>
+                                          Schüler an de<choice>
+                                                <del>n religiösen Unterrichtsfächern</del>
+                                                <add>m Religionsunterrichte</add>
+                                          </choice> und an kirchlichen Feiern und Handlungen bleibt
+                                          der Willenserklärung desjenigen überlassen, der über die
+                                          religiöse Erziehung des Kindes zu bestimmen hat.</p>
                               </div>
                               <div type="article">
                                     <pb facs="#facs_154" n="154" xml:id="img_0154" break="yes"/>
