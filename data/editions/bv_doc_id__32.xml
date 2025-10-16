@@ -688,7 +688,7 @@
                         <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
                         <p>Staatssekretär Dr. M. Mayr</p>
                         <p>Wien, am 7. Februar 1920. </p>
-                        <p> Euer Hochwohlgeboren!</p>
+                        <p>Euer Hochwohlgeboren!</p>
                         <p>Mit Zustimmung des Herrn Staatskanzlers erlaube ich mir hiemit einen
                               Vorentwurf einer Verfassungsurkunde zum ausschliesslich persönlichen
                               Gebrauche mit der Bitte um grösste Diskretion zu übersenden.</p>
@@ -701,17 +701,16 @@
                         <p>M. Mayr </p>
                         <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
                         <div type="section">
-                              <head>Erster Abschnitt. </head>
+                              <head>Erster Abschnitt.</head>
                               <head>Allgemeine Bestimmungen.</head>
                               <div type="article">
-                                    <head>Artikel 1 </head>
+                                    <head>Artikel 1</head>
                                     <p type="legal_section">Die Republik Oesterreich ist ein freier
                                           Bundesstaat, und wird gebildet von den Ländern:
                                           Burgenland, Kärnten, Niederösterreich, Oberösterreich,
                                           Salzburg, Steiermark, Tirol, Vorarlberg und der
-                                          Bundeshauptstadt Wien, welche die Stellung eines Landes
-                                          hat.</p>
-                                    <p type="legal_section">samt Gebiet</p>
+                                          Bundeshauptstadt Wien<add> samt Gebiet</add>, welche die
+                                          Stellung eines Landes hat.</p>
                               </div>
                               <div type="article">
                                     <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
@@ -724,17 +723,24 @@
                               </div>
                               <div type="article">
                                     <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
-                                    <fw type="pageNum">- 3 - </fw>
-                                    <head>Artikel 3 </head>
+                                    <fw type="pageNum">- 3 -</fw>
+                                    <head>Artikel <choice>
+                                                <del>2</del>
+                                                <add>3</add>
+                                          </choice></head>
                                     <p type="legal_section"><label>(1)</label> Das Bundesgebiet
-                                          umfasst die Gebiete der in Artikel 1 bezeichneten Länder.
-                                          (2) <del>Eine Aenderung des Bundesgebie </del>Das Bundesgebiet steht unter dem Schutze
-                                          des Bundes. </p>
+                                          umfasst die Gebiete der in Artikel 1 bezeichneten
+                                          Länder.</p>
+                                    <p type="legal_section"><label>(2)</label>
+                                          <del>Eine Aenderung des Bundesgebie </del>Das Bundesgebiet
+                                          steht unter dem Schutze des Bundes.</p>
                                     <p type="legal_section"><label>(3)</label> Abgesehen von solchen
-                                          Gebietsveränderungen, die unmittelbar durch Staatsvertrag
-                                          herbeigeführt werden, (Artikel der Bundesverfassung) kann
-                                          eine Aenderung des Bundesgebietes, die zugleich Aenderung
-                                          eines Landesgebietes ist, ebenso die Aenderung einer
+                                                Gebiet<del>e</del>sveränderungen, die unmittelbar
+                                          durch Staatsvertrag herbeigeführt werden,
+                                          (<?oxy_comment_start author="Atkinson.j" timestamp="20251016T143736+0200" comment="Auslassung kennzeichnen?"?>Artikel<?oxy_comment_end?>
+                                          der Bundesverfassung) kann eine Aenderung des
+                                          Bundesgebietes, die zugleich Aenderung eines
+                                          Landesgebietes ist, ebenso die Aenderung einer
                                           Landesgrenze innerhalb des Bundesgebietes nur durch
                                           übereinstimmende Verfassungsgesetze des Bundes und des
                                           desjenigen Landes erfolgen, dessen Gebiet eine Aenderung
@@ -742,29 +748,29 @@
                               </div>
                               <div type="article">
                                     <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
-                                    <fw type="pageNum">- 4 - </fw>
-                                    <head>Artikel 4 </head>
+                                    <fw type="pageNum">- 4 -</fw>
+                                    <head>Artikel 4</head>
                                     <p type="legal_section"><label>(1)</label> Das Bundesgebiet
                                           bildet ein einheitliches Währungs- Wirtschafts- und
-                                          Zollgebiet. </p>
+                                          Zollgebiet.</p>
                                     <p type="legal_section"><label>(2)</label> Innerhalb der Grenzen
                                           des Bundes dürfen keinerlei Zwischenzollinien oder
                                           sonstige Verkehrsbeschränkungen errichtet werden.</p>
                               </div>
                               <div type="article">
                                     <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
-                                    <fw type="pageNum">- 5 - </fw>
-                                    <head>Artikel 5 </head>
+                                    <fw type="pageNum">- 5 -</fw>
+                                    <head>Artikel 5</head>
                                     <p type="legal_section"><label>(1)</label> Jeder Landesbürger
-                                          ist Angehöriger des Bundes. </p>
+                                          ist Angehöriger des Bundes.</p>
                                     <p type="legal_section"><label>(2)</label> Die
                                           Landesbürgerschaft ist an die Heimatberechtigung eines
                                           Landes gebunden.</p>
                               </div>
                               <div type="article">
                                     <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
-                                    <fw type="pageNum">- 6 - </fw>
-                                    <head>Artikel 6 </head>
+                                    <fw type="pageNum">- 6 -</fw>
+                                    <head>Artikel 6</head>
                                     <p type="legal_section"><del><label>(1) </label></del> Jeder
                                           Bundesangehörige hat in jedem Lande des Bundes die
                                           gleichen Rechte und Pflichten wie die Bürger des Landes
@@ -816,36 +822,38 @@
                                     <head>Artikel 11 </head>
                                     <p type="legal_section">Der Gesetzgebung und Vollziehung des
                                           Bundes ist übertragen: <list>
-                                                <label>1.)</label>
+                                                <label>1.) </label>
                                                 <item>die auswärtigen Angelegenheiten mit Einschluss
                                                   der politischen und wirtschaftlichen Vertretung
                                                   gegenüber dem Auslande; die Grenzvermarkung; die
                                                   Regelung des Waren- und Viehverkehres mit dem
                                                   Auslande; das Zollwesen; </item>
-                                                <label>2.)</label>
+                                                <label>2.) </label>
                                                 <item>die Regelung und Ueberwachung des Eintrittes
                                                   in das Bundesgebiet und des Austrittes aus diesem;
                                                   das Ein- und Auswanderungswesen; die Abschiebung,
                                                   Abschaffung, Ausweisung und Auslieferung aus dem
                                                   Bundesgebiet sowie die Durchlieferung; </item>
-                                                <label>3.)</label>
+                                                <label>3.) </label>
                                                 <item>die Wahlen zum Bundestag und die Wahl des
                                                   Bundespräsidenten, die Durchführung von
                                                   Volksabstimmungen im ganzen Bundesgebiete sowie
                                                   die Einrichtung und Führung der Bürgerlisten; </item>
-                                                <label>4.)</label>
+                                                <label>4.) </label>
                                                 <item>die Bundesfinanzen, insbesondere die
                                                   öffentlichen Abgaben, die ausschliesslich oder
                                                   teilweise für den Bund einzuheben sind; das
-                                                  Monopolwesen; die Regelung, welche Abgaben dem<pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><fw type="pageNum">- 11 a -</fw>
+                                                  Monopolwesen; die Regelung, welche Abgaben dem<pb
+                                                  facs="#facs_14" n="14" xml:id="img_0014"
+                                                  break="yes"/><fw type="pageNum">- 11 a -</fw>
                                                   Bunde und den Ländern zustehen; die Regelung der
                                                   Anteilnahme der Länder an den Einnahmen des Bundes
                                                   und die Regelung der Beiträge und Zuschüsse aus
                                                   Bundesmitteln zu den Ausgaben der Länder; </item>
-                                                <label>5.)</label>
+                                                <label>5.) </label>
                                                 <item>das Geld-, Kredit-, Börse- und Bankwesen; das
                                                   Mass-, Gewichts-, Normen- und Punzierungswesen; </item>
-                                                <label>6.)</label>
+                                                <label>6.) </label>
                                                 <item>das Zivil- und Strafrechtswesen,
                                                   einschliesslich des wirtschaftlichen
                                                   Assoziationswesens, jedoch mit Ausschluss der
@@ -861,16 +869,17 @@
                                                   Rechtsanwälte und verwandter Berufe; das
                                                   Ingenieur- und Ziviltechnikerwesen; die Handels-
                                                   und Gewerbekammern; </item>
-                                                <label>7.)</label>
+                                                <label>7.) </label>
                                                 <item>das Verkehrswesen bezüglich der Eisenbahnen,
                                                   der Schiffahrt ..., der Luftschiffahrt, die
                                                   Angelegenheiten der wegen ihrer Bedeutung für
-                                                  den<pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/><fw type="pageNum">- 11 b - </fw>
+                                                  den<pb facs="#facs_15" n="15" xml:id="img_0015"
+                                                  break="yes"/><fw type="pageNum">- 11 b - </fw>
                                                   Durchzugsverkehr durch Bundesgesetz als
                                                   Bundesstrassen erklärten Strassenzüge; die Strom-
                                                   und Schiffahrtspolizei; das Post-, Telegraphen-
                                                   und Fernsprechwesen; </item>
-                                                <label>8.)</label>
+                                                <label>8.) </label>
                                                 <item>das Bergwesen; die Angelegenheiten der
                                                   Wohlfahrtswälder (Schutz- und Bannwälder) sowie
                                                   das Aufforstungswesen; die Ausführung der
@@ -882,20 +891,20 @@
                                                   die das Inland mit dem Ausland oder die mehrere
                                                   Länder verbinden; das Dampfkessel- und
                                                   Kraftmaschinenwesen; das Vermessungswesen; </item>
-                                                <label>9.)</label>
+                                                <label>9.) </label>
                                                 <item>das gesamte Arbeiterrecht und den Arbeiter-
-                                                  und Angestelltenschutz, <emph>soweit es sich nicht
-                                                  um land- und forstwirtschaftliche Arbeiter und
-                                                  Angestellte handelt</emph>; das Sozial- und
+                                                  und Angestelltenschutz, soweit es sich nicht um
+                                                  land- und forstwirtschaftliche Arbeiter und
+                                                  Angestellte handelt; das Sozial- und
                                                   Vertragsversicherungswesen; </item>
-                                                <label>10.)</label>
+                                                <label>10.) </label>
                                                 <item>das Hochschulwesen; die fachlichen
                                                   Zentrallehranstalten; die Schulaufsicht; die
                                                   Ausbildung, Fortbildung und Berufsausübung von
                                                   Heilpersonen; das Heilmittelwesen; die Bekämpfung
                                                   übertragbarer Krankheiten von Men<pb
                                                   facs="#facs_16" n="16" xml:id="img_0016"
-                                                  break="no"/><fw type="pageNum">- 11 c - </fw>schen
+                                                  break="no"/><fw type="pageNum">- 11 c -</fw>schen
                                                   und Tieren; das Archiv- und Bibliothekswesen; die
                                                   Angelegenheiten der künstlerischen und
                                                   wissenschaftlichen Sammlungen und Einrichtungen;
@@ -906,7 +915,7 @@
                                                   Fondswesen, soweit es sich um Stiftungen und Fonds
                                                   handelt, die nach ihren Zwecken über den
                                                   Interessenbereich eines Landes hinausgehen; </item>
-                                                <label>11.)</label>
+                                                <label>11.) </label>
                                                 <item>die militärischen Angelegenheiten; die
                                                   Kriegsschadenangelegenheiten und die Fürsorge für
                                                   Kriegsteilnehmer und der Hinterbliebenen; das
@@ -917,16 +926,15 @@
                                                   hinsichtlich der Versorgung der Bevölkerung mit
                                                   Bedarfsgegenständen; </item>
                                                 <label>12.) </label>
-                                                <item><emph>Die innere Einrichtung, Ausrüstung
-                                                  und</emph> Ausbildung der Gendarmerie
-                                                  einschliesslich der Dienstvorschriften, das
-                                                  Verfügungsrecht über die Gendarmerie jedoch
-                                                  <emph>nur insoweit, als es sich bei
-                                                  Notstand</emph> und Unruhen um die zeitweilige
-                                                  Verwendung von Teilen der Gendarmerie ausserhalb
-                                                  des Landesbereiches handelt;<pb facs="#facs_17"
-                                                  n="17" xml:id="img_0017" break="yes"/><fw
-                                                  type="pageNum">- 11 d - </fw></item>
+                                                <item>Die innere Einrichtung, Ausrüstung und
+                                                  Ausbildung der Gendarmerie einschliesslich der
+                                                  Dienstvorschriften, das Verfügungsrecht über die
+                                                  Gendarmerie jedoch nur insoweit, als es sich bei
+                                                  Notstand und Unruhen um die zeitweilige Verwendung
+                                                  von Teilen der Gendarmerie ausserhalb des
+                                                  Landesbereiches handelt;<pb facs="#facs_17" n="17"
+                                                  xml:id="img_0017" break="yes"/><fw type="pageNum"
+                                                  >- 11 d - </fw></item>
                                                 <label>13.)</label>
                                                 <item>die Organisation der Bundesbehörden und das
                                                   Dienstrecht der Bundesangestellten einschliesslich
@@ -941,34 +949,34 @@
                                     <head>Artikel 12 </head>
                                     <p type="legal_section">Der Gesetzgebung des Bundes ist
                                           übertragen: <list>
-                                                <label>1.)</label>
+                                                <label>1.) </label>
                                                 <item>die Staatsbürgerschaft und das Heimatrecht; </item>
-                                                <label>2.)</label>
+                                                <label>2.) </label>
                                                 <item>das Vereins- und Versammlungsrecht; die
                                                   Angelegenheiten der Presse; </item>
-                                                <label>3.)</label>
-                                                <item>die beruflichen Vertretungen <emph>mit
-                                                  Ausnahme jener auf</emph> land- und
-                                                  forstwirtschaftlichem Gebiete; </item>
-                                                <label>4.)</label>
+                                                <label>3.) </label>
+                                                <item>die beruflichen Vertretungen mit Ausnahme
+                                                  jener auf land- und forstwirtschaftlichem Gebiete; </item>
+                                                <label>4.) </label>
                                                 <item>Personenstandsangelegenheiten einschliesslich
                                                   des Matrikenwesens und Namensänderung; </item>
-                                                <label>5.)</label>
+                                                <label>5.) </label>
                                                 <item> das Passwesen und die Fremdenpolizei; </item>
                                                 <label>6.) </label>
-                                                <item><emph>die pädagogisch-didaktische Einrichtung
-                                                  des mittleren und niederen Schulwesens;</emph>
-                                                </item>
-                                                <label>7.)</label>
+                                                <item>die pädagogisch-didaktische Einrichtung des
+                                                  mittleren und niederen Schulwesens; </item>
+                                                <label>7.) </label>
                                                 <item> das Gewerbewesen, die öffentlichen Agentien
                                                   und die Privatgeschäftsvermittlung; </item>
-                                                <label>8.)</label>
+                                                <label>8.) </label>
                                                 <item>hinsichtlich der öffentlichen Abgaben, die
                                                   nicht ausschliesslich oder teilweise für den Bund
                                                   eingehoben werden, die Anordnungen zur
                                                   Verhinderung von Erschwerungen des Verkehrs oder
                                                   der wirtschaftlichen Beziehungen im Verhältnis zum
-                                                  Ausland oder zwischen<pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/><fw type="pageNum">- 12 a - </fw>den Ländern und Landesteilen, zur
+                                                  Ausland oder zwischen<pb facs="#facs_19" n="19"
+                                                  xml:id="img_0019" break="yes"/><fw type="pageNum"
+                                                  >- 12 a - </fw>den Ländern und Landesteilen, zur
                                                   Verhinderung der übermässigen oder
                                                   verkehrshindernden Belastung der Benützung
                                                   öffentlicher Verkehrswege und Einrichtungen mit
@@ -983,10 +991,13 @@
                                                 <item> das Wasserrecht und das Elektrizitätswesen; </item>
                                                 <label>11.)</label>
                                                 <item> das Gesundheitswesen mit Ausnahme der Heil-
-                                                  und Pflegeanstalten und Ambulatorien, des
-                                                  Kurorte-, Leichen- und Begräbniswesens sowie des
-                                                  Gemeindesanitätsdienstes und Rettungswesens; das
-                                                  Volkswohnungs- und Volkspflegestättenwesen; </item>
+                                                  und Pflegeanstalten und Ambulatorien<add>,</add> de<choice>
+                                                  <del>s</del>
+                                                  <add>r</add>
+                                                  </choice> Kurorte-, Leichen- und Begräbniswesens
+                                                  sowie des Gemeindesanitätsdienstes und
+                                                  Rettungswesens; das Volkswohnungs- und
+                                                  Volkspflegestättenwesen; </item>
                                                 <label>12.)</label>
                                                 <item>das Verwaltungs- und das
                                                   Verwaltungsstrafverfahren einschliesslich der
@@ -1015,12 +1026,11 @@
                                                 <item>die Organisation der Verwaltung in den
                                                   Ländern; </item>
                                                 <label>2.) </label>
-                                                <item><emph>das Verhältnis zwischen Schule und
-                                                  Kirche; die Errichtung und Erhaltung von mittleren
-                                                  und niederen Unterrichtsanstalten, den
+                                                <item>das Verhältnis zwischen Schule und Kirche; die
+                                                  Errichtung und Erhaltung von mittleren und
+                                                  niederen Unterrichtsanstalten, den
                                                   Privatunterricht und das Privatschulwesen, das
-                                                  Volksbildungswesen;</emph>
-                                                </item>
+                                                  Volksbildungswesen;</item>
                                                 <label>3.)</label>
                                                 <item>das Armenwesen; die Bevölkerungspolitik; die
                                                   Mutterschafts-, Säuglings- und Jugendfürsorge; das
@@ -1055,18 +1065,18 @@
                                                   Weideservituten; den Schutz der Pflanzen gegen
                                                   Krankheiten und Schädlinge; </item>
                                                 <label>9.)</label>
-                                                <item>das Dienstrecht <emph>der Lehrpersonen an
-                                                  mittleren Unterrichtsanstalten und</emph> der
-                                                  Angestellten jener Landesbehörden, die auch
-                                                  Bundesangelegenheiten zu besorgen haben,
-                                                  einschliesslich der Regelung des im Einvernehmen
-                                                  der in Betracht kommenden Länder zu vollziehenden
-                                                  Dienstwechsels von Land zu Land. </item>
+                                                <item>das Dienstrecht der Lehrpersonen an mittleren
+                                                  Unterrichtsanstalten und der Angestellten jener
+                                                  Landesbehörden, die auch Bundesangelegenheiten zu
+                                                  besorgen haben, einschliesslich der Regelung des
+                                                  im Einvernehmen der in Betracht kommenden Länder
+                                                  zu vollziehenden Dienstwechsels von Land zu Land. </item>
                                           </list></p>
                                     <p type="legal_section"><label>(2)</label> Die Entscheidung
                                           oberster Instanz in Angelegenheiten der Bodenreform
                                           (erster Absatz, Punkt 8) wird einer vom Bunde
-                                          eingesetzten, aus <pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"/><fw type="pageNum">-
+                                          eingesetzten, aus <pb facs="#facs_23" n="23"
+                                                xml:id="img_0023" break="yes"/><fw type="pageNum">-
                                                 14 b - </fw>Richtern, Verwaltungsbeamten und
                                           Sachverständigen bestehenden Kommission übertragen.</p>
                               </div>
@@ -1129,7 +1139,7 @@
                         </div>
                         <div type="section">
                               <pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/>
-                              <fw type="pageNum">- 18 -</fw>
+                              <fw type="pageNum">- 18 <del>a</del>-</fw>
                               <head>Zweiter Abschnitt.</head>
                               <head>Die Gesetzgebung des Bundes. </head>
                               <div type="section">
@@ -1143,8 +1153,11 @@
                                           <pb facs="#facs_28" n="28" xml:id="img_0028" break="yes"/>
                                           <fw type="pageNum">- 19 - </fw>
                                           <head>Artikel 19 </head>
-                                          <p type="legal_section"><label>(1)</label> Der Sitz des
-                                                Bundestages ist die Hauptstadt Wien. </p>
+                                          <p type="legal_section"><del>Erster
+                                                  Absatz</del><label>(1)</label> Der Sitz des
+                                                Bundestages ist die
+                                                <?oxy_comment_start author="Atkinson.j" timestamp="20251016T154739+0200" comment="in Ministerialentwurf I handschriftlich &quot;Landes-&quot;, in Ministerialentwurf II &quot;Bundeshauotstadt"?>Hauptstadt<?oxy_comment_end?>
+                                                Wien. </p>
                                           <p type="legal_section"><label>(2)</label> Für die Dauer
                                                 ausserordentlicher Verhältnisse kann der
                                                 Bundespräsident auf Antrag der Bundesregierung de<choice>
@@ -1169,12 +1182,11 @@
                                           <p type="legal_section"><label>(4)</label> Wenn zur
                                                 Durchführung von Staatsverträgen gesetzliche
                                                 Massnahmen im Wirkungskreise der Länder erforderlich
-                                                sind, <emph>etc. Artikel 20 Absatz 3</emph>
-                                                <emph>und 4</emph> so haben die Länder die
-                                                betreffenden Gesetze zu erlassen; kommt ein Land
-                                                dieser Verpflichtung nicht rechtzeitig nach, so geht
-                                                die Zuständigkeit der Erlassung des Gesetzes auf den
-                                                Bund über. </p>
+                                                  sind,<del> etc. Artikel 20 Absatz 3 und 4</del> so
+                                                haben die Länder die betreffenden Gesetze zu
+                                                erlassen; kommt ein Land dieser Verpflichtung nicht
+                                                rechtzeitig nach, so geht die Zuständigkeit der
+                                                Erlassung des Gesetzes auf den Bund über. </p>
                                           <p type="legal_section"><label>(4)</label> Ebenso hat der
                                                 Bund in Durchführung von Staatsverträgen das
                                                 Ueberwachungsrecht auch in solchen Angelegenheiten,
@@ -1200,10 +1212,9 @@
                                           <pb facs="#facs_31" n="31" xml:id="img_0031" break="yes"/>
                                           <fw type="pageNum">- 22 -</fw>
                                           <head>Artikel 22 </head>
-                                          <p type="legal_section"><label>(1)</label> Der Bunde<choice>
-                                                  <del>sstaat</del>
-                                                  <add>tag</add>
-                                                </choice> wird vom Bundesvolke auf Grund de<choice>
+                                          <p type="legal_section"><label>(1)</label> Der
+                                                  Bunde<del>sstaat</del><add>tag</add> wird vom
+                                                Bundesvolke auf Grund de<choice>
                                                   <del>n</del>
                                                   <add>s</add>
                                                 </choice> gleichen, direkten, geheimen und
@@ -1228,19 +1239,15 @@
                                           <fw type="pageNum">- 23 -</fw>
                                           <head>Artikel 23 </head>
                                           <p type="legal_section"><label>(1)</label>Die
-                                                Gesetzgebungsperiode des Bundestages beträgt
-                                                  <emph>Zahl <emph/></emph>vier Tage seiner
-                                                Einberufung an gerechnet. </p>
+                                                Gesetzgebungsperiode des Bundestages beträgt vier
+                                                Tage seiner Einberufung an gerechnet. </p>
                                           <p type="legal_section"><label>(2)</label> Der Bundestag
                                                 ist vom Bundespräsidenten alljährlich, und zwar im
                                                 Oktober zu einer Sitzungsperiode einzuberufen. </p>
                                           <p type="legal_section"><label>(3)</label> Eine
                                                 Sitzungsperiode darf nicht länger als ein Jahr
                                                 betragen. Sie wird vom Bundespräsidenten auf
-                                                Vorschlag der Bundesregierung <choice>
-                                                  <del>b</del>
-                                                  <add>g</add>
-                                                </choice>eschlossen.</p>
+                                                Vorschlag der Bundesregierung beschlossen.</p>
                                     </div>
                                     <div type="article">
                                           <pb facs="#facs_33" n="33" xml:id="img_0033" break="yes"/>
@@ -1252,11 +1259,13 @@
                                                 Bundesregierung durch den Bundespräsidenten vertagt
                                                 werden. </p>
                                           <p type="legal_section"><label>(2)</label> Die Vertagung
-                                                ist vor <emph>der</emph> Ablauf der Vertagungszeit
+                                                ist vor <del>der</del> Ablauf der Vertagungszeit
                                                 aufzuheben, wenn wenigstens ein Viertel der
                                                 Mitglieder des Bundestages einen schriftlichen
-                                                Antrag beim <emph>Bundespräsidenten</emph>
-                                                Präsidenten des Bundestages gestellt hat. Dieser hat
+                                                Antrag beim <choice>
+                                                  <del>Bundespräsidenten</del>
+                                                  <add>Präsidenten</add>
+                                                </choice> des Bundestages gestellt hat. Dieser hat
                                                 die Bundesregierung von dem erfolgten Antrag zu
                                                 verständigen. Die Wiedereinberufung des Bundestages
                                                 erfolgt durch den Bundespräsidenten.</p>
@@ -1280,20 +1289,17 @@
                                           <head>Artikel 26 </head>
                                           <p type="legal_section"><label>(1)</label> Der Bundestag
                                                 wählt aus seiner Mitte auf die Dauer der
-                                                Sitzungsperiode einen Präsidenten sowie einen
-                                                  <emph>ersten und</emph> zweiten und dritten
-                                                  <emph>Stellvertreter des</emph> Präsidenten. </p>
+                                                Sitzungsperiode einen Präsidenten sowie einen ersten
+                                                und zweiten Stellvertreter des Präsidenten. </p>
                                           <p type="legal_section"><label>(2)</label> Nach Auflösung
                                                 des Bundestages oder nach Ablauf der
-                                                Gesetzgebungsperiode bleiben <emph>der </emph>die
-                                                Präsidenten <emph>und seine Stellver-</emph>
-                                                <emph>treter</emph> so lange im Amte, bis der
-                                                neugewählte Bundestag das Präsidium gewählt hat. </p>
+                                                Gesetzgebungsperiode bleiben der Präsident und seine
+                                                Stellvertreter so lange im Amte, bis der neugewählte
+                                                Bundestag das Präsidium gewählt hat. </p>
                                           <p type="legal_section"><label>(3)</label> Die
                                                 Geschäftsführung des Bundestages erfolgt auf Grund
-                                                eines besonderen Gesetzes, <emph>das einen
-                                                  Bestandteil der Bundesverfassung</emph>
-                                                <emph>bildet</emph> und einer im Rahmen dieses
+                                                eines besonderen Gesetzes, das einen Bestandteil der
+                                                Bundesverfassung bildet und einer im Rahmen dieses
                                                 Gesetzes vom Bundestag zu beschliessenden autonomen
                                                 Geschäftsordnung.</p>
                                     </div>
@@ -1314,11 +1320,11 @@
                                           <pb facs="#facs_37" n="37" xml:id="img_0037" break="yes"/>
                                           <fw type="pageNum">- 28 -</fw>
                                           <head>Artikel 28 </head>
-                                          <p type="legal_section"><del><label>(1) </label></del>
-                                                Wahrheitsgetreue Berichte über die Verhandlungen in
-                                                den öffentlichen Sitzungen des Bundestages und
-                                                seiner Ausschüsse bleiben von jeder Verantwortung
-                                                frei.</p>
+                                          <p type="legal_section"><del><label>(1)
+                                                </label></del>Wahrheitsgetreue Berichte über die
+                                                Verhandlungen in den öffentlichen Sitzungen des
+                                                Bundestages und seiner Ausschüsse bleiben von jeder
+                                                Verantwortung frei.</p>
                                     </div>
                               </div>
                               <div type="section">
@@ -1328,10 +1334,9 @@
                                     <div type="article">
                                           <head>Artikel 29 </head>
                                           <p type="legal_section"><del><label>(1) </label> B.
-                                                </del></p>
-                                          <p type="legal_section"><label>(1)</label> In den
-                                                Bundesrat entsendet jeder Landtag aus einer Mitte je
-                                                ein Mitglied und für je 200.000 Einwohner des Landes
+                                                  </del><label>(1)</label> In den Bundesrat
+                                                entsendet jeder Landtag aus einer Mitte je ein
+                                                Mitglied und für je 200.000 Einwohner des Landes
                                                 nach dem Verhältniswahlrecht je ein weiteres
                                                 Mitglied auf die Dauer einer Sitzungsperiode des
                                                 Bundestages. </p>
@@ -1364,16 +1369,16 @@
                                           <head>Artikel 30 </head>
                                           <p type="legal_section"><label>(1)</label> Der Vorsitz im
                                                 Bundesrat fällt in jeder Sitzungsperiode abwechselnd
-                                                auf ein anderes Land nach (alphabetischer
-                                                Reihenfolge.) </p>
+                                                auf ein anderes Land nach alphabetischer
+                                                Reihenfolge. </p>
                                           <p type="legal_section"><label>(2)</label> Als
                                                 Vorsitzender des Bundesrates fungiert der bei der
                                                 Wahl aus dem Landtage an erster Stelle entsendete
                                                 Vertreter des jeweils zum Vorsitz berufenen Landes.
-                                                  <del>(2) </del>Als Stellvertreter des Vorsitzenden
-                                                fungiert der an erster Stelle entsendete Vertreter
-                                                desjenigen Landes, dem in der nächstfolgenden
-                                                Sitzungsperiode der Vorsitz zufällt. </p>
+                                                  <del><label>(3) </label></del>Als Stellvertreter
+                                                des Vorsitzenden fungiert der an erster Stelle
+                                                entsendete Vertreter desjenigen Landes, dem in der
+                                                nächstfolgenden Sitzungsperiode der Vorsitz zufällt. </p>
                                           <p type="legal_section"><label>(3)</label> Der Bundesrat
                                                 wird durch seinen Vorsitzenden vertreten. Alle
                                                 Ausfertigungen des Bundesrates müssen die
@@ -1381,8 +1386,6 @@
                                           <p type="legal_section"><label>(4)</label> Der Bundesrat
                                                 gibt sich seine Geschäftsordnung durch
                                                 Beschluss.</p>
-                                          <p type="legal_section">Die Reihenfolge ist auf die Zahl
-                                                der Länder beschränkt</p>
                                     </div>
                                     <div type="article">
                                           <pb facs="#facs_40" n="40" xml:id="img_0040" break="yes"/>
@@ -1429,9 +1432,8 @@
                                                 kann im Wege der Bundesregierung Gesetzesanträge im
                                                 Bundestag stellen. </p>
                                           <p type="legal_section"><label>(2)</label> Jeder von
-                                                  <del>1</del><label>200.000</label>
-                                                Stimmberechtigten gestellte<del>r</del> Antrag ist
-                                                von der Bundesregierung dem Bundestag zur
+                                                100.000 Stimmberechtigten gestellte<del>r</del>
+                                                Antrag ist von der Bundesregierung dem Bundestag zur
                                                 geschäftsordnungsmässigen Behandlung vorzulegen.</p>
                                     </div>
                                     <div type="article">
@@ -1445,10 +1447,9 @@
                                                 erforderlich. </p>
                                           <p type="legal_section"><label>(2)</label> Eine Abänderung
                                                 der Bundesverfassung kann jedoch nur bei Anwesenheit
-                                                  <emph>von zwei Dritteln</emph> der Hälfte aller
-                                                Mitglieder und mit einer Mehrheit von zwei Dritteln
-                                                  <emph>drei-Vierteln</emph> aller abgegebenen
-                                                Stimmen beschlossen werden.</p>
+                                                von zwei Dritteln aller Mitglieder und mit einer
+                                                Mehrheit von drei-Vierteln aller abgegebenen Stimmen
+                                                beschlossen werden.</p>
                                     </div>
                                     <div type="article">
                                           <pb facs="#facs_44" n="44" xml:id="img_0044" break="yes"/>
@@ -1471,8 +1472,7 @@
                                                 Volksabstimmung ist ferner jedes Bundesgesetz unterwor<choice>
                                                   <del>d</del>
                                                   <add>f</add>
-                                                </choice>en, wenn dies wenigstens von </p>
-                                          <p type="legal_section"><label>100.000</label>
+                                                </choice>en, wenn dies wenigstens von 100.000
                                                 Stimmberechtigten innerhalb sechs Wochen nach
                                                 erfolgter Kundmachung des Gesetzes gefordert
                                                 wird.</p>
@@ -1482,12 +1482,12 @@
                                           <fw type="pageNum">- 37 - </fw>
                                           <head>Artikel 37 </head>
                                           <p type="legal_section">Das Bundesvolk hat die vom
-                                                Bundestag beschlossene <emph>und vom Bundes-</emph>
-                                                <emph>rat genehmigte</emph> Verfassungsänderung
-                                                angenommen und es hat das bereits kundgemachte
-                                                Bundesgesetz abgelehnt, wenn die Mehrheit der
-                                                abgegebenen Stimmen sich für die Verfassungsänderung
-                                                oder gegen das Bundesgesetz ausgesprochen hat.</p>
+                                                Bundestag beschlossene <del>und vom Bundesrat
+                                                  genehmigte </del>Verfassungsänderung angenommen
+                                                und es hat das bereits kundgemachte Bundesgesetz
+                                                abgelehnt, wenn die Mehrheit der abgegebenen Stimmen
+                                                sich für die Verfassungsänderung oder gegen das
+                                                Bundesgesetz ausgesprochen hat.</p>
                                     </div>
                                     <div type="article">
                                           <pb facs="#facs_47" n="47" xml:id="img_0047" break="yes"/>
@@ -1502,12 +1502,13 @@
                                     <div type="article">
                                           <pb facs="#facs_48" n="48" xml:id="img_0048" break="yes"/>
                                           <fw type="pageNum">- 39 - </fw>
-                                          <head>Artikel 39 </head>
+                                          <head>Artikel 39. </head>
                                           <p type="legal_section">Ist eine Gesamtänderung der
                                                 Bundesverfassung durch Volksabstimmung abgelehnt
                                                 worden, so hat der Bundespräsident den Bundestag
-                                                aufzulösen und gemäss Artikel der Bundesverfassung
-                                                Neuwahlen auszuschreiben.</p>
+                                                aufzulösen und gemäss
+                                                <?oxy_comment_start author="Atkinson.j" timestamp="20251016T162214+0200" comment="Auslassung der Artikelnr."?>Artikel<?oxy_comment_end?>
+                                                der Bundesverfassung Neuwahlen auszuschreiben.</p>
                                     </div>
                                     <div type="article">
                                           <pb facs="#facs_49" n="49" xml:id="img_0049" break="yes"/>
@@ -1515,8 +1516,9 @@
                                           <head>Artikel 40 </head>
                                           <p type="legal_section"><label>(1)</label> Das Verfahren
                                                 für die Volksabstimmung sowie für die in den
-                                                Artikeln und vorgesehene Volksinitiative wird durch
-                                                Bundesgesetz geregelt. </p>
+                                                <?oxy_comment_start author="Atkinson.j" timestamp="20251016T162243+0200" comment="Auslassung der Artikelnr."?>Artikeln
+                                                und<?oxy_comment_end?> vorgesehene Volksinitiative
+                                                wird durch Bundesgesetz geregelt. </p>
                                           <p type="legal_section"><label>(2)</label> Stimmberechtigt
                                                 ist jeder zum Bundestag wahlberechtigte
                                                 Bundesangehörige. </p>
@@ -1543,10 +1545,11 @@
                                                 Einspruches wird der Gesetzesbeschluss dem
                                                 Bundestage zur nochmaligen Beschlussfassung
                                                 vorgelegt. Wiederholt der Bundestag seinen
-                                                ursprünglichen Beschluss (mit einer Mehrheit von
-                                                zwei Dritteln <emph>drei Vierteln</emph> der
-                                                Anwesenden) so ist dieser vom Bundespräsidenten zu
-                                                beurkunden, und kundzumachen. </p>
+                                                ursprünglichen Beschluss (mit einer Mehrheit von <choice>
+                                                  <del>drei Vierteln</del>
+                                                  <add>zwei Dritteln</add>
+                                                </choice> der Anwesenden) so ist dieser vom
+                                                Bundespräsidenten zu beurkunden, und kundzumachen. </p>
                                           <p type="legal_section">[<label>(5) </label> Wiederholt
                                                 der Bundestag seinen Beschluss mit einfacher
                                                 Mehrheit und beharrt auch der Bundesrat auf seinem
@@ -1555,13 +1558,22 @@
                                     </div>
                                     <div type="article">
                                           <pb facs="#facs_51" n="51" xml:id="img_0051" break="yes"/>
-                                          <fw type="pageNum">- 42 - </fw>
-                                          <head>Artikel 42. </head>
+                                          <fw type="pageNum"><choice>
+                                                  <del>- 43 -</del>
+                                                  <add>- 42 -</add>
+                                                </choice>
+                                          </fw>
+                                          <head>Artikel <choice>
+                                                  <del>43</del>
+                                                  <add>42</add>
+                                                </choice>. </head>
                                           <p type="legal_section"><label>(1)</label> Das
                                                 verfassungsmässige Zustandekommen der Bundesgesetze
-                                                sowie der im Artikel , Absatz , und Artikel
-                                                erwähnten Beschlüsse des Bundestages <emph>und des
-                                                  Bundesrates</emph> wird durch die Unterschrift des
+                                                sowie der
+                                                im<?oxy_comment_start author="Atkinson.j" timestamp="20251016T164333+0200" comment="Auslassungen Artikelnr."?>
+                                                Artikel , Absatz , und Artikel<?oxy_comment_end?>
+                                                erwähnten Beschlüsse des Bundestages <del>und des
+                                                  Bundesrates</del> wird durch die Unterschrift des
                                                 Bundespräsidenten beurkundet. </p>
                                           <p type="legal_section"><label>(2)</label> Die Beurkundung
                                                 ist vom Bundeskanzler und von den zuständigen
@@ -1569,40 +1581,49 @@
                                     </div>
                                     <div type="article">
                                           <pb facs="#facs_52" n="52" xml:id="img_0052" break="yes"/>
-                                          <fw type="pageNum">- 43 - </fw>
-                                          <head>Artikel 43 </head>
+                                          <fw type="pageNum"><choice>
+                                                  <del>- 26 a -</del>
+                                                  <add>- 43 -</add>
+                                                </choice>
+                                          </fw>
+                                          <head>Artikel 43. </head>
                                           <p type="legal_section"><label>(1)</label> Die Kundmachung
-                                                der Bundesgesetze sowie der im Artikel , Absatz ,
-                                                und Artikel erwähnten Beschlüsse des Bundestages
-                                                erfolgt mit Berufung auf den Beschluss des
-                                                Bundestages, im Falle einer Volksabstimmung aber mit
-                                                Berufung auf deren Ergebnis, die Kundmachung von
-                                                Staatsverträgen, die der Genehmigung des Bundestages
-                                                bedürfen, mit Berufung auf diese Genehmigung im
-                                                Bundesgesetzblatt durch den Bundeskanzler. </p>
+                                                der Bundesgesetze sowie der im
+                                                <?oxy_comment_start author="Atkinson.j" timestamp="20251016T164854+0200" comment="Auslassung der Art.nr."?>Artikel
+                                                , Absatz , und Artikel <?oxy_comment_end?>erwähnten
+                                                Beschlüsse des Bundestages erfolgt mit Berufung auf
+                                                den Beschluss des Bundestages, im Falle einer
+                                                Volksabstimmung aber mit Berufung auf deren Ergebnis<choice>
+                                                  <del>:</del>
+                                                  <add>,</add>
+                                                </choice> die Kundmachung von Staatsverträgen, die
+                                                der Genehmigung des Bundestages bedürfen, mit
+                                                Berufung auf diese Genehmigung im Bundesgesetzblatt
+                                                durch den Bundeskanzler. </p>
                                           <p type="legal_section"><label>(2)</label> Die
                                                 Bundesgesetze sowie die im Artikel erwähnten
                                                 Beschlüsse des Bundestages, ebenso Staatsverträge,
                                                 die vom Bundestag genehmigt und vom
-                                                Bundespräsidenten ratifiziert sind, (Artikel ),
-                                                erlangen erst nach der Kundmachung im
-                                                Bundesgesetzblatt verbindende Kraft.</p>
+                                                Bundespräsidenten ratifiziert sind,
+                                                (<?oxy_comment_start author="Atkinson.j" timestamp="20251016T165000+0200" comment="Auslassungen Art.nr."?>Artikel
+                                                <?oxy_comment_end?>), erlangen erst nach der
+                                                Kundmachung im Bundesgesetzblatt verbindende
+                                                Kraft.</p>
                                     </div>
                                     <div type="article">
                                           <pb facs="#facs_53" n="53" xml:id="img_0053" break="yes"/>
                                           <fw type="pageNum">- 44 -</fw>
-                                          <head>Artikel 44 </head>
+                                          <head>Artikel 44. </head>
                                           <p type="legal_section"><label>(1)</label> Die verbindene
                                                 Kraft der im Bundesgesetzblatt kundgemachten
                                                 Bundesgesetze beginnt, wenn darin selbst nicht
-                                                ausdrücklich eine andere Bestimmung getroffen wird,
-                                                  <emph>mit dem Anfang des</emph>
-                                                <emph>45. Tages</emph> nach Ablauf des Tages, an dem
-                                                das Stück des Bundesgesetzblattes, das die
-                                                Kundmachung enthält, herausgegeben und versendet
-                                                wird, und erstreckt sich, wenn nicht anderes
-                                                ausdrücklich bestimmt ist, auf das gesamte
-                                                Bundesgebiet. </p>
+                                                ausdrücklich eine andere Bestimmung getroffen
+                                                  wird,<del> mit dem Anfang des 45. Tages</del> nach
+                                                Ablauf des Tages, an dem das Stück des
+                                                Bundesgesetzblattes, das die Kundmachung enthält,
+                                                herausgegeben und versendet wird, und erstreckt
+                                                sich, wenn nicht anderes ausdrücklich bestimmt ist,
+                                                auf das gesamte Bundesgebiet. </p>
                                           <p type="legal_section"><label>(2)</label> Ueber das
                                                 Bundesgesetzblatt ergeht ein besonderes
                                                 Bundesgesetz. </p>
@@ -1610,17 +1631,22 @@
                               </div>
                               <div type="section">
                                     <pb facs="#facs_54" n="54" xml:id="img_0054" break="yes"/>
-                                    <fw type="pageNum">- 45 -</fw>
+                                    <fw type="pageNum"><choice>
+                                                <del>- 46 -</del>
+                                                <add>- 45 -</add>
+                                          </choice></fw>
                                     <head>D. Stellung der Mitglieder des Bundestages und des
                                           Bundesrates.</head>
                                     <div type="article">
                                           <head>Artikel 45 </head>
                                           <p type="legal_section"><label>(1)</label> Die Mitglieder
-                                                des Bundestages können wegen der in Ausübung
-                                                  <emph>dieses</emph> ihres Berufes geschehenen
-                                                Abstimmungen niemals, wegen der in diesem Berufe
-                                                gemachten Aeusserungen nur vom Bundestage
-                                                verantwortlich gemacht werden. </p>
+                                                des Bundestages können wegen der in Ausübung <choice>
+                                                  <sic>dieses</sic>
+                                                  <corr>ihres</corr>
+                                                </choice> ihres Berufes geschehenen Abstimmungen
+                                                niemals, wegen der in diesem Berufe gemachten
+                                                Aeusserungen nur vom Bundestage verantwortlich
+                                                gemacht werden. </p>
                                           <p type="legal_section"><label>(2)</label> Kein Mitglied
                                                 des Bundestages darf während der Dauer der
                                                 Sitzungsperiode wegen einer strafbaren Handlung -
@@ -1642,8 +1668,12 @@
                                     </div>
                                     <div type="article">
                                           <pb facs="#facs_55" n="55" xml:id="img_0055" break="yes"/>
-                                          <fw type="pageNum">- 46 - </fw>
-                                          <head>Artikel 46 </head>
+                                          <fw type="pageNum"><choice>
+                                                  <del>- 47 -</del>
+                                                  <add>- 46 -</add>
+                                                </choice>
+                                          </fw>
+                                          <head>Artikel 46. </head>
                                           <p type="legal_section">Die Mitglieder des Bundesrates
                                                 geniessen die ihnen als Mitglieder eines Landtages
                                                 gewährte Immunität auch für ihre Funktion im
@@ -1652,7 +1682,10 @@
                                     </div>
                                     <div type="article">
                                           <pb facs="#facs_56" n="56" xml:id="img_0056" break="yes"/>
-                                          <fw type="pageNum">- 47 - </fw>
+                                          <fw type="pageNum"><choice>
+                                                  <del>- 48 -</del>
+                                                  <add>- 47 -</add>
+                                                </choice></fw>
                                           <head>Artikel 47 </head>
                                           <p type="legal_section"><label>(1)</label> Niemand kann
                                                 gleichzeitig dem Bundestag und dem Bundesrat
@@ -1668,7 +1701,11 @@
                               </div>
                               <div type="section">
                                     <pb facs="#facs_57" n="57" xml:id="img_0057" break="yes"/>
-                                    <fw type="pageNum">- 48 - </fw>
+                                    <fw type="pageNum"><choice>
+                                                <del>- 49 -</del>
+                                                <add>- 48 -</add>
+                                          </choice>
+                                    </fw>
                                     <head>E. Stellung der Bundesregierung im Bundestag und
                                           Bundesrat. </head>
                                     <div type="article">
@@ -1677,38 +1714,49 @@
                                                 sowie die von ihnen entsendeten Vertreter sind
                                                 berechtigt, an allen Beratungen des Bundestages und
                                                 des Bundesrates sowie deren Ausschüsse teilzunehmen,
-                                                jedoch mit Ausnahme des im Artikel vorgesehenen
-                                                besonderen Ausschusses, an dessen Beratungen sie nur
-                                                  <emph>durch </emph>auf besondere Einladung
-                                                teilnehmen können. Sie müssen auf ihr Verlangen
-                                                jedesmal gehört werden. Der Bundestag sowie der
-                                                Bundesrat kann die Anwesenheit der Mitglieder der
-                                                Bundesregierung verlangen.</p>
+                                                jedoch mit Ausnahme des im
+                                                <?oxy_comment_start author="Atkinson.j" timestamp="20251016T165741+0200" comment="Auslassung Art.nr."?>Artikel<?oxy_comment_end?>
+                                                vorgesehenen besonderen Ausschusses, an dessen
+                                                Beratungen sie nur <choice>
+                                                  <del>durch</del>
+                                                  <add>auf</add>
+                                                </choice> besondere Einladung teilnehmen können. Sie
+                                                müssen auf ihr Verlangen jedesmal gehört werden. Der
+                                                Bundestag sowie der Bundesrat kann die Anwesenheit
+                                                der Mitglieder der Bundesregierung verlangen.</p>
                                     </div>
                                     <div type="article">
                                           <pb facs="#facs_58" n="58" xml:id="img_0058" break="yes"/>
-                                          <fw type="pageNum"> - 49 - </fw>
-                                          <head>Artikel 49 </head>
-                                          <p type="legal_section">Der Bundestag <emph>und der
-                                                  Bundesrat</emph>
-                                                <emph>sind</emph> ist befugt, die Geschäftsführung
-                                                der Bundesregierung zu überprüfen, deren Mitglieder
-                                                über alle Gegenstände der Vollziehung zu befragen
-                                                und alle einschlägigen Auskünfte zu verlangen, sowie
-                                                seinen <emph>ihren</emph> Wünschen über die Ausübung
-                                                der Regierungs- und Vollzugsgewalt in
-                                                Entschliessungen Ausdruck zu geben.</p>
+                                          <fw type="pageNum"><choice>
+                                                  <del>- 50 -</del>
+                                                  <add>- 49 -</add>
+                                                </choice>
+                                          </fw>
+                                          <head>Artikel 49. </head>
+                                          <p type="legal_section">Der Bundestag <choice>
+                                                  <del>und der Bundesrat sind</del>
+                                                  <add>ist</add>
+                                                </choice> befugt, die Geschäftsführung der
+                                                Bundesregierung zu überprüfen, deren Mitglieder über
+                                                alle Gegenstände der Vollziehung zu befragen und
+                                                alle einschlägigen Auskünfte zu verlangen, sowie <choice>
+                                                  <del>ihren</del>
+                                                  <add>seinen</add>
+                                                </choice> Wünschen über die Ausübung der Regierungs-
+                                                und Vollzugsgewalt in Entschliessungen Ausdruck zu
+                                                geben.</p>
                                     </div>
                                     <div type="article">
                                           <pb facs="#facs_59" n="59" xml:id="img_0059" break="yes"/>
-                                          <fw type="pageNum">- 50 - </fw>
-                                          <head>Artikel 50 </head>
-                                          <p type="legal_section"><label>(1) </label><emph>Auf
-                                                  Antrag von mindestens</emph>
-                                                <emph>einem Fünftel der Mitglieder hat der</emph>
-                                                <emph>Bundestag Untersuchungsausschüsse</emph>
-                                                <emph>einzusetzen.</emph>
-                                          </p>
+                                          <fw type="pageNum"><choice>
+                                                  <del>- 51 -</del>
+                                                  <add>- 50 -</add>
+                                                </choice>
+                                          </fw>
+                                          <head>Artikel 50. </head>
+                                          <p type="legal_section"><label>(1) </label>Auf Antrag von
+                                                mindestens einem Fünftel der Mitglieder hat der
+                                                Bundestag Untersuchungsausschüsse einzusetzen. </p>
                                           <p type="legal_section"><label>(2)</label> Die Gerichte
                                                 und alle anderen Behörden sind verpflichtet, dem
                                                 Ersuchen dieser Ausschüsse um Beweiserhebungen Folge
@@ -1737,11 +1785,15 @@
                                                   Bundestages führt in Ausübung der ihm durch die
                                                   Verfassung übertragenen Funktionen der Regierungs-
                                                   und Vollzugsgewalt den Titel Bundespräsident. </p>
-                                                <p type="legal_section">Staatspräsident ?</p>
                                           </div>
                                           <div type="article">
-                                                <pb facs="#facs_61" n="61" xml:id="img_0061" break="yes"/>
-                                                <fw type="pageNum"> - 52 - </fw>
+                                                <pb facs="#facs_61" n="61" xml:id="img_0061"
+                                                  break="yes"/>
+                                                <fw type="pageNum"><choice>
+                                                  <del>- 53 -</del>
+                                                  <add>- 52 -</add>
+                                                  </choice>
+                                                </fw>
                                                 <head>Artikel 52 </head>
                                                 <p type="legal_section">Der Bundespräsident vertritt
                                                   die Republik nach aussen, empfängt und beglaubigt
