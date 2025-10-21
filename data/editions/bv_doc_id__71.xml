@@ -109,9 +109,10 @@
             <date notBefore-iso="1920-04-12" notAfter-iso="1920-04-12"> 12. April 1920 </date>
          </creation>
       </profileDesc>
-      <revisionDesc status="structured">
+      <revisionDesc status="text_correct">
          <change when="2025-08-30" who="#s_kury">Gegengelesen bis S. 18</change>
          <change when="2025-09-05" who="#e_kordt">Text fertig strukturiert</change>
+         <change when="2025-10-21" who="#e_kordt">Gegenlesen abgeschlossen</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -2112,12 +2113,12 @@
                      gebunden. </p>
                </div>
                <div type="article">
-                  <head>Artikel 164. </head>
+                  <head>Artikel 164.</head>
                   <p type="legal_section">Die Exekution der Erkenntnisse des
                      Verfassungsgerichtshofes obliegt dem Bundespräsidenten. </p>
                </div>
                <div type="article">
-                  <head>Artikel 165. </head>
+                  <head>Artikel 165.</head>
                   <p type="legal_section"><label>(1)</label> Der Verfassungsgerichtshof in Wien
                      bestemt aus einem Prüsidenten, einem Vizepräsigenten, vierzehn Mitgliedern und
                      acht Ersatzmitgliedern </p>
@@ -2127,7 +2128,7 @@
                   </p>
                </div>
                <div type="article">
-                  <head>Artikel 166. </head>
+                  <head>Artikel 166.</head>
                   <p type="legal_section"><label>(1)</label> Der Präsident des
                      Bundesverfassungsgerichtshofes steht im Range des Bundeskanzlers, der
                      Vizepräsident im Lange eines Bundesministers. </p>
