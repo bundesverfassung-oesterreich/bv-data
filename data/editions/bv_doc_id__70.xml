@@ -107,8 +107,9 @@ Umfang: 6 Seiten</note>
                 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="created">
+        <revisionDesc status="structured">
             <change when="2025-09-08" who="#cfh">document automatically created</change>
+            <change when="2025-10-23" who="#m_huber">structured</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -135,24 +136,158 @@ Umfang: 6 Seiten</note>
     <text type="Sitzungsprotokoll">
         <body>
          <div type="main">
-            <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
-            <p>Vertraulich! Kabinettsprotokoll Nr. 12 vom 20. Mai 1919. Anwesend: Präsldent Seitz und säntliche Kabinsttanltglieder, ausgenommen Staatskanzler Dr. Re n n e r, Staatssekratär Ing. Zerd i k und Unterstaatssekretär Pflügl. Zugezogen: Sektionschef im Staatsamt für Finanzen Dr. Gri m m, ferner zu Punkt 8: Ministerialsskretär in der Staatskanzlei Dr. Mannlicher. Vorsitz: Vizekanzler Fink. Beginn, 9 Uhr abends. Inhalt: 1. Ergebnis der Länderkonferenz über den Reise- und Semmerverketr. 2. Vertnatung Deutsch-Südmährens bei der Friedenskonferenz. Folio 1-98
-            <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
-            2 3. Gesetzentwurf über die Aufnahme weiterer Anlehen in ausländischer Währung und über die Heranziehung des Forstbesitzes zur Sicherstellung solcher Anlehen. 4. Beitritt der Staatsregterung zu mehreren von der Nationalversammlung beschlossenen Gesetzen. 5. Flüssigmachung der den vormaligen Erzherzogen Peter Ferdinand und Heinrich Ferdinand vom ehemaligen Kaiser bewilligten Unterstützungen. 6. Vollzugsanweisung über die Aenderung der Bezeichnung des Kreisgerichtss Feldkirch in „landesgericht Feldkirch“. 7. Regelung der Erholungsurlaube der Staatsbediensteten für das Jahr 1919. 8. Stellung und Bezüge der in den deutschösterreichischen Staatsdienst übernommenen Bedienststen des liquidierenden Ministeriums für Landesverteidigung. 9. Uabernahme der im Verwaltungsdienst Bosniens und der Herzegowina stehenden Beamten deutscher Nationalität in den deutschösterreichtschen Staatsdienst. 10. Memoranden der Paritätischen Industrieförderungskommission. 11. Gesetzesbeschluß der provisorischen Landesversammlung in Steiermark über die Einführung einer Wertzuwachsabgabe. 12. Erklärung über den Umfang des in Aussicht genommenen Sozialisisrungsaktion. 13. Zusammensetzung des Bureaus der Sozialisierungskommission und Bezüge ihrer Beamten. 14. Beendigung der Wirksamkeit des Obersten Sanitätsrates und des Obersten Lebensmittelbeirates.
-            <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
-            15. Gesetzentwurf über die Regelung des Verkehrs mit Getreide und Mahlprodukten. Ergebnis der Länderkonferenz über den Reise- und Sommerverkehr. Staatssekretär Dr. Loenenf e l d-R u ß berichtet über das Ergebnis der heuts in Angelegenheit des Reiss- und Sommerverkehrs abgehaltenen Länderkonferenz. Es sei gelungen, eine Vereinbarung mit den Landesregierungen dahingehend zu traffen, daß diese sich bereit erklärten, das generelle Einreiseverbot fallen zu lassen, wogegen die Staatsregierung mittelst einer Vollzugsanweisung die Landssregie. rungen ermächtigt, jeden über drei Tage dauernden Sommeraufenthalt von Personen, soferne sie nicht in der betreffenden Gemeinde heimatberechtigt sind oder dortselbst ihren ständigen Aufenthalt haben, an eine besondere Bewilligung zu knüpfen. Gleichzeitig wird der Wirksamkeitsbeginn der Vollzugsanweisung vom 29. April 1919, St.G.Bl.Nr. 252 bis 10. Juni d.J. hinausgeschoben. Das Staatsamt für Volksernährung habe. weiterhin in Aussicht gestellt, den ländern zum Zwecke der besseren Versorgung während der Zeit, welche Für den Sommerverkehr in Betracht kommt, beson-
-            <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
-            4 dere Lebensmittelzuschübe zur Verfügung zu stellen. Der Kabinettsrat nimmt diesen Benicht zustimmend zur Kenntnis und beschließt die Erlassung der oberwähnten Vollzugsanwelsung. 2. Der Vorsitzends teilt mit, daß ihm Vertrstung Deutsch-Südmährens bei der Friedenskonferenz. seitens des Hauptvolksrates Südmährens ein Telegramm zugskommen sei, worin er gebeten werde, die Forderung dieses Hauptvolksrates nach Entsendung des Kreishauptmannes T e u f e 1 als Vertrster der Interessen Deutsch-Gudmährens zur Friedenskonferenz sowohl im Hauptausschuss der Nationalversammlung wie auch im Kabinettsrat mit allem Nachdrucke zu vertreten. Der Kabinettsrat stellt fest, daß ein Vertreter Deutsch-Güdmährens in der Person des Sektionsrates ol dofredi bereits der Friedenedslegetion beigsgeben sei. 3. Gesetzentwurf über die Aufnahme weiterer Anlehen in ausländischer Währung und über die Heranzlehung des Forstbesitzes zur Sicherstellung solcher Anlehen. Präsident Seitz verweist. derauf, dass der Kabinettsrat in seiner Sitzung am 2. Mai d.J. den Beschluß
-            <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
-            Die fünfte Länderkonferenz A. 1 <emph><gap reason="illegible"/></emph> wirde verlautbart Communicque. -Die Staateregierung hat mit einer am 20. Mai im Staatsgesetzblatte verlautbarten Vollzugsanweisung angeordnet, daß in Ergänzung der bekannten Vollzugsanweisung über den Reise- und Sommerverkehr die Landesregierungen ermächtigt werden, jeden über drei Tage dauernden Sommeraufenthalt von Perscnen, welche nicht in der betreffenden Gemeinde heimatberechtigt sind oder dort ihren ständigen Aufenthalt haben, an eine besondere Bewilligung zu knüpfen. ferner daß die erwähnte Vollzugsanweisung vom 29. April 1919 statt am 20. Mai 1919 erst am 10. Juni 1919 in Kraft zu treten habe. Diese Bestimmungen beziehen sich nicht auf die Anordnungen, welche in der letzterwähnten Vollzugeanweisung über den Besuch der Heilbäder getroffen wurden. heute Bei der gestern stattgefundenen Länderkonferenz hatte sich gezeigt, daß die Länder tatsächlich bisher nicht imstande waren, die näheren Bestimmungen zur Durchführung der Vollzugsanweisung über den Reise- und Sommerverkehr zu traffen, daß dies jedoch bis zum 10. Juni, möglich sein wird. Was speziell die so vielfach in der Oeffentlichkeit erörterten Einreisebewilligungen betrifft. so werden die Landesregierungen Verfügungen treffen, damit diese bereits in den nächsten Tagen nicht mehr gehandhabt werden. Das Staatsamt für Volksernährung hat bei der Länderkonferenz in Aussicht gestellt, den Ländern zum Zwecke der besseren Versorgung während der Zeit, welche für den Sommerverkehr in Betracht kommt, besondere Zuschübe zur Verfügung zu stellen. In den Ländern, welche von Sommerfrischlern besucht werden, dürfte dadurch die Möglichkeit geboten sein, auch der ortsansäßigen Bevölkerung eine Erleichterung ihrer Versorgung zu bieten. 000001
-            <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
-            <emph><gap reason="illegible"/></emph> Vollzugsanweisung. der Staatsregierung vom 19. Mai 1919, mit welcher die Vollzugsanweisung. vom 29. April 1919, St. G.Bl. Nr. 252, ergänzt wird. Auf Grund des Gesetzes vom 24. Juli 1917,R. G. Bl. Nr. 307, wird in Ergänzung der Vollzugsanweisung vom 29. April 1919, St. G.Bl. Nr. 252, verordnet wie folgt: Artikel 1.) Die Landesregierungen sind (ermächtigt, jeden über drei Tage dauernden Sommeraufenthalt von Personen, sofern sie nicht in der betreffenden Gemeinde heimatberechtigt sind oder dortselbst ihren ständigen Aufenthalt haben, an eine besondere Bewilligung zu knüpfen.) Durch diese Bestimmung werden die hinsichtlich des Aufenthaltes in Heilbädern erlassenen Vorschriften (§ 5 der Vollzugsanweisung vom 29. April 1919, st. G.Bl. Nr. 252) nicht berührt. Artikel 2.) In Abänderung des § 10 der Vollzugsanweisung vom 29. April 1919, St. G.Bl. Nr. 252, wird der Wirksamkeitsbeginn der letzterwähnten Vollzugsanweisung erst mit 10. Juni 1919 festgesetzt, soweit ex sich nicht um den Besuch von Heilbädern (§ 5) handelt. Artikel 3.) Artikel 2) dieser Vollzugsanweisung tritt sofort, Artikel 1) am 10. Juni 1919 in Kraft.
-            </p>
-            
-            
-            
-            
-            
+                <head><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>Kabinettsprotokoll Nr.
+                    12 vom 20. Mai 1919.</head>
+                <p>Vertraulich!</p>
+                <p>Anwesend:<list>
+                        <item>Präsident Seitz und säntliche Kabinsttanltglieder </item>
+                        <item>ausgenommen Staatskanzler Dr. Renner, Staatssekratär Ing. Zerdik und
+                            Unterstaatssekretär Pflügl.</item>
+                    </list>Zugezogen:<list>
+                        <item>Sektionschef im Staatsamt für Finanzen Dr. Gri m m </item>
+                    </list>Ferner zu Punkt 8:<list>
+                        <item>Ministerialsskretär in der Staatskanzlei Dr. Mannlicher. </item>
+                    </list>Vorsitz:<list>
+                        <item>Vizekanzler Fink.</item>
+                    </list></p>
+                <p>Beginn, 9 Uhr abends. </p>
+                <p>Inhalt:<list>
+                        <label>1.</label>
+                        <item>Ergebnis der Länderkonferenz über den Reise- und Semmerverketr. </item>
+                        <label>2.</label>
+                        <item>Vertnatung Deutsch-Südmährens bei der Friedenskonferenz. </item>
+                    </list></p>
+                <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw type="pageNum">2</fw>
+                </p>
+                <p><list>
+                        <label>3. </label>
+                        <item>Gesetzentwurf über die Aufnahme weiterer Anlehen in ausländischer
+                            Währung und über die Heranziehung des Forstbesitzes zur Sicherstellung
+                            solcher Anlehen.</item>
+                        <label>4. </label>
+                        <item>Beitritt der Staatsregterung zu mehreren von der Nationalversammlung
+                            beschlossenen Gesetzen. </item>
+                        <label>5. </label>
+                        <item>Flüssigmachung der den vormaligen Erzherzogen Peter Ferdinand und
+                            Heinrich Ferdinand vom ehemaligen Kaiser bewilligten Unterstützungen. </item>
+                        <label>6. </label>
+                        <item>Vollzugsanweisung über die Aenderung der Bezeichnung des
+                            Kreisgerichtss Feldkirch in „landesgericht Feldkirch“. </item>
+                        <label>7. </label>
+                        <item> Regelung der Erholungsurlaube der Staatsbediensteten für das Jahr
+                            1919. 8. Stellung und Bezüge der in den deutschösterreichischen
+                            Staatsdienst übernommenen Bedienststen des liquidierenden Ministeriums
+                            für Landesverteidigung. </item>
+                        <label>9. </label>
+                        <item>Uabernahme der im Verwaltungsdienst Bosniens und der Herzegowina
+                            stehenden Beamten deutscher Nationalität in den deutschösterreichtschen
+                            Staatsdienst. </item>
+                        <label>10. </label>
+                        <item> Memoranden der Paritätischen Industrieförderungskommission.  </item>
+                        <label>11. </label>
+                        <item>Gesetzesbeschluß der provisorischen Landesversammlung in Steiermark
+                            über die Einführung einer Wertzuwachsabgabe. </item>
+                        <label>12. </label>
+                        <item>Erklärung über den Umfang des in Aussicht genommenen
+                            Sozialisisrungsaktion. </item>
+                        <label> 13. </label>
+                        <item>Zusammensetzung des Bureaus der Sozialisierungskommission und Bezüge
+                            ihrer Beamten. </item>
+                        <label> 14. </label>
+                        <item>Beendigung der Wirksamkeit des Obersten Sanitätsrates und des Obersten
+                            Lebensmittelbeirates.  </item>
+                        <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
+                        <label>15. </label>
+                        <item>Gesetzentwurf über die Regelung des Verkehrs mit Getreide und
+                            Mahlprodukten. </item>
+                    </list></p>
+                <p><emph>Ergebnis der Länderkonferenz über den Reise- und Sommerverkehr.</emph> 1.
+                    Staatssekretär Dr. Loewenfeld-Ruß berichtet über das Ergebnis der heuts in
+                    Angelegenheit des Reise- und Sommerverkehrs abgehaltenen Länderkonferenz. Es sei
+                    gelungen, eine Vereinbarung mit den Landesregierungen dahingehend zu traffen,
+                    daß diese sich bereit erklärten, das generelle Einreiseverbot fallen zu lassen,
+                    wogegen die Staatsregierung mittelst einer Vollzugsanweisung die
+                    Landssregierungen ermächtigt, jeden über drei Tage dauernden Sommeraufenthalt
+                    von Personen, soferne sie nicht in der betreffenden Gemeinde heimatberechtigt
+                    sind oder dortselbst ihren ständigen Aufenthalt haben, an eine besondere
+                    Bewilligung zu knüpfen. Gleichzeitig wird der Wirksamkeitsbeginn der
+                    Vollzugsanweisung vom 29. April 1919, St.G.Bl.Nr. 252 bis 10. Juni d.J.
+                    hinausgeschoben. Das Staatsamt für Volksernährung habe weiterhin in Aussicht
+                    gestellt, den Ländern zum Zwecke der besseren Versorgung während der Zeit,
+                    welche für den Sommerverkehr in Betracht kommt, beson- <pb facs="#facs_5" n="5"
+                        xml:id="img_0005" break="no"/><fw type="pageNum">4</fw>dere
+                    Lebensmittelzuschübe zur Verfügung zu stellen.</p>
+                <p>Der Kabinettsrat nimmt diesen Benicht zustimmend zur Kenntnis und beschließt die
+                    Erlassung der oberwähnten Vollzugsanweisung.</p>
+                <p><emph>Vertretung Deutsch-Südmährens bei der Friedenskonferenz.</emph>2. Der
+                    Vorsitzends teilt mit, daß ihm  seitens des Hauptvolksrates Südmährens ein
+                    Telegramm zugskommen sei, worin er gebeten werde, die Forderung dieses
+                    Hauptvolksrates nach Entsendung des Kreishauptmannes Teufe1 als Vertrster der
+                    Interessen Deutsch-Gudmährens zur Friedenskonferenz sowohl im Hauptausschuss der
+                    Nationalversammlung wie auch im Kabinettsrat mit allem Nachdrucke zu
+                    vertreten.</p>
+                <p>Der Kabinettsrat stellt fest, daß ein Vertreter Deutsch-Güdmährens in der Person
+                    des Sektionsrates ol dofredi bereits der Friedenedslegetion beigsgeben sei.</p>
+                <p>3. Gesetzentwurf über die Aufnahme weiterer Anlehen in ausländischer Währung und
+                    über die Heranzlehung des Forstbesitzes zur Sicherstellung solcher Anlehen.
+                    Präsident Seitz verweist. derauf, dass der Kabinettsrat in seiner Sitzung am 2.
+                    Mai d.J. den Beschluß<gap reason="illegible"/></p>
+                <p><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><emph>Die fünfte
+                        Länderkonferenz</emph> Amtlich und verlautbart <del>Communicque.</del> Die
+                    Staateregierung hat mit einer am 20. Mai im Staatsgesetzblatte verlautbarten
+                    Vollzugsanweisung angeordnet, daß in Ergänzung der bekannten Vollzugsanweisung
+                    über den Reise- und Sommerverkehr die Landesregierungen ermächtigt werden, jeden
+                    über drei Tage dauernden Sommeraufenthalt von Perscnen, welche nicht in der
+                    betreffenden Gemeinde heimatberechtigt sind oder dort ihren ständigen Aufenthalt
+                    haben, an eine besondere Bewilligung zu knüpfen. ferner daß die erwähnte
+                    Vollzugsanweisung vom 29. April 1919 statt am 20. Mai 1919 erst am 10. Juni 1919
+                    in Kraft zu treten habe. Diese Bestimmungen beziehen sich nicht auf die
+                    Anordnungen, welche in der letzterwähnten Vollzugeanweisung über den Besuch der
+                    Heilbäder getroffen wurden.</p>
+                <p>Bei der <choice>
+                        <del>gestern</del>
+                        <add>heute</add>
+                    </choice> stattgefundenen Länderkonferenz hatte sich gezeigt, daß die Länder
+                    tatsächlich bisher nicht imstande waren, die näheren Bestimmungen zur
+                    Durchführung der Vollzugsanweisung über den Reise- und Sommerverkehr zu traffen,
+                    daß dies jedoch bis zum 10. Juni, möglich sein wird. Was speziell die so
+                    vielfach in der Oeffentlichkeit erörterten Einreisebewilligungen betrifft. so
+                    werden die Landesregierungen Verfügungen treffen, damit diese bereits in den
+                    nächsten Tagen nicht mehr gehandhabt werden.</p>
+                <p>Das Staatsamt für Volksernährung hat bei der Länderkonferenz in Aussicht
+                    gestellt, den Ländern zum Zwecke der besseren Versorgung während der Zeit,
+                    welche für den Sommerverkehr in Betracht kommt, besondere Zuschübe zur Verfügung
+                    zu stellen. In den Ländern, welche von Sommerfrischlern besucht werden, dürfte
+                    dadurch die Möglichkeit geboten sein, auch der ortsansäßigen Bevölkerung eine
+                    Erleichterung ihrer Versorgung zu bieten.</p>
+                <div type="section">
+                    <head><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"
+                        />Vollzugsanweisung</head>
+                    <p>der Staatsregierung vom 19. Mai 1919, mit welcher die Vollzugsanweisung. vom
+                        29. April 1919, St. G.Bl. Nr. 252, ergänzt wird.</p>
+                    <p>Auf Grund des Gesetzes vom 24. Juli 1917,R. G. Bl. Nr. 307, wird in Ergänzung
+                        der Vollzugsanweisung vom 29. April 1919, St. G.Bl. Nr. 252, verordnet wie
+                        folgt: </p>
+                    <div type="article">
+                        <head>Artikel 1.) </head>
+                        <p>Die Landesregierungen sind (ermächtigt, jeden über drei Tage dauernden
+                            Sommeraufenthalt von Personen, sofern sie nicht in der betreffenden
+                            Gemeinde heimatberechtigt sind oder dortselbst ihren ständigen
+                            Aufenthalt haben, an eine besondere Bewilligung zu knüpfen.) Durch diese
+                            Bestimmung werden die hinsichtlich des Aufenthaltes in Heilbädern
+                            erlassenen Vorschriften (§ 5 der Vollzugsanweisung vom 29. April 1919,
+                            st. G.Bl. Nr. 252) nicht berührt</p>
+                    </div>
+                    <div type="article">
+                        <head>Artikel 2.)</head>
+                        <p>In Abänderung des § 10 der Vollzugsanweisung vom 29. April 1919, St.
+                            G.Bl. Nr. 252, wird der Wirksamkeitsbeginn der letzterwähnten
+                            Vollzugsanweisung erst mit 10. Juni 1919 festgesetzt, soweit ex sich
+                            nicht um den Besuch von Heilbädern (§ 5) handelt. Artikel 3.) Artikel 2)
+                            dieser Vollzugsanweisung tritt sofort, Artikel 1) am 10. Juni 1919 in
+                            Kraft. </p>
+                    </div>
+                </div>
             </div>
       </body>
    
