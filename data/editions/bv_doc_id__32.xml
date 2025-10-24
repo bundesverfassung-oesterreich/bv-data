@@ -1448,7 +1448,7 @@
                                           <p type="legal_section"><label>(2)</label> Eine Abänderung
                                                 der Bundesverfassung kann jedoch nur bei Anwesenheit
                                                 von zwei Dritteln aller Mitglieder und mit einer
-                                                Mehrheit von drei-Vierteln aller abgegebenen Stimmen
+                                                Mehrheit von drei Vierteln aller abgegebenen Stimmen
                                                 beschlossen werden.</p>
                                     </div>
                                     <div type="article">
@@ -1641,8 +1641,8 @@
                                           <head>Artikel 45 </head>
                                           <p type="legal_section"><label>(1)</label> Die Mitglieder
                                                 des Bundestages können wegen der in Ausübung <choice>
-                                                  <sic>dieses</sic>
-                                                  <corr>ihres</corr>
+                                                  <del>dieses</del>
+                                                  <add>ihres</add>
                                                 </choice> ihres Berufes geschehenen Abstimmungen
                                                 niemals, wegen der in diesem Berufe gemachten
                                                 Aeusserungen nur vom Bundestage verantwortlich
@@ -1938,8 +1938,12 @@
                                                   Wahlordnung für die Wahl zum Bundestag.</p>
                                           </div>
                                           <div type="article">
-                                                <p type="legal_section"><pb facs="#facs_72" n="72" xml:id="img_0072" break="yes"/><fw type="pageNum">- 55 a - </fw>Der Bundespräsident leistet bei
-                                                  Antritt seines Amtes vor dem Bundestag das
+                                                <pb facs="#facs_72" n="72" xml:id="img_0072"
+                                                  break="yes"/>
+                                                <fw type="pageNum">- 55 a - </fw>
+                                                <head>Artikel</head>
+                                                <p type="legal_section">Der Bundespräsident leistet
+                                                  bei Antritt seines Amtes vor dem Bundestag das
                                                   folgende Gelöbnis: </p>
                                                 <p type="legal_section">"Ich gelobe, dass ich die
                                                   Verfassung und alle Gesetze der Republik
@@ -2223,13 +2227,13 @@
                                                 <pb facs="#facs_92" n="92" xml:id="img_0092" break="yes"/>
                                                 <fw type="pageNum"> - 71 -</fw>
                                                 <head>Artikel 71 </head>
-                                                <p type="legal_section"><emph>Die Präsenzstärke und
-                                                  Organisation des Heeres stellt das
-                                                  Wehrgesetzfest. Durch Bundesgesetz
-                                                  wird auch</emph> geregelt, inwieweit die
-                                                  Länder bei der Ergänzung, Verpflegung und
-                                                  Unterbringung des Heeres und der Beistellung
-                                                  seiner sonstigen Erfordernisse mitwirken.</p>
+                                                <p type="legal_section"><del>Die Präsenzstärke und
+                                                  Organisation des Heeres stellt das Wehrgesetz
+                                                  fest. </del>Durch Bundesgesetz wird <del>auch
+                                                  </del>geregelt, inwieweit die Länder bei der
+                                                  Ergänzung, Verpflegung und Unterbringung des
+                                                  Heeres und der Beistellung seiner sonstigen
+                                                  Erfordernisse mitwirken.</p>
                                           </div>
                                     </div>
                               </div>
@@ -2433,11 +2437,11 @@
                                           Landtagswahlordnungen wahlberechtigten Bundesbürger ohne
                                           Unterschied des Geschlechtes gewählt werden. </p>
                                     <p type="legal_section"><label>(2)</label> Die
-                                          Landtagswahlordnungen *) dürfen die Bedingungen des
-                                          aktiven und passiven Wahlrechtes nicht enger ziehen, als
-                                          dies in der Wahlordnung zum Bundestag der Fall ist.</p>
-                                    <p type="legal_section">*) sowie die Wahlordnungen zu allen
-                                          allgemeinen Vertretungskörpern im Lande</p>
+                                          Landtagswahlordnungen <add>sowie die Wahlordnungen zu
+                                                allen allgemeinen Vertretungskörpern im Lande
+                                          </add>dürfen die Bedingungen des aktiven und passiven
+                                          Wahlrechtes nicht enger ziehen, als dies in der
+                                          Wahlordnung zum Bundestag der Fall ist.</p>
                               </div>
                               <div type="article">
                                     <pb facs="#facs_107" n="107" xml:id="img_0107" break="yes"/>
@@ -2490,10 +2494,15 @@
                                           dadurch die Bundesverfassung nicht berührt wird - durch
                                           Landesgesetz abgeändert werden. </p>
                                     <p type="legal_section"><label>(2)</label> Ein
-                                          Landesverfassungsgesetz kann nur bei Anwesenheit der
-                                          Hälfte aller Mitglieder des Landtages mit einer Mehrheit
-                                          von <emph>drei</emph> zwei Dritteln <emph>Vierteln
-                                          </emph>aller abgegebenen Stimmen beschlossen werden.</p>
+                                          Landesverfassungsgesetz kann nur bei Anwesenheit <choice>
+                                                <del>von zwei Dritteln</del>
+                                                <add>der Hälfte</add>
+                                          </choice> aller Mitglieder des Landtages mit einer
+                                          Mehrheit von <choice>
+                                                <del>zwei Dritteln</del>
+                                                <add>drei Vierteln</add>
+                                          </choice> aller abgegebenen Stimmen beschlossen
+                                          werden.</p>
                               </div>
                               <div type="article">
                                     <pb facs="#facs_111" n="111" xml:id="img_0111" break="yes"/>
@@ -2600,8 +2609,8 @@
                                           Stellvertreters. </p>
                                     <p type="legal_section"><label>(3)</label> Zur Vertretung des
                                           Landesamtsdirektors ist jeweils der rangälteste politische <choice>
-                                                <del>B</del>
-                                                <add>Konzeptsb</add>
+                                                <del>Konzeptsb</del>
+                                                <add>B</add>
                                           </choice>eamte der Landesregierung berufen, auf den in
                                           diesem Fall auch die Bestimmungen des Absatzes 2 Anwendung
                                           finden.</p>
@@ -2614,9 +2623,9 @@
                                           Gründen kann auf Beschluss der Bundesregierung mit
                                           Zustimmung des Bundesrates oder auf Ersuchen des
                                           betreffenden Landtages zur Aufrechterhaltung der Ordnung
-                                          und Sicherheit <emph>in ausserordentlichen Fällen</emph>
-                                          vom Bundespräsidenten ein ausserordentlicher
-                                          Bundeskommissär bestellt werden. </p>
+                                          und Sicherheit <del>in ausserordentlichen Fällen </del>vom
+                                          Bundespräsidenten ein ausserordentlicher Bundeskommissär
+                                          bestellt werden. </p>
                                     <p type="legal_section"><label>(2)</label> In diesem Falle sind
                                           alle Landesorgane an die Weisungen des Bundeskommissärs
                                           unmittelbar gebunden.</p>
@@ -2663,7 +2672,6 @@
                                           angehören und in den letzten fünf Jahren weder Mitglied
                                           der Bundesregierung noch einer Landesregierung gewesen
                                           sein.</p>
-                                    <p type="legal_section">Gelobung!</p>
                               </div>
                               <div type="article">
                                     <pb facs="#facs_122" n="122" xml:id="img_0122" break="yes"/>
@@ -2770,11 +2778,9 @@
                                     <p type="legal_section"><label>(1) </label> Vor den Gesetze sind
                                           alle Staatsbürger gleich. Vorrechte der Geburt, der
                                           Nationalität und der Konfession sind für immer
-                                          ausgeschlossen. </p>
-                                    <p type="legal_section"><label>(2) </label> Kein
-                                          Bundesangehöriger <emph>von einer ausländischen
-                                                Regierung</emph>
-                                          <emph>Titel oder Orden annehmen.</emph></p>
+                                          ausgeschlossen. <del><label>(2) </label> Kein
+                                                Bundesangehöriger darf von einer ausländischen
+                                                Regierung Titel oder Orden annehmen.</del></p>
                               </div>
                               <div type="article">
                                     <pb facs="#facs_131" n="131" xml:id="img_0131" break="yes"/>
@@ -2797,8 +2803,8 @@
                                     <fw type="pageNum">- 111 - </fw>
                                     <head>Artikel 111 </head>
                                     <p type="legal_section">Die öffentlichen Aemter und Funktionen
-                                          sind für alle Staatsbürger ohne Unterschied nach Maßgabe
-                                          des Gesetzes gleich zugänglich.</p>
+                                          sind für alle Staatsbürger ohne Unterschied <add>nach
+                                                Maßgabe des Gesetzes </add>gleich zugänglich.</p>
                               </div>
                               <div type="article">
                                     <pb facs="#facs_133" n="133" xml:id="img_0133" break="yes"/>
@@ -2898,9 +2904,11 @@
                                     <p type="legal_section"><label>(1)</label> Alle
                                           Bundesangehörigen haben das nur durch das Strafgesetz
                                           eingeschränkte Recht, Vereine zu bilden. Dieses Recht darf
-                                          durch Ausführungsgesetze nicht gemindert werden.
-                                                <emph>Insbesondere</emph> Eine Sonderbehandlung der
-                                          politischen Vereine ist ausgeschlossen. </p>
+                                          durch Ausführungsgesetze nicht gemindert werden. <choice>
+                                                <del>Insbesondere ist e</del>
+                                                <add>E</add>
+                                          </choice>ine Sonderbehandlung der politischen Vereine ist
+                                          ausgeschlossen. </p>
                                     <p type="legal_section"><label>(2)</label> Für Vereinigungen,
                                           die religiöse Zwecke verfolgen, gelten dieselben
                                           Bestimmungen. </p>
@@ -3023,11 +3031,10 @@
                                                 Staates.</del> Der Staat gewährt ihnen Schutz und
                                           nimmt an ihrer Pflege teil.<del> Die Denkmäler der Kunst,
                                                 der Geschichte und der Natur sowie die Landschaft
-                                                geniessen den Schutz und die Pflege des
-                                                Staates.</del></p>
-                                    <p type="legal_section"><del><label>(2)</label> Der Bund hat die
-                                                Abwanderung derSchätze von Kunst und Wissenschaft in
-                                                das Ausland zu verhüten.</del></p>
+                                                geniessen den Schutz und die Pflege des Staates.
+                                                  <label>(2)</label> Der Bund hat die Abwanderung
+                                                derSchätze von Kunst und Wissenschaft in das Ausland
+                                                zu verhüten.</del></p>
                               </div>
                               <div type="article">
                                     <pb facs="#facs_149" n="149" xml:id="img_0149" break="yes"/>
@@ -3232,8 +3239,9 @@
                                           steht unter dem besonderen Schutz des Bundes. </p>
                                     <p type="legal_section"><label>(2)</label> Der Sonntag und die
                                           staatlich anerkannten Feiertage bleiben als Tage der
-                                          Arbeitsruhe gesetzlich geschützt. [(3) Der Bund schafft
-                                          ein einheitliches Arbeitsrecht.]</p>
+                                          Arbeitsruhe gesetzlich geschützt.</p>
+                                    <p type="legal_section"><label>(3)</label> Der Bund schafft ein
+                                          einheitliches Arbeitsrecht.</p>
                               </div>
                               <div type="article">
                                     <pb facs="#facs_162" n="162" xml:id="img_0162" break="yes"/>
@@ -3332,11 +3340,10 @@
                                           <p type="legal_section"><label>(2)</label> Doch kann, wenn
                                                 die Entscheidung oder Verfügung einer Landesbehörde
                                                 die Interessen des Bundes verletzt, auch die
-                                                Bundesregierung * den Verwaltungsgerichtshof
-                                                anrufen.</p>
-                                          <p type="legal_section">*) wenn die Entscheidung oder
-                                                Verfügung einer Bundesbehörde die Interessen eines
-                                                Landes verletzt, die zuständige Landesregierung</p>
+                                                Bundesregierung <add>wenn die Entscheidung oder
+                                                  Verfügung einer Bundesbehörde die Interessen eines
+                                                  Landes verletzt, die zuständige Landesregierung
+                                                </add>den Verwaltungsgerichtshof anrufen.</p>
                                     </div>
                                     <div type="article">
                                           <pb facs="#facs_170" n="170" xml:id="img_0170" break="yes"/>
@@ -3394,14 +3401,14 @@
                                     <div type="article">
                                           <pb facs="#facs_173" n="173" xml:id="img_0173" break="yes"/>
                                           <fw type="pageNum">- 152 - </fw>
-                                          <head>[Artikel 152</head>
-                                          <p type="legal_section"> Jedem Senate des
+                                          <head>Artikel 152</head>
+                                          <p type="legal_section">Jedem Senate des
                                                 Verwaltungsgerichtshofes, der über die angefochtene
                                                 Entscheidung oder Verfügung einer
                                                 Landesverwaltungsbehörde zu erkennen hat, soll
                                                 wenigstens ein Richter angehören, der aus dem
                                                 Justiz- oder Verwaltungsdienst in dem betreffenden
-                                                Lande hervorgegangen ist.]</p>
+                                                Lande hervorgegangen ist.</p>
                                     </div>
                                     <div type="article">
                                           <pb facs="#facs_174" n="174" xml:id="img_0174" break="yes"/>
@@ -3510,9 +3517,11 @@
                                                 Bundesregierung, über Verfassungswidrigkeit von
                                                 Bundesgesetzen auf Antrag einer Landesregierung. </p>
                                           <p type="legal_section"><label>(2)</label> Der Antrag der
-                                                Bundesregierung * kann jederzeit gestellt werden; er
-                                                ist sofort der zuständigen Landesregierung von der
-                                                Bundesregierung bekanntzugeben. </p>
+                                                Bundesregierung <add>sowie derjenige der
+                                                  Landesregierung </add>kann jederzeit gestellt
+                                                werden; er ist sofort der zuständigen
+                                                Landesregierung von der Bundesregierung
+                                                bekanntzugeben. </p>
                                           <p type="legal_section"><label>(3)</label> Das
                                                 stattgebende Erkenntnis des Verfassungsgerichtshofes
                                                 bewirkt die Aufhebung des Gesetzes und verpflichtet
@@ -3524,8 +3533,6 @@
                                                 Verfassungsgerichtshof ist bei der Prüfung der
                                                 Verfassungsmässigkeit von Gesetzen an keinerlei
                                                 Schranken gebunden.</p>
-                                          <p type="legal_section">* sowie derjenige der
-                                                Landesregierung </p>
                                     </div>
                                     <div type="article">
                                           <pb facs="#facs_182" n="182" xml:id="img_0182" break="yes"/>
@@ -3586,9 +3593,9 @@
                                                 stattgebende Erkenntnis des Verfassungsgerichtshofes
                                                 bewirkt die Aufhebung der verfassungswidrigen
                                                 Entscheidung oder Verfügung. Die Behörden sind bei
-                                                jeder Kundgebung der neu zu treffenden Entscheidung
-                                                oder Verfügung an die Rechtsanschauung des
-                                                Verfassungsgerichtshofes gebunden. </p>
+                                                  <add>jeder Kundgebung </add>der neu zu treffenden
+                                                Entscheidung oder Verfügung an die Rechtsanschauung
+                                                des Verfassungsgerichtshofes gebunden. </p>
                                     </div>
                                     <div type="article">
                                           <pb facs="#facs_186" n="186" xml:id="img_0186" break="yes"/>
