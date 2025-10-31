@@ -643,10 +643,10 @@
                         <div type="section">
                             <head>1. Die Staatsgesetzgebung</head>
                             <div type="article">
-                                <head><label>§<choice>
+                                <head>§<choice>
                                             <del>20.</del>
                                             <add> 16. </add>
-                                        </choice></label></head>
+                                        </choice></head>
                                 <p type="legal_section"><choice>
                                         <sic>Die</sic>
                                         <corr/>
@@ -852,11 +852,11 @@
                                     enthält die Wahlordnung.</p>
                             </div>
                             <div type="article">
-                                <head><label>§ <choice>
+                                <head>§ <choice>
                                             <del>24. </del>
                                             <add>20.</add>
                                         </choice>
-                                    </label></head>
+                                    </head>
                                 <p type="legal_section">Die Abgeordneten des Volkshauses werden auf
                                     die Dauer von drei Jahren gewählt. Nach Ablauf der Wahlperiode
                                     erfolgen <del>allgemeine Wahl</del>Neuwahlen. Gewesene
@@ -1522,11 +1522,11 @@
                                     sondern gilt als Beschluss der Nationalversammlung.</p>
                             </div>
                             <div type="article">
-                                <head><label><del>§ 27</del><choice>
+                                <head><del>§ 27</del><choice>
                                             <del>§ 25</del>
                                             <add>§ 36.</add>
                                         </choice>
-                                    </label></head>
+                                        </head>
                                 <p type="legal_section">Der Staatsrechnungsabschluss <add>über das
                                         abgelaufene Haushaltgesetz</add> wird am ersten Wochentage
                                     des Dezember <add>zugleich</add>
@@ -2196,10 +2196,10 @@
                     <div type="article">
                         <pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/>
                         <fw type="pageNum">15</fw>
-                        <head><label><del><choice>
+                        <head><del><choice>
                                         <sic>§ 42 </sic>
                                         <corr>41</corr>
-                                    </choice></del><add>§ 55</add></label></head>
+                                    </choice></del><add>§ 55</add></head>
                         <p type="legal_section">Jeder Landtag bestellt aus seiner Mitte einen
                             Landesausschuß, dieser <choice>
                                 <del>gibt </del>
@@ -2213,8 +2213,8 @@
                                 Landesausschuß dem Landtag verantwortlich.</add></p>
                     </div>
                     <div type="article">
-                        <head><label>§ 56 <del>§43</del>
-                                <del>§ 42 </del></label></head>
+                        <head>§ 56 <del>§43</del>
+                                <del>§ 42 </del></head>
                         <p type="legal_section">Der Landeshauptmann und seine beiden Stellvertreter
                             bilden zusammen die Landesregierung. Sie führt <del>kolle</del>
                             körperschaftlich diejenigen Agenden, die durch das Gesetz vom 19. Mai
@@ -2248,10 +2248,10 @@
                             </choice> zur persönlichen Erledigung vorbehalten werden.</p>
                     </div>
                     <div type="article">
-                        <head><label><choice>
+                        <head><choice>
                                     <del>§ 45 44 § 54 </del>
                                     <add>§ 58</add>
-                                </choice></label></head>
+                                </choice></head>
                         <p type="legal_section">Am Vororte des Kreises, <del>und</del> am Sitze des
                             Kreistages <add>und der Kreis- und Landesgerichte</add>werden
                             Kreisregierungen <add> als oberste und zusammenfassende
