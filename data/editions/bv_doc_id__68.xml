@@ -101,7 +101,7 @@
                 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="structured">
+        <revisionDesc status="text_correct">
                   <change when="2024-10-13" who="#s_kury">divs eingefügt</change>
                   <change when="2024-10-26" who="#m_huber">formatting completed</change>
                   <change when="2025-01-10" who="#t_voegtlin">Text gegengelesen</change>
@@ -110,8 +110,8 @@
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__68/files/images/IMG_0002/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__68/files/images/IMG_0003/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__68/files/images/IMG_0004/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__68/files/images/IMG_0005/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__68/files/images/IMG_0006/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__68/files/images/IMG_0007/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__68/files/images/IMG_0008/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__68/files/images/IMG_0009/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__68/files/images/IMG_0010/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__68/files/images/IMG_0011/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__68/files/images/IMG_0012/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__68/files/images/IMG_0013/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__68/files/images/IMG_0014/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_15"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__68/files/images/IMG_0015/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_16"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__68/files/images/IMG_0016/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_17"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__68/files/images/IMG_0017/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_18"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__68/files/images/IMG_0018/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_19"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__68/files/images/IMG_0019/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_20"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__68/files/images/IMG_0020/full/full/0/default.jpg" width="3840px" height="5760px"/></surface></facsimile>
     <text type="Verfassungsentwurf">
         <body><div type="main">
-                        <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
-                        <head>Vorentwurf einer österreichischen Verfassung </head>
+                        <head><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>Vorentwurf
+                              einer österreichischen Verfassung </head>
                         <p>
                               <emph>unter Mitwirkung von Mitgliedern der Großdeutschen Vereinigung
                                     ausgearbeitet von Mitgliedern der Deutschen Freiheits- und
@@ -142,8 +142,8 @@
                               <div type="article">
                                     <head>Art. 2. </head>
                                     <head>Bundesstaat.</head>
-                                    <p type="legal_section"> Österreich ist ein Bundesstaat,
-                                          gebildet aus den selbständigen Ländern Niederösterreich,
+                                    <p type="legal_section">Österreich ist ein Bundesstaat, gebildet
+                                          aus den selbständigen Ländern Niederösterreich,
                                           Oberösterreich, Salzburg, Steiermark, Kärnten, Tirol und
                                           Vorarlberg. Sobald die Stadt Wien aus dem Verbande des
                                           Landes Niederösterreich ausscheidet und zu einem
@@ -172,9 +172,8 @@
                                           Verfassung erfolgen.</p>
                               </div>
                               <div type="article">
-                                    <fw type="pageNum">- 1 -</fw>
-                                    <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
-                                    <head>Art. 4. </head>
+                                    <head><fw type="pageNum">-1-</fw><pb facs="#facs_3" n="3"
+                                                xml:id="img_0003" break="yes"/>Art. 4. </head>
                                     <head>Staatshoheit.</head>
                                     <p type="legal_section">Die Länder sind selbständig, soweit ihre
                                           Selbständigkeit nicht durch die Verfassung zugunsten des
@@ -269,14 +268,15 @@
                                                   Fernsprecher, Schiffahrt, außer auf einem See, der
                                                   nur zu einem Lande gehört, Luft- und
                                                   Kraftfahrzeuge, Bundesbahnen, Bundesstraßen. </item>
-                                                <fw type="pageNum">- 2 -</fw>
-                                                <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
-                                                <label>9. </label>
-                                                <item>Bergbauangelegenheiten, Energiewirtschaft mit
+                                                <label>9.</label>
+                                                <item><fw type="pageNum">- 2 -</fw><pb
+                                                  facs="#facs_4" n="4" xml:id="img_0004" break="yes"
+                                                  />Bergbauangelegenheiten, Energiewirtschaft mit
                                                   Ausnahme der Elektrizität, Kraft- und
                                                   Maschinenanlagen und Regelung der technischen
-                                                  Gebrauchsformen. <label>10.</label> Das Volks-,
-                                                  Mittel- und Hochschulwesen. </item>
+                                                  Gebrauchsformen. </item>
+                                                <label>10.</label>
+                                                <item> Das Volks-, Mittel- und Hochschulwesen. </item>
                                                 <label>11.</label>
                                                 <item> Das Bundesfinanzwesen: die Regelung des
                                                   Bundeshaushaltes, der Bundessteuern, der
@@ -527,18 +527,17 @@
                               <div type="article">
                                     <head>Art. 20. </head>
                                     <head>Versammlungsfreiheit.</head>
-                                    <p type="legal_section"> Alle Staatsbürger haben das Recht, sich
+                                    <p type="legal_section">Alle Staatsbürger haben das Recht, sich
                                           unbewaffnet zu versammeln. </p>
                                     <p type="legal_section">Versammlungen unter freiem Himmel
                                           bedürfen der Anmeldung und können bei Gefahr für die
                                           öffentliche Sicherheit verboten werden.</p>
                               </div>
                               <div type="article">
-                                    <fw type="pageNum">- 5 -</fw>
-                                    <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
-                                    <head>Art. 21. </head>
+                                    <head><fw type="pageNum">- 5 -</fw><pb facs="#facs_7" n="7"
+                                                xml:id="img_0007" break="yes"/>Art. 21. </head>
                                     <head>Freiheit der Vereinsbildung.</head>
-                                    <p type="legal_section"> Alle Staatsbürger haben das Recht,
+                                    <p type="legal_section">Alle Staatsbürger haben das Recht,
                                           Vereine oder Gesellschaften zu bilden, sofern deren Zweck
                                           den Strafgesetzen nicht zuwiderläuft. Der Verein erwirbt
                                           die Rechtsfähigkeit gemäß den Vorschriften des
@@ -616,9 +615,9 @@
                                           Handlungen, wird durch die Schulgesetze geregelt. </p>
                                     <fw type="pageNum"> 6 -</fw>
                               </div>
-                              <head>Das Recht auf Unterricht</head>
+                              <head><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>Das
+                                    Recht auf Unterricht</head>
                               <div type="article">
-                                    <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
                                     <head>Art. 26. </head>
                                     <p type="legal_section">Die Kunst, die Wissenschaft und ihre
                                           Lehre sind frei. </p>
@@ -849,11 +848,11 @@
                                                   Der Bundespräsident kann nicht gleichzeitig
                                                   Mitglied des Bundestages oder Bundesrates sein.
                                                   Das Nähere bestimmt ein besonderes Gesetz.</p>
+                                                <fw type="pageNum">- 9 -</fw>
                                           </div>
                                           <div type="article">
-                                                <fw type="pageNum">- 9 -</fw>
-                                                <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
-                                                <head>Art. 42.  </head>
+                                                <head><pb facs="#facs_11" n="11" xml:id="img_0011"
+                                                  break="yes"/>Art. 42. </head>
                                                 <head>Wirkungskreis des Bundespräsidenten.</head>
                                                 <p type="legal_section"><label>1.</label> Er
                                                   vertritt den Bund nach außen und beglaubigt die
@@ -1140,11 +1139,11 @@
                                                   über die Verhandlungen in den öffentlichen
                                                   Sitzungen des Bundestages und seiner Ausschüsse
                                                   bleiben von jeder Verantwortung frei.</p>
+                                                <fw type="pageNum">- 12 -</fw>
                                           </div>
                                           <div type="article">
-                                                <fw type="pageNum">- 12 -</fw>
-                                                <pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>
-                                                <head>Art. 58 </head>
+                                                <head><pb facs="#facs_14" n="14" xml:id="img_0014"
+                                                  break="yes"/>Art. 58 </head>
                                                 <head>Zuständigkeit des Bundestages.</head>
                                                 <p type="legal_section"> Dem Bundestage obliegt: <list>
                                                   <label>1.</label>
@@ -1152,13 +1151,13 @@
                                                   Bundesangelegenheiten und die Kriegserklärung. Der
                                                   Abschluß von Staatsverträgen und die Festsetzung
                                                   des Staatshaushaltes haben in Form von Gesetzen zu
-                                                  erfolgen.  </item>
+                                                  erfolgen. </item>
                                                   <label>2.</label>
                                                   <item>Die Erstattung des Vorschlages zur Ernennung
                                                   des Bundeskanzlers unter Namhaftmachung von 3
-                                                  Bewerbern.  </item>
+                                                  Bewerbern. </item>
                                                   <label>3.</label>
-                                                  <item>Ablehnung der Bundesminister.  </item>
+                                                  <item>Ablehnung der Bundesminister. </item>
                                                   <label>4.</label>
                                                   <item>Das Recht, die Geschäftsführung der
                                                   Regierung zu überprüfen, Anfragen zu stellen,
@@ -1172,7 +1171,7 @@
                                                   Bundeskanzler und die Minister in den
                                                   Anklagezustand zu versetzen und einen
                                                   Volksentscheid über die Absetzung des
-                                                  Bundespräsidenten zu verlangen.  </item>
+                                                  Bundespräsidenten zu verlangen. </item>
                                                   </list></p>
                                           </div>
                                           <div type="article">
@@ -1403,19 +1402,20 @@
                                                 Bezirkswirtschaftskammer ist folgender: <list>
                                                   <label>1.</label>
                                                   <item>Beratung aller wirtschaftlichen und
-                                                  sozialpolitischen Angelegenheiten des Bezirkes;  </item>
+                                                  sozialpolitischen Angelegenheiten des Bezirkes; </item>
                                                   <label>2.</label>
                                                   <item> Erstattung von Gutachten und Vorschlägen in
                                                   Fällen der Sozialisierung und Planwirtschaft; </item>
                                                   <label>3.</label>
                                                   <item>Entscheidung über Beschwerden gegen
-                                                  Beschlüsse der Betriebsräte; </item>
-                                                  <fw type="pageNum">- 15 -</fw>
-                                                  <pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>
+                                                  Beschlüsse der Betriebsräte; <fw type="pageNum">-
+                                                  15 -</fw></item>
                                                   <label>4. </label>
-                                                  <item>die Durchführung der Geschäfte der sozialen
-                                                  Versicherung, des Arbeitsnachweises und die
-                                                  Schlichtung von Arbeit- und Lohnstreitigkeiten; </item>
+                                                  <item><pb facs="#facs_17" n="17" xml:id="img_0017"
+                                                  break="yes"/>die Durchführung der Geschäfte der
+                                                  sozialen Versicherung, des Arbeitsnachweises und
+                                                  die Schlichtung von Arbeit- und
+                                                  Lohnstreitigkeiten; </item>
                                                   <label>5.</label>
                                                   <item>die Entsendung von Laieräten an die
                                                   Bezirksbehörde und an die Laiengerichte. </item>
@@ -1786,12 +1786,12 @@
                                     <head>Art. 97. </head>
                                     <p type="legal_section">Die nähere Organisation und das
                                           Verfahren wird durch Bundesgesetz geregelt. </p>
+                                    <fw type="pageNum">- 19 -</fw>
                               </div>
                         </div>
                         <div type="section">
-                              <fw type="pageNum">- 19 -</fw>
-                              <pb facs="#facs_21" n="21" xml:id="img_0021" break="yes"/>
-                              <head>VIII. Hauptteil.</head>
+                              <head><pb facs="#facs_21" n="21" xml:id="img_0021" break="yes"/>VIII.
+                                    Hauptteil.</head>
                               <head>Die Rechnungskontrolle im Bunde.</head>
                               <div type="article">
                                     <head>Art. 98. </head>
@@ -1829,10 +1829,10 @@
                                                   Staatsschulden, insoweit sie eine Verpflichtung
                                                   des Bundes beinhalten. Die Gegenzeichnung ist nur
                                                   der Ausdruck der Gesetzmäßigkeit und
-                                                  rechnungsmäßigen Richtigkeit der Gebarung  </item>
+                                                  rechnungsmäßigen Richtigkeit der Gebarung </item>
                                                 <label>2.</label>
                                                 <item>Die Abfassung des Bundesrechnungsabschlusses
-                                                  und der Landesrechnungsabschlüsse  </item>
+                                                  und der Landesrechnungsabschlüsse </item>
                                           </list></p>
                               </div>
                               <div type="article">

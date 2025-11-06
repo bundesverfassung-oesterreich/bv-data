@@ -109,7 +109,7 @@
                               1920 </date>
                   </creation>
             </profileDesc>
-            <revisionDesc status="structured">
+            <revisionDesc status="text_correct">
                   <change when="2024-09-17" who="#cfh">document automatically created</change>
                   <change when="2024-09-19" who="#m_huber">div created and partly formatted</change>
                   <change when="2024-10-04" who="#s_kury">Test</change>
@@ -143,12 +143,12 @@
       <text type="Verfassungsentwurf">
             <body>
                   <div type="main">
-                        <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
                         <div type="preamble">
-                              <p>Bekanntlich hat der Unterausschuß des Verfassungsausschusses auf
-                                    Grundlage der verschiedenen Entwürfe für eine Bundesverfassung
-                                    die Materie mit Ausnahme des Abschnittes über die Grund- und
-                                    Freiheitsrechte durchberaten.</p>
+                              <p><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>Bekanntlich
+                                    hat der Unterausschuß des Verfassungsausschusses auf Grundlage
+                                    der verschiedenen Entwürfe für eine Bundesverfassung die Materie
+                                    mit Ausnahme des Abschnittes über die Grund- und Freiheitsrechte
+                                    durchberaten.</p>
                               <p> Im nachfolgenden wird nunmehr der Entwurf, wie er im
                                     Unterausschusse beschlossen wurde, in seiner Gänze der
                                     Öffentlichkeit zur Kenntnis gebracht. Bei der durch die
@@ -160,10 +160,10 @@
                         <head>Entwurf eines Gesetzes, betreffend die Verfassung der Republik
                               Österreich.</head>
                         <div type="section">
-                              <head> Erstes Hauptstück.</head>
+                              <head>Erstes Hauptstück.</head>
                               <head>Allgemeine Bestimmungen. </head>
                               <div type="article">
-                                    <head>Artikel 1. </head>
+                                    <head>Artikel 1.</head>
                                     <p type="legal_section"><label>(1)</label> Österreich ist eine
                                           demokratische Republik. </p>
                                     <p type="legal_section"><label>(2)</label> Alle öffentlichen
@@ -171,7 +171,7 @@
                                           ausgeübt. </p>
                               </div>
                               <div type="article">
-                                    <head>Artikel 2. </head>
+                                    <head>Artikel 2.</head>
                                     <p type="legal_section"><label>(1)</label> Österreich ist ein
                                           Bundesstaat. </p>
                                     <p type="legal_section"><label>(2)</label> Der Bundesstaat wird
@@ -474,7 +474,9 @@
                                           Bundesgesetzgebung bloß die Regelung der Grundsätze
                                           vorbehalten ist, obliegt die nähere Ausführung der
                                           Landesgesetzgebung innerhalb des bundesgesetzlich
-                                          festgelegten Rahmens. Das Bundes<pb facs="#facs_3" n="3" xml:id="img_0003" break="no"/><fw type="pageNum">2</fw>gesetz kann für die Erlassung der
+                                          festgelegten Rahmens. Das Bundes<pb facs="#facs_3" n="3"
+                                                xml:id="img_0003" break="no"/><fw type="pageNum"
+                                                >2</fw>gesetz kann für die Erlassung der
                                           Ausführungsgesetze eine Frist bestimmen, die nicht kürzer
                                           als drei Monate und nicht länger als ein Jahr sein darf.
                                           Wird diese Frist von einer Landesgesetzgebung nicht
