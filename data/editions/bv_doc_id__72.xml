@@ -276,7 +276,9 @@
          <div type="main">
             <div type="section">
                <pb facs="#facs_1" n="1" xml:id="img_0001" break="yes"/>
-               <head>Erster Abschnitt. </head>
+               <fw type="pageNum">-1-</fw>
+               <note type="comment"><add>letzte Fassung von Linz</add></note>
+               <head> Erster Abschnitt. </head>
                <head>Allgemeine Bestimmungen.</head>
                <div type="article">
                   <head>Artikel 1. </head>
@@ -312,7 +314,8 @@
                      absoluter Mehrheit der gültig abgegebenen Stimmen für die Angliederung an das
                      andere Land, dann erfolgt die Gebietsänderung, durch einfaches Gesetz dieses
                      Landes.</p>
-                  <p type="legal_section"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><fw type="pageNum">2</fw><label>(3)</label> Entscheidet die
+                  <p type="legal_section"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"
+                        /><fw type="pageNum">2</fw><label>(3)</label> Entscheidet die
                      Volksabstimmung für die Bildung eines neuen Landes, dann ist, wenn das Gebiet
                      wenigstens 140.000 Einwohner zählt, durch den Präsidenten des Bundestages nach
                      dem Bundestagswahlrecht ein verfassunggebender Landtag zur Konstituierung des
@@ -466,7 +469,8 @@
                         <item> das Gesundheitswesen mit Ausnahme der Heil- und Pflegeanstalten und
                            Ambularien, des Kurorte-, Leichen- und Begräbniswesens, sowie des
                            Gemeindesanitätsdienstes und Rettungswesens; das Volkswohnungs- und
-                           Volkspflegestättenwesen; das Veterinär<pb facs="#facs_6" n="6" xml:id="img_0006" break="no"/><fw type="pageNum">6</fw>wesen: </item>
+                           Volkspflegestättenwesen; das Veterinär<pb facs="#facs_6" n="6"
+                              xml:id="img_0006" break="no"/><fw type="pageNum">6</fw>wesen: </item>
                         <label>10.</label>
                         <item>das Verwaltungs- und das Verwaltnugsstrafverfahren, einschließlich der
                            Zwangsvollstreckung, sowie die allgemeinen Bestimmungen des
@@ -537,7 +541,8 @@
                   <p type="legal_section"><label>(1)</label> Durch die Bestimmungen der Artikel 9
                      bis 12 über die Zuständigkeit in Gesetzgebung und Vollziehung wird die Stellung
                      des Bundes als Träger von Privatrechten in keiner Weise berührt.</p>
-                  <p type="legal_section"><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><fw type="pageNum">8</fw><label>(2)</label> Ebenso bleibt es dem Bunde
+                  <p type="legal_section"><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"
+                        /><fw type="pageNum">8</fw><label>(2)</label> Ebenso bleibt es dem Bunde
                      auch unbenommen, zu Förderung des wirtschaftlichen und kulturellen Lebens auf
                      allen Gebieten Unternehmungen und Einrichtungen zu schaffen und zu erhalten,
                      Veranstaltungen zu treffen und finanzielle Mittel zur Verfügung zu stellen. </p>
@@ -993,10 +998,11 @@
                      </div>
                      <div type="article">
                         <head>Artikel 51. </head>
-                        <p type="legal_section">Der Präsident des Bundestages kann das ihm
-                           zustehende Recht der Ernennung von Bundesangestellten bestimmter
-                           Kategorien oder Rangsklassen den ressortmäßig zuständigen Mitgliedern der
-                           Bundesregierung übertragen. </p>
+                        <p type="legal_section"><note type="comment"><add><gap reason="illegible"
+                                 /></add>
+                           </note>Der Präsident des Bundestages kann das ihm zustehende Recht der
+                           Ernennung von Bundesangestellten bestimmter Kategorien oder Rangsklassen
+                           den ressortmäßig zuständigen Mitgliedern der Bundesregierung übertragen. </p>
                      </div>
                      <div type="article">
                         <head>Artikel 52. </head>
@@ -1243,8 +1249,13 @@
                   </div>
                   <div type="article">
                      <head>Artikel 77. </head>
-                     <p type="legal_section"><label>(1)</label> Das Volk hat an der Rechtsprechung
-                        mitzuwirken. </p>
+                     <p type="legal_section"><label>(1)</label> Das Volk <choice>
+                           <del>ist</del>
+                           <add>hat</add>
+                        </choice> an der Rechtsprechung <choice>
+                           <del>zu beteiligen</del>
+                           <add>mitzuwirken</add>
+                        </choice>. </p>
                      <p type="legal_section"><label>(2)</label> Bei den mit schweren Strafen
                         bedrohten Verbrechen die das Gesetz zu bezeichnen hat, sowie bei allen
                         politischen Verbrechen und Vergehen entscheiden Geschworene über die Schuld
@@ -1254,10 +1265,10 @@
                   </div>
                   <div type="article">
                      <head>Artikel 78. </head>
-                     <p type="legal_section"><label>(1)</label> Als oberste Instanz in Zivil- und
-                        Strafrechtssachen besteht der Oberste Gerichtshof in Wien. </p>
-                     <p type="legal_section"><label>(2)</label> Die Hälfte seiner Mitglieder ist aus
-                        dem Kreise Rechtskundiger vom Bundestage dem Präsidenten vorzuschlagen. </p>
+                     <p type="legal_section">Als oberste Instanz in Zivil- und Strafrechtssachen
+                        besteht der Oberste Gerichtshof in Wien. <add>
+                           <note type="comment"><gap reason="illegible"/></note>
+                        </add></p>
                   </div>
                   <div type="article">
                      <pb facs="#facs_28" n="28" xml:id="img_0028" break="yes"/>
@@ -1556,7 +1567,7 @@
                <div type="article">
                   <head>Artikel 109. </head>
                   <p type="legal_section"><label>(1)</label> Die Auswanderungsfreiheit darf
-                     unbeschadet der Verhinderung der Steuerflucht durch Gesetze nicht eingeschränkt
+                           <add><gap reason="illegible"/></add> durch Gesetze nicht eingeschränkt
                      werden. </p>
                   <p type="legal_section"><label>(2)</label> Der Verlust der Staatsbürgerschaft
                      infolge Auswanderung wird durch Bundesgesetz geregelt. </p>
@@ -1654,8 +1665,8 @@
                <div type="article">
                   <head>Artikel 120. </head>
                   <p type="legal_section"><label>(1)</label> Alle Staatsbürger haben das Recht, sich
-                     ohne Anmeldung oder besondere Erlaubnis unbewaffnet zu versammeln. Dieses Recht
-                     darf durch Ausführungsgesetze nicht gemindert werden.</p>
+                     ohne Anmeldung oder besondere Erlaubnis unbewaffnet zu versammeln. <add><gap
+                           reason="illegible"/></add></p>
                   <p type="legal_section"><label> (2) </label>Versammlungen unter freiem Himmel
                      können durch Bundesgesetz anmeldepflichtig gemacht und bei unmittelbarer
                      Gefährdung der Teilnehmer oder anderer Personen verboten werden. </p>
@@ -1826,8 +1837,10 @@
                </div>
                <div type="article">
                   <head>Artikel 139. </head>
-                  <p type="legal_section"><label>(1)</label> Die Arbeitskraft steht unter dem
-                     besonderen Schutz des Bundes. </p>
+                  <p type="legal_section"><label>(1)</label> Die Arbeit<choice>
+                        <del>erschaft</del>
+                        <add>skraft</add>
+                     </choice> steht unter dem besonderen Schutz des Bundes. </p>
                   <p type="legal_section"><label>(2)</label> Der Sonntag und die staatlich
                      anerkannten Feiertage bleiben als Tage der Arbeitsruhe gesetzlich geschützt. </p>
                   <p type="legal_section"><label>(3)</label> Die in den geltenden Gesetzen zugunsten
@@ -1843,9 +1856,12 @@
                <div type="article">
                   <head>Artikel 140. </head>
                   <p type="legal_section">Das Vereinigungsfreiheit zur Wahrung und Förderung der
-                        Arbeitsbedingungen<pb facs="#facs_46" n="46" xml:id="img_0046" break="yes"/><fw type="pageNum">45</fw> ist für jedermann und alle Berufe
-                     gewährleistet. Alle Abreden und Massnahemn, weche diese Freiheit einschränken
-                     oder zu behindern suchen, sind nichtig. </p>
+                     Arbeitsbedingungen <add>
+                        <note type="comment"><gap reason="illegible"/></note>
+                     </add><pb facs="#facs_46" n="46" xml:id="img_0046" break="yes"/><fw
+                        type="pageNum">45</fw> ist für jedermann und alle Berufe gewährleistet. Alle
+                     Abreden und Massnahemn, weche diese Freiheit einschränken oder zu behindern
+                     suchen, sind nichtig. </p>
                </div>
                <div type="article">
                   <head>Artikel 141. </head>
