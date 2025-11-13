@@ -100,11 +100,11 @@
               </date>
           </creation>
       </profileDesc>
-      <revisionDesc status="structured">
+      <revisionDesc status="text_correct">
             <change when="2025-09-03" who="#cfh">document automatically created</change>
             <change when="2025-09-27" who="#s_kury">Formatiert und gegengelesen bis S. 27 von
                 58</change>
-      </revisionDesc>
+        </revisionDesc>
   </teiHeader>
   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
     <surface ulx="0" uly="0" lrx="3140" lry="5046" xml:id="facs_2">
@@ -996,8 +996,8 @@
                         eigentlich überhaupt keine Ziffern nennen, denn sie sind fast Null.
                         Steiermark hat 219 Tonnen aufgebracht oder 2 ½ Prozent seines Kontingents,
                         Kärnten 61 Tonnen<pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"
-                            /><fw type="pageNum">10</fw>oder 32 Prozent seines Kontingents und Tirol
-                        61 ½ Tonnen oder 0,4 Prozent seines Kontingents.</p>
+                            /><fw type="pageNum">10</fw>oder 2,2 Prozent seines Kontingents und
+                        Tirol 61 ½ Tonnen oder 0,4 Prozent seines Kontingents.</p>
                     <p>Dieses Ergebnis der Aufbringung ist selbstverständlich für unsere Versorgung
                         von sehr unangenehmer Wirkung. Wir haben bereits vor einiger Zeit
                         veröffentlicht, daß der Kabinettsrat vorbehaltlich der Zustimmung der
@@ -4766,15 +4766,15 @@
                         wir ein bestimmtes Vielfaches des bisherigen Überweisungsbetrages den
                         Ländern geben und dadurch an den früheren Schlüssel anknüpfen. Die
                         Überweisungen waren im Jahre 1916 bei Niederösterreich — da ist noch Wien
-                        dabei — 33.4 Millionen, bei Oberösterreich 5.9, bei Salzburg 2.3, bei
-                        Steiermark 7.2, bei Kärnten 2.2 — und zwar für das ganze Gebiet —, bei Tirol
-                        3.3, bei Vorarlberg 0.6, im ganzen 55 Millionen Kronen.</p>
+                        dabei — 33,4 Millionen, bei Oberösterreich 5,9, bei Salzburg 2,3, bei
+                        Steiermark 7,2, bei Kärnten 2,2 — und zwar für das ganze Gebiet —, bei Tirol
+                        3,3, bei Vorarlberg 0,6, im ganzen 55 Millionen Kronen.</p>
                     <p>Bei den doppelten Überweisungen würde sich noch ein Defizit ergeben, das im
                         Kreditwege aufzubringen wäre. Der Kreditweg wird aber nicht jedem Lande
                         zugänglich sein. Wenn ich etwa die dreifachen Überweisungen für das ganze
                         Jahr 1919 annehme, wovon das, was schon bezogen wurde, abzuziehen wäre, so
                         würde das im ganzen etwa 172 Mitsionen Kronen ausmachen. Das würde aber nach
-                        dem summarischen Defizit von 151 Mittionen den Betrag überschreiten, den die
+                        dem summarischen Defizit von 151 Millionen den Betrag überschreiten, den die
                         Länder brauchen.</p>
                 </sp>
                 <sp>
@@ -4822,7 +4822,7 @@
                         gewissen Voraussetzungen in der Lage, das zu tun, weil wir im vorigen Jahre
                         Landeskassenscheine ausgegeben haben, die sehr in Anspruch genommen worden
                         sind. Das Publikum nimmt sie so gerne an, daß sie jetzt thesauriert, in
-                        Strümpfen angesammelt und mit Agio gehandelt werden. Wir haben für 19.5
+                        Strümpfen angesammelt und mit Agio gehandelt werden. Wir haben für 19,5
                         Millionen Kronen solche Kassenscheine ausgegeben. An dem Tage, an dem wir
                         die Kassenscheine einlösen, müssen wir 19.5 Millionen Kronen bei der
                         Ausgabestelle verfügbar haben. Das Staatsamt für Finanzen hat uns gesagt,
@@ -4830,7 +4830,7 @@
                         darauf geantwortet, daß wir beim Landesfonds allein über 26 Millionen
                         Kriegsanleihe und 2 Millionen Staatsschulden haben. Das sind 28 Millionen,
                         und wenn wir die Kriegsanleihe bloß mit 75 Prozent einschätzen, so sind
-                        diese 19.5 Millionen Kronen an Kassenscheinen dadurch gedeckt, unter der
+                        diese 19,5 Millionen Kronen an Kassenscheinen dadurch gedeckt, unter der
                         Voraussetzung, daß diese Papiere überhaupt noch etwas wert sind. Nun haben
                         wir, um über die Schwierigkeiten hinauszukommen, einen Einlösungstermin für
                         diese Kassenscheine verlangt, und zwar bis zum 31. März 1920. Gegenwärtig
@@ -4840,11 +4840,9 @@
                         Referenten aus dem Staatsamt für Finanzen, mir zu sagen, woher wir die
                         weiteren 18 Millionen bekommen sollen, ohne sie zu stehlen. (Staatskanzler
                         Dr. <emph>Renner</emph>: Das würde aber gehen ungefähr mit dem Dreifachen
-                        des Betrages.)
-                        <?oxy_comment_start author="Atkinson.J" timestamp="20251106T174010+0100" comment="Gegengelesen bis hier S. 54"?>Es<?oxy_comment_end?>
-                        würde die Sache schon bedeutend erleichtert werden, wenn das Staatsamt
-                        unserem Einlösungstermine zustimmen würde. Die Herren in Wien wundern sich,
-                        warum wir so wenig Vertrauen haben und in ihnen immer
+                        des Betrages.) Es würde die Sache schon bedeutend erleichtert werden, wenn
+                        das Staatsamt unserem Einlösungstermine zustimmen würde. Die Herren in Wien
+                        wundern sich, warum wir so wenig Vertrauen haben und in ihnen immer
                         <?oxy_comment_start author="Atkinson.J" timestamp="20251112T140908+0100" comment="Fremdwörter hervorgehoben. Ignorieren?"?>adversarii<?oxy_comment_end?>
                         und nicht
                         <?oxy_comment_start author="Atkinson.J" timestamp="20251112T140842+0100" comment="Fremdwörter hervorgehoben. Ignorieren?"?>amici<?oxy_comment_end?>
@@ -5133,143 +5131,157 @@
                         dieser Post aus. Dazu kommt noch, daß wir dem Staat für seine Spitäler einen
                         Zuschuß von 10.5 Millionen Kronen gewährt und aus eigenem gedeckt haben, so
                         daß wir in Summa über 70 Millionen Kronen nur für Wohlfahrtsinstitute, für
-                        die Armen- und Krankenpflege ausgegeben haben Außerdem haben wir bekanntlich
-                        ein sehr ausgeprägtes Mittelschulwesen und die Volksschulen, die gleichfalls
-                        etwa 24 Millionen oder 14 Prozent erfordern. Die Gehaltsregulierung der
-                        Lehrer allein wird aber 48 Millionen betragen oder es wird alles
-                        zusammengenommen 26 bis 27 Prozent, des Haushaltes von Niederösterreich
-                        ausmachen. Von einer dreifachen Dotation kann daher bei uns nicht die Rede
-                        sein. Im Jahre 1919 schließen wir mit einem Voranschlage ab, den wir
-                        außerordentlich gedrofjelt haben. Wir haben die Vorstände aller Departements
-                        zusammenberufen und beauftragt, in dieser Zeit nur das Allernotwendigste zu
-                        berücksichtigen; trotzdem beträgt der Voranschlag 180 Millionen Kronen
-                        gegenüber einer Bedeckung von 119 Missionen, so daß sich ein Defizit von 50
-                        Missionen ergibt. Außerdem haben wir aber 22 Missionen durch Darlehen
-                        aufnehmen müssen, um das Caufende decken zu können. Der Staat müßte uns
-                        zumindeft das Neunsache dessen zuweisen, was wir jetzt haben, damit wir nur
-                        einigermaßen den Abgang decken können. Von den hier genannten 34 Millionen
-                        Kronen bekommt mehr als zwei Drittel die Stadt Wien, die ja außzerdem mit
-                        400 Mitlionen Kronen Defizit abgeschlossen hat, so daß dem Lande
-                        Niederösterreich nur 124/- Millionen Kronen übrig bleiben. Wollen wir
+                        die Armen- und Krankenpflege ausgegeben haben.</p>
+                    <p>Außerdem haben wir bekanntlich ein sehr ausgeprägtes Mittelschulwesen und die
+                        Volksschulen, die gleichfalls etwa 24 Millionen oder 14 Prozent erfordern.
+                        Die Gehaltsregulierung der Lehrer allein wird aber 48 Millionen betragen
+                        oder es wird alles zusammengenommen 26 bis 27 Prozent, des Haushaltes von
+                        Niederösterreich ausmachen. Von einer dreifachen Dotation kann daher bei uns
+                        nicht die Rede sein. Im Jahre 1919 schließen wir mit einem Voranschlage ab,
+                        den wir außerordentlich gedrosselt haben. Wir haben die Vorstände aller
+                        Departements zusammenberufen und beauftragt, in dieser Zeit nur das
+                        Allernotwendigste zu berücksichtigen; trotzdem beträgt der Voranschlag 180
+                        Millionen Kronen gegenüber einer Bedeckung von 119 Millionen, so daß sich
+                        ein Defizit von 60 Millionen ergibt. Außerdem haben wir aber 22 Millionen
+                        durch Darlehen aufnehmen müssen, um das Laufende decken zu können. Der Staat
+                        müßte uns zumindest das Neunfache dessen zuweisen, was wir jetzt haben,
+                        damit wir nur einigermaßen den Abgang decken können. Von den hier genannten
+                        34 Millionen Kronen bekommt mehr als zwei Drittel die Stadt Wien, die ja
+                        außerdem mit 400 Millionen Kronen Defizit abgeschlossen hat, so daß dem
+                        Lande Niederösterreich nur 12 ½ Millionen Kronen übrig bleiben. Wollen wir
                         deshalb auch noch die Lehrer- und Beamtengehälter berücksichtigen, so ist
-                        ein Mindestbetrag von 120 Millionen notwendig, also das Neunfache von 121/-
-                        Mitlionen noch kaum genügend, um das Auslangen zu finden. Wenn man auch auf
+                        ein Mindestbetrag von 120 Millionen notwendig, also das Neunfache von 12 ½
+                        Millionen noch kaum genügend, um das Auslangen zu finden. Wenn man auch auf
                         die Einhebung von Zuschlägen zur Einkommensteuer verzichten muß, so wissen
-                        wir keine Quelle zur Deckung dieses ungeheuren Defizits. Wir sind bis 1918
-                        so ziemlich mit unseren Einnahmen ausgekommen, außerdem sind Jahr für Jahr
-                        die Steuern erhöht worden und dieses Jahr ist der Landesrat übereingekommen,
-                        fast alle Steuern um 100 Prozent zu erhöhen, so daß wir beinahe an der
-                        Grenze der Leistungsfähigkeit angelangt sind und kaum mehr eine
-                        Steigerungsmöglichkeit haben. Wir haben außerdem im Taufe des Jahres noch
-                        eine Reihe von Lokalsteuern eingeführt und es gibt nichts von der Wiege bis
-                        zum Grabe, das wir nicht mit Steuern belegt haben. Trozdem ist das Auslangen
-                        nicht zu finden und ich bemerke, daß wir außer den 22 Mislionen im Budget
-                        1919 auch noch ein Darlehen von 15 Millionen Kronen aufgenommen haben. Ich
-                        muß daher namens des Landesrates von Niederösterreich erklären, daß für das
-                        Jahr 1919, wenn wir nicht total untergehen sollen, der neunfache Betrag ein
-                        sehr niedriger ist, den wir vom Staate fordern müssen. Würde uns aber der
-                        Staat das Mittelschul- und auch das Volksschulwesen abnehmen, so würde sich
-                        natürlich die Dotation um den entsprechenden Betrag verringern. Der Staat
-                        muß aber zu gleicher Zeit auch für die Lehrergehaltsregulierung Vorsorge
-                        treffen, weil wir aus Eigenem dazu nicht in der Lage sind. Bei uns kann also
-                        der dreifache Schlüssel nicht angewendet werden, weder nach der
-                        Bevölkerungszahl noch nach der Steuerkraft, sondern wir müßten mindestens
-                        das Neunfache anfordern. Staatskanzler Dr. Kenner: G3 ist niemand mehr zum
-                        Worte vorgemerkt. Wir müssen uus klar werden, in welchem Stadium der
-                        Verhandlungen wir uns befinden. Es soll jetzt eine Vorlage an das Parlament
-                        ausgearbeitet werden, welche für die drei letzten Monate vorsorgt. Ich
-                        glaube nach dem Ergebnisse der Lebatte, daß wir, um allen Wünschen gerecht
-                        zu werden, so vorgehen müssen, daß im allgemeinen das Triplum vorgesehen und
-                        außerdem eine spezielle Vorsorge für Niederösterreich und Wien getroffen
-                        wird, über welche noch besondere Vereinbarungen mit dem Lande
+                        wir keine Quelle zur Deckung dieses ungeheuren Defizits.</p>
+                    <p>Wir sind bis 1918 so ziemlich mit unseren Einnahmen ausgekommen, außerdem
+                        sind Jahr für Jahr die Steuern erhöht worden und dieses Jahr ist der
+                        Landesrat übereingekommen, fast alle Steuern um 100 Prozent zu erhöhen, so
+                        daß wir beinahe an der Grenze der Leistungsfähigkeit angelangt sind und kaum
+                        mehr eine Steigerungsmöglichkeit haben. Wir haben außerdem im Laufe des
+                        Jahres noch eine Reihe von Lokalsteuern eingeführt und es gibt nichts von
+                        der Wiege bis zum Grabe, das wir nicht mit Steuern belegt haben. Trozdem ist
+                        das Auslangen nicht zu finden und ich bemerke, daß wir außer den 22
+                        Millionen im Budget 1919 auch noch ein Darlehen von 15 Millionen Kronen
+                        aufgenommen haben. Ich muß daher namens des Landesrates von Niederösterreich
+                        erklären, daß für das Jahr 1919, wenn wir nicht total untergehen sollen, der
+                        neunfache Betrag ein sehr niedriger ist, den wir vom Staate fordern müssen.
+                        Würde uns aber der Staat das Mittelschul- und auch das Volksschulwesen
+                        abnehmen, so würde sich natürlich die Dotation um den entsprechenden Betrag
+                        verringern. Der Staat muß aber zu gleicher Zeit auch für die
+                        Lehrergehaltsregulierung Vorsorge treffen, weil wir aus Eigenem dazu nicht
+                        in der Lage sind. Bei uns kann also der dreifache Schlüssel nicht angewendet
+                        werden, weder nach der Bevölkerungszahl noch nach der Steuerkraft, sondern
+                        wir müßten mindestens das Neunfache anfordern.</p>
+                </sp>
+                <sp>
+                    <speaker>Staatskanzler Dr. <emph>Renner</emph>:</speaker>
+                    <p>Es ist niemand mehr zum Worte vorgemerkt. Wir müssen uns klar werden, in
+                        welchem Stadium der Verhandlungen wir uns befinden. Es soll jetzt eine
+                        Vorlage an das Parlament ausgearbeitet werden, welche für die drei letzten
+                        Monate vorsorgt.</p>
+                    <p>Ich glaube nach dem Ergebnisse der Debatte, daß wir, um allen Wünschen
+                        gerecht zu werden, so vorgehen müssen, daß im allgemeinen das Triplum
+                        vorgesehen und außerdem eine spezielle Vorsorge für Niederösterreich und
+                        Wien getroffen wird, über welche noch besondere Vereinbarungen mit dem Lande
                         Niederösterreich und der Stadt Wien erfolgen werden. Die Finanzverwaltung
-                        wird inzwischen Vorschüsse geben können, und zwar über die Veträge hinaus,
-                        die nach dem Finkschen Gesetz zu leisten sind, bis zum Ausmaße des Triplum.
-                        Ich werde dahin wirken, daß zu der Beratung der Vorlage im Finanzausschusse
-                        des Parlaments die Vertreter der Länder und der Stadt Wien berufen werden,
-                        um neuerdings zur Vorlage Stellung zu nehmen. Natürlich darf dadurch die
-                        Sache nicht verzögert werden, denn nach meinem Gefühl hätte die Vorlage
-                        eigentlich um die Mitte des Jahres fertig sein sollen. (Lundesrat Prischiny:
-                        Sollen wir also gar keine neuen Steuerquellen suchen?) Vorläufig können die
-                        Länder in die Voranschläge, wie ich glaube, schon das Dreifache einstellen.
-                        Damit ist diese Frage zunächst geregelt, soweit sie hier geregelt werden
-                        kann. Nun möchte ich noch folgendes bemerken: Der Staat beteiligt sich
-                        überdies an der Teuerungszulagen an die Lehrpersonen. Die
-                        Anschaffungsbeiträge bezahlt er ganz. Die Länder sollen nun aber doch den
-                        sogenannten Übergangsbeitrag leisten. Welchen Teit des Übergangsbeitrages
-                        soll nun der Staat übernehmen. Vielleicht wird es genügen, wenn er sich mit
-                        der Hälfte beteiligt. Damit kein Zweifel besteht, bemerke ich noch, daß der
-                        Anteil an den Teuerungs-<pb facs="#facs_58" n="58" xml:id="img_0058"
-                            break="yes"/> zulagen, die Anschaffungsbeiträge und die Hälfte des
-                        Übergangsbeitrages über die Überweisungen noch hinausgehen. Wenn wir also
-                        eine solche Regelung vorsehen, so wird das, wie ich glaube, für die nächste
-                        Zeit genug sein. Ich mache aber aufmerksam, daß die Staatsverwaltung mit den
-                        Ländern unverzüglich wird zusammentreten müssen, um den Finanzplan für das
-                        Jahr 1920 zu besprechen. Und nun bitte ich, meine Anregung zu verwirklichen
-                        und womöglich schon bei der nächsten Sitzung der Länderkonferenz ein Komitee
-                        einzusetzen, das sich über die Gehaltssätze, das Gehaltsschema usw.
-                        untereinander verständigt und mit der Staatsregierung Fühlung hält.
-                        Landeshauptmann-Stellvertreter Preutler: Ich möchte den Herrn Staatskanzler
-                        darauf aufmerksam machen, daß die ganze Konferenz unter dem Eindrucke steht,
-                        daß die Erörterung über die Lebensmittelfragen noch nicht zu Ende geführt
-                        ist, so lange wir nicht Klarheit darüber haben, wie es in Hinkunft mit der
-                        Aufnahme einer Valutaanleihe und mit der Verbesserung unseres Geldes steht.
-                        Wir stehen, das ist sicher, vor der Gefahr, daß die Krone in vier Wochen
-                        vielleicht nur mehr 2 l wert ist, was dann? Dann wird die Kaufkraft der
+                        wird inzwischen Vorschüsse geben können, und zwar über die Beträge hinaus,
+                        die nach dem <emph>Fink</emph>’schen Gesetz zu leisten sind, bis zum Ausmaße
+                        des Triplum. Ich werde dahin wirken, daß zu der Beratung der Vorlage im
+                        Finanzausschusse des Parlaments die Vertreter der Länder und der Stadt Wien
+                        berufen werden, um neuerdings zur Vorlage Stellung zu nehmen. Natürlich darf
+                        dadurch die Sache nicht verzögert werden, denn nach meinem Gefühl hätte die
+                        Vorlage eigentlich um die Mitte des Jahres fertig sein sollen. (Landesrat
+                            <emph>Prisching</emph>: Sollen wir also gar keine neuen Steuerquellen
+                        suchen?) Vorläufig können die Länder in die Voranschläge, wie ich glaube,
+                        schon das Dreifache einstellen. Damit ist diese Frage zunächst geregelt,
+                        soweit sie hier geregelt werden kann.</p>
+                    <p>Nun möchte ich noch folgendes bemerken: Der Staat beteiligt sich überdies an
+                        der Teuerungszulagen an die Lehrpersonen. Die Anschaffungsbeiträge bezahlt
+                        er ganz. Die Länder sollen nun aber doch den sogenannten Übergangsbeitrag
+                        leisten. Welchen Teil des Übergangsbeitrages soll nun der Staat übernehmen.
+                        Vielleicht wird es genügen, wenn er sich mit der Hälfte beteiligt. Damit
+                        kein Zweifel besteht, bemerke ich noch, daß der Anteil an den Teuerungs-<pb
+                            facs="#facs_58" n="58" xml:id="img_0058" break="no"/>zulagen, die
+                        Anschaffungsbeiträge und die Hälfte des Übergangsbeitrages über die
+                        Überweisungen noch hinausgehen. Wenn wir also eine solche Regelung vorsehen,
+                        so wird das, wie ich glaube, für die nächste Zeit genug sein. Ich mache aber
+                        aufmerksam, daß die Staatsverwaltung mit den Ländern unverzüglich wird
+                        zusammentreten müssen, um den Finanzplan für das Jahr 1920 zu
+                        besprechen.</p>
+                    <p>Und nun bitte ich, meine Anregung zu verwirklichen und womöglich schon bei
+                        der nächsten Sitzung der Länderkonferenz ein Komitee einzusetzen, das sich
+                        über die Gehaltssätze, das Gehaltsschema usw. untereinander verständigt und
+                        mit der Staatsregierung Fühlung hält.</p>
+                </sp>
+                <sp>
+                    <speaker>Landeshauptmann-Stellvertreter <emph>Preußler</emph>:</speaker>
+                    <p>Ich möchte den Herrn Staatskanzler darauf aufmerksam machen, daß die ganze
+                        Konferenz unter dem Eindrucke steht, daß die Erörterung über die
+                        Lebensmittelfragen noch nicht zu Ende geführt ist, so lange wir nicht
+                        Klarheit darüber haben, wie es in Hinkunft mit der Aufnahme einer
+                        Valutaanleihe und mit der Verbesserung unseres Geldes steht.</p>
+                    <p>Wir stehen, das ist sicher, vor der Gefahr, daß die Krone in vier Wochen
+                        vielleicht nur mehr 2 h wert ist, was dann? Dann wird die Kaufkraft der
                         Länder und des Staates derart geschwächt sein, daß wir überhaupt vor der
                         Unmöglichkeit stehen, die Ernährungsfrage zu lösen. Deshalb möchten die
                         Länder etwas darüber hören, wie man diese Frage zu lösen gedenkt.</p>
                 </sp>
                 <sp>
-                    <p>Staatskanzler Dr. Kenner: Diese Angelegenheit ist eine Reichsfrage, eine
-                        Frage des künftigen staatlichen Finanzplanes. Wenn das Haus jetzt
-                        zusammentritt, so werden Sie in nicht mehr als zwei bis drei Tagen darüber
-                        Ausführliches hören. Sie werden jedoch begreifen, daß in diesem Punkte
-                        Mitteilungen nicht gemacht werden können, bevor nicht ein fester Bau des
-                        Kabinetts und des zuständigen Resjorts vorliegt. Das Kabinett befindet sich
-                        derzeit in statu demissionisDabei finden über den Finanzplan zwischen den
-                        großen Parteien fortwährend Beratungen statt und es ist schlechterdings
-                        unmöglich, in diesem Stadium andere als Privatmeinungen wiederzugeben. Die
-                        Angelegenheit kommt in drei bis vier Tagen in das Parlament, wo sich das
-                        neue Rabinett jedenfalls mit einem bestimmten Finanzplan vorstellen muß, und
+                    <speaker>Staatskanzler Dr. <emph>Renner</emph>:</speaker>
+                    <p>Diese Angelegenheit ist eine Reichsfrage, eine Frage des künftigen
+                        staatlichen Finanzplanes. Wenn das Haus jetzt zusammentritt, so werden Sie
+                        in nicht mehr als zwei bis drei Tagen darüber Ausführliches hören. Sie
+                        werden jedoch begreifen, daß in diesem Punkte Mitteilungen nicht gemacht
+                        werden können, bevor nicht ein fester Bau des Kabinetts und des zuständigen
+                        Ressorts vorliegt. Das Kabinett befindet sich derzeit in statu demissionis.
+                        Dabei finden über den Finanzplan zwischen den großen Parteien fortwährend
+                        Beratungen statt und es ist schlechterdings unmöglich, in diesem Stadium
+                        andere als Privatmeinungen wiederzugeben.</p>
+                    <p>Die Angelegenheit kommt in drei bis vier Tagen in das Parlament, wo sich das
+                        neue Kabinett jedenfalls mit einem bestimmten Finanzplan vorstellen muß, und
                         dann werden sie alle Einzelheiten erfahren. Es ist kein Zweifel, daß diese
-                        Finanzfrage das Kardinalproblem des ganzen Staates ift. Wir sind am Ende
-                        unserer Tagesordnung angelangt. Sie verzeihen die große Eile, in der alle
-                        Angelegenheiten erledigt werden mußten. (Landesrat Frisching: Ich müchte
-                        gerne den Herrn Dr. Schumpeter hären. Ich bin dach sehr neugierig, was er
-                        uns über seine Finanzplüne zu sagen hat.) G3 steht Ihnen frei, Herrn Dr.
-                        Schumpeter einzuladen, er wird Ihnen gewiss gerne ausführliche Mitteilungen
-                        machen. Nur meine ich, daß das nicht Sache des Kabinetts und der Parteien
-                        sein kann, solange keine Beschlüsse darüber gefaßt sind. In solchen Dingen
-                        kann doch ex offo und offiziell erst Mitteilung gemacht werden, wenn sie
-                        beschlossene Sache sind. Ich bitte nun meine Entschuldigung
-                        entgegenzunehmen, daß wir so in Eile handeln und die ganze Konferenz nicht
-                        zur entsprechenden Ruhe gekommen ist. In Wahrheit sind die Dinge etwas
-                        überstürzt an uns herangekommen. Wir werden aber in der kürgesten Zeit — ich
-                        glaube in etwa 14 Tagen — wieder eine Länderkonferenz haben, und zwar
-                        vielleicht im Zusammenhange mit der Vorlage, betreffend die Dotation der
-                        Landesfinanzen. Da werden die Herren Vertreter der Länder und die
-                        betreffenden Finanzreferenten in den Finanzausschuß berufen werden, um bei
-                        den Verhandlungen ihr Urteil abzugeben. Ich bitte also die Herren Vertreter
-                        der Länder, alle Materialien, die auf die Landesfinanzen Bezug haben, zu
-                        sammeln und so rasch als möglich der Staatsregierung zur Verfügung zu
-                        stellen, vor allem anderen den Voranschlag für 1919, soweit er ausgearbeitet
-                        ist. Jetzt können Sie ihn ausarbeiten, indem Sie das Dreifache einseten.
-                        Weiters den Rechnungsabschluß für 1918 sowie Nachweisungen über die
-                        Zuschläge, die in den letzten zehn Jahren erhoben worden sind, und was sonst
-                        in den von mir berührten Fragen von Wichtigkeit ist. Dann bitte ich auch die
-                        Länder, die besondere Auflagen beschlossen haben, diese Beschlüsse und den
-                        Voranschlag dieser Auflagen uns einzusenden. Ich meine, daß es möglich sein
-                        wird, diese Auflagen bis zum 31. Dezember 1919 fortzuführen, aber es wird
-                        nicht gut sein, diese Maßznahmen über den 1. Jänner 1920 hinaus zu
-                        verlängern. Was die Lehrergehaltsregulierung betrifft, so haben sich die
-                        Herren mit den Lehrern selbst ausgesprochen. Wir müssen damit rechnen, daß
-                        der Personalaufwand überall wächst, und solange es uns nicht gelingt, die
+                        Finanzfrage das Kardinalproblem des ganzen Staates ist.</p>
+                    <p>Wir sind am Ende unserer Tagesordnung angelangt. Sie verzeihen die große
+                        Eile, in der alle Angelegenheiten erledigt werden mußten. (Landesrat
+                            <emph>Prisching</emph>: Ich möchte gerne den Herrn Dr.
+                            <emph>Schumpeter</emph> hören. Ich bin dach sehr neugierig, was er uns
+                        über seine Finanzpläne zu sagen hat.) Es steht Ihnen frei, Herrn Dr.
+                            <emph>Schumpeter</emph> einzuladen, er wird Ihnen gewiß gerne
+                        ausführliche Mitteilungen machen. Nur meine ich, daß das nicht Sache des
+                        Kabinetts und der Parteien sein kann, solange keine Beschlüsse darüber
+                        gefaßt sind. In solchen Dingen kann doch ex offo und offiziell erst
+                        Mitteilung gemacht werden, wenn sie beschlossene Sache sind.</p>
+                    <p>Ich bitte nun meine Entschuldigung entgegenzunehmen, daß wir so in Eile
+                        handeln und die ganze Konferenz nicht zur entsprechenden Ruhe gekommen ist.
+                        In Wahrheit sind die Dinge etwas überstürzt an uns herangekommen. Wir werden
+                        aber in der kürzesten Zeit — ich glaube in etwa 14 Tagen — wieder eine
+                        Länderkonferenz haben, und zwar vielleicht im Zusammenhange mit der Vorlage,
+                        betreffend die Dotation der Landesfinanzen. Da werden die Herren Vertreter
+                        der Länder und die betreffenden Finanzreferenten in den Finanzausschuß
+                        berufen werden, um bei den Verhandlungen ihr Urteil abzugeben.</p>
+                    <p>Ich bitte also die Herren Vertreter der Länder, alle Materialien, die auf die
+                        Landesfinanzen Bezug haben, zu sammeln und so rasch als möglich der
+                        Staatsregierung zur Verfügung zu stellen, vor allem anderen den Voranschlag
+                        für 1919, soweit er ausgearbeitet ist. Jetzt können Sie ihn ausarbeiten,
+                        indem Sie das Dreifache einsetzen. Weiters den Rechnungsabschluß für 1918
+                        sowie Nachweisungen über die Zuschläge, die in den letzten zehn Jahren
+                        erhoben worden sind, und was sonst in den von mir berührten Fragen von
+                        Wichtigkeit ist. Dann bitte ich auch die Länder, die besondere Auflagen
+                        beschlossen haben, diese Beschlüsse und den Voranschlag dieser Auflagen uns
+                        einzusenden. Ich meine, daß es möglich sein wird, diese Auflagen bis zum 31.
+                        Dezember 1919 fortzuführen, aber es wird nicht gut sein, diese Maßznahmen
+                        über den 1. Jänner 1920 hinaus zu verlängern.</p>
+                    <p>Was die Lehrergehaltsregulierung betrifft, so haben sich die Herren mit den
+                        Lehrern selbst ausgesprochen. Wir müssen damit rechnen, daß der
+                        Personalaufwand überall wächst, und solange es uns nicht gelingt, die
                         Währung zu stabilisieren, solange wird all unser Bemühen, in diesen Dingen
-                        feste Verhältnisse zu schaffen, vergeblich sein. Damit danke ich allen
-                        erschienenen Herren und erkläre die Länderkonferenz für geschlossen.</p>
+                        feste Verhältnisse zu schaffen, vergeblich sein. </p>
+                    <p>Damit danke ich allen erschienenen Herren und erkläre die Länderkonferenz für
+                        geschlossen.</p>
                 </sp>
-                <p>(Schluß der Sitzung um 6 Uhr 15 Minuten abends.) Staatsdruckerei. 1128119</p>
+                <p>(Schluß der Sitzung um 6 Uhr 15 Minuten abends.)</p>
+                <p>Staatsdruckerei. 1128119</p>
             </div>
     </body>
    
