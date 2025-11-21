@@ -63,7 +63,7 @@
             </publicationStmt>
             <seriesStmt>
 <title>Datenset A</title>
-<biblScope unit="part">1000</biblScope>
+<biblScope unit="part">0500</biblScope>
 </seriesStmt>
 <sourceDesc>
                 <msDesc type="invetory">
@@ -101,8 +101,11 @@
                 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="created">
-            <change when="2025-11-19" who="#cfh">document automatically created</change>
+        <revisionDesc status="text_correct">
+            <change when="2025-07-29" who="#cfh">document automatically created</change>
+            <change when="2025-07-31" who="#m_huber">@ Sophia: Gegenlesen</change>
+            <change when="2025-08-15" who="#s_kury">Text fertig neu erstellt </change>
+            <change when="2025-10-21" who="#e_kordt">Text strukturiert</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -150,46 +153,753 @@
     <text type="Verfassungsentwurf">
         <body>
          <div type="main">
-            <pb facs="#facs_1" n="1" xml:id="img_0001" break="yes"/>
-            <p>Verlassung des Bundesstaates Uesterreich. - 1.Staatshoheit,Verlassungsschaftung, und verfassungsanderuhg. lie durch die Rutlosung der osterfeichischen Konarchie selbständig gewordehen Lander karnten,Vestg reich ob der Ehhs,uesterreich unter der Enns,walzburg Dlelermark,IlTO:,VUratiber uhd die Treie ptaat wien schliessen sien als selostshalge plaaten auren Lreien vertzag zum Fundesstaat besierreleh zusammen. Die beschranken sich in der Ausubung ihrer Staatanchei? zu bunsten der Bundesgewall treiwillg im Zushss der nachtoigenden verlassuhg. rch die Lundesschilessung entaussern sicht nicht ihrer Statstcheit aur deh der BunAls Lände In übertragen A83087 2.5604 Uetesr Zuhaes Aers6 Die Lander nehmeh die Grundung des Bundes aufcE den Bunaesrat vor.II alleln Steul es zu,ule Hunesverlasn zu Schallen n cn zandern. Der Fuhdesrat besteht aus je lU delegierten, elche die Landtage der sinzelren Lander in denselben ehtsehuer. ber bemeinderat der stadt wien spiell niede die HolIe eihes Landtags. Das Mahdat der Mitglieder des Eundesrates ist gleich lang mit ihrem Landtagsmandat.Nach Erloschen des Letzteren sind auch die Mirglieder des Bundesrates Foh Den gewahlten Landtag neu zu wahlen. Die Mitglieder des Bundesrates werden aus der Fundeskassa Dezanlt. Der Bundesrat wahlt aus seiner Mitte eineh fraszdehten,zwei Vizeprasidenten und drei Schritttuhrer mil eihtacher diajoritat. Die Sitzungen des Bundesrates sind ortentlich wenn derselpe nicht ausdrucklien das begenteal beSchllesst. Der Bundeszat beschliesst in seiner ersteht iagung die Verlassung des Bundesstaates.
-            <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
-            erfassung des Bundesstaates Uesterreich.1.Staatshoheit,Verlassungsschaffung, und Verlassungsänderung. lie durch die Autlosung der osterfeichischen Loharchie selbständig gewordenen Lander Karnten,Vestg feich oo der Enns,besterreich unier der rnns,walzburg pteiermark,iiro:,Vorarlberg und die Treie staat wien schliessen sich als selbstähdige ntaaten durch treien Vertzag zum Bunaesstaat besierreich zusammen. Die beschrahken sich in der Ausübung ihrer Staatahohei? zu bunsten der Bundesgewalt treiwillig im Zusmass der nechtoigenden Vertassule durch die Fundessclulessung ehlaussern sich die Lander nicht ihrer Staxtstoheit auf den der Buhdesgewalt überlassenen bebieten,sondern übertragen derselben lediglich aut dem wcge eines Mandates tur Zundesdauer die legislatite uha exekutive Ausübung derselbe. Die Lander nehmen die Grundung des Bundes durch den Brnaesrat vor. Ihm allein steht es zu, die Hundesverlassung zu schalten und nachtraglich abzuendern. Der Bundesrat besteht aus je lU delezierten, elche eie Landtage der sinzelren Lander in denselben ehtsehuer. ber bemeinderat der stadt wier spielt niede die Kolle eihes Landtags. Das Mahdat der Mitglieder des Eundesrates ist gleich lang mit ihren Landtagsmandat.Nach Erloschen des Letzteren sind auch die Mitglieber des Bundesrates vom nen gewahlten Landtag neu zu wahlen. bis Mitglieder des Bundesrates werden aus der Fundeskasse bezahlt. Der Bundesrat wahlt aus seiher Mitte eineh fraszdehten.zwei Vizedrasidehten uhd urei SchritttunFer mil eihtacrer majoritat. Die Sitzungen des Bundesrates sind orfentlich wenn derselbe hieht ausdrucklien das begenteal beSchlleSst. der Bundeszat beschliesst in seiner ersieh iegung die verlassung des Bundesstaates.
-            <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
-            d Nach dieser ersten lagung hat der Bundesrat keine oraentliEhei Lagungen mehr, sondern Trili nur von Fale meh,wenn eihe Verlassnngsanderung oder ei2U lALt 3795 he andere durch die Verlassung des Dundesrates vorbehat tene Angelegenheit dies ertordert. d4 Das Recht zur Einberutung des Bundesrates steht der Ftasldehten des Bundesrales buer seinem Vertreter zu. Dieser1St ZUT LILBeFULug VerDIIICtet,wenn die Majorität der Delegation eihes Landes oder der Prasidem des Buhdes es tordert, § 12 Der Bundesrat lasst alle seine Beschlusse in Lanae weiser Abstimmunz,sodass die belegation jedes Landes rir eine Stimie hat.inherhalo jeuer beiezation entsclelden die absolute Mehrneil uer stimmen.Einstimmig heissen d atsbeschlasss, Wabnen alls Vessratibls le, ID Jehen nar die E A  3080 10060 oEtbab ubr deerl reStt h bun besetluss aer Vertasstet des andss zu Descasd ratsbeschlusses ertorderlich. § 14 Henn im Bundesrat ein Land seine Zustimmung einer von der Majoritat getorderten Verlassungsänderung verHelRert,kann diese Majoritat dieses Land aus dem Bunder ansschllessen. § 13 in diesem Fall ist ein doppeltes Reterendum vorzuheluiEX. 1.) in dem auszuschliessenden zande über den Gruud des Ausschlusses, Z.) Talls das Keterendum I den Ausschliessungsgrund LiEht beselligt,ein landerwelses nieierendum in den Landern, die für die Ausschllessung he haben. Erst wenn auch in diesen Referendiud ZjOTltl def Lander ale A Slllessug Des 57 S1e TGItSkTaiiG. § 16. die Durchtührung der rechtskraftigen Ausschliessugg Tindet erst fuht Jahre nach ihrem Zustandekommen statt, Eih halbes jahr vor dieser Durchtührung ist das ih § 15 beschnesehe Reterenaum zu wiederholen,wodurch ber entsprechendem Ausgang die Ausschliessung ruckgängig gemacht wird. Ue3 LlETIIs Ol ufad ganat15 ED-LaHA83  BB rungeh,die inherhalb dieser Zeit durchgefuhrt werden. haben für das ausgeschlossene Laha keine Geltung,
-            <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
-            3 § 18 Wenn im Buhdesrate eines Landes eine von ihm geforderte Verfassungsänderung verweigen LTA„KaBII AELUG dieses Land selnem Austrill aus dem Buhue oul Falls 1st ein uospeldes heitrendun votz ein landerwei1. in den verweigernden Lände. rittsgruhd, ses fieterendum über den ArE.) Falls Letefenaum Lden AusErlLLBerund nicht austretenReferendum in u beselligt,e wehn auch rden Austritt. Fr. uem Lahd uB dlebes Heterendum den Ausiritt beschliesso, 1St. SF. Zechtskrältig. § 13 Für die Durchführung des Austrittes und das I durch geschaitene Interin gelten diesetden Gestimungeh,wie beim Ausschluss( 16 und11) d 21. Die AnInahme eines henen Landes in den Bundesstaal erfolgt durch eintachen Mehrheitsbeschluss des Bundesrates 22 Wenn ein hiebei in der Minderheit verbliebenes Land es innerhalb 14 tagen fordert,muss im ganzen Bunde sin landerweises Heferendum über die Autnahme stattlinden. Erst wehn auch in diesem Reterendum die apsolute Majoritat der Lander für die Kolnaume stimmt,ist aieselbe rechtskräftig geworden. Der Bundesrat kann durchl einstimmigen Beschluss tur die, detaillierte Hegelung einzelner funkte der VerTassung von Fall zu Fall die blosse Mehrstimmigkeit zuJasseh. §25 Der Bundesrat setzt durch einstimmigen beschluss die Stenerquellen für die Bundesgewalt testd24 Der Bundesrat seizt durch mehrstimmigen beschluss r Bund den einzelnen Lannern zur den Betrag lest,ueu BestreltuLg Ites Hausaltes zu leisten hat. d 23 Der Bundesrat schattt durch mehrstimmigen Beschluss. Gesetze zur Regelung der Liquidierung für deh Fall des Anstrittes oder Ausschlusses eines Landes. Der Bundesrat nimmt mit einstimmigem Beschlusse die finanzielle Liquidierung des trüheren Staates Uesterreich zwischen Bund und Ländern vor 3 Sandesrat wahlt durch mehrstimmigen Beschluss zgidenten und den Vizeprasidenten des Bundes auf TubI Jahre.
-            <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
-            4 d 28 Der Bundesrat erhennt durch mehrstimmigen beSchluss die Mitglieder des verlassungsgerichisnoles. Alle ih diesem Abschhitt angefuhrten su werden durch den einstimmigen beschluss des Bundesrats Bestandteil uer Bundesverlassung. 11. Inhalt der Bundesverfassung. A. Bundesgrundgesetze. 30 BundesgruugWetze siu Uirekt vom Bundesrat hege der Verlaseenesgebung geschättehe beserze, rch weiche die Lander sich selost und die BundesGehall DlLde,Jede Lels1lve und Exentive handes- oder Bundeshandlung,ule gegen ein Dundesgrunageserz verstosst,ist von selbst uhgiltig,Ob dies von Fall zu Fall ZutriIit,entscheidet der VerfassuhgsgerichtshOI. d 3 Die Bundesgrundgesetze zertallen ih bundesverDote und Bundesgebete. a)Bundesverbote. § 32 Das Verbot,Gesetze zu beschliessen,die gegehdie Gleichheit der Bürger vor dem Gesetz verstossen. §33 Das Verbot,St:atgesetze mit rückwirkender Kraft zu beschliessen. §34 Das Verbot die Todesstrate aul politische Vergehen zu setzen. § 35 Das Verbot der Fechtsverweigerung, § 36. Das Verbot der Verletzung des Hausrechtes. was Verbot der Verletzung der personlichen Ersibelt
-            <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
-            -3- 335 Das Verbot Spielbanken auf dem BundesterritoFiüm zu dulden. § 39 Das Verbot innerhalt genauer,vom Bundesrat aus dem Verlassungsweg gezogener brenzen die vonlitionsPress- hha Glaubehstreiheit zu beschranken. § 20. Das Verbot der Errichtung von Zollgrenzen innerhaln des Bundes.Das Recht Iirols zur Einnerung des GeTFeideautschlags wird von dieser Bestimmrung nicht betroITen. b) Bundesgebote; §31 Das bepol, Izerhaib des bundes sowie jeaes Lanues die deuische spracne als sraatsspracne einznführen. was Recht iirels eventhelle Ausnahmen von diesem beoote zu Günsten der bodenständigen ladinischen Bevelkerung zu chenwird vom Bundesrate auf dem Wege der Verfassung zenan umschrieben. §42 Das Gedot innerhalb jedes Landes den Schulzwang fur Elementarschulen einzuführen,die mindestehs lesen, schreiben und die vier elemehtaren Rechnuhgsoperationen Lehren. B. Kirkungskreis der Bundesgewalt. Der Wirkungskreis der legislativen und exekntiven Bundesgewalt umtasst alles,was der Bundesrat ihr durch verTassungserhaftung zuweist. Es ist das im Lihzelnen das Folgende §44 Das Heerwesen aber nur soweil,als die Verbereitung der Schiagtertigkeit fur den Friegstall eine gemeinsame Fegelung unbedingt ertordert. Die gehanen brenzen hietur werden vom Bundesrat aus dem Wege der Verlassung testgelegt. §45 Die Entscheidung über Krieg und Frieden, alle ausWatligen Angelegenneiten mit Einschluss der dipiomatiscren und kammerziellen vertreiung dem Auslande gegenuper,insbesohaais ier Abschlnss von Stadts- und Handelsvertragen sowie die in betfeii der inteznariohalen Verträge hotwendigen verLugungen. §46 Die Fuhrung des Bundeshanshaltes, die Verwaltung ges Bundesvermögens und der Bundesschulden, die Eegelung des bundessteuerweschs unter Benützung der vom Bundesrat aus der wege der Verfassung der Bundesgewalt zur Vertügung gesteilteh Etsuerquellen 23.
-            <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
-            6- 347 wié Führung der bundesstaatlichen Statistik. §40 Das Arbeiterrecht,Fraueh- und Einderschutz,bes soziale Versicherungswesen,soweit es sich um Verhalthisse der ihaustriellen arbeiterschait Eandelt. bie Gesetzgebung aut dem Gebiete des strai- und ZiVilrechtes sowie frozesses, die Geseizgebung auf dem behiets der Konsulgerichtsbarkeit sowie Eegelung derselben. Die Gesetzgebung tetreftend die rechtsverhaltnisse an Frula und, Boden bleipt den Landern vorbehalten,innerhalb vom Bundesrate aus dem wege der verlassung gehau les geleglen trenzen. Die Hegelung des Handels- und nechselrechtes, des falehtwesens,Marken- thu musterschurz, der Schutz des gelstiger Eigentums,das Münz- una werrungswesen,die pundesDax,as Funzierungswesen,mass und bewicht, das Zollwesen. 361 Das Verkehrswesen (Eisenbehren, Schitfahrt,LuttSchittahrt,Post, telegraph und jeleptor;, sclerhe es sich hiebei um Materien handeil,Gie uter die Frenzen des einzer nen Landes bihaus ottentliche Interessen lahgieren. nahere Ausgestaltung uer Lundesverlassung innerhal der Erenzen,Felche der Fundesrat durch die von inm beschlossehe Verlassung gezogen hel. G. Sie Legislative des Bundes: a) das legislatire Urgan. 35 Das geselzgebende Urgan des Bundes ist der Bundestag.-Er besteht aus eihem Uner-und Uhterhaus. 32 Eeide häuser weraer ir gleicher,geneimer,unmittelbarer Abstimmung nach UrmVerhalthiswahlrecht aus zen sunde gehallt,sahlberechtigt Ist jeder Bendesbr-dn durch das Fahlgesetz vom iahlrecht richt ausgeschlossen ist. Die Altersgreze tur des akive ahlrecht ist im dl. 2t Utbetteus au sete. eetau dad Pase i Überhaus3, im UnterAlls ad Setire.
-            <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
-            §36 Die Rahlkreise dürten die Landesgrenzen nicht überschreiten.Sie sollen für das Oberhaus seilaulig w.U inwehner, lur das Unterhaus beilaul 40.U Einwohner umlassen. Die Mahdatsdauer ist im Unterhaus 4,im Überhaus &amp; Jahre. 3 beide hauser treten Fetreini unter dem Vorsilze ihre Heltesten zusammen una wanien irre Leilung,aie aus einen VorBilzehdeh,z Stellvertreterr,3 schritttuhrern besteht,aus ein Jahr. Die Verhandlungen beider Fammern sind ihmier getrehnt. §35 Das Vorschlagsrecht ( die Initiative) steht, dem Frasz denten des Bundestreistaates der sundeeregierung jeder der beden Kaumern und jedem sinzainen Mitgliede zu. wenr handerttausend stimmterechtigte Bundesbürger es fordern,steht die Initiative auer beim Volk. 260. Vorlagen der Sundesregierutg können in jeder def beiz den Kammern eingebracht werden. zu einem giltigen Beschluss ist in beiden Kemmern die Ehwesenheit eines vollen lrittels der mitglieder ertorderlich. Es entscheidet die atsolute Mehrheit der Anwesenden. Zuf Erleaizung aller Angelegenheiten im Mirkungskreis des Bundestages ist der übcreihstihmende beschluss weider Rammern ertorderlich. §63 Henn trotz zweimaliger beratung die Uebereinstimmung beider Kaannern nicht erreicht werden kann,dann hat das voerhaus das Recht,ein Leterenduhi im ganzeh Bunde anzuordnen. Die stim iahderweise statt,wie bei den vo Zahlung Tinuet hrebei nich Bundesrat angeordneren Teterenden ( siehe § 15,16 Z1),sondern e ehtscheider die Majcritat der stihmen des ganzen Bundes. §64 Nenn das Überhans auf dieses Reterendum verzichtet,dann gill der Beschluss des Unterhauses als beschluss des puhdestages. §63 zur giltigen Erledigung dieser Angelegenheiten im Nirkungskreis des Enhaestages ist äusserdem die Zustimmung des Prasidenten erforderlich. ra die seibe verweigert, dann ist nach IU Tagen nochmalige Abstimmung in beiden kammern notwendig, wobei zwei vrittel Kajoritatgefordert. Eei urgehten Angelegerkeiten kann der Bundestag die Antrort des Präsidenten innerhalb z4 Stunden fordern. sin auch in der zweiten Abstihmung angenommenes besetz wird dann auch,
-            <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
-            wenn der frasident seihe Zustimmung weiter verweigert, trotzdem rechtskraltig. bie Milglieder der Bundesregierung siha berech-El,zn llen Verhandlungen des pundestages leilzunenmen d Kann Ite AWesensel aueh von lelzverei geiordert werden. § 61 Die Sitzungen beider Kammern sind öffentlich, sofern dieselben nicht ausdrücklich das Gegehteil besciieSseh. § 63 Die Mitglieder beider Kammern werden aus der Bundeskasse bezahlt. §69 Die Verhandlungssprache ist ausschlieslich die deutsche: b) Die Kompetenz des legislativen Urganes: §70 in den FiFKuigsfreis des Bundestages lalit ue leglslalive ieil aller jener Angelegenheiten. Aie der Dundesrat durch Verfassungsgebung der Bundesgewalt überTragl.(ihsbesonuere auch haulgeseiz zum Bundestage und Geschaltsoranung uesselben,. Ferher Die Entscheidung über Krieg und Frieden. §72 Die Prüfung und Genehmigung der Staats- und Handelsverträge. §73 ie jahrliche Frütung und Gehehmigung der Kührnng des Bundeshausraltes und der Rechnungsabschlüsse,die Jahrliche Bewilligung der Steuern und Abgaben. §74 Die Erhebung der Staatsanklage. §75 Die Zusuebung der Kontrolle der Bundesschulen. §76 Jede Kammer ist berechtigt,die Mitglieder der Bundesrezierung zu interILleren, in allem,was ih Wirkungskreis ertordert.Ausschüsse einzusetzen und ihrer Ansiche in Form von Entschliessungen Ausdruck zu verleinen.
-            <pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>
-            J. Exekutive des Buhdes: a) Frasideht und Vizeprasidenten: Die Wahl des Trasidentenuha izepreszdehden des Bundes tinuel duren den Buuusstat statt.d zr; 318 FassiV Wahlberechtigt ist jener Staatsburger,der nach lem ahigesetz zum Bundestag wanlberechtigi ist una das -. lehensjzür Vollehdet lat frasident uhd Vizeprasident massen verschieaehen Landern angehoren und durteh wahrend ihrer Amisaauer kein anderes cltchtliches Amt bekleiden und weder Mitglieder des Bundesrates hocn des Bundestages sein. Erasident utid Vizeprasident leisten in die Handues lasluehlch ues Funtesfales ule Angelobung aul ale LundeStElass Der Trasideh? vertritt den Bundesstaat nach aussen espranz6 bezlaubist die Gesandten,ihm obliegt terher Erst on Vorschlaren über die Bestellung oder KpbeFutuns der Bundesrezierutg an den Buhaest le Erwehzung uDC Koberutung der Aiplomatischen und koh ziellen VertreLer im RUSlauue,vie Zelcinung Ger hundesgeserze und bescrsse ( siehe z 65 §62 Dem Prasidenten des Bundesstaates steht das Recht der Abolitich zu sowie das Recht btratnachlass und Aurhebung der strattolgen zugewahren, sowie das Rechi der iniularve 8331. Ver Prasiden? ist dem VEIke für seihe Khlsführung verantwortlich uzu Fann unter Staatsankiage gestellt werden. wehn der Frasident des Dundesstaates aus irgend eznem Gruha sein amt verliert,tritt der Vizeprasident fur äx festliche Dauer der Amtsperiode ih seine Rechte und FilicR Leh.Fuch wahrena seiher Amtsdauer kann der Prasident denVizeprasidenten fur einen bestimmten Fall oder aus bestirenbe Zeit mit seiner stellvertretung betrauen (zum Be-apiel bei Abwesenheit des Frasidenten im Auslande.)
-            <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
-            c) die Bundesreglerung. 35 Zür DurchTuhrung der Ahigaben der orersten Bunderverwaltahg wahit der Bundestag über Vorschlag des Frasiuer ten des Dundesrates die Bundesregieruag. 66 Der,ditz der Bundesregierung ist die Bundeshauptstadt Nieh.ie Bundesregierabgstent unter der zeitung des Bundeskanzlers. Welche Bundesamter mit danernden Aufträgen und Voll hachten einzurichien nrc von den Milgliedert der punderrezierühe zu beselzen siuu,wird durch ein besonderen beserz des Dunaeslages Bestin „sotern sich dies der Bundesrat EEht durch die Verlassung für einzelne Falle voroehaiten B Henn der Bundestag auf Vorschlag des frasidenten d. Bündesstaates die Bnndesregierung oder einzelne mitglieder derselben abberurt,so bestimmt der frasident des Bundesis Hef deten uilage unu uumaenten bis zur BesteLung iner euenBudeeeung auszuren al. B. Landesverlassung. deaes Laha gibt 3ich seine Verlassung seiest und ist rier in Elr duzch uie vom Bundesrai in der Bundesverlassung gezosenen branzen beschrankt, die nahere Bestimmung dieser ure zeh ist durch die Bundesgrundgesetze (830 - 42) und durch die Autzahlung der vom Buncesrat dem bunde überwiesenen Angelegenheiten( 3 43 bis 6Z ersckoplt. Jedes Land ist verpflichtet,die von ihm beschlessehen Landesgesetze vor ihrer Fublizierung dem Hundesprasidenten wilzuteilen,dami! derselbe im Falle sie der FundesverZassuhe widersprschen,dem Neriapenngagerichishol anzeizen Konbe. Dies hat ihherneib 14 iegen zu gegenenen. Der Vertaes ungsgerichtshol hat sein Urteil innerhalb langstens eines menates zu Tallen. Erst wenh dieses Zustimmend auslallt, kam das Landesgesetz publiziert werden.
-            <pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>
-            d1. F. Ständische Aulonowich. §91. Der Bundesrat behalt sich ausurücklich vor den jetzt 1r, Bilaung begrittchen stahdischen Erganisationeh dürch einstirnnizen beschluss autonomieh legislativen und zaministrativer Ehrafters in Angelegenheiten,der von innen vertretenen Stande eventuell auch im Umtange begganzen Bundes zu gewahren. G. Allgemeine Bestimmungen über die Rechte und Pflichter der Volksvertreter: Die Ritgliedschaft im Bundesrat im Überhaus des Bundestags und im Unterhaus des Bundestags ist incompatibel.Aiemand kann mehr als eihes dieser Aemter gleichzellig bekleiden.Ueber die kompatibilitat mit einem LahaTagsmandat entscheidet die betrettende Landesverlassung. Die Mitglieder der drei genannten Volksvertretungen kohnen wegen der in Ausübung ihres Berutes geschehenen Aostihng niemals,wegen der in diesem Berute gemachten heusserengen aber nur von ihrer Volksvertretung zur Verantwortung gezogen werden. § 34 Rein Aitgilea der gehanntch 3 Volksvertretungen aarI Banrend der vater uer wailiperlode wegen eiter sire paren hahalnag ausgehormen bei Ergreitung auf trischen Tat ohne Zustimmung seiner Volksvertretung verhaftet oder angehört, sofort zu verständigen. § 33 Wenn die betreifende Volksvertretung es verlangt, muss der Verkatt autgeheben oder die Vertolgung auf die Daner der ganzeh fallperiode autgeschoben werden. Dasselbe Recht haben die 3 genahhten Volkstertretungen in betreit eiher Verhalthtg oder Untersuchung, welche über sih Mitglied derselben vor der Kahlperiode verhangt worden ist. § 56 Die Hitglieder der genannten 3 Volksverträtungen haben ihr Stihmrecht personlich auezuuben. §97 bie Maharte der Milglieder der genannich3 Volksvertretungen erlöschen mit dem Manlteg für die kommender Mallperiode. Beslimmungen über eventuelle Rachwahlen kahrend der Rahlpeflode Beizen die belfeltenden Kahlgesetze lest.
-            <pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>
-            12- Pariante II § 14 - 8,19; fällt aus und wird durch nichts ersetzt. Variante III 3L - I 121It Russtatt dessen kommt: zum Beschluss der Verlassung ist Eirstimmigkeit des Eundesratsbeschlusses erforderlich. Zum Beschlussvon Verlassungsänderungen 4/6 Maiorität. Nie die 4/3tel pritat im Vorliegenden Falle zu bsrechhen ist, bel der Bundesrat mit einstimmizem Beschluss.
-            </p>
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-         </div>
+                <pb facs="#facs_2" n="1" xml:id="img_0002" break="yes"/>
+                <head>Verfassung des Bundesstaates Oesterreich.</head>
+                <div type="section">
+                    <head>I. Staatshoheit, Verfassungsschaffung und Verfassungsänderung.</head>
+                    <div type="article">
+                        <head>§ 1</head>
+                        <p type="legal_section">Die durch die Auflösung der österreichischen
+                            Monarchie selbständig gewordenen Länder Kärnten, Oesterreich ob der
+                            Enns, Oesterreich unter der Enns, Salzburg, Steiermark, Tirol,
+                            Vorarlberg und die freie Stadt Wien schliessen sich als selbständige
+                            Staaten durch freien Vertrag zum Bundesstaat Oesterreich zusammen.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 2</head>
+                        <p type="legal_section">Sie beschränken sich in der Ausübung ihrer
+                            Staatshoheit zu Gunsten der Bundesgewalt freiwillig im Ausmass der
+                            nachfolgenden Verfassung.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 3</head>
+                        <p type="legal_section">Durch die Bundesschließung entäusserten sich die
+                            Länder nicht ihrer Staatshoheit auf den der Bundesgewalt überlassenen
+                            Gebieten, sondern übertragen derselben lediglich auf diesem Wege eines
+                            Mandates für Bundesdauer die legislative und exekutive Ausübung
+                            derselben.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 4</head>
+                        <p type="legal_section">Die Länder nehmen die Gründung des Bundes durch den
+                            Bundesrat vor. Ihm allein steht es zu, die Bundesverfassung zu schaffen
+                            und nachträglich abzuändern. </p>
+                    </div>
+                    <div type="article">
+                        <head>§ 5</head>
+                        <p type="legal_section">Der Bundesrat besteht aus je 10 Delegierten, welche
+                            die Landtage der einzelnen Länder in denselben entscheiden. Der
+                            Gemeinderat der Stadt Wien spielt hierbei die Rolle eines Landtags.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 6</head>
+                        <p type="legal_section">Das Mandat der Mitglieder des Bundesrates ist gleich
+                            lang mit ihrem Landtagsmandat. Nach Erlöschen des Letzteren sind auch
+                            die Mitglieder des Bundesrates vom neu gewählten Landtag neu zu wählen.
+                            Die Mitglieder des Bundesrates werden aus der Bundeskass<choice>
+                                <sic>a</sic>
+                                <corr>e</corr>
+                            </choice> bezahlt.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 7</head>
+                        <p type="legal_section">Der Bundesrat wählt aus seiner Mitte einen
+                            Präsidenten, zwei Vizepräsidenten und drei Schriftführer mit einfacher
+                            Majorität.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 8</head>
+                        <p type="legal_section">Die Sitzungen des Bundesrates sind öffentlich, wenn
+                            derselbe nicht ausdrücklich das Gegenteil beschließt.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 9</head>
+                        <p type="legal_section">Der Bundesrat beschliesst in seiner ersten Tagung
+                            die Verfassung des Bundesstaates. </p>
+                    </div>
+                    <div type="article">
+                        <pb facs="#facs_3" n="2" xml:id="img_0003" break="yes"/>
+                        <fw type="pageNum">2</fw>
+                    </div>
+                    <div type="article">
+                        <head>§ 10</head>
+                        <p type="legal_section">Nach dieser ersten Tagung hat der Bundesrat keine
+                            ordentlichen Tagungen mehr, sondern tritt nur von Fall zu Fall zusammen,
+                            wenn eine Verfassungsänderung oder eine andere durch die Verfassung des
+                            Bundesrates vorbehaltene Angelegenheit dies erfordert.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 11</head>
+                        <p type="legal_section">Das Recht zur Einberufung des Bundesrates steht den
+                            Präsidenten des Bundesrates oder seinem Vertreter zu. Dieser ist zur
+                            Einberufung verpflichtet, wenn die Majorität der Delegation eines Landes
+                            oder der Präsident des Bundes es fordert.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 12</head>
+                        <p type="legal_section">Der Bundesrat falls alle seine Beschlüsse in
+                            länderweiser Abstimmung, sodass die Delegation jedes Landes nur eine
+                            Stimme hat. Innerhalb jeder Delegation entscheidet die absolute Mehrheit
+                            der Stimmen. Einstimmig heissen solche Bundesratsbeschlüsse, in denen
+                            alle Delegationen mit ja gestimmt haben. Mehrstimmig solche, in denen
+                            nur die Majorität der Delegation mit ja gestimmt hat.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 13</head>
+                        <p type="legal_section">Zum Beschluss der Verfassung sowie zum Beschlusse
+                            jeder Verfassungsänderung ist Einstimmigkeit des Bundesratsbeschlusses
+                            erforderlich.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 14</head>
+                        <p type="legal_section">Wenn im Bundesrat ein Land seine Zustimmung einer
+                            von der Majorität geforderten Verfassungsänderung verweigert, kann diese
+                            Majorität dieses Land aus dem Bunde ausschließen.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 15</head>
+                        <p type="legal_section">In diesem Fall ist ein doppeltes Referendum
+                            vorzunehmen. 1.) in dem auszuschliessenden Lande über Grund des
+                            Ausschlusses. 2.) falls das Referendum 1 den Ausschließungsgrund nicht
+                            beseitigt, ein länderweises Referendum in den Ländern, die für die
+                            Ausscließung gestimmt haben. Erst wenn auch in diesem Referendum die
+                            Majorität der Länder die Ausschliessung beschliess ist sie
+                            rechtskräftig.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 16</head>
+                        <p type="legal_section">Die Durchführung der rechtskräftigen Ausschließung
+                            findet erst fünf Jahre nach ihrem Zustandekommen statt. Ein halbes Jahr
+                            vor dieser Durchführung ist das in § 15 beschriebene Referendum zu
+                            wiederholen, wodurch bei entsprechendem Ausgang die Ausschließung
+                            rückgängig gemacht wird.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 17</head>
+                        <p type="legal_section">Für die Dauer des Interims erlöschen die Mandate des
+                            ausgeschlossenen Landes im Bundesrat. Verfassungsänderungen, die
+                            innerhalb dieser Zeit durchgeführt werden, haben für das ausgeschlossene
+                            Land keine Geltung.</p>
+                    </div>
+                    <div type="article">
+                        <pb facs="#facs_4" n="3" xml:id="img_0004" break="yes"/>
+                        <fw type="pageNum">3</fw>
+                    </div>
+                    <div type="article">
+                        <head>§ 18</head>
+                        <p type="legal_section">Wenn im Bundesrate eines Landes eine von ihm
+                            geforderte Verfassungsänderung verweigert wird, kann dieses Land seinem
+                            Austritt aus dem Bundes anmelden. In diesem Falle ist ein doppeltes
+                            Referendum vorzunehmen. 1.) In den verweigerten Ländern ein länderweises
+                            Referendum über den Austrittsgrund, 2.) Falls Referendum 1 den
+                            Austrittsgrund nicht beseitigt, ein Referendum in dem austretenden Land
+                            über den Austritt, erst wenn auch dieses Referendum den Austritt
+                            beschliesst, ist er rechtskräftig.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 19</head>
+                        <p type="legal_section">Für die Durchführung des Austritts und das hierdurch
+                            geschaffene Interim gelten dieselben Bestimmungen, wei beim Ausschluss
+                            (§ 16 und 17).</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 20</head>
+                        <p type="legal_section">Die Aufnahme eines neuen Landes in den Bundesstaat
+                            erfolgt durch einfachen Mehrheitsbeschluss des Bundesrates.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 21</head>
+                        <p type="legal_section">Wenn ein hiebei in der Minderheit verbliebenes Land
+                            es innerhalb 14 Tagen fordert, muss im ganzen Bunde ein länderweises
+                            Referendum über die Aufnahme stattfinden. Erst wenn auch in diesem
+                            Referendum die absolute Majorität der Länder für die Aufnahme stimmt,
+                            ist dieselbe rechtskräftig geworden.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 22</head>
+                        <p type="legal_section">Der Bundesrat kann durch einstimmigen Beschluss für
+                            die detaillierte Regelung einzelner Punkte der Verfassung von Fall zu
+                            Fall die blosse Mehrstimmigkeit zulassen.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 23</head>
+                        <p type="legal_section">Der Bundesrat setzt durch einstimmigen Beschluss die
+                            Steuerquellen für die Bundesgewalt fest.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 24</head>
+                        <p type="legal_section">Der Bundesrat setzt durch mehrstimmigen Beschluss
+                            den Betrag fest, den der Bund den einzelnen Ländern zur Bestreitung
+                            ihres Haushaltes zu leisten hat.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 25</head>
+                        <p type="legal_section">Der Bundesrat schafft durch mehrstimmigen Beschluss
+                            Gesetze zur Regelung der Liquidierung für den Fall des Austrittes oder
+                            Ausschlusses eines Landes.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 26</head>
+                        <p type="legal_section">Der Bundesrat nimmt mit einstimmigem Beschlusse die
+                            finanzielle Liquidierung des früheren Staates Oesterreich zwischen Bund
+                            und Ländern vor.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 27</head>
+                        <p type="legal_section">Der Bundesrat wählt durch mehrstimmigen Beschluss
+                            den Präsidenten und den Vizepräsidenten des Bundes auf fünf Jahre</p>
+                    </div>
+                    <div type="article">
+                        <pb facs="#facs_5" n="4" xml:id="img_0005" break="yes"/>
+                        <fw type="pageNum">4</fw>
+                    </div>
+                    <div type="article">
+                        <head>§ 28</head>
+                        <p type="legal_section">Der Bundesrat ernennt durch mehrstimmigen Beschluss
+                            die Mitglieder des Verfassungsgerichtshofes.</p>
+                    </div>
+                    <div type="article">
+                        <head>§ 29</head>
+                        <p type="legal_section">Alle in diesem Abschnitt angeführten §§ werden durch
+                            den einstimmigen Beschluss des Bundesrats Bestandteil der
+                            Bundesverfassung.</p>
+                    </div>
+                </div>
+                <div type="section">
+                    <head>II. Inhalt der Bundesverfassung.</head>
+                    <div type="section">
+                        <head>A. Bundesgrundgesetze.</head>
+                        <div type="article">
+                            <head>§ 30</head>
+                            <p type="legal_section">Bundesgesetze sind direkt vom Bundesrat im Wege
+                                der Verfassungsgebung geschaffene Gesetze, durch welche die Länder
+                                sich selbst und die Bundesgewalt binden. Jede legislative und
+                                exekutive Landes- oder Bundeshandlung, die gegen ein
+                                Bundesgrundgesetz verstösst, ist von selbst ungiltig. Ob dies von
+                                Fall zu Fall zutrifft, entscheidet der Verfassungsgerichtshof.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 31</head>
+                            <p type="legal_section">Die Bundesgrundgesetze zerfallen in
+                                Bundesverbote und Bundesgebote.</p>
+                        </div>
+                        <div type="section">
+                            <head>a) Bundesverbote:</head>
+                            <div type="article">
+                                <head>§ 32</head>
+                                <p type="legal_section">Das Verbot, Gesetze zu beschliessen, die
+                                    gegen die Gleichheit der Bürger vor dem Gesetz verstossen.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 33</head>
+                                <p type="legal_section">Das Verbot, Strafgesetze mit rückwirkender
+                                    Kraft zu beschliessen.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 34</head>
+                                <p type="legal_section">Das Verbot die Todesstrafe auf politische
+                                    Vergehen zu setzen.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 35</head>
+                                <p type="legal_section">Das Verbot der Rechtsverweigerung.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 36</head>
+                                <p type="legal_section">Das Verbot der Verletzung des
+                                    Hausrechtes.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 37</head>
+                                <p type="legal_section">Das Verbot der Verletzung der persönlichen
+                                    Freiheit.</p>
+                            </div>
+                            <div type="article">
+                                <pb facs="#facs_6" n="5" xml:id="img_0006" break="yes"/>
+                                <fw type="pageNum">5</fw>
+                            </div>
+                            <div type="article">
+                                <head>§ 38</head>
+                                <p type="legal_section">Das Verbot Spielbanken auf dem
+                                    Bundesterritorium zu dulden.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 39</head>
+                                <p type="legal_section">Das Verbot innerhalb genauer, vom Bundesrat
+                                    auf dem Verfassungsweg gezogener Grenzen die Coalitions- Press-
+                                    und Glaubensfreiheit zu beschränken.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 40</head>
+                                <p type="legal_section">Das Verbot der Errichtung von Zollgrenzen
+                                    innerhalb des Bundes. Das Recht Tirols zur Einhebung des
+                                    Getreideaufschlags wird von dieser Bestimmung nicht
+                                    betroffen.</p>
+                            </div>
+                        </div>
+                        <div type="section">
+                            <head>b) Bundesgebote:</head>
+                            <div type="article">
+                                <head>§ 41</head>
+                                <p type="legal_section">Das Gebot innerhalb des Bundes sowie jedes
+                                    Landes die deutsche Sprache als Staatssprache einzuführen. Das
+                                    Recht Tirols eventuelle Ausnahmen von diesem Gebote zu Gunsten
+                                    der bodenständigen ladinischen Bevölkerung zu machen; wird schon
+                                    vom Bundesrate auf dem Wege der Verfassung genau
+                                    umschrieben.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 42</head>
+                                <p type="legal_section">Das Gebot innerhalb jedes Landes den
+                                    Schulzwang für Elementarschulen einzuführen, die mindestens
+                                    Lesen, Schreiben und die vier elementaren Rechnungsoperationen
+                                    lehren.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div type="section">
+                        <head>B. Wirkungskreis der Bundesgewalt.</head>
+                        <div type="article">
+                            <head>§ 43</head>
+                            <p type="legal_section">Der Wirkungskreis der legislativen und
+                                exekutiven Bundesgewalt umfasst alles, was der Bundesrat ihr durch
+                                Verfassungsschaffung zuweist. Ess ist das im Einzelenen das
+                                Folgende</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 44</head>
+                            <p type="legal_section">Das Heerwesen aber nur soweit als die
+                                Vorbereitung der Schlagfertigkeit für den Kriegsfall eine gemeinsame
+                                Regelung unbedingt erfordert. Die genauen Grenzen hierfür weden vom
+                                Bundesrat auf dem Wege der Verfassung festgelegt.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 45</head>
+                            <p type="legal_section">Die Entscheidung über Krieg und Frieden, alle
+                                auswärtigen Angelegenheiten mit Einschluss der diplomatischen und
+                                kommerziellen Vertretung dem Auslande gegenüber, insbesonders der
+                                Anschluss von Staats- und Handelsverträgen sowie die in betreff der
+                                internationalen Verträge notwendigen Verfügungen.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 46</head>
+                            <p type="legal_section">Die Führung des Bundeshaushaltes, die Verwaltung
+                                des Bundesvermögens und der Bundesschulden, die Regelung des
+                                Bundessteuerwesens unter Benützung der vom Bundesrat auf dem Wege
+                                der Verfassung der Bundesgewalt zur Verfügung gestellten
+                                Steuerquellen (§ 23).</p>
+                        </div>
+                        <div type="article">
+                            <pb facs="#facs_7" n="6" xml:id="img_0007" break="yes"/>
+                            <fw type="pageNum">6</fw>
+                        </div>
+                        <div type="article">
+                            <head>§ 47</head>
+                            <p type="legal_section">Die Führung der bundesstaatlichen Statistik.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 48</head>
+                            <p type="legal_section">Das Arbeitsrecht, Frauen- und Kinderschutz, das
+                                soziale Versicherungswesen, soweit es sich um Verhältnisse der
+                                industriellen Arbeiterschaft handelt.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 49</head>
+                            <p type="legal_section">Die Gesetzgebung auf dem Gebiete des Straf- und
+                                Zivilrechtes sowie Prozesses, die Gesetzgebung auf dem Gebiete der
+                                Konsulgerichtsbarkeit sowie Regelung derselben. Die Gesetzgebung
+                                betreffend die Rechtsverhältnisse am Grund und Boden bleibt den
+                                Ländern vorbehalten, innerhalb vom Bundesrate auf dem Wege der
+                                Verfassung genau festgelegten Grenzen.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 50</head>
+                            <p type="legal_section">Die Regelung des Handels- und Wechselrechtes,
+                                des Patentwesens, Marken- und Musterschutz, der Schutz des geistigen
+                                Eigentums, das Münz- und Währungswesen, die Bundesbank, das
+                                Punzierungswesen, Mass und Gewicht, Das Zollwesen.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 51</head>
+                            <p type="legal_section">Das Verkehrswesen (Eisenbahnen, Schiffahrt,
+                                Luftschiffahrt, Post, Telegraph und Telephon, soferne es sich hiebei
+                                um Materien handelt, die über die Grenzen des einzelnen Landes
+                                hinaus öffentliche Interessen tangieren.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 52</head>
+                            <p type="legal_section">Nähere Ausgestaltung der Bundesverfassung
+                                innerhalb der Grenzen, welche der Bundesrat durch die von ihm
+                                beschlossene Verfassung gezogen hat.</p>
+                        </div>
+                    </div>
+                    <div type="section">
+                        <head>C. Die Legislative des Bundes:</head>
+                        <div type="section">
+                            <head>a) das legislative Organ.</head>
+                            <div type="article">
+                                <head>§ 53</head>
+                                <p type="legal_section">Das gesetzgebende Organ des Bundes ist der
+                                    Bundestag. - Er besteht aus einem Ober- und Unterhaus.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 54</head>
+                                <p type="legal_section">Beide Häuser werden in gleicher, geheimer
+                                    unmittelbarer Abstimmung nach dem Verhältniswahlrecht aus dem
+                                    ganzen Bunde gewählt. Wahlberechtigt ist jeder Bundesbürger, der
+                                    durch das Wahlgesetz vom Wahlrecht nicht ausgeschlossen ist.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 55</head>
+                                <p type="legal_section">Die Altersgrenze für das aktive Wahlrecht
+                                    ist im Oberhaus 30, im Unterhaus 20 Jahre. Für das passive
+                                    Wahlrecht im Oberhaus 35, im Unterhaus 25 Jahre.</p>
+                            </div>
+                            <div type="article">
+                                <pb facs="#facs_8" n="7" xml:id="img_0008" break="yes"/>
+                                <fw type="pageNum">7</fw>
+                            </div>
+                            <div type="article">
+                                <head>§ 56</head>
+                                <p type="legal_section">Die Wahlkreise dürfen die Landesgrenzen
+                                    nicht überschrieten. die sollen für das Oberhaus beiläufig
+                                    80.000 Einwohner, für das Unterhaus beiläufig 40.000 Einwohner
+                                    umfassen.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 57</head>
+                                <p type="legal_section">Die Mandatsdauer ist im Unterhaus 4, im
+                                    Oberhaus 8 Jahre.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 58</head>
+                                <p type="legal_section">Beide Häuser treten getrennt unter dem
+                                    Vorsitze ihres Aeltesten zusammen und wählen ihre Leitung, die
+                                    aus einem Vorsitzenden, 2 Stellvertretern, 3 Schriftführern
+                                    besteht, auf ein Jahr. Die Verhandlungen beider Kammern sind
+                                    immer getrennt.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 59</head>
+                                <p type="legal_section">Das Vorschlagrecht (die Initiative) steht
+                                    dem Präsidenten des Bundesfreistaates der Bundesregierung jeder
+                                    der beiden Kammern und jedem einzelnen Mitgliede zu. Wenn
+                                    hunderttausend stimmberechtigte Bundesbürger es fordern, steht
+                                    die Initiative auch beim Volk.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 60</head>
+                                <p type="legal_section">Vorlagen der Bundesregierung können in jeder
+                                    der beiden Kammern eingebracht werden.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 61</head>
+                                <p type="legal_section">Zu einem giltigen Beschluss ist in beiden
+                                    Kammern die Anwesenheit eines vollen Drittels der Mitglieder
+                                    erforderlich. Es entscheidet die absolute Mehrheit der
+                                    Anwesenden.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 62</head>
+                                <p type="legal_section">Zur Erledigung aller Angelegenheiten im
+                                    Wirkungskreis des Bundestages ist der übereinstimmende Beschluss
+                                    beider Kammern erforderlich.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 63</head>
+                                <p type="legal_section">Wenn trotz zweimaliger Beratung die
+                                    Uebereinstimmung beider Kammern nicht erreicht werden kann, dann
+                                    hat das Oberhaus das Recht, ein Referendum im ganzen Bunde
+                                    anzuordnen. Die Stimmenzählung findet hiebei nicht länderweise
+                                    statt, wie bei den vom Bundesrat angeordneten Referenden (siehe
+                                    § 15, 18, 21), sondern es entscheidet die Majorität der Stimmen
+                                    des ganzen Bundes.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 64</head>
+                                <p type="legal_section">Wenn das Oberhaus auf dieses Referendum
+                                    verzichtet, dass gilt der Beschluss des Unterhauses als
+                                    Beschluss des Bundestages.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 65</head>
+                                <p type="legal_section">Zur giltigen Erledigung dieser
+                                    Angelegenheiten im Wirkungskreis des Bundestages ist ausserdem
+                                    die Zustimmung des Präsidenten erforderlich.</p>
+                            </div>
+                            <div type="article">
+                                <pb facs="#facs_9" n="8" xml:id="img_0009" break="yes"/>
+                                <fw type="pageNum">8</fw>
+                            </div>
+                            <div type="article">
+                                <p type="legal_section">wenn der Präsident seine Zustimmung weiter
+                                    verweigert, trotzdem rechtskräftig.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 66</head>
+                                <p type="legal_section">Die Mitglieder der Bundesregierung sind
+                                    berechtigt, an allen Verhandlungen des Bundestages teilzunehmen
+                                    und kann ihre Anwesenheit auch von letzterem gefordert
+                                    werden.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 67</head>
+                                <p type="legal_section">Die Sitzungen beider Kammern sind
+                                    öffentlich, sofern dieselben nicht ausdrücklich das Gegenteil
+                                    beschliessen.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 68</head>
+                                <p type="legal_section">Die Mitglieder beider Kammern werden aus der
+                                    Bundeskasse bezahlt.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 69</head>
+                                <p type="legal_section">Die Verhandlungssprache ist ausschließlich
+                                    die deutsche.</p>
+                            </div>
+                        </div>
+                        <div type="section">
+                            <head>b) Die Kompetenz des legislativen Organes:</head>
+                            <div type="article">
+                                <head>§ 70</head>
+                                <p type="legal_section">In den Wirkungskreis des Bundestages fällt
+                                    der legislative Teil aller jener Angelegenheiten, die der
+                                    Bundesrat durch Verfassungsgebung der Bundesgewalt überträgt.
+                                    (insbesondere auch Wahlgesetz zum Bundestage und
+                                    Geschäftsordnung desselben). Ferner</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 71</head>
+                                <p type="legal_section">Die Entscheidung über Krieg und Frieden.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 72</head>
+                                <p type="legal_section">Die Prüfung und Genehmigung der Staats- und
+                                    Handelsverträge.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 73</head>
+                                <p type="legal_section">Die jährliche Prüfung und Genehmigung der
+                                    Führung des Bundeshaushaltes und der Rechnungsabschlüsse, die
+                                    jährliche Bewilligung der Steuern und Abgaben.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 74</head>
+                                <p type="legal_section">Die Erhebung der Staatsanklage.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 75</head>
+                                <p type="legal_section">Die Ausuebung der Kontrolle der
+                                    Bundesschulen.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 76</head>
+                                <p type="legal_section">Jede Kammer ist berechtigt, die Mitglieder
+                                    der Bundesregierung zu interpellieren, in allem, was ihr
+                                    Wirkungskreis erfordert, Ausschüsse einzusetzen und ihrer
+                                    Ansicht in Form von Entschliessungen Ausdruck zu verleihen.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div type="section">
+                        <head><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><fw
+                                type="pageNum">9</fw>D. Exekutive des Bundes:</head>
+                        <div type="section">
+                            <head>a) Präsident und Vizepräsidenten:</head>
+                            <div type="article">
+                                <head>§ 77</head>
+                                <p type="legal_section">Die Wahl des Präsidenten und Vizepräsidenten
+                                    des Bundes findet durch den Bundesrat statt. (§ 27)</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 78</head>
+                                <p type="legal_section">Passiv wahlberechtigt ist jeder
+                                    Staatsbürger, der nach dem Wahlgesetz zum Bundestag
+                                    wahlberechtigt ist und das 40. Lebensjahr vollendet hat.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 79</head>
+                                <p type="legal_section">Präsident und Vizepräsident müssen
+                                    verschiedenen Ländern angehören und dürfen während ihrer
+                                    Amtsdauer kein anderes öffentliches Amt bekleiden und weder
+                                    Mitglieder des Bundesstaates noch des Bundestages sein.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 80</head>
+                                <p type="legal_section">Präsident und Vizepräsident leisten in die
+                                    Hand des Präsidenten des Bundesrates die Angelobung auf die
+                                    Bundesverfassung.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 81</head>
+                                <p type="legal_section">Der Präsident vertritt den Bundesstaat nach
+                                    aussen, empfängt und beglaubigt die Gesandten, ihm obliegt
+                                    ferner Erstattung von Vorschlägen über die Bestellung oder
+                                    Abberufung der Bundesregierung an den Bundestag. Die Ernennung
+                                    und Abberufung der diplomatischen und kommerziellen Vertreter im
+                                    Auslande. Die Zeichnung der Bundesgesetze und Beschlüsse (siehe
+                                    § 65)</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 82</head>
+                                <p type="legal_section">Dem Präsidenten des Bundesstaates steht das
+                                    Recht der Ablition zu sowie das Recht Strafnachlass und
+                                    Aufhebung der Straffolgen zu gewähren, sowie das Recht der
+                                    Initiative (§ 59).</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 83</head>
+                                <p type="legal_section">Der Präsident ist dem Volke für seine
+                                    Amtsführung verantwortlich und kann unter Staatsanklage gestellt
+                                    werden.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 84</head>
+                                <p type="legal_section">Wenn der Präsident des Bundesstaates aus
+                                    irgend einem Grund sein Amt verliert, tritt der Vizepräsident
+                                    für die restliche Dauer der Amtsperiode in seine Rechte und
+                                    Pflichten. Auch während seiner Amtsdauer kann der Präsident den
+                                    Vizepräsidenten für einen bestimmten Fall oder auf bestimmte
+                                    Zeit mit seiner Stellvertretung betrauen (zum Beispiel bei
+                                    Abwesenheit des Präsidenten im Auslande.)</p>
+                            </div>
+                        </div>
+                        <div type="section">
+                            <head><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><fw
+                                    type="pageNum">10</fw>c) die Bundesregierung.</head>
+                            <div type="article">
+                                <head>§ 85</head>
+                                <p type="legal_section">Zur Durchführung der Aufgaben der obersten
+                                    Bundesverwaltung wählt der Bundestag über Vorschlag des
+                                    Präsidenten des Bundesrates die Bundesregierung.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 86</head>
+                                <p type="legal_section">Der Sitz der Bundesregierung ist die
+                                    Bundeshauptstadt wien. Die Bundesregierung steht unter der
+                                    Leitung des Bundeskanzlers.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 87</head>
+                                <p type="legal_section">Welche Bundesämter mit dauernden Aufträgen
+                                    und Vollmachten einzurichten und von den Mitgliedern der
+                                    Bundesregierung zu bestzen sind, wird durch ein besonderes
+                                    Gesetz des Bundestages bestimmt, sofern sich dies der Bundesrat
+                                    nicht durch die Verfassung für einzelne Fälle vorbehalten
+                                    hat.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 88</head>
+                                <p type="legal_section">Wenn der Bundestag auf Vorschlag des
+                                    Präsidenten des Bundesstaates die Bundesregierung oder einzelne
+                                    Mitgleider derselben abberuft, so bestimmt der Präsident des
+                                    Bundesstaats wer deren Aufträge und Vollmachten bis zur
+                                    Bestellung einer neuen Bundesregierung auszuführen hat.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div type="section">
+                        <head>E. Landesverfassung.</head>
+                        <div type="article">
+                            <head>§ 89</head>
+                            <p type="legal_section">Jedes Land gibt sich seine Verfassung selbst und
+                                ist hierin nur durch die vom Bundesrat in der Bundesverfassung
+                                gezogenen Grenzen beschränkt. Die nährere Bestimmung dieser Grenzen
+                                ist durch die Bundesgrundgesetze (§ 30 - 42) und durch die
+                                Aufzählung der vom Bundesrat dem Bunde überwiesenen Angelegenheiten
+                                (§ 43 bis 62) erschöpft.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 90</head>
+                            <p type="legal_section">Jedes Land ist verpflichtet, die von ihm
+                                beschlossenen Landesgesetze vor ihrer Publizierung dem
+                                Bundespräsidenten mitzuteilen, damit derselbe im Falle sie der
+                                Bundesverfassung widersprechen, dem Verfassungsgerichtshof anzeigen
+                                könne. Dies hat innerhalb 14 Tagen zu geschehen. Der
+                                Verfassungsgerichtshof hat sein Urteil innerhalb längstens eines
+                                Monates zu fällen. Erst wenn dieses zustimmend ausfällt, kann das
+                                Landesgesetz publiziert werden.</p>
+                        </div>
+                    </div>
+                    <div type="section">
+                        <head><pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><fw
+                                type="pageNum">11</fw>F. Ständische Autonomien.</head>
+                        <div type="article">
+                            <head>§ 91</head>
+                            <p type="legal_section">Der Bundesrat behält sich ausdrücklich vor den
+                                durch einstimmigen Beschluss Autonomien legislativen und
+                                administrativen Charakters in Angelegenheiten, der von ihnen
+                                vertretenen Stände eventuell auch im Umfange des ganzen Bundes zu
+                                gewähren.</p>
+                        </div>
+                    </div>
+                    <div type="section">
+                        <head>G. Allgemeine Bestimmungen über die Rechte und Pflichten der
+                            Volksvertreter:</head>
+                        <div type="article">
+                            <head>§ 92</head>
+                            <p type="legal_section">Die Mitgliedschaft im Bundesrat im Oberhaus des
+                                Bundestags und im Unterhaus des Bundestags ist incompatibel. Niemand
+                                kann mehr als eines dieser Aemter gleichzeitig bekleiden. Ueber die
+                                Compatibilität mit einem Landtagsmandat entscheidet die betreffende
+                                Landesverfassung.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 93</head>
+                            <p type="legal_section">Die Mitgleider der drei genannten
+                                Volksvertretungen können wegen der in Ausübung ihres Berufes
+                                geschehenen Abstimmung niemals, wegen der in diesem Berufe gemachten
+                                Aeusserungen aber nur von ihrer Volksvertretung zur Verantwortung
+                                gezogen werden.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 94</head>
+                            <p type="legal_section">Kein Mitglied der genannten 3 Volksvertretungen
+                                darf während der Dauer der Wahlperiode wegen einer strafbaren
+                                Handlung ausgenommen bei Ergreifung auf frischer Tat ohne Zustimmung
+                                seiner Volksvertretung vorteilhaft oder gerichtlich verfolgt werden.
+                                Im Falle der Ergreifung auf frischer Tat ist die Volksvertretung,
+                                der der Betroffene angehört, sofort zu verständigen.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 95</head>
+                            <p type="legal_section">Wenn die betreffende Volksvertretung es
+                                verlangt, muss der Verhaft aufgehoben oder die Verfolgung auf die
+                                Dauer der ganzen Wahlperiode aufgeschoben werden. Dasselbe Recht
+                                haben die 3 genannten Volksvertretungen in Betreff einer Verhaftung
+                                oder Untersuchung, welche über ein Mitglied derselben vor der
+                                Wahlperiode verhängt worden ist.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 96</head>
+                            <p type="legal_section">Die Mitgleider der genannten 3 Volksvertretungen
+                                haben ihr Stimmrecht persönlich auszuüben.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 97</head>
+                            <p type="legal_section">die Mandate der Mitglieder der genannten 3
+                                Volksvertretungen erlöschen mit dem Wahltag für die kommende
+                                Wahlperiode. Bestimmungen über eventuelle Nachwahlen während der
+                                Wahlperiode setzen die betreffenden Wahlgesetze fest.</p>
+                        </div>
+                        <pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>
+                        <fw type="pageNum">12</fw>
+                        <div type="article">
+                            <head>Variante II</head>
+                            <p>§ 14 - § 19 fällt aus und wird durch nichts ersetzt.</p>
+                        </div>
+                        <div type="article">
+                            <head>Variante III</head>
+                            <p>§ 13 - § 19 fällt aus, statt dessen kommt: Zum Beschluss der
+                                Verfassung ist Einstimmigkeit des Bundesratsbeschlusses
+                                erforderlich. Zum Beschluss von Verfassungsänderungen 4/5 Majorität.
+                                Wie die 4/5tel Majorität im vorliegenden Falle zu berechnen ist,
+                                bestimmt der Bundesrat mit einstimmigem Beschluss.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
       </body>
    
     </text>
