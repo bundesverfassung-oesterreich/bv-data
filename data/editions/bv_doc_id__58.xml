@@ -320,13 +320,13 @@ Zustand: gut</note>
         <body>
          <div type="main">
             <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+            <fw type="pageNum">1</fw>
             <?oxy_comment_start author="Atkinson.J" timestamp="20251112T162354+0100" comment="Handschrift nachtragen"?>
-            <p/><?oxy_comment_end?>
+            <p>Staatskzl <gap reason="illegible"/> 208</p><?oxy_comment_end?>
             <p>Vertraulich!</p>
             <head>Protokoll über die 3. Länderkonferenz (Nr. 36 der Kabinettsprotokolle) vom 31.
                Jänner und 1. Februar 1919</head>
             <p>(Stenographische Aufnahme)</p>
-            <p><fw type="pageNum">1</fw></p>
             <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw type="pageNum">2</fw>Anwesend:<list>
                   <item>Präsident <emph>Hauser</emph>;</item>
                   <item>die Staatsräte <emph>Fink</emph> und Dr. <emph>Schoepfer</emph>;</item>
@@ -396,8 +396,8 @@ Zustand: gut</note>
                   <item>(in der Folge vertretungsweise vortragender Staatsrat Dr.
                         <emph>Schoepfer</emph>)</item>
                </list></p>
-            <p><emph>Beginn</emph>: 10 Uhr vormittags<pb facs="#facs_4" n="4" xml:id="img_0004"
-                  break="yes"/><fw type="pageNum">3</fw></p>
+            <p><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><fw type="pageNum"
+                  >3</fw><emph>Beginn</emph>: 10 Uhr vormittags</p>
             <sp>
                <speaker>Staatskanzler Dr. <emph>Renner</emph>:</speaker>
                <p>Verehrte Herren! Ich erkläre die dritte Länderkonferenz für eröffnet.</p>
@@ -471,7 +471,7 @@ Zustand: gut</note>
                   Nichtsdestoweniger sehe ich mich genötigt, nach einer ausführlichen Rücksprache
                   mit den Herren meines Bureaus, des legislativen Dienstes, die Gesichtspunkte
                   vorzuführen, von denen das ganze legislative Departement und die Staatskanzlei
-                  selbst beherrscht sind, damit die Be-<pb facs="#facs_5" n="5" xml:id="img_0005"
+                  selbst beherrscht sind, damit die Be<pb facs="#facs_5" n="5" xml:id="img_0005"
                      break="no"/><fw type="pageNum">4</fw>unruhigung, die mannigfach draußen
                   entstanden ist, als ob hier in der Staatskanzlei irgend eine zentralistische
                   Tendenz herrschen würde, zerstreut werde.</p>
@@ -556,7 +556,7 @@ Zustand: gut</note>
                   handelt sich also nur um die Heilung eines einzigen Punktes, um die Ersetzung der
                   vorläufig provisorischen Landesversammlungen durch definitive. Die Stellung und
                   Kompetenz <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><fw
-                     type="pageNum">5</fw>dieser Körperschaften im Staatsganzen soll erst später
+                     type="pageNum">5</fw> dieser Körperschaften im Staatsganzen soll erst später
                   durch die Konstitution geregelt werden; aber bei der Verfassung der Konstitution
                   soll schon eine legalisierte Vertretung jedes Landes mitwirken. Das in Bezug auf
                   diesen Gesetzentwurf.</p>
@@ -641,7 +641,7 @@ Zustand: gut</note>
                   einmal ein gesichertes Recht der instanzenmäßigen Entscheidung haben, sondern in
                   jedem Momente kann der Minister seine Entscheidung an Stelle der des Präfekten,
                   des Souspräfekten oder des Maires setzen. Es ist also eine <pb facs="#facs_7"
-                     n="7" xml:id="img_0007" break="yes"/><fw type="pageNum">6</fw>stramm
+                     n="7" xml:id="img_0007" break="yes"/><fw type="pageNum">6</fw> stramm
                   bureaukratische Ordnung. Dabei gibt es allerdings in den Departements sogenannte
                   Generalräte; diese sind aber rein dekorativ. Der Grundtypus ist hier also der:
                   Eine einzige Gesetzgebung und ein einziger Verwaltender, das ist der Minister,
@@ -726,7 +726,7 @@ Zustand: gut</note>
                   uns hinüberzuführen auf das System des self-governments oder der Selbstregierung
                   und ich meine, daß das Wort Selbstregierung der Länder das Schlagwort werden müßte
                   gegenüber dem schiefen, gänzlich unpassenden Schlagwort der Autonomie; denn die
-                  Autonomie ist ein Miß-<pb facs="#facs_8" n="8" xml:id="img_0008" break="no"/><fw
+                  Autonomie ist ein Miß<pb facs="#facs_8" n="8" xml:id="img_0008" break="no"/><fw
                      type="pageNum">7</fw>ding im Begriffe selbst, es ist nicht Selbstverwaltung, es
                   ist nicht Selbstgesetzgebung, es ist ein Stück von allem und ein sehr schiefes und
                   schlecht herausgeschnittenes Stück von allem. Wir sollten aber unser Denken darauf
@@ -811,7 +811,7 @@ Zustand: gut</note>
                   sich auf die Einrichtung der Zentralstellen. Man wird, wenn man ein
                   Zentralparlament aufrichtet, erwägen müssen, dabei die Länder zu berücksichtigen,
                   und es wird sich unter einer Voraussetzung, über <pb facs="#facs_9" n="9"
-                     xml:id="img_0009" break="yes"/><fw type="pageNum">8</fw>die ich noch sprechen
+                     xml:id="img_0009" break="yes"/><fw type="pageNum">8</fw> die ich noch sprechen
                   werde, vielleicht empfehlen, neben dem Volkshause auch ein Länderhaus zu schaffen,
                   sowie in Amerika der Senat neben dem Repräsentantenhause ein Staatenhaus ist,
                   natürlich auch auf demokratischer Basis. Dadurch wird man der Tatsache
@@ -982,21 +982,21 @@ Zustand: gut</note>
                   Diktatur der Bureaukratie oder eine Diktatur des Proletariats oder irgendeine
                   andere Diktatur. Es ist tätsächlich so arg — ich bitte, erlassen Sie es mir, das
                   im einzelnen <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><fw
-                     type="pageNum">10</fw>zu schildern —, daß das Kabinett der Staatssekretäre sich
-                  nicht zu helfen weiß. Es ist einfach kläglich, wie die Verwaltung in diesen Dingen
-                  auseinander geht; wir stürzen uns mutwillig in schwere Krisen. Es ist freilich im
-                  Grunde genommen, wenn wir aufrichtig sein wollen, selbst die Furcht vor diesen
-                  Krisen, die alle lokalen Faktoren, die irgendetwas haben, dazu bestimmt,
-                  wenigstens das, was sie haben, festzuhalten. Aber wie begreiflich das auch ist, so
-                  verkehrt ist es nach meiner Meinung; denn glauben Sie ja nicht, daß man sich
-                  rettet, wenn man gerade das festhält, was der eine oder andere hat. Wir entrinnen
-                  dann doch der Anarchie nicht. Es ist auch hierin so, daß wir uns alle miteinander
-                  retten müssen, weil sich der Einzelne nicht retten kann. Deshalb glaube ich, daß
-                  wir in Beziehung auf die Verwaltungs- und Ernährungsfragen jetzt und zeitweilig
-                  tatsächlich von zentralistischen Grundsätzen ausgehen müssen, weil unser Volk
-                  sonst nicht wird leben können. Diese zentralistischen Grundsätze müssen hier
-                  durchgeführt werden, sie können nicht vermieden werden. Aber das müssen Sie hören
-                  und glauben: Sie werden nicht durchgeführt aus irgendeiner Neigung zum
+                     type="pageNum">10</fw> zu schildern —, daß das Kabinett der Staatssekretäre
+                  sich nicht zu helfen weiß. Es ist einfach kläglich, wie die Verwaltung in diesen
+                  Dingen auseinander geht; wir stürzen uns mutwillig in schwere Krisen. Es ist
+                  freilich im Grunde genommen, wenn wir aufrichtig sein wollen, selbst die Furcht
+                  vor diesen Krisen, die alle lokalen Faktoren, die irgendetwas haben, dazu
+                  bestimmt, wenigstens das, was sie haben, festzuhalten. Aber wie begreiflich das
+                  auch ist, so verkehrt ist es nach meiner Meinung; denn glauben Sie ja nicht, daß
+                  man sich rettet, wenn man gerade das festhält, was der eine oder andere hat. Wir
+                  entrinnen dann doch der Anarchie nicht. Es ist auch hierin so, daß wir uns alle
+                  miteinander retten müssen, weil sich der Einzelne nicht retten kann. Deshalb
+                  glaube ich, daß wir in Beziehung auf die Verwaltungs- und Ernährungsfragen jetzt
+                  und zeitweilig tatsächlich von zentralistischen Grundsätzen ausgehen müssen, weil
+                  unser Volk sonst nicht wird leben können. Diese zentralistischen Grundsätze müssen
+                  hier durchgeführt werden, sie können nicht vermieden werden. Aber das müssen Sie
+                  hören und glauben: Sie werden nicht durchgeführt aus irgendeiner Neigung zum
                   Zentralismus, sondern weil man sonst tatsächlich nicht leben kann. Wenn aber diese
                   Solidarität in der Ernährung nicht hergestellt wird, dann reißen wir den ganzen
                   Staat auseinander, dann werden wir nicht den Anschluß gemeinsam vollziehen,
@@ -1202,9 +1202,8 @@ Zustand: gut</note>
                   im Wege einer Gehschule für diese unbeholfenen Länder die Sache in die Wege zu
                   leiten, ist ein verfehltes Vorgehen und löst bei uns Wirkungen aus, von denen der
                   Herr Staatskanzler keine Vorstellung hat.</p>
-               <p><?oxy_comment_start author="Atkinson.j" timestamp="20251119T173940+0100" comment="formatiert und gegengelesen bis hier S. 12"?>In<?oxy_comment_end?>
-                  meinem Heimatlande besteht gegenwärtig eine Privatbewegung für den Anschluß an die
-                  Schweiz. Sie hat keinerlei offiziellen Charakter; man hat sie auch gewähren
+               <p>In meinem Heimatlande besteht gegenwärtig eine Privatbewegung für den Anschluß an
+                  die Schweiz. Sie hat keinerlei offiziellen Charakter; man hat sie auch gewähren
                   lassen, weil es sich um eine gefühlsschwärmerische Bewegung handelt,
                   herausgewachsen aus den heutigen Zuständen, die auch wieder ihren Höhepunkt
                   überwinden und dann, wenn einmal offizielle Persönlichkeiten eingreifen, gewiß
@@ -1238,7 +1237,7 @@ Zustand: gut</note>
                   unsere Anschauungen teilt und gewillt ist, uns eine solche föderative Verfassung
                   zu geben, daß wir mit ihr leben können. Wenn die Regierung jene <pb
                      facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><fw type="pageNum"
-                     >13</fw>Dinge aufzählt, die sie der reichsgesetzlichen Verfassung unbedingt
+                     >13</fw> Dinge aufzählt, die sie der reichsgesetzlichen Verfassung unbedingt
                   vorbehalten will, und daran das Bekenntnis knüpft, daß sie bereit sei, die anderen
                   Dinge den Ländern zur selbständigen Ausarbeitung zu überlassen, dann werden wir
                   befriedigt sein. Wenn sie aber als zweiten Satz noch hinzufügt, daß sie auch bei
@@ -1322,8 +1321,8 @@ Zustand: gut</note>
                   Absichten der Länder hören. Das halte ich für ganz selbstverständlich und für die
                   Grundbedingung, damit ein neues Deutschösterreich, ein Freistaat zustande komme.
                   Die Staatsfreudigkeit <pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"
-                     /><fw type="pageNum">14</fw>hat unter der Monarchie vielfach gefehlt, sie fehlt
-                  jetzt vollständig; es wäre daher wohl die wichtigste Aufgabe, daß man diese
+                     /><fw type="pageNum">14</fw> hat unter der Monarchie vielfach gefehlt, sie
+                  fehlt jetzt vollständig; es wäre daher wohl die wichtigste Aufgabe, daß man diese
                   Staatsfreudigkeit wieder schafft und diese kann nur geschaffen werden, wenn man
                   den Ländern eine gewisse Bewegungsfreiheit, eine gewisse Selbständigkeit läßt.
                   Wenn wir aber darangehen, ein Staatshotel mit ganz uniformen Einrichtungen zu
@@ -1407,7 +1406,7 @@ Zustand: gut</note>
                   Materialien und Lebensmittel betrifft, als vielleicht jedes andere Land. Und darum
                   ist es um so notwendiger, bei uns auch darauf zu sehen, wie jetzt die Stimmung im
                   Lande ist. Diese Stimmung, meine Herren, ist von einem <pb facs="#facs_16" n="16"
-                     xml:id="img_0016" break="yes"/><fw type="pageNum">15</fw>solchen
+                     xml:id="img_0016" break="yes"/><fw type="pageNum">15</fw> solchen
                   Selbständigkeitstrieb erfüllt, wie Sie es vielleicht in keinem anderen Lande sehen
                   werden. Wir bekommen tagtäglich und wöchentlich Hunderte von Zuschriften von
                   Gemeinden und Körperschaften, die sich für die volle staatliche Selbständigkeit
@@ -1661,7 +1660,7 @@ Zustand: gut</note>
                   glaube nicht, daß bei den Vertagungsabsichten vielleicht auch die Absicht
                   mitspielt, daß man in den Ländern vielleicht verschiedene Wahlordnungen nach
                   verschiedenen Grundsätzen machen <pb facs="#facs_19" n="19" xml:id="img_0019"
-                     break="yes"/><fw type="pageNum">18</fw>kann, daß man vielleicht beabsichtigt,
+                     break="yes"/><fw type="pageNum">18</fw> kann, daß man vielleicht beabsichtigt,
                   gewisse Einschränkungen, wie sie in früheren Zeiten vielfach vorgekommen sind,
                   wieder einzuführen. Ich glaube, grundsätzlich müßte man unbedingt auf dem
                   Standpunkte stehen, daß das Wahlrecht in den Ländern und in den Gemeinden auf
@@ -1687,8 +1686,8 @@ Zustand: gut</note>
             </sp>
             <sp>
                <speaker>Staatssekretär Dr. <emph>Bauer</emph>:</speaker>
-               <p> Von meinem Standpunkt aus ist bei allen diesen Fragen das erste, daß wir
-                  möglichst bald unsere außenpolitische Handlungsfähigkeit gewinnen. Ich meine da
+               <p>Von meinem Standpunkt aus ist bei allen diesen Fragen das erste, daß wir möglichst
+                  bald unsere außenpolitische Handlungsfähigkeit gewinnen. Ich meine da
                   insbesondere, daß wir wirklich imstande sind, wenn der günstige Augenblick dazu
                   kommen wird — und niemand von uns weiß, wann er kommt —, über die Frage des
                   Anschlusses konkret mit Deutschland zu verhandeln. Es ist nun klar, daß wir in dem
@@ -1747,8 +1746,8 @@ Zustand: gut</note>
                   sind. (Ruf: Das ist unmöglich!) Wenn es aber unmöglich ist, ein Gesetz
                   durchzuführen, so muß man wohl ein neues Gesetz schaffen, wodurch das frühere
                   aufgehoben wird. (Landesrat <pb facs="#facs_20" n="20" xml:id="img_0020"
-                     break="yes"/><fw type="pageNum">19</fw>Dr. <emph>Reut-Nicolussi</emph>: Es gibt
-                  auch Landesgesetze!) Wenn Sie behaupten, daß ein Reichsgesetz durch ein
+                     break="yes"/><fw type="pageNum">19</fw> Dr. <emph>Reut-Nicolussi</emph>: Es
+                  gibt auch Landesgesetze!) Wenn Sie behaupten, daß ein Reichsgesetz durch ein
                   Landesgesetz abgeändert werden soll, daß also entgegen dem bisherigen Satze im
                   deutschen Recht: „Reichsrecht bricht Landrecht“ der Satz gelten soll: „Landrecht
                   bricht Reichsrecht“, dann allerdings würden wir uns grundsätzlich in verschiedenen
@@ -1764,9 +1763,8 @@ Zustand: gut</note>
                   Gemeindewahlordnungen festzusetzen, dadurch begrenzt, daß gewisse Rahmengesetze
                   existiert haben, zum Beispiel die Gemeindeordnungen mußten sich im Rahmen des
                   Reichsgemeindegesetes halten. Dieses Recht war aber weiter begrenzt durch die
-                  absolute Willkür der Regierung, nämlich durch das Sanktionsrecht.
-                  <?oxy_comment_start author="Atkinson.j" timestamp="20251120T183409+0100" comment="form. und gegl. bis hier S. 21"?>Der<?oxy_comment_end?>
-                  hier vorliegende Entwurf geht aber von diesem Grundsatze der Sanktion ab, denn er
+                  absolute Willkür der Regierung, nämlich durch das Sanktionsrecht. Der hier
+                  vorliegende Entwurf geht aber von diesem Grundsatze der Sanktion ab, denn er
                   erlaubt dem Staatsrate nicht, je nach seinem Belieben die Sanktion zu geben oder
                   zu verweigern, sondern er setzt fest, daß der Staatsrat die Kundmachung vornehmen
                   muß, wenn nicht ganz bestimmte, in diesem Gesetze selbst angegebene Bedingungen
@@ -1834,7 +1832,7 @@ Zustand: gut</note>
                   Landeswahlordnungen den Bestimmungen des zitierten Gesetzes entsprechen. Dies zu
                   sagen, schien mir deshalb besonders notwendig, weil ich glaube, daß wir eine
                   dringende und <pb facs="#facs_21" n="21" xml:id="img_0021" break="yes"/><fw
-                     type="pageNum">20</fw>sehr rasche Demokratisierung der Vertretungskörper der
+                     type="pageNum">20</fw> sehr rasche Demokratisierung der Vertretungskörper der
                   Länder brauchen, da wir nur auf diese Weise die Voraussetzung für unsere eigene
                   Verfassungsarbeit und damit auch für unsere Handlungsfähigkeit in der
                   Anschlußfrage gewinnen.</p>
@@ -1922,7 +1920,7 @@ Zustand: gut</note>
                   Provisorium, das jeden und namentlich den, der berufen ist, an verantwortlicher
                   und verantwortlichster Stelle zu stehen, am meisten quält und ihm auf die Nerven
                      <pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/><fw type="pageNum"
-                     >21</fw>geht, möglichst bald beseitigen. Die zweite Frage ist die, daß wir uns
+                     >21</fw> geht, möglichst bald beseitigen. Die zweite Frage ist die, daß wir uns
                   auch einig darüber sind, daß die Wahlordnungen der Länder in der Frage des aktiven
                   und des passiven Wahlrechtes mit der Wahlordnung des Staates übereinstimmen
                   müssen, daß hier kein Unterschied bestehen, daß auch keine Durchbrechung
@@ -2006,7 +2004,7 @@ Zustand: gut</note>
                   englische Lokalgouvernement mit Elementen der schweizerischen Verfassung als
                   Muster vor, gleichsam England als Muster für die Ordnung der Verwaltung und die
                   Schweiz als Muster der Verfassung oder der Ordnung der <pb facs="#facs_23" n="23"
-                     xml:id="img_0023" break="yes"/><fw type="pageNum">22</fw>Gesetzgebung. Das ist
+                     xml:id="img_0023" break="yes"/><fw type="pageNum">22</fw> Gesetzgebung. Das ist
                   in der Tat mein Standpunkt. Ich habe ihn vorgeführt nicht etwa in Auftrage des
                   Staatsrates, in dessen Auftrag ich sonst hier sitze, sondern als Auffassung der
                   Funktionäre, die hier in der Staatskanzlei, Volksbeauftragte und Beamte vereint,
@@ -2176,7 +2174,7 @@ Zustand: gut</note>
                   daß das keine Belastung bedeutet. Es würde aber einen außerordentlichen Vorteil
                   bilden, nicht an den Wahlkampf für die Nationalversammlung eine dreimonatige
                   Wahlkampagne für <pb facs="#facs_25" n="25" xml:id="img_0025" break="yes"/><fw
-                     type="pageNum">24</fw>die Landesversammlung und wiederum eine zweimonatige
+                     type="pageNum">24</fw> die Landesversammlung und wiederum eine zweimonatige
                   Wahlkampagne für die Gemeindevertretung zu knüpfen; denn dann kommen wir nie zur
                   Ruhe. Aus dieser Zwangslage heraus hat die Staatskanzlei den Vorschlag gemacht,
                   zusammen zu wählen.</p>
@@ -2347,7 +2345,7 @@ Zustand: gut</note>
                   festgelegt waren, von einem, zwei oder drei Jahren. Damit hätten wir die
                   Grundsätze des allgemeinen Wahlrechtes für alle im Alter von 20 Jahren aufwärts,
                   das <pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/><fw type="pageNum"
-                     >26</fw>gleiche Wahlrecht mit der Einschränkung durch eine gewisse
+                     >26</fw> gleiche Wahlrecht mit der Einschränkung durch eine gewisse
                   Seßhaftigkeit, die direkte, die geheime, und selbstverständlich die Verhältniswahl
                   ohne Unterschied des Geschlechtes. Bezüglich der geheimen Wahl möchte ich
                   beifügen, daß sie in Kuvert und Zelle bestehen soll.</p>
@@ -2430,11 +2428,10 @@ Zustand: gut</note>
                   ich vermag aber vorläufig nicht einzusehen, daß mein Standpunkt nicht richtig
                   ist.</p>
                <p><pb facs="#facs_28" n="28" xml:id="img_0028" break="yes"/><fw type="pageNum"
-                     >27</fw><?oxy_comment_start author="Atkinson.j" timestamp="20251121T193137+0100" comment="form. u. gegl. bis hier S. 27"?>Wenn<?oxy_comment_end?>
-                  ich kurz zusammenfasse, bin ich der Meinung, wir sollten uns über folgende
-                  Grundsätze einigen: Allgemeines Wahlrecht beider Geschlechter im Alter über 20
-                  Jahre. Bezüglich des gleichen Wahlrechtes werden wir auch einig sein. Ich mache
-                  hierzu die Einschränkung, daß eine Seßhaftigkeit von einem halben Jahre
+                     >27</fw>Wenn ich kurz zusammenfasse, bin ich der Meinung, wir sollten uns über
+                  folgende Grundsätze einigen: Allgemeines Wahlrecht beider Geschlechter im Alter
+                  über 20 Jahre. Bezüglich des gleichen Wahlrechtes werden wir auch einig sein. Ich
+                  mache hierzu die Einschränkung, daß eine Seßhaftigkeit von einem halben Jahre
                   festgestellt werde. Darüber, daß die Wahl eine direkte und daß sie die
                   Verhältniswahl sein soll, sind wir einig. Darüber, daß die Wahl geheim sein und
                   daß dies durch Kuvert und Zelle zum Ausdruck kommen soll, dürften wir
@@ -2527,7 +2524,7 @@ Zustand: gut</note>
                   und Städtevertretern herabgedrückt werden. Das ist jeder Körperschaft sehr
                   unangenehm. Daher würde ich bitten, daß dieser Paragraph gestrichen wird, weil man
                   wenigstens <pb facs="#facs_29" n="29" xml:id="img_0029" break="yes"/><fw
-                     type="pageNum">28</fw>bei uns in Niederösterreich die alten Zahlen möglichst
+                     type="pageNum">28</fw> bei uns in Niederösterreich die alten Zahlen möglichst
                   als Grundlage nehmen und sich nicht freiwillig auf eine so hohe Zahl
                   hinauflizitieren lassen wird. Wenn hier die Zahl von 140 Abgeordneten festgesetzt
                   ist, wird der Herr Staatskanzler zugeben, daß es allen Parteien ungeheuer schwer
@@ -2711,7 +2708,7 @@ Zustand: gut</note>
                   haben die Einschränkung der Gemeinde bereits genug verspürt, ebenso die
                   Verkümmerung der Gesamtheit durch die Seßhaftigkeit. Wir wollen <pb
                      facs="#facs_31" n="31" xml:id="img_0031" break="yes"/><fw type="pageNum"
-                     >30</fw>eine Gemeinde haben, welche die Urzelle wird, die die Lebendigkeit und
+                     >30</fw> eine Gemeinde haben, welche die Urzelle wird, die die Lebendigkeit und
                   Existenzfähigkeit des Gesamtkörpers garantiert. Da wollen wir aber nun diese
                   Bazillen nicht hineingetragen wissen.</p>
             </sp>
@@ -2801,7 +2798,7 @@ Zustand: gut</note>
                   der Herr Landeshauptmann-Stellvertreter <emph>Pongratz</emph> angeführt hat, daß
                   die Landesregierungen jetzt die allgemeine Staatsverwaltung führen. Der
                   Staatsbürger, der sich nur kurze <pb facs="#facs_32" n="32" xml:id="img_0032"
-                     break="yes"/><fw type="pageNum">31</fw>Zeit im Land aufhält, steht dort unter
+                     break="yes"/><fw type="pageNum">31</fw> Zeit im Land aufhält, steht dort unter
                   der <emph>allgemeinen Staatsverwaltung</emph> und diese führt die Landesregierung.
                   Er wäre also in bezug auf die Landesregierung, soweit sie Staatsverwaltung ist,
                   gar nicht an das Moment des dauernden Aufenthaltes, der Seßhaftigkeit
@@ -2889,7 +2886,7 @@ Zustand: gut</note>
                   Lande haben, in welchem sie zu wählen haben. Ich glaube, daß diese zwei Kautelen
                   genügend sind, um einen gewissen Schutz zu bieten. Vor allem in nationaler
                   Beziehung. Wir werden ja gewiß in der neuen <pb facs="#facs_33" n="33"
-                     xml:id="img_0033" break="yes"/><fw type="pageNum">32</fw>Nationalversammlung
+                     xml:id="img_0033" break="yes"/><fw type="pageNum">32</fw> Nationalversammlung
                   mit den Ansprüchen der Minoritäten zu rechnen haben, eine Frage, die nicht allein
                   bei uns mitspielt, sondern die ja eigentlich international mitspielt, weil ja die
                   Deutschen Böhmens, im Falle sie beim tschecho-slowakischen Staat bleiben müssen,
@@ -2981,10 +2978,11 @@ Zustand: gut</note>
                   erörtern, ob man hier nur mit dem Ausdruck „ordentlicher Wohnsitz“ operieren oder
                   ob man diesen ordentlichen Wohnsitz auch näher definieren soll, daß <pb
                      facs="#facs_34" n="34" xml:id="img_0034" break="yes"/><fw type="pageNum"
-                     >33</fw>der Betreffende zum Beispiel sich drei Monate an einem Orte aufgehalten
-                  haben muß, sonst kann man in jedem einzelnen Falle über den ordentlichen Wohnsitz
-                  debattieren. Das einfachste wäre es, zu sagen, drei Monate muß er dort gewesen
-                  sein, dann hat er seinen ordentlichen Wohnsitz dort gehabt.</p>
+                     >33</fw> der Betreffende zum Beispiel sich drei Monate an einem Orte
+                  aufgehalten haben muß, sonst kann man in jedem einzelnen Falle über den
+                  ordentlichen Wohnsitz debattieren. Das einfachste wäre es, zu sagen, drei Monate
+                  muß er dort gewesen sein, dann hat er seinen ordentlichen Wohnsitz dort
+                  gehabt.</p>
                <p>Wenn Sie erlauben, werde ich den ganzen Artikel 43 der Schweizer Bundesverfassung
                   verlesen. Er lautet (liest): </p>
                <p>„Jeder Kantonbürger ist Schweizer Bürger.</p>
@@ -3469,291 +3467,407 @@ Zustand: gut</note>
                   Nationalversammlung verantwortlichen Organ unterstellt ist.</p>
             </sp>
             <sp>
-               <p>Staatskanzler Dr. Renner: Wir könnten sagen, daß die Landesregierungen nach den
-                  Weisungen des Staatsamtes des Innern betraut sind. Dadurch haben wir die oberste
-                  Minister verantwortlichkeit festgesetzt. Ich meine, es ist ein prekärer Zustand,
-                  aber wir können jetzt gesetzlich nichts machen. (Landeshauptmann Dr. Ender: Denkt
-                  man sich, daß Landesrat und Landesregierung ganz zusammenfallen können?) Die
-                  endgültige Verschmelzung wird Sache der Durchführung sein. Wenn das der Fall sein
-                  wird, so müssen wir daran denken, diese Scheidung von Landesrat und
-                  Landesregierung aufzuheben, dafür aber etwas zu setzen, was bei einer so großen
-                  Verwaltung notwendig ist und was sich in den englischen Grafschaften sehr bewährt
-                  hat, die Committer-Verwaltung, die Verwaltung durch eigene Ausschüsse, die
-                  eigentlich die Verwaltung führen, aber unter der ständigen Kontrolle der ganzen
-                  Landesversammlung stehen. Darüber jetzt zu sprechen, würde zu weit gehen. Das wird
-                  die Modalität sein, wie man die Verschmelzung der Verwaltung wird praktisch
-                  durchführen können. Die Art, wie die Landesausschüsse jetzt bestellt sind, wird
-                  sich da nicht gut auf die staatlichen Agenden übertragen lassen, denn bei vielen
-                  von ihnen ist diese Art der Verwaltung wirklich nicht zulässig; da muß eine ganz
-                  andere Organisation Platz greifen. Bei den Landesfonds usw., bei den Agenden, die
-                  der Landesausschuß heute hat, ist diese Art der Verwaltung zweckmäßig, aber bei
-                  den staatlichen Agenden, zum Beispiel der Staatspolizei ufw. kann man eine solche
-                  Verwaltung nicht in solchen Körperschaften führen. Darüber müssen wir eigens
-                  sprechen, das muß genau erwogen werden, wie diese Verschmelzung durchgeführt wird.
-                  Jetzt können wir das nicht erörtern. Ich meine also, nach der jetzt vorliegenden
-                  Gesetzgebung müssen wir den Staatssekretär des Innern verantwortlich sein lassen
-                  und wir können höchstens nur sagen: mit der Durchführung ist die Landesregierung
-                  nach Anweisung des Staatssekretärs des Innern betraut. (Dr. Weiskirchner: Ich sage
-                  einverstanden1) Einverstanden? Gs heißt auch so im Gefeßze über die Übernahme der
+               <speaker>Staatskanzler Dr. <emph>Renner</emph>:</speaker>
+               <p>Wir könnten sagen, daß die Landesregierungen nach den Weisungen des Staatsamtes
+                  des Innern betraut sind. Dadurch haben wir die oberste Minister verantwortlichkeit
+                  festgesetzt. Ich meine, es ist ein prekärer Zustand, aber wir können jetzt
+                  gesetzlich nichts machen. (Landeshauptmann Dr. <emph>Ender</emph>: Denkt man sich,
+                  daß Landesrat und Landesregierung ganz zusammenfallen können?) Die endgültige
+                  Verschmelzung wird Sache der Durchführung sein. Wenn das der Fall sein wird, so
+                  müssen wir daran denken, diese Scheidung von Landesrat und Landesregierung
+                  aufzuheben, dafür aber etwas zu setzen, was bei einer so großen Verwaltung
+                  notwendig ist und was sich in den englischen Grafschaften sehr bewährt hat, die
+                  Committee-Verwaltung, die Verwaltung durch eigene Ausschüsse, die eigentlich die
+                  Verwaltung führen, aber unter der ständigen Kontrolle der ganzen Landesversammlung
+                  stehen. Darüber jetzt zu sprechen, würde zu weit gehen.</p>
+               <p>Das wird die Modalität sein, wie man die Verschmelzung der Verwaltung wird
+                  praktisch durchführen können. Die Art, wie die Landesausschüsse jetzt bestellt
+                  sind, wird sich da nicht gut auf die staatlichen Agenden übertragen lassen, denn
+                  bei vielen von ihnen ist diese Art der Verwaltung wirklich nicht zulässig; da muß
+                  eine ganz andere Organisation Platz greifen. Bei den Landesfonds usw., bei den
+                  Agenden, die der Landesausschuß heute hat, ist diese Art der Verwaltung
+                  zweckmäßig, aber bei den staatlichen Agenden, zum Beispiel der Staatspolizei usw.
+                  kann man eine solche Verwaltung nicht in solchen Körperschaften führen. Darüber
+                  müssen wir eigens sprechen, das muß genau erwogen werden, wie diese Verschmelzung
+                  durchgeführt wird. Jetzt können wir das nicht erörtern.</p>
+               <p>Ich meine also, nach der jetzt vorliegenden Gesetzgebung müssen wir den
+                  Staatssekretär des Innern verantwortlich sein lassen und wir können höchstens nur
+                  sagen: mit der Durchführung ist die Landesregierung nach Anweisung des
+                  Staatssekretärs des Innern betraut. (Dr. <emph>Weiskirchner</emph>: Ich sage
+                  einverstanden!) Einverstanden? Es heißt auch so im Gesetze über die Übernahme der
                   Staatsgewalt in den Ländern: „nach Weisung des Staatssekretärs des Innern
                   beauftragt“. Bei der endgültigen Regelung wird man ein anderes Auskunftsmittel
-                  finden müssen. Von meinem Bureau wird vorgeschlagen, zu sagen: „Der Vollzug
-                  obliegt dem Staatssekretär des Innern, welcher damit die Landesregierung zu
-                  betrauen hat.“ Landeshauptmann Dr. Gnder: Vielleicht könnte man sagen: Die
-                  Durchführung hat der Landesrat, welcher sich dabei mit Einwilligung der
-                  Staatsregierung der Landesregierung bedienen wird. Staatskanzler Dr. Renner: Das
-                  ist zu vielfältig, da ist das ganze durcheinandergenommen. Man könnte sagen: Mit
-                  dem Vollzuge ist der Staatssekretär des Innern betraut, der damit den
-                  Landeshauptmann oder die Landesregierung zu beauftragen hat. Landeshauptmann Dr.
-                  Gnder: Den Landeshauptmann würden wir schon beauftragen lassen.
-                  Unterstaatssekretär Marckhl: Der Landeshauptmann ist immer zugleich Parteimann.
-                  Ich glaube, es würde jedenfalls der Sache entsprechen, wenn es hieße: die
-                  Landesregierung. Landeshauptmann Dr. v. Kaan: Ich kann sagen, daß ich als
-                  Landeshauptmann keinen Parteistandpunkt kenne. Aber aus einem anderen Grunde bin
-                  ich schon für die Landesregierung, weil der Landeshauptmann nach unjerem jetzigen
-                  System für sich allein nichts anderes ist als eine Repräsentatioperson. Er hat nur
-                  gewisse repräsentative Pflichten und Rechte, aber eine Entscheidung für sich
-                  allein hat der Landeshauptmann nicht. Staatskanzler Dr. Renner: Nur in den
-                  Angelegenheiten, die ihm referviert sind Gewisse Angelegenheiten, die absolut
-                  reservat geführt werden müssen, wie die Staatspolizei, können nur individuell
-                  geführt werden. Diese Angelegenheiten müssen wir regeln. Reservate
+                  finden müssen.</p>
+               <p>Von meinem Bureau wird vorgeschlagen, zu sagen: „Der Vollzug obliegt dem
+                  Staatssekretär des Innern, welcher damit die Landesregierung zu betrauen hat.“</p>
+            </sp>
+            <sp>
+               <speaker>Landeshauptmann Dr. <emph>Ender</emph>:</speaker>
+               <p>Vielleicht könnte man sagen: Die Durchführung hat der Landesrat, welcher sich
+                  dabei mit Einwilligung der Staatsregierung der Landesregierung bedienen wird.</p>
+            </sp>
+            <sp>
+               <speaker>Staatskanzler Dr. <emph>Renner</emph>:</speaker>
+               <p>Das ist zu vielfältig, da ist das ganze durcheinandergenommen. Man könnte sagen:
+                  Mit dem Vollzuge ist der Staatssekretär des Innern betraut, der damit den
+                  Landeshauptmann oder die Landesregierung zu beauftragen hat.</p>
+            </sp>
+            <sp>
+               <speaker>Landeshauptmann Dr. <emph>Ender</emph>:</speaker>
+               <p>Den Landeshauptmann würden wir schon beauftragen lassen.</p>
+            </sp>
+            <sp>
+               <speaker>Unterstaatssekretär <emph>Marckhl</emph>:</speaker>
+               <p>Der Landeshauptmann ist immer zugleich Parteimann. Ich glaube, es würde jedenfalls
+                  der Sache entsprechen, wenn es hieße: die Landesregierung.</p>
+            </sp>
+            <sp>
+               <speaker>Landeshauptmann Dr. v. <emph>Kaan</emph>:</speaker>
+               <p>Ich kann sagen, daß ich als Landeshauptmann keinen Parteistandpunkt kenne. Aber
+                  aus einem anderen Grunde bin ich schon für die Landesregierung, weil der
+                  Landeshauptmann nach unjerem jetzigen System für sich allein nichts anderes ist
+                  als eine Repräsentativperson. Er hat nur gewisse repräsentative Pflichten und
+                  Rechte, aber eine Entscheidung für sich allein hat der Landeshauptmann nicht.</p>
+            </sp>
+            <sp>
+               <speaker>Staatskanzler Dr. <emph>Renner</emph>:</speaker>
+               <p>Nur in den Angelegenheiten, die ihm reserviert sind. Gewisse Angelegenheiten, die
+                  absolut reservat geführt werden müssen, wie die Staatspolizei, können nur
+                  individuell geführt werden. Diese Angelegenheiten müssen wir regeln. Reservate
                   Militärangelegenheiten, zum Beispiel wenn ein strategischer Plan hinauskommt,
                   können nicht an eine Körperschaft gehen, sondern nur an eine Person, oder ein
                   Landesaufgebot zu erlassen und über dessen Verwendung zu entscheiden, das kann nur
-                  eine Person. Diese Sache muß noch gemacht werden. Damit ist dieser erste Punkt
-                  erledigt und wir kommen zur Wahlausschreibung. Nach dem gegenwärtigen Gesetze muß
-                  der Staatsrat die Wahlen ausschreiben. Die Landesregierungen sollen also einen
-                  Termin vercinbaren, dann wird der Staatsrat einen Beschluß fassen, so wie sie ihn
-                  unterbreiten. <pb facs="#facs_40" n="40" xml:id="img_0040" break="yes"/> 39 </p>
+                  eine Person. Diese Sache muß noch gemacht werden.</p>
+               <p>Damit ist dieser erste Punkt erledigt und wir kommen zur Wahlausschreibung. Nach
+                  dem gegenwärtigen Gesetze muß der Staatsrat die Wahlen ausschreiben. Die
+                  Landesregierungen sollen also einen Termin vereinbaren, dann wird der Staatsrat
+                  einen Beschluß fassen, so wie sie ihn unterbreiten.</p>
             </sp>
-            <p>Landeshauptmann Dr. v. Kidan: Ich glaube, es wird mit den 60 Tagen praktisch nicht
-               gut möglich sein. Ich bitte nicht zu übersehen, daß unsere Beamtenschaft durch eine
-               Unzahl von Agenden überlastet ist, die alle sehr dringend sind. Es ist nicht daran zu
-               denken, daß vor der Durchführung der Wahlen in die Nationalversammlung, vor dem 16.
-               Februar, an dieser Sache gearbeitet werden kann. Erst nach diesen Wahlen werden wir
-               uns dazu setzen können. Staatskanzler Dr. Renner: So lange brauchen wir auch, um den
-               Musterentwurf zu machen. Landeshauptmann Dr. v. Kaan: In der Zeit vom 16. bis Ende
-               Februar sollen wir alles vorbereitet haben, den Landesrat und die Landesversammlung?
-               Das ist eine Illusion, das bringen wir nicht zusammen. Staatskanzler Dr. Renner: Den
-               Musterentwurf werden wir recht rasch liefern und in möglichst vielen Gremplaren, so
-               daß die Beratung rasch erfolgen kann. Es werden für jedes Land 25 Gremplare
-               hergestellt werden. Wir werden uns bemühen, den Musterentwurf bis 16. Februar
-               herzustellen, so daß Sie die Grundlage für die Beratung haben werden.
-               Bezirkshauptmann Dr. v. Gräfenstein: G3 heißt, es soll hinsichtlich der besetzten
-               Gebiete ein Notwahlparagraph hineinkommen. Diese Mandate, die auf die besetzten
-               Gebiete entfallen, können durch Verufungen ersetzt werden. Es fragt sich, wer die
-               Berufung vorzunehmen hat. Es wäre von Wichtigkeit, wenn wir das heute festsetzen
-               könnten. Staatskanzler Dr. Renner: Das wird jedenfalls der Landesrat in kollegialer
-               Sitzung machen. Bezirkshauptmann Dr. v. Gräfenstein: 6s wäre auch die Frage, ob sich
-               die Landesversammlung nicht selbst ergänzen kann. Staatskanzler Dr. Renner: Das macht
-               besser der Landesrat. Solche Sachen sind sehr delikat. Gs besteht da eine völlige
-               Analogie. Für den Aufbau der Staatsverwaltung sind die Länder eigentlich das Muster
-               gewesen. Landeshauptmann Dr. v. Kaan: Wie der Staatsrat ein Komitec der
-               Nationalversammlung ist, ist der Landesrat ein Komitee der Landesversammlung.
-               Staatskanzler Dr. Renner: Die Ginberufung auf Grund des Notwahlparagraphen wird der
-               Tandesrat besorgen. Damit wären wir mit diesem Punkte fertig. Ich werde die Sache dem
-               Staatsrate so vortragen, wie sie hier verhandelt wurde. Ich schreite nunmehr zum
-               Schlusse der heutigen Sitzung. Was die Weiterführung der Debatte anbelangt, so
-               ersuche ich Herrn Dr. Ender, wieder die einzelnen Punkte, worüber Vereinbarungen
-               angestrebt werden, nacheinander aufzurufen; sodann werden wir die Formulierung zur
-               Abstimmung bringen. Mit dieser Debatte werden wir morgen schon um 1/-19 Uhr
-               vormittags beginnen. Die Sitzung ist geschlossen. (Schluß der Sitzung: 5 Uhr 40
-               Minuten nachmittags.) <pb facs="#facs_41" n="41" xml:id="img_0041" break="yes"/> 40 </p>
-            <p>(Sitzung am 1. Februar 1919. Beginn: 9 Uhr 30 Minuten vormittags.) Staatskanzler Dr.
-               Renner: Auf der heutigen Tagesordnung stehen zwei Gegenständedie Frage der
-               Gemeindewahlordnung und die Ernährungsfrage. Wir treten in die Beratung des ersten
-               Gegenstandes ein und ich bitte Herrn Dr. Ender, die Liebenswürdigkeit zu haben, die
-               Punkte zu bezeichnen, auf welche die Debatte ausgedehnt werden soll. Landeshauptmann
-               Dr. Gnder: Ich trete zunächst in die Besprechung der Punkte einwelche der uns gestern
-               vorgelegte Entwurf enthält. § 9 besagt: „Die Staatshauptstadt Bienbeschließt ihre
-               Gemeindewahlordnung selbst.“ Ich bin nun der Meinung, daß man die Regelung dieses
-               Gegenstandes einer Beratung zwischen dem Staatskanzler oder dem Staatarat einerseits
-               und dem Lande Niederösterreich und der Stadt Wien andrerseits überlassen soll und daß
-               wir, die übrigen Länder, uns als an der Sache nicht interessiert erklären dürfen.
-               Staatskanzler Dr. Kenner: Wir können diesen Punkt vielleicht gleich zurücksetzen und
-               es wird dann diese Frage in einer besonderen Verhandlung erledigt werden.
-               (LandeshauptmannStellvertreter Mayer und Bürgermeister Dr. Weiskirchner erklären sich
-               damit einverstanden.) Landeshauptmann Dr. Gnder: Im § 10 wird festgesehzt: „Äußer den
-               bisher mit eigenem Statut versehenen Städten genießen in Hinkunft alle Städte, deren
-               Einwohnerzahl in der letzten Volkszählung zwanzigtaufend überschritten hat, die
-               Rechte einer Stadt mit eigenem Statut.“ Da erlaube ich mir der Meinung Ausdruck zu
-               geben, daß wir in der provisorischen Landesversammlung eine solche Bestimmung nicht
-               beschließen würden, sondern daß wir unbedingt auf dem Standpunkte stünden, so
-               weittragende Dinge, die doch unmöglich so überaus pressant sein können, seien der
-               Beschlußfassung der definitiven Landesversammlung, dem Landtage, zu überlassen. Ganz
-               denselben Standpunkt nehme ich aber auch hinsichtlich des Staates ein. Ich bin der
-               Meinung, daß keine zwingenden Gründe vorhanden sind, welche es gebieterisch fordern,
-               daß ein solches Gesetz schon von der provisorischen Nationalversammlung gemacht wird,
-               sondern ich glaube, daß das die künftige, aus den Wahlen hervorgegangene definitive
-               Nationalversammlung mit aller Ruhe und mit der richtigen Muße, die ihr gegeben sein
-               wird, beschließen soll. Landeshauptmann-Stellvertreter Mayer: Vom Standpunkte des
-               Landes Niederösterreich aus würde ich diesem Vorschlage zustimmen.
-               Landeshauptmann-Stellvertreter Pongratz: Ich glaube, wenn wir das verschieben, müßte
-               wieder das Gesetz vom November abgeändert werden, denn in diesem Gesetz ist
-               ausdrücklich bestimmt, daß die Gemeindewahlordnung noch von der provisorischen
-               Nationalversammlung festzusetzen ist. Landeshauptmann Dr. Gnder: Hier handelt es sich
-               nicht um die Gemeindewahlordnung, sondern um die Frage, ob die Zahl der Städte mit
-               eigenem Statut vermehrt werden soll. oder nicht. Staatskanzler Dr. Renner: Gs ist
-               allerdings der Vorlage der Gedanke zugrunde gelegt, daß die städtischen Freiheiten
-               vermehrt werden, daß also größere Städte, die bisher in Bezug auf ihre Wahlordnung
-               und in Bezug auf ihre ganzen städtischen Einrichtungen keine rechte Initiatibe gehabt
-               haben, nunmehr den Vorzug einer erhöhten Selbstbestimmung in der Regelung ihrer
-               eigenen Angelegenheiten haben sollen. Nun ist allerdings gegen die Fassung, wie sie
-               hier vorliegt, mit mehr oder weniger Recht der Einwand zu machen, daß es sich dabei
-               nicht bloßum die Wahlordnung handelt, daß man also diesen Städten ohneweiters das
-               Recht der Mitwirkung in der Beschlußfassung ihrer Wahlordnung geben könnte, daß aber
-               auch notwendigerweise mit dieser Fassung die Übernahme der politischen Verwaltung
-               durch diese Städte verbunden wäre. Diese Konsequenz geht allerdings über den Nahmen
-               dessen hinaus, was die Wahlordnung selbst zu bestimmen hätte. Insofern ist es gewiß
-               richtig, daß man, wenn man diesen Städten entgegenkommen will, dieses Entgegenkommen
-               auf die Wahlordnung einschränken müßte und daß man sagt: sie können ebenso wie die
-               bisherigen Städte mit eigenem Statut über ihre Wahlordnung selbst Antrag stellen und
-               Beschluß fassen. (Dr. Ender: Es kommt aber nicht viel dabei heraus1) <pb
-                  facs="#facs_42" n="42" xml:id="img_0042" break="yes"/> 41 </p>
-            <p>Es scheint der einmütige Wille zu sein, daß diese Reform der Städte mit eigenem
-               Statut überhaupt zurückgestellt und der definitiven Nationalversammlung überlassen
-               wird. (Zustimmung.) Es ist somit so beschlossen. Landeshauptmann Dr. Gnder: Gegen den
-               Inhalt des § 11 hätte ich persönlich gar keine Einwendung. Er besagt, daß den Städten
-               mit eigenem Statut ein Einfluß auf die Gestaltung ihrer Wahlordnung eingeräumt wird.
-               Landeshauptmann-Stellvertreter Mayer: Ich wende mich durchaus nicht dagegen, daß die
-               Städte mit eigenem Statut ihre Wahlordnung selbst beschließen. Ich schicke voraus,
-               daß ich für das allgemeine, geheime und direkte Wahlrecht mit Proporz auch bei den
-               Gemeindewahlen bin. Der § 12 muß aber bezüglich Niederösterreichs unbedingt geändert
-               werden. Was ich verlange, ift, daß uns das, was uns ebentuell im Gnadenweg gegeben
-               wird, als Recht zugesprochen wird, das heißt, daß wir unsere Wahlordnung nicht unter
-               Zuziehung der Wiener Landtagsmitglieder machen. In der zukünftigen
-               niederösterreichischen Landesversammlung wird die Gemeinde Wien die Majorität haben
-               und die Landgemeinden die Minorität. Während aber Wien seine Wahlordnung selbst
-               beschließt, wird es auf der anderen Seite bei den Gemeindewahlordnungen für das
-               flache Land mit beschließen. Nun wird man sagen: man wird dem flachen Lande ohnehin
-               entgegenkommen. Die Wahlordnung wird für längere Zeit gemacht, es geht daher nicht
-               an, daß man nur auf ein Entgegenkommen rechnen darf. Wir vom flachen Lande wollen
-               unser volles Recht- garantiert haben und bitten daher, daß die Stadt Wien und
-               eventuell auch die anderen Städte mit eigenem Statut ihre Gemeindewahlordnungen
-               selbst beschließen können, daß aber auch die Rurie des flachen Landes, die gebildet
-               werden soll, die Wahlordnung für die Landgemeinden selbst zu beschließen hat.
-               Bürgermeister Dr. Weiskirchner: Ich glaube im Namen aller Parteien des Wiener
-               Gemeinderates zu sprechen, wenn ich erkläre, daß es uns gar nicht einfällt, einen
-               solchen Einfluß auf die Gemeindewahlordnungen des flachen Landes zu nehmen, wie ihn
-               der Herr LandesHauptmann-Stellvertreter Mayer anzunehmen scheint. Es wäre überhaupt
-               die Frage zu erwägen, ob nicht auch bei dieser Gelegenheit die Loslösung Wiens, die
-               ja im § 9 ohnehin schon angedeutet ist, so weit geführt werden soll, daß wir
-               überhaupt nicht mehr in die Landesversammlung wählen, sondern daß der Wiener
-               Gemeinderat gleichzeitig der Landtag für Wienist. Damit würden alle Befürchtungen des
-               Herrn Landeshauptmann-Stellvertreters von selbst wegfallen.
-               Landeshauptmann-Stellvertreter Mayer: Ich kann in diesem Augenblicke nur meine
-               persönliche Anschauung über diese Frage zum Ausdruck bringen. Ich persönlich habe gar
-               nichts dagegen, daß diese Frage von irgendeiner Seite zur Verhandlung gestellt wird.
-               Ich bitte, meine Ausführungen durchaus nicht so aufzufassen, als ob man den guten
-               Willen der Wiener in dieser Frage bezweifelte. (Dr. Weiskirchner: 20 Jahre lang haben
-               wir diesen guten Willen bewährt!) Ein guter Wille und ein Recht ist zweierlei und was
-               heute noch aus gutem Willen geübt wird, kann später durch irgendeinen Umstand in
-               etwas anderes verkehrt werden. Wir wollen vor dem Gesetz ganz gleich stehen. Sie
-               werden doch zugeben, daß es nicht angeht, daß die Landesversammlung in die
-               Wahlgesetzgebung der Gemeinde Wien gar nichts dreinzureden hat, daß aber andrerseits
-               die Majorität der Wiener — und sie sind es im Landtage — unsere Wahlordnung
-               beschließt. Des lieben Friedens willen soll man das schon nicht machen und soll das
-               flache Land und seine Städte die Wahlordnung allein bestimmen lassen. Staatskanzler
-               Dr. Renner: Gs wurde schon angeregt und beschlossen, daß die Frage von Wien einer
-               besonderen Konferenz von Wien und Niederösterreich zugewiesen werde. Dadurch daß die
-               Frage von Wien aufgeworfen ist, ist selbstverständlich auch die Frage des Landes
-               Niederösterreich außerhalb Wiens aufgeworfen. Die eine Frage steht in unmittelbarem
-               Zusammenhang mit der anderen und ich glaube, die Versammlung ist damit einverstanden,
-               daß über diese Angelegenheit in den erwähnten besonderen Verhandlungen über die Stadt
-               Wien beraten und beschlossen wird. (Zustimmung.) Landeshauptmann Dr. Gnder: Im § 12
-               heißt es: „Für alle übrigen Gemeinden des Landes wird die Gemeindewahlordnung durch
-               Landesgesetz erlassen.“ Dieser erste Satz gefällt mir sehr gut, im Gegensatz zum
-               Artikel 10, zweiter Absatz, des Gesetzes über die Staats- und Regierungsform von
-               Deutschöfterreich, St. G. Bl. Nr. 5 vom 12. November 1918, wo es heißt: „Die
-               Gemeindewahlordnung wird noch durch die Provisorische Nationalversammlung
-               festgesetzt." Es ist schon gestern klar zum Ausdruck gekommen, daß wir in den Ländern
-               diesen Grundsatz des Artikels 10 ablehnen und daß die Länder verlangen, es mögen die
-               Gemeindewahlordnungen von den Ländern und nicht von der Provisorischen
-               Nationalversammlung gemacht werden. Diese hätte auch wenig Zeit, in der kommenden
-               Woche eine reifliche Gesetzesberatung durchzuführen. Wir erwarten kein Rahmengesetz,
-               wir erwarten auch kein Blankettgesetz. Ich möchte bei dieser Gelegenheit den Herrn
-               Staatskanzler fragen, ob die Mitteilung offiziös von der Regierung an die Zeitungen
-               hinausgegeben wurde, daß ein solches Blankettgesetz herauskommen wird. Den gestrigen
-               Vereinbarungen würde das nicht entsprechen. Den gestrigen Vereinbarungen entsprechend
-               müßten die Grundsätze durchgeführt werden, die wir im Wege der freien Vereinbarung
-               aufgestellt haben, und es steht der Regierung frei, uns zur Erleichterung der Arbeit
-               ein <pb facs="#facs_43" n="43" xml:id="img_0043" break="yes"/> 42 </p>
-            <p>Muster auszuarbeiten. Aber eines müßte die Provisorische Nationalversammtung noch
-               machen: sie müßte in Abänderung des Artikels 10 des Gesetzes vom 12. November 1918
-               aussprechen, daß die Schaffung der Landes- und Gemeindewahlordnung Sache der
-               einzelnen Provisorischen Landesversammlungen ist. Ich halte es für kein Unglück, wenn
-               man es nicht tut. Die Länderwerden einfach tatsächlich ihre Landes- und
-               Gemeindewahlordnungen schaffen und auf Grund derselben die Wahlen vollziehen. Dann
-               ist der Artikel 10 einfach unvollzogen geblieben, wie ja auch der Artikel 9 nicht
-               durchgeführt werden konnte, nach welchem die Wahlen in die konstituierende
-               Nationalversammlung schon nach dem 1. Jänner hätten durchgeführt werden sollen. Das
-               war praktisch nicht möglich. Ebensowenig kann es praktisch nicht möglich sein, den
-               Artikel 10 durchzuführen. Damit geschicht natürlich der Welt gar kein Wehe und keine
-               Beule. Man würde aber heute einen Schönheitsfehler beseitigen, wenn man den Artikel
-               10 dahin abändert, daß die Länder die Wahlordnungen beschließen. Was den weiteren
-               Inhalt des § 12 anbelangt, so möchte ich etwas vorausschicken. Ich stelle mir vor:
-               Die Grundsätze, die wir gestern bezüglich der Landeswahlordnung vereinbart haben,
-               gelten im allgemeinen auch für die Gemeindewahlordnung. Es wird im allgemeinen das
-               allgemeine Wahlrecht für Männer und Frauen mit 20 Jahren gelten, es wird der Wohnsitz
-               am Tage der Wahlausschreibung im allgemeinen maßgebend sein, es wird der Grundsatz
-               gelten, daß man nicht in zwei Gemeinden wählen kann, desgleichen der Grundsatz, daß
-               vorläufig die deutschen Reichsangehörigen kein Wahlrecht besitzen, ferner der
-               Grundsatz, daß die gebundenen Tisten übernommen werden, daß die Koppelung von uns
-               nicht als empfehlenswert hingestellt wird, daß die geheime Wahl durch das Kuvert und
-               die Zelle gewahrt ist. Bezüglich des Namens möchte ich vorschlagen, daß das Wort
-               Gemeindeausschuß endlich fallengelassen wird. Wir haben das Wort Ausschuß beim Land
-               ausgemerzt und wir sollten das auch bei der Gemeinde tun. Dieses Wort bietet zu
-               zahllosen Verunglimpfungen Anlaßz und Witze darüber zirkulieren in der Bevölkerung in
-               reicher Menge. Wenn wir statt des Ausdruckes „Gemeindeausschuß“ das Wort
-               „Gemeindevertretung“ einführen, so wäre das eine sehr schöne Bezeichnung; diejenigen,
-               die Mitglieder der Gemeindevertretung sind, hießen „Gemeindevertreter“. Die
-               Bezeichnung Gemeinderat brauchen wir als Bezeichnung für das engere Kollegium. Im
-               Stadtrat brauchen Sie es nicht, aber in der Gemeinde draußzen brauchen wir das Wort
-               Gemeinderat für die Körperschaft und für das Mitglied dieses engeren Kollegiums. Es
-               ist dann auch vollkommen logisch aufgebaut. Wir haben auf der einen Seite den aus dem
-               Landtage gewählten Landesrat, dessen einzelne Mitglieder auch „Landesräte“ heißen,
-               und in der Gemeinde den aus der Gemeindebertretung heraus gewählten Gemeinderat,
-               dessen Mitglieder gleichfalls „Gemeinderäte“ heißen. In den Städten ist dann
-               entsprechend der Stadrat und seine Mitglieder heißen wieder „Stadträte“. Ich glaube,
-               das gäbe einen guten Aufbau. Ich lege auf eine richtige Nomenklatur einigen Wert. Das
-               Wort Gemeindetag würde fremd klingen. Das sind die allgemeinen Gesichtspunkte, über
-               die wir wohl nicht mehr zu sprechen brauchen, die wir gestern atzeptiert haben. Wir
-               kommen nun zum § 12. Dieser Paragraph läßt eine Unterscheidung in Großgemeinden und
-               Landgemeinden zu und erklärt als Großgemeinden die Städte, die Kurorte, die Märkte
-               die Gemeinden mit mehr als 2000 Einwohnern und endlich die Gemeinden, die vorwiegend
-               industriellen Charakter haben und von der Landesregierung ausdrücklich als
-               Industriegemeinden bezeichnet werden. Alle sonstigen Gemeinden sind Landgemeinden;
-               für diese kann ein vereinfachtes Wahlverfahren vorgesehen werden. Dieser Paragraph
-               anerkennt die Berechtigung einer Unterscheidung und ich habe das starke Gefühl, daß
-               eine Unterscheidung gerechtfertigt und notwendig sei. Vor allem möchte ich eines
-               sagen: Man hat in der Schweiz mit dem Proporz in den ganz kleinen Gemeinden
-               entsetzliche Erfahrungen gemacht und in der Schweiz wird er überall in den kleinen
-               Gemeinden wieder ausgemerzt. In Gemeinden bis zu 600 Einwohnern ist mit dem Proporz
-               nichts anzufangen; er hat in der Schweiz in diesen Gemeinden nur dazu geführt, eine
-               Familienherrschaft aufzurichten, Familiengegensätze in den Dörfern zu schaffen und
-               eine Basen- und Vetternwirtschaft einzurichten. In diesen Gemeinden sind nach
-               Einführung des Proporzes jetzt auf einmal die Familien zusammengestanden, während
-               eine politische Gruppierung nicht erfolgt ist. Und so hat man den Proporz in den
-               kleinen Gemeinden wieder abgeschafft. Ich möchte es nicht verantworten, bei uns den
-               ganz kleinen Gemeinden — und wir haben solche, die nicht einmal 100 Einwohner
-               zählenden Proporz aufzuhalsen. Wo die Grenze zu ziehen ist, das wird länderweise
-               nicht ganz gleich sein, in einem Lande werden es vielleicht 600 Einwohner, in einem
-               anderen 1000 oder 2000 Einwohner sein, aber jedenfalss müßte man den Grundsatz gelten
-               lassen, daß der Proporz in ganz kleinen Gemeinden nicht zur Geltung zu kommen hat. Wo
-               dann kein Proporz besteht, müßten aber doch irgendwelche Kurien oder Wählerklassen
-               oder wie man sie nennen will, bestehen, sie dürften aber nicht nach der Stärke der
-               Steuern unterschieden oder gruppiert werden. Man müßte erstens an dem Grundsatz
-               festhalten: Wählen kann jeder, der über 20 Jahre alt ist; zweitens müßte der
-               Grundsatz bestehen, daß, wenn irgendeine Abstufung gemacht wird, sie nur klein sein
-               kann. Wir haben in Vorarlberg jetzt schon eine ganz geringe Abstufung, da zum
-               Beispicl in den ersten Wahlkörper diejenigen kommen, welche fünf Zwölftel der Steuern
-               entrichten, in den zweiten Wahlkörper diejenigen, die vier Zwölftel zahlen und in den
-               dritten Wahlkörper diejenigen, die drei Zwölftel entrichten. Das ist schon eine
-               ungemein gelinde Abstufung. Ob es noch in der Zukunft dafürstcht, diese Art
-               beizubehalten oder ob irgendein anderes Priterium für die kleinen Gemeinden gesucht
-               werden muß, das ist kein politisches Parteiinteresse, sondern nur ein
-               Verwaltungsinteresse. Gerade in diesen kleinsten Gemeinden kommen <pb facs="#facs_44"
-                  n="44" xml:id="img_0044" break="yes"/> 43 </p>
+            <sp>
+               <pb facs="#facs_40" n="40" xml:id="img_0040" break="yes"/>
+               <fw type="pageNum">39</fw>
+               <speaker>Landeshauptmann Dr. v. <emph>Kaan</emph>:</speaker>
+               <p>Ich glaube, es wird mit den 60 Tagen praktisch nicht gut möglich sein. Ich bitte
+                  nicht zu übersehen, daß unsere Beamtenschaft durch eine Unzahl von Agenden
+                  überlastet ist, die alle sehr dringend sind. Es ist nicht daran zu denken, daß vor
+                  der Durchführung der Wahlen in die Nationalversammlung, vor dem 16. Februar, an
+                  dieser Sache gearbeitet werden kann. Erst nach diesen Wahlen werden wir uns dazu
+                  setzen können.</p>
+            </sp>
+            <sp>
+               <speaker>Staatskanzler Dr. <emph>Renner</emph>:</speaker>
+               <p>So lange brauchen wir auch, um den Musterentwurf zu machen.</p>
+            </sp>
+            <sp>
+               <speaker>Landeshauptmann Dr. v. <emph>Kaan</emph>:</speaker>
+               <p>In der Zeit vom 16. bis Ende Februar sollen wir alles vorbereitet haben, den
+                  Landesrat und die Landesversammlung? Das ist eine Illusion, das bringen wir nicht
+                  zusammen.</p>
+            </sp>
+            <sp>
+               <speaker>Staatskanzler Dr. <emph>Renner</emph>:</speaker>
+               <p>Den Musterentwurf werden wir recht rasch liefern und in möglichst vielen
+                  Exemplaren, so daß die Beratung rasch erfolgen kann. Es werden für jedes Land 25
+                  Exemplare hergestellt werden. Wir werden uns bemühen, den Musterentwurf bis 16.
+                  Februar herzustellen, so daß Sie die Grundlage für die Beratung haben werden.</p>
+            </sp>
+            <sp>
+               <speaker>Bezirkshauptmann Dr. v. <emph>Gräfenstein</emph>:</speaker>
+               <p>Es heißt, es soll hinsichtlich der besetzten Gebiete ein Notwahlparagraph
+                  hineinkommen. Diese Mandate, die auf die besetzten Gebiete entfallen, können durch
+                  Berufungen ersetzt werden. Es fragt sich, wer die Berufung vorzunehmen hat. Es
+                  wäre von Wichtigkeit, wenn wir das heute festsetzen könnten.</p>
+            </sp>
+            <sp>
+               <speaker>Staatskanzler Dr. <emph>Renner</emph>:</speaker>
+               <p>Das wird jedenfalls der Landesrat in kollegialer Sitzung machen.</p>
+            </sp>
+            <sp>
+               <speaker>Bezirkshauptmann Dr. v. <emph>Gräfenstein</emph>:</speaker>
+               <p>Es wäre auch die Frage, ob sich die Landesversammlung nicht selbst ergänzen
+                  kann.</p>
+            </sp>
+            <sp>
+               <speaker>Staatskanzler Dr. <emph>Renner</emph>:</speaker>
+               <p>Das macht besser der Landesrat. Solche Sachen sind sehr delikat. Es besteht da
+                  eine völlige Analogie. Für den Aufbau der Staatsverwaltung sind die Länder
+                  eigentlich das Muster gewesen.</p>
+            </sp>
+            <sp>
+               <speaker>Landeshauptmann Dr. v. <emph>Kaan</emph>:</speaker>
+               <p>Wie der Staatsrat ein Komitee der Nationalversammlung ist, ist der Landesrat ein
+                  Komitee der Landesversammlung.</p>
+            </sp>
+            <sp>
+               <speaker>Staatskanzler Dr. <emph>Renner</emph>:</speaker>
+               <p>Die Einberufung auf Grund des Notwahlparagraphen wird der Landesrat besorgen.</p>
+               <p>Damit wären wir mit diesem Punkte fertig. Ich werde die Sache dem Staatsrate so
+                  vortragen, wie sie hier verhandelt wurde.</p>
+               <p>Ich schreite nunmehr zum Schlusse der heutigen Sitzung. Was die Weiterführung der
+                  Debatte anbelangt, so ersuche ich Herrn Dr. <emph>Ender</emph>, wieder die
+                  einzelnen Punkte, worüber Vereinbarungen angestrebt werden, nacheinander
+                  aufzurufen; sodann werden wir die Formulierung zur Abstimmung bringen. Mit dieser
+                  Debatte werden wir morgen schon um ½ 10 Uhr vormittags beginnen.</p>
+               <p><emph>Die Sitzung ist geschlossen.</emph></p>
+            </sp>
+            <p>(Schluß der Sitzung: 5 Uhr 40 Minuten nachmittags.)</p>
+            <p><pb facs="#facs_41" n="41" xml:id="img_0041" break="yes"/>
+               <fw type="pageNum">40</fw>(Sitzung am 1. Februar 1919. Beginn: 9 Uhr 30 Minuten
+               vormittags.)</p>
+            <sp>
+               <speaker>Staatskanzler Dr. <emph>Renner</emph>:</speaker>
+               <p>Auf der heutigen Tagesordnung stehen zwei Gegenstände: die Frage der
+                  Gemeindewahlordnung und die Ernährungsfrage. Wir treten in die Beratung des ersten
+                  Gegenstandes ein und ich bitte Herrn Dr. <emph>Ender</emph>, die Liebenswürdigkeit
+                  zu haben, die Punkte zu bezeichnen, auf welche die Debatte ausgedehnt werden
+                  soll.</p>
+            </sp>
+            <sp>
+               <speaker>Landeshauptmann Dr. <emph>Ender</emph>:</speaker>
+               <p>Ich trete zunächst in die Besprechung der Punkte ein, welche der uns gestern
+                  vorgelegte Entwurf enthält. § 9 besagt: „Die Staatshauptstadt Wien beschließt ihre
+                  Gemeindewahlordnung selbst.“ Ich bin nun der Meinung, daß man die Regelung dieses
+                  Gegenstandes einer Beratung zwischen dem Staatskanzler oder dem Staatsrat
+                  einerseits und dem Lande Niederösterreich und der Stadt Wien andrerseits
+                  überlassen soll und daß wir, die übrigen Länder, uns als an der Sache nicht
+                  interessiert erklären dürfen.</p>
+            </sp>
+            <sp>
+               <speaker>Staatskanzler Dr. <emph>Renner</emph>:</speaker>
+               <p>Wir können diesen Punkt vielleicht gleich zurücksetzen und es wird dann diese
+                  Frage in einer besonderen Verhandlung erledigt werden.
+                  (Landeshauptmann-Stellvertreter <emph>Mayer</emph> und Bürgermeister Dr.
+                     <emph>Weiskirchner</emph> erklären sich damit einverstanden.)</p>
+            </sp>
+            <sp>
+               <speaker>Landeshauptmann Dr. <emph>Ender</emph>:</speaker>
+               <p>Im § 10 wird festgesetzt:</p>
+               <p>„Äußer den bisher mit eigenem Statut versehenen Städten genießen in Hinkunft alle
+                  Städte, deren Einwohnerzahl in der letzten Volkszählung zwanzigtausend
+                  überschritten hat, die Rechte einer Stadt mit eigenem Statut.“</p>
+               <p>Da erlaube ich mir der Meinung Ausdruck zu geben, daß wir in der provisorischen
+                  Landesversammlung eine solche Bestimmung nicht beschließen würden, sondern daß wir
+                  unbedingt auf dem Standpunkte stünden, so weittragende Dinge, die doch unmöglich
+                  so überaus pressant sein können, seien der Beschlußfassung der definitiven
+                  Landesversammlung, dem Landtage, zu überlassen. Ganz denselben Standpunkt nehme
+                  ich aber auch hinsichtlich des Staates ein. Ich bin der Meinung, daß keine
+                  zwingenden Gründe vorhanden sind, welche es gebieterisch fordern, daß ein solches
+                  Gesetz schon von der provisorischen Nationalversammlung gemacht wird, sondern ich
+                  glaube, daß das die künftige, aus den Wahlen hervorgegangene definitive
+                  Nationalversammlung mit aller Ruhe und mit der richtigen Muße, die ihr gegeben
+                  sein wird, beschließen soll.</p>
+            </sp>
+            <sp>
+               <speaker>Landeshauptmann-Stellvertreter <emph>Mayer</emph>:</speaker>
+               <p>Vom Standpunkte des Landes Niederösterreich aus würde ich diesem Vorschlage
+                  zustimmen.</p>
+            </sp>
+            <sp>
+               <speaker>Landeshauptmann-Stellvertreter <emph>Pongratz</emph>:</speaker>
+               <p>Ich glaube, wenn wir das verschieben, müßte wieder das Gesetz vom November
+                  abgeändert werden, denn in diesem Gesetz ist ausdrücklich bestimmt, daß die
+                  Gemeindewahlordnung noch von der provisorischen Nationalversammlung festzusetzen
+                  ist.</p>
+            </sp>
+            <sp>
+               <speaker>Landeshauptmann Dr. <emph>Ender</emph>:</speaker>
+               <p>Hier handelt es sich nicht um die Gemeindewahlordnung, sondern um die Frage, ob
+                  die Zahl der Städte mit eigenem Statut vermehrt werden soll oder nicht.</p>
+            </sp>
+            <sp>
+               <speaker>Staatskanzler Dr. <emph>Renner</emph>:</speaker>
+               <p>Es ist allerdings der Vorlage der Gedanke zugrunde gelegt, daß die städtischen
+                  Freiheiten vermehrt werden, daß also größere Städte, die bisher in Bezug auf ihre
+                  Wahlordnung und in Bezug auf ihre ganzen städtischen Einrichtungen keine rechte
+                  Initiative gehabt haben, nunmehr den Vorzug einer erhöhten Selbstbestimmung in der
+                  Regelung ihrer eigenen Angelegenheiten haben sollen. Nun ist allerdings gegen die
+                  Fassung, wie sie hier vorliegt, mit mehr oder weniger Recht der Einwand zu machen,
+                  daß es sich dabei nicht bloß um die Wahlordnung handelt, daß man also diesen
+                  Städten ohneweiters das Recht der Mitwirkung in der Beschlußfassung ihrer
+                  Wahlordnung geben könnte, daß aber auch notwendigerweise mit dieser Fassung die
+                  Übernahme der politischen Verwaltung durch diese Städte verbunden wäre. Diese
+                  Konsequenz geht allerdings über den Nahmen dessen hinaus, was die Wahlordnung
+                  selbst zu bestimmen hätte. Insofern ist es gewiß richtig, daß man, wenn man diesen
+                  Städten entgegenkommen will, dieses Entgegenkommen auf die Wahlordnung
+                  einschränken müßte und daß man sagt: sie können ebenso wie die bisherigen Städte
+                  mit eigenem Statut über ihre Wahlordnung selbst Antrag stellen und Beschluß
+                  fassen. (Dr. <emph>Ender</emph>: Es kommt aber nicht viel dabei heraus!) </p>
+               <p><pb facs="#facs_42" n="42" xml:id="img_0042" break="yes"/><fw type="pageNum"
+                     >41</fw>Es scheint der einmütige Wille zu sein, daß diese Reform der Städte mit
+                  eigenem Statut überhaupt zurückgestellt und der definitiven Nationalversammlung
+                  überlassen wird. (Zustimmung.) Es ist somit so beschlossen.</p>
+            </sp>
+            <sp>
+               <speaker>Landeshauptmann Dr. <emph>Ender</emph>:</speaker>
+               <p>Gegen den Inhalt des § 11 hätte ich persönlich gar keine Einwendung. Er besagt,
+                  daß den Städten mit eigenem Statut ein Einfluß auf die Gestaltung ihrer
+                  Wahlordnung eingeräumt wird.</p>
+            </sp>
+            <sp>
+               <speaker>Landeshauptmann-Stellvertreter <emph>Mayer</emph>:</speaker>
+               <p>Ich wende mich durchaus nicht dagegen, daß die Städte mit eigenem Statut ihre
+                  Wahlordnung selbst beschließen. Ich schicke voraus, daß ich für das allgemeine,
+                  geheime und direkte Wahlrecht mit Proporz auch bei den Gemeindewahlen bin. Der §
+                  12 muß aber bezüglich Niederösterreichs unbedingt geändert werden. Was ich
+                  verlange, ist, daß uns das, was uns eventuell im Gnadenweg gegeben wird, als Recht
+                  zugesprochen wird, das heißt, daß wir unsere Wahlordnung nicht unter Zuziehung der
+                  Wiener Landtagsmitglieder machen. In der zukünftigen niederösterreichischen
+                  Landesversammlung wird die Gemeinde Wien die Majorität haben und die Landgemeinden
+                  die Minorität. Während aber Wien seine Wahlordnung selbst beschließt, wird es auf
+                  der anderen Seite bei den Gemeindewahlordnungen für das flache Land mit
+                  beschließen. Nun wird man sagen: man wird dem flachen Lande ohnehin
+                  entgegenkommen. Die Wahlordnung wird für längere Zeit gemacht, es geht daher nicht
+                  an, daß man nur auf ein Entgegenkommen rechnen darf. Wir vom flachen Lande wollen
+                  unser volles Recht garantiert haben und bitten daher, daß die Stadt Wien und
+                  eventuell auch die anderen Städte mit eigenem Statut ihre Gemeindewahlordnungen
+                  selbst beschließen können, daß aber auch die Kurie des flachen Landes, die
+                  gebildet werden soll, die Wahlordnung für die Landgemeinden selbst zu beschließen
+                  hat.</p>
+            </sp>
+            <sp>
+               <speaker>Bürgermeister Dr. <emph>Weiskirchner</emph>:</speaker>
+               <p>Ich glaube im Namen aller Parteien des Wiener Gemeinderates zu sprechen, wenn ich
+                  erkläre, daß es uns gar nicht einfällt, einen solchen Einfluß auf die
+                  Gemeindewahlordnungen des flachen Landes zu nehmen, wie ihn der Herr
+                  Landeshauptmann-Stellvertreter <emph>Mayer</emph> anzunehmen scheint. Es wäre
+                  überhaupt die Frage zu erwägen, ob nicht auch bei dieser Gelegenheit die Loslösung
+                  Wiens, die ja im § 9 ohnehin schon angedeutet ist, so weit geführt werden soll,
+                  daß wir überhaupt nicht mehr in die Landesversammlung wählen, sondern daß der
+                  Wiener Gemeinderat gleichzeitig der Landtag für Wien ist. Damit würden alle
+                  Befürchtungen des Herrn Landeshauptmann-Stellvertreters von selbst wegfallen.</p>
+            </sp>
+            <sp>
+               <speaker>Landeshauptmann-Stellvertreter <emph>Mayer</emph>:</speaker>
+               <p>Ich kann in diesem Augenblicke nur meine persönliche Anschauung über diese Frage
+                  zum Ausdruck bringen. Ich persönlich habe gar nichts dagegen, daß diese Frage von
+                  irgendeiner Seite zur Verhandlung gestellt wird. Ich bitte, meine Ausführungen
+                  durchaus nicht so aufzufassen, als ob man den guten Willen der Wiener in dieser
+                  Frage bezweifelte. (Dr. <emph>Weiskirchner</emph>: 20 Jahre lang haben wir diesen
+                  guten Willen bewährt!) Ein guter Wille und ein Recht ist zweierlei und was heute
+                  noch aus gutem Willen geübt wird, kann später durch irgendeinen Umstand in etwas
+                  anderes verkehrt werden. Wir wollen vor dem Gesetz ganz gleich stehen. Sie werden
+                  doch zugeben, daß es nicht angeht, daß die Landesversammlung in die
+                  Wahlgesetzgebung der Gemeinde Wien gar nichts dreinzureden hat, daß aber
+                  andrerseits die Majorität der Wiener — und sie sind es im Landtage — unsere
+                  Wahlordnung beschließt. Des lieben Friedens willen soll man das schon nicht machen
+                  und soll das flache Land und seine Städte die Wahlordnung allein bestimmen
+                  lassen.</p>
+            </sp>
+            <sp>
+               <speaker>Staatskanzler Dr. <emph>Renner</emph>:</speaker>
+               <p>Es wurde schon angeregt und beschlossen, daß die Frage von Wien einer besonderen
+                  Konferenz von Wien und Niederösterreich zugewiesen werde. Dadurch daß die Frage
+                  von Wien aufgeworfen ist, ist selbstverständlich auch die Frage des Landes
+                  Niederösterreich außerhalb Wiens aufgeworfen. Die eine Frage steht in
+                  unmittelbarem Zusammenhang mit der anderen und ich glaube, die Versammlung ist
+                  damit einverstanden, daß über diese Angelegenheit in den erwähnten besonderen
+                  Verhandlungen über die Stadt Wien beraten und beschlossen wird. (Zustimmung.)</p>
+            </sp>
+            <sp>
+               <speaker>Landeshauptmann Dr. <emph>Ender</emph>:</speaker>
+               <p>Im § 12 heißt es: „Für alle übrigen Gemeinden des Landes wird die
+                  Gemeindewahlordnung durch Landesgesetz erlassen.“ Dieser erste Satz gefällt mir
+                  sehr gut, im Gegensatz zum Artikel 10, zweiter Absatz, des Gesetzes über die
+                  Staats- und Regierungsform von Deutschöfterreich, St. G. Bl. Nr. 5 vom 12.
+                  November 1918, wo es heißt: „Die Gemeindewahlordnung wird noch durch die
+                  Provisorische Nationalversammlung festgesetzt." Es ist schon gestern klar zum
+                  Ausdruck gekommen, daß wir in den Ländern diesen Grundsatz des Artikels 10
+                  ablehnen und daß die Länder verlangen, es mögen die Gemeindewahlordnungen von den
+                  Ländern und nicht von der Provisorischen Nationalversammlung gemacht werden. Diese
+                  hätte auch wenig Zeit, in der kommenden Woche eine reifliche Gesetzesberatung
+                  durchzuführen. Wir erwarten kein Rahmengesetz, wir erwarten auch kein
+                  Blankettgesetz. Ich möchte bei dieser Gelegenheit den Herrn Staatskanzler fragen,
+                  ob die Mitteilung offiziös von der Regierung an die Zeitungen hinausgegeben wurde,
+                  daß ein solches Blankettgesetz herauskommen wird. Den gestrigen Vereinbarungen
+                  würde das nicht entsprechen. Den gestrigen Vereinbarungen entsprechend müßten die
+                  Grundsätze durchgeführt werden, die wir im Wege der freien Vereinbarung
+                  aufgestellt haben, und es steht der Regierung frei, uns zur Erleichterung der
+                  Arbeit ein <pb facs="#facs_43" n="43" xml:id="img_0043" break="yes"/><fw
+                     type="pageNum">42</fw> Muster auszuarbeiten. Aber eines müßte die Provisorische
+                  Nationalversammlung noch machen: sie müßte in Abänderung des Artikels 10 des
+                  Gesetzes vom 12. November 1918 aussprechen, daß die Schaffung der Landes- und
+                  Gemeindewahlordnung Sache der einzelnen Provisorischen Landesversammlungen ist.
+                  Ich halte es für kein Unglück, wenn man es nicht tut. Die Länder werden einfach
+                  tatsächlich ihre Landes- und Gemeindewahlordnungen schaffen und auf Grund
+                  derselben die Wahlen vollziehen. Dann ist der Artikel 10 einfach unvollzogen
+                  geblieben, wie ja auch der Artikel 9 nicht durchgeführt werden konnte, nach
+                  welchem die Wahlen in die konstituierende Nationalversammlung schon nach dem 1.
+                  Jänner hätten durchgeführt werden sollen. Das war praktisch nicht möglich.
+                  Ebensowenig kann es praktisch nicht möglich sein, den Artikel 10 durchzuführen.
+                  Damit geschieht natürlich der Welt gar kein Wehe und keine Beule. Man würde aber
+                  heute einen Schönheitsfehler beseitigen, wenn man den Artikel 10 dahin abändert,
+                  daß die Länder die Wahlordnungen beschließen.</p>
+               <p>Was den weiteren Inhalt des § 12 anbelangt, so möchte ich etwas
+                  vorausschicken.</p>
+               <p>Ich stelle mir vor: Die Grundsätze, die wir gestern bezüglich der
+                  Landeswahlordnung vereinbart haben, gelten im allgemeinen auch für die
+                  Gemeindewahlordnung. Es wird im allgemeinen das allgemeine Wahlrecht für Männer
+                  und Frauen mit 20 Jahren gelten, es wird der Wohnsitz am Tage der
+                  Wahlausschreibung im allgemeinen maßgebend sein, es wird der Grundsatz gelten, daß
+                  man nicht in zwei Gemeinden wählen kann, desgleichen der Grundsatz, daß vorläufig
+                  die deutschen Reichsangehörigen kein Wahlrecht besitzen, ferner der Grundsatz, daß
+                  die gebundenen Listen übernommen werden, daß die Koppelung von uns nicht als
+                  empfehlenswert hingestellt wird, daß die geheime Wahl durch das Kuvert und die
+                  Zelle gewahrt ist.</p>
+               <p>Bezüglich des Namens möchte ich vorschlagen, daß das Wort Gemeindeausschuß endlich
+                  fallengelassen wird. Wir haben das Wort Ausschuß beim Land ausgemerzt und wir
+                  sollten das auch bei der Gemeinde tun. Dieses Wort bietet zu zahllosen
+                  Verunglimpfungen Anlaß und Witze darüber zirkulieren in der Bevölkerung in reicher
+                  Menge. Wenn wir statt des Ausdruckes „Gemeindeausschuß“ das Wort
+                  „Gemeindevertretung“ einführen, so wäre das eine sehr schöne Bezeichnung;
+                  diejenigen, die Mitglieder der Gemeindevertretung sind, hießen
+                  „Gemeindevertreter“. Die Bezeichnung Gemeinderat brauchen wir als Bezeichnung für
+                  das engere Kollegium. Im Stadtrat brauchen Sie es nicht, aber in der Gemeinde
+                  draußzen brauchen wir das Wort Gemeinderat für die Körperschaft und für das
+                  Mitglied dieses engeren Kollegiums. Es ist dann auch vollkommen logisch aufgebaut.
+                  Wir haben auf der einen Seite den aus dem Landtage gewählten Landesrat, dessen
+                  einzelne Mitglieder auch „Landesräte“ heißen, und in der Gemeinde den aus der
+                  Gemeindebertretung heraus gewählten Gemeinderat, dessen Mitglieder gleichfalls
+                  „Gemeinderäte“ heißen. In den Städten ist dann entsprechend der Stadrat und seine
+                  Mitglieder heißen wieder „Stadträte“. Ich glaube, das gäbe einen guten Aufbau. Ich
+                  lege auf eine richtige Nomenklatur einigen Wert. Das Wort Gemeindetag würde fremd
+                  klingen. Das sind die allgemeinen Gesichtspunkte, über die wir wohl nicht mehr zu
+                  sprechen brauchen, die wir gestern atzeptiert haben.</p>
+               <p>Wir kommen nun zum § 12. Dieser Paragraph läßt eine Unterscheidung in
+                  Großgemeinden und Landgemeinden zu und erklärt als Großgemeinden die Städte, die
+                  Kurorte, die Märkte die Gemeinden mit mehr als 2000 Einwohnern und endlich die
+                  Gemeinden, die vorwiegend industriellen Charakter haben und von der
+                  Landesregierung ausdrücklich als Industriegemeinden bezeichnet werden.</p>
+               <p>Alle sonstigen Gemeinden sind Landgemeinden; für diese kann ein vereinfachtes
+                  Wahlverfahren vorgesehen werden.</p>
+               <p>Dieser Paragraph anerkennt die Berechtigung einer Unterscheidung und ich habe das
+                  starke Gefühl, daß eine Unterscheidung gerechtfertigt und notwendig sei. Vor allem
+                  möchte ich eines sagen: Man hat in der Schweiz mit dem Proporz in den ganz kleinen
+                  Gemeinden entsetzliche Erfahrungen gemacht und in der Schweiz wird er überall in
+                  den kleinen Gemeinden wieder ausgemerzt. In Gemeinden bis zu 600 Einwohnern ist
+                  mit dem Proporz nichts anzufangen; er hat in der Schweiz in diesen Gemeinden nur
+                  dazu geführt, eine Familienherrschaft aufzurichten, Familiengegensätze in den
+                  Dörfern zu schaffen und eine Basen- und Vetternwirtschaft einzurichten.
+                  <?oxy_comment_start author="Atkinson.j" timestamp="20251204T190216+0100" comment="Formatiert und gegengelesen bis hier S. 42"?>In
+                  diesen Gemeinden<?oxy_comment_end?> sind nach Einführung des Proporzes jetzt auf
+                  einmal die Familien zusammengestanden, während eine politische Gruppierung nicht
+                  erfolgt ist. Und so hat man den Proporz in den kleinen Gemeinden wieder
+                  abgeschafft. Ich möchte es nicht verantworten, bei uns den ganz kleinen Gemeinden
+                  — und wir haben solche, die nicht einmal 100 Einwohner zählen — den Proporz
+                  aufzuhalsen. Wo die Grenze zu ziehen ist, das wird länderweise nicht ganz gleich
+                  sein, in einem Lande werden es vielleicht 600 Einwohner, in einem anderen 1000
+                  oder 2000 Einwohner sein, aber jedenfalls müßte man den Grundsatz gelten lassen,
+                  daß der Proporz in ganz kleinen Gemeinden nicht zur Geltung zu kommen hat. Wo dann
+                  kein Proporz besteht, müßten aber doch irgendwelche Kurien oder Wählerklassen oder
+                  wie man sie nennen will, bestehen, sie dürften aber nicht nach der Stärke der
+                  Steuern unterschieden oder gruppiert werden. Man müßte erstens an dem Grundsatz
+                  festhalten: Wählen kann jeder, der über 20 Jahre alt ist; zweitens müßte der
+                  Grundsatz bestehen, daß, wenn irgendeine Abstufung gemacht wird, sie nur klein
+                  sein kann. Wir haben in Vorarlberg jetzt schon eine ganz geringe Abstufung, da zum
+                  Beispiel in den ersten Wahlkörper diejenigen kommen, welche fünf Zwölftel der
+                  Steuern entrichten, in den zweiten Wahlkörper diejenigen, die vier Zwölftel zahlen
+                  und in den dritten Wahlkörper diejenigen, die drei Zwölftel entrichten. Das ist
+                  schon eine ungemein gelinde Abstufung. Ob es noch in der Zukunft dafürsteht, diese
+                  Art beizubehalten oder ob irgendein anderes Kriterium für die kleinen Gemeinden
+                  gesucht werden muß, das ist kein politisches Parteiinteresse, sondern nur ein
+                  Verwaltungsinteresse. Gerade in diesen kleinsten Gemeinden kommen <pb
+                     facs="#facs_44" n="44" xml:id="img_0044" break="yes"/> 43 </p>
+            </sp>
             <p>dic politischen Parteigegensätze bei den Gemeindewahlen nicht in Betracht, sondern
                nur das Verwaltungsinteresse. Das werden die Länder selbst treffen. Es wird für uns
                hier genügen, wenn wir erklären, daß in den kleinen Gemeinden der Proporz
