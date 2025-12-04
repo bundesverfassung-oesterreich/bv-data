@@ -132,41 +132,77 @@
     <text type="Sitzungsprotokoll">
         <body>
          <div type="main">
-            <pb facs="#facs_1" n="1" xml:id="img_0001" break="yes"/>
-            <p>26. Sitz. <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/> Konstituierende
-                    Nationalversammlung der Republik Österreich.Verfasungs-Ausschuss Protokoll über
-                    die Sitzung am 27. September 1920</p>
-                <p>Anwesende: Seitens der Regierung: Staatsamt für Finanzen: Oberfinanzrat Dr.
-                    Pfaundler, Staatsamt für Inneres u. Unterricht: Ministerialratrat D Prüger,
-                    Staatsamt für Handel etc.: Ministerialrat Dr. Pokorny, Sektionsrat Dr.
-                    Friedrich. Staatskanzlei: Ministerialrat Dr. Fröhlich, Sektionsrat Dr. Man<choice>
-                        <sic/>
-                        <corr>n</corr>
-                    </choice>licher, Experte: Professor Dr. Kelsen </p>
-                <p>Obmann: Dr. Otto Bauer </p>
-                <p>Obmann-Stellvertreter: Prof. Seipel </p>
-                <p>Schriftführer: Adelheid Popp </p>
-                <p>Mitglieder: Eldersch, Gürtler, Seipel, Rieger, Danneberg, Fink, Schlesinger,
-                    Leutner, Popp, Schiegl, Weiskirchner, Dr. Weber, <del>Kunschak</del> Kunschak.
-                        <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/> Staatsamt für
-                    Finanzen:</p>
-                <p>Oberfinanzrat D. Pfaundler</p>
-                <p>Staatsamt für Innres u. Unterricht:</p>
-                <p>Ministerialrat D. Prüger</p>
-                <p>Staatsamt für Handel etc.:</p>
-                <p>Ministerialrat D Pokorny</p>
-                <p>Sektionsrat D Friedrich</p>
-                <p>Staatskanzlei:</p>
-                <p>Ministerialrat D Froehlich</p>
-                <p>Sektionsrat D Mannlicher</p>
-                <p>Experte:</p>
-                <p>Professor D Kelsen. <fw type="pageNum">2</fw>
-                    <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/> Protokoll vom 27/9
+            <p><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>Konstituierende
+                    Nationalversammlung der Republik Österreich.</p>
+                <head>Verfasungs-Ausschuss</head>
+                <p>Protokoll über die Sitzung am<emph> 27. September 1920</emph>.</p>
+                <p>Anwesende: </p>
+                <p>Seitens der Regierung: <list>
+                        <item>Staatsamt für Finanzen:</item>
+                        <item>Oberfinanzrat Dr. Pfaundler, </item>
+                        <item>Staatsamt für Inneres u. Unterricht: </item>
+                        <item>Ministerialratrat D Prüger, </item>
+                        <item> Staatsamt für Handel etc.: </item>
+                        <item>Ministerialrat Dr. Pokorny, </item>
+                        <item>Sektionsrat Dr. Friedrich. </item>
+                    </list></p>
+                <p>Staatskanzlei: <list>
+                        <item>Ministerialrat Dr. Fröhlich, </item>
+                        <item>Sektionsrat Dr. Man<choice>
+                                <sic/>
+                                <corr>n</corr>
+                            </choice>licher, </item>
+                    </list></p>
+                <p>Experte:<list>
+                        <item>Professor Dr. Kelsen  </item>
+                    </list></p>
+                <p>Obmann:<list>
+                        <item>Dr. Otto Bauer  </item>
+                    </list></p>
+                <p>Obmann-Stellvertreter:<list>
+                        <item>Prof. Seipel </item>
+                    </list></p>
+                <p>Schriftführer:<list>
+                        <item>Adelheid Popp </item>
+                    </list></p>
+                <p>Mitglieder: <list>
+                        <item>Eldersch,</item>
+                        <item>Gürtler,</item>
+                        <item>Seipel,</item>
+                        <item>Rieger,</item>
+                        <item>Danneberg,</item>
+                        <item> Fink,</item>
+                        <item>Schlesinger,</item>
+                        <item> Leutner,</item>
+                        <item> Popp,</item>
+                        <item>Schiegl,</item>
+                        <item>Weiskirchner,</item>
+                        <item>Dr. Weber,</item>
+                        <item><del>Kunschak</del>Kunschak. </item>
+                    </list></p>
+                <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>Staatsamt für Finanzen:<list>
+                        <item>Oberfinanzrat D. Pfaundler </item>
+                    </list></p>
+                <p>Staatsamt für Innres u. Unterricht:<list>
+                        <item>Ministerialrat D. Prüger</item>
+                    </list></p>
+                <p>Staatsamt für Handel etc.:<list>
+                        <item>Ministerialrat D Pokorny</item>
+                        <item>Sektionsrat D Friedrich</item>
+                    </list></p>
+                <p>Staatskanzlei:<list>
+                        <item>Ministerialrat D Froehlich </item>
+                        <item>Sektionsrat D Mannlicher </item>
+                    </list></p>
+                <p>Experte:<list>
+                        <item>Professor D Kelsen. </item>
+                    </list></p>
+                <p><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>Protokoll vom 27/9
                     1920</p>
                 <p>Beginn 11 ¼ Vormittag</p>
                 <p>Vertreter der Staatskanzlei Hofrat Fröhlich regt an einen Beschluß der vorigen
                     Sitzung über die Zusammentretung der Kurien aufzuheben.
-                    <emph>Beschlossen</emph></p>
+                        <emph>Beschlossen.</emph></p>
                 <p>Zweck Listung des Übergangsgesetzes</p>
                 <p>Artikel 3 Abs. II regt Staatsrat Fröhlich an anstatt des festen Turnus von 3
                     Jahren zu sagen: „Von dem Zeitpunkt an …“ Beschlossen</p>
@@ -187,7 +223,8 @@
                 <p>Artikel 20 Schluß des II Absatzes wird gestrichen</p>
                 <p>Artikel 21 Antrag <emph>Weiskirchner</emph> Wien mit dem Vorsitze zu betrauen
                     wird angenommen.</p>
-                <p>Über Vorschlag Kelsen wird beschlossen, statt „Zusammentritt“ zu <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/> sagen: Bundesrat
+                <p>Über Vorschlag Kelsen wird beschlossen, statt „Zusammentritt“ zu<pb
+                        facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>sagen: Bundesrat
                     versammelt sich“.</p>
                 <p><emph>22</emph> stilistische Aenderung und <gap reason="illegible"/></p>
                 <p>23 stilistisch</p>
@@ -199,12 +236,12 @@
                 <p>32 im Sinne des Ausschußes geändert. Antrag Fink zu Bestimmungen über Bezüge des
                     Volksbeauftragten</p>
                 <p>33 wird zurückgestellt</p>
-                <p>34 Aenderung: In Wien die dort bestehenden Bezirksvertretungen oder
-                    Ausschüsse.</p>
-                <p>Absatz 3. Aenderungen nach Auschußbeschluss</p>
-                <p>Absatz 4. Sprengel statt Bereich</p>
-                <p>Festsetzung über Beginn die 4 Monate <del>aus dem</del> BG Debatte
-                    zurückgestellt</p>
+                <p>34 Aenderung: In Wien die dort bestehenden Bezirksvertretungen oder Ausschüsse.
+                    Absatz 3. Aenderungen nach Auschußbeschluss. Absatz 4. Sprengel statt
+                    Bereich.</p>
+                <p>Festsetzung über Beginn die 4 Monate <del>aus dem</del>
+                </p>
+                <p>BG Debatte zurückgestellt</p>
                 <p>41 neu: Sobald die am 17 Oktober gewählte Nationalver. einberufen ist</p>
                 <p>Sitzung wird um 12 ½ einberufen und um 2 1/4 wird aufgenommen.</p>
                 <p>Beratung über Artikel 42 <add>die Artikel</add> 10 bis 13 und 15 werden an dem
@@ -212,7 +249,8 @@
                 <p>Absatz 3 einige Worte gestrichen 4-5 wird gestrichen</p>
                 <p><del>Dr. Bauer regt neuen Satz an: </del></p>
                 <p>Abg. Kunschak fragt an über Wortlaut Artikel 9 x betreffend Landesregierung und
-                    Bürgermeister. Neue Formulierung <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/> Wird beschlossen.</p>
+                    Bürgermeister. Neue Formulierung <pb facs="#facs_6" n="6" xml:id="img_0006"
+                        break="yes"/>wird beschlossen.</p>
                 <p>Artikel 91 Abs. 3 gilt für Wien nicht</p>
                 <p>36 Abs. 2 neue Fassung beschlossen</p>
                 <p>Artikel 38 wird geändert.</p>
@@ -222,21 +260,24 @@
                     Beschlossen</p>
                 <p>Titel und Eingang beschlossen.</p>
                 <p>Bauer Obmann </p>
-                <p>Adelheid Popp Schriftführerin<pb facs="#facs_7" n="7" xml:id="img_0007"
-                        break="yes"/> Präsenzliste des Verfassungs[-]Ausschusses vom 27. September
-                    1920</p>
-                <p>Seipel</p>
-                <p><gap reason="illegible"/></p>
-                <p>Gürtler</p>
-                <p>Rieger</p>
-                <p>Danneberg</p>
-                <p>Weiskirchner</p>
-                <p>Fink</p>
-                <p>Schrigl</p>
-                <p>Schlesinger </p>
-                <p><gap reason="illegible"/></p>
-                <p>Leuthner</p>
-                <p>Popp</p>
+                <p>Adelheid Popp (Schriftführerin)</p>
+                <p><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><emph>Präsenzliste des
+                        Verfassungs[-]Ausschusses vom 27. September 1920</emph><list>
+                        <item>Seipel </item>
+                        <item><gap reason="illegible"/>
+                        </item>
+                        <item>Gürtler </item>
+                        <item>Rieger </item>
+                        <item>Danneberg </item>
+                        <item>Weiskirchner </item>
+                        <item>Fink </item>
+                        <item>Schrigl </item>
+                        <item>Schlesinger </item>
+                        <item><gap reason="illegible"/>
+                        </item>
+                        <item>Leuthner </item>
+                        <item>Popp </item>
+                    </list></p>
             
             
             
