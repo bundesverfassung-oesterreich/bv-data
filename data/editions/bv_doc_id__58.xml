@@ -105,9 +105,9 @@ Zustand: gut</note>
                 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="created">
-            <change when="2025-10-29" who="#cfh">document automatically created</change>
-        </revisionDesc>
+        <revisionDesc status="structured">
+         <change when="2025-10-29" who="#cfh">document automatically created</change>
+      </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
       <surface ulx="0" uly="0" lrx="3211" lry="5167" xml:id="facs_2">
@@ -5565,147 +5565,295 @@ Zustand: gut</note>
                   Herrn Staatskanzlers für Ihr Erscheinen und für Ihre Ausdauer bei den Beratungen.
                   Ich erkläre die Sitzung für geschlossen.</p>
             </sp>
-            
-               <p>(Schluß der Sitzung 1 Uhr 20 Minuten nachmittags.) </p>
-            
-            
-               <p><pb facs="#facs_63" n="63" xml:id="img_0063" break="yes"/><fw type="pageNum"
-                  >63</fw>
-               <?oxy_comment_start author="Atkinson.j" timestamp="20251218T200940+0100" comment="formatiert und gegengelesen bis S. 63"?>Anhang
-               I.<?oxy_comment_end?> Vorentwurf der Staatshanzlei. Gesetz vom über den Ablauf der
-               Kunktionsdauer der Provisorischen Tandesversammlungen und Gemeindevertretungen und
-               die Vornahme von Reuwahlen in den Nändern und Gemeinden. §1 Die Funktionsdauer der
-               Provisorischen Landesversammlungen (Gesetz vom 14. November 1918, betreffend die
-               Übernahme der Staatsgewalt in den Ländern, St. G. UI. Nr. 24) und der Provisorischen
-               Gemeindevertretungen (Vollzugsanweisung des Staatsrates vom 4. Dezember 1918 über die
-               einstweilige Ergänzung der bestehenden Gemeindevertretungen, St. G. BI. Nr. 81) läuft
-               am 30. April 1919 ab. Bis zu diesem Tage haben die Landesversammlungen rechtzeitig
-               Landes- und Gemeindewahlordnungen zu schaffen und allgemeine Neuwahlen durchzuführen.
-               §2 Über die Landes- und Gemeindewahlordnungen beschließt jede Landesversammlung nach
-               Maßgabe und im Nahmen des vorliegenden Gesetzes freiDiese Beschlüsse der
-               Landesversammlungen erlangen Gesetzeskraft durch den Beitritt des Staatsrates und
-               durch die vom Staatsrat anzuordnende Kundmachung im Landesgesetzblatt. Der Staatsrat
-               kann den Beitritt zum Beschlüsse der Landesversammlung nur versagen aus dem Grunde,
-               weil eine der nachstehenden Bestimmungen im Beschluß einer Landesversammlung nicht
-               beachtet worden ist. I. Abschnitt. Die Kandeswahlordnungen. §3 Die Mitgliederzahl der
-               Landesversammlungen soll im Lande Niederösterreich 140, Oberösterreich 70, Salzburg
-               40, Steiermark 90, Rärnten 45, <pb facs="#facs_64" n="64" xml:id="img_0064"
-                  break="yes"/> 64 </p>
-            <p>Tirol 60, Vorarlberg 26, Deutschböhmen 70, Sudetenland 40 nicht überschreiten. §4 Die
-               Mitglieder der Landesversammlungen (Landesverordncten) werden auf Grund des
-               allgemeinen, gleichen und dirckten Wahlrechtes der Landesbürger ohne Unterschied des
-               Geschlechtes nach dem Verhältniswahlverfahren gewählt. §5 Landesbürger im Sinne der
-               Landeswahlordnung sind alle deutschösterreichischen Staatsbürger (Gefeß vom 5.
-               Dezember 1918 über das deutschösterreichische Staatsbürgerrecht, St. G. Bl. Nr. 91),
-               welche in einer der Gemeinden des Landes ihren ordentlichen Wohnsitz haben.
-               Voraussetzungen der Wahlberechtigung, welche die in der Wahlordnung zur
-               Konstituierenden Nationalversammlung geregelte Wahlberechtigung einschränken sind,
-               unzulässig. §6 Zum Zwecke der örtlichen Durchführung der Wahlen können die Sprengel
-               der in der Wahlordnung zur konstituierenden Nationalversammlung vorgesehenen
-               Wahlkreise in Wahlbezirke untergeteilt werden. Solche Landeswahlbezirke müssen
-               abgerundete Gebiete ohne Trennung von Stadt und Land bilden. Auf keinen Wahlbezirk
-               dürfen weniger als drei oder mehr als zehn Landesverordnete entfallen. Die Wähler
-               jedes Wahlbezirkes bilden einen einheitlichen und ungeteilten Wahlkörper. § 7. Die
-               Aufteilung der Mandate erfolgt auf die Wahlbezirke in der Art, daß auf je einen
-               Landesverordneten im Durchschnitt annähernd die gleiche Bevölkerungszahl entfällt. §8
-               Dem Wahlverfahren sind die Bestimmungen der Wahlordnung zur Konstituierenden
-               Nationalversammlung zugrunde zu legen. Dabei kann von der Koppelung der Parteilisten
-               (§ 24) Umgang genommen werden. An Stelle der Sauptwahlbehörde tritt der Landesrat,
-               als Kreis-, Bezirks- und Ortswahlbehörden bleiben die für die Konstituierende
-               Nationalversammlung beftellten Wahlbehörden in Tätigkeit. Über Beschwerden wegen
-               Ungesetzlichkeit der Wahlhandlung entscheidet der Wahlgerichtshof, beziehungsweise
-               insolange er nicht eingesetzt ist, der deutschöfterreichische Verwaltungsgerichtshof.
-               II. Abschnitt. Gemeindewahlordnungen. §9 Die Staatshauptstadt Wien beschließt ihre
-               Gemeindewahlordnung selbst, der Beschluß erlangt Gesetzeskraft dadurch, daß er,
-               nachdem ihm der Staatarat beigetreten ist, über dessen Auftrag im Landesgesetzblatt
-               kundgemacht wird. <pb facs="#facs_65" n="65" xml:id="img_0065" break="yes"/> 65 </p>
-            <p>§ 10. Äußer den bisher mit eigenem Statut versehenen Städlen genießen in Hinkunft
-               alle Städte, deren Einwohnerzahl in der letzten Volkszählung zwanzigtaufend
-               überschritten hat, die Rechte einer Stadt mit eigenem Statut. § 11. Die Städte mit
-               eigenem Statut beraten und beschließen ihre Gemeindewahlordnung selbst, sei es auf
-               Grund von in ihrer Gemeindevertretung eingebrachten Vorlagen oder Anträgen, sei es
-               auf Grundeiner Vorlage der Landesregierung. Eine solche Vorlage muß nach ihrer
-               Einbringung in der Landesversammlung und vor ihrer zweiten Lefung der
-               Gemeindevertretung zur Beschlußfassung überwiesen. werden. Der Beschluß der
-               Gemeindevertretung gelangt in der Landesversammlung zur Verhandlung und Erledigung.
-               Die beschlossene Gemeindewahlordnung jeder Stadt mit eigenem Statut wird als
-               besonderes Landesgesetz erlassen. § 12. Für alle übrigen Gemeinden des Landes wird
-               die Gemeindewahlordnung durch Landesgesetz erlassen. Dabei sind Abweichungen zwischen
-               Großgemeinden und Landgemeinden zulässig. Als Großgemeinde haben dabei zu gelten alle
-               Städte mit Ausnahme jener mit eigenem Statut, die Rurorte, die Märkte, die Gemeinden
-               mit mehr als zweitaufend Einwohnern und endlich die Gemeinden, die vorwiegend
-               industriellen Charakter haben und von der Landesregierung ausdrücklich als
-               Industriegemeinden bezeichnet werden. Alle fonftigen Gemeinden sind Landgemeinden;
-               für diese kann ein vereinfachtes Wahlverfahren vorgesehen werden. III. Abschnitt. Die
-               Durchführung der Neuwahlen. § 13. Die Neuwahlen zu den Landesversammlungen und zu den
-               Gemeindevertretungen finden an einem und demselben Wahltage und in einem Wahlgang
-               statt. Der Wahltag ist auf einen Sonntag anzusetzen. § 14. Zur leichteren Ermittlung
-               des Wahlergebnisses kommen bei diesen Wahlen nur amtliche, von der Wahlbehörde
-               vorbereitete Stimmzettel mit vorgedruckten Parteilisten in Verwendung (Wahlordnung §
-               29). Dabei ist für die Stimmzettel zu den Landeswahlen und für jene zu den
-               Gemeindewahlen Papier von verschiedener Färbung vorzusehen. § 15. Dem Wähler werden
-               die Stimmzettel von der Ortswahlbehörde im Wahllokal und am Amtztisch nach seiner
-               Erkennung eingehändigt. Wer bloß Gemeinde- oder bloß Landeswähler ist, erhält nur den
-               einen, wer beides zugleich ist, erhält beide <pb facs="#facs_66" n="66"
-                  xml:id="img_0066" break="yes"/> 66 </p>
-            <p>Stimmzettel ausgefolgt. Die Stimmzettel werden vom Wähler in der Wahlzelle durch
-               Einhackung der ganzen Parteiliste oder mindestens eines Namens der Parteiliste
-               ausgefüllt. § 16. Dieses Gesetz tritt mit dem Tage seiner Rundmachung in Kraft. Mit
-               der Durchführung wird der Staatzsekretär des Innern betraut. <pb facs="#facs_67"
-                  n="67" xml:id="img_0067" break="yes"/> 67 </p>
-            <p>Anhang N. Gesetz bom. betreffend. eine besondere Brotauflage im Jahre 1919. §1 Im
-               Jahre 1919 haben die Grundsteuerträger sowie die Höherbemittelten zur teilweisen
-               Deckung der durch die notwendige Getreidebeschaffung aus dem Auslande erwachsenden
-               Rosten Beiträge nach Maßgabe der folgenden Bestimmungen zu leisten. I. Grundbesitzer.
-               §2 (1) Die Grunditeuerpflichtigen haben eine Auflage zu entrichten, die 80 Prozent
-               des Rataftralreinertrages beträgt; bei Wiesen ist die Auflage jedoch nur von drei
-               Vierteln, bei Alpen, Hutweiden, Seen, Sümpfen und Teichen von der Hälfte des
-               Rataftralreinertrages zu bemessen. Parifikationsland ist wie die entsprechende
-               Kulturgattung zu behandeln. Diese Auflage ist zugleich mit der Grundsteuer des Jahres
-               1919 zu veranlagen und in den ordentlichen Fälligkeitsterminen der Grundsteuer des
-               Jahres 1919 in gleichen Raten einzuzahlen. Die im Zeitpunkte der Verlautbarung des
-               Veranlagungsergebnisses rückständigen Raten sind mit der nächsten Rate einzuzahlen.
-               (2) Die Bestimmungen über die Grundsteuer finden im übrigen sinngemäße Anwendung. §3
-               Verpächter, die den Pachtzins seit Beginn des Krieges um nicht mehr als 50 Prozent
-               erhöht. haben, können gegenüber dem Pächter den Ersatz der für die verpachteten
-               Grundstücke entrichteten Auflage im Zivilrechtswege beanspruchen. II.
-               Höherbemittelte. §4 Als Höherbemittelte im Sinne des § 1. haben Personen zu gelten,
-               deren zur Einkommensteuer für das Jahr 1919 zu veranlagendes Einkommen 10.000 K
-               übersteigt. <pb facs="#facs_68" n="68" xml:id="img_0068" break="yes"/> 68 </p>
-            <p>§5. (1) Der besondere Beitrag, welchen die Höherbemittelten zu leiften haben, beträgt
-               für die Gesamtheit der gemäß § 157 B. St. G. zum Haushalte gehörenden Personen bei
-               einem gemäß § 157 B. St. G. ermittelten Ginkommen. von mehr als bis einschließlich
-               Beitrag 14.000 K. 10.000 K. 20.000 „ 14.000 „ 30.000 „ 160 „ 20.000 „ 40.000 „ 30.000
-               „ 60.000 „ 40.000 „ 960 „ 80.000 „ 60.000 „ 1.440 „ 100.000 „ 80.000 „ 1.920 „
-               150.000 „ 100.000 „ 2.400 „ 200.000 „ 150.000 „ 2.880 „ 300.000 „ 200.000 „ 3.360 „
-               400.000 „ 300.000, 3.840 „ 500.000 „ 400.000) 4.320 „ 600.000 „ 500.000 700.000 „
-               5.040 „ 600.000 „ 800.000 „ 5.760 „ 700.000. 900.000 „ 800.000 " 6.480 „ 7.200 „
-               900.000, 1,000.000 „ 2,000.000 „ 7.920 „ 1,000.000 5,000.000 „ 8.640 „ 2,000.000 „
-               über 9.600 „ 5,000.000, (2) Der Beitrag erhöht sich für je eine im Haushalte
-               verpflegte Dienstperson mit Ausnahme der lediglich als Arbeitsträfte im Betriebe
-               verwendeten bei einem Ginkommen Beitrag. von mehr als bis einschließlich 10.000 K.
-               14.000 K. 24 R. 40 20.000 „ 14.000 „ 80 20.000 „ 30.000 „ 40.000 „ 120 „ 30.000 „
-               40.000 „ 60.000 „ 160 „ 60.000 „ 80.000 „ 240 „ 80.000 „ 100.000 „ 360 „ 100.000 „
-               150.000 „ 480 „ 200.000, 150.000 „ 600 „ 300.000 „ 720 „ 200.000 „ 400.000 „ 300.000
-               „ 840 „ 500.000 „ 400.000 „ 960 „ 600.000„ 500.000 „ 1.080 „ 600.000 „ 700.000 „
-               1.260 „ 700.000 „ 800.000 „ 1.440 „ 800.000 „ 900.000 „ 1.620 „ 900.000 „ 1,000.000 „
-               1.800 „ 1,000.000 „ 2,000.000, 1.980, 2,000.000 „ 5,000.000 „ 2.160 „ über 5,000.000,
-               2.400 „ Die Zahl der Dienstpersonen ist nach deren Stande vom 1. Jänner 1919
-               anzurechnen. §6 (1) Der besondere Beitrag ist ohne amtliche Bemessung bei dem für die
-               Einkommensteucreinhebung zuständigen Steueramte in zwei Naten einzuzahlen, von
-               welchen die erfte am 1. Mai, die zweite am 1. August fällig wird. <pb facs="#facs_69"
-                  n="69" xml:id="img_0069" break="yes"/> 69 </p>
-            <p>Staatsdruckerei. 280919 </p>
-            <p>12) Wird die Abgabe nicht zeitgerecht oder nicht mit dem entfallenden Betrage
-               eingezahlt,so erfolgt die Vorschreibung durch die für die Einkommensteuer zuständige
-               Steuerbehörde auf Grund der der letzteren vorliegenden Behelfe mittels
-               Zahlungsauftrages. Gegen dicjen Zahlungsauftrag ist der Rekurs an die
-               Finanzlandesbehörde zulässig. (3) Für die nicht rechtzeitig (Absatz 1) eingezahlten
-               Beträge sin? Verzugszinsen von 6 vom Hundert zu entrichten. §7 Die Bestimmungen des
-               VI. Hauptstückes des Personalsteuergesetes finden sinngemäß Anwendung. III.
-               Schlußbestimmung. § 8. Dieses Gesetz tritt mit dem Tage seiner Kundmachung in
-               Wirksamkeit. Mit dem Vollzuge dieses Gesetzes ist der Staatsrat betraut. </p>
-            <p>10 </p>
+            <p>(Schluß der Sitzung 1 Uhr 20 Minuten nachmittags.) </p>
+            <head><pb facs="#facs_63" n="63" xml:id="img_0063" break="yes"/><fw type="pageNum"
+                  >63</fw>Anhang I.</head>
+            <head>Vorentwurf der Staatskanzlei.</head>
+            <head>Gesetz vom … über den Ablauf der Funktionsdauer der Provisorischen
+               Landesversammlungen und Gemeindevertretungen und die Vornahme von Neuwahlen in den
+               Ländern und Gemeinden.</head>
+            <div type="section">
+               <div type="article">
+                  <head>§ 1.</head>
+                  <p type="legal_section">Die Funktionsdauer der Provisorischen Landesversammlungen
+                     (Gesetz vom 14. November 1918, betreffend die Übernahme der Staatsgewalt in den
+                     Ländern, St. G. Bl. Nr. 24) und der Provisorischen Gemeindevertretungen
+                     (Vollzugsanweisung des Staatsrates vom 4. Dezember 1918 über die einstweilige
+                     Ergänzung der bestehenden Gemeindevertretungen, St. G. Bl. Nr. 81) läuft am 30.
+                     April 1919 ab.</p>
+                  <p type="legal_section">Bis zu diesem Tage haben die Landesversammlungen
+                     rechtzeitig Landes- und Gemeindewahlordnungen zu schaffen und allgemeine
+                     Neuwahlen durchzuführen.</p>
+               </div>
+               <div type="article">
+                  <head>§ 2.</head>
+                  <p type="legal_section">Über die Landes- und Gemeindewahlordnungen beschließt jede
+                     Landesversammlung nach Maßgabe und im Rahmen des vorliegenden Gesetzes frei.
+                     Diese Beschlüsse der Landesversammlungen erlangen Gesetzeskraft durch den
+                     Beitritt des Staatsrates und durch die vom Staatsrat anzuordnende Kundmachung
+                     im Landesgesetzblatt.</p>
+                  <p type="legal_section">Der Staatsrat kann den Beitritt zum Beschlusse der
+                     Landesversammlung nur versagen aus dem Grunde, weil eine der nachstehenden
+                     Bestimmungen im Beschluß einer Landesversammlung nicht beachtet worden ist.</p>
+               </div>
+            </div>
+            <div type="section">
+               <head>I. Abschnitt.</head>
+               <head>Die Landeswahlordnungen.</head>
+               <div type="article">
+                  <head>§ 3.</head>
+                  <p type="legal_section">Die Mitgliederzahl der Landesversammlungen soll im Lande
+                     Niederösterreich 140, Oberösterreich 70, Salzburg 40, Steiermark 90, Kärnten
+                     45, <pb facs="#facs_64" n="64" xml:id="img_0064" break="yes"/><fw
+                        type="pageNum">64</fw> Tirol 60, Vorarlberg 26, Deutschböhmen 70,
+                     Sudetenland 40 nicht überschreiten.</p>
+               </div>
+               <div type="article">
+                  <head>§ 4.</head>
+                  <p type="legal_section">Die Mitglieder der Landesversammlungen (Landesverordneten)
+                     werden auf Grund des allgemeinen, gleichen und direkten Wahlrechtes der
+                     Landesbürger ohne Unterschied des Geschlechtes nach dem Verhältniswahlverfahren
+                     gewählt.</p>
+               </div>
+               <div type="article">
+                  <head>§ 5.</head>
+                  <p type="legal_section">Landesbürger im Sinne der Landeswahlordnung sind alle
+                     deutschösterreichischen Staatsbürger (Gesetz vom 5. Dezember 1918 über das
+                     deutschösterreichische Staatsbürgerrecht, St. G. Bl. Nr. 91), welche in einer
+                     der Gemeinden des Landes ihren ordentlichen Wohnsitz haben.</p>
+                  <p type="legal_section">Voraussetzungen der Wahlberechtigung, welche die in der
+                     Wahlordnung zur Konstituierenden Nationalversammlung geregelte Wahlberechtigung
+                     einschränken sind, unzulässig.</p>
+               </div>
+               <div type="article">
+                  <head>§ 6.</head>
+                  <p type="legal_section">Zum Zwecke der örtlichen Durchführung der Wahlen können
+                     die Sprengel der in der Wahlordnung zur konstituierenden Nationalversammlung
+                     vorgesehenen Wahlkreise in Wahlbezirke untergeteilt werden. Solche
+                     Landeswahlbezirke müssen abgerundete Gebiete ohne Trennung von Stadt und Land
+                     bilden. Auf keinen Wahlbezirk dürfen weniger als drei oder mehr als zehn
+                     Landesverordnete entfallen. Die Wähler jedes Wahlbezirkes bilden einen
+                     einheitlichen und ungeteilten Wahlkörper.</p>
+               </div>
+               <div type="article">
+                  <head>§ 7.</head>
+                  <p type="legal_section">Die Aufteilung der Mandate erfolgt auf die Wahlbezirke in
+                     der Art, daß auf je einen Landesverordneten im Durchschnitt annähernd die
+                     gleiche Bevölkerungszahl entfällt.</p>
+               </div>
+               <div type="article">
+                  <head>§ 8.</head>
+                  <p type="legal_section">Dem Wahlverfahren sind die Bestimmungen der Wahlordnung
+                     zur Konstituierenden Nationalversammlung zugrunde zu legen. Dabei kann von der
+                     Koppelung der Parteilisten (§ 24) Umgang genommen werden. An Stelle der
+                     Hauptwahlbehörde tritt der Landesrat, als Kreis-, Bezirks- und Ortswahlbehörden
+                     bleiben die für die Konstituierende Nationalversammlung bestellten Wahlbehörden
+                     in Tätigkeit. Über Beschwerden wegen Ungesetzlichkeit der Wahlhandlung
+                     entscheidet der Wahlgerichtshof, beziehungsweise insolange er nicht eingesetzt
+                     ist, der deutschösterreichische Verwaltungsgerichtshof.</p>
+               </div>
+            </div>
+            <div type="section">
+               <head>II. Abschnitt.</head>
+               <head>Gemeindewahlordnungen.</head>
+               <div type="article">
+                  <head>§ 9. </head>
+                  <p type="legal_section">Die Staatshauptstadt Wien beschließt ihre
+                     Gemeindewahlordnung selbst, der Beschluß erlangt Gesetzeskraft dadurch, daß er,
+                     nachdem ihm der Staatsrat beigetreten ist, über dessen Auftrag im
+                     Landesgesetzblatt kundgemacht wird.</p>
+               </div>
+               <div type="article">
+                  <pb facs="#facs_65" n="65" xml:id="img_0065" break="yes"/>
+                  <fw type="pageNum">65</fw>
+                  <head>§ 10.</head>
+                  <p type="legal_section">Außer den bisher mit eigenem Statut versehenen Städten
+                     genießen in Hinkunft alle Städte, deren Einwohnerzahl in der letzten
+                     Volkszählung zwanzigtausend überschritten hat, die Rechte einer Stadt mit
+                     eigenem Statut.</p>
+               </div>
+               <div type="article">
+                  <head>§ 11.</head>
+                  <p type="legal_section">Die Städte mit eigenem Statut beraten und beschließen ihre
+                     Gemeindewahlordnung selbst, sei es auf Grund von in ihrer Gemeindevertretung
+                     eingebrachten Vorlagen oder Anträgen, sei es auf Grund einer Vorlage der
+                     Landesregierung. Eine solche Vorlage muß nach ihrer Einbringung in der
+                     Landesversammlung und vor ihrer zweiten Lesung der Gemeindevertretung zur
+                     Beschlußfassung überwiesen werden. Der Beschluß der Gemeindevertretung gelangt
+                     in der Landesversammlung zur Verhandlung und Erledigung. Die beschlossene
+                     Gemeindewahlordnung jeder Stadt mit eigenem Statut wird als besonderes
+                     Landesgesetz erlassen.</p>
+               </div>
+               <div type="article">
+                  <head>§ 12.</head>
+                  <p type="legal_section">Für alle übrigen Gemeinden des Landes wird die
+                     Gemeindewahlordnung durch Landesgesetz erlassen. Dabei sind Abweichungen
+                     zwischen Großgemeinden und Landgemeinden zulässig. Als Großgemeinde haben dabei
+                     zu gelten alle Städte mit Ausnahme jener mit eigenem Statut, die Kurorte, die
+                     Märkte, die Gemeinden mit mehr als zweitausend Einwohnern und endlich die
+                     Gemeinden, die vorwiegend industriellen Charakter haben und von der
+                     Landesregierung ausdrücklich als Industriegemeinden bezeichnet werden.</p>
+                  <p type="legal_section">Alle sonstigen Gemeinden sind Landgemeinden; für diese
+                     kann ein vereinfachtes Wahlverfahren vorgesehen werden.</p>
+               </div>
+            </div>
+            <div type="section">
+               <head>III. Abschnitt.</head>
+               <head>Die Durchführung der Neuwahlen.</head>
+               <div type="article">
+                  <head>§ 13.</head>
+                  <p type="legal_section">Die Neuwahlen zu den Landesversammlungen und zu den
+                     Gemeindevertretungen finden an einem und demselben Wahltage und in einem
+                     Wahlgang statt. Der Wahltag ist auf einen Sonntag anzusetzen.</p>
+               </div>
+               <div type="article">
+                  <head>§ 14.</head>
+                  <p type="legal_section">Zur leichteren Ermittlung des Wahlergebnisses kommen bei
+                     diesen Wahlen nur amtliche, von der Wahlbehörde vorbereitete Stimmzettel mit
+                     vorgedruckten Parteilisten in Verwendung (Wahlordnung § 29). Dabei ist für die
+                     Stimmzettel zu den Landeswahlen und für jene zu den Gemeindewahlen Papier von
+                     verschiedener Färbung vorzusehen.</p>
+               </div>
+               <div type="article">
+                  <head>§ 15.</head>
+                  <p type="legal_section">Dem Wähler werden die Stimmzettel von der Ortswahlbehörde
+                     im Wahllokal und am Amtstisch nach seiner Erkennung eingehändigt. Wer bloß
+                     Gemeinde- oder bloß Landeswähler ist, erhält nur den einen, wer beides zugleich
+                     ist, erhält beide <pb facs="#facs_66" n="66" xml:id="img_0066" break="yes"/><fw
+                        type="pageNum">66</fw> Stimmzettel ausgefolgt. Die Stimmzettel werden vom
+                     Wähler in der Wahlzelle durch Einhackung der ganzen Parteiliste oder mindestens
+                     eines Namens der Parteiliste ausgefüllt.</p>
+               </div>
+               <div type="article">
+                  <head>§ 16.</head>
+                  <p type="legal_section">Dieses Gesetz tritt mit dem Tage seiner Kundmachung in
+                     Kraft.</p>
+                  <p type="legal_section">Mit der Durchführung wird der Staatssekretär des Innern
+                     betraut.</p>
+               </div>
+            </div>
+            <head><pb facs="#facs_67" n="67" xml:id="img_0067" break="yes"/><fw type="pageNum"
+                  >67</fw>Anhang II.</head>
+            <head>Gesetz vom ..., betreffend eine besondere Brotauflage im Jahre 1919.</head>
+            <div type="section">
+               <div type="article">
+                  <head>§ 1.</head>
+                  <p type="legal_section">Im Jahre 1919 haben die Grundsteuerträger sowie die
+                     Höherbemittelten zur teilweisen Deckung der durch die notwendige
+                     Getreidebeschaffung aus dem Auslande erwachsenden Kosten Beiträge nach Maßgabe
+                     der folgenden Bestimmungen zu leisten.</p>
+               </div>
+            </div>
+            <div type="section">
+               <head>I. Grundbesitzer.</head>
+               <div type="article">
+                  <head>§ 2.</head>
+                  <p type="legal_section"><label>(1)</label> Die Grundsteuerpflichtigen haben eine
+                     Auflage zu entrichten, die 80 Prozent des Katastralreinertrages beträgt; bei
+                     Wiesen ist die Auflage jedoch nur von drei Vierteln, bei Alpen, Hutweiden,
+                     Seen, Sümpfen und Teichen von der Hälfte des Katastralreinertrages zu bemessen.
+                     Parifikationsland ist wie die entsprechende Kulturgattung zu behandeln.</p>
+                  <p type="legal_section">Diese Auflage ist zugleich mit der Grundsteuer des Jahres
+                     1919 zu veranlagen und in den ordentlichen Fälligkeitsterminen der Grundsteuer
+                     des Jahres 1919 in gleichen Raten einzuzahlen. Die im Zeitpunkte der
+                     Verlautbarung des Veranlagungsergebnisses rückständigen Raten sind mit der
+                     nächsten Rate einzuzahlen.</p>
+                  <p type="legal_section"><label>(2)</label> Die Bestimmungen über die Grundsteuer
+                     finden im übrigen sinngemäße Anwendung.</p>
+               </div>
+               <div type="article">
+                  <head>§ 3.</head>
+                  <p type="legal_section">Verpächter, die den Pachtzins seit Beginn des Krieges um
+                     nicht mehr als 50 Prozent erhöht haben, können gegenüber dem Pächter den Ersatz
+                     der für die verpachteten Grundstücke entrichteten Auflage im Zivilrechtswege
+                     beanspruchen.</p>
+               </div>
+            </div>
+            <div type="section">
+               <head>II. Höherbemittelte.</head>
+               <div type="article">
+                  <head>§ 4.</head>
+                  <p type="legal_section">Als Höherbemittelte im Sinne des § 1 haben Personen zu
+                     gelten, deren zur Einkommensteuer für das Jahr 1919 zu veranlagendes Einkommen
+                     10.000 K übersteigt.</p>
+               </div>
+               <div type="article">
+                  <head><pb facs="#facs_68" n="68" xml:id="img_0068" break="yes"/><fw type="pageNum"
+                        >68</fw>§ 5.</head>
+                  <p type="legal_section"><label>(1)</label> Der besondere Beitrag, welchen die
+                     Höherbemittelten zu leisten haben, beträgt für die Gesamtheit der gemäß § 157
+                     P. St. G. zum Haushalte gehörenden Personen bei einem gemäß § 157 P. St. G.
+                     ermittelten Einkommen.
+                     <?oxy_comment_start author="Atkinson.j" timestamp="20260114T162620+0100" comment="Tabelle? (https://tei-c.org/release/doc/tei-p5-doc/de/html/ref-table.html)"?>von </p>
+                  <table rows="21" cols="3">
+                     <row role="label">
+                        <cell role="data">von mehr als</cell>
+                        <cell role="data">bis einschließlich</cell>
+                        <cell role="data">Beitrag</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data">10.000 K</cell>
+                        <cell role="data">14.000 K</cell>
+                        <cell role="data">48 K</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data">14.000 "</cell>
+                        <cell role="data">20.000 "</cell>
+                        <cell role="data">96 "</cell>
+                     </row>
+                  </table><?oxy_comment_end?>
+                  <p>mehr als bis einschließlich Beitrag 14.000 K. 10.000 K. 20.000 „ 14.000 „
+                     30.000 „ 160 „ 20.000 „ 40.000 „ 30.000 „ 60.000 „ 40.000 „ 960 „ 80.000 „
+                     60.000 „ 1.440 „ 100.000 „ 80.000 „ 1.920 „ 150.000 „ 100.000 „ 2.400 „ 200.000
+                     „ 150.000 „ 2.880 „ 300.000 „ 200.000 „ 3.360 „ 400.000 „ 300.000, 3.840 „
+                     500.000 „ 400.000) 4.320 „ 600.000 „ 500.000 700.000 „ 5.040 „ 600.000 „
+                     800.000 „ 5.760 „ 700.000. 900.000 „ 800.000 " 6.480 „ 7.200 „ 900.000,
+                     1,000.000 „ 2,000.000 „ 7.920 „ 1,000.000 5,000.000 „ 8.640 „ 2,000.000 „ über
+                     9.600 „ 5,000.000</p>
+                  <p type="legal_section"><label>(2)</label> Der Beitrag erhöht sich für je eine im
+                     Haushalte verpflegte Dienstperson mit Ausnahme der lediglich als Arbeitskräfte
+                     im Betriebe verwendeten bei einem Einkommen
+                     <?oxy_comment_start author="Atkinson.j" timestamp="20260114T180004+0100" comment="Tabelle?"?>Beitrag
+                     von mehr als bis einschließlich 10.000 K. 14.000 K. 24 R. 40 20.000 „ 14.000 „
+                     80 20.000 „ 30.000 „ 40.000 „ 120 „ 30.000 „ 40.000 „ 60.000 „ 160 „ 60.000 „
+                     80.000 „ 240 „ 80.000 „ 100.000 „ 360 „ 100.000 „ 150.000 „ 480 „ 200.000,
+                     150.000 „ 600 „ 300.000 „ 720 „ 200.000 „ 400.000 „ 300.000 „ 840 „ 500.000 „
+                     400.000 „ 960 „ 600.000„ 500.000 „ 1.080 „ 600.000 „ 700.000 „ 1.260 „ 700.000
+                     „ 800.000 „ 1.440 „ 800.000 „ 900.000 „ 1.620 „ 900.000 „ 1,000.000 „ 1.800 „
+                     1,000.000 „ 2,000.000, 1.980, 2,000.000 „ 5,000.000 „ 2.160 „ über 5,000.000,
+                     2.400 „<?oxy_comment_end?></p>
+                  <p type="legal_section">Die Zahl der Dienstpersonen ist nach deren Stande vom 1.
+                     Jänner 1919 anzurechnen.</p>
+               </div>
+               <div type="article">
+                  <head>§ 6.</head>
+                  <p type="legal_section"><label>(1)</label> Der besondere Beitrag ist ohne amtliche
+                     Bemessung bei dem für die Einkommensteuereinhebung zuständigen Steueramte in
+                     zwei Raten einzuzahlen, von welchen die erste am 1. Mai, die zweite am 1.
+                     August fällig wird.</p>
+                  <p type="legal_section"><pb facs="#facs_69" n="69" xml:id="img_0069" break="yes"
+                        /><fw type="pageNum">69</fw><label>(2)</label> Wird die Abgabe nicht
+                     zeitgerecht oder nicht mit dem entfallenden Betrage eingezahlt,so erfolgt die
+                     Vorschreibung durch die für die Einkommensteuer zuständige Steuerbehörde auf
+                     Grund der der letzteren vorliegenden Behelfe mittels Zahlungsauftrages. Gegen
+                     diesen Zahlungsauftrag ist der Rekurs an die Finanzlandesbehörde zulässig.</p>
+                  <p type="legal_section"><label>(3)</label> Für die nicht rechtzeitig (Absatz 1)
+                     eingezahlten Beträge sind Verzugszinsen von 6 vom Hundert zu entrichten.</p>
+               </div>
+               <div type="article">
+                  <head>§ 7.</head>
+                  <p type="legal_section">Die Bestimmungen des VI. Hauptstückes des
+                     Personalsteuergesetzes finden sinngemäß Anwendung.</p>
+               </div>
+            </div>
+            <div type="section">
+               <head>III. Schlußbestimmung.</head>
+               <div type="article">
+                  <head>§ 8.</head>
+                  <p type="legal_section">Dieses Gesetz tritt mit dem Tage seiner Kundmachung in
+                     Wirksamkeit. Mit dem Vollzuge dieses Gesetzes ist der Staatsrat betraut.</p>
+               </div>
+            </div>
          </div>
       </body>
    
