@@ -58,11 +58,11 @@
                 </availability>
                 <idno type="transkribus_doc">9217639</idno>
                 <idno type="transkribus_collection">196429</idno>
-                <idno type="bv_data_set">Datenset B</idno>
+                <idno type="bv_data_set">Datenset C</idno>
                 <idno type="goobi">18751</idno>
             </publicationStmt>
             <seriesStmt>
-<title>Datenset B</title>
+<title>Datenset C</title>
 <biblScope unit="part">2705</biblScope>
 </seriesStmt>
 <sourceDesc>
