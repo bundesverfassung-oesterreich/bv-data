@@ -105,9 +105,9 @@ Zustand: gut</note>
                 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="created">
-            <change when="2025-10-29" who="#cfh">document automatically created</change>
-        </revisionDesc>
+        <revisionDesc status="structured">
+         <change when="2025-10-29" who="#cfh">document automatically created</change>
+      </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
       <surface ulx="0" uly="0" lrx="3253" lry="5138" xml:id="facs_2">
@@ -1436,15 +1436,14 @@ Zustand: gut</note>
                   gleichgültig, wer verkauft. Wir haben mit den Leuten, die verkaufen, schon recht
                   unangenehme Erfahrungen gemacht. Ich glaube, daß da die bestimmte Frage gestellt
                   werden muß: Wer bildet das Syndikat? Wer sind die <pb facs="#facs_15" n="15"
-                     xml:id="img_0015" break="yes"/><fw type="pageNum">14</fw>
-                  <?oxy_comment_start author="J" timestamp="20260211T224631+0100" comment="gegengelesen bis hier S. 14"?>Syndici<?oxy_comment_end?>?
-                  Wer wird abgeschickt werden, um diese Millionen- und Milliardenkäufe
-                  durchzuführen? Und ist die Sicherheit vorhanden, daß nicht doch entgegen den
-                  Ausführungen des Herrn Staatzsekretärs das Geld in Händlerhände fließen wird und
-                  nicht denen zukommt, denen es zukommen soll, dem Staate und dem Produzenten?</p>
+                     xml:id="img_0015" break="yes"/><fw type="pageNum">14</fw> Syndici? Wer wird
+                  abgeschickt werden, um diese Millionen- und Milliardenkäufe durchzuführen? Und ist
+                  die Sicherheit vorhanden, daß nicht doch entgegen den Ausführungen des Herrn
+                  Staatsekretärs das Geld in Händlerhände fließen wird und nicht denen zukommt,
+                  denen es zukommen soll, dem Staate und dem Produzenten?</p>
                <p>Der Herr Staatssekretär hat bezüglich der Vermögensabgabe gemeint, daß die
-                  Unsicherheit negatib wirke. Das glaube ich auch. Wenn wir endlich wissen würden,
-                  wie die Vermögensabgabe im Staate Deutschöfterreich geplant wird, wäre es ganz
+                  Unsicherheit negativ wirke. Das glaube ich auch. Wenn wir endlich wissen würden,
+                  wie die Vermögensabgabe im Staate Deutschösterreich geplant wird, wäre es ganz
                   anders. Ich bin einer derjenigen, die dem früheren Staatssekretär für Finanzen
                   gegenüber vom Anfang an darauf gedrungen haben, uns endlich einmal zu sagen, wie
                   wir uns vorbereiten sollen, weil ich die Furcht habe, daß vielleicht eine spätere
@@ -1458,20 +1457,20 @@ Zustand: gut</note>
                   Vermögensabgabe kommen muß, denn wir brauchen das Geld und müssen es aufbringen.
                   Nun werden wir aber ganz unmöglich das Holz, die Holzschnittware oder die
                   Halbfabrikate schon in den nächsten Monaten verfügbar machen können. Es wird also
-                  nichts anderes übrig bleiben, als eine Art Optionsrecht zu konstruicren, was ja
+                  nichts anderes übrig bleiben, als eine Art Optionsrecht zu konstruieren, was ja
                   dadurch möglich ist, daß man den Unterhändlern der fremden Staaten zeigt, in der
                   Nähe der Bahnen sind so und so viele Mengen sofort greifbaren Holzes vorhanden,
-                  die gehören Guch. Der Preis wird bestimmt, es kann auch in einem oder zwei Jahren
+                  die gehören Euch. Der Preis wird bestimmt, es kann auch in einem oder zwei Jahren
                   geschlagen werden. Ich mache darauf aufmerksam, daß wir in den Alpenländern die
                   Sommerschlägerung haben, und wenn das Holz nicht fertig zu liefern ist, so bleibt
                   nichts anderes übrig, als zu versprechen, daß wir es später liefern.</p>
                <p>Nun werden die Arbeiter auch im heurigen Jahre absolut nicht aufgebracht werden.
-                  können, wenn der Ernährungsminister nicht in der Tage ist, uns tatsächlich schon
+                  können, wenn der Ernährungsminister nicht in der Lage ist, uns tatsächlich schon
                   jetzt die Zubußen zuzuweisen. Man muß ihnen die Mehlzubuße und insbesondere eine
-                  Zettzubuße geben. Bevor nicht der Arbeiter seine Brot- und Fettmenge hat, die er
+                  Fettzubuße geben. Bevor nicht der Arbeiter seine Brot- und Fettmenge hat, die er
                   schon am Montag haben muß, um von Montag bis Samstag arbeiten zu können, wird er
                   kein Holz schlagen. Ich mache noch auf eine zweite Gefahr aufmerksam. Sobald man
-                  den Holzarbeitern diese Zubuße gibt, werden die anderen Arbeiterkategorien fommen
+                  den Holzarbeitern diese Zubuße gibt, werden die anderen Arbeiterkategorien kommen
                   und sagen, das müssen wir auch bekommen. Das haben wir in den verschiedenen
                   Ländern schon durchgemacht. Gibt man den Postangestellten etwas, so kommen die
                   Eisenbahner, gibt man diesen beiden etwas, so kommen die übrigen Arbeiter.</p>
@@ -1489,19 +1488,19 @@ Zustand: gut</note>
                   ausreichende Vorsorge getroffen wird, sonst können wird kein Holz liefern.</p>
             </sp>
             <sp>
-               <speaker>Landeshauptmann-Stellvertreter Dr. Pusch:</speaker>
+               <speaker>Landeshauptmann-Stellvertreter Dr. <emph>Pusch</emph>:</speaker>
                <p>Wir von Tirol sind in dieser Debatte wiederholt angesprochen worden, und zwar als
                   diejenigen, welche in der Frage der Holzwirtschaft eine vollständige ablehnende
                   Haltung eingenommen hätten. Ich bin kein Fachmann und habe auch nicht Gelegenheit
                   gehabt, mich vorzubereiten in einer Frage, die heute nicht auf der Tagesordnung
                   gestanden ist. Ich möchte daher vorausschicken, daß ich nur ganz unverbindlich die
-                  Tage in Tirol bekanntgeben kann.</p>
+                  Lage in Tirol bekanntgeben kann.</p>
                <p>Wir haben schon vor längerer Zeit in Tirol eine Landes-Holzwirtschaftsstelle
                   errichtet, deren Tätigkeit im wesentlichen dahin geht, daß kein Holz ohne Wissen
                   der Landesregierung aus dem Lande geführt wird, und daß dasjenige Holz, welches
                   außer Landes geht, insbesondere in das Ausland, nur zu einem bestimmten
                   festgesetzten Preise hinausgeht, und daß von diesem Preise ein bestimmter
-                  Prozentsatz als eine Prämie oder als eine Abgabe für das Landeingehoben wird,
+                  Prozentsatz als eine Prämie oder als eine Abgabe für das Land eingehoben wird,
                   welche zu Wirtschaftszwecken, zur Bewirtschaftung des Landes und für die bessere
                   Lebensmittelversorgung herangezogen wird. Im Verfolge dieser Aktion hat nun das
                   Land einen Vertrag mit der Schweiz abgeschlossen. Die Schweiz hat sich bereit
@@ -1509,11 +1508,11 @@ Zustand: gut</note>
                   Ich glaube, es hat sich dabei nicht um Rundholz, sondern nur um Papierholz
                   gehandelt. Von diesen 2000 Waggons, welche bis zum 1. Juli an die Schweiz hätten
                   geliefert werden sollen, konnten bisher kaum 200 Waggons abgeführt werden, teils
-                  wegen der Schwierigkeiten der Aufbringung des Holzes, weil wir einen schnecarmen
+                  wegen der Schwierigkeiten der Aufbringung des Holzes, weil wir einen schneearmen
                   Winter hatten, teils wegen des Mangels an Arbeitskräften. Wenn nun in einem Lande,
                   welches man im allgemeinen als holzreich bezeichnet, obwohl es aber in
                   Wirklichkeit nicht holzreich ist, wenn in einem Lande, welches zum größeren Teile,
-                  gerade dort, wo sich die großen Wälder befinden, von den Italicnern besetzt ist,
+                  gerade dort, wo sich die großen Wälder befinden, von den Italienern besetzt ist,
                   welche sich aus dem Holze unserer Wälder anscheinend eine Kriegsentschädigung
                   herausschlagen wollen, wenn in diesem Lande in Nordtirol in dieser kurzen oder
                   längeren Zeit, wie Sie wollen, von Anfang Jänner bis jetzt, kaum 100 Waggon für
@@ -1521,27 +1520,27 @@ Zustand: gut</note>
                      break="yes"/><fw type="pageNum">15</fw> damit Lebensmittel bezahlen zu können,
                   dann darf man doch nicht sagen, daß wir eine ablehnende Haltung einnehmen, wenn
                   wir jetzt, wo es sich darum handelt, Holz in größeren Mengen zum Zwecke der
-                  Ernährung ganz Deutschöfterreichs aufzubringen, erklären, daß wir nicht in der
-                  Tage sind, Holz aufzubringen. Wir befinden uns in einem Ausnahmszustande, wie
-                  vielleicht kein anderes Land. Gs ist schon auf der letzten Länderkonferenz darüber
+                  Ernährung ganz Deutschösterreichs aufzubringen, erklären, daß wir nicht in der
+                  Lage sind, Holz aufzubringen. Wir befinden uns in einem Ausnahmszustande, wie
+                  vielleicht kein anderes Land. Es ist schon auf der letzten Länderkonferenz darüber
                   gesprochen worden. Diesen Ausnahmszustand muß man berücksichtigen und er bringt es
-                  eben mit sich, daß wir nicht in der Tage waren, so viel Holz aufzubringen, wie
+                  eben mit sich, daß wir nicht in der Lage waren, so viel Holz aufzubringen, wie
                   heute gewünscht wird, da wir ja nicht einmal jenes Holz aufbringen können, das
-                  hier zur Bezahlung der von der Schweiz eingeführten Lebensmittel nötig wäre. Nun
-                  möchte ich, angeregt durch die Äußerung des Herrn Landeshauptmannes Steiner, der
-                  davon gesprochen hat, daß man sofort, als in Wien diese Holzwirtschaftsstelle
-                  errichtet wurde, gesagt hat, jetzt wird das Holz teurer und wir werden keines mehr
-                  sehen, darau hinweisen, daß ganz dieselben Zustände auch anderwärts eingetreten
-                  sind und daß wir uns auch deshalb scheuen, in eine solche, ich will das ominöse
-                  Wort Zentrale nicht aussprechen, aber in eine solche gemeinsame Wirtschaftsstelle
-                  einzutreten, weil wir auch heute wieder die Überzeugung haben, diese
-                  Wirtschaftsstellen sind schädlich, sie sind nicht im Interesse der Länder, auch
-                  nicht im Interesse der Bevölkerung und im Interesse der Erzielung einer besseren
-                  Ernährung. Was wir wünschen, ist einzig und allein, daß den Ländern das Recht
-                  belassen werde, nach Erkenntnis ihrer natürlichen Tage und ihrer
-                  Wirtschaftsverhältnisse die Bewirtschaftung des Holzes selbst zu führen. Das
+                  hier zur Bezahlung der von der Schweiz eingeführten Lebensmittel nötig wäre.</p>
+               <p>Nun möchte ich, angeregt durch die Äußerung des Herrn Landeshauptmannes
+                     <emph>Steiner</emph>, der davon gesprochen hat, daß man sofort, als in Wien
+                  diese Holzwirtschaftsstelle errichtet wurde, gesagt hat, jetzt wird das Holz
+                  teurer und wir werden keines mehr sehen, darauf hinweisen, daß ganz dieselben
+                  Zustände auch anderwärts eingetreten sind und daß wir uns auch deshalb scheuen, in
+                  eine solche, ich will das ominöse Wort Zentrale nicht aussprechen, aber in eine
+                  solche gemeinsame Wirtschaftsstelle einzutreten, weil wir auch heute wieder die
+                  Überzeugung haben, diese Wirtschaftsstellen sind schädlich, sie sind nicht im
+                  Interesse der Länder, auch nicht im Interesse der Bevölkerung und im Interesse der
+                  Erzielung einer besseren Ernährung. Was wir wünschen, ist einzig und allein, daß
+                  den Ländern das Recht belassen werde, nach Erkenntnis ihrer natürlichen Lage und
+                  ihrer Wirtschaftsverhältnisse die Bewirtschaftung des Holzes selbst zu führen. Das
                   wollen wir für Tirol beanspruchen, insbesondere für Tirol, solange wir nicht in
-                  der Cage sind, Holz abzugeben, weil wir noch die Schweizer Lebenzmittel bezahlen
+                  der Lage sind, Holz abzugeben, weil wir noch die Schweizer Lebensmittel bezahlen
                   müssen: Aber auch später, wenn das nicht mehr der Fall sein sollte, wenn wir
                   unsere Lebensmittel an eine Zentrale in Wien bezahlen müssen, auch dann wollen wir
                   nicht einer fremden Zentrale, und sei es auch einer solchen in Wien, die
@@ -1550,7 +1549,7 @@ Zustand: gut</note>
                   Zukunft, wenn es sich um eine solche gemeinsame Bewirtschaftung des Holzes und der
                   Holzerzeugnisse handelt, den Ländern diese Bewirtschaftung in einer
                   Wirtschaftsstelle beläßt. Diese Wirtschaftsstelle kann ja mit einer
-                  Zentralwirtschaftsstelle, die man in Wien errichtet, in Verbindung treten. Gs darf
+                  Zentralwirtschaftsstelle, die man in Wien errichtet, in Verbindung treten. Es darf
                   aber nicht von Wien aus die Bewirtschaftung des Holzes in Tirol eintreten. Darauf
                   müssen wir bestehen. Ich möchte nur ein Beispiel anführen, wie bei einem anderen
                   Artikel gewirtschaftet wird. Wir haben in Tirol Zement, und zwar in Kufstein die
@@ -1562,25 +1561,28 @@ Zustand: gut</note>
                   Zentralwirtschaftsstelle nach Wienabgegeben wird. Die Folge davon ist, daß wir
                   weder in Innsbruck noch anderwärts in Tirol die Bautätigkeit aufrecht erhalten
                   können. Die Folge wird sein, daß wahrscheinlich in der nächsten Woche die
-                  Vaubetriebe im Lande werden eingestellt werden müssen, wodurch 1200 Arbeiter
+                  Baubetriebe im Lande werden eingestellt werden müssen, wodurch 1200 Arbeiter
                   brotlos werden. Nun versteht das niemand. Die Leute, die Bauarbeiter, die
                   Baumeister und die Architekten, glauben, daß der Zement, der im Lande erzeugt
                   wird, denn doch in erster Linie dazu verwendet werden soll, um die Bautätigkeit im
                   Lande zu ermöglichen. Nein, es wird aller Zement, der innerhalb Tirols erzeugt
-                  wird, nach Wiengeliefert. Wenn man so vorgeht, wird es dazu kommen — nicht nur in
-                  Vorarlberg, wo das schon geschehen ist, sondern auch in Tirol —, daß die Länder
-                  sagen: so können wir nicht mehr wirtschaften! Wir wollen diese ominösen Zentralen
-                  überhaupt nicht mehr und wollen nicht durch diese Wirtschaftsstellen, die da in
-                  Wien eingerichtet werden, und alles das, was die Länder produzieren, rauben
-                  lassen. So stehen tatsächlich die Dinge bei uns. Ich kann dem nichts mehr
-                  beifügen, als nur das eine Ersuchen, daß die Herren doch nicht von dem Grundsatz
-                  abgehen sollten, den sie früher aufgestellt haben, daß man den Ländern einen
-                  gewissen Einfluß, und zwar in Form von Wirtschaftsstellen, sei es bei Holz oder
-                  auch bei anderen Dingen, einräumt, weil wir die Verhältnisse, wie sie draußen
-                  sind, jedenfalls besser kennen als eine uns unbekannte Zentrale, von der Herr Dr.
-                  Lemisch früher gesagt hat, er will wissen, wer die Mitglieder dieses Syndikats
-                  sind, er will wissen, wem der Gewinn zufällt, und er will überhaupt wissen, wie
-                  sie eingerichtet ist. Dasselbe wollen wir in Tirol auch wissen.</p>
+                  wird, nach Wien geliefert.</p>
+               <p>Wenn man so vorgeht, wird es dazu kommen — nicht nur in Vorarlberg, wo das schon
+                  geschehen ist, sondern auch in Tirol —, daß die Länder sagen: so können wir nicht
+                  mehr wirtschaften! Wir wollen diese ominösen Zentralen überhaupt nicht mehr und
+                  wollen nicht durch diese Wirtschaftsstellen, die da in Wien eingerichtet werden,
+                  und alles das, was die Länder produzieren, rauben lassen.</p>
+               <p>So stehen tatsächlich die Dinge bei uns. Ich kann dem nichts mehr beifügen, als
+                  nur das eine Ersuchen, daß die Herren doch nicht von dem Grundsatz abgehen
+                  sollten, den sie früher aufgestellt haben, daß man den Ländern einen gewissen
+                  Einfluß, und zwar in Form von Wirtschaftsstellen, sei es bei Holz oder auch bei
+                  anderen Dingen, einräumt, weil wir die
+                  <?oxy_comment_start author="Atkinson.j" timestamp="20260212T175217+0100" comment="Gegengelesen bis hier S. 15"?>Verhältnisse,
+                  wie sie draußen sind, jedenfalls besser kennen als<?oxy_comment_end?> eine uns
+                  unbekannte Zentrale, von der Herr Dr. Lemisch früher gesagt hat, er will wissen,
+                  wer die Mitglieder dieses Syndikats sind, er will wissen, wem der Gewinn zufällt,
+                  und er will überhaupt wissen, wie sie eingerichtet ist. Dasselbe wollen wir in
+                  Tirol auch wissen.</p>
             </sp>
             <sp>
                <speaker>Wirtschaftsdirektor Dr. Wutte:</speaker>
