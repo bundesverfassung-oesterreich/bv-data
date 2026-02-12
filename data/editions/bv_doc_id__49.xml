@@ -106,7 +106,7 @@
                 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="structured">
+        <revisionDesc status="text_correct">
             <change when="2025-02-03" who="#cfh">document automatically created</change>
             <change when="2025-02-14" who="#m_huber">Elias: Text fertig strukturiert</change>
             <change when="2025-02-21" who="#t_voegtlin">Gegengelesen</change>

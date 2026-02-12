@@ -101,7 +101,7 @@
                 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="created">
+        <revisionDesc status="text_correct">
             <change when="2025-07-23" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
