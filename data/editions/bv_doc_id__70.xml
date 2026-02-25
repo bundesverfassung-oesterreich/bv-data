@@ -136,68 +136,73 @@ Umfang: 6 Seiten</note>
     <text type="Sitzungsprotokoll">
         <body>
          <div type="main">
-                <head><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>Kabinettsprotokoll Nr.
-                    12 vom 20. Mai 1919.</head>
+                <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
                 <p>Vertraulich!</p>
+                <head>Kabinettsprotokoll Nr. 72 vom 20. Mai 1919.</head>
                 <p>Anwesend:<list>
-                        <item>Präsident Seitz und säntliche Kabinsttanltglieder </item>
-                        <item>ausgenommen Staatskanzler Dr. Renner, Staatssekratär Ing. Zerdik und
-                            Unterstaatssekretär Pflügl.</item>
+                        <item>Präsident <emph>Seitz</emph> und sämtliche Kabinettsmitglieder,
+                            ausgenommen Staatskanzler Dr. <emph>Renner</emph>, Staatssekratär Ing.
+                                <emph>Zerdik</emph> und Unterstaatssekretär
+                            <emph>Pflügl</emph>.</item>
                     </list>Zugezogen:<list>
-                        <item>Sektionschef im Staatsamt für Finanzen Dr. Gri m m </item>
-                    </list>Ferner zu Punkt 8:<list>
-                        <item>Ministerialsskretär in der Staatskanzlei Dr. Mannlicher. </item>
+                        <item>Sektionschef im Staatsamt für Finanzen Dr. <emph>Grimm</emph>, </item>
+                    </list>ferner zu Punkt 8:<list>
+                        <item>Ministerialsekretär in der Staatskanzlei Dr.
+                            <emph>Mannlicher</emph>.</item>
                     </list>Vorsitz:<list>
-                        <item>Vizekanzler Fink.</item>
+                        <item>Vizekanzler <emph>Fink</emph>.</item>
                     </list></p>
-                <p>Beginn, 9 Uhr abends. </p>
+                <p>Beginn: 9 Uhr abends.</p>
                 <p>Inhalt:<list>
                         <label>1.</label>
-                        <item>Ergebnis der Länderkonferenz über den Reise- und Semmerverketr. </item>
+                        <item>Ergebnis der Länderkonferenz über den Reise- und Sommerverkehr.</item>
                         <label>2.</label>
-                        <item>Vertnatung Deutsch-Südmährens bei der Friedenskonferenz. </item>
-                    </list></p>
-                <p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw type="pageNum">2</fw>
-                </p>
-                <p><list>
-                        <label>3. </label>
+                        <item>Vertretung Deutsch-Südmährens bei der Friedenskonferenz.</item>
+                    
+                <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><fw type="pageNum">- 2
+                        -</fw>
+                        <label>3.</label>
                         <item>Gesetzentwurf über die Aufnahme weiterer Anlehen in ausländischer
                             Währung und über die Heranziehung des Forstbesitzes zur Sicherstellung
                             solcher Anlehen.</item>
-                        <label>4. </label>
-                        <item>Beitritt der Staatsregterung zu mehreren von der Nationalversammlung
-                            beschlossenen Gesetzen. </item>
-                        <label>5. </label>
+                        <label>4.</label>
+                        <item>Beitritt der Staatsregierung zu mehreren von der Nationalversammlung
+                            beschlossenen Gesetzen.</item>
+                        <label>5.</label>
                         <item>Flüssigmachung der den vormaligen Erzherzogen Peter Ferdinand und
-                            Heinrich Ferdinand vom ehemaligen Kaiser bewilligten Unterstützungen. </item>
-                        <label>6. </label>
-                        <item>Vollzugsanweisung über die Aenderung der Bezeichnung des
-                            Kreisgerichtss Feldkirch in „landesgericht Feldkirch“. </item>
-                        <label>7. </label>
-                        <item> Regelung der Erholungsurlaube der Staatsbediensteten für das Jahr
-                            1919. 8. Stellung und Bezüge der in den deutschösterreichischen
-                            Staatsdienst übernommenen Bedienststen des liquidierenden Ministeriums
-                            für Landesverteidigung. </item>
-                        <label>9. </label>
-                        <item>Uabernahme der im Verwaltungsdienst Bosniens und der Herzegowina
+                            Heinrich Ferdinand vom ehemaligen Kaiser bewilligten
+                            Unterstützungen.</item>
+                        <label>6.</label>
+                        <item>Vollzugsanweisung über die Aenderung der Bezeichnung des Kreisgerichts
+                            Feldkirch in „Landesgericht Feldkirch“.</item>
+                        <label>7.</label>
+                        <item>Regelung der Erholungsurlaube der Staatsbediensteten für das Jahr
+                            1919.</item>
+                        <label>8.</label>
+                        <item>Stellung und Bezüge der in den deutschösterreichischen Staatsdienst
+                            übernommenen Bedienststen des liquidierenden Ministeriums für
+                            Landesverteidigung.</item>
+                        <label>9.</label>
+                        <item>Uebernahme der im Verwaltungsdienst Bosniens und der Herzegowina
                             stehenden Beamten deutscher Nationalität in den deutschösterreichtschen
-                            Staatsdienst. </item>
-                        <label>10. </label>
-                        <item> Memoranden der Paritätischen Industrieförderungskommission.  </item>
-                        <label>11. </label>
+                            Staatsdienst.</item>
+                        <label>10.</label>
+                        <item>Memoranden der Paritätischen Industrieförderungskommission.</item>
+                        <label>11.</label>
                         <item>Gesetzesbeschluß der provisorischen Landesversammlung in Steiermark
-                            über die Einführung einer Wertzuwachsabgabe. </item>
-                        <label>12. </label>
-                        <item>Erklärung über den Umfang des in Aussicht genommenen
-                            Sozialisisrungsaktion. </item>
-                        <label> 13. </label>
+                            über die Einführung einer Wertzuwachsabgabe.</item>
+                        <label>12.</label>
+                        <item>Erklärung über den Umfang der in Aussicht genommenen
+                            Sozialisierungsaktion.</item>
+                        <label>13.</label>
                         <item>Zusammensetzung des Bureaus der Sozialisierungskommission und Bezüge
-                            ihrer Beamten. </item>
-                        <label> 14. </label>
+                            ihrer Beamten.</item>
+                        <label>14.</label>
                         <item>Beendigung der Wirksamkeit des Obersten Sanitätsrates und des Obersten
-                            Lebensmittelbeirates.  </item>
-                        <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
-                        <label>15. </label>
+                            Lebensmittelbeirates.</item>
+                        <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><fw type="pageNum">- 2
+                            -</fw>
+                        <label>15.</label>
                         <item>Gesetzentwurf über die Regelung des Verkehrs mit Getreide und
                             Mahlprodukten. </item>
                     </list></p>
@@ -220,7 +225,7 @@ Umfang: 6 Seiten</note>
                 <p>Der Kabinettsrat nimmt diesen Benicht zustimmend zur Kenntnis und beschließt die
                     Erlassung der oberwähnten Vollzugsanweisung.</p>
                 <p><emph>Vertretung Deutsch-Südmährens bei der Friedenskonferenz.</emph>2. Der
-                    Vorsitzends teilt mit, daß ihm  seitens des Hauptvolksrates Südmährens ein
+                    Vorsitzends teilt mit, daß ihm seitens des Hauptvolksrates Südmährens ein
                     Telegramm zugskommen sei, worin er gebeten werde, die Forderung dieses
                     Hauptvolksrates nach Entsendung des Kreishauptmannes Teufe1 als Vertrster der
                     Interessen Deutsch-Gudmährens zur Friedenskonferenz sowohl im Hauptausschuss der
