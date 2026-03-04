@@ -107,6 +107,7 @@
         <revisionDesc status="structured">
             <change when="2025-10-29" who="#cfh">document automatically created</change>
             <change when="2025-12-02" who="#e_kordt">Text strukturiert</change>
+            <change when="2026-03-04" who="#e_kordt">Text korrekt</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
