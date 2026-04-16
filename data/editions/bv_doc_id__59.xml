@@ -105,7 +105,7 @@ Zustand: gut</note>
                 </date>
             </creation>
         </profileDesc>
-        <revisionDesc status="structured">
+        <revisionDesc status="text_correct">
          <change when="2025-10-29" who="#cfh">document automatically created</change>
       </revisionDesc>
     </teiHeader>
