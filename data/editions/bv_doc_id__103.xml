@@ -110,6 +110,7 @@
         </profileDesc>
         <revisionDesc status="created">
             <change when="2026-03-09" who="#cfh">document automatically created</change>
+            <change when="2026-04-27" who="#e_kordt">Text strukturiert und gegengelesen</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -1505,21 +1506,20 @@
                     nennen müssen. In diesem ganzen Verfassungsentwurf wird der Ausdruck „Staat“
                     immer gebraucht, wenn man absichtlich zwischen dem Bund und den Ländern nicht
                     unterscheiden will, denn sowohl der Bund ist Staat als jedes Land ist ein Staat,
-                    nämlich ein Gliedstaat innerhalb des Oberstaates, des</p>
-                <p>
-                    <pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/><fw type="pageNum"
-                        >3382</fw>Bundes. Deswegen nennen wir die bisherige staatliche Polizei und
-                    staatliche Gendarmerie von nun an, Bundespolizei und Bundesgendarmerie. Es ist
-                    nicht etwa die Meinung des Verfassungsausschusses gewesen und es wird gewiß auch
-                    nicht die Meinung dieses hohen Hauses sein, daß dami etwa eine neue Art von
-                    Polizei neben der jetzt bestehenden geschaffen werden sollte oder eine neue Art
-                    von Gendarmerie, oder daß außerhalb des Kompetenzkreises des Bundes eine
-                    Landespolizei oder Landesgendarmerie solle geschaffen werden können. Wir
-                    verstehen unter Bundespolizei die jetzt bestehende staatliche Polizei, die unter
-                    der Leitung des Staatsamtes des Innern und näherhin unter der Führung des
-                    Polizeipräsidenten von Wien steht. Und die Bundesgendarmerie ist die jetzt
-                    bestehende Gendarmerie, die nur aus den angegebenen terminologischen Gründen in
-                    Zukunft die Benennung „Bundesgendarmerie" wird führen müssen.</p>
+                    nämlich ein Gliedstaat innerhalb des Oberstaates, des<pb facs="#facs_19" n="19"
+                        xml:id="img_0019" break="yes"/><fw type="pageNum">3382</fw>Bundes. Deswegen
+                    nennen wir die bisherige staatliche Polizei und staatliche Gendarmerie von nun
+                    an, Bundespolizei und Bundesgendarmerie. Es ist nicht etwa die Meinung des
+                    Verfassungsausschusses gewesen und es wird gewiß auch nicht die Meinung dieses
+                    hohen Hauses sein, daß dami etwa eine neue Art von Polizei neben der jetzt
+                    bestehenden geschaffen werden sollte oder eine neue Art von Gendarmerie, oder
+                    daß außerhalb des Kompetenzkreises des Bundes eine Landespolizei oder
+                    Landesgendarmerie solle geschaffen werden können. Wir verstehen unter
+                    Bundespolizei die jetzt bestehende staatliche Polizei, die unter der Leitung des
+                    Staatsamtes des Innern und näherhin unter der Führung des Polizeipräsidenten von
+                    Wien steht. Und die Bundesgendarmerie ist die jetzt bestehende Gendarmerie, die
+                    nur aus den angegebenen terminologischen Gründen in Zukunft die Benennung
+                    „Bundesgendarmerie" wird führen müssen.</p>
                 <p>Ein während der Vorberatungen über den Verfassungsentwurf viel umstrittenes
                     Kapitel war jenes, das mit dem Artikel 109 beginnt, nämlich das Kapitel über die
                     Bundeshauptstadt Wien und das Land Niederösterreich. Seit langer Zeit ist in der
@@ -2779,116 +2779,119 @@
                     völlig abhängig ist. Wenn das Söhnchen an der Tasche des Vaters hängt, wird es
                     niemals die Behauptung wagen, daß es selbständig ist. Und nun ist, glaube ich,
                     den Ländern mit dieser Verfassung aus dem Grunde nicht gedient, weil die
-                    Auseinandersetzung über die Aufteilung des Steuer hoheitsrechtes, also der
+                    Auseinandersetzung über die Aufteilung des Steuerhoheitsrechtes, also der
                     Einnahmsquellen für die Länder, in dieser Verfassung nicht enthalten ist,
                     sondern weil die Regelung dieser Angelegenheit, ich möchte sagen, ad calendas
-                    graecas verschoben ist Ganz ähnlich verhält es sich mit dem Ver
-                    waltungsorganisationsgesetz. Wohl ist es nach unsäglichen mühevollen Beratungen
-                    gelungen, eine Kompetenzabgrenzung in den Artikeln 10 bis 13 zustandezubringen,
-                    allein alle diese Dinge sind nur auf dem Papier und werden nur auf dem Papien
-                    bleiben, weil es nicht gelungen ist, ein Ver waltungsgesetz zu schaffen, welches
-                    es ermöglicht hätte, die Durchführung der Verwaltung nach Maßgabe der
-                    Kompetenzen, wie sie sich aus der Verjassung ergeben, auch wirklich in die Tat
-                    um zusetzen. Endlich fehlen in dieser Verfassung die Grund= und Freiheitsrechte.
-                    Jede Verfassung ist eigentlich mehr oder weniger die Resultierende aus den
+                    graecas verschoben ist Ganz ähnlich verhält es sich mit dem
+                    Verwaltungsorganisationsgesetz. Wohl ist es nach unsäglichen mühevollen
+                    Beratungen gelungen, eine Kompetenzabgrenzung in den Artikeln 10 bis 13
+                    zustandezubringen, allein alle diese Dinge sind nur auf dem Papier und werden
+                    nur auf dem Papien bleiben, weil es nicht gelungen ist, ein Ver waltungsgesetz
+                    zu schaffen, welches es ermöglicht hätte, die Durchführung der Verwaltung nach
+                    Maßgabe der Kompetenzen, wie sie sich aus der Verfassung ergeben, auch wirklich
+                    in die Tat umzusetzen.</p>
+                <p>Endlich fehlen in dieser Verfassung die Grund= und Freiheitsrechte. Jede
+                    Verfassung ist eigentlich mehr oder weniger die Resultierende aus den
                     Auffassungen jener Zeit, in der sie entstand. Wenn wir die Verhältnisse der
-                    Dezemberverfassung </p>
-                <p>aus dem Jahre 1867 nehmen, müssen wir allerdings sagen, daß in damaliger Zeit den
-                    großen Massen des Volkes die Erringung der Grund= und Freiheitsrechte als das
-                    Wichtigste erschien, denn damals war noch die Zeit des Absolutismus, wo der
-                    einzelne Staatsbürger nicht so sehr Staatsbürger, als vielmehr Untertan war.
-                    Heute aber, wo alle Parteien ausnahmslos auf dem Standpunkte der demokratischen
-                    Republik stehen, ist es selbstverständlich, daß in der Bevölkerung das Verlangen
-                    nach Festlegung und Neuabgrenzung der Grund= und Freiheitsrechte nicht in jenem
-                    Maße vorhanden ist, wie es in der damaligen Zeit in der Bevölkerung lebendig
-                    war. Nachdem auch alle Parteien ihren Wählerkreisen keinen Zweifel darüber
-                    gelassen haben, daß es unmöglich sei, im Rahmen der kurzen uns zur Verfügung
-                    stehenden Zeit auch die Grund= und Freiheitsrechte in Beratung zu ziehen, so
-                    wird die Bevölkerung darüber kein Mißbehagen empfinden, daß diese Kapitel
-                    ausgesetzt worden ist. Ganz anders steht es aber mit den übrigen Belangen,
-                    insbesondere mit der Schulfrage. Es soll nicht verkannt werden, daß sowohl der
-                    Unterausschuß als auch die beiden großen Parteien sich Mühe gegeben haben, diese
-                    Frage im Rahmen der Verfassung zu regeln. Allein die großen Parteien suchten
-                    vorerst einen Ausweg darin, daß ein Teil der Kompetenzen über die Schule einem
-                    künftigen Verwaltungsgesetze vorbehalten sein sollte. Gerade die wichtigsten
-                    Belange, die Ernennung der Lehrer, die Regelung der Schulaufsicht, waren zur
-                    Verweisung an dieses Verwaltungsgesetz in Aussicht genommen. Als nun die
-                    Verhandlungen in der Schulfrage immer weniger und wenige Aussicht hatten, eine
-                    Klärung zu finden, wurde zuerst von der sozialdemokratischen Partei die Anregung
-                    gegeben, das ganze Schulwesen aus der Verfassung auszuschalten und es einem
-                    künftigen Verfassungsgesetz, einem Schulverwaltungsgesetz zu überweisen. Die
-                    Großdeutsche Partei hat konsequent den Standpunkt vertreten, daß die Schule
-                    etwas derart Wichtiges sei, daß für sie eine Verfassung, in welcher die
-                    Schulfrage nicht geregelt ist, einfach keine Verfassung bedeutet. Schon bei den
-                    ersten Beratungen im Verfassungsunterausschusse habe ich als Vertreter meiner
-                    Partei die Anregung gegeben, nicht den Versuch zu unternehmen, in der kurzen
-                    Zeit, die uns zur Beratung dieser Verfassung naturgemäß zur Verfügung stand, die
-                    ganze Verfassung durchzuarbeiten, sondern als Grundlage der Beratung lediglich
-                    den sogenannten kleinen Mayr=Entwurf, Nummer 888 der Beilagen, der Beratung
-                    zugrundezulegen. In diesem Entwurf, den der jetzige Staatssekretär Dr. Mayr Ende
-                    Juli dieses Jahres eingebracht hat, war im wesentlichen nichts anderes
-                    enthalten, als die Feststellung, daß unser Staat <pb facs="#facs_37" n="37"
-                        xml:id="img_0037" break="yes"/> eine demokratische Republik sei, ferner die
-                    Abgrenzung der Kompetenzen zwischen dem Bund und den Ländern, schließlich die
-                    notwendigsten Einrichtungen des Staates bezüglich der Gesetzgebung durch die
-                    beiden Körperschaften Nationalrat und Bundesrat und endlich Garantien der
-                    Verfassung in bezug auf die Gerichtsbarkeit. Wäre es uns gelungen, dieses kleine
-                    Elaborat voll= ständig zu beraten und insbesondere über die Schulfrage eine
-                    Klärung zu erzielen, so wäre zwar nur ein Teil der Verfassung zustande gekommen
-                    aber wenigstens wäre dieser Teil ein ganzer Teil gewesen. Auch die
-                    Dezemberverfassung aus dem Jahre 1867 besteht bekanntlich aus einer Reihe
-                    einzelner Gesetze. So wäre es auch höchstens ein Schönheitsfehler gewesen, wenn
-                    unsere Verfassung statt äußerlich ein zusammenhängendes, einheitliches Werk zu
-                    sein, sich aus einer Reihe von Teilgesetzen zusammengesetzt hätte. So aber haben
-                    wir heut ein äußerlich ziemlich voluminöses Gesetzeswerk vor uns, es kommt mir
-                    aber wie eine Nuß vor, in der kein Kern steckt. (Sehr richtig!) Aber nicht etwa
-                    eine Ruß mit dünner Schale, sondern wie eine sogenannte Stein nuß, eine Nuß mit
-                    furchtbar dicker, holziger Schale, die sehr schwer aufzuknacken ist. Selbst
-                    Juristen werden sich vielfach die Köpfe zerbrechen müssen, wenn sie dem Sinn der
-                    Verfassung ganz auf den Grund kommen wollen, und wenn es diesen Leuten endlich
-                    gelungen sein wird, die Verfassung durchgearbeitet und nach ihrer Meinung
-                    wenigstens den Prinzipien nach erfaßt zu haben, werden sie finden, daß sie zwar
-                    eine große Arbeit hinter sich haben, daß sie aber die Nuß umsonst aufgeknackt
-                    haben, denn es fehlt ihr jeder Kern. Dies wollte ich zur Verfassung im
-                    allgemeinen bemerken. Was nun die einzelnen Bestimmungen der Verfassung
-                    betrifft, so bin ich, wie ich bereits gesagt habe, nicht in der angenehmen Lage,
-                    wie mein sehr verehrter Herr Vorredner, auf viele positive Erfolge hinweisen zu
-                    können. Ich muß mich als Mitglied einer Minoritätspartei lediglich damit
-                    begnügen, anzuführen, in welchen Punkten trotz der Bemühungen meiner Partei
-                    unser Standpunkt nicht durchgedrungen ist. Ich habe davon abgesehen, in allen
-                    diesen Belangen Minoritätsanträge einzubringen, weil es ja für unsere Partei
-                    sehr wenig Zweck gehabt hätte, viele Minoritätsanträge zu stellen; denn in all
-                    den Punkten, wo sich die großen Parteien gefunden haben, war es ja
-                    selbstverständlich, daß bei Vorhandensein eines Kompromisses der beiden großen
-                    Parteien meine Minoritätspartei von vorn herein der Möglichkeit beraubt war,
-                    irgendwieetwas durchzusetzen. Vor allem möchte ich darauf hinweisen, das die
-                    Auffassung meiner Partei von der der anderen Parteien grundverschieden war.
-                    Während auch die christlichsoziale Partei noch in ihren früheren Ent¬ </p>
-                <p>würfen auf dem Standpunkte stand, daß der Bundespräsident aus dem Volke zu wählen
-                    sei, hat sowohl diese Partei wie auch die sozialdemokratische Partei in den
-                    Beratungen des Unterausschusses von vornherein den Standpunkt vertreten, daß der
-                    Bundespräsident nicht aus dem gesamten Volke zu entnehmen, sondern daß er durch
-                    den Nationalrat und den Bundesrat zu wählen sei. Der Grund, weshalb meine Partei
-                    aus dem Standpunkte gestanden ist, daß der Bundespräsident aus dem ganzen Volke
-                    zu entnehmen sei, liegt darin, daß der künftige Bundespräsident nach unserer
-                    Auffassung keine bloße Dekorationspuppe sein sollte sondern wirklich ein Mann,
-                    der tatsächlich eine bedeutende Macht in seiner Hand besitzen sollte. Diese
-                    Macht kann er aber nur dann erhalten, wenn er aus dem Volke selbst gewählt ist.
-                    Durch die Bestimmungen unserer Verfassung wird aber meines Erachtens dem
-                    demokratischen Prinzip sehr wenig Ausdruck verliehen, denn undemokratisch ist
-                    zweifellos jede indirekte Wahl. Nun ist aber eine indirekte Wahl nicht nur
-                    vorhanden seitens aller Mitglieder des Nationalrates, die Wahl von seiten der
-                    Mitglieder des Bundesrates kann sogar durch Personen erfolgen, welche
-                    möglicherweise überhaupt nicht aus einer Volkswahl hervorgegangen sind; denn
-                    bekanntlich ist beim Bundesrat die Bestimmung getroffen, daß dessen Mitglieder
-                    aus dem Landtag durch Delegation zu bestellen sind, daß aber die Mitglieder des
-                    Bundesrates nicht selbst Landtagsabgeordnete zu sein brauchen. Es kann demnach
-                    und es wird demnach auch der Fall eintreten, daß Bundesräte im Bundesrat Sitz
-                    und Stimme haben, die nicht einmal durch irgendeine Volkswahl hervorgegangen
-                    sind. Meine sehr Verehrten! Es wird doch niemand behaupten können, daß dieses
-                    Prinzip der Wahl des Präsidenten den Grundsätzen der Demokratie irgendwie
-                    gerecht wird. Meines Erachtens wäre es nur durchaus demokratisch, wenn das Volk
-                    selbst zur Wahl seines Staatsoberhauptes direkt berufen wäre. (Sehr richtig!)
+                    Dezemberverfassung aus dem Jahre 1867 nehmen, müssen wir allerdings sagen, daß
+                    in damaliger Zeit den großen Massen des Volkes die Erringung der Grund= und
+                    Freiheitsrechte als das Wichtigste erschien, denn damals war noch die Zeit des
+                    Absolutismus, wo der einzelne Staatsbürger nicht so sehr Staatsbürger, als
+                    vielmehr Untertan war. Heute aber, wo alle Parteien ausnahmslos auf dem
+                    Standpunkte der demokratischen Republik stehen, ist es selbstverständlich, daß
+                    in der Bevölkerung das Verlangen nach Festlegung und Neuabgrenzung der Grund=
+                    und Freiheitsrechte nicht in jenem Maße vorhanden ist, wie es in der damaligen
+                    Zeit in der Bevölkerung lebendig war. Nachdem auch alle Parteien ihren
+                    Wählerkreisen keinen Zweifel darüber gelassen haben, daß es unmöglich sei, im
+                    Rahmen der kurzen uns zur Verfügung stehenden Zeit auch die Grund= und
+                    Freiheitsrechte in Beratung zu ziehen, so wird die Bevölkerung darüber kein
+                    Mißbehagen empfinden, daß diese Kapitel ausgesetzt worden ist.</p>
+                <p>Ganz anders steht es aber mit den übrigen Belangen, insbesondere mit der
+                    Schulfrage. Es soll nicht verkannt werden, daß sowohl der Unterausschuß als auch
+                    die beiden großen Parteien sich Mühe gegeben haben, diese Frage im Rahmen der
+                    Verfassung zu regeln. Allein die großen Parteien suchten vorerst einen Ausweg
+                    darin, daß ein Teil der Kompetenzen über die Schule einem künftigen
+                    Verwaltungsgesetze vorbehalten sein sollte. Gerade die wichtigsten Belange, die
+                    Ernennung der Lehrer, die Regelung der Schulaufsicht, waren zur Verweisung an
+                    dieses Verwaltungsgesetz in Aussicht genommen. Als nun die Verhandlungen in der
+                    Schulfrage immer weniger und weniger Aussicht hatten, eine Klärung zu finden,
+                    wurde zuerst von der sozialdemokratischen Partei die Anregung gegeben, das ganze
+                    Schulwesen aus der Verfassung auszuschalten und es einem künftigen
+                    Verfassungsgesetz, einem Schulverwaltungsgesetz zu überweisen. Die Großdeutsche
+                    Partei hat konsequent den Standpunkt vertreten, daß die Schule etwas derart
+                    Wichtiges sei, daß für sie eine Verfassung, in welcher die Schulfrage nicht
+                    geregelt ist, einfach keine Verfassung bedeutet. Schon bei den ersten Beratungen
+                    im Verfassungsunterausschusse habe ich als Vertreter meiner Partei die Anregung
+                    gegeben, nicht den Versuch zu unternehmen, in der kurzen Zeit, die uns zur
+                    Beratung dieser Verfassung naturgemäß zur Verfügung stand, die ganze Verfassung
+                    durchzuarbeiten, sondern als Grundlage der Beratung lediglich den sogenannten
+                    kleinen Mayr=Entwurf, Nummer 888 der Beilagen, der Beratung zugrundezulegen. In
+                    diesem Entwurf, den der jetzige Staatssekretär Dr. Mayr Ende Juli dieses Jahres
+                    eingebracht hat, war im wesentlichen nichts anderes enthalten, als die
+                    Feststellung, daß unser Staat <pb facs="#facs_37" n="37" xml:id="img_0037"
+                        break="yes"/><fw type="pageNum">3400</fw>eine demokratische Republik sei,
+                    ferner die Abgrenzung der Kompetenzen zwischen dem Bund und den Ländern,
+                    schließlich die notwendigsten Einrichtungen des Staates bezüglich der
+                    Gesetzgebung durch die beiden Körperschaften Nationalrat und Bundesrat und
+                    endlich Garantien der Verfassung in bezug auf die Gerichtsbarkeit. Wäre es uns
+                    gelungen, dieses kleine Elaborat vollständig zu beraten und insbesondere über
+                    die Schulfrage eine Klärung zu erzielen, so wäre zwar nur ein Teil der
+                    Verfassung zustande gekommen aber wenigstens wäre dieser Teil ein ganzer Teil
+                    gewesen. Auch die Dezemberverfassung aus dem Jahre 1867 besteht bekanntlich aus
+                    einer Reihe einzelner Gesetze. So wäre es auch höchstens ein Schönheitsfehler
+                    gewesen, wenn unsere Verfassung statt äußerlich ein zusammenhängendes,
+                    einheitliches Werk zu sein, sich aus einer Reihe von Teilgesetzen
+                    zusammengesetzt hätte. So aber haben wir heut ein äußerlich ziemlich voluminöses
+                    Gesetzeswerk vor uns, es kommt mir aber wie eine Nuß vor, in der kein Kern
+                    steckt. <emph>(Sehr richtig!)</emph> Aber nicht etwa eine Ruß mit dünner Schale,
+                    sondern wie eine sogenannte Steinnuß, eine Nuß mit furchtbar dicker, holziger
+                    Schale, die sehr schwer aufzuknacken ist. Selbst Juristen werden sich vielfach
+                    die Köpfe zerbrechen müssen, wenn sie dem Sinn der Verfassung ganz auf den Grund
+                    kommen wollen, und wenn es diesen Leuten endlich gelungen sein wird, die
+                    Verfassung durchgearbeitet und nach ihrer Meinung wenigstens den Prinzipien nach
+                    erfaßt zu haben, werden sie finden, daß sie zwar eine große Arbeit hinter sich
+                    haben, daß sie aber die Nuß umsonst aufgeknackt haben, denn es fehlt ihr jeder
+                    Kern.</p>
+                <p>Dies wollte ich zur Verfassung im allgemeinen bemerken. Was nun die einzelnen
+                    Bestimmungen der Verfassung betrifft, so bin ich, wie ich bereits gesagt habe,
+                    nicht in der angenehmen Lage, wie mein sehr verehrter Herr Vorredner, auf viele
+                    positive Erfolge hinweisen zu können. Ich muß mich als Mitglied einer
+                    Minoritätspartei lediglich damit begnügen, anzuführen, in welchen Punkten trotz
+                    der Bemühungen meiner Partei unser Standpunkt nicht durchgedrungen ist. Ich habe
+                    davon abgesehen, in allen diesen Belangen Minoritätsanträge einzubringen, weil
+                    es ja für unsere Partei sehr wenig Zweck gehabt hätte, viele Minoritätsanträge
+                    zu stellen; denn in all den Punkten, wo sich die großen Parteien gefunden haben,
+                    war es ja selbstverständlich, daß bei Vorhandensein eines Kompromisses der
+                    beiden großen Parteien meine Minoritätspartei von vorn herein der Möglichkeit
+                    beraubt war, irgendwie etwas durchzusetzen.</p>
+                <p>Vor allem möchte ich darauf hinweisen, das die Auffassung meiner Partei von der
+                    der anderen Parteien grundverschieden war. Während auch die christlichsoziale
+                    Partei noch in ihren früheren Entwürfen auf dem Standpunkte stand, daß der
+                    Bundespräsident aus dem Volke zu wählen sei, hat sowohl diese Partei wie auch
+                    die sozialdemokratische Partei in den Beratungen des Unterausschusses von
+                    vornherein den Standpunkt vertreten, daß der Bundespräsident nicht aus dem
+                    gesamten Volke zu entnehmen, sondern daß er durch den Nationalrat und den
+                    Bundesrat zu wählen sei. Der Grund, weshalb meine Partei auf dem Standpunkte
+                    gestanden ist, daß der Bundespräsident aus dem ganzen Volke zu entnehmen sei,
+                    liegt darin, daß der künftige Bundespräsident nach unserer Auffassung keine
+                    bloße Dekorationspuppe sein sollte sondern wirklich ein Mann, der tatsächlich
+                    eine bedeutende Macht in seiner Hand besitzen sollte. Diese Macht kann er aber
+                    nur dann erhalten, wenn er aus dem Volke selbst gewählt ist. Durch die
+                    Bestimmungen unserer Verfassung wird aber meines Erachtens dem demokratischen
+                    Prinzip sehr wenig Ausdruck verliehen, denn undemokratisch ist zweifellos jede
+                    indirekte Wahl. Nun ist aber eine indirekte Wahl nicht nur vorhanden seitens
+                    aller Mitglieder des Nationalrates, die Wahl von seiten der Mitglieder des
+                    Bundesrates kann sogar durch Personen erfolgen, welche möglicherweise überhaupt
+                    nicht aus einer Volkswahl hervorgegangen sind; denn bekanntlich ist beim
+                    Bundesrat die Bestimmung getroffen, daß dessen Mitglieder aus dem Landtag durch
+                    Delegation zu bestellen sind, daß aber die Mitglieder des Bundesrates nicht
+                    selbst Landtagsabgeordnete zu sein brauchen. Es kann demnach und es wird demnach
+                    auch der Fall eintreten, daß Bundesräte im Bundesrat Sitz und Stimme haben, die
+                    nicht einmal durch irgendeine Volkswahl hervorgegangen sind.</p>
+                <p>Meine sehr Verehrten! Es wird doch niemand behaupten können, daß dieses Prinzip
+                    der Wahl des Präsidenten den Grundsätzen der Demokratie irgendwie gerecht wird.
+                    Meines Erachtens wäre es nur durchaus demokratisch, wenn das Volk selbst zur
+                    Wahl seines Staatsoberhauptes direkt berufen wäre. <emph>(Sehr richtig!)</emph>
                     Wenn dies aber durch den Wunsch, durch den übereinstimmenden Willen der
                     Mehrheitsparteien ausgeschlossen ist, so drängt sich unwillkürlich die Vermutung
                     auf, ob dadurch nicht die Mehrheitsparteien der Meinung Ausdruck geben, daß sie
@@ -2898,122 +2901,125 @@
                     und allein unmittelbar vom Volke auszugehen habe. Es ist um so merkwürdiger, daß
                     wir in Österreich von diesem demokratischen Prinzipe abweichen, wo bekanntlich
                     auch im Deutschen Reiche die Wahl des Präsidenten durch das Volk und von dem
-                    Volke erfolgt. <pb facs="#facs_38" n="38" xml:id="img_0038" break="yes"/> Was
-                    die Stellung des Bundesrates betrifft so hat mein sehr verehrter Herr Vorredner
-                    der Großdeutschen Partei den Vorwurf zu machen versucht, daß auch sie in ihrer
-                    Verfassung bei den Bestimmungen über den Bundesrat etwas reaktionäre Ansichten
-                    gehabt habe. Diesbezüglich möchte unseren Standpunkt im folgenden kennzeichnen:
-                    ist selbstverständlich, daß bei jeder föderalistischen Verfassung ein Bundesrat
-                    vorhanden sein muß, weil der Selbständigkeit der einzelnen Länder einzig durch
-                    den Bundesrat erst Ausdruck gegeben wird. Wenn man sich auf den Standpunkt des
-                    Föderalismus stellt, wenn man also von der Gleichberechtigung der einzelnen
-                    Länder ausgeht, ist es eigent lich auch konsequent, diese gleichberechtigten
-                    Länder mit gleich viel Stimmen im Bundesrate der treten zu sehen.
-                    Dessenungeachtet hat aber der Verfassungsentwurf der Großdeutschen Partei
-                    vorgesehen, daß für die Länder mit größerer Einwohnerzahl auch eine größere
-                    Vertretung im Bundesrate Platz greifen könne. Wir waren aber der Ansicht, daß
-                    ein Bundesrat, wie er nach dem Willen der beiden großen Parteien jetzt zustande
-                    gekommen. ist, eigentlich nichts anderes darstellt als einen Abklatsch des
-                    ersten Hauses. Wir stehen auf dem Stand punkte, daß ein Zweikammersystem in dem
-                    Sinne, daß ein zweites Haus wesentlich genau dieselbe politische Zusammensetzung
-                    wie das erste Haus aufweist, eine absolute Unnotwendigkeit darstellt. (Sehr
-                    richtig!) Der Bundesrat ist wohl vom Standpunkte der Vertretung des
+                    Volke erfolgt.<pb facs="#facs_38" n="38" xml:id="img_0038" break="yes"/><fw
+                        type="pageNum">3401</fw>Was die Stellung des Bundesrates betrifft, so hat
+                    mein sehr verehrter Herr Vorredner der Großdeutschen Partei den Vorwurf zu
+                    machen versucht, daß auch sie in ihrer Verfassung bei den Bestimmungen über den
+                    Bundesrat etwas reaktionäre Ansichten gehabt habe. Diesbezüglich möchte ich
+                    unseren Standpunkt im folgenden kennzeichnen: ist selbstverständlich, daß bei
+                    jeder föderalistischen Verfassung ein Bundesrat vorhanden sein muß, weil der
+                    Selbständigkeit der einzelnen Länder einzig durch den Bundesrat erst Ausdruck
+                    gegeben wird. Wenn man sich auf den Standpunkt des Föderalismus stellt, wenn man
+                    also von der Gleichberechtigung der einzelnen Länder ausgeht, ist es eigentlich
+                    auch konsequent, diese gleichberechtigten Länder mit gleich viel Stimmen im
+                    Bundesrate vertreten zu sehen. Dessenungeachtet hat aber der Verfassungsentwurf
+                    der Großdeutschen Partei vorgesehen, daß für die Länder mit größerer
+                    Einwohnerzahl auch eine größere Vertretung im Bundesrate Platz greifen könne.
+                    Wir waren aber der Ansicht, daß ein Bundesrat, wie er nach dem Willen der beiden
+                    großen Parteien jetzt zustande gekommen. ist, eigentlich nichts anderes
+                    darstellt als einen Abklatsch des ersten Hauses. Wir stehen auf dem Standpunkte,
+                    daß ein Zweikammersystem in dem Sinne, daß ein zweites Haus wesentlich genau
+                    dieselbe politische Zusammensetzung wie das erste Haus aufweist, eine absolute
+                    Unnotwendigkeit darstellt. <emph>(Sehr richtig!)</emph></p>
+                <p>Der Bundesrat ist wohl vom Standpunkte der Vertretung des
                     Selbständigkeitsgedankens der Länder notwendig, aber einem Bundesrat, der einem
                     zweiten Herrenhause gleichkommt, haben wir nie das Wort gesprochen.
-                    (Zustimmung.) Ganz im Gegen teil hat die Großdeutsche Vereinigung schon in den
-                    ersten Tagungen der Nationalversammlung dem Gedanken Ausdruck gegeben, daß auch
-                    sie ein zweites Haus wünscht, aber nicht ein Haus, welches seiner
-                    Zusammensetzung nach dem Nationalrat oder der Nationalversammlung gleich ist,
-                    sondern eine ArWirtschaftsparlament, ein Parlament also, in welchem alle
-                    werktätigen Stände ihre Vertretung finden und in welchem alle Gesetze, die
-                    politischen, wirtschaft lichen oder sozialen Charakters sind, vorberaten werden.
-                    Eine Beratung desselben Gegenstandes durch zwei Häuser, die gleich
-                    zusammengesetzt sind, hat keinen Sinn, dagegen ist es unbedingt notwendig um zum
-                    Aufbau unserer Wirtschaftsordnung zu kommen, endlich einmal dem Arbeitsfrieden
-                    bei uns zum Durchbruch zu verhelfen. (Sehr richtig!) Unseres Erachtens nach kann
-                    der Arbeitsfriede nur dadurch gefördert werden, daß man einen gesetzlichen Zwang
-                    ausübt, daß sich sowohl die Unternehmer wie die Arbeiter am gemeinsamen
-                    Beratungstisch zusammenfinden und sich darüber klar werden, wie die beiden
-                    Ständen gemeinsamen Interessen am wirksamsten zu </p>
-                <p>vertreten sind. Es ist also unbedingt notwendig, Einrichtungen zu treffen, durch
+                        <emph>(Zustimmung.)</emph> Ganz im Gegen teil hat die Großdeutsche
+                    Vereinigung schon in den ersten Tagungen der Nationalversammlung dem Gedanken
+                    Ausdruck gegeben, daß auch sie ein zweites Haus wünscht, aber nicht ein Haus,
+                    welches seiner Zusammensetzung nach dem Nationalrat oder der Nationalversammlung
+                    gleich ist, sondern eine Art Wirtschaftsparlament, ein Parlament also, in
+                    welchem alle werktätigen Stände ihre Vertretung finden und in welchem alle
+                    Gesetze, die politischen, wirtschaftlichen oder sozialen Charakters sind,
+                    vorberaten werden. Eine Beratung desselben Gegenstandes durch zwei Häuser, die
+                    gleich zusammengesetzt sind, hat keinen Sinn, dagegen ist es unbedingt notwendig
+                    um zum Aufbau unserer Wirtschaftsordnung zu kommen, endlich einmal dem
+                    Arbeitsfrieden bei uns zum Durchbruch zu verhelfen. <emph>(Sehr richtig!)</emph>
+                    Unseres Erachtens nach kann der Arbeitsfriede nur dadurch gefördert werden, daß
+                    man einen gesetzlichen Zwang ausübt, daß sich sowohl die Unternehmer wie die
+                    Arbeiter am gemeinsamen Beratungstisch zusammenfinden und sich darüber klar
+                    werden, wie die beiden Ständen gemeinsamen Interessen am wirksamsten zu
+                    vertreten sind. Es ist also unbedingt notwendig, Einrichtungen zu treffen, durch
                     welche Arbeitnehmerschaft und Arbeitgeber, und zwar schon von den kleineren
                     Verbänden angefangen bis hinauf zu den großen Verbänden, sich zu gemeinsamer
                     Arbeit zusammensetzen, um durch gemeinsame Aussprache in allen Fällen zu einer
-                    mittleren Linie zu gelangen. Aus diesem Grunde hat der großdeutsche
-                    Verfassungsentwurst die Errichtung von Bezirkswirtschaftskammern; von
-                    Landeswirtschaftskammern und schließlich die Einrichtung der
-                    Reichswirtschaftskammer als eine Art Wirtschaftsparlament vorgesehen. Wenn auch
-                    im großdeutschen Verfassungsentwurf dieser Reichswirtschaftskammer nur eine
-                    beratende Stimme eingeräumt wird, so ist es doch sonnenklar, daß sich kein
-                    Nationalrat über einen Beschluß dieses Reichswirtschaftsrates hätte hinwegsetzen
-                    können, wenn die Gesamtzahl der Arbeitnehmerverbände und die gesamte
-                    Arbeitgeberschaft bezüglich dieser oder jener Materie ihren einmütigen Willen
-                    kundgegeben hätte. Es wäre also hierin eine Einrichtung gelegen, welche
-                    zweifelsohne vom Standpunkte moderner Auffassung unserer Wirtschaftsordnung von
-                    großer Bedeutung gewesen wäre. Dieser Bundesrat, wie er heute konstruiert ist,
-                    ist eigentlich eine Einrichtung, die gar keiner von den drei Parteien, glaube
-                    ich, vollkommen gerecht wird. Wenn gesagt wurde, daß unser Entwurf deswegen
-                    reaktionär erscheint, weil wir die Bestimmung ausgenommen haben, daß
-                    Regierungsvorlagen nur mit Zustimmung des Bundesrates eingebracht werden können,
-                    so möchte ich darauf verweisen, daß damit keineswegs etwa gesagt ist, daß für
-                    den Fall, als der Bundesrat eine Regierungsvorlage verworfen hätte, es unmöglich
-                    gewesen wäre, dieselbe im Hause zu behandeln. Denn es wäre dann ja
-                    selbstverständlich noch immer der Weg offen geblieben, daß das, was die
-                    Regierung als Regierungsvorlage eingebracht hat, dann irgendeine Partei als
-                    Antrag ihrer Partei oder eines einzelnen Abgeordneten einbringt. Die
-                    Zurückweisung einer Regierungsvorlage durch den Bundesrat hätte nur den Zweck
-                    gehabt, die betreffende Materie ihres Charakters als Regierungsvorlage zu
-                    entkleiden. (Sehr richtig!) Schließlich sind wir auf dem Standpunkte gestanden,
-                    daß der Bundesrat nicht, wie es heute der Fall ist, zwar einem Gesetze seine
-                    Zustimmung verweigern kann, sondern daß der Bundespräsident die Berechtigung
-                    hat, einem Beschluß des Nationalrates die Zustimmung zu versagen, wenn es der
-                    Bundesrat beantragt. Verbleibt der Nationalrat bei seinem Beschlusse,- dann
-                    allerdings hätte der Bundespräsident das Recht gehabt, die Nationalversammlung
-                    aufzulösen. Wiederholt aber die neue Nationalversammlung den früheren Beschluß,
-                    so würde er ohne weitere Genehmigung Gesetzeskraft erhalten. <pb facs="#facs_39"
-                        n="39" xml:id="img_0039" break="yes"/> Wenn also der Bundespräsident etwa
+                    mittleren Linie zu gelangen.</p>
+                <p>Aus diesem Grunde hat der großdeutsche Verfassungsentwurf die Errichtung von
+                    Bezirkswirtschaftskammern; von Landeswirtschaftskammern und schließlich die
+                    Einrichtung der Reichswirtschaftskammer als eine Art Wirtschaftsparlament
+                    vorgesehen. Wenn auch im großdeutschen Verfassungsentwurf dieser
+                    Reichswirtschaftskammer nur eine beratende Stimme eingeräumt wird, so ist es
+                    doch sonnenklar, daß sich kein Nationalrat über einen Beschluß dieses
+                    Reichswirtschaftsrates hätte hinwegsetzen können, wenn die Gesamtzahl der
+                    Arbeitnehmerverbände und die gesamte Arbeitgeberschaft bezüglich dieser oder
+                    jener Materie ihren einmütigen Willen kundgegeben hätte. Es wäre also hierin
+                    eine Einrichtung gelegen, welche zweifelsohne vom Standpunkte moderner
+                    Auffassung unserer Wirtschaftsordnung von großer Bedeutung gewesen wäre.</p>
+                <p>Dieser Bundesrat, wie er heute konstruiert ist, ist eigentlich eine Einrichtung,
+                    die gar keiner von den drei Parteien, glaube ich, vollkommen gerecht wird. Wenn
+                    gesagt wurde, daß unser Entwurf deswegen reaktionär erscheint, weil wir die
+                    Bestimmung ausgenommen haben, daß Regierungsvorlagen nur mit Zustimmung des
+                    Bundesrates eingebracht werden können, so möchte ich darauf verweisen, daß damit
+                    keineswegs etwa gesagt ist, daß für den Fall, als der Bundesrat eine
+                    Regierungsvorlage verworfen hätte, es unmöglich gewesen wäre, dieselbe im Hause
+                    zu behandeln. Denn es wäre dann ja selbstverständlich noch immer der Weg offen
+                    geblieben, daß das, was die Regierung als Regierungsvorlage eingebracht hat,
+                    dann irgendeine Partei als Antrag ihrer Partei oder eines einzelnen Abgeordneten
+                    einbringt. Die Zurückweisung einer Regierungsvorlage durch den Bundesrat hätte
+                    nur den Zweck gehabt, die betreffende Materie ihres Charakters als
+                    Regierungsvorlage zu entkleiden. <emph>(Sehr richtig!)</emph> Schließlich sind
+                    wir auf dem Standpunkte gestanden, daß der Bundesrat nicht, wie es heute der
+                    Fall ist, zwar einem Gesetze seine Zustimmung verweigern kann, sondern daß der
+                    Bundespräsident die Berechtigung hat, einem Beschluß des Nationalrates die
+                    Zustimmung zu versagen, wenn es der Bundesrat beantragt. Verbleibt der
+                    Nationalrat bei seinem Beschlusse,- dann allerdings hätte der Bundespräsident
+                    das Recht gehabt, die Nationalversammlung aufzulösen. Wiederholt aber die neue
+                    Nationalversammlung den früheren Beschluß, so würde er ohne weitere Genehmigung
+                    Gesetzeskraft erhalten.<pb facs="#facs_39" n="39" xml:id="img_0039" break="yes"
+                        /><fw type="pageNum">3402</fw>Wenn also der Bundespräsident etwa
                     mutwilligerweise einem Gesetzesbeschluß der Nationalversammlung seine Zustimmung
                     verweigert hätte, so würde die Wiederholung des Beschlusses in der nächsten
                     Nationalversammlung den Bundespräsidenten gezwungen haben, sein Amt
                     zurückzulegen. Wenn man also die Einrichtungen des Bundesrates nach dem
                     großdeutschen Verfassungsentwurfe studiert, so sieht man, daß von reaktionären
-                    Bestimmungen in diesen Belangen gewiß nicht die Rede sein kann. Es ist nun in
-                    der Verfassung ein Artikel 18 aufgenommen worden, der einerseits dem Gedanken
-                    des sozialdemokratischen Verfassungsentwurfes über den Aufbau der
+                    Bestimmungen in diesen Belangen gewiß nicht die Rede sein kann.</p>
+                <p>Es ist nun in der Verfassung ein Artikel 18 aufgenommen worden, der einerseits
+                    dem Gedanken des sozialdemokratischen Verfassungsentwurfes über den Aufbau der
                     wirtschaftlichen Demokratie Rechnung tragen sollte, der aber anderseits auch dem
                     Gedanken der Großdeutschen Vereinigung hinsichtlich dieser Wirtschaftskammern
-                    gerecht zu werden versucht hat Der erste Absatz soll den wesentlichen Inhalt aus
-                    dem Entwurf der sozialdemokratischen Partei dar stellen, der zweite Absatz den
-                    wesentlichen Inhalt aus dem Entwurf der Großdeutschen Partei über die
+                    gerecht zu werden versucht hat. Der erste Absatz soll den wesentlichen Inhalt
+                    aus dem Entwurf der sozialdemokratischen Partei darstellen, der zweite Absatz
+                    den wesentlichen Inhalt aus dem Entwurf der Großdeutschen Partei über die
                     Wirtschaftskammern. Ich muß gestehen, daß die Textierung des Artikels 18 eine
                     Mißgeburt darstellt, von der eigentlich nur die Verfasser wissen, wie sie
                     zustande gekommen ist, die aber praktisch keine der beiden Teile befriedigen
                     kann. Aus diesem Grunde hätte ich gar nichts dagegen, wenn das Haus zur Einsicht
                     kommt, daß dieser Artikel 18 weder für die eine noch für die andere Partei etwas
-                    Reelles besagt, sondern nur rein deklaratorischen Inhalt hat der aber ebenfalls
+                    Reelles besagt, sondern nur rein deklaratorischen Inhalt hat, der aber ebenfalls
                     nicht verstanden werden kann, wenn nicht die Redakteure der Verfassung darüber
                     näheren Aufschluß geben. Aus allen diesen Gründen kann meines Erachtens der
                     Artikel 18 des Verfassungsentwurfes auch ohne Schaden für die Verfassung
-                    gänzlich eliminiert werden. Der einzige Gegenstand, zu dem ich ein
-                    Minoritätsvotum angemeldet habe, sind die Bestimmungen über die Staatssekretäre.
-                    Bekanntlich führen die bisherigen Unterstaatssekretäre in der künftigen
-                    Verfassung die Bezeichnung Staatssekretäre. In diesen Belange waren die beiden
-                    großen Parteien wieder einmahl vollständig eines Sinnes und daher war es
-                    unmöglich, die Einrichtung der Unterstaatssekretäre zu eliminieren. Meine Partei
-                    hat durch verschiedene Redner schon des österen ihren Standpunkt dahin gekenn.
-                    zeichnet, daß wir in den Unterstaatssekretären, eigentlich nichts anderes
-                    erblicken können, als Staatssekretärkontrollore. Als Begründung für die
-                    Beibehaltung dieser Einrichtung wurde von den beiden großen Parteien angeführt,
-                    daß diese Einrichtung zur Unterstützung des betreffenden Fachministers notwendig
-                    sei. Ferner wurde angeführt, daß diese Einrichtung unter Umständen auch dann
+                    gänzlich eliminiert werden.</p>
+                <p>Der einzige Gegenstand, zu dem ich ein Minoritätsvotum angemeldet habe, sind die
+                    Bestimmungen über die Staatssekretäre. Bekanntlich führen die bisherigen
+                    Unterstaatssekretäre in der künftigen Verfassung die Bezeichnung
+                    Staatssekretäre. In diesem Belange waren die beiden großen Parteien wieder
+                    einmahl vollständig eines Sinnes und daher war es unmöglich, die Einrichtung der
+                    Unterstaatssekretäre zu eliminieren. Meine Partei hat durch verschiedene Redner
+                    schon des öfteren ihren Standpunkt dahin gekennzeichnet, daß wir in den
+                    Unterstaatssekretären, eigentlich nichts anderes erblicken können, als
+                    Staatssekretärkontrollore. Als Begründung für die Beibehaltung dieser
+                    Einrichtung wurde von den beiden großen Parteien angeführt, daß diese
+                    Einrichtung zur Unterstützung des betreffenden Fachministers notwendig sei.
+                    Ferner wurde angeführt, daß diese Einrichtung unter Umständen auch dann
                     notwendig sei, wenn gewisse Schwierigkeiten bei der Kabinettsbildung entstehen.
-                    Man könne sich dann vielleicht dadurch, daß man der einen Partei den </p>
-                <p>Staatssekretär und der anderen einen Unterstaatsjekretär zubilligt, leichter über
-                    die Schwierigkeiten hinwegsetzen, die der Bildung eines Gesamtvorschlages sonst
-                    entgegenstehen. Meine Partei und ich stehen auf dem Standpunkt, daß wir in der
-                    neuen Verfassung bei unserem kleinen Staatswesen dieser Einrichtung absolut
+                    Man könne sich dann vielleicht dadurch, daß man der einen Partei den
+                    Staatssekretär und der anderen einen Unterstaatsjekretär zubilligt, leichter
+                    über die Schwierigkeiten hinwegsetzen, die der Bildung eines Gesamtvorschlages
+                    sonst entgegenstehen. Meine Partei und ich stehen auf dem Standpunkt, daß wir in
+                    der neuen Verfassung bei unserem kleinen Staatswesen dieser Einrichtung absolut
                     nicht bedürfen. Wenn angeführt wird, daß die Einrichtung von
-                    Unterstaatssekretiren zur Unterstützung des Ministers notwendig ist, so müßte
+                    Unterstaatssekreteren zur Unterstützung des Ministers notwendig ist, so müßte
                     man wohl beim Staatsamt für Finanzen eigentlich nicht nur einen, sondern
                     mindestens drei Unterstaatssekretäre haben. Ich finde aber, daß sich noch keine
                     Partei bis jetzt bereit erklärt hat, den Herrn Finanzminister in seiner
@@ -3022,43 +3028,46 @@
                     bedarf, dann wird eines Tages der Zeitpunkt kommen, wo sich die großen Parteien
                     den Vorwurf werden machen müssen, daß der Herr Staatssekretär für Finanzen auf
                     einmal, weil sie ihm ihre Unterstützung beharrlich versagt haben, erlahmt sein
-                    wird. (Heiterkeit und Rufe: Sehr gut!) Wenn aber die großen Parteien schon das
-                    Bedürfnis haben, den Staatssekretären oder Ministern, die sie ernannt haben,
-                    fortwährend auf die Finger zu sehen, so ist dagegenn, wie gesagt, gar nicht
-                    einzuwenden, wenn man eine derartige Institution schafft, aber in ehrenamtlicher
-                    Stellung, also ohne Besoldung, und zwar etwa unter dem Titel parlamentarischer
-                    Kommissäre. Wenn die eine oder andere Partei das Bedürfnis hat, in alle Akten
-                    Einsicht zu nehmen, die durch die Hand des Ministers gehen, oder wenn sie sonst
-                    das Bedürfnis hat, sich fortwährend vom Gange aller Verhandlungen zu überzeugen,
-                    so wäre gewiß nichts dagegen einzuwenden, wenn es jeder Partei freigestellt
-                    wäre, einen Mann ihres Vertrauens als parlamentarischen Kommissär in das
-                    betreffende Amt zu entsenden, damit er diese Funktion ausfülle; ja, ich könnte
-                    mich für meine Person sogar mit der Einführung der Unterstaatssekretäre, alias
+                    wird. <emph>(Heiterkeit und Rufe: Sehr gut!)</emph> Wenn aber die großen
+                    Parteien schon das Bedürfnis haben, den Staatssekretären oder Ministern, die sie
+                    ernannt haben, fortwährend auf die Finger zu sehen, so ist dagegen, wie gesagt,
+                    gar nichts einzuwenden, wenn man eine derartige Institution schafft, aber in
+                    ehrenamtlicher Stellung, also ohne Besoldung, und zwar etwa unter dem Titel
+                    parlamentarischer Kommissäre.</p>
+                <p>Wenn die eine oder andere Partei das Bedürfnis hat, in alle Akten Einsicht zu
+                    nehmen, die durch die Hand des Ministers gehen, oder wenn sie sonst das
+                    Bedürfnis hat, sich fortwährend vom Gange aller Verhandlungen zu überzeugen, so
+                    wäre gewiß nichts dagegen einzuwenden, wenn es jeder Partei freigestellt wäre,
+                    einen Mann ihres Vertrauens als parlamentarischen Kommissär in das betreffende
+                    Amt zu entsenden, damit er diese Funktion ausfülle; ja, ich könnte mich für
+                    meine Person sogar mit der Einführung der Unterstaatssekretäre, alias
                     Staatssekretäre einverstanden erklären, wenn man sie in ehrenamtlicher Stellung
                     einführt. Ich glaube, daß in diesem Falle die Einrichtung der
-                    Unterstaatssekretäre oder künftigen Staatssekreläre allmählich zum Verschwinden
-                    gebracht würden. (Heiterkeit und Zustimmung.) Einen wichtigen Punkt, in welchem
-                    die Großdeutsche Partei ebenfalls nicht durchzudringen vermochte, bildet die
-                    Richterernennung. Es war ein Wunsch der Richter, daß wie bisher die Regierung an
-                    die Besetzungsvorschläge gebunden bleibt, die die Fachsenate bei den Gerichten
-                    erstatten. In dieser Beziehung sind die Auffassungen der beiden großen Parteien
-                    sehr weit auseinandergegangen. Im sogenannten Renner=Mayr=Entwurfe ist nicht nur
-                        <pb facs="#facs_40" n="40" xml:id="img_0040" break="yes"/> vorgesehen, daß
-                    die Regierung an gar keine Besetzungsvorschläge gebunden ist,  sondern es war
+                    Unterstaatssekretäre oder künftigen Staatssekretäre allmählich zum Verschwinden
+                    gebracht würden. <emph>(Heiterkeit und Zustimmung.)</emph></p>
+                <p>Einen wichtigen Punkt, in welchem die Großdeutsche Partei ebenfalls nicht
+                    durchzudringen vermochte, bildet die Richterernennung. Es war ein Wunsch der
+                    Richter, daß wie bisher die Regierung an die Besetzungsvorschläge gebunden
+                    bleibt, die die Fachsenate bei den Gerichten erstatten. In dieser Beziehung sind
+                    die Auffassungen der beiden großen Parteien sehr weit auseinandergegangen. Im
+                    sogenannten Renner=Mayr=Entwurfe ist nicht nur <pb facs="#facs_40" n="40"
+                        xml:id="img_0040" break="yes"/><fw type="pageNum">3403</fw>vorgesehen, daß
+                    die Regierung an gar keine Besetzungsvorschläge gebunden ist, sondern es war
                     dort vorgesehen, daß die Personalsenate, welche heute zur Gänze aus Richtern
                     bestehen, in Zukunft zur Hälfte aus Politikern hätten bestehen sollen und dies
                     zu dem Zwecke, um angeblich auch die Richterschaft durch die Teilnahme der
-                    Politiker der Ernennung zu entpolitisieren. (Rufe: Hört! Höri! Wenn die
-                    Rechtsprechung in Österreich bis heute noch klaglos funktioniert, so ist das
-                    wohl einzie und allein nur dem Umstand zuzuschreiben, daß die Politik auf die
-                    Ernennung der Richter keinen Einfluß gehabt hat. Ich habe deshalb den Antrag
-                    gestellt, daß die Regierung bei der Ernennung der Richter an die
+                    Politiker der Ernennung zu entpolitisieren. <emph>(Rufe: Hört! Hört!)</emph>
+                    Wenn die Rechtsprechung in Österreich bis heute noch klaglos funktioniert, so
+                    ist das wohl einzig und allein nur dem Umstand zuzuschreiben, daß die Politik
+                    auf die Ernennung der Richter keinen Einfluß gehabt hat. Ich habe deshalb den
+                    Antrag gestellt, daß die Regierung bei der Ernennung der Richter an die
                     Besetzungsvorschläge gebunden sei. Dieser mein Antrag wurde aber im
                     Unterausschusse ausdrücklich abgelehnt und in der nächsten Sitzung des
                     Unterausschusses hat dann der Obmann Dr. Bauer sogar verlangt, daß infolge der
                     Ablehnung meines Antrages ausdrücklich festgestellt werde, daß mithin die
                     Ernennung von Richtern außerhalb des Besetzungsvorschlages ausdrücklich zulässig
-                    sei. Nachdem aber diese Textierung noch immer nicht deutlich genug war, hat der
+                    sei.</p>
+                <p>Nachdem aber diese Textierung noch immer nicht deutlich genug war, hat der
                     Verfassungsunterausschuß, beziehungsweise der Verfassungsausschuß, glaube ich,
                     selbst in einer seiner letzten Sitzungen die Bestimmung ausgenommen: „die
                     Bundesregierung oder der Bundesminister hat Besetzungsvorschläge der durch die
@@ -3069,65 +3078,67 @@
                     Unterausschuß ist mit ziemlicher Deutlichkeit zum Ausdrucke gekommen, daß die
                     Richter ob dieses ihres Verlangens eigentlich als rückständig bezeichnet und als
                     eine Art Kaste im Staate hingestellt werden. Meine Partei ist der gegenteiligen
-                    Auf fassung und sie glaubt, daß es im Interesse von uns allen gelegen wäre,
-                    darauf zu sehen, das wenigstens der Richterstand in seiner Unabhängigkeit
+                    Auffassung und sie glaubt, daß es im Interesse von uns allen gelegen wäre,
+                    darauf zu sehen, daß wenigstens der Richterstand in seiner Unabhängigkeit
                     erhalten bleibt, die es ermöglicht hat, bis heute eine klaglose Rechtsprechung
-                    zu erzielen. Eine neue Bestimmung in der Verfassung ist endlich die des Artikels
-                    24, wonach zum ersten Male alle Organe der Bundes=, der Landes= oder der
-                    Gemeindeverwaltung für jeden bei der Ausübung ihrer Tätigkeit irgend jemandem
-                    durch vorsätzliche oder grobsahrlässige Rechtsverletzung zugefügten Schaden
-                    haftbar sind. Bekanntlich war dieser Grundsatz bereits in der Dezemberverfassung
-                    des Jahres 1867 ansgesprochen, jedoch war die Durchführung dieses Grundsatzes
-                    besonderen Ausfüyrungsgesetzen vorbehalten. Nun ist bekanntlich nur das
-                    sogenannte Syndikatsgesetz erlassen worden, dem¬ </p>
-                <p>zufolge die Richter für alle bei Ausübung ihrer Tätigkeit den Parteien zugefügten
-                    Schaden haftbar sind, während eine Bestimmung, wonach auch andere Beamte, sowohl
-                    Staats= wie Landes= als auch Gemeindebeamte haftbar wären, bisher in unserer
-                    Verfassung gefehlt hat. Nach dem bisherigen Stande des Rechtes war es aber der
-                    Partei freigestellt, entweder den Staat oder den betreffenden Richter auf
-                    Schadenersatz zu belangen. Nach der Textierung des Verfassungsunterausschusses
-                    war es bis zur letzten Sitzung vorgesehen, daß die Haftung der betreffenden
-                    Körperschaft, also des Bundes, der Länder und der Gemeinden nur dann und
-                    insoweit Platz greifen dürfe, als der Geschädigte von dem betreffenden Organe
-                    die Genugtuung nicht zu erlangen vermag. Dadurch wäre eigentlich diese ganze
-                    Einführung auf eine optische Täuschung der Bevölkerung abgestellt gewesen, denn
-                    in den allerwenigsten Fällen wird es möglich sein, von dem Beschädiger selbst
-                    den Schadenersatz zu verlangen. Jedenfalls wäre eine Unsumme von Prozessen
-                    notwendig gewesen, um den schuldtragenden Beamten festzustellen; denn
-                    bekanntlich ist insbesondere in der politischen Verwaltung der Grundsatz
-                    gebräuchlich, daß nicht derjenige das Erkenntnis unterschreibt, der es
-                    eigentlich macht, sondern irgendein Vorgesetzter. Aus diesem Grunde hätte erst
-                    prozessual festgestellt werden müssen, wer eigentlich der Auftraggeber und der
-                    eigentliche geistige Urheber des betreffenden Erkenntnisses ist und damit die
-                    Verantwortung trägt, denn dann wäre es erst möglich gewesen, im Prozeßwege
-                    festzustellen, wer die Haftung für die betreffende Fehlentscheidung zu tragen
-                    hat. Nun, hohes Haus, komme ich auf den wichtigsten Punkt zu sprechen, in dem
-                    die Großdeutsche Vereinigung mit ihrer Anschauung nicht durchzudringen
-                    vermochte, es ist dies die Schule. Es ist keineswegs etwa das Verlangen,
-                    demonstrativ aufzutreten, welches uns veranlaßt, auf unserem Standpunkte zu
-                    beharren, daß die Schulfrage bereits in der Verfassung gelöst werde, sondern wir
-                    müssen vom nationalen Standpunkt aus unbedingt verlangen, daß die Schulfrage in
-                    unserem Staate Österreich nach einheitlichen Grundsätzen geregelt werde, und die
-                    einheitliche Regelung des Schulwesens kann selbstverständlich nur durch die
-                    Verstaatlichung der Schule erfolgen. Wenn wir bedenken, daß beispielsweise unser
-                    benachbartes Land Bayern nicht etwa nur 6 Millionen Einwohner zählt wie unser
-                    kleines Deutschösterreich, sondern, daß es um zirka ein Drittel unsere
-                    Einwohnerzahl übertrifft, so müssen wir sagen, daß es dort niemandem einfällt,
-                    die Gesetzgebung in dem einen Bezirk etwa anders zu regeln als in dem anderen
-                    Bezirk. Unser kleines Ländchen Deutschösterreich aber <pb facs="#facs_41" n="41"
-                        xml:id="img_0041" break="yes"/> zerfällt nunmehr auf Grund der Verfassung in
+                    zu erzielen.</p>
+                <p>Eine neue Bestimmung in der Verfassung ist endlich die des Artikels 24, wonach
+                    zum ersten Male alle Organe der Bundes=, der Landes= oder der Gemeindeverwaltung
+                    für jeden bei der Ausübung ihrer Tätigkeit irgend jemandem durch vorsätzliche
+                    oder grobsahrlässige Rechtsverletzung zugefügten Schaden haftbar sind.
+                    Bekanntlich war dieser Grundsatz bereits in der Dezemberverfassung des Jahres
+                    1867 ausgesprochen, jedoch war die Durchführung dieses Grundsatzes besonderen
+                    Ausführungsgesetzen vorbehalten. Nun ist bekanntlich nur das sogenannte
+                    Syndikatsgesetz erlassen worden, demzufolge die Richter für alle bei Ausübung
+                    ihrer Tätigkeit den Parteien zugefügten Schaden haftbar sind, während eine
+                    Bestimmung, wonach auch andere Beamte, sowohl Staats= wie Landes= als auch
+                    Gemeindebeamte haftbar wären, bisher in unserer Verfassung gefehlt hat.</p>
+                <p>Nach dem bisherigen Stande des Rechtes war es aber der Partei freigestellt,
+                    entweder den Staat oder den betreffenden Richter auf Schadenersatz zu belangen.
+                    Nach der Textierung des Verfassungsunterausschusses war es bis zur letzten
+                    Sitzung vorgesehen, daß die Haftung der betreffenden Körperschaft, also des
+                    Bundes, der Länder und der Gemeinden nur dann und insoweit Platz greifen dürfe,
+                    als der Geschädigte von dem betreffenden Organe die Genugtuung nicht zu erlangen
+                    vermag. Dadurch wäre eigentlich diese ganze Einführung auf eine optische
+                    Täuschung der Bevölkerung abgestellt gewesen, denn in den allerwenigsten Fällen
+                    wird es möglich sein, von dem Beschädiger selbst den Schadenersatz zu verlangen.
+                    Jedenfalls wäre eine Unsumme von Prozessen notwendig gewesen, um den
+                    schuldtragenden Beamten festzustellen; denn bekanntlich ist insbesondere in der
+                    politischen Verwaltung der Grundsatz gebräuchlich, daß nicht derjenige das
+                    Erkenntnis unterschreibt, der es eigentlich macht, sondern irgendein
+                    Vorgesetzter. Aus diesem Grunde hätte erst prozessual festgestellt werden
+                    müssen, wer eigentlich der Auftraggeber und der eigentliche geistige Urheber des
+                    betreffenden Erkenntnisses ist und damit die Verantwortung trägt, denn dann wäre
+                    es erst möglich gewesen, im Prozeßwege festzustellen, wer die Haftung für die
+                    betreffende Fehlentscheidung zu tragen hat.</p>
+                <p>Nun, hohes Haus, komme ich auf den wichtigsten Punkt zu sprechen, in dem die
+                    Großdeutsche Vereinigung mit ihrer Anschauung nicht durchzudringen vermochte, es
+                    ist dies die Schule.</p>
+                <p>Es ist keineswegs etwa das Verlangen, demonstrativ aufzutreten, welches uns
+                    veranlaßt, auf unserem Standpunkte zu beharren, daß die Schulfrage bereits in
+                    der Verfassung gelöst werde, sondern wir müssen vom nationalen Standpunkt aus
+                    unbedingt verlangen, daß die Schulfrage in unserem Staate Österreich nach
+                    einheitlichen Grundsätzen geregelt werde, und die einheitliche Regelung des
+                    Schulwesens kann selbstverständlich nur durch die Verstaatlichung der Schule
+                    erfolgen. Wenn wir bedenken, daß beispielsweise unser benachbartes Land Bayern
+                    nicht etwa nur 6 Millionen Einwohner zählt wie unser kleines Deutschösterreich,
+                    sondern, daß es um zirka ein Drittel unsere Einwohnerzahl übertrifft, so müssen
+                    wir sagen, daß es dort niemandem einfällt, die Gesetzgebung in dem einen Bezirk
+                    etwa anders zu regeln als in dem anderen Bezirk. Unser kleines Ländchen
+                    Deutschösterreich aber <pb facs="#facs_41" n="41" xml:id="img_0041" break="yes"
+                        /><fw type="pageNum">3404</fw>zerfällt nunmehr auf Grund der Verfassung in
                     neun einzelne Länder und da soll es noch möglich sein, die Schulgesetzgebung in
                     diesen neun Bezirken nach verschiedenen Gesichtspunkten zu regeln. Das ist ein
-                    Zustand, der vom nationalen Standpunkt einfach unannehmbar erscheint. Die
-                    Zukunft unseres Volkes liegt zweifellos in unserer Jugend. Wenn die Jugent
-                    vernachlässigt. wird, wenn der Jugend nicht die Möglichkeit gegeben wird, durch
+                    Zustand, der vom nationalen Standpunkt einfach unannehmbar erscheint.</p>
+                <p>Die Zukunft unseres Volkes liegt zweifellos in unserer Jugend. Wenn die Jugend
+                    vernachlässigt wird, wenn der Jugend nicht die Möglichkeit gegeben wird, durch
                     eine viel intensivere Ausbildung, als es bisher möglich war, sich in dem
                     schweren Daseinskampfe zu behaupten, so haben wir eigentlich dadurch das größte
-                    Gut, welches wir noch errettet haben, unsere Jugend und ihre Zukunft, geopfert,
-                    Aus diesen Gründen müssen wir unbedingt verlangen daß die Schulgesetzgebung
+                    Gut, welches wir noch errettet haben, unsere Jugend und ihre Zukunft, geopfert.
+                    Aus diesen Gründen müssen wir unbedingt verlangen, daß die Schulgesetzgebung
                     ausdrücklich in der Verfassung im Sinne der Einheitsschule, das heißt im Sinne
                     der Staatsschule geregelt wird. Wenn man in die Verfassung eine Bestimmung
-                    ausgenommen hat, wonach die Regelung der Schulgesetzgebung dem Bunde obliegen
+                    aufgenommen hat, wonach die Regelung der Schulgesetzgebung dem Bunde obliegen
                     soll, so muß ich sagen, daß die Schule wenn diese Bestimmung tatsächlich
                     Gesetzeskraft erlangt, in Zukunft mehr oder weniger zu einem Schacherobjekt
                     herabgewürdigt wird; denn die christlichsoziale Partei, die grundsätzlich auf
@@ -3135,114 +3146,141 @@
                     Nachgeben in dieser Frage auch in Zukunft nur teuer durch Kompensation anderer
                     Art abhandeln lassen. Es wäre besser gewesen, etwa nur die Kompetenzen zu
                     regeln, aber einschließlich der Schule, als ein Verfassungswerk zu machen
-                    welches zwar äußerlich einen großen Umfang hat wo aber diese allerwichtigste
-                    Frage einfach ausgeschaltet worden ist. Nun steht die Sache aber so daß ein
-                    dunktim hergestellt wird zwischen dem Inkrafttreten der verschiedenen
-                    Bestimmungen unserer Verfassung und dem Finanzgesetz, dem Verwaltungs gesetz und
+                    welches zwar äußerlich einen großen Umfang hat, wo aber diese allerwichtigste
+                    Frage einfach ausgeschaltet worden ist. Nun steht die Sache aber so, daß ein
+                    Junktim hergestellt wird zwischen dem Inkrafttreten der verschiedenen
+                    Bestimmungen unserer Verfassung und dem Finanzgesetz, dem Verwaltungsgesetz und
                     dem Schulgesetz. Nun kann ja das Finanz gesetz bekanntlich niemals ausgearbeitet
                     werden. wenn nicht bekannt ist, welche Kompetenzen in den Wirkungskreis des
                     Staates und welche Kompetenzen in den Wirkungskreis der Länder fallen. Da die
                     Schulfrage aber sehr lange nicht ausgetragen werden wird, so kann auch niemals
                     das Finanzgesetz vorgelegt werden. Es kommt mir die Sache so vor, wie wenn man
                     einen Kreislauf machen wollte, ans dem es kein Herauskommen, aus dem es kein
-                    Ende gibt. Die Länder werden selbstverständlich daran dringen, daß die
-                    finanzielle Auseinandersetzung zwischen dem Bund und den Ländern geregelt wird.
-                    Diese Auseinandersetzung ist aber nich möglich, weil es nicht feststeht, ob die
-                    Schulgesetz gebung in den Wirkungskreis des Staates oder der Länder fällt.
-                    Ferner ist auch das Zustandekommen der Verfassungsbestimmungen über die
-                    Einteilung der Kompetenzen davon abhängig, daß diese Gesetze </p>
-                <p>zustande kommen. Es ist also nicht nur unsere Verfassung, deshalb lückenhaft,
-                    weil alle diese Materien, die ich bereits angeführt habe, vielleicht vergeblich,
-                    mindestens aber auf unberechenbar lange Zeit ihrer Erledigung harren, sondern es
-                    ist diese Verfassung auch noch aus dem Grunde lückenhaft, weil die
-                    wesentlichsten Bestimmungen dieser Verfassung nicht in Kraft treten, bevor nicht
-                    diese Materien geregelt sind, die aber in absehbarer Zeit nicht geregelt werden.
-                    Daraus sehen wir also, daß unsere Verfassung nicht nur ein Stückwerk in dem
-                    Sinne ist, daß man sich einfach darüber hinweggeholfen hat Streitpunkte
-                    auszutragen, indem man wichtige Belange in ein zukünftiges Gesetz verwies, indem
-                    man noch daran gegangen ist, zwischen diesem zukünftigen Gesetze und dem
-                    Inkrafttreten der wichtigsten Teile der Verfassung ein Junktim herzustellen,
-                    sondern selbst das wenige, was die Verfassung enthält, in absehbarer Zeit nicht
-                    Gesetzes kraft wird erlangen können. (Sehr richtig!) Ich glaube daher ruhig
+                    Ende gibt.</p>
+                <p>Die Länder werden selbstverständlich darauf dringen, daß die finanzielle
+                    Auseinandersetzung zwischen dem Bund und den Ländern geregelt wird. Diese
+                    Auseinandersetzung ist aber nich möglich, weil es nicht feststeht, ob die
+                    Schulgesetzgebung in den Wirkungskreis des Staates oder der Länder fällt. Ferner
+                    ist auch das Zustandekommen der Verfassungsbestimmungen über die Einteilung der
+                    Kompetenzen davon abhängig, daß diese Gesetze zustande kommen. Es ist also nicht
+                    nur unsere Verfassung deshalb lückenhaft, weil alle diese Materien, die ich
+                    bereits angeführt habe, vielleicht vergeblich, mindestens aber auf unberechenbar
+                    lange Zeit ihrer Erledigung harren, sondern es ist diese Verfassung auch noch
+                    aus dem Grunde lückenhaft, weil die wesentlichsten Bestimmungen dieser
+                    Verfassung nicht in Kraft treten, bevor nicht diese Materien geregelt sind, die
+                    aber in absehbarer Zeit nicht geregelt werden.</p>
+                <p>Daraus sehen wir also, daß unsere Verfassung nicht nur ein Stückwerk in dem Sinne
+                    ist, daß man sich einfach darüber hinweggeholfen hat, Streitpunkte auszutragen,
+                    indem man wichtige Belange in ein zukünftiges Gesetz verwies, indem man noch
+                    daran gegangen ist, zwischen diesem zukünftigen Gesetze und dem Inkrafttreten
+                    der wichtigsten Teile der Verfassung ein Junktim herzustellen, sondern selbst
+                    das wenige, was die Verfassung enthält, in absehbarer Zeit nicht Gesetzeskraft
+                    wird erlangen können. <emph>(Sehr richtig!)</emph> Ich glaube daher ruhig
                     behaupten zu können, daß die Bevölkerung in diesem Werke, wenn sie es liest und
                     wenn sie endlich darauf kommt, was eigentlich an diesem Werke daran ist, immer
                     mehr zur Einsicht gelangen wird, daß eigentlich die Nationalversammlung zwar ein
                     großes voluminöses Verfassungswerke zu verabschieden versucht hat, daß aber das
                     Ganze nichts anderes bedeutet, als dem Volke systematisch Sand in die Augen zu
-                    streuen. (So ist es!) Es war früher ein großes Proemium über die Verfassung
-                    gedacht. Dieses Proemium, diese Einleitung, ist weggelassen worden. Ich würde
-                    dennoch empfehlen, ein Proemium zu machen, und zwar mit den einfachen Worten: Um
-                    Nachsicht wird gebeten! (Lebhafter Beifall und Händeklatschen.) Präsident: Ich
-                    breche die Verhandlung ab. Es sind Zuschriften eingelangt, in denen die
-                    Einbringung von Regierungsvorlagen der Staatsregierung angekündigt wird. Ich
-                    bitte um deren Verlesung. Schriftführer Forstner (liest): „Auf Grund der mir in
-                    der Sitzung des Kabinettsrates vom 28. September 1920 erteilten Ermächtigung
-                    beehre ich mich, den Entwurf eines Gesetzes über die Regelung von Ruhe¬genüssen
-                    der in der Zeit vom 1. Jänner bis 29. Februar 1920 in den Ruhestand versetzten
-                    Zivilstaatsbeamten, Staatslehrperonen, Unterbeamten und Diener und von
-                    Versorgungsgenüssen der Hinterbliebenen jener Zivilstaatsbeamten,
+                    streuen. <emph>(So ist es!)</emph> Es war früher ein großes Proemium über die
+                    Verfassung gedacht. Dieses Proemium, diese Einleitung, ist weggelassen worden.
+                    Ich würde dennoch empfehlen, ein Proemium zu machen, und zwar mit den einfachen
+                    Worten: Um Nachsicht wird gebeten! <emph>(Lebhafter Beifall und
+                        Händeklatschen.)</emph></p>
+                <p><emph>Präsident:</emph> Ich breche die Verhandlung ab.</p>
+                <p>Es sind Zuschriften eingelangt, in denen die Einbringung von Regierungsvorlagen
+                    der Staatsregierung angekündigt wird. Ich bitte um deren Verlesung.</p>
+                <p>Schriftführer <emph>Forstner</emph>
+                    <emph>(liest)</emph>:</p>
+                <quote><p>„Auf Grund der mir in der Sitzung des Kabinettsrates vom 28. September 1920
+                    erteilten Ermächtigung beehre ich mich, den Entwurf eines Gesetzes über die
+                    Regelung von Ruhegenüssen der in der Zeit vom 1. Jänner bis 29. Februar 1920 in
+                    den Ruhestand versetzten Zivilstaatsbeamten, Staatslehrperonen, Unterbeamten und
+                    Diener und von Versorgungsgenüssen der Hinterbliebenen jener Zivilstaatsbeamten,
                     Staatslehrpersonen, Unterbeamten und Diener, welche in <pb facs="#facs_42"
-                        n="42" xml:id="img_0042" break="yes"/> der Zeit vom 1. Jänner bis 29.
-                    Februar 1920 in der Aktivität gestorben oder in der Ruhestand versetzt worden
-                    sind (999 der Beilagen), mit dem Ersuchen zu übersenden, diesen Entwurf als
-                    Vorlage der Staatsregierung der verfassungsmäßigen Behandlung zu unterziehen.
-                    Wien, 28. September 1920. In dienstlicher Abwesenheit des Staatssekretärs
-                    Grimm.“ „Auf Grund der mir in der Sitzung des Kabinettsrates vom 29. September
-                    d. J. erteilten Ermächtigung beehre ich mich, die Entwürfe der Gesetze über die
+                        n="42" xml:id="img_0042" break="yes"/><fw type="pageNum">3405</fw>der Zeit
+                    vom 1. Jänner bis 29. Februar 1920 in der Aktivität gestorben oder in der
+                    Ruhestand versetzt worden sind <emph>(999 der Beilagen)</emph>, mit dem Ersuchen
+                    zu übersenden, diesen Entwurf als Vorlage der Staatsregierung der
+                    verfassungsmäßigen Behandlung zu unterziehen.</p>
+                <p>Wien, 28. September 1920.</p>
+                <p>In dienstlicher Abwesenheit des Staatssekretärs:</p>
+                <p>Grimm.“</p></quote>
+                <quote><p>„Auf Grund der mir in der Sitzung des Kabinettsrates vom 29. September d. J.
+                    erteilten Ermächtigung beehre ich mich, die Entwürfe der Gesetze über die
                     Ausscheidung der unter das Gesetz vom 25. Jänner 1914, R. G. Bl. Nr. 15
-                    (Dienstpragmatik) fallenden Postbediensteten, beziehungsweise Telegraphen
-                    Fernsprechbediensteten aus diesem Gesetze (Entpragmatisierungsgesetze) (1016 und
-                    1017 der Beilagen), mit dem Ersuchen zu übersenden, diese Entwürfe als Vorlagen
-                    der Staatsregierung der verfassungsmäßigen Behandlung zu unterziehen Wien, 29.
-                    September 1920. Der Staatssekretär für Verkehrswesen: Dr. Pesta m. p. Präsident:
-                    Falls von keinem Mitgliede des hohen Hauses eine Einwendung erhoben wird, werde
-                    ich auch diese Regierungsvorlagen sofort zuweisen, und zwar dem Finanz= und
-                    Budgetausschusse. (Nach einer Pause:) Es wird keine Einwendung erhoben. Diese
-                    Vorlagen sind somit zugewiesen Ferner werde ich zuweisen: den Antrag der
-                    Abgeordneten Forstner und Genossen, betreffend die Abänderung der Bestimmungen
-                    des § 4, Absatz 4, des Zahntechnikergesetzes (1003 der Beilagen), und den Antrag
-                    der Abgeordneten Tomschik Pick und Genossen, betreffend die Abänderung des
-                    Arbeiterkammergesetzes (1001 der Beilagen); dem Ausschusse für soziale
-                    Verwaltung; den Antrag der Abgeordneten Weber und Genossen auf Erweiterung des
-                    Pächterschutzes (1002 der Beilagen); dem Ausschuß für Land= und Forstwirtschaft.
-                    Ich werde zuweisen: dem Ausschusse für Erziehung und Unterricht: </p>
+                    (Dienstpragmatik) fallenden Postbediensteten, beziehungsweise
+                    Telegraphen=Fernsprechbediensteten aus diesem Gesetze
+                    (Entpragmatisierungsgesetze) <emph>(1016 und 1017 der Beilagen)</emph>, mit dem
+                    Ersuchen zu übersenden, diese Entwürfe als Vorlagen der Staatsregierung der
+                    verfassungsmäßigen Behandlung zu unterziehen.</p>
+                <p>Wien, 29. September 1920.</p>
+                    <p>Der Staatssekretär für Verkehrswesen: Dr. Pesta m. p."</p></quote>
+                <p><emph>Präsident:</emph> Falls von keinem Mitgliede des hohen Hauses eine
+                    Einwendung erhoben wird, werde ich auch diese Regierungsvorlagen sofort
+                    zuweisen, und zwar dem Finanz= und Budgetausschusse. <emph>(Nach einer
+                        Pause:)</emph> Es wird keine Einwendung erhoben. Diese Vorlagen sind somit
+                    zugewiesen.</p>
+                <p>Ferner werde ich zuweisen:</p>
+                <p>den Antrag der Abgeordneten Forstner und Genossen, betreffend die Abänderung der
+                    Bestimmungen des § 4, Absatz 4, des Zahntechnikergesetzes <emph>(1003 der
+                        Beilagen)</emph>, und</p>
+                <p>den Antrag der Abgeordneten Tomschik, Pick und Genossen, betreffend die
+                    Abänderung des Arbeiterkammergesetzes <emph>(1001 der Beilagen)</emph>;</p>
+                <p>dem Ausschusse für soziale Verwaltung; den Antrag der Abgeordneten Weber und
+                    Genossen auf Erweiterung des Pächterschutzes <emph>(1002 der
+                    Beilagen)</emph>;</p>
+                <p>dem Ausschuß für Land= und Forstwirtschaft.</p>
+                <p>Ich werde zuweisen:</p>
+                <p>dem Ausschusse für Erziehung und Unterricht: </p>
                 <p>den Antrag der Abgeordneten Dr. Angerer, Dr. Ursin und Genossen, betreffend die
                     Eingliederung der evangelisch=theologischen Fakultät in Wien in die Wiener
-                    Universität. (977 der Beilagen.) dem Finanz= und Budgetausschusse: den Antrag
-                    der Abgeordneten Wiesmaier, Josefs Weiß, Pischitz und Genossen, betreffend die
-                    Einführung einer staatlichen Automobilsteuer (955 der Beilagen); den Antrag des
-                    Abgeordneten Niedrist und Genossen, betreffend eine Notstandsangelegenheit (956
-                    der Beilagen) den Antrag der Abgeordneten Rudolf Gruber, Parrer und Genossen,
-                    betreffend eine Notstandsangelegenheit (957 der Beilagen); den Antrag der
-                    Abgeordneten Weigl, Höchtl und Genossen in Notstandsangelegenheiten (958 der
-                    Beilagen); den Antrag der Abgeordneten Schoiswohl, Kocher und Genossen,
-                    betreffend Gewährung einer staatlichen Notstandsaushilfe für die durch
-                    Unwetterschäden betroffenen Gebiete der Obersteiermark (967 der Beilagen); den
-                    Antrag der Abgeordneten Rudolf Gruber, Parrer und Genossen, betreffend die
+                    Universität. <emph>(977 der Beilagen.)</emph></p>
+                <p>dem Finanz= und Budgetausschusse:</p>
+                <p>den Antrag der Abgeordneten Wiesmaier, Josef Weiß, Pischitz und Genossen,
+                    betreffend die Einführung einer staatlichen Automobilsteuer <emph>(955 der
+                        Beilagen)</emph>;</p>
+                <p>den Antrag des Abgeordneten Niedrist und Genossen, betreffend eine
+                    Notstandsangelegenheit <emph>(956 der Beilagen)</emph>;</p>
+                <p>den Antrag der Abgeordneten Rudolf Gruber, Parrer und Genossen, betreffend eine
+                    Notstandsangelegenheit <emph>(957 der Beilagen)</emph>;</p>
+                <p>den Antrag der Abgeordneten Weigl, Höchtl und Genossen in
+                    Notstandsangelegenheiten <emph>(958 der Beilagen)</emph>;</p>
+                <p>den Antrag der Abgeordneten Schoiswohl, Kocher und Genossen, betreffend Gewährung
+                    einer staatlichen Notstandsaushilfe für die durch Unwetterschäden betroffenen
+                    Gebiete der Obersteiermark <emph>(967 der Beilagen)</emph>;</p>
+                <p>den Antrag der Abgeordneten Rudolf Gruber, Parrer und Genossen, betreffend die
                     Einleitung einer Notstandsaktion für die Gemeinden Feistritz am Wechsel, Molzegg
-                    und Kirchberg am Wechsel des politischen Bezirkes Wiener=Neustadt (975 der
-                    Beilagen); den Antrag der Abgeordneten Dr. Angerer, Egger, Größbauer und
-                    Genossen, betreffend die Gewährung einer Notstandsbeihilfe für die durch ein
-                    furchtbares Unwetter heimgesuchten Gebirgsbewohner von Schachern und Apriach in
-                    der Gemeinde Heiligenblut in Kärnten (976 der Beilagen), und den Antrag der
-                    Abgeordneten Buchinger, Eisenhut, Lieschnegg, Scharfegger, Födermayr, Niedrist,
-                    Geisler und Genossen, betreffend Befreiung der Verträge über die Herausgabe von
-                    ärarischen Hengsten in die Privatpflege, von der Stempelgebühr (978 der
-                    Beilagen). dem Justizausschusse: den Antrag der Abgeordneten Fischer, Paulitsch
-                    und Genossen, betreffend die Errichtung von Journalistenkammern (968 der
-                    Beilagen); dem Verfassungsausschusse: den Antrag der Abgeordneten Dr. Schürff
-                    und Genossen, betreffend die Vornahme einer Volks¬ <pb facs="#facs_43" n="43"
-                        xml:id="img_0043" break="yes"/> abstimmung über den Anschluß an Deutschland
-                    (973 der Beilegen). Die nächste Sitzung schlage ich vor für morgen, Donnerstag,
-                    den 30. September 1920. 12 Uhr mittags, mit folgender Tagesordnung: 1. Bericht
-                    des Verfassungsausschusses über den Entwurf eines Gesetzes, womit die Pause:)
+                    und Kirchberg am Wechsel des politischen Bezirkes Wiener=Neustadt <emph>(975 der
+                        Beilagen)</emph>;</p>
+                <p>den Antrag der Abgeordneten Dr. Angerer, Egger, Größbauer und Genossen,
+                    betreffend die Gewährung einer Notstandsbeihilfe für die durch ein furchtbares
+                    Unwetter heimgesuchten Gebirgsbewohner von Schachern und Apriach in der Gemeinde
+                    Heiligenblut in Kärnten <emph>(976 der Beilagen)</emph>, und</p>
+                <p>den Antrag der Abgeordneten Buchinger, Eisenhut, Lieschnegg, Scharfegger,
+                    Födermayr, Niedrist, Geisler und Genossen, betreffend Befreiung der Verträge
+                    über die Herausgabe von ärarischen Hengsten in die Privatpflege, von der
+                    Stempelgebühr <emph>(978 der Beilagen)</emph>.</p>
+                <p>dem Justizausschusse:</p>
+                <p>den Antrag der Abgeordneten Fischer, Paulitsch und Genossen, betreffend die
+                    Errichtung von Journalistenkammern <emph>(968 der Beilagen)</emph>;</p>
+                <p>dem Verfassungsausschusse:</p>
+                <p>den Antrag der Abgeordneten Dr. Schürff und Genossen, betreffend die Vornahme
+                    einer Volks<pb facs="#facs_43" n="43" xml:id="img_0043" break="no"/><fw
+                        type="pageNum">3405</fw>abstimmung über den Anschluß an Deutschland
+                        <emph>(973 der Beilegen)</emph>.</p>
+                <p>Die nächste Sitzung schlage ich vor für morgen, Donnerstag, den 30. September
+                    1920, 12 Uhr mittags, mit folgender Tagesordnung:</p>
+                <p>1. Bericht des Verfassungsausschusses über den Entwurf eines Gesetzes, womit die
                     Republik Österreich als Bundesstaat eingerichtet wird (Bundesverfassungsgesetz)
-                    (991 der Beilagen). </p>
+                        <emph>(991 der Beilagen)</emph>.</p>
                 <p>2. Bericht des Verfassungsausschusses über den Entwurf eines Gesetzes, betreffend
-                    den Übergang zur bundesstaatlichen Verfassung (992 der Beilagen). Wird gegen
-                    Tagesordnung, Tag und Stunde eine Einwendung erhoben? (Nach einer Es ist nicht
-                    der Fall. So bleibt es bei meinem Vorschlage. Die Sitzung ist geschlossen. </p>
-                <p>Schluß der Sitzung: 7 Uhr 30 Minuten abends. </p>
+                    den Übergang zur bundesstaatlichen Verfassung <emph>(992 der
+                    Beilagen)</emph>.</p>
+                <p>Wird gegen Tagesordnung, Tag und Stunde eine Einwendung erhoben? <emph>(Nach
+                        einer Puase:)</emph> Es ist nicht der Fall. So bleibt es bei meinem
+                    Vorschlage.</p>
+                <p>Die Sitzung ist geschlossen.</p>
+                <p><emph>Schluß der Sitzung: 7 Uhr 30 Minuten abends.</emph></p>
             </div>
         </body>
 
