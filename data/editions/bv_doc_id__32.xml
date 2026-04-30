@@ -1269,7 +1269,7 @@
             <fw type="pageNum">- 33 -</fw>
             <head>C. Der Weg der Bundesgesetzgebung.</head>
             <div type="article">
-              <head>Artikel 33 </head>
+              <head>Artikel <add>33</add></head>
               <p type="legal_section"><label>(1)</label> Gesetzesvorschläge gelangen an den
                 Bundestag entweder als Anträge seiner Mitglieder oder als Vorlagen der
                 Bundesregierung. Auch der Bundesrat kann im Wege der Bundesregierung Gesetzesanträge
@@ -1280,18 +1280,23 @@
             </div>
             <div type="article">
               <pb facs="#facs_43" n="43" xml:id="img_0043" break="yes"/>
-              <fw type="pageNum">- 34 - </fw>
+              <fw type="pageNum">- 34 -</fw>
               <head>Artikel 34 </head>
               <p type="legal_section"><label>(1)</label> Zu einem Beschluss des Bundestages ist die
                 Anwesenheit von mindestens einem Viertel der Mitglieder und die absolute Mehrheit
-                der abgegebenen Stimmen erforderlich. </p>
+                der abgegebenen Stimmen erforderlich.</p>
               <p type="legal_section"><label>(2)</label> Eine Abänderung der Bundesverfassung kann
-                jedoch nur bei Anwesenheit von zwei Dritteln aller Mitglieder und mit einer Mehrheit
-                von drei Vierteln aller abgegebenen Stimmen beschlossen werden.</p>
+                jedoch nur bei Anwesenheit <?oxy_comment_start author="Atkinson.j" timestamp="20260430T151435+0200" comment="wessen Handschrift? Änderung aufnehmen?"?><choice>
+                  <del>von zwei Dritteln</del>
+                  <add>der Hälfte</add>
+                </choice> aller Mitglieder und mit einer Mehrheit von <choice>
+                  <del>drei Vierteln</del><?oxy_comment_end?>
+                  <add>zwei Dritteln</add>
+                </choice> aller abgegebenen Stimmen beschlossen werden.</p>
             </div>
             <div type="article">
               <pb facs="#facs_44" n="44" xml:id="img_0044" break="yes"/>
-              <fw type="pageNum">- 35 - </fw>
+              <fw type="pageNum">- 35 -</fw>
               <head>Artikel 35. </head>
               <p type="legal_section">Jede Gesamtänderung der Bundesverfassung, eine teilweise
                 Aenderung aber nur, wenn dies von einem Drittel der Mitglieder des Bundestages oder
@@ -1302,7 +1307,7 @@
             <div type="article">
               <pb facs="#facs_45" n="45" xml:id="img_0045" break="yes"/>
               <fw type="pageNum">- 36 - </fw>
-              <head>Artikel 36 </head>
+              <head>Artikel <add>36.</add></head>
               <p type="legal_section"><label>(1)</label> Einer solchen Volksabstimmung ist ferner
                 jedes Bundesgesetz unterwor<choice>
                   <del>d</del>
@@ -1313,7 +1318,7 @@
             <div type="article">
               <pb facs="#facs_46" n="46" xml:id="img_0046" break="yes"/>
               <fw type="pageNum">- 37 - </fw>
-              <head>Artikel 37 </head>
+              <head>Artikel <add>37</add></head>
               <p type="legal_section">Das Bundesvolk hat die vom Bundestag beschlossene <del>und vom
                   Bundesrat genehmigte </del>Verfassungsänderung angenommen und es hat das bereits
                 kundgemachte Bundesgesetz abgelehnt, wenn die Mehrheit der abgegebenen Stimmen sich
@@ -1322,7 +1327,7 @@
             <div type="article">
               <pb facs="#facs_47" n="47" xml:id="img_0047" break="yes"/>
               <fw type="pageNum">- 38 - </fw>
-              <head>Artikel 38. </head>
+              <head>Artikel <add>38.</add></head>
               <p type="legal_section">Das Ergebnis der Volksabstimmung ist amtlich zu verlautbaren.
                 Im Falle, dass ein Bundesgesetz durch Volksabstimmung abgelehnt wurde, ist überdies
                 seine Ausserkraftsetzung im Bundesgesetzblatt kundzumachen.</p>
@@ -1330,15 +1335,15 @@
             <div type="article">
               <pb facs="#facs_48" n="48" xml:id="img_0048" break="yes"/>
               <fw type="pageNum">- 39 - </fw>
-              <head>Artikel 39. </head>
+              <head>Artikel <add>39.</add></head>
               <p type="legal_section">Ist eine Gesamtänderung der Bundesverfassung durch
                 Volksabstimmung abgelehnt worden, so hat der Bundespräsident den Bundestag
                 aufzulösen und gemäss Artikel ... der Bundesverfassung Neuwahlen auszuschreiben.</p>
             </div>
             <div type="article">
               <pb facs="#facs_49" n="49" xml:id="img_0049" break="yes"/>
-              <fw type="pageNum">- 40 - </fw>
-              <head>Artikel 40 </head>
+              <fw type="pageNum">- 40 -</fw>
+              <head>Artikel <add>40.</add></head>
               <p type="legal_section"><label>(1)</label> Das Verfahren für die Volksabstimmung sowie
                 für die in den Artikeln … und ... vorgesehene Volksinitiative wird durch
                 Bundesgesetz geregelt. </p>
@@ -1349,8 +1354,11 @@
             </div>
             <div type="article">
               <pb facs="#facs_50" n="50" xml:id="img_0050" break="yes"/>
-              <fw type="pageNum">- 41 -</fw>
-              <head>Artikel 41. </head>
+              <fw type="pageNum"><choice>
+                  <del>- 25 a -</del>
+                  <add>- 41 -</add>
+                </choice></fw>
+              <head>Artikel <add>41.</add></head>
               <p type="legal_section"><label>(1)</label> Jeder Gesetzesbeschluss des Bundestages ist
                 durch dessen Präsidenten im Wege des Bundeskanzlers dem Bundesrate unverzüglich zu
                 übermitteln. </p>
@@ -1361,10 +1369,10 @@
                 spätestens in zwei weiteren Wochen mit Gründen versehen werden. </p>
               <p type="legal_section"><label>(4)</label> Im Falle des Einspruches wird der
                 Gesetzesbeschluss dem Bundestage zur nochmaligen Beschlussfassung vorgelegt.
-                Wiederholt der Bundestag seinen ursprünglichen Beschluss (mit einer Mehrheit von <choice>
+                Wiederholt der Bundestag seinen ursprünglichen Beschluss mit einer Mehrheit von <choice>
                   <del>drei Vierteln</del>
                   <add>zwei Dritteln</add>
-                </choice> der Anwesenden) so ist dieser vom Bundespräsidenten zu beurkunden, und
+                </choice> der Anwesenden so ist dieser vom Bundespräsidenten zu beurkunden, und
                 kundzumachen. </p>
               <p type="legal_section"><label>(5) </label> Wiederholt der Bundestag seinen Beschluss
                 mit einfacher Mehrheit und beharrt auch der Bundesrat auf seinem Einspruch, so hat
@@ -1383,8 +1391,8 @@
                 </choice>. </head>
               <p type="legal_section"><label>(1)</label> Das verfassungsmässige Zustandekommen der
                 Bundesgesetze sowie der im Artikel ..., Absatz ..., und Artikel ... erwähnten
-                Beschlüsse des Bundestages <del>und des Bundesrates</del> wird durch die
-                Unterschrift des Bundespräsidenten beurkundet. </p>
+                Beschlüsse des Bundestages und des Bundesrates wird durch die Unterschrift des
+                Bundespräsidenten beurkundet. </p>
               <p type="legal_section"><label>(2)</label> Die Beurkundung ist vom Bundeskanzler und
                 von den zuständigen Bundesministern gegenzuzeichnen. </p>
             </div>
@@ -1405,15 +1413,18 @@
                 </choice> die Kundmachung von Staatsverträgen, die der Genehmigung des Bundestages
                 bedürfen, mit Berufung auf diese Genehmigung im Bundesgesetzblatt durch den
                 Bundeskanzler. </p>
-              <p type="legal_section"><label>(2)</label> Die Bundesgesetze sowie die im Artikel
+              <p type="legal_section"><label>(2)</label> Die Bundesgesetze sowie die im Artikel …
                 erwähnten Beschlüsse des Bundestages, ebenso Staatsverträge, die vom Bundestag
                 genehmigt und vom Bundespräsidenten ratifiziert sind, (Artikel ...), erlangen erst
                 nach der Kundmachung im Bundesgesetzblatt verbindende Kraft.</p>
             </div>
             <div type="article">
               <pb facs="#facs_53" n="53" xml:id="img_0053" break="yes"/>
-              <fw type="pageNum">- 44 -</fw>
-              <head>Artikel 44. </head>
+              <fw type="pageNum"><choice>
+                  <del>- 45 -</del>
+                  <add>- 44 -</add>
+                </choice></fw>
+              <head>Artikel <add>44.</add></head>
               <p type="legal_section"><label>(1)</label> Die verbindene Kraft der im
                 Bundesgesetzblatt kundgemachten Bundesgesetze beginnt, wenn darin selbst nicht
                 ausdrücklich eine andere Bestimmung getroffen wird,<del> mit dem Anfang des 45.
@@ -1432,12 +1443,12 @@
               </choice></fw>
             <head>D. Stellung der Mitglieder des Bundestages und des Bundesrates.</head>
             <div type="article">
-              <head>Artikel 45 </head>
+              <head>Artikel <add>45.</add></head>
               <p type="legal_section"><label>(1)</label> Die Mitglieder des Bundestages können wegen
                 der in Ausübung <choice>
                   <del>dieses</del>
                   <add>ihres</add>
-                </choice> ihres Berufes geschehenen Abstimmungen niemals, wegen der in diesem Berufe
+                </choice> Berufes geschehenen Abstimmungen niemals, wegen der in diesem Berufe
                 gemachten Aeusserungen nur vom Bundestage verantwortlich gemacht werden. </p>
               <p type="legal_section"><label>(2)</label> Kein Mitglied des Bundestages darf während
                 der Dauer der Sitzungsperiode wegen einer strafbaren Handlung — den Fall der
@@ -1460,7 +1471,7 @@
                   <add>- 46 -</add>
                 </choice>
               </fw>
-              <head>Artikel 46. </head>
+              <head>Artikel <add>46.</add></head>
               <p type="legal_section">Die Mitglieder des Bundesrates geniessen die ihnen als
                 Mitglieder eines Landtages gewährte Immunität auch für ihre Funktion im Bundesrate
                 während der ganzen Dauer dieser Funktion.</p>
@@ -1471,7 +1482,7 @@
                   <del>- 48 -</del>
                   <add>- 47 -</add>
                 </choice></fw>
-              <head>Artikel 47 </head>
+              <head>Artikel <add>47.</add></head>
               <p type="legal_section"><label>(1)</label> Niemand kann gleichzeitig dem Bundestag und
                 dem Bundesrat angehören. Gehört ein in den Bundesrat entsendetes Mitglied eines
                 Landtages auch dem Bundestage an, so ruht seine Mitgliedschaft zum Bundestage bis zu
@@ -1490,7 +1501,7 @@
             </fw>
             <head>E. Stellung der Bundesregierung im Bundestag und Bundesrat. </head>
             <div type="article">
-              <head>Artikel 48. </head>
+              <head>Artikel <add>48.</add></head>
               <p type="legal_section">Die Mitglieder der Bundesregierung sowie die von ihnen
                 entsendeten Vertreter sind berechtigt, an allen Beratungen des Bundestages und des
                 Bundesrates sowie deren Ausschüsse teilzunehmen, jedoch mit Ausnahme des im Artikel
@@ -1508,9 +1519,9 @@
                   <add>- 49 -</add>
                 </choice>
               </fw>
-              <head>Artikel 49. </head>
-              <p type="legal_section">Der Bundestag <choice>
-                  <del>und der Bundesrat sind</del>
+              <head>Artikel <add>49.</add></head>
+              <p type="legal_section">Der Bundestag <del>und der Bundesrat </del><choice>
+                  <del>sind</del>
                   <add>ist</add>
                 </choice> befugt, die Geschäftsführung der Bundesregierung zu überprüfen, deren
                 Mitglieder über alle Gegenstände der Vollziehung zu befragen und alle einschlägigen
@@ -1527,7 +1538,7 @@
                   <add>- 50 -</add>
                 </choice>
               </fw>
-              <head>Artikel 50. </head>
+              <head>Artikel <add>50.</add></head>
               <p type="legal_section"><label>(1) </label> Auf Antrag von mindestens einem Fünftel
                 der Mitglieder hat der Bundestag Untersuchungsausschüsse einzusetzen. </p>
               <p type="legal_section"><label>(2)</label> Die Gerichte und alle anderen Behörden sind
@@ -1553,7 +1564,7 @@
             <div type="section">
               <head>1. Der Bundespräsident.</head>
               <div type="article">
-                <head>Artikel 51. </head>
+                <head>Artikel <add>51.</add></head>
                 <p type="legal_section">Der Präsident des Bundestages führt in Ausübung der ihm
                   durch die Verfassung übertragenen Funktionen der Regierungs- und Vollzugsgewalt
                   den Titel Bundespräsident. </p>
@@ -1565,7 +1576,7 @@
                     <add>- 52 -</add>
                   </choice>
                 </fw>
-                <head>Artikel 52 </head>
+                <head>Artikel <add>52.</add></head>
                 <p type="legal_section">Der Bundespräsident vertritt die Republik nach aussen,
                   empfängt und beglaubigt die Gesandten, genehmigt die Bestellung der fremden
                   Konsuln, bestellt die österreichischen Konsuln und schliesst die
@@ -1585,8 +1596,8 @@
                     <label>c)</label>
                     <item> die Begnadigung der von den Gerichten rechtskräftig Verurteilten, die
                       Milderung und Umwandlung der von den Gerichten ausgesprochenen Strafen, die
-                      Nachsicht von Rechtsfolgen und die Tilgung von Verurteilungen, die ferner die
-                      Abolition von strafgerichtlichen Verfahren; </item>
+                      Nachsicht von Rechtsfolgen und die Tilgung von Verurteilungen, <del>die
+                      </del>ferner die Abolition von strafgerichtlichen Verfahren; </item>
                     <label>d)</label>
                     <item> die Erklärung unehelicher Kinder zu ehelichen über Ansuchen der Eltern.
                     </item>
@@ -1607,24 +1618,33 @@
               </div>
               <div type="article">
                 <pb facs="#facs_64" n="64" xml:id="img_0064" break="yes"/>
-                <fw type="pageNum">- 54 - </fw>
-                <head>Artikel 54 </head>
+                <fw type="pageNum"><choice>
+                    <del>- 55 -</del>
+                    <add>- 54 -</add>
+                  </choice></fw>
+                <head>Artikel <add>54.</add></head>
                 <p type="legal_section">Der Bundespräsident kann das ihm zustehende Recht der
                   Ernennung von Bundesangestellten bestimmter Kategorien oder Rangklassen den
                   ressortmässig zuständigen Mitgliedern der Bundesregierung übertragen.</p>
               </div>
               <div type="article">
                 <pb facs="#facs_65" n="65" xml:id="img_0065" break="yes"/>
-                <fw type="pageNum"> - 55 -</fw>
-                <head>Artikel 55. </head>
+                <fw type="pageNum"><choice>
+                    <del>- 56 -</del>
+                    <add> - 55 -</add>
+                  </choice></fw>
+                <head>Artikel <add>55.</add></head>
                 <p type="legal_section">Alle Akte des Bundespräsidenten bedürfen zu ihrer Gültigkeit
                   der Gegenzeichnung des Bundeskanzlers und der ressortmässig zuständigen
                   Bundesminister.</p>
               </div>
               <div type="article">
                 <pb facs="#facs_66" n="66" xml:id="img_0066" break="yes"/>
-                <fw type="pageNum"> - 56 - </fw>
-                <head>Artikel 56. </head>
+                <fw type="pageNum"><choice>
+                    <del>- 57 -</del>
+                    <add> - 56 -</add>
+                  </choice></fw>
+                <head>Artikel <add>56.</add></head>
                 <p type="legal_section"><label>(1)</label> Die dem Präsidenten des Bundestages
                   übertragenen Funktionen der Regierungs- und Vollzugsgewalt gehen im Falle seiner
                   Verhinderung auf den seinen ersten zweiten und, wenn bei diesem der gleiche Fall
@@ -1634,30 +1654,60 @@
                   Präsidenten — jedoch nur bis zur Neuwahl — auf den zweiten und bei dessen
                   Verhinderung auf den dritten Präsidenten über.</p>
               </div>
+              <div type="article">
+                <pb facs="#facs_78" n="78" xml:id="img_0078" break="yes"/>
+                <fw type="pageNum">- 5<choice>
+                    <del>8</del>
+                    <add>7</add>
+                  </choice> -</fw>
+                <head>Artikel <add>57.</add>
+                </head>
+                <p type="legal_section">Der Bundespräsident sowie seine Stellvertreter sind für die
+                  Ausübung der Regierungs- und Vollzugsgewalt dem Bundestage gemäss Artikel ... der
+                  Bundesverfassung verantwortlich.</p>
+              </div>
             </div>
             <div type="section">
               <pb facs="#facs_67" n="67" xml:id="img_0067" break="yes"/>
               <head>II. Version.</head>
               <pb facs="#facs_68" n="68" xml:id="img_0068" break="yes"/>
-              <fw type="pageNum">- 52 a - </fw>
+              <fw type="pageNum">- 5<choice>
+                  <del>1</del>
+                  <add>2</add>
+                  <add/>
+                </choice> a - </fw>
               <head>Dritter Abschnitt.</head>
               <head>Die Vollziehung des Bundes</head>
               <head>A. Die Regierungsgewalt des Bundes.</head>
               <head>1. Der Bundespräsident.</head>
               <div type="article">
+                <head>Artikel ...</head>
+                <p type="legal_section"><label>(1)</label> Der Bundespräsident wird unmittelbar von
+                  dem gesamten Bundesvolk gewählt.</p>
+                <p type="legal_section"><label>(2)</label> Die Wahl erfolgt zugleich mit der
+                  Hauptwahl zum Bundestag und für die Dauer seiner Gesetzgebungsperiode.</p>
+              </div>
+              <div type="article">
                 <pb facs="#facs_69" n="69" xml:id="img_0069" break="yes"/>
+                <fw type="pageNum">- 5<choice>
+                    <del>3</del>
+                    <add>2</add>
+                  </choice> a -</fw>
                 <head>Artikel ...</head>
                 <p type="legal_section"><label>(1)</label> Wird der Bundestag vor Ablauf seiner
                   vierjährigen Gesetzgebungsperiode aufgelöst, hat zugleich mit seiner Neuwahl auch
                   die Wahl des Bundespräsidenten zu erfolgen. </p>
                 <p type="legal_section"><label>(2)</label> Eine Neuwahl des Bundespräsidenten hat
-                  auch dann zu erfolgen, wenn die Stelle des Bundespräsidenten noch in (der ersten
-                  Hälfte seiner vierjährigen) Amtsperiode durch Tod, Amtsverzicht oder aus anderen
+                  auch dann zu erfolgen, wenn die Stelle des Bundespräsidenten noch in der ersten
+                  Hälfte seiner vierjährigen Amtsperiode durch Tod, Amtsverzicht oder aus anderen
                   gesetzlichen Gründen dauernd erledigt wird.</p>
               </div>
               <div type="article">
                 <pb facs="#facs_70" n="70" xml:id="img_0070" break="yes"/>
-                <fw type="pageNum">- 54 a - </fw>
+                <fw type="pageNum">- 5<choice>
+                    <del>4</del>
+                    <add>3</add>
+                  </choice> a - </fw>
                 <head>Artikel ...</head>
                 <p type="legal_section"><label>(1)</label> Zum Bundespräsidenten kann nur derjenige
                   Bundesangehörige gewählt werden, der das aktive und passive Wahlrecht zum
@@ -1667,10 +1717,13 @@
               </div>
               <div type="article">
                 <pb facs="#facs_71" n="71" xml:id="img_0071" break="yes"/>
-                <fw type="pageNum">- 54a -</fw>
+                <fw type="pageNum">- 5<choice>
+                    <del>5</del>
+                    <add>4</add>
+                  </choice> a -</fw>
                 <head>Artikel ...</head>
                 <p type="legal_section"><label>(1)</label> Im Falle des Artikels ... erfolgt die
-                  Wahl des Präsidenten auf dem gleichen Stimmzettel wie die Wahl zum Bundestag. </p>
+                  Wahl des Präsidenten auf dem gleichen Stimmzettel wie die Wahl zum Bundestag.</p>
                 <p type="legal_section"><label>(2)</label> Als zum Bundespräsidenten gewählt gilt
                   derjenige Kandidat, der an erster Stelle die meisten Stimmen auf sich vereinigt.
                   Hiebei sind die im gesamten Bundesgebiet gültig abgegebenen Stimmen zu zählen. </p>
@@ -1679,30 +1732,39 @@
               </div>
               <div type="article">
                 <pb facs="#facs_72" n="72" xml:id="img_0072" break="yes"/>
-                <fw type="pageNum">- 55 a - </fw>
+                <fw type="pageNum">- 5<choice>
+                    <del>6</del>
+                    <add>5</add>
+                  </choice> a - </fw>
                 <head>Artikel ...</head>
                 <p type="legal_section">Der Bundespräsident leistet bei Antritt seines Amtes vor dem
                   Bundestag das folgende Gelöbnis: </p>
-                <p type="legal_section">"Ich gelobe, dass ich die Verfassung und alle Gesetze der
+                <p type="legal_section">„Ich gelobe, dass ich die Verfassung und alle Gesetze der
                   Republik Oesterreich getreulich beobachten und meine Pflicht nach bestem Wissen
-                  und Gewissen erfüllen werde."</p>
+                  und Gewissen erfüllen werde.“</p>
               </div>
               <div type="article">
                 <pb facs="#facs_73" n="73" xml:id="img_0073" break="yes"/>
-                <fw type="pageNum">- 56 a -</fw>
+                <fw type="pageNum">- 5<choice>
+                    <del>7</del>
+                    <add>6</add>
+                  </choice> a -</fw>
                 <head>Artikel ...</head>
                 <p type="legal_section">Der Bundespräsident darf während seiner Amtstätigkeit keiner
                   politischen Körperschaft angehören und keinen anderen Beruf ausüben.</p>
               </div>
               <div type="article">
                 <pb facs="#facs_74" n="74" xml:id="img_0074" break="yes"/>
-                <fw type="pageNum">- 57 a -</fw>
+                <fw type="pageNum">- 5<choice>
+                    <del>8</del>
+                    <add>7</add>
+                  </choice> a -</fw>
                 <head>Artikel ...</head>
                 <p type="legal_section"><label>(1)</label> Eine behördliche Verfolgung des
-                  Bundespräsidenten darf nur mit Zustimmung des Bundestages erfolgen. </p>
+                  Bundespräsidenten darf nur mit Zustimmung des Bundestages erfolgen.</p>
                 <p type="legal_section"><label>(2)</label> Zu einem solchen Beschlusse ist die
                   Anwesenheit der Hälfte aller Mitglieder und eine Mehrheit von zwei Dritteln der
-                  Abstimmenden erforderlich. </p>
+                  Abstimmenden erforderlich.</p>
               </div>
               <div type="article">
                 <head>Artikel ...</head>
@@ -1711,7 +1773,10 @@
               </div>
               <div type="article">
                 <pb facs="#facs_75" n="75" xml:id="img_0075" break="yes"/>
-                <fw type="pageNum">- 58 a -</fw>
+                <fw type="pageNum">- 5<choice>
+                    <del>9</del>
+                    <add>8</add>
+                  </choice> a -</fw>
                 <head>Artikel ...</head>
                 <p type="legal_section"><label>(1)</label> Wenn der Bundespräsident verhindert oder
                   wenn seine Stelle dauernd erledigt ist, im letzteren Falle bis zur Neuwahl seines
@@ -1725,7 +1790,7 @@
                     <del>von</del>
                     <add>hat der</add>
                   </choice> Präsident<del>en</del> des Bundestages <del>ausgeübt</del> das im
-                  Artikel ... erwähnte Gelöbnis zu leisten. </p>
+                  Artikel ... erwähnte Gelöbnis zu leisten.</p>
                 <p type="legal_section"><label>(3)</label> Für die Ausübung der Funktionen des
                   Bundespräsidenten <choice>
                     <del>sind</del>
@@ -1735,7 +1800,10 @@
               </div>
               <div type="article">
                 <pb facs="#facs_76" n="76" xml:id="img_0076" break="yes"/>
-                <fw type="pageNum">- 59 a - </fw>
+                <fw type="pageNum">- <choice>
+                    <del>60</del>
+                    <add>59</add>
+                  </choice> a - </fw>
                 <head>Artikel ...</head>
                 <p type="legal_section">Der Bundespräsident bleibt auch nach Ablauf der
                   Gesetzgebungsperiode des Bundestages und nach Auflösung des Bundestages, und zwar
@@ -1744,7 +1812,10 @@
               </div>
               <div type="article">
                 <pb facs="#facs_77" n="77" xml:id="img_0077" break="yes"/>
-                <fw type="pageNum">- 60 a -</fw>
+                <fw type="pageNum">- 6<choice>
+                    <del>1</del>
+                    <add>0</add>
+                  </choice> a -</fw>
                 <head>Artikel ...</head>
                 <p type="legal_section">= Artikel 5<choice>
                     <del>3</del>
@@ -1754,98 +1825,109 @@
                     <add>5</add>
                   </choice>.</p>
               </div>
-              <div type="article">
-                <pb facs="#facs_78" n="78" xml:id="img_0078" break="yes"/>
-                <fw type="pageNum">- 57 -</fw>
-                <head>Artikel <add>57.</add>
-                </head>
-                <p type="legal_section">Der Bundespräsident sowie seine Stellvertreter sind für die
-                  Ausübung der Regierungs- und Vollzugsgewalt dem Bundestage gemäss Artikel ... der
-                  Bundesverfassung verantwortlich.</p>
-              </div>
             </div>
             <div type="section">
               <pb facs="#facs_79" n="79" xml:id="img_0079" break="yes"/>
-              <fw type="pageNum">- 59 - </fw>
+              <fw type="pageNum">- 5<choice>
+                  <del>9</del>
+                  <add>8</add>
+                </choice> -</fw>
               <head>2. Die Bundesregierung.</head>
               <div type="article">
-                <head>Artikel 58. </head>
+                <head>Artikel <add>58.</add></head>
                 <p type="legal_section"><label>(1)</label> Mit der Ausübung der Regierungs- und
                   Vollzugsgewalt des Bundes sind, soweit diese nicht dem Bundespräsidenten
                   übertragen ist, der Bundeskanzler, der Vizekanzler und die Bundesminister betraut.
                   Sie bilden in ihrer Gesamtheit die Bundesregierung unter dem Vorsitze des
-                  Bundeskanzlers. </p>
+                  Bundeskanzlers.</p>
                 <p type="legal_section"><label>(2)</label> Der Vizekanzler ist zur Vertretung des
                   Bundeskanzlers in dessen gesamtem Wirkungskreis berufen.</p>
               </div>
               <div type="article">
                 <pb facs="#facs_80" n="80" xml:id="img_0080" break="yes"/>
-                <fw type="pageNum"> - 59 - </fw>
-                <head>Artikel 59 </head>
+                <fw type="pageNum"> - <choice>
+                    <del>60</del>
+                    <add>59</add>
+                  </choice> -</fw>
+                <head>Artikel <add>59.</add></head>
                 <p type="legal_section"><label>(1)</label> Die Regierungs- und Vollzugsgewalt des
                   Bundes darf nur auf Grund der Bundesverfassung und der Bundesgesetze ausgeübt
-                  werden. </p>
+                  werden.</p>
                 <p type="legal_section"><label>(2)</label> Jede Behörde kann im Rahmen der Gesetze
                   innerhalb ihres Wirkungskreises Verordnungen erlassen.</p>
               </div>
               <div type="article">
                 <pb facs="#facs_81" n="81" xml:id="img_0081" break="yes"/>
-                <fw type="pageNum">- 60 -</fw>
-                <head>Artikel 60. </head>
+                <fw type="pageNum">- 6<choice>
+                    <del>1</del>
+                    <add>0</add>
+                  </choice> -</fw>
+                <head>Artikel <add>60.</add></head>
                 <p type="legal_section"><label>(1)</label> Die Bundesregierung wird vom Bundestag
                   über den Gesamtvorschlag eines besonderen Ausschusses, dessen Zusammensetzung,
                   Wirkungskreis und Verfahren im Geschäftsordnungsgesetze geregelt ist, in
-                  namentlicher Abstimmung gewählt.+) In die Bundesregierung kann nur gewählt werden,
-                  wer zum Bundestage wählbar ist. </p>
+                  namentlicher Abstimmung gewählt.+) <note type="comment">+) Dieser Ausschuss ist
+                    ständig.</note>In die Bundesregierung kann nur gewählt werden, wer zum
+                  Bundestage wählbar ist.</p>
                 <p type="legal_section"><label>(2)</label> Die Bestallungsurkunden des
                   Bundeskanzlers, des Vizekanzlers und der Bundesminister werden vom
                   Bundespräsidenten mit dem Datum des Tages der Angelobung ausgefertigt und vom neu
-                  bestellten Bundeskanzler gegengezeichnet. </p>
+                  bestellten Bundeskanzler gegengezeichnet.</p>
                 <p type="legal_section"><label>(3)</label> Die Mitglieder der Bundesregierung werden
                   vom Bundespräsidenten angelobt.</p>
-                <p type="legal_section">+) Dieser Ausschuss ist ständig.</p>
               </div>
               <div type="article">
                 <pb facs="#facs_82" n="82" xml:id="img_0082" break="yes"/>
-                <fw type="pageNum">- 61 -</fw>
-                <head>Artikel 61 </head>
+                <fw type="pageNum">- 6<choice>
+                    <del>2</del>
+                    <add>1</add>
+                  </choice> -</fw>
+                <head>Artikel <add>61.</add></head>
                 <p type="legal_section">Bis die neue Bundesregierung gebildet ist, hat der
                   Bundespräsident entweder die scheidende Regierung unter dem Vorsitze des
                   bisherigen Bundeskanzlers, des Vizekanzlers oder eines Bundesministers oder
-                  leitende Beamte der Bundesämter unter dem Vorsitze eine<note type="comment"
-                    >r</note> dieser <emph>leitenden</emph> Beamten mit der einstweiligen Leitung
-                  der Verwaltung zu betrauen. Artikel 60, Absatz 2 und 3, ist in diesem Falle
-                  sinngemäss anzuwenden.</p>
+                  leitende Beamte der Bundesämter unter dem Vorsitze eines dieser <del>leitenden
+                  </del>Beamten mit der einstweiligen Leitung der Verwaltung zu betrauen. Artikel
+                  60, Absatz 2 und 3, ist in diesem Falle sinngemäss anzuwenden.</p>
               </div>
               <div type="article">
                 <pb facs="#facs_83" n="83" xml:id="img_0083" break="yes"/>
-                <fw type="pageNum">- 62 - </fw>
-                <head>Artikel 62 </head>
+                <fw type="pageNum">- 6<choice>
+                    <del>3</del>
+                    <add>2</add>
+                  </choice> -</fw>
+                <head>Artikel <add>62.</add></head>
                 <p type="legal_section"><label>(1)</label> Versagt der Bundestag der Bundesregierung
                   oder einzelnen ihrer Mitglieder durch ausdrückliche Entschliessung das Vertrauen,
                   so ist eine neue Bundesregierung zu bestellen oder der betreffende Bundesminister
                   seines Amtes zu entheben. </p>
                 <p type="legal_section"><label>(2)</label> Zu einem Beschlusse des Bundestages, mit
                   dem das Vertrauen versagt wird, ist die Anwesenheit der Hälfte der Mitglieder des
-                  Bundestages erforderlich. Doch ist, wenn es ein Fünftel der anwesenden Mitglieder
-                  verlangt, die Abstimmung auf den zweitnächsten Werktag zu vertagen. Eine
-                  neuerliche Vertagung der Abstimmung kann nur auf Beschluss des Bundestages
-                  erfolgen. </p>
+                  Bundestages erforderlich. Doch ist, wenn es ein Fünftel der <add>anwesenden
+                  </add>Mitglieder verlangt, die Abstimmung auf den zweitnächsten Werktag zu
+                  vertagen. Eine neuerliche Vertagung der Abstimmung kann nur auf Beschluss des
+                  Bundestages erfolgen. </p>
                 <p type="legal_section"><label>(3)</label> Die gesamte Bundesregierung und ihre
                   einzelnen Mitglieder werden in den gesetzlich bestimmten Fällen oder auf ihren
                   Wunsch vom Bundespräsidenten ihres Amtes enthoben.</p>
               </div>
               <div type="article">
                 <pb facs="#facs_84" n="84" xml:id="img_0084" break="yes"/>
-                <fw type="pageNum">- 63 -</fw>
-                <head>Artikel 63. </head>
+                <fw type="pageNum">- 6<choice>
+                    <del>4</del>
+                    <add>3</add>
+                  </choice> -</fw>
+                <head>Artikel <add>63.</add></head>
                 <p type="legal_section">Die Mitglieder der Bundesregierung sind nach Massgabe des
-                  Artikels der Bundesverfassung dem Bundestage verantwortlich.</p>
+                  Artikels … der Bundesverfassung dem Bundestage verantwortlich.</p>
               </div>
               <div type="article">
                 <pb facs="#facs_85" n="85" xml:id="img_0085" break="yes"/>
-                <fw type="pageNum">- 64 - </fw>
-                <head>Artikel 64 </head>
+                <fw type="pageNum">- 6<choice>
+                    <del>5</del>
+                    <add>4</add>
+                  </choice> -</fw>
+                <head>Artikel <add>64</add></head>
                 <p type="legal_section"><label>(1)</label> Zur Besorgung der Geschäfte der
                   Bundesverwaltung sind die Bundesämter, und zwar das Bundeskanzleramt und die
                   Bundesministerien und die ihnen unterstellten Organe berufen. </p>
@@ -1854,11 +1936,14 @@
               </div>
               <div type="article">
                 <pb facs="#facs_86" n="86" xml:id="img_0086" break="yes"/>
-                <fw type="pageNum">- 65 -</fw>
-                <head>Artikel 65. </head>
+                <fw type="pageNum">- 6<choice>
+                    <del>6</del>
+                    <add>5</add>
+                  </choice> -</fw>
+                <head>Artikel <add>65.</add></head>
                 <p type="legal_section"><label>(1)</label> Das Bundeskanzleramt wird vom
                   Bundeskanzler geleitet; jedes Bundesministerium steht unter der Leitung eines
-                  Bundesministers. </p>
+                  Bundesministers.</p>
                 <p type="legal_section"><label>(2)</label> Der Bundeskanzler und die Bundesminister
                   können ausnahmsweise auch mit der Führung eines zweiten Bundesamtes betraut
                   werden. Ebenso kann dem Vizekanzler die Leitung eines Bundesministeriums
@@ -1866,16 +1951,22 @@
               </div>
               <div type="article">
                 <pb facs="#facs_87" n="87" xml:id="img_0087" break="yes"/>
-                <fw type="pageNum"> - 66 - </fw>
-                <head>Artikel 66. </head>
+                <fw type="pageNum"> - 6<choice>
+                    <del>7</del>
+                    <add>6</add>
+                  </choice> -</fw>
+                <head>Artikel <add>66.</add></head>
                 <p type="legal_section">In besonderen Fällen kann die Bestellung von Bundesministern
                   auch ohne gleichzeitige Betrauung mit der Führung eines Bundesministeriums
                   erfolgen.</p>
               </div>
               <div type="article">
                 <pb facs="#facs_88" n="88" xml:id="img_0088" break="yes"/>
-                <fw type="pageNum"> - 67 -</fw>
-                <head>Artikel 67. </head>
+                <fw type="pageNum"> - 6<choice>
+                    <del>8</del>
+                    <add>7</add>
+                  </choice> -</fw>
+                <head>Artikel <add>67.</add></head>
                 <p type="legal_section">In jedem Bundesamte wird dem verantwortlichen Leiter zur
                   Wahrung der Einheit und Stetigkeit des Geschäftsganges ein Beamter beigegeben, der
                   den Amtstitel eines Ministerialdirektors führt. </p>
@@ -1883,34 +1974,41 @@
             </div>
             <div type="section">
               <pb facs="#facs_89" n="89" xml:id="img_0089" break="yes"/>
-              <fw type="pageNum"> - 68 -</fw>
+              <fw type="pageNum"> - 6<choice>
+                  <del>9</del>
+                  <add>8</add>
+                </choice> -</fw>
               <head>3. Das Bundesheer.</head>
               <div type="article">
-                <head>Artikel 68.</head>
+                <head>Artikel <add>68.</add></head>
                 <p type="legal_section">Das Bundesheer ist ein Berufsheer; es wird auf dem Wege
                   freiwilliger Verpflichtung aufgestellt und ergänzt. Das Nähere regelt das
                   Wehrgesetz.</p>
               </div>
               <div type="article">
                 <pb facs="#facs_90" n="90" xml:id="img_0090" break="yes"/>
-                <fw type="pageNum">- 69 -</fw>
-                <head>Artikel 69. </head>
+                <fw type="pageNum">- <choice>
+                    <del>70</del>
+                    <add>69</add>
+                  </choice> -</fw>
+                <head>Artikel <add>69.</add></head>
                 <p type="legal_section"><label>(1)</label> Das Bundesheer ist, soweit die
                   gesetzmässige bürgerliche Gewalt seine Mitwirkung in Anspruch nimmt, zum Schutz
-                  der verfassungsmässigen Einrichtungen sowie zur Aufrechterhaltung der Ordnung und
-                  Sicherheit im Innern überhaupt und zur Hilfeleistung bei Elementarereignissen und
-                  Unglücksfällen aussergewöhnlichen Umfanges bestimmt. </p>
+                  der verfassungsmässigen Einrichtungen <add>der Republik </add>sowie zur
+                  Aufrechterhaltung der Ordnung und Sicherheit im Innern überhaupt und zur
+                  Hilfeleistung bei Elementarereignissen und Unglücksfällen aussergewöhnlichen
+                  Umfanges bestimmt.</p>
                 <p type="legal_section"><label>(2)</label> Ferner obliegt dem Bundesheer der Schutz
                   der Grenzen der Republik.</p>
               </div>
               <div type="article">
                 <pb facs="#facs_91" n="91" xml:id="img_0091" break="yes"/>
-                <fw type="pageNum">- 70 - </fw>
+                <fw type="pageNum">- 70 -</fw>
                 <head>Artikel 70. </head>
                 <p type="legal_section"><label>(1)</label> Ueber das Heer verfügt der Bundestag.
                   Insoweit diesem nicht durch das Wehrgesetz die unmittelbare Verfügung vorbehalten
                   ist, wird damit die Bundesregierung oder innerhalb der von ihr erteilten
-                  Ermächtigung der zuständige Bundesminister betraut. </p>
+                  Ermächtigung der zuständige Bundesminister betraut.</p>
                 <p type="legal_section"><label>(2)</label> Inwieweit auch die Behörden der Länder
                   und Gemeinden die Mitwirkung des Bundesheeres zu den in Artikel 69, Absatz 1,
                   erwähnten Zwecken unmittelbaren Anspruch nehmen können, bestimmt das
@@ -1918,8 +2016,11 @@
               </div>
               <div type="article">
                 <pb facs="#facs_92" n="92" xml:id="img_0092" break="yes"/>
-                <fw type="pageNum"> - 71 -</fw>
-                <head>Artikel 71 </head>
+                <fw type="pageNum"> - 7<choice>
+                    <del>2</del>
+                    <add>1</add>
+                  </choice> -</fw>
+                <head>Artikel <add>71.</add></head>
                 <p type="legal_section"><del>Die Präsenzstärke und Organisation des Heeres stellt
                     das Wehrgesetz fest. </del>Durch Bundesgesetz wird <del>auch </del>geregelt,
                   inwieweit die Länder bei der Ergänzung, Verpflegung und Unterbringung des Heeres
@@ -1929,20 +2030,27 @@
           </div>
           <div type="section">
             <pb facs="#facs_93" n="93" xml:id="img_0093" break="yes"/>
-            <fw type="pageNum">- 72 - </fw>
+            <fw type="pageNum">- 7<choice>
+                <del>3</del>
+                <add>2</add>
+              </choice> -</fw>
             <head>B. Die Gerichtsbarkeit des Bundes. </head>
             <div type="article">
-              <head>Artikel 72. </head>
-              <p type="legal_section"><label>(1)</label> Alle Gerichtsbarkeit geht vom Bunde aus. </p>
+              <head>Artikel <add>72.</add></head>
+              <p type="legal_section"><label>(1)</label> Alle Gerichtsbarkeit geht vom Bunde
+                aus.</p>
               <p type="legal_section"><label>(2)</label> Die Urteile und Erkenntnisse werden im
                 Namen der Republik Oesterreich verkündet und ausgefertigt.</p>
             </div>
             <div type="article">
               <pb facs="#facs_94" n="94" xml:id="img_0094" break="yes"/>
-              <fw type="pageNum">- 73 - </fw>
-              <head>Artikel 73. </head>
+              <fw type="pageNum">- <choice>
+                  <del>74</del>
+                  <add>73</add>
+                </choice> -</fw>
+              <head>Artikel <add>73.</add></head>
               <p type="legal_section"><label>(1)</label> Die Verfassung und Zuständigkeit der
-                Gerichte wird durch Bundesgesetz festgestellt. </p>
+                Gerichte wird durch Bundesgesetz festgestellt.</p>
               <p type="legal_section"><label>(2)</label> Niemand darf seinem ordentlichen Richter
                 entzogen werden. </p>
               <p type="legal_section"><label>(3)</label> Ausnahmsgerichte sind nur in den im Gesetze
@@ -1957,26 +2065,35 @@
             </div>
             <div type="article">
               <pb facs="#facs_95" n="95" xml:id="img_0095" break="yes"/>
-              <fw type="pageNum">- 74 - </fw>
-              <head>Artikel 74 </head>
+              <fw type="pageNum">- <choice>
+                  <del>75</del>
+                  <add>74</add>
+                </choice> -</fw>
+              <head>Artikel <add>74.</add></head>
               <p type="legal_section">Die Militärgerichtsbarkeit ist — ausser für Kriegszeiten —
                 aufzuheben. Das Nähere regelt ein Bundesgesetz.</p>
             </div>
             <div type="article">
               <pb facs="#facs_96" n="96" xml:id="img_0096" break="yes"/>
-              <fw type="pageNum">- 75 - </fw>
-              <head>Artikel 75 </head>
+              <fw type="pageNum">- <choice>
+                  <del>76</del>
+                  <add>75</add>
+                </choice> -</fw>
+              <head>Artikel <add>75.</add></head>
               <p type="legal_section">Die Todesstrafe im ordentlichen Verfahren ist abgeschafft.</p>
             </div>
             <div type="article">
               <pb facs="#facs_97" n="97" xml:id="img_0097" break="yes"/>
-              <fw type="pageNum">- 76 -</fw>
-              <head>Artikel 76 </head>
+              <fw type="pageNum">- <choice>
+                  <del>77</del>
+                  <add>76</add>
+                </choice> -</fw>
+              <head>Artikel <add>76.</add></head>
               <p type="legal_section"><label>(1)</label> Die Richter werden — sofern nicht in der
                 Verfassung oder in dem Gerichtsverfassungsgesetze anderes bestimmt ist — auf Grund
                 von Besetzungsvorschlägen der durch die Gerichtsverfassung dazu bestimmten Senate
                 auf Antrag der Bundesregierung vom Bundespräsidenten oder auf Grund seiner
-                Ermächtigung vom zuständigen Bundesminister ernannt. </p>
+                Ermächtigung vom zuständigen Bundesminister ernannt.</p>
               <p type="legal_section"><label>(2)</label> Der dem zuständigen Bundesminister
                 vorzulegende und von ihm an die Bundesregierung zu leitende Besetzungsvorschlag hat,
                 wenn genügend Bewerber vorhanden sind, mindestens drei Personen, wenn aber mehr als
@@ -1985,8 +2102,11 @@
             </div>
             <div type="article">
               <pb facs="#facs_98" n="98" xml:id="img_0098" break="yes"/>
-              <fw type="pageNum">- 77 -</fw>
-              <head>Artikel 77 </head>
+              <fw type="pageNum">- <choice>
+                  <del>78</del>
+                  <add>77</add>
+                </choice> -</fw>
+              <head>Artikel <add>77.</add></head>
               <p type="legal_section"><label>(1)</label> Die Richter sind in Ausübung ihres
                 richterlichen Amtes unabhängig. </p>
               <p type="legal_section"><label>(2)</label> In Ausübung seines richterlichen Amtes
@@ -1997,11 +2117,11 @@
             </div>
             <div type="article">
               <pb facs="#facs_99" n="99" xml:id="img_0099" break="yes"/>
-              <fw type="pageNum">- 78 - </fw>
+              <fw type="pageNum">- 78 -</fw>
               <head>Artikel 78. </head>
               <p type="legal_section"><label>(1)</label> Im Gerichtsverfassungsgesetze wird eine
                 Altersgrenze bestimmt, mit deren Vollendung die Richter in den dauernden Ruhestand
-                zu versetzen sind. </p>
+                zu versetzen sind.</p>
               <p type="legal_section"><label>(2)</label> Im übrigen dürfen Richter nur in den vom
                 Gesetze vorgeschriebenen Fällen und Formen und auf Grund eines förmlichen
                 richterlichen Erkenntnisses ihres Amtes entsetzt oder wider ihren Willen an eine
@@ -2018,8 +2138,11 @@
             </div>
             <div type="article">
               <pb facs="#facs_100" n="100" xml:id="img_0100" break="yes"/>
-              <fw type="pageNum">- 79 -</fw>
-              <head>Artikel 79 </head>
+              <fw type="pageNum">- <choice>
+                  <del>80</del>
+                  <add>79</add>
+                </choice> -</fw>
+              <head>Artikel <add>79.</add></head>
               <p type="legal_section"><label>(1)</label> Die Prüfung der Gültigkeit gehörig
                 kundgemachter Gesetze steht den Gerichten nicht zu. </p>
               <p type="legal_section"><label>(2)</label> Hat aber ein Gericht gegen die Anwendung
@@ -2030,42 +2153,57 @@
             </div>
             <div type="article">
               <pb facs="#facs_101" n="101" xml:id="img_0101" break="yes"/>
-              <fw type="pageNum">- 81 -</fw>
-              <head>Artikel 80. </head>
+              <fw type="pageNum">- <choice>
+                  <del>81</del>
+                  <add>80</add>
+                </choice> -</fw>
+              <head>Artikel <add>80.</add></head>
               <p type="legal_section"><label>(1)</label> Die Verhandlungen in Zivil- und
                 Strafrechtssachen vor dem erkennenden Gericht sind mündlich und öffentlich.
-                Ausnahmen bestimmt das Gesetz. </p>
+                Ausnahmen bestimmt das Gesetz.</p>
               <p type="legal_section"><label>(2)</label> Im Strafverfahren gilt der
                 Anklageprozess.</p>
             </div>
             <div type="article">
               <pb facs="#facs_102" n="102" xml:id="img_0102" break="yes"/>
-              <fw type="pageNum">- 80 - </fw>
-              <head>Artikel 81 </head>
+              <fw type="pageNum">- <choice>
+                  <del>82</del>
+                  <add>81</add>
+                </choice> -</fw>
+              <head>Artikel <add>81.</add></head>
               <p type="legal_section">Bei den mit schweren Strafen bedrohten Verbrechen, die das
                 Gesetz zu bezeichnen hat, sowie bei allen politischen Verbrechen und Vergehen
                 entscheiden Geschworene über die Schuld des Angeklagten. </p>
             </div>
             <div type="article">
               <pb facs="#facs_103" n="103" xml:id="img_0103" break="yes"/>
-              <fw type="pageNum"> - 82 -</fw>
-              <head>Artikel 82 </head>
-              <p type="legal_section">Als Oberste Instanz in Zivil- und Strafrechtssachen besteht
+              <fw type="pageNum">- <choice>
+                  <del>83</del>
+                  <add>82</add>
+                </choice> -</fw>
+              <head>Artikel <add>82.</add></head>
+              <p type="legal_section">Als oberste Instanz in Zivil- und Strafrechtssachen besteht
                 der Oberste Gerichtshof in Wien.</p>
             </div>
             <div type="article">
               <pb facs="#facs_104" n="104" xml:id="img_0104" break="yes"/>
-              <fw type="pageNum"> - 83 - </fw>
-              <head>Artikel 83 </head>
+              <fw type="pageNum">- <choice>
+                  <del>84</del>
+                  <add>83</add>
+                </choice> -</fw>
+              <head>Artikel <add>83.</add></head>
               <p type="legal_section">Amnestien wegen gerichtlich strafbaren Handlungen werden durch
                 Bundesgesetz erteilt.</p>
             </div>
             <div type="article">
               <pb facs="#facs_105" n="105" xml:id="img_0105" break="yes"/>
-              <fw type="pageNum"> - 84 - </fw>
-              <head>Artikel 84 </head>
+              <fw type="pageNum">- <choice>
+                  <del>85</del>
+                  <add>84</add>
+                </choice> -</fw>
+              <head>Artikel <add>84.</add></head>
               <p type="legal_section"><label>(1)</label> Die Justiz wird von der Verwaltung in allen
-                Instanzen getrennt. </p>
+                Instanzen getrennt.</p>
               <p type="legal_section"><label>(2)</label> In allen Fällen, wo eine Verwaltungsbehörde
                 über Privatrechtsansprüche zu entscheiden hat, steht es dem durch diese Entscheidung
                 Benachteiligten frei, wenn nicht im Gesetze etwas anderes bestimmt ist, Abhilfe
@@ -2075,11 +2213,14 @@
         </div>
         <div type="section">
           <pb facs="#facs_106" n="106" xml:id="img_0106" break="yes"/>
-          <fw type="pageNum"> - 85 - </fw>
-          <head>Vierter Abschnitt. </head>
+          <fw type="pageNum">- <choice>
+              <del>86</del>
+              <add>85</add>
+            </choice> -</fw>
+          <head>Vierter Abschnitt.</head>
           <head>Die Gesetzgebung und Vollziehung der Länder.</head>
           <div type="article">
-            <head>Artikel 85 </head>
+            <head>Artikel <add>85.</add></head>
             <p type="legal_section"><label>(1)</label> Die gesetzgebende Gewalt der Länder wird
               durch die Landtage ausgeübt, deren Mitglieder auf Grund des gleichen, geheimen,
               persönlichen und direkten Verhältniswahlrechtes aller nach den Landtagswahlordnungen
@@ -2091,19 +2232,24 @@
           </div>
           <div type="article">
             <pb facs="#facs_107" n="107" xml:id="img_0107" break="yes"/>
-            <fw type="pageNum"> - 86 - </fw>
-            <head>Artikel 86 </head>
+            <fw type="pageNum">- <choice>
+                <del>87</del>
+                <add>86</add>
+              </choice> -</fw>
+            <head>Artikel <add>86.</add></head>
             <p type="legal_section"><label>(1)</label> Die Mitglieder des Landtages geniessen die
               gleiche Immunität wie die Mitglieder des Bundestages, wobei die Bestimmungen des
-              Artikels der Bundesverfassung analoge Anwendung finden. </p>
+              Artikels der Bundesverfassung analoge Anwendung finden.</p>
             <p type="legal_section"><label>(2)</label> Die Bestimmungen des Artikels 24 gelten auch
-              für die öffentlichen Sitzungen der Landtage und für ihre <emph>ihrer
-              </emph>Ausschüsse. </p>
+              für die öffentlichen Sitzungen der Landtage und ihrer Ausschüsse.</p>
           </div>
           <div type="article">
             <pb facs="#facs_108" n="108" xml:id="img_0108" break="yes"/>
-            <fw type="pageNum"> - 87 -</fw>
-            <head>Artikel 87 </head>
+            <fw type="pageNum"> - <choice>
+                <del>88</del>
+                <add>87</add>
+              </choice> -</fw>
+            <head>Artikel <add>87.</add></head>
             <p type="legal_section">Zu einem Landesgesetz ist erforderlich der Beschluss des
               Landtages, die Beurkundung durch dessen Präsidenten, die Gegenzeichnung durch den
               Landeshauptmann und die Kundmachung durch die Landesregierung im
@@ -2111,11 +2257,14 @@
           </div>
           <div type="article">
             <pb facs="#facs_109" n="109" xml:id="img_0109" break="yes"/>
-            <fw type="pageNum"> - 88 -</fw>
-            <head>Artikel 88 </head>
+            <fw type="pageNum"> - <choice>
+                <del>89</del>
+                <add>88</add>
+              </choice> -</fw>
+            <head>Artikel <add>88.</add></head>
             <p type="legal_section"><label>(1)</label> Alle Gesetzesbeschlüsse der Landtage sind
               unmittelbar nach erfolgter Beschlussfassung des Landtages und vor ihrer Kundmachung
-              vom Landeshauptmann der Bundesregierung bekanntzugeben. </p>
+              vom Landeshauptmann der Bundesregierung bekanntzugeben.</p>
             <p type="legal_section"><label>(2)</label> Wegen Gefährdung von Bundesinteressen kann
               die Bundesregierung binnen sechs Wochen vom Tage der erfolgten Bekanntmachung an gegen
               einen Gesetzesbeschluss des Landtages Einspruch erheben.</p>
@@ -2125,20 +2274,24 @@
           </div>
           <div type="article">
             <pb facs="#facs_110" n="110" xml:id="img_0110" break="yes"/>
-            <fw type="pageNum"> - 89 - </fw>
-            <head>Artikel 89 </head>
+            <fw type="pageNum">- <choice>
+                <del>90</del>
+                <add>89</add>
+              </choice> -</fw>
+            <head>Artikel <add>89.</add></head>
             <p type="legal_section"><label>(1)</label> Die durch Landesgesetz zu erlassende
               Landesverfassung kann — insoweit dadurch die Bundesverfassung nicht berührt wird —
-              durch Landesgesetz abgeändert werden. </p>
+              durch Landesgesetz abgeändert werden.</p>
             <p type="legal_section"><label>(2)</label> Ein Landesverfassungsgesetz kann nur bei
               Anwesenheit <choice>
                 <del>von zwei Dritteln</del>
                 <add>der Hälfte</add>
               </choice> aller Mitglieder des Landtages mit einer Mehrheit von <choice>
-                <del>zwei Dritteln</del>
-                <add>drei Vierteln</add>
+                <del>drei Vierteln</del>
+                <add>zwei Dritteln</add>
               </choice> aller abgegebenen Stimmen beschlossen werden.</p>
           </div>
+          <?oxy_comment_start author="Atkinson.j" timestamp="20260430T170621+0200" comment="korr bis hier Art 90"?>
           <div type="article">
             <pb facs="#facs_111" n="111" xml:id="img_0111" break="yes"/>
             <fw type="pageNum"> - 90 - </fw>
@@ -2149,7 +2302,7 @@
             <p type="legal_section"><label>(2)</label> Landesgesetze treten vier Wochen nach der
               erfolgten Verlautbarung in Wirksamkeit. Eine Abkürzung dieses Termines bedarf der
               Zustimmung der Bundesregierung.</p>
-          </div>
+          </div><?oxy_comment_end?>
           <div type="article">
             <pb facs="#facs_112" n="112" xml:id="img_0112" break="yes"/>
             <fw type="pageNum"> - 91 - </fw>
