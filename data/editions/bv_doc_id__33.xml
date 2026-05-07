@@ -469,9 +469,9 @@
                                           Erlassung der Ausführungsgesetze eine Frist bestimmen, die
                                           nicht kürzer als drei monate und nicht länger als ein Jahr
                                           sein darf. Wird diese Frist von einer Landesgesetzgebung
-                                          nicht <pb facs="#facs_3" n="3" xml:id="img_0003"
-                                                break="yes"/><fw type="pageNum">2</fw>eingehalten,
-                                          so geht die Zuständigkeit zur Erlassung des
+                                                <pb facs="#facs_3" n="3" xml:id="img_0003"
+                                                break="yes"/><fw type="pageNum">2</fw>nicht
+                                          eingehalten, so geht die Zuständigkeit zur Erlassung des
                                           Ausführungsgesetzes für dieses Land auf den Bund über.</p>
                                     <p type="legal_section"><label>(3)</label> Soll ein Akt der
                                           vollziehenden Gewalt für mehrere Länder Rechtswirksamkeit
@@ -568,8 +568,7 @@
                                           Tätigkeit verantwortlich.</p>
                               </div>
                               <div type="article">
-                                    <head><?oxy_comment_start author="atkinson.j" timestamp="20260507T173609+0200" comment="Korrektur bis hier: Art. 14 d., S. 2, Sp. 2."?>Artikel
-                                          14 d.<?oxy_comment_end?></head>
+                                    <head>Artikel 14 d.</head>
                                     <p type="legal_section"><label>(1)</label> Das Dienstrecht —
                                           einschließlich des Besoldungssystems und des
                                           Disziplinarrechts — wird für jene Organe des Bundes und
@@ -578,7 +577,7 @@
                                           geregelt. Hiebei wird insbesondere auch festgesetzt,
                                           inwieweit bei der Regelung der Rechte und Pflichten dieser
                                           Organe, unbeschadet die Diensthoheit des Bundes und der
-                                          Länder, Personalvertretungen teilzunehmen haben. </p>
+                                          Länder, Personalvertretungen teilzunehmen haben.</p>
                                     <p type="legal_section"><label>(2)</label> Die Diensthoheit des
                                           Bundes gegenüber seinen Organen wird von den
                                           Volksbeauftragten des Bundes, die Diensthoheit der Länder
@@ -604,18 +603,18 @@
                                           gesetzlich geschützt. </p>
                               </div>
                               <div type="article">
-                                    <head>Artikel 14e.</head>
+                                    <head>Artikel 14 e.</head>
                                     <p type="legal_section"><label>(1)</label> Zur Unterstützung der
                                           mit der Aufrechterhaltung der öffentlichen Ordnung, Ruhe
                                           und Sicherheit im Bundesgebiete betrauten Behörden dient
-                                          die Gendarmerie. </p>
+                                          die Gendarmerie.</p>
                                     <p type="legal_section"><label>(2)</label> Jedes Land bildet
                                           einen eigenen Gendarmeriebereich. Die Gendarmerie wird
                                           jedoch für alle Länder nach einheitlichen Grundsätzen vom
                                           Bunde eingerichtet, ausgebildet, ausgerüstet und erhalten;
                                           dem Bunde steht auch die Leitung des inneren Dienstes der
                                           gesamten Gendarmerie und die Erlassung der
-                                          Dienstvorschriften zu.   </p>
+                                          Dienstvorschriften zu.</p>
                                     <p type="legal_section"><label>(3)</label> Zur Verfügung über
                                           die Gendarmerie für den äußeren Dienst zum Zwecke der
                                           Aufrechterhaltung der öffentlichen Ordnung und Sicherheit
@@ -624,52 +623,35 @@
                                     <p type="legal_section"><label>(4)</label> Bei Notstand und
                                           Unruhen kann der Bund die zeitweilige Verwendung von
                                           Teilen der Gendarmerie außerhalb des Landesbereiches
-                                          anordnen.   </p>
+                                          anordnen.</p>
                                     <p type="legal_section"><label>(5)</label> Die Gerichte und
                                           Staatsanwaltschaften sind berechtigt, die Dienstleistung
                                           der Gendarmerie für Zwecke der Strafrechtspflege
-                                          unmittelbar in Anspruch zu nehmen.  </p>
+                                          unmittelbar in Anspruch zu nehmen.</p>
                                     <p type="legal_section"><label>(6) </label> Das Nähere über das
                                           Gendarmeriewesen, insbesondere auch über die Dienst- und
                                           Rechtsverhältnisse der Gendarmerie regelt ein besonderes
                                           Bundesgesetz.</p>
                               </div>
                               <div type="article">
-                                    <head>Artikel 14ee.</head>
-                                    <p type="legal_section">Zur Unterstützung der mit der
-                                          Aufrechterhaltung der öffentlichen Ordnung, Ruhr und
-                                          Sicherheit im Gebiete der Bundeshauptstadt Wien und der
-                                          Landeshauptstädte betrauten Behörden dient die
-                                          Bundespolizei. Ihre Einrichtung, Ausbildung, Ausrüstung
-                                          und Erhaltung sowie die Leitung des inneren Dienstes uns
-                                          die Erlassung der Dienstvorschriften steht dem Bunde zu.
-                                          Zur Verfügung über die Bundespolizei für den äußeren
-                                          Dienst sind grundsätzlich nur die zuständigen
-                                          Bürgermeister berufen. Bei Notstand und Unruhen kann der
-                                          Bund die zeitweilige Verwendung von Teilen der
-                                          Bundespolizei außerhalb ihres ständigen Dienstbereiches
-                                          anordnen.</p>
+                                    <head>Artikel 14 f.</head>
+                                    <p type="legal_section">Alle Behörden und Ämter im Bundesgebiete
+                                          sind im Rahmen ihres gesetzmäßigen Wirkungskreises zur
+                                          wechselseitigen Hilfeleistung verpflichtet.</p>
                               </div>
                               <div type="article">
-                                    <head>Artikel 14f.</head>
-                                    <p type="legal_section"> Alle Behörden und Ämter im
-                                          Bundesgebiete sind im Rahmen ihres gesetzmäßigen
-                                          Wirkungskreises zur wechselseitigen Hilfeleistung
-                                          verpflichtet.</p>
-                              </div>
-                              <div type="article">
-                                    <head>Artikel 14g.</head>
+                                    <head>Artikel 14 g.</head>
                                     <p type="legal_section"><label>(1)</label> Alle mit der Ausübung
                                           der Bundes-, Landes-, oder Gemeindeverwaltung oder der
                                           Gerichtsbarkeit betrauten Personen sind für jeden bei der
                                           Ausübung ihrer Tätigkeit durch vorsätzliche oder
                                           grobfahrlässige Rechtsverletzung wem immer zugefügten
                                           Schaden haftbar.</p>
-                                    <p type="legal_section"><label>(2)</label>  Der Bund, die Länder
+                                    <p type="legal_section"><label>(2)</label> Der Bund, die Länder
                                           oder die Gemeinden haften für die Rechtsverletzungen ihrer
                                           Angestellten und Funktionäre erst dann, wenn und insoweit
                                           der Geschädigte bei der Verfolgung eines Anspruches nicht
-                                          den ihm zugesprochenen Schadenersatz erlangen kann. </p>
+                                          den ihm zugesprochenen Schadenersatz erlangen kann.</p>
                                     <p type="legal_section"><label>(3)</label> Die näheren
                                           Bestimmungen trifft ein Bundesgesetz.</p>
                               </div>
@@ -678,30 +660,31 @@
                               <head>Zweiter Abschnitt. </head>
                               <head>Von der Gesetzgebung des Bundes. </head>
                               <div type="section">
-                                    <head>A. Der Nationalrat. </head>
+                                    <head>A. Der Nationalrat.</head>
                                     <div type="article">
-                                          <head>Artikel 15. </head>
-                                          <p type="legal_section"> Die gesetzgebende Gewalt des
+                                          <head>Artikel 15.</head>
+                                          <p type="legal_section">Die gesetzgebende Gewalt des
                                                 Bundes übt der vom ganzen Bundesvolk gewählte
                                                 Nationalrat gemeinsam mit dem von den Landtagen
                                                 gewählten Bundesrate aus. </p>
                                     </div>
                                     <div type="article">
-                                          <head>Artikel 16. </head>
+                                          <head>Artikel 16.</head>
                                           <p type="legal_section"><label>(1)</label> Der Sitz des
-                                                Nationalrates ist die Bundeshauptstadt Wien. </p>
+                                                Nationalrates ist die Bundeshauptstadt Wien.</p>
                                           <p type="legal_section"><label>(2)</label> Für die Dauer
                                                 außerordentlicher Verhältnisse kann der
                                                 Bundespräsident auf Antrag der Bundesregierung den
                                                 Nationalrat in einem anderen Ort des Bundesgebietes
-                                                berufen.   </p>
+                                                berufen.</p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 17 und 18.</head>
-                                          <p type="legal_section">(Artikel 17 und 18 fallen aus.) </p>
+                                          <p type="legal_section">(Artikel 17 und 18 fallen
+                                                aus.)</p>
                                     </div>
                                     <div type="article">
-                                          <head>Artikel 19. </head>
+                                          <head>Artikel 19.</head>
                                           <p type="legal_section"><label>(1)</label> Der Nationalrat
                                                 wird vom Bundesvolk auf Grund des gleichen,
                                                 direkten, geheimen und persönlichen Wahlrechtes der
@@ -709,17 +692,17 @@
                                                 Grundsätzen der Verhältniswahl gewählt. </p>
                                           <p type="legal_section"><label>(2)</label> Der Wahltag muß
                                                 ein Sonntag oder ein anderer öffentlicher Ruhetag
-                                                sein. </p>
+                                                sein.</p>
                                           <p type="legal_section"><label>(3)</label> Wählbar ist
                                                 jeder Wahlberechtigte, der das 24. Lebensjahr
                                                 überschritten hat. </p>
                                           <p type="legal_section"><label>(4)</label> Die
                                                 Ausschließung vom Wahlrecht und von der Wähbarkeit
                                                 kann nur die Folge einer gerichtlichen Berurteilung
-                                                oder Verfügung sein. </p>
+                                                oder Verfügung sein.</p>
                                     </div>
                                     <div type="article">
-                                          <head>Artikel 20. </head>
+                                          <head>Artikel 20.</head>
                                           <p type="legal_section"><label>(1)</label> Die
                                                 Gesetzgebungsperiode des Nationalrates dauert vier
                                                 Jahre, vomTage seines Zusammentrittes an gerechnet.
@@ -745,7 +728,7 @@
                                     </div>
                                     <div type="article">
                                           <head>Artikel 22.</head>
-                                          <p type="legal_section"> Vor Ablauf der
+                                          <p type="legal_section">Vor Ablauf der
                                                 Gesetzgebungsperiode kann der Nationalrat durch
                                                 einfaches Gesetz seine Auflösung beschließen. Auch
                                                 in diesem Falle dauert die Gesetzgebungsperiode bis
@@ -753,10 +736,10 @@
                                                 Nationalrates.</p>
                                     </div>
                                     <div type="article">
-                                          <head>Artikel 23. </head>
+                                          <head>Artikel 23.</head>
                                           <p type="legal_section"><label>(1)</label> Der Nationalrat
                                                 wählt aus seiner Mitte einen Präsidenten und zwei
-                                                Vizepräsidenten. </p>
+                                                Vizepräsidenten.</p>
                                           <p type="legal_section"><label>(2)</label> Die
                                                 Geschäftsführung des Nationalrates erfolgt auf Grund
                                                 eines besonderen Gesetzes und einer im Rahmen dieses
@@ -764,60 +747,47 @@
                                                 autonomen Geschäftsordnung. Das Gesetz über die
                                                 Geschäftsführung kann nur bei Anwesenheit der Hälfte
                                                 der Mitglieder und mit einer Mehrheit von zwei
-                                                Dritteln der abgegebenen Stimmen beschlossen werden.
-                                          </p>
-                                    </div>
-                                    <div type="article">
-                                          <head>Artikel 23. </head>
-                                          <p type="legal_section"><label>(1)</label> Der Nationalrat
-                                                wählt aus seiner Mitte einen Präsidenten und zwei
-                                                Vizepräsidenten. </p>
-                                          <p type="legal_section"><label>(2)</label> Die
-                                                Geschäftsführung des Nationalrates erfolgt auf Grund
-                                                eines besonderen Gesetzes und einer im Rahmen dieses
-                                                Gesetzes vom Nationalrate zu beschließenden
-                                                autonomen Geschäftsordnung. Das Gesetz über die
-                                                Geschäftsführung kann nur bei Anwesenheit der Hälfte
-                                                der Mitglieder und mit einer Mehrheit von zwei
-                                                Dritteln der abgegebenen Stimmen beschlossen werden.
-                                          </p>
+                                                Dritteln der abgegebenen Stimmen beschlossen
+                                                werden.</p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 24.</head>
                                           <p type="legal_section"><label>(1)</label> Die Sitzungen
-                                                des Nationalrates sind öffentlich. </p>
+                                                des Nationalrates sind öffentlich.</p>
                                           <p type="legal_section"><label>(2)</label> Dem Hause steht
                                                 das Recht zu, ausnahmsweise die Öffentlichkeit
                                                 auszuschließen, wenn es vom Vorsitzenden oder einem
                                                 Fünftel der anwesenden Mitglieder verlangt und vom
-                                                Hause nach Entfernung der Zuhörer beschlossen wird.
-                                          </p>
+                                                Hause nach Entfernung der Zuhörer beschlossen
+                                                wird.</p>
                                     </div>
                                     <div type="article">
-                                          <head>Artikel 25. </head>
+                                          <head>Artikel 25.</head>
                                           <p type="legal_section">Wahrheitsgetreue Berichte über die
                                                 Verhandlungen in den öffentlichen Sitzungen des
                                                 Nationalrates und seiner Ausschüsse bleiben von
-                                                jeder Verantwortung frei.  </p>
+                                                jeder Verantwortung frei. </p>
                                     </div>
                               </div>
                               <div type="section">
                                     <head>B. Der Bundesrat.</head>
                                     <div type="article">
-                                          <head>Artikel 26. </head>
+                                          <head>Artikel 26.</head>
                                           <p type="legal_section"><label>(1)</label> Im Bundesrate
                                                 sind die Länder im Verhältnis ihrer Einwohnerzahl
-                                                gemäß den folgenden Bestimmungen vertreten.<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><fw type="pageNum">3</fw></p>
-                                          <p type="legal_section"><label>(2)</label> Das Land mit
-                                                der größten Einwohnerzahl entsendet 12 Mitglieder,
-                                                jedes andere Land so viele Mitglieder, als dem
-                                                Verhältnisse seiner Einwohnerzahl zur
-                                                erstangeführten Einwohnerzahl entspricht, wobei
-                                                Reste über die Hälfte der Verhältniszahl als voll
-                                                gelten. Jedem Lande gebührt jedoch eine Vertretung
-                                                von wenigstens drei Mitgliedern. </p>
+                                                gemäß den folgenden Bestimmungen vertreten.</p>
+                                          <p type="legal_section"><label><pb facs="#facs_4" n="4"
+                                                  xml:id="img_0004" break="yes"/><fw type="pageNum"
+                                                  >3</fw>(2)</label> Das Land mit der größten
+                                                Einwohnerzahl entsendet 12 Mitglieder, jedes andere
+                                                Land so viele Mitglieder, als dem Verhältnisse
+                                                seiner Einwohnerzahl zur erstangeführten
+                                                Einwohnerzahl entspricht, wobei Reste über die
+                                                Hälfte der Verhältniszahl als voll gelten. Jedem
+                                                Lande gebührt jedoch eine Vertretung von wenigstens
+                                                drei Mitgliedern.</p>
                                           <p type="legal_section"><label>(3)</label> Für jedes
-                                                Mitglied wird ein Ersatzmann bestellt. </p>
+                                                Mitglied wird ein Ersatzmann bestellt.</p>
                                           <p type="legal_section"><label>(4)</label> Die Mitglieder
                                                 des Bundesrates und deren Ersatzmänner werden von
                                                 den Landtagen für die Dauer ihrer
@@ -831,7 +801,7 @@
                                                 mehrerer Parteien entscheidet das Los. </p>
                                           <p type="legal_section"><label>(5)</label> In den
                                                 Bundesrat kann nur gewählt werden, wer zum Landtage
-                                                wählbar ist. </p>
+                                                wählbar ist.</p>
                                           <p type="legal_section"><label>(6)</label> Nach Ablauf der
                                                 Gesetzgebungsperiode eines Landtages oder nach
                                                 seiner Auflösung bleiben die von ihm delegierten
@@ -850,7 +820,7 @@
                                           </p>
                                     </div>
                                     <div type="article">
-                                          <head>Artikel 27. </head>
+                                          <head>Artikel 27.</head>
                                           <p type="legal_section"><label>(1)</label> Der Vorsitz des
                                                 Bundesrates fällt abwechselnd auf ein anderes Land
                                                 in alphabetischer Reihenfolge. </p>
@@ -862,56 +832,56 @@
                                                 gibt sich seine Geschäftsordnung durch Beschluß, der
                                                 nur bei Anwesenheit der Hälfte der Mitglieder mit
                                                 Zweidrittelmehrheit gefaßt werden kann. </p>
-                                          <p type="legal_section"><label>4</label></p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 28.</head>
                                           <p type="legal_section"><label>(1)</label> Der Bundesrat
                                                 faßt seine Beschlüsse mit Stimmenmehrheit der
-                                                Anwesenden. </p>
+                                                Anwesenden.</p>
                                           <p type="legal_section"><label>2)</label> Die Sitzungen
                                                 des Bundesrates sind öffentlich. Die Öffentlichkeit
                                                 kann jedoch gemäß den Bestimmungen der
                                                 Geschäftsordnung durch Beschluß aufgehoben werden.
                                                 Die Bestimmungen des Artikels 25 gelten auch für
                                                 öffentliche Sitzungen des Bundesrates und seiner
-                                                Ausschüsse. </p>
+                                                Ausschüsse.</p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 29.</head>
-                                          <p type="legal_section">(Artikel 29 fällt aus.) </p>
+                                          <p type="legal_section">(Artikel 29 fällt aus.)</p>
                                     </div>
                               </div>
                               <div type="section">
                                     <head>C. Die Bundesversammlung.</head>
                                     <div type="article">
-                                          <head> Artikel 29 a.</head>
+                                          <head>Artikel 29 a.</head>
                                           <p type="legal_section"><label>(1)</label> Nationalrat und
                                                 Bundesrat treten als Bundesversammlung in
                                                 gemeinsamer öffentlicher Sitzung zur Wahl des
                                                 Bundespräsidenten und zu dessen Angelobung, dann zur
                                                 Beschlußfassung über eine Kriegserklärung am Sitze
-                                                des Nationalrates zusammen. </p>
+                                                des Nationalrates zusammen.</p>
                                           <p type="legal_section"><label>(2)</label> Jede der beiden
                                                 Körperschaften kann den Gegenstand der Abstimmung
-                                                vorher auch gesondert beraten. </p>
+                                                vorher auch gesondert beraten.</p>
                                           <p type="legal_section"><label>(3)</label> Die Einberufung
                                                 der Bundesversammlung erfolgt durch den
                                                 Bundespräsidenten. Der Vorsitz wird abwechselnd vom
                                                 Präsidenten des Nationatrates und vom Vorsitzenden
                                                 des Bundesrates, das erste Mal von jenem, geführt. </p>
-                                          <p type="legal_section"><label>(4)</label>In der
+                                          <p type="legal_section"><label>(4)</label> In der
                                                 Bundesversammlung findet die Geschäftsordnung des
-                                                Nationalrates sinngemäß Anwendung. </p>
+                                                Nationalrates sinngemäß Anwendung.</p>
                                           <p type="legal_section"><label>(5)</label> Die
                                                 Bestimmungen des Artikels 25 gelten auch für die
-                                                Sitzungen der Bundesversammlung. </p>
+                                                Sitzungen der Bundesversammlung.</p>
                                     </div>
                                     <div type="article">
-                                          <head>Artikel 29 b. </head>
+                                          <head>Artikel 29 b.</head>
                                           <p type="legal_section"><label>(1)</label> Die Beschlüsse
                                                 der Bundesversammlung werden von ihrem Vorsitzenden
-                                                beurkundet und vom Bundeskanzler gegengezeichnet. </p>
+                                                beurkundet und vom Bundeskanzler
+                                                gegengezeichnet.</p>
                                           <p type="legal_section"><label>(2)</label> Die amtliche
                                                 Kundmachung liegt dem Bundeskanzler ob.</p>
                                     </div>
@@ -925,27 +895,27 @@
                                                 entweder als Anträge seiner Mitglieder oder als
                                                 Vorlagen der Bundesregierung. Der Bundesrat kann im
                                                 Wege der Bundesregierung Gesetzesanträge im
-                                                Nationalrate stellen. </p>
+                                                Nationalrate stellen.</p>
                                           <p type="legal_section"><label>(2) </label> Jeder von
                                                 300.000 Stimmberechtigten oder von je der Hälfte der
                                                 Stimmberechtigten dreier Länder gestellte Antrag
                                                 (Volksbegehren) ist von der Bundesregierung dem
                                                 Nationalrat zur geschäftsordnungsmäßigen Behandlung
                                                 vorzulegen. Das Volksbegehren muß in Form eines
-                                                Gesetzentwurfes gestellt werden. </p>
+                                                Gesetzentwurfes gestellt werden.</p>
                                     </div>
                                     <div type="article">
-                                          <head>Artikel 31. </head>
+                                          <head>Artikel 31.</head>
                                           <p type="legal_section"><label>(1)</label> Zu einem
                                                 Beschlusse des Nationalrates ist die Anwesenheit von
                                                 mindestens einem Drittel der Mitglieder und die
                                                 unbedingte Mehrheit der abgegebenen Stimmen
-                                                erforderlich. </p>
+                                                erforderlich.</p>
                                           <p type="legal_section"><label>(2)</label> Ein
                                                 Verfassungsgesetz kann jedoch nur in Anwesenheit von
                                                 mindestens der Hälfte aller Mitglieder und mit einer
                                                 Mehrheit von zwei Dritteln aller abgegebenen Stimmen
-                                                beschlossen werden. </p>
+                                                beschlossen werden.</p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 32.</head>
@@ -956,11 +926,11 @@
                                                 ist nach Beendigung des Verfahrens nach Artikel 38,
                                                 jedoch vor der Beurkundung durch den
                                                 Bundespräsidenten, einer Abstimmung des gesamten
-                                                Bundesvolkes zu unterziehen. </p>
+                                                Bundesvolkes zu unterziehen.</p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 33.</head>
-                                          <p type="legal_section"> Einer Volksabstimmung ist ferner
+                                          <p type="legal_section">Einer Volksabstimmung ist ferner
                                                 jeder Gesetzesbeschluß des Nationalrates vor seiner
                                                 Beurkundung durch den Bundespräsidenten zu
                                                 unterziehen, wenn der Nationalrat es beschließt oder
@@ -971,9 +941,9 @@
                                           <head>Artikel 34.</head>
                                           <p type="legal_section"><label>(1)</label> In der
                                                 Volksabstimmung entscheidet die unbedingte Mehrheit
-                                                der gültig abgegebenen Stimmen. </p>
-                                          <p type="legal_section"><label>(2)</label>Das Ergebnis der
-                                                Volksabstimmung ist amtlich zu verlautbaren. </p>
+                                                der gültig abgegebenen Stimmen.</p>
+                                          <p type="legal_section"><label>(2)</label> Das Ergebnis
+                                                der Volksabstimmung ist amtlich zu verlautbaren.</p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 35 und 36.</head>
@@ -985,16 +955,16 @@
                                           <p type="legal_section"><label>(1)</label> Das Verfahren
                                                 für das Volksbegehren und die Volksabstimmung wird
                                                 durch Bundesgesetz geregelt.</p>
-                                          <p type="legal_section"><label>(2) </label>Stimmberechtigt
-                                                ist jeder zum Nationalrat wahlberechtigte
-                                                Bundesbürger.</p>
-                                          <p type="legal_section"><label>(3) </label>Der
-                                                Bundespräsident ordnet die Volksabstimmung an. </p>
+                                          <p type="legal_section"><label>(2) </label>
+                                                Stimmberechtigt ist jeder zum Nationalrat
+                                                wahlberechtigte Bundesbürger.</p>
+                                          <p type="legal_section"><label>(3) </label> Der
+                                                Bundespräsident ordnet die Volksabstimmung an.</p>
                                     </div>
                                     <div type="article">
                                           <head>Artikel 38.</head>
                                           <p type="legal_section">
-                                                <label>(1) </label>Jeder Gesetzesbeschluß des
+                                                <label>(1) </label> Jeder Gesetzesbeschluß des
                                                 Nationalrates ist unverzüglich durch dessen
                                                 Präsidenten dem Bundeskanzler zu übermitteln, der
                                                 ihn sofort dem Bundesrate bekanntzugeben hat.</p>
@@ -1003,12 +973,12 @@
                                                 Artikel anderes bestimmt ist, nur dann beurkundet
                                                 und kundgemacht werden, wenn der Bundesrat gegen
                                                 diesen Beschluß keinen mit Gründen versehenen
-                                                Einspruch erhoben hat. </p>
-                                          <p type="legal_section"><label>(3)</label>Dieser Einspruch
-                                                muß im Wege des Bundeskanzlers dem Nationalrate
-                                                innerhalb acht Wochen nach Einlangen des
-                                                Gesetzesbeschlusses beim Bundesrate schriftlich
-                                                mitgeteilt werden. </p>
+                                                Einspruch erhoben hat.</p>
+                                          <p type="legal_section"><label>(3)</label> Dieser
+                                                Einspruch muß im Wege des Bundeskanzlers dem
+                                                Nationalrate innerhalb acht Wochen nach Einlangen
+                                                des Gesetzesbeschlusses beim Bundesrate schriftlich
+                                                mitgeteilt werden.</p>
                                           <p type="legal_section"><label>(4)</label> Wiederholt der
                                                 Nationalrat seinen ursprünglichen Beschluß, so ist
                                                 dieser zu beurkunden und kundzumachen. Beschließt
@@ -1016,7 +986,7 @@
                                                 wird innerhalb der im Absatz 2 festgesetzten Frist
                                                 kein mit Begründung versehener Einspruch erhoben, so
                                                 ist der Gesetzesbeschluß zu beurkunden und
-                                                kundzumachen. </p>
+                                                kundzumachen.</p>
                                           <p type="legal_section"><label>(5)</label> Das Gesetz über
                                                 die Geschäftsführung des Nationalrates, das Gesetz
                                                 über die Auflösung des Nationalrates, die
@@ -1028,32 +998,37 @@
                                     </div>
                                     <div type="article">
                                           <head>Artikel 39.</head>
-                                          <p type="legal_section">(Artikel 39 fällt aus.) </p>
+                                          <p type="legal_section">(Artikel 39 fällt aus.)</p>
                                     </div>
                                     <div type="article">
-                                          <head>Artikel 40. </head>
-                                          <p type="legal_section"><label>(1) </label>Das
+                                          <head>Artikel 40.</head>
+                                          <p type="legal_section"><label>(1)</label> Das
                                                 verfassungsmäßige Zustandekommen der Bundesgesetze
                                                 sowie der im Artikel 38, Absatz 5, erwähnten
                                                 Beschlüsse des Nationalrates wird durch die
                                                 Unterschrift des Bundespräsidenten beurkundet.</p>
                                           <p type="legal_section"><label>(2)</label> Die Vorlage zur
-                                                Beurkundung erfolgt durch den Bundeskanzler. </p>
+                                                Beurkundung erfolgt durch den Bundeskanzler.</p>
                                           <p type="legal_section"><label>(3)</label> Die Beurkundung
                                                 ist vom Bundeskanzler und von den zuständigen
-                                                Bundesministern gegenzuzeichnen. </p>
+                                                Bundesministern gegenzuzeichnen<choice>
+                                                  <sic/>
+                                                  <corr>.</corr>
+                                                </choice></p>
                                     </div>
                                     <div type="article">
-                                          <head>Artikel 41. </head>
-                                          <p type="legal_section">Die Kundmachung der Bundesgesetze
-                                                sowie der in Artikel 42a bezeichneten Staatsverträge
-                                                erfolgt mit Berufung auf den Beschluß des
-                                                Nationalrates, die Kundmachung eines Bundesgestzes,
-                                                das auf einer Volksabstimmung beruht, mit Berufung
-                                                auf das Ergebnis der Volksabstimmung.</p>
+                                          <head>Artikel 41.</head>
+                                          <p type="legal_section">Die Kundmachung der Bundesgesetze,
+                                                der in Artikel 38, Absatz 5,erwähnten Beschlüsse des
+                                                Nationalrates sowie der in Artikel 42 a bezeichneten
+                                                Staatsverträge erfolgt mit Berufung auf den Beschluß
+                                                des Nationalrates, die Kundmachung eines
+                                                Bundesgestzes, das auf einer Volksabstimmung beruht,
+                                                mit Berufung auf das Ergebnis der
+                                                Volksabstimmung.</p>
                                     </div>
                                     <div type="article">
-                                          <head>Artikel 42. </head>
+                                          <head>Artikel 42.</head>
                                           <p type="legal_section"><label>(1)</label> Die Kundmachung
                                                 der in Artikel 41 aufgezählten Bundesgesetze,
                                                 Beschlüsse des Nationalrates und Staatsverträge ist
@@ -1077,24 +1052,26 @@
                                           <head>Artikel 42 a.</head>
                                           <p type="legal_section"><label>(1)</label> Alle
                                                 politischen Staatsverträge, andere nur, sofern sie
-                                                gesetzändernden Inhalt haben, bedürfen zu ihrer
-                                                Güligkeit der Genehmigung durch den Nationalrat. </p>
+                                                gesetzesändernden Inhalt haben, bedürfen zu ihrer
+                                                Güligkeit der Genehmigung durch den Nationalrat.</p>
                                           <p type="legal_section"><label>(2)</label> Auf Beschlüsse
                                                 des Nationalrates über die Genehmigung von
                                                 Staatsverträgen finden die Bestimmungen des Artikels
-                                                38, Absatz 1 bis 4, sinngemäß Anwendung. </p>
+                                                38, Absatz 1 bis 4, sinngemäß Anwendung.</p>
                                     </div>
                                     <div type="article">
-                                          <head>Artikel 42b.</head>
-                                          <p type="legal_section">Dem Nationalrat ist spätestens
-                                                acht Wochen vor Ablauf des Finanzjahres von der
-                                                Bundesregierung ein Vorschlag der Einnahmen und
-                                                Ausgaben des Bundes für das folgende Finanzjahr
-                                                vorzulegen. </p>
+                                          <head>Artikel 42 b.</head>
+                                          <p type="legal_section"><label>(1)</label> Dem Nationalrat
+                                                ist spätestens acht Wochen vor Ablauf des
+                                                Finanzjahres von der Bundesregierung ein Vorschlag
+                                                der Einnahmen und Ausgaben des Bundes für das
+                                                folgende Finanzjahr vorzulegen.</p>
+                                          <p type="legal_section"><label>(2)</label> Die Bewilligung
+                                                des Bundesvoranschlages erfolgt in Gesetzesform.</p>
                                     </div>
                                     <div type="article">
-                                          <head>Artikel 42c.</head>
-                                          <p type="legal_section">Der Nationatrat wirkt an der
+                                          <head>Artikel 42 c.</head>
+                                          <p type="legal_section">Der Nationalrat wirkt an der
                                                 Festsetzung von Eisenbahntarifen, Post-,
                                                 Telegraphen- und Fernsprechgebühren und Preisen der
                                                 Monopolgegenstände sowie von Bezügen der in
@@ -1107,50 +1084,52 @@
                                     <head>F. Stellung der Mitglieder des Nationalrates und des
                                           Bundesrates.</head>
                                     <div type="article">
-                                          <head>Artikel 43. </head>
+                                          <head>Artikel 43.</head>
                                           <p type="legal_section"><label>(1)</label> Die Mitglieder
                                                 des Nationalrates können wegen der in Ausübung
                                                 dieses Berufes geschehenen Abstimmungen niemals,
                                                 wegen der in diesem Berufe gemachten Äußerungen nur
-                                                vom Nationalrate verantwortlich gemacht werden. </p>
+                                                vom Nationalrate verantwortlich gemacht werden.</p>
                                           <p type="legal_section"><label>(2)</label> Kein Mitglied
                                                 des Nationalrates darf während der
-                                                Gesetzgebungsperiode wegen einer srafbaren Handlung
-                                                – den Fall der Ergreifung auf frischer Tat bei
-                                                Verübung eines Verbrechens ausgenommen – ohne
+                                                Gesetzgebungsperiode wegen einer strafbaren Handlung
+                                                — den Fall der Ergreifung auf frischer Tat bei
+                                                Verübung eines Verbrechens ausgenommen — ohne
                                                 Zustimmung des Nationalrates verhaftet oder
-                                                behördlich verfolgt werden. </p>
+                                                behördlich verfolgt werden.</p>
                                           <p type="legal_section"><label>(3)</label> Im Falle der
                                                 Ergreifung auf frischer Tat hat die Behörde dem
                                                 Präsidenten des Nationalrates sogleich die
-                                                geschehene Verhaftung bekanntzugeben. </p>
+                                                geschehene Verhaftung bekanntzugeben.</p>
                                           <p type="legal_section"><label>(4)</label> Wenn es der
                                                 Nationalrat verlangt, muß der Verhaft aufgehoben
                                                 oder die Verfolgung auf die Dauer der
-                                                Gesetzgebungsperiode aufgeschoben werden. </p>
+                                                Gesetzgebungsperiode aufgeschoben werden.</p>
                                           <p type="legal_section"><label>(5)</label> Die Immunität
                                                 der Organe des Nationalrates, deren Funktion über
                                                 die Gesetzgebungsperiode hinausgeht, bleibt für die
-                                                Dauer dieser Funktion bestehen. </p>
+                                                Dauer dieser Funktion bestehen.</p>
                                     </div>
                                     <div type="article">
-                                          <head>Artikel 44. </head>
-                                          <p type="legal_section"> Die Mitglieder des Bundesrates
+                                          <head>Artikel 44.</head>
+                                          <p type="legal_section">Die Mitglieder des Bundesrates
                                                 genießen für diese Funktion während deren ganzen
                                                 Dauer die Immunität von Mitgliedern des Landtages,
                                                 der sie entsendet hat.</p>
                                     </div>
                                     <div type="article">
-                                          <head>Artikel 45. </head>
+                                          <head>Artikel 45.</head>
                                           <p type="legal_section"><label>(1)</label> Niemand kann
                                                 gleichzeitig dem Nationalrat und dem Bundesrat
                                                 angehören.</p>
-                                          <p type="legal_section"><pb facs="#facs_5" n="5"
+                                          <p type="legal_section"><label><pb facs="#facs_5" n="5"
                                                   xml:id="img_0005" break="yes"/><fw type="pageNum"
-                                                  >4</fw><label>(2)</label> Öffentliche Angestellte
-                                                und Funktionäre einschließlich der Angehörigen des
-                                                Bundesheeres bedürfen zur Ausübung eines Mandates im
-                                                Nationalrat oder im Bundesrate keines Urlaubes.</p>
+                                                  >4</fw>(2)</label>
+                                                <?oxy_comment_start author="atkinson.j" timestamp="20260507T195048+0200" comment="Korr. bis hier: Art. 45, § 2,  S. 4."?>Öffentliche
+                                                Angestellte und Funktionäre einschließlich der
+                                                Angehörigen des Bundesheeres bedürfen zur Ausübung
+                                                eines Mandates im Nationalrat oder im Bundesrate
+                                                keines Urlaubes.<?oxy_comment_end?></p>
                                           <p type="legal_section"><label>(3)</label> Wenn sich die
                                                 im Absatz 2 bezeichneten Personen um Mandate im
                                                 Nationalrat bewerben, ist ihnen die dazu
@@ -1827,7 +1806,7 @@
                                     <p type="legal_section"><label>(3)</label> Die Errichtung von
                                           eigenen Bundesbehörden für andere als die im Absatze 2
                                           bezeichneten An<pb facs="#facs_7" n="7" xml:id="img_0007"
-                                                break="no"/><fw type="pageNum">6</fw>gelgenheiten
+                                                break="no"/><fw type="pageNum">6</fw>gelegenheiten
                                           kann nur mit Zustimmung der beteiligten Länder erfolgen. </p>
                                     <p type="legal_section"><label>(4)</label> In den
                                           Angelegenheiten der mittelbaren Bundesverwaltung sind die
