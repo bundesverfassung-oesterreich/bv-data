@@ -19,7 +19,7 @@ jobs:
       GITHUB_USER_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
     steps:
     - name: Perform Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
     - name: prepare folders
       run: |
         mkdir -p data/editions
@@ -27,7 +27,7 @@ jobs:
     - name: fetch data
       run: |  
         ./shellscripts/fetch_tei_data.sh
-    - uses: stefanzweifel/git-auto-commit-action@v5
+    - uses: stefanzweifel/git-auto-commit-action@v7
       with:
         commit_message: fetched data from working-data & transkribus-export
     - name: trigger fetch-wf in bv-static
