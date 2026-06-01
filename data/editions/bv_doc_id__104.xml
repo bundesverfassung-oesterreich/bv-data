@@ -105,8 +105,10 @@
             <date notBefore-iso="1920-09-30" notAfter-iso="1920-09-30"> 30. September 1920 </date>
          </creation>
       </profileDesc>
-      <revisionDesc status="created">
+      <revisionDesc status="done">
          <change when="2026-04-27" who="#cfh">document automatically created</change>
+         <change when="2026-06-01" who="#n_zügel">Gegengelesen auf Transkribus</change>
+         <change when="2026-06-01" who="#e_kordt">Strukturierung abgeschlossen</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -2509,7 +2511,7 @@
                dem deutschen Südtirol und aus Nordtirol werden immer daran festhalten, daß diese
                beiden Teile zusammengehören, und sie werden mit allen Mitteln daran arbeiten, daß
                diese Vereinigung wieder erfolgt, nicht bloß im Interesse des Landes, nicht bloß im
-               Inte[]resse des Staates, sondern im Interesse jenes Staates selbst, der uns dieses
+               Interesse des Staates, sondern im Interesse jenes Staates selbst, der uns dieses
                schöne Gebiet entrissen hat.</p>
             <p>Ich möchte jetzt über den Weg, auf dem diese Verfassung nach der Auffassung der
                Mehrheit des Tiroler Landtages zustande kommt, einiges vorbringen. In dem Berichte,
@@ -2626,7 +2628,7 @@
                Behandlung des Gegenstandes keine Sache der Landeskompetenz, sondern eine eminente
                Angelegenheit der Staatsgesetzgebung selbst ist." Und weiter heißt es: „Der Ausschuß
                konnte sich aber weiters der Tatsache nicht verschließen, daß eine länderweise, im
-               Wesen nicht einheitlich gehaltene Behandl[]ung der Materie auch sozialpolitisch
+               Wesen nicht einheitlich gehaltene Behandlung der Materie auch sozialpolitisch
                insofern höchst bedenklich werden müßte, als diesfalls ein Abströmen der
                bodenhungrigen Bevölkerungsschichten in das Land der günstigsten Siedlungsbedingungen
                unvermeidlich wäre und auch auf dem Gebiete der Administative die unbedingt
@@ -2639,20 +2641,21 @@
                der Exekutive der Staatsregierung zu empfehlen sei. In dieser selben Sitzung vom 31.
                Mai erklärte der christlichsoziale Abgeordnete, Berichterstatter Buchinger
                   <emph>(liest)</emph>:</p>
-            <quote/>
-            <p>„Das Wiederbesiedelungsgesetz ist weiters auch eine Neuregelung der
-               Rechtsverhältnisse von Grund und Boden und ein Enteignungsgesetz, daher ist es
-               unbedingt nötig, daß es in die Kompetenz der Staatsregierung komme. Ich bin mir dabei
-               wohl bewußt, daß die Landeskultur eine Angelegenheit der einzelnen Länder sein soll,
-               doch hat darüber noch nie eine genaue Feststellung stattgefunden. Ein Rahmengesetz
-               als solches kann es unter gar keinen Umständen sein. Was würde uns sonst in Zukunft
-               passieren? Daß so manche Landesregierungen und Landtage die diesbezüglichen Gesetze
-               in einem bedeutend späteren Zeitpunkt erlassen würden.</p>
-            <p>Jedes Land als solches müßte sein eigenes Landesgesetz erlassen und die Folge wäre,
-               daß die einzelnen Gesetze ganz und gar verschieden wären — manche Länder würden
-               bedeutend günstigere Siedelungsverhältnisse haben, und es würde sich zeigen, daß ein
-               bedeutend größeres Abströmen der bodenhungrigen Bevölkerung in diese Gebiete
-               stattfinden würde."</p>
+            <quote>
+               <p>„Das Wiederbesiedelungsgesetz ist weiters auch eine Neuregelung der
+                  Rechtsverhältnisse von Grund und Boden und ein Enteignungsgesetz, daher ist es
+                  unbedingt nötig, daß es in die Kompetenz der Staatsregierung komme. Ich bin mir
+                  dabei wohl bewußt, daß die Landeskultur eine Angelegenheit der einzelnen Länder
+                  sein soll, doch hat darüber noch nie eine genaue Feststellung stattgefunden. Ein
+                  Rahmengesetz als solches kann es unter gar keinen Umständen sein. Was würde uns
+                  sonst in Zukunft passieren? Daß so manche Landesregierungen und Landtage die
+                  diesbezüglichen Gesetze in einem bedeutend späteren Zeitpunkt erlassen würden.</p>
+               <p>Jedes Land als solches müßte sein eigenes Landesgesetz erlassen und die Folge
+                  wäre, daß die einzelnen Gesetze ganz und gar verschieden wären — manche Länder
+                  würden bedeutend günstigere Siedelungsverhältnisse haben, und es würde sich
+                  zeigen, daß ein bedeutend größeres Abströmen der bodenhungrigen Bevölkerung in
+                  diese Gebiete stattfinden würde."</p>
+            </quote>
             <p>Das, was die christlichsoziale Partei damals mit Entschiedenheit abgelehnt hatte,
                will sie nun heute in der Verfassung im entgegengesetzten Sinne festgelegt wissen.
                Ich möchte betonen, daß in einer Reihe von Fällen in dieser Nationalversammlung
@@ -3426,7 +3429,8 @@
                Angenommen.</p>
             <p>Der Artikel 50 ist arg verdruckt. Es heißt hier: „Die Kundmachung der Bundesgesetze
                und der .... usw." Der Artikel 50 hat richtig folgendermaßen zu lauten
-                  <emph>(liest)</emph>:</p><quote>
+                  <emph>(liest)</emph>:</p>
+            <quote>
                <p>„Die Bundesgesetze und die in Artikel 51 bezeichneten Staatsverträge sind vom
                   Bundeskanzler im Bundesgesetzblatte kundzumachen. Ihre verbindende Kraft
                   beginnt... usw“., wie es hier dann weiter steht.</p>
@@ -3438,7 +3442,8 @@
             <p>Ich bitte diejenigen Abgeordneten, die diesen Artikeln ihre Zustimmung geben wollen,
                sich von den Sitzen zu erheben. <emph>[(]Geschieht.)</emph> Angenommen.</p>
             <p>In Artikel 56 ist auch irrtümlich eine alte Textierung in diese Vorlage gekommen. Der
-               richtige Text des Artikeln 56 lautet <emph>(liest)</emph>:</p><quote>
+               richtige Text des Artikeln 56 lautet <emph>(liest)</emph>:</p>
+            <quote>
                <p>„An der Vollziehung des Bundes wirkt der Nationalrat auch durch den aus seiner
                   Mitte nach dem Grundsatze der Verhältniswahl gewählten Hauptausschuß in den durch
                   dieses Gesetz bestimmten Fällen mit. Dem Hauptausschuß liegt insbesondere die
@@ -3555,7 +3560,7 @@
             <p>Im Artikel 75 ist im dritten Absatz das Wort „gesamte“ zu streichen, so daß es heißt:
                „Die Bundesregierung", worunter immer die gesamte Bundesregierung zu verstehen
                ist.</p>
-               <p>Im Artikel 77 heißt es im Absatz 2 in einer früheren Auflage — vielleicht haben
+            <p>Im Artikel 77 heißt es im Absatz 2 in einer früheren Auflage — vielleicht haben
                manche Herren Abgeordneten diese in der Hand — „142“; in der letzten Auflage des
                Berichtes heißt es richtig „143".</p>
             <p>Im Artikel 78 soll es wieder im 2. Absatz statt „Wirkungskreis“ heißen
@@ -3598,7 +3603,8 @@
                   <emph>(Geschieht.)</emph> Angenommen.</p>
             <p>Wir kommen nunmehr zum vierten Hauptstück. Der Artikel 96 hat auch einige
                Druckfehler. Ich werde den ersten Absatz in der richtigen Fassung vorlesen
-                  <emph>(liest)</emph>:</p><quote>
+                  <emph>(liest)</emph>:</p>
+            <quote>
                <p>„Die Gesetzgebung der Länder wird von den Landtagen ausgeübt. Deren Mitglieder
                   werden auf Grund des gleichen, unmittelbaren, geheimen und persönlichen
                   Verhältniswahlrechtes aller nach den Landtagswahlordnungen wahlberechtigten
@@ -3632,7 +3638,8 @@
                aus."</p>
             <p>Im vierten Absatz sollen die Worte „durch den gestrichen werden und durch „vom“
                ersetzt werden. Ebenso in der dritten Zeile dieses Absatzes, so daß es heißt
-                  <emph>(liest)</emph>:</p><quote>
+                  <emph>(liest)</emph>:</p>
+            <quote>
                <p>„Der Landeshauptmann wird vom Bundespräsidenten, die anderen Mitglieder der
                   Landesregierung werden vom Landeshauptmann vor Antritt des Amtes auf die
                   Bundesverfassung angelobt.“</p>
@@ -3644,7 +3651,8 @@
                Bundesverfassungsgesetz" zu streichen und ist dafür zu setzen „verfassungsmäßig";
                nach dem Worte „unmittelbar" ist das Wort „durch" zu ersetzen durch das Wort „von“.
                Dieser Artikel 103 lautet in seinen ersten zwei Absätzen jetzt richtig
-                  <emph>(liest)</emph>:</p><quote>
+                  <emph>(liest)</emph>:</p>
+            <quote>
                <p>„(1) Im Bereiche der Länder üben die Vollziehung des Bundes, soweit nicht eigene
                   Bundesbehörden bestehen (unmittelbare Bundesverwaltung), der Landeshauptmann und
                   die ihm unterstellten Landesbehörden aus (mittelbare Bundesverwaltung).</p>
@@ -3705,8 +3713,8 @@
                Änderung nebst der Berichtigung einiger Druckfehler in diesem Texte vorzunehmen. In
                Artikel 151 ist der zweite Satz zu streichen, weil sich der Verfassungsausschuß dahin
                entschlossen hat, das ganze Übergangsgesetz als Verfassungsgesetz zu erklären.</p>
-               <p><emph>Präsident</emph>: Wünscht jemand das Wort? <emph>(Niemand meldet
-                  sich.)</emph> Es ist dies nicht der Fall. Wir schreiten zur Abstimmung.</p>
+            <p><emph>Präsident</emph>: Wünscht jemand das Wort? <emph>(Niemand meldet sich.)</emph>
+               Es ist dies nicht der Fall. Wir schreiten zur Abstimmung.</p>
             <p>Fünftes Hauptstück, Rechnungskontrolle des Bundes, Artikel 122! Im 3. Absatz ist vor
                dem Worte „insoweit" das Wort: „sind“ einzuschalten, dagegen ist in der nächsten
                Zeile das Wort „sind“ zu streichen. Der 3. Absatz würde also lauten: „Alle Urkunden
@@ -3847,7 +3855,7 @@
                bis dahin das Burgenland schon selbst einen Landtag haben und Delegierte in den
                Bundesrat entsenden, so käme dann das Burgenland, im anderen Falle das Land Kärnten
                daran.</p>
-               <p>Eine ähnliche Zeitbestimmung enthält § 24, der vom Bundespräsidenten handelt.</p>
+            <p>Eine ähnliche Zeitbestimmung enthält § 24, der vom Bundespräsidenten handelt.</p>
             <p>Die erste Sitzung der Bundesversammlung, das heißt die Wahlsitzung der
                Bundesversammlung wird am 28. Tage nach der ersten Sitzung des Nationalrates um 11
                Uhr vormittags im Parlamentsgebäude statthaben. An diesem Tage wird also der
@@ -3916,7 +3924,7 @@
                der Bund nicht berechtigt ist, eigene Bundesbehörden mit der Führung seiner Geschäfte
                auch in den Ländern zu betrauen. Welche das sind, haben wir im Artikel 103 des
                Bundes-Verfassungsgesetzes aufgeführt.</p>
-               <p>Im Punkte d wird dann erwähnt, daß die Angestellten jener Behörden, die vorläufig
+            <p>Im Punkte d wird dann erwähnt, daß die Angestellten jener Behörden, die vorläufig
                Bundesbehörden bleiben, selbverständlich Bundesangestellte sind, daß dasselbe aber
                auch gelten soll für den Bereich der allgemeinen politischen Verwaltung, welche
                sofort von den Ländern übernommen wird. Die Angestellten dieser allgemeinen
@@ -3947,12 +3955,14 @@
                im § 12 dieses Gesetzes in der Aufschrift die Worte „Absatz 3“ wegzulassen, weil es
                einen Absatz 3 im Bundesgesetze nicht mehr gibt. Wir haben ihn ja in unserer früheren
                Abstimmung gestrichen.</p>
-            <p>Dafür soll nun der § 12 folgenden Wortlaut haben <emph>(liest)</emph>:</p><quote>
+            <p>Dafür soll nun der § 12 folgenden Wortlaut haben <emph>(liest)</emph>:</p>
+            <quote>
                <p>„Das Burgenland wird als selbständiges und gleichberechtigtes Land in den Bund <pb
                      facs="#facs_53" n="53" xml:id="img_0053" break="yes"/><fw type="pageNum"
                      >3458</fw>aufgenommen, sobald es seinen Willen zum Ausdruck gebracht hat."</p>
             </quote>
-            <p>Der zweite Absatz hat zu lauten <emph>(liest)</emph>:</p><quote>
+            <p>Der zweite Absatz hat zu lauten <emph>(liest)</emph>:</p>
+            <quote>
                <p>„Die näheren Bestimmungen über die Stellung des Burgenlandes als selbständiges und
                   gleichberechtigtes Land im Bund werden durch ein besonderes Verfassungsgesetz des
                   Bundes festgesetzt.“</p>
@@ -3987,7 +3997,7 @@
                vorgenommen worden sind.</p>
             <p>Im § 1 würde es in der 7. Zeile heißen: „... sowie alle Gesetze und
                Vollzugsanweisungen (Verordnungen) ..."</p>
-               <p>Im § 2 würde es in der 4. Zeile statt „letztere" heißen „diese“.</p>
+            <p>Im § 2 würde es in der 4. Zeile statt „letztere" heißen „diese“.</p>
             <p>Im § 3, Absatz 2 ist gleichfalls ein Druckfehler zu bemerken. Das Wort „aber“ in der
                zweiten Zeile ist zu streichen und nach dem Worte "sind" in der 1. Zeile
                anzufügen.</p>
@@ -4018,7 +4028,8 @@
                Herr Abgeordnete Angerer beantragt hat, sich von den Sitzen zu erheben.
                   <emph>(Geschieht.)</emph> Angenommen.</p>
             <p>Demgemäß beantragt nun der Abgeordnete Angerer, daß der nunmehrige 2. Absatz lauten
-               soll:</p><quote>
+               soll:</p>
+            <quote>
                <p>„Die näheren Bestimmungen über die Stellung des Burgenlandes als selbständiges und
                   gleichberechtigtes Land im Bund werden durch ein besonderes Verfassungsgesetz des
                   Bundes festgesetzt.“</p>
@@ -4036,7 +4047,8 @@
                bitte jene Abgeordneten, welche auch diesen Worten zustimmen, sich von den Sitzen zu
                erheben. <emph>(Geschieht.)</emph> Angenommen.</p>
             <p>Zum § 13 liegt ein Minderheitsantrag vor, und zwar beantragt der Herr Abgeordnete
-               Fink, daß es im zweiten Absatz heißen soll <emph>(liest)</emph>:</p><quote>
+               Fink, daß es im zweiten Absatz heißen soll <emph>(liest)</emph>:</p>
+            <quote>
                <p>„Bestehende Verkehrsbeschränkungen, die nicht vom Staate ausgegangen sind, treten,
                   soferne sie nicht vom Staate genehmigt wurden oder vom Bunde nachträglich
                   genehmigt werden, spätestens mit 31. August 1922 außer Kraft.“</p>
@@ -4081,7 +4093,8 @@
                Wien an erster Stelle“.</p>
             <p>Ich bitte diejenigen Abgeordneten, die den §§ 21, 22, 23 ihre Zustimmung geben
                wollen, sich von den Sitzen zu erheben. <emph>(Geschieht.)</emph> Angenommen.</p>
-            <p>Im § 24, dritten Absatz, soll es richtig heißen <emph>(liest)</emph>:</p><quote>
+            <p>Im § 24, dritten Absatz, soll es richtig heißen <emph>(liest)</emph>:</p>
+            <quote>
                <p>„Bis zur Angelobung des Bundespräsidenten versieht der bisherige Präsident der
                   Konstituierenden Nationalversammlung alle dem Bundespräsidenten übertragenen
                   Funktionen."</p>
@@ -4133,7 +4146,7 @@
                Korrektur ihre Zustimmung geben, sich von den Sitzen zu erheben.
                   <emph>(Geschieht.)</emph> Gleichfalls mit der erforderlichen Zweidrittelmehrheit
                angenommen.</p>
-               <p>Damit ist das Gesetz in zweiter Lesung bei Anwesenheit der notwendigen Zahl der
+            <p>Damit ist das Gesetz in zweiter Lesung bei Anwesenheit der notwendigen Zahl der
                Mitglieder mit Zweidrittelmehrheit beschlossen.</p>
             <p>Die dritte Lesung der beiden Gesetze werde ich auf die Tagesordnung der morgigen
                Sitzung stellen, so daß wir erst morgen diese Arbeit werden endgültig beenden
@@ -4141,152 +4154,166 @@
             <p>Ich beabsichtige nun zum Schlusse der Sitzung zu schreiten und schlage als nächsten
                Sitzungstag vor, Freitag, den 1. Oktober, 10 Uhr vormittags, mit folgender
                Tagesordnung:</p>
-               <p>1. Dritte Lesung a) des
-                  Bundesverfassungsgesetzes, b) des Verfassungsgesetzes, betreffend den Übergang zur
-                  bundesstaatlichen Verfassung.
-               >2. Berichte des Ausschusses für soziale
-                  Verwaltung a) über die Vorlage der Staatsregierung
-               (988 der Beilagen), womit einige Bestimmungen
-                  des Invalidenentschädigungsgesetzes vom 25. April 1919, St. G. Bl. Nr. 245,
-                  abgeändert und ergänzt werden (997 der Beilagen). b) über die Vorlage der
-                  Staatsregierung </p>
-               <p type="legal_section"><label>(934</label> der Beilagen), betreffend das Gesetz über
-                  die Einstellung und Beschäftigung Kriegsbeschädigter
-                  (Invalidenbeschäftigungsgesetz) (1022 der Beilagen). </p>
-               <p type="legal_section"><label>3.</label> Bericht des Ausschusses für soziale
-                  Verwaltung über die Vorlage der Staatsregierung (987 der Beilagen), betreffend das
-                  [] das Gesetz zur Abänderung und Ergänzung des Gesetzes vom 24. März 1920, St. G.
-                  Bl. Nr. 153, über die Arbeitslosenversicherung </p>
-               <p type="legal_section"><label>(1000</label> der Beilagen). Bericht des Finanz- und
-                  Budgetausschusses über die Vorlage der Staatsregierung (999 der Beilagen),
-                  betreffend die Regelung von Ruhegenüssen der in der Zeit vom 1. Jänner bis 29.
-                  Februar 1920 in den Ruhestand versetzten Zivilstaatsbeamten, Staatslehrpersonen,
-                  Unterbeamten und Diener, welche in der Zeit vom </p>
-               <p type="legal_section"><label>1.</label> Jänner bis 29. Februar 1920 in der
-                  Aktivität gestorben oder in den Ruhestand versetzt worden sind (1019 der
-                  Beilagen). </p>
-               <p type="legal_section"><label>5.</label> Bericht des Ausschusses für soziale
-                  Verwaltung über den Antrag Forstner und Genossen (1003 der Beilagen), betreffend
-                     <pb facs="#facs_56" n="56" xml:id="img_0056" break="yes"/> 3461 </p>
-               <p type="legal_section">Änderung des Zahntechnikergesetzes (1020) der Beilagen). </p>
-               <p type="legal_section"><label>6.</label> Bericht des Ausschusses für soziale
-                  Verwaltung über den Antrag Tomschik, Pick und Genossen (1001 der Beilagen),
-                  betreffend Änderung des Gesetzes über die Arbeiterkammern (1023 der Beilagen). </p>
-               <p type="legal_section"><label>7.</label> Bericht des Finanz- und Budgetausschusses
-                  über die Vorlage der Staatsregierung (989 der Beilagen), betreffend das Gesetz
-                  über Kreditoperationen (1018 der Beilagen). </p>
-               <p type="legal_section"><label>8.</label> Bericht des Finanz- und Budgetausschusses
-                  über die Vorlagen der Staatsregierung (1016 und 1017 der Beilagen), womit die
-                  Ausscheidung der unter das Gesetz vom 25. Jänner 1914, R. G. Bl. Nr. 15
-                  (Dienstpragmatik), fallenden Postbediensteten (Beilage 1016) und Telegraphen- und
-                  Fernsprechbediensteten (Beilage 1017), aus diesem Gesetze vorgenommen wird
-                  (Entpragmatisierungsgesetz) (1028 der Beilagen). </p>
-               <p type="legal_section"><label>9.</label> Bericht des Finanz- und Budgetausschusses
-                  über die Vorlage der Staatsregierung (995 der Beilagen), womit der Artikel II des
-                  Gesetzes vom 15. Mai 1920, St. G. Bl. Nr. 227, abgeändert wird (3. Nachtrag zum
-                  Besoldungsübergangsgesetz (1029 der Beilagen). </p>
-               <p type="legal_section"><label>10.</label> Bericht des Finanz- und Budgetausschusses
-                  über die Vorlage der Staatsregierung (982 der Beilagen), betreffend das Gesetz
-                  über die begünstigte Versorgungsbehandlung der Hinterbliebenen nach im Dienste
-                  verunglückten Staatsangestellten (Unfallhinterbliebenennovelle) (1030 der
-                  Beilagen). </p>
-               <p type="legal_section"><label>11.</label> Mündlicher Bericht des Finanz- und
-                  Budgetausschusses über die Vorlage der Staatsregierung (998 der Beilagen),
-                  betreffend Teuerungszulagen für den Präsidenten des Verfassungsgerichtshofes,
-                  seinen Stellvertreter und die ständigen Referenten dieses Gerichtshofes (3.
-                  Verfassungsgerichtshofnovelle). </p>
-               <p type="legal_section"><label>12.</label> Bericht des Justizausschusses über die
-                  Vorlage der Staatsregierung (984 der Beilagen), betreffend die Rechtsanwalts- und
-                  Notarsgehilfen (1024 der Beilagen). </p>
-               <p type="legal_section"><label>13.</label> Bericht des Justizausschusses über die
-                  Vorlage der Staatsregierung (993 der Beilagen), betreffend die Durchführung der
-                  Grenzregelung auf Grund des Staatsvertrages von St. Germain. </p>
-               <p type="legal_section"><label>14.</label> Bericht des Finanz- und Budgetausschusses
-                  über die Vorlage der Staatsregierung (981 der Beilagen), betreffend das Gesetz
-                  über die Beitragsleistung des Staates zu dem Aufwand der autonomen Körperschaften
-                  für die Bezüge der aktiven und pensionierten Lehrpersonen der öffentlichen Volks-
-                  und Bürgerschulen sowie der Witwen und Waisen nach solchen Lehrpersonen für das
-                  Jahr 1920 (1026 der Beilagen). </p>
-               <p type="legal_section"><label>15.</label> Bericht des Ausschusses für Handel und
-                  Gewerbe, Industrie und Bauten über die Vorlage der Staatsregierung (996 der
-                  Beilagen), betreffend das Gesetz über die Ermächtigung der Regierung zur
-                  provisorischen Regelung der Handels- und Verkehrsbeziehungen mit auswärtigen
-                  Staaten </p>
-               <p type="legal_section"><label>(1031</label> der Beilagen). </p>
-               <p type="legal_section"><label>16.</label> Bericht des Ausschusses für Handel und
-                  Gewerbe, Industrie und Bauten über die Vorlage der Staatsregierung (907 der
-                  Beilagen), womit einige Bestimmungen des Gesetzes vom 4. April 1919, St. G. Bl.
-                  Nr. 220, über die Errichtung von Einigungsämtern für Streitigkeiten aus bestimmten
-                  Lieferungsverträgen abgeändert und ergänzt werden (1025 der Beilagen). </p>
-               <p type="legal_section"><label>17.</label> Bericht des Ausschusses für Land- und
-                  Forstwirtschaft über die Anträge des Abgeordneten Schneidmadl und Genossen,
-                  betreffend die Ablösung landwirtschaftlicher Pachtgründe (358 der Beilagen),
-                  Stocker und Genossen, betreffend Ablösung langjährig verpachteter Grundstücke (435
-                  der Beilagen) und Haueis und Genossen, betreffend die Enteignung von Pachtgründen </p>
-               <p type="legal_section"><label>(447</label> der Beilagen) (1021 der Beilagen). </p>
-               <p type="legal_section"><label>18.</label> Bericht des Ausschusses für Erziehung und
-                  Unterricht über die Anträge Th. Schlesinger, betreffend die Zulassung weiblicher
-                  Schüler zu den Unterrichtsanstalten aller Kategorien (211 der Beilagen) und Dr.
-                  Angerer, Pauly, betreffend die Errichtung und Ausgestaltung der
-                  Mädchenmittelschulen (309 der Beilagen) ( 699 der Beilagen). </p>
-               <p type="legal_section"><label>19.</label> Bericht des Ausschusses für Erziehung und
-                  Unterricht über den Antrag der Abgeordneten Frau Dr. Burjan und Genossen </p>
-               <p type="legal_section"><label>(196</label> der Beilagen), betreffend Schaffung
-                  weiblicher Referentenstellen im Staatsamt für Inneres und Unterricht (687 der
-                  Beilagen). Wird gegen meinen Vorschlag in bezug auf Tagesordnung, Tag und Stunde
-                  eine Einwendung <pb facs="#facs_57" n="57" xml:id="img_0057" break="yes"/> 3462 </p>
-               <p type="legal_section">erhoben? (Abgeordneter Dr. Mataja: Ich bitte ums Wort!) Der
-                  Herr Abgeordnete Dr. Mataja hat das Wort. Abgeordneter Dr. Mataja: Im Sinne des §
-                  34 a der Geschäftsordnung beantrage ich, auf die Tagesordnung der morgigen Sitzung
-                  als ersten Punkt den Bericht des Verfassungsausschusses über das
-                  Auslieferungsbegehren des Bezirksgerichtes Josefstadt gegen den Abgeordneten
-                  Skaret wegen Übertretung der Sicherheit der Ehre zu setzen, vorausgesetzt, daß
-                  dieser Bericht bis zum Beginn der morgigen Sitzung vorliegt. Präsident: Wie der
-                  Herr Abgeordnete selbst konstatiert, liegt ein solcher Bericht nicht vor ....
-                  Abgeordneter Dr. Mataja: Herr Präsident, es liegen schon Präzedenzfälle vor. Sie
-                  haben für den Fall der Fertigstellung des Berichtes schon der Parteien Rechnung
-                  tragen. Es steht auch dem Gegenstände auf die Tagesordnung einer nächsten Sitzung
-                  gesetzt und ich bitte, im vorliegenden Falle die Meinung des Hauses einzuholen.
-                  Präsident: Ich habe es gar nicht abgelehnt, sondern nur bemerkt, daß ein solcher
-                  Bericht nicht vorliegt. Es besteht aber selbstverständlich gar kein Hindernis, daß
-                  auch dieser Bericht, sobald eine Vereinbarung unter den Parteien geschlossen wird,
-                  ebenso wie die anderen Berichte, über die eine solche Vereinbarung unter den
-                  Parteien besteht, noch auf die Tagesordnung gesetzt wird. Ich habe heute eine
-                  Liste aller dieser Berichte bekommen, über die unter den Parteien Vereinbarungen
-                  getroffen worden sind, und habe gemäß einem Beschlusse des Hauptausschusses,
-                  wonach der Präsident ersucht wird, alle diese Berichte auf die Tagesordnung zu
-                  setzen, dies auch getan. Ich werde selbstverständlich, wenn mir gemeldet wird, daß
-                  auch darüber eine Vereinbarung getroffen ist, diesen Bericht ebenfalls auf die
-                  Tagesordnung setzen. Abgeordneter Dr. Mataja: Ich bitte, im Sinne des § 34a der
-                  Geschäftsordnung um die Abstimmung darüber. Es heißt da (liest): „Wird </p>
-               <p type="legal_section">eine Einwendung erhoben, so entscheidet das Haus ohne
-                  Debatte“. Das ist die Geschäftsordnung, die uns alle bindet. Präsident: Es ist mir
-                  sehr lieb, Herr Abgeordneter Dr. Mataja, daß Sie mich auf die Geschäftsordnung
-                  verweisen. Wenn Sie sie in die Hand nehmen werden, werden Sie sich selbst davon
-                  überzeugen, daß ich nach der Geschäftsordnung nicht anders vorgehen kann, als ich
-                  eben vorgehe. Ich kann den Bericht eines Ausschusses auf die Tagesordnung setzen,
-                  wenn der Bericht vorliegt. Ich kann aber, obwohl die Geschäftsordnung das nicht
-                  vorsieht und nicht gestattet, in dem Falle, wo keine Einwendung erhoben wird, also
-                  die Parteien es vereinbaren, nicht nach der Geschäftsordnung, sondern anders
-                  vorzugehen, auch anders vorgehen und einen Bericht, der nicht vorliegt, dennoch
-                  auf die Tagesordnung setzen. Wenn mir gemeldet wird, daß eine solche Vereinbarung
-                  darüber besteht, diesen noch nicht erstatteten Bericht auf die Tagesordnung zu
-                  setzen, werde ich selbstverständlich diesem Wunsch der Parteien Rechnung tragen.
-                  Es steht auch dem Herrn Abgeordneten frei, am Beginn der nächsten Sitzung, wenn
-                  der Bericht vorliegt, einen Antrag dahin zu stellen, die Tagesordnung durch diesen
-                  Gegenstand zu ergänzen. Zu einer Einwendung hat der Herr Abgeordnete Dr. Bauer das
-                  Wort. Abgeordneter Dr. Bauer: Ich möchte nur bemerken, daß der Verfassungsausschuß
-                  jetzt einberufen ist, sofort nach der Haussitzung zusammentreten wird, und daß
-                  falls ein Bericht vorliegt, von unserer Partei keine Einwendung erhoben werden
-                  wird, daß er auch morgen verhandelt wird. (Abgeordneter Dr. Mataja: Bitte sehr,
-                  das genügt mir!) Präsident: Ich bitte aber, meine Herren, dann morgen zu Beginn
-                  der Sitzung nicht zu vergessen, den Antrag auf Ergänzung der Tagesordnung zu
-                  stellen. Wird sonst noch eine Einwendung gegen Tag, Stunde und Tagesordnung
-                  erhoben? (Nach einer Pause:) Es ist dies nicht der Fall, sonach bleibt es bei
-                  meinem Vorschlage. Die Sitzung ist geschlossen. </p>
-               <p type="legal_section">Schluß der Sitzung: 6 Uhr 45 Minuten abends. Österreichische
-                  Staatsdruckerei. 45920 </p>
-            </div>
+            <list>
+               <item><label>1.</label>Dritte Lesung<list>
+                     <label>a)</label>
+                     <item>des Bundesverfassungsgesetzes</item>
+                     <label>b)</label>
+                     <item>des Verfassungsgesetzes, betreffend den Übergang zur bundesstaatlichen
+                        Verfassung.</item>
+                  </list></item>
+               <item><label>2.</label>Berichte des Ausschusses für soziale Verwaltung<list>
+                     <label>a)</label>
+                     <item>über die Vorlage der Staatsregierung (988 der Beilagen), womit einige
+                        Bestimmungen des Invalidenentschädigungsgesetzes vom 25. April 1919, St. G.
+                        Bl. Nr. 245, abgeändert und ergänzt werden <emph>(997 der
+                        Beilagen)</emph>.</item>
+                     <label>b)</label>
+                     <item>über die Vorlage der Staatsregierung (934 der Beilagen), betreffend das
+                        Gesetz über die Einstellung und Beschäftigung Kriegsbeschädigter
+                        (Invalidenbeschäftigungsgesetz) <emph>(1022 der Beilagen)</emph>.</item>
+                  </list></item>
+               <item><label>3.</label>Bericht des Ausschusses für soziale Verwaltung über die
+                  Vorlage der Staatsregierung (987 der Beilagen), betreffend das das Gesetz zur
+                  Abänderung und Ergänzung des Gesetzes vom 24. März 1920, St. G. Bl. Nr. 153, über
+                  die Arbeitslosenversicherung (1000 der Beilagen).</item>
+               <item><label>4.</label>Bericht des Finanz- und Budgetausschusses über die Vorlage der
+                  Staatsregierung (999 der Beilagen), betreffend die Regelung von Ruhegenüssen der
+                  in der Zeit vom 1. Jänner bis 29. Februar 1920 in den Ruhestand versetzten
+                  Zivilstaatsbeamten, Staatslehrpersonen, Unterbeamten und Diener, welche in der
+                  Zeit vom 1. Jänner bis 29. Februar 1920 in der Aktivität gestorben oder in den
+                  Ruhestand versetzt worden sind (1019 der Beilagen).</item>
+               <item><label>5.</label>Bericht des Ausschusses für soziale Verwaltung über den Antrag
+                  Forstner und Genossen (1003 der Beilagen), betreffend<pb facs="#facs_56" n="56"
+                     xml:id="img_0056" break="yes"/><fw type="pageNum">3461</fw>Änderung des
+                  Zahntechnikergesetzes <emph>(1020 der Beilagen)</emph>.</item>
+               <item><label>6.</label>Bericht des Ausschusses für soziale Verwaltung über den Antrag
+                  Tomschik, Pick und Genossen (1001 der Beilagen), betreffend Änderung des Gesetzes
+                  über die Arbeiterkammern <emph>(1023 der Beilagen)</emph>.</item>
+               <item><label>7.</label>Bericht des Finanz- und Budgetausschusses über die Vorlage der
+                  Staatsregierung (989 der Beilagen), betreffend das Gesetz über Kreditoperationen
+                     <emph>(1018 der Beilagen)</emph>.</item>
+               <item><label>8.</label>Bericht des Finanz- und Budgetausschusses über die Vorlagen
+                  der Staatsregierung (1016 und 1017 der Beilagen), womit die Ausscheidung der unter
+                  das Gesetz vom 25. Jänner 1914, R. G. Bl. Nr. 15 (Dienstpragmatik), fallenden
+                  Postbediensteten (Beilage 1016) und Telegraphen- und Fernsprechbediensteten
+                  (Beilage 1017), aus diesem Gesetze vorgenommen wird (Entpragmatisierungsgesetz)
+                  (1028 der Beilagen).</item>
+               <item><label>9.</label>Bericht des Finanz- und Budgetausschusses über die Vorlage der
+                  Staatsregierung (995 der Beilagen), womit der Artikel II des Gesetzes vom 15. Mai
+                  1920, St. G. Bl. Nr. 227, abgeändert wird (3. Nachtrag zum
+                  Besoldungsübergangsgesetz <emph>(1029 der Beilagen)</emph>.</item>
+               <item><label>10.</label>Bericht des Finanz- und Budgetausschusses über die Vorlage
+                  der Staatsregierung (982 der Beilagen), betreffend das Gesetz über die begünstigte
+                  Versorgungsbehandlung der Hinterbliebenen nach im Dienste verunglückten
+                  Staatsangestellten (Unfallhinterbliebenennovelle) (1030 der Beilagen).</item>
+               <item><label>11.</label>Mündlicher Bericht des Finanz- und Budgetausschusses über die
+                  Vorlage der Staatsregierung (998 der Beilagen), betreffend Teuerungszulagen für
+                  den Präsidenten des Verfassungsgerichtshofes, seinen Stellvertreter und die
+                  ständigen Referenten dieses Gerichtshofes (3.
+                  Verfassungsgerichtshofnovelle).</item>
+               <item><label>12.</label>Mündlicher Bericht des Finanz- und Budgetausschusses über die
+                  Vorlage der Staatsregierung (998 der Beilagen), betreffend Teuerungszulagen für
+                  den Präsidenten des Verfassungsgerichtshofes, seinen Stellvertreter und die
+                  ständigen Referenten dieses Gerichtshofes (3.
+                  Verfassungsgerichtshofnovelle).</item>
+               <item><label>13.</label>Bericht des Justizausschusses über die Vorlage der
+                  Staatsregierung (993 der Beilagen), betreffend die Durchführung der Grenzregelung
+                  auf Grund des Staatsvertrages von St. Germain.</item>
+               <item><label>14.</label>Bericht des Finanz- und Budgetausschusses über die Vorlage
+                  der Staatsregierung (981 der Beilagen), betreffend das Gesetz über die
+                  Beitragsleistung des Staates zu dem Aufwand der autonomen Körperschaften für die
+                  Bezüge der aktiven und pensionierten Lehrpersonen der öffentlichen Volks- und
+                  Bürgerschulen sowie der Witwen und Waisen nach solchen Lehrpersonen für das Jahr
+                  1920 <emph>(1026 der Beilagen)</emph>.</item>
+               <item><label>15.</label>Bericht des Ausschusses für Handel und Gewerbe, Industrie und
+                  Bauten über die Vorlage der Staatsregierung (996 der Beilagen), betreffend das
+                  Gesetz über die Ermächtigung der Regierung zur provisorischen Regelung der
+                  Handels- und Verkehrsbeziehungen mit auswärtigen Staaten <emph>(1031 der
+                     Beilagen)</emph>.</item>
+               <item><label>16.</label>Bericht des Ausschusses für Handel und Gewerbe, Industrie und
+                  Bauten über die Vorlage der Staatsregierung (907 der Beilagen), womit einige
+                  Bestimmungen des Gesetzes vom 4. April 1919, St. G. Bl. Nr. 220, über die
+                  Errichtung von Einigungsämtern für Streitigkeiten aus bestimmten
+                  Lieferungsverträgen abgeändert und ergänzt werden <emph>(1025 der
+                  Beilagen)</emph>.</item>
+               <item><label>17.</label>Bericht des Ausschusses für Land- und Forstwirtschaft über
+                  die Anträge des Abgeordneten Schneidmadl und Genossen, betreffend die Ablösung
+                  landwirtschaftlicher Pachtgründe (358 der Beilagen), Stocker und Genossen,
+                  betreffend Ablösung langjährig verpachteter Grundstücke (435 der Beilagen) und
+                  Haueis und Genossen, betreffend die Enteignung von Pachtgründen (447 der Beilagen)
+                     <emph>(1021 der Beilagen)</emph>.</item>
+               <item><label>18.</label>Bericht des Ausschusses für Erziehung und Unterricht über die
+                  Anträge Th. Schlesinger, betreffend die Zulassung weiblicher Schüler zu den
+                  Unterrichtsanstalten aller Kategorien (211 der Beilagen) und Dr. Angerer, Pauly,
+                  betreffend die Errichtung und Ausgestaltung der Mädchenmittelschulen (309 der
+                  Beilagen) <emph>( 699 der Beilagen)</emph>.</item>
+               <item><label>19.</label>Bericht des Ausschusses für Erziehung und Unterricht über den
+                  Antrag der Abgeordneten Frau Dr. Burjan und Genossen (196 der Beilagen),
+                  betreffend Schaffung weiblicher Referentenstellen im Staatsamt für Inneres und
+                  Unterricht <emph>(687 der Beilagen)</emph>.</item>
+            </list>
+            <p>Wird gegen meinen Vorschlag in bezug auf Tagesordnung, Tag und Stunde eine Einwendung
+                  <pb facs="#facs_57" n="57" xml:id="img_0057" break="yes"/><fw type="pageNum"
+                  >3461</fw>erhoben? <emph>(Abgeordneter Dr. Mataja: Ich bitte ums Wort!)</emph></p>
+            <p>Der Herr Abgeordnete Dr. Mataja hat das Wort.</p>
+            <p>Abgeordneter Dr. <emph>Mataja</emph>: Im Sinne des § 34 a der Geschäftsordnung
+               beantrage ich, auf die Tagesordnung der morgigen Sitzung als ersten Punkt den Bericht
+               des Verfassungsausschusses über das Auslieferungsbegehren des Bezirksgerichtes
+               Josefstadt gegen den Abgeordneten Skaret wegen Übertretung der Sicherheit der Ehre zu
+               setzen, vorausgesetzt, daß dieser Bericht bis zum Beginn der morgigen Sitzung
+               vorliegt.</p>
+            <p><emph>Präsident</emph>: Wie der Herr Abgeordnete selbst konstatiert, liegt ein
+               solcher Bericht nicht vor ....</p>
+            <p>Abgeordneter Dr. <emph>Mataja</emph>: Herr Präsident, es liegen schon Präzedenzfälle
+               vor. Sie haben für den Fall der Fertigstellung des Berichtes schon der Parteien
+               Rechnung tragen. Es steht auch dem Gegenstände auf die Tagesordnung einer nächsten
+               Sitzung gesetzt und ich bitte, im vorliegenden Falle die Meinung des Hauses
+               einzuholen.</p>
+            <p><emph>Präsident</emph>: Ich habe es gar nicht abgelehnt, sondern nur bemerkt, daß ein
+               solcher Bericht nicht vorliegt. Es besteht aber selbstverständlich gar kein
+               Hindernis, daß auch dieser Bericht, sobald eine Vereinbarung unter den Parteien
+               geschlossen wird, ebenso wie die anderen Berichte, über die eine solche Vereinbarung
+               unter den Parteien besteht, noch auf die Tagesordnung gesetzt wird. Ich habe heute
+               eine Liste aller dieser Berichte bekommen, über die unter den Parteien Vereinbarungen
+               getroffen worden sind, und habe gemäß einem Beschlusse des Hauptausschusses, wonach
+               der Präsident ersucht wird, alle diese Berichte auf die Tagesordnung zu setzen, dies
+               auch getan. Ich werde selbstverständlich, wenn mir gemeldet wird, daß auch darüber
+               eine Vereinbarung getroffen ist, diesen Bericht ebenfalls auf die Tagesordnung
+               setzen.</p>
+            <p>Abgeordneter Dr. <emph>Mataja</emph>: Ich bitte, im Sinne des § 34a der
+               Geschäftsordnung um die Abstimmung darüber. Es heißt da <emph>(liest)</emph>: „Wird
+               eine Einwendung erhoben, so entscheidet das Haus ohne Debatte“. Das ist die
+               Geschäftsordnung, die uns alle bindet.</p>
+            <p><emph>Präsident</emph>: Es ist mir sehr lieb, Herr Abgeordneter Dr. Mataja, daß Sie
+               mich auf die Geschäftsordnung verweisen. Wenn Sie sie in die Hand nehmen werden,
+               werden Sie sich selbst davon überzeugen, daß ich nach der Geschäftsordnung nicht
+               anders vorgehen kann, als ich eben vorgehe. Ich kann den Bericht eines Ausschusses
+               auf die Tagesordnung setzen, wenn der Bericht vorliegt. Ich kann aber, obwohl die
+               Geschäftsordnung das nicht vorsieht und nicht gestattet, in dem Falle, wo keine
+               Einwendung erhoben wird, also die Parteien es vereinbaren, nicht nach der
+               Geschäftsordnung, sondern anders vorzugehen, auch anders vorgehen und einen Bericht,
+               der nicht vorliegt, dennoch auf die Tagesordnung setzen. Wenn mir gemeldet wird, daß
+               eine solche Vereinbarung darüber besteht, diesen noch nicht erstatteten Bericht auf
+               die Tagesordnung zu setzen, werde ich selbstverständlich diesem Wunsch der Parteien
+               Rechnung tragen. Es steht auch dem Herrn Abgeordneten frei, am Beginn der nächsten
+               Sitzung, wenn der Bericht vorliegt, einen Antrag dahin zu stellen, die Tagesordnung
+               durch diesen Gegenstand zu ergänzen.</p>
+            <p>Zu einer Einwendung hat der Herr Abgeordnete Dr. Bauer das Wort.</p>
+            <p>Abgeordneter Dr. <emph>Bauer</emph>: Ich möchte nur bemerken, daß der
+               Verfassungsausschuß jetzt einberufen ist, sofort nach der Haussitzung zusammentreten
+               wird, und daß falls ein Bericht vorliegt, von unserer Partei keine Einwendung erhoben
+               werden wird, daß er auch morgen verhandelt wird. <emph>(Abgeordneter Dr. Mataja:
+                  Bitte sehr, das genügt mir!)</emph></p>
+            <p><emph>Präsident</emph>: Ich bitte aber, meine Herren, dann morgen zu Beginn der
+               Sitzung nicht zu vergessen, den Antrag auf Ergänzung der Tagesordnung zu stellen.</p>
+            <p>Wird sonst noch eine Einwendung gegen Tag, Stunde und Tagesordnung erhoben?
+                  <emph>(Nach einer Pause:)</emph> Es ist dies nicht der Fall, sonach bleibt es bei
+               meinem Vorschlage.</p>
+            <p>Die Sitzung ist geschlossen.</p>
+            <head>Schluß der Sitzung: 6 Uhr 45 Minuten abends.</head>
+            <p>Österreichische Staatsdruckerei. 45920</p>
+         </div>
       </body>
 
    </text>
