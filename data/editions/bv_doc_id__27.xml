@@ -256,7 +256,18 @@
             <ns0:surface ulx="0" uly="0" lrx="2994" lry="4771" xml:id="facs_45">
                   <ns0:graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__27/800/0/IMG_0076.jpg" width="2994px" height="4771px" />
             </ns0:surface>
-      <ns0:surface ulx="0" uly="0" xml:id="facs_46"><ns0:graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__27/800/0/IMG_0077.jpg" /></ns0:surface><ns0:surface ulx="0" uly="0" xml:id="facs_47"><ns0:graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__27/800/0/IMG_0078.jpg" /></ns0:surface><ns0:surface ulx="0" uly="0" xml:id="facs_48"><ns0:graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__27/800/0/IMG_0079.jpg" /></ns0:surface><ns0:surface ulx="0" uly="0" xml:id="facs_49"><ns0:graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__27/800/0/IMG_0080.jpg" /></ns0:surface></ns0:facsimile>
+            <ns0:surface ulx="0" uly="0" xml:id="facs_46">
+                  <ns0:graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__27/800/0/IMG_0077.jpg" />
+            </ns0:surface>
+            <ns0:surface ulx="0" uly="0" xml:id="facs_47">
+                  <ns0:graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__27/800/0/IMG_0078.jpg" />
+            </ns0:surface>
+            <ns0:surface ulx="0" uly="0" xml:id="facs_48">
+                  <ns0:graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__27/800/0/IMG_0079.jpg" />
+            </ns0:surface>
+            <ns0:surface ulx="0" uly="0" xml:id="facs_49">
+                  <ns0:graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__27/800/0/IMG_0080.jpg" />
+            </ns0:surface></ns0:facsimile>
       <ns0:text type="Verfassungsentwurf">
             <ns0:body>
                   <ns0:div type="main">
@@ -1169,30 +1180,34 @@
                                                 <ns0:p type="legal_section">Der Präsident des
                                                   Bundestages führt in Ausübung der ihm durch die
                                                   Verfassung übertragenen Funktionen der Regierungs-
-                                                  und Vollzugsgewalt den Titel Bundespräsident. </ns0:p>
+                                                  und Vollzugsgewalt den Titel Bundespräsident.
+                                                </ns0:p>
                                           </ns0:div>
                                           <ns0:div type="article">
                                                 <ns0:head>Artikel 52. </ns0:head>
-                                                <ns0:p type="legal_section">Der Bundespräsident vertritt
-                                                  die Republik nach aussen, empfängt und beglaubigt
-                                                  die Gesandten, genehmigt die Bestellung der
-                                                  fremden Konsuln, bestellt die österreichischen
-                                                  Konsuln und schliesst<ns0:pb facs="#facs_19" n="19" xml:id="img_0019" break="yes" /><ns0:fw type="pageNum">- 18 -</ns0:fw> die Staatsverträge. </ns0:p>
+                                                <ns0:p type="legal_section">Der Bundespräsident
+                                                  vertritt die Republik nach aussen, empfängt und
+                                                  beglaubigt die Gesandten, genehmigt die Bestellung
+                                                  der fremden Konsuln, bestellt die österreichischen
+                                                  Konsuln und schliesst<ns0:pb facs="#facs_19"
+                                                  n="19" xml:id="img_0019" break="yes"/><ns0:fw
+                                                  type="pageNum">- 18 -</ns0:fw> die Staatsverträge.
+                                                </ns0:p>
                                           </ns0:div>
                                           <ns0:div type="article">
                                                 <ns0:head>Artikel 53. </ns0:head>
-                                                <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Dem
-                                                  Bundespräsidenten obliegt ausser den ihm nach
-                                                  anderen Bestimmungen dieser Verfassung
-                                                  übertragenen Befugnissen ferner: <ns0:list>
+                                                <ns0:p type="legal_section"
+                                                  ><ns0:label>(1)</ns0:label> Dem Bundespräsidenten
+                                                  obliegt ausser den ihm nach anderen Bestimmungen
+                                                  dieser Verfassung übertragenen Befugnissen ferner: <ns0:list>
                                                   <ns0:label>a) </ns0:label>
                                                   <ns0:item>die Ernennung der Bundesangestellten
                                                   (einschliesslich der Offiziere) und der sonstigen
                                                   Bundesfunktionäre und die Verleihung von
                                                   Amtstiteln an solche; </ns0:item>
                                                   <ns0:label>b) </ns0:label>
-                                                  <ns0:item>die Schaffung von Amts- und Berufstiteln,
-                                                  die Verleihung von der Berufstitel; </ns0:item>
+                                                  <ns0:item>die Schaffung von Amts- und
+                                                  Berufstiteln, die Verleihung von der Berufstitel; </ns0:item>
                                                   <ns0:label>c) </ns0:label>
                                                   <ns0:item>die Begnadigung der von den Gerichten
                                                   rechtskräftig Verurteilten, die Milderung und
@@ -1204,30 +1219,33 @@
                                                   <ns0:item>die Erklärung unehelicher Kinder zu
                                                   ehelichen über Ansuchen der Eltern. </ns0:item>
                                                   </ns0:list></ns0:p>
-                                                <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Inwieweit
-                                                  dem Bundespräsidenten ausserdem noch Befugnisse
+                                                <ns0:p type="legal_section"
+                                                  ><ns0:label>(2)</ns0:label> Inwieweit dem
+                                                  Bundespräsidenten ausserdem noch Befugnisse
                                                   hinsichtlich Gewährung von Ehrenrechten,
                                                   ausserordentlichen Zuwendungen, Zulagen und
                                                   Versorgungsgenüssen, Ernennungs- und
                                                   Bestätigungsrechten und sonstige Befugnisse in
                                                   Personalangegenheiten zustehen, bestimmen
                                                   besondere Gesetze und Vorschriften. </ns0:p>
-                                                <ns0:p type="legal_section"><ns0:label>(3)</ns0:label> Alle in
-                                                  diesem Artikel aufgezählten Akte des
-                                                  Bundespräsidenten erfolgen auf Vorschlag der
-                                                  Bundesregierung oder des von dieser hiezu
-                                                  ermächtigten zuständigen Bundesministers.
-                                                  Inwieweit die Bundesregierung oder der zuständige
-                                                  Bundesminister hiebei selbst an Vorschläge anderer
-                                                  Stellen gebunden ist, bestimmt das Gesetz.</ns0:p>
+                                                <ns0:p type="legal_section"
+                                                  ><ns0:label>(3)</ns0:label> Alle in diesem Artikel
+                                                  aufgezählten Akte des Bundespräsidenten erfolgen
+                                                  auf Vorschlag der Bundesregierung oder des von
+                                                  dieser hiezu ermächtigten zuständigen
+                                                  Bundesministers. Inwieweit die Bundesregierung
+                                                  oder der zuständige Bundesminister hiebei selbst
+                                                  an Vorschläge anderer Stellen gebunden ist,
+                                                  bestimmt das Gesetz.</ns0:p>
                                           </ns0:div>
                                           <ns0:div type="article">
                                                 <ns0:head>Artikel 54. </ns0:head>
-                                                <ns0:p type="legal_section">Der Bundespräsident kann das
-                                                  ihm zustehende Recht der Ernennung von
+                                                <ns0:p type="legal_section">Der Bundespräsident kann
+                                                  das ihm zustehende Recht der Ernennung von
                                                   Bundesangestellten bestimmter Kategorien oder
                                                   Rangklassen den ressortmässig zuständigen
-                                                  Mitgliedern der Bundesregierung übertragen. </ns0:p>
+                                                  Mitgliedern der Bundesregierung übertragen.
+                                                </ns0:p>
                                           </ns0:div>
                                           <ns0:div type="article">
                                                 <ns0:head>Artikel 55. </ns0:head>
@@ -1237,7 +1255,8 @@
                                                   ressortmässig zuständigen Bundesminister.</ns0:p>
                                           </ns0:div>
                                           <ns0:div type="article">
-                                                <ns0:pb facs="#facs_20" n="20" xml:id="img_0020" break="yes" />
+                                                <ns0:pb facs="#facs_20" n="20" xml:id="img_0020"
+                                                  break="yes"/>
                                                 <ns0:fw type="pageNum">- 19 -</ns0:fw>
                                                 <ns0:head>Artikel 56. </ns0:head>
                                                 <ns0:p type="legal_section"><ns0:label>(1) </ns0:label>
@@ -1248,224 +1267,376 @@
                                                   auf seinen ersten und, wenn bei diesem der gleiche
                                                   Fall eintritt, auf seinen zweiten Stellvertreter
                                                   über. </ns0:p>
-                                                <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Ebenso
-                                                  gehen die Funktionen der Regierungs- und
-                                                  Vollzugsgewalt im Falle dauernder Erledigung der
-                                                  Stelle des Präsidenten - jedoch nur bis zur
-                                                  Neuwahl - auf den zweiten und bei dessen
-                                                  Verhinderung auf den dritten Präsidenten über.</ns0:p>
+                                                <ns0:p type="legal_section"
+                                                  ><ns0:label>(2)</ns0:label> Ebenso gehen die
+                                                  Funktionen der Regierungs- und Vollzugsgewalt im
+                                                  Falle dauernder Erledigung der Stelle des
+                                                  Präsidenten - jedoch nur bis zur Neuwahl - auf den
+                                                  zweiten und bei dessen Verhinderung auf den
+                                                  dritten Präsidenten über.</ns0:p>
                                           </ns0:div>
                                           <ns0:div type="article">
                                                 <ns0:head>Artikel 57. </ns0:head>
-                                                <ns0:p type="legal_section">Der Bundespräsident sowie
-                                                  seine Stellvertreter sind für die Ausübung der
-                                                  Regierungs- und Vollzugsgewalt dem Bundestage
+                                                <ns0:p type="legal_section">Der Bundespräsident
+                                                  sowie seine Stellvertreter sind für die Ausübung
+                                                  der Regierungs- und Vollzugsgewalt dem Bundestage
                                                   gemäss Artikel der Bundesverfassung
                                                   verantwortlich. </ns0:p>
-                                                <ns0:p>(Siehe II. Version zu: " I. Der Bundespräsident"
-                                                  des dritten Abschnittes!) </ns0:p>
+                                                <ns0:p>(Siehe II. Version zu: " I. Der
+                                                  Bundespräsident" des dritten Abschnittes!)
+                                                </ns0:p>
                                           </ns0:div>
                                     </ns0:div>
                                     <ns0:div type="section">
                                           <ns0:head>2. Die Bundesregierung. </ns0:head>
                                           <ns0:div type="article">
                                                 <ns0:head>Artikel 58.</ns0:head>
-                                                <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Mit der
-                                                  Ausübung der Regierungs- und Vollzugsgewalt des
-                                                  Bundes sind, soweit diese nicht dem
-                                                  Bundespräsidenten übertragen ist, der
-                                                  Bundeskanzler, der Vizekanzler und die
-                                                  Bundesminister betraut. Sie bilden in ihrer
-                                                  Gesamtheit die Bundesregierung unter dem Vorsitze
-                                                  des Bundeskanzlers. </ns0:p>
-                                                <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Der
-                                                  Vizekanzler ist zur Vertretung des Bundeskanzlers
-                                                  in dessen gesamten Wirkungskreis berufen. </ns0:p>
+                                                <ns0:p type="legal_section"
+                                                  ><ns0:label>(1)</ns0:label> Mit der Ausübung der
+                                                  Regierungs- und Vollzugsgewalt des Bundes sind,
+                                                  soweit diese nicht dem Bundespräsidenten
+                                                  übertragen ist, der Bundeskanzler, der Vizekanzler
+                                                  und die Bundesminister betraut. Sie bilden in
+                                                  ihrer Gesamtheit die Bundesregierung unter dem
+                                                  Vorsitze des Bundeskanzlers. </ns0:p>
+                                                <ns0:p type="legal_section"
+                                                  ><ns0:label>(2)</ns0:label> Der Vizekanzler ist
+                                                  zur Vertretung des Bundeskanzlers in dessen
+                                                  gesamten Wirkungskreis berufen. </ns0:p>
                                           </ns0:div>
                                           <ns0:div type="article">
                                                 <ns0:head>Artikel 59. </ns0:head>
-                                                <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Die
-                                                  Regierungs- und Vollzugsgewalt des Bundes darf nur
-                                                  aufgrund der Bundesverfassung und der
-                                                  Bundesgesetze ausgeübt werden. </ns0:p>
-                                                <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Jede
-                                                  Behörde kann im Rahmen der Gesetze innerhalb ihres
-                                                  Wirkungskreises Verordnungen erlassen.</ns0:p>
-                                          </ns0:div>
-                                          <ns0:div type="article">
-                                                <ns0:pb facs="#facs_21" n="21" xml:id="img_0021" break="yes" />
-                                                <ns0:fw type="pageNum">- 20 -</ns0:fw>
-                                                <ns0:head>Artikel 60. </ns0:head>
-                                                <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Die
-                                                  Bundesregierung wird vom Bundestag über den
-                                                  Gesamtvorschlag eines besonderen Ausschusses,
-                                                  dessen Zusammensetzung, Wirkungskreis und
-                                                  Verfahren im Geschäftsordnungsgesetze geregelt
-                                                  ist, in namentlicher Abstimmung gewählt. Dieser
-                                                  Ausschuss ist ständig. In die Bundesregierung kann
-                                                  nur gewählt werden, wer zum Bundestage wählbar
-                                                  ist. </ns0:p>
-                                                <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Die
-                                                  Bestallungsurkunden des Bundeskanzlers, des
-                                                  Vizekanzlers und der Bundesminister werden vom
-                                                  Bundespräsidenten mit dem Datum des Tages der
-                                                  Angelobung ausgefertigt und vom neubestellten
-                                                  Bundeskanzler gegengezeichnet. </ns0:p>
-                                                <ns0:p type="legal_section"><ns0:label>(3)</ns0:label> Die
-                                                  Mitglieder der Bundesregierung werden von dem
-                                                  Bundespräsidenten angelobt. </ns0:p>
-                                          </ns0:div>
-                                          <ns0:div type="article">
-                                                <ns0:head>Artikel 61. </ns0:head>
-                                                <ns0:p type="legal_section">Bis die neue Bundesregierung
-                                                  gebildet ist, hat der Bundespräsident entweder die
-                                                  scheidende Regierung unter dem Vorsitze des
-                                                  bisherigen Bundeskanzlers, des Vizekanzlers oder
-                                                  eines Bundesministers oder leitende Beamte der
-                                                  Bundesämter unter dem Vorsitze eines dieser
-                                                  Beamten mit der einstweiligen Leitung der
-                                                  Verwaltung zu betrauen. Artikel 60, Absatz 2 und
-                                                  3, ist in diesem Falle sinngemäss anzuwenden. </ns0:p>
-                                          </ns0:div>
-                                          <ns0:div type="article">
-                                                <ns0:head>Artikel 62.</ns0:head>
-                                                <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Versagt
-                                                  der Bundestag der Bundesregierung oder einzelnen
-                                                  ihrer Mitglieder durch ausdrückliche
-                                                  Entschliessung das Vertrauen, so ist eine neue
-                                                  Bundesregierung zu bestellen oder der betreffende
-                                                  Bundesminister seines Amtes zu entheben. </ns0:p>
-                                                <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Zu einem
-                                                  Beschlusse des Bundestages, mit dem das Vertrauen
-                                                  versagt wird, ist die Anwesenheit der Hälfte der
-                                                  Mitglieder des Bundestages erforderlich. Doch ist,
-                                                  wenn es ein Fünftel der anwesenden Mitglieder
-                                                  verlangt, die Abstimmung auf den zweitnächsten
-                                                  Werktag zu vertagen. Eine neuerliche Vertagung der
-                                                  Abstimmung kann nur auf Beschluss des Bun<ns0:choice>
-                                                  <ns0:sic>-</ns0:sic>
-                                                  <ns0:corr>d</ns0:corr>
-                                                  </ns0:choice>estages erfolgen. </ns0:p>
-                                                <ns0:p type="legal_section"><ns0:label>(3)</ns0:label> Die
-                                                  gesamte Bundesregierung und ihre einzelnen
-                                                  Mitglieder werden in den gesetzlich bestimmten
-                                                  Fällen oder auf ihren Wunsch vom Bundespräsidenten
-                                                  ihres Amtes enthoben.</ns0:p>
-                                          </ns0:div>
-                                          <ns0:div type="article">
-                                                <ns0:pb facs="#facs_22" n="22" xml:id="img_0022" break="yes" />
-                                                <ns0:fw type="pageNum">- 21 -</ns0:fw>
-                                                <ns0:head>Artikel 63. </ns0:head>
-                                                <ns0:p type="legal_section">Die Mitglieder der
-                                                  Bundesregierung sind nach Massgabe des Artikels
-                                                  der Bundesverfassung dem Bundestage
-                                                  verantwortlich. </ns0:p>
-                                          </ns0:div>
-                                          <ns0:div type="article">
-                                                <ns0:head>Artikel 64. </ns0:head>
-                                                <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Zur
-                                                  Besorgung der Geschäfte der Bundesverwaltung sind
-                                                  Die Bundesämter, und zwar das Bundeskanzleramt und
-                                                  die Bundesministerien und die ihnen unterstellten
-                                                  Organe berufen. </ns0:p>
-                                                <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Die Zahl
-                                                  der Bundesämter und deren Wirkungskreis wird durch
-                                                  Bundesgesetz bestimmt. </ns0:p>
-                                          </ns0:div>
-                                          <ns0:div type="article">
-                                                <ns0:head>Artikel 65.</ns0:head>
-                                                <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Das
-                                                  Bundeskanzleramt wird vom Bundeskanzler geleitet;
-                                                  jedes Bundesministerium steht unter der Leitung
-                                                  eines Bundesministers. </ns0:p>
-                                                <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Der
-                                                  Bundeskanzler und die Bundesminister können
-                                                  ausnahmsweise auch mit der Führung eines zweiten
-                                                  Bundesamtes betraut werden. Ebenso kann dem
-                                                  Vizekanzler die Leitung eines Bundesministeriums
-                                                  übertragen werden. </ns0:p>
-                                          </ns0:div>
-                                          <ns0:div type="article">
-                                                <ns0:head>Artikel 66. </ns0:head>
-                                                <ns0:p type="legal_section">In besonderen Fällen kann
-                                                  die Bestellung von Bundesministern auch ohne
-                                                  gleichzeitige Betrauung mit der Führung eines
-                                                  Bundesministeriums erfolgen. </ns0:p>
-                                          </ns0:div>
-                                          <ns0:div type="article">
-                                                <ns0:head>Artikel 67. </ns0:head>
-                                                <ns0:p type="legal_section">In jedem Bundesamte wird dem
-                                                  verantwortlichen Leiter zur Wahrung der Einheit
-                                                  und Stetigkeit des Geschäftsganges ein Beamter
-                                                  beigegeben, der den Amtstitel eines
-                                                  Ministerialdirektors führt.</ns0:p>
+                                                <ns0:p type="legal_section"
+                                                  ><ns0:label>(1)</ns0:label> Die Regierungs- und
+                                                  Vollzugsgewalt des Bundes darf nur aufgrund der
+                                                  Bundesverfassung und der Bundesgesetze ausgeübt
+                                                  werden. </ns0:p>
+                                                <ns0:p type="legal_section"
+                                                  ><ns0:label>(2)</ns0:label> Jede Behörde kann im
+                                                  Rahmen der Gesetze innerhalb ihres Wirkungskreises
+                                                  Verordnungen erlassen.</ns0:p>
                                           </ns0:div>
                                     </ns0:div>
+                              </ns0:div>
+                        </ns0:div>
+                        <p xmlns="http://www.tei-c.org/ns/1.0"><ns0:pb facs="#facs_21" n="21"
+                                    xml:id="img_0021" break="yes"/><ns0:fw type="pageNum">- 20
+                                    -</ns0:fw>II. Version</p>
+                        <ns0:div type="section">
+                              <ns0:head><ns0:pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"
+                                          /><ns0:fw type="pageNum">1</ns0:fw>Dritter Abschnitt. </ns0:head>
+                              <ns0:head>Die Vollziehung des Bundes.</ns0:head>
+                              <ns0:div type="section">
+                                    <ns0:head>A. Die Regierungsgewalt des Bundes.</ns0:head>
                                     <ns0:div type="section">
-                                          <ns0:head>3. Das Bundesheer.</ns0:head>
+                                          <ns0:head>1. Der Bundespräsident. </ns0:head>
                                           <ns0:div type="article">
-                                                <ns0:head>Artikel 68. </ns0:head>
-                                                <ns0:p type="legal_section">Das Bundesheer ist ein
-                                                  Berufsheer; es wird auf dem Wege freiwilliger
-                                                  Verpflichtung aufgestellt und ergänzt. Das Nähere
-                                                  regelt das Wehrgesetz. </ns0:p>
+                                                <ns0:head>Artikel </ns0:head>
+                                                <ns0:p type="legal_section"
+                                                  ><ns0:label>(1)</ns0:label>Der Bundespräsident
+                                                  wird unmittelbar von dem gesamten Bundesvolk
+                                                  gewählt.</ns0:p>
+                                                <ns0:p type="legal_section"
+                                                  ><ns0:label>(2)</ns0:label> Die Wahl erfolgt
+                                                  zugleich mit der Hauptwahl zum Bundestag und für
+                                                  die Dauer seiner Gesetzgebungsperiode.</ns0:p>
                                           </ns0:div>
                                           <ns0:div type="article">
-                                                <ns0:head>Artikel 69. </ns0:head>
-                                                <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Das
-                                                  Bundesheer ist, soweit die gesetzmässige
-                                                  bürgerliche Gewalt seine Mitwirkung in Anspruch
-                                                  nimmt, zum Schutz der verfassungs<ns0:pb facs="#facs_23" n="23" xml:id="img_0023" break="no" /><ns0:fw type="pageNum">- 22 -</ns0:fw>
-                                                  mässigen Einrichtungen sowie zur Aufrechterhaltung
-                                                  der Ordnung und Sicherheit im Innern überhaupt und
-                                                  zur Hilfeleistung bei Elementarereignissen und
-                                                  Unglücksfällen aussergewöhnlichen Umfanges
-                                                  bestimmt. </ns0:p>
-                                                <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Ferner
-                                                  obliegt dem Bundesheer der Schutz der Grenzen der
-                                                  Republik. </ns0:p>
+                                                <ns0:head>Artikel</ns0:head>
+                                                <ns0:p type="legal_section"
+                                                  ><ns0:label>(1)</ns0:label>Wird der Bundestag vor
+                                                  Ablauf seiner vierjährigen Gesetzgebungsperiode
+                                                  aufgelöst, hat zugleich mit seiner Neuwahl auch
+                                                  die Wahl des Bundespräsidenten zu erfolgen. </ns0:p>
+                                                <ns0:p type="legal_section"
+                                                  ><ns0:label>(2)</ns0:label> Eine Neuwahl des
+                                                  Bundespräsidenten hat auch dann zu erfolgen, wenn
+                                                  die Stelle des Bundespräsidenten noch in der
+                                                  ersten Hälfte seiner vierjährigen Amtsperiode
+                                                  durch Tod, Amtsverzicht oder aus anderen
+                                                  gesetzlichen Gründen dauernd erledigt
+                                                  wird.</ns0:p>
                                           </ns0:div>
                                           <ns0:div type="article">
-                                                <ns0:head>Artikel 70. </ns0:head>
-                                                <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Ueber das
-                                                  Heer verfügt der Bundestag. Insoweit diesem nicht
-                                                  durch das Wehrgesetz die unmittelbare Verfügung
-                                                  vorbehalten ist, wird damit die Bundesregierung
-                                                  oder innerhalb der von ihr erteilten Ermächtigung
-                                                  der zuständige Bundesminister betraut. </ns0:p>
-                                                <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Inwieweit
-                                                  auch die Behörden der Länder und Gemeinden die
-                                                  Mitwirkung des Bundesheeres zu den in Artikel 69,
-                                                  Absatz 1, erwähnten Zwecken unmittelbaren Anspruch
-                                                  nehmen können, bestimmt das Wehrgesetz. </ns0:p>
+                                                <ns0:head>Artikel</ns0:head>
+                                                <ns0:p type="legal_section"
+                                                  ><ns0:label>(1)</ns0:label> Zum Bundespräsidenten
+                                                  kann nur derjenige Bundesangehörige gewählt
+                                                  werden, der das aktive und passive Wahlrecht zum
+                                                  Bundestag hat.</ns0:p>
+                                                <ns0:p type="legal_section"
+                                                  ><ns0:label>(2)</ns0:label> Eine wiederholte Wahl
+                                                  zum Bundespräsidenten ist zulässig.</ns0:p>
                                           </ns0:div>
                                           <ns0:div type="article">
-                                                <ns0:head>Artikel 71. </ns0:head>
-                                                <ns0:p type="legal_section">Durch Bundesgesetz wird
-                                                  geregelt, inwieweit die Länder bei der Ergänzung,
-                                                  Verpflegung und Unterbringung des Heeres und der
-                                                  Beistellung seiner sonstigen Erfordernisse
-                                                  mitwirken.</ns0:p>
+                                                <ns0:head>Artikel</ns0:head>
+                                                <ns0:p type="legal_section"
+                                                  ><ns0:label>(1)</ns0:label>Im Fall des Artikels
+                                                  erfolgt die Wahl des Präsidenten auf dem gleichen
+                                                  Stimmzettel wie die Wahl zum Bundestag.</ns0:p>
+                                                <ns0:p type="legal_section"
+                                                  ><ns0:label>(2)</ns0:label> Als zum
+                                                  Bundespräsidenten gewählt gilt derjenige Kandidat,
+                                                  der an erster Stelle die meisten Stimmen auf sich
+                                                  vereinigt. Hiebei sind die im gesamten
+                                                  Bundesgebiet gültig abgegebenen Stimmen zu
+                                                  zählen.</ns0:p>
+                                                <ns0:p type="legal_section"
+                                                  ><ns0:label>(3)</ns0:label>Das Nähere bestimmt das
+                                                  Gesetz, betreffend die Wahlordnung für die Wahl
+                                                  zum Bundestag.</ns0:p>
                                           </ns0:div>
+                                          <ns0:div type="article">
+                                                <ns0:head>Artikel</ns0:head>
+                                                <ns0:p type="legal_section">Der Bundestag leistet
+                                                  bei Antritt seines Amtes vor dem <ns0:pb
+                                                  facs="#facs_23" n="23" xml:id="img_0023"
+                                                  break="no"/><ns0:fw type="pageNum">- 22
+                                                  -</ns0:fw>Bundestag das folgende Gelöbnis: </ns0:p>
+                                                <ns0:p type="legal_section">Ich gelobe, dass ich die
+                                                  Verfassung und alle Gesetze der Republik
+                                                  Oesterreich getreulich beobachten und meine
+                                                  Pflicht nach bestem Wissen und Gewissen erfüllen
+                                                  werde."</ns0:p>
+                                          </ns0:div>
+                                          <ns0:div type="article">
+                                                <ns0:head>Artikel</ns0:head>
+                                                <ns0:p type="legal_section">Der Bundespräsident darf
+                                                  während seiner Amtszeit keiner politischen
+                                                  Körperschaft angehörenund keinen anderen Beruf
+                                                  ausüben.</ns0:p>
+                                          </ns0:div>
+                                          <ns0:div type="article">
+                                                <ns0:head>Artikel</ns0:head>
+                                                <ns0:p type="legal_section"
+                                                  ><ns0:label>(1)</ns0:label>Eine behördliche
+                                                  Verfolgung des Bundespräsidenten darf nur mit
+                                                  Zustimmung des Bundestages erfolgen.</ns0:p>
+                                                <ns0:p type="legal_section"
+                                                  ><ns0:label>(2)</ns0:label>ZU einem solchen
+                                                  Beschlusse ist die Anwenseheit der Hälfte aller
+                                                  Mitglieder und eine Mehrheit von zwei Dritteln der
+                                                  Abstimmenden erforderlich.</ns0:p>
+                                          </ns0:div>
+                                          <ns0:div type="article">
+                                                <ns0:head>Artikel</ns0:head>
+                                                <ns0:p type="legal_section">Der Bundespräsident ist
+                                                  dem Bundestag gemäss Artikel der Bundesverfassung
+                                                  verantwortlich.</ns0:p>
+                                          </ns0:div>
+                                          <ns0:div type="article">
+                                                <ns0:head>Artikel</ns0:head>
+                                                <ns0:p type="legal_section"
+                                                  ><ns0:label>(1)</ns0:label>Wenn der
+                                                  Bundespräsident verhindert oder wenn seine Stelle
+                                                  dauernd erledigt ist, im letzteren Falle bis zur
+                                                  Neuwahl seines Nachfolgers, gehen alle Funktionen
+                                                  des Bundespräsidenten auf den Präsidenten des
+                                                  Bundestaes über.</ns0:p>
+                                                <ns0:p type="legal_section"
+                                                  ><ns0:label>(2)</ns0:label>Bei Uebernahme der
+                                                  Funktionen des Bundespräsidenten hat der Präsident
+                                                  des Bundestages das I Artikel erwähnte Gelöbnis zu
+                                                  leisten</ns0:p>
+                                                <ns0:p type="legal_section"
+                                                  ><ns0:label>(3)</ns0:label>Für die Ausübung der
+                                                  Funktion des Bundespräsidenten ist auf den
+                                                  Präsidenten des Bundestages die Bestimmung des
+                                                  Artikels anwendbar.</ns0:p>
+                                          </ns0:div>
+                                          <ns0:div type="article">
+                                                <ns0:head>Artikel</ns0:head>
+                                                <ns0:p type="legal_section">Der Bundespräsident
+                                                  bleibt auch nach Ablauf der Gesetzgebungsperiode
+                                                  des Bundestages und nach Auflösung des Bundestages
+                                                  und zwar so lange im Amte, bis der neue
+                                                  Bundespräsident gewählt ist und sein Amt
+                                                  angetreten hat.</ns0:p>
+                                          </ns0:div>
+                                          <ns0:div type="article">
+                                                <ns0:head>Artikel</ns0:head>
+                                                <ns0:p type="legal_section">= Artikel 52 bis
+                                                  58.</ns0:p>
+                                          </ns0:div>
+                                    </ns0:div>
+                              </ns0:div>
+                              <ns0:div type="section">
+                                    <ns0:div type="article">
+                                          <ns0:head><ns0:pb facs="#facs_25" n="25" xml:id="img_0025"
+                                                  break="yes"/><ns0:fw type="pageNum">-
+                                                20-</ns0:fw>Artikel 60. </ns0:head>
+                                          <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Die
+                                                Bundesregierung wird vom Bundestag über den
+                                                Gesamtvorschlag eines besonderen Ausschusses, dessen
+                                                Zusammensetzung, Wirkungskreis und Verfahren im
+                                                Geschäftsordnungsgesetze geregelt ist, in
+                                                namentlicher Abstimmung gewählt. Dieser Ausschuss
+                                                ist ständig. In die Bundesregierung kann nur gewählt
+                                                werden, wer zum Bundestage wählbar ist. </ns0:p>
+                                          <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Die
+                                                Bestallungsurkunden des Bundeskanzlers, des
+                                                Vizekanzlers und der Bundesminister werden vom
+                                                Bundespräsidenten mit dem Datum des Tages der
+                                                Angelobung ausgefertigt und vom neubestellten
+                                                Bundeskanzler gegengezeichnet. </ns0:p>
+                                          <ns0:p type="legal_section"><ns0:label>(3)</ns0:label> Die
+                                                Mitglieder der Bundesregierung werden von dem
+                                                Bundespräsidenten angelobt. </ns0:p>
+                                    </ns0:div>
+                                    <ns0:div type="article">
+                                          <ns0:head>Artikel 61. </ns0:head>
+                                          <ns0:p type="legal_section">Bis die neue Bundesregierung
+                                                gebildet ist, hat der Bundespräsident entweder die
+                                                scheidende Regierung unter dem Vorsitze des
+                                                bisherigen Bundeskanzlers, des Vizekanzlers oder
+                                                eines Bundesministers oder leitende Beamte der
+                                                Bundesämter unter dem Vorsitze eines dieser Beamten
+                                                mit der einstweiligen Leitung der Verwaltung zu
+                                                betrauen. Artikel 60, Absatz 2 und 3, ist in diesem
+                                                Falle sinngemäss anzuwenden. </ns0:p>
+                                    </ns0:div>
+                                    <ns0:div type="article">
+                                          <ns0:head>Artikel 62.</ns0:head>
+                                          <ns0:p type="legal_section"><ns0:label>(1)</ns0:label>
+                                                Versagt der Bundestag der Bundesregierung oder
+                                                einzelnen ihrer Mitglieder durch ausdrückliche
+                                                Entschliessung das Vertrauen, so ist eine neue
+                                                Bundesregierung zu bestellen oder der betreffende
+                                                Bundesminister seines Amtes zu entheben. </ns0:p>
+                                          <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Zu
+                                                einem Beschlusse des Bundestages, mit dem das
+                                                Vertrauen versagt wird, ist die Anwesenheit der
+                                                Hälfte der Mitglieder des Bundestages erforderlich.
+                                                Doch ist, wenn es ein Fünftel der anwesenden
+                                                Mitglieder verlangt, die Abstimmung auf den
+                                                zweitnächsten Werktag zu vertagen. Eine neuerliche
+                                                Vertagung der Abstimmung kann nur auf Beschluss des Bun<ns0:choice>
+                                                  <ns0:sic>-</ns0:sic>
+                                                  <ns0:corr>d</ns0:corr>
+                                                </ns0:choice>estages erfolgen. </ns0:p>
+                                          <ns0:p type="legal_section"><ns0:label>(3)</ns0:label> Die
+                                                gesamte Bundesregierung und ihre einzelnen
+                                                Mitglieder werden in den gesetzlich bestimmten
+                                                Fällen oder auf ihren Wunsch vom Bundespräsidenten
+                                                ihres Amtes enthoben.</ns0:p>
+                                    </ns0:div>
+                                    <ns0:div type="article">
+                                          <ns0:head><ns0:pb facs="#facs_26" n="26" xml:id="img_0026"
+                                                  break="yes"/><ns0:fw type="pageNum"
+                                                >21</ns0:fw>Artikel 63. </ns0:head>
+                                          <ns0:p type="legal_section">Die Mitglieder der
+                                                Bundesregierung sind nach Massgabe des Artikels der
+                                                Bundesverfassung dem Bundestage verantwortlich.
+                                          </ns0:p>
+                                    </ns0:div>
+                                    <ns0:div type="article">
+                                          <ns0:head>Artikel 64. </ns0:head>
+                                          <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Zur
+                                                Besorgung der Geschäfte der Bundesverwaltung sind
+                                                Die Bundesämter, und zwar das Bundeskanzleramt und
+                                                die Bundesministerien und die ihnen unterstellten
+                                                Organe berufen. </ns0:p>
+                                          <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Die
+                                                Zahl der Bundesämter und deren Wirkungskreis wird
+                                                durch Bundesgesetz bestimmt. </ns0:p>
+                                    </ns0:div>
+                                    <ns0:div type="article">
+                                          <ns0:head>Artikel 65.</ns0:head>
+                                          <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Das
+                                                Bundeskanzleramt wird vom Bundeskanzler geleitet;
+                                                jedes Bundesministerium steht unter der Leitung
+                                                eines Bundesministers. </ns0:p>
+                                          <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Der
+                                                Bundeskanzler und die Bundesminister können
+                                                ausnahmsweise auch mit der Führung eines zweiten
+                                                Bundesamtes betraut werden. Ebenso kann dem
+                                                Vizekanzler die Leitung eines Bundesministeriums
+                                                übertragen werden. </ns0:p>
+                                    </ns0:div>
+                                    <ns0:div type="article">
+                                          <ns0:head>Artikel 66. </ns0:head>
+                                          <ns0:p type="legal_section">In besonderen Fällen kann die
+                                                Bestellung von Bundesministern auch ohne
+                                                gleichzeitige Betrauung mit der Führung eines
+                                                Bundesministeriums erfolgen. </ns0:p>
+                                    </ns0:div>
+                                    <ns0:div type="article">
+                                          <ns0:head>Artikel 67. </ns0:head>
+                                          <ns0:p type="legal_section">In jedem Bundesamte wird dem
+                                                verantwortlichen Leiter zur Wahrung der Einheit und
+                                                Stetigkeit des Geschäftsganges ein Beamter
+                                                beigegeben, der den Amtstitel eines
+                                                Ministerialdirektors führt.</ns0:p>
+                                    </ns0:div>
+                              </ns0:div>
+                              <ns0:div type="section">
+                                    <ns0:head>3. Das Bundesheer.</ns0:head>
+                                    <ns0:div type="article">
+                                          <ns0:head>Artikel 68. </ns0:head>
+                                          <ns0:p type="legal_section">Das Bundesheer ist ein
+                                                Berufsheer; es wird auf dem Wege freiwilliger
+                                                Verpflichtung aufgestellt und ergänzt. Das Nähere
+                                                regelt das Wehrgesetz. </ns0:p>
+                                    </ns0:div>
+                                    <ns0:div type="article">
+                                          <ns0:head>Artikel 69. </ns0:head>
+                                          <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Das
+                                                Bundesheer ist, soweit die gesetzmässige bürgerliche
+                                                Gewalt seine Mitwirkung in Anspruch nimmt, zum
+                                                Schutz der verfassungs<ns0:pb facs="#facs_27" n="27"
+                                                  xml:id="img_0027" break="no"/><ns0:fw
+                                                  type="pageNum">- 22 -</ns0:fw>mässigen
+                                                Einrichtungen sowie zur Aufrechterhaltung der
+                                                Ordnung und Sicherheit im Innern überhaupt und zur
+                                                Hilfeleistung bei Elementarereignissen und
+                                                Unglücksfällen aussergewöhnlichen Umfanges bestimmt. </ns0:p>
+                                          <ns0:p type="legal_section"><ns0:label>(2)</ns0:label>
+                                                Ferner obliegt dem Bundesheer der Schutz der Grenzen
+                                                der Republik. </ns0:p>
+                                    </ns0:div>
+                                    <ns0:div type="article">
+                                          <ns0:head>Artikel 70. </ns0:head>
+                                          <ns0:p type="legal_section"><ns0:label>(1)</ns0:label>
+                                                Ueber das Heer verfügt der Bundestag. Insoweit
+                                                diesem nicht durch das Wehrgesetz die unmittelbare
+                                                Verfügung vorbehalten ist, wird damit die
+                                                Bundesregierung oder innerhalb der von ihr erteilten
+                                                Ermächtigung der zuständige Bundesminister betraut. </ns0:p>
+                                          <ns0:p type="legal_section"><ns0:label>(2)</ns0:label>
+                                                Inwieweit auch die Behörden der Länder und Gemeinden
+                                                die Mitwirkung des Bundesheeres zu den in Artikel
+                                                69, Absatz 1, erwähnten Zwecken unmittelbaren
+                                                Anspruch nehmen können, bestimmt das Wehrgesetz.
+                                          </ns0:p>
+                                    </ns0:div>
+                                    <ns0:div type="article">
+                                          <ns0:head>Artikel 71. </ns0:head>
+                                          <ns0:p type="legal_section">Durch Bundesgesetz wird
+                                                geregelt, inwieweit die Länder bei der Ergänzung,
+                                                Verpflegung und Unterbringung des Heeres und der
+                                                Beistellung seiner sonstigen Erfordernisse
+                                                mitwirken.</ns0:p>
                                     </ns0:div>
                               </ns0:div>
                               <ns0:div type="section">
                                     <ns0:head>B. Die Gerichtsbarkeit des Bundes.</ns0:head>
                                     <ns0:div type="article">
                                           <ns0:head>Artikel 72. </ns0:head>
-                                          <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Alle
-                                                Gerichtsbarkeit geht vom Bunde aus. </ns0:p>
-                                          <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Die Urteile und
-                                                Erkenntnisse werden im Namen der Republik
-                                                Oesterreich verkündet und ausgefertigt. </ns0:p>
+                                          <ns0:p type="legal_section"><ns0:label>(1)</ns0:label>
+                                                Alle Gerichtsbarkeit geht vom Bunde aus. </ns0:p>
+                                          <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Die
+                                                Urteile und Erkenntnisse werden im Namen der
+                                                Republik Oesterreich verkündet und ausgefertigt.
+                                          </ns0:p>
                                     </ns0:div>
                                     <ns0:div type="article">
                                           <ns0:head>Artikel 73. </ns0:head>
-                                          <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Die Verfassung
-                                                und Zuständigkeit der Gerichte wird durch
+                                          <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Die
+                                                Verfassung und Zuständigkeit der Gerichte wird durch
                                                 Bundesgesetz festgestellt. </ns0:p>
-                                          <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Niemand darf
-                                                seinem ordentlichen Richter entzogen werden. </ns0:p>
+                                          <ns0:p type="legal_section"><ns0:label>(2)</ns0:label>
+                                                Niemand darf seinem ordentlichen Richter entzogen
+                                                werden. </ns0:p>
                                           <ns0:p type="legal_section"><ns0:label>(3)</ns0:label>
                                                 Ausnahmsgerichte sind nur in den im Gesetze voraus
                                                 bebestimmten Fällen zulässig. Ob ein solcher Fall
@@ -1474,11 +1645,13 @@
                                                 von den in der Strafprozessordnung geregelten
                                                 Fällen, von der Bundesregierung festgesetzt. Die
                                                 Bundesregierunng ist verpflichtet, jeden solchen
-                                                Beschluss ungesäumt dem Bundestag und dem
-                                                  Bundesrat<ns0:pb facs="#facs_24" n="24" xml:id="img_0024" break="yes" /><ns0:fw type="pageNum">- 23 -</ns0:fw>vorzulegen und auf Beschluss einer der
+                                                Beschluss ungesäumt dem Bundestag und dem Bundesrat
+                                                  <ns0:pb facs="#facs_28" n="28" xml:id="img_0028"
+                                                  break="yes"/><ns0:fw type="pageNum">- 27
+                                                  -</ns0:fw> vorzulegen und auf Beschluss einer der
                                                 beiden Körperschaften sofort ausser Kraft zu setzen. </ns0:p>
-                                          <ns0:p type="legal_section"><ns0:label>(4)</ns0:label> Das Verfahren
-                                                wegen Delikte<ns0:choice>
+                                          <ns0:p type="legal_section"><ns0:label>(4)</ns0:label> Das
+                                                Verfahren wegen Delikte<ns0:choice>
                                                   <ns0:sic>-</ns0:sic>
                                                   <ns0:corr>n</ns0:corr>
                                                 </ns0:choice> gegen das Völkerrecht ist durch
@@ -1487,28 +1660,28 @@
                                     </ns0:div>
                                     <ns0:div type="article">
                                           <ns0:head>Artikel 74. </ns0:head>
-                                          <ns0:p type="legal_section">Die Militärgerichtsbarkeit ist -
-                                                ausser für Kriegszeiten - aufzuheben. Das Nähere
+                                          <ns0:p type="legal_section">Die Militärgerichtsbarkeit ist
+                                                - ausser für Kriegszeiten - aufzuheben. Das Nähere
                                                 regelt ein Bundesgesetz. </ns0:p>
                                     </ns0:div>
                                     <ns0:div type="article">
                                           <ns0:head>Artikel 75. </ns0:head>
-                                          <ns0:p type="legal_section">Die Todesstrafe im ordentlichen
-                                                Verfahren ist abgeschafft. </ns0:p>
+                                          <ns0:p type="legal_section">Die Todesstrafe im
+                                                ordentlichen Verfahren ist abgeschafft. </ns0:p>
                                     </ns0:div>
                                     <ns0:div type="article">
                                           <ns0:head>Artikel 76. </ns0:head>
-                                          <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Die Richter
-                                                werden - sofern nicht in der Verfassung oder in dem
-                                                Gerichtsverfassungsgesetze anderes bestimmt ist -
-                                                auf Grund von Besetzungsvorschlägen der durch die
-                                                Gerichtsverfassung dazu bestimmten Senate auf Antrag
-                                                der Bundesregierung von Bundespräsidenten oder auf
-                                                Grund seiner Ermächtigung vom zuständigen
+                                          <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Die
+                                                Richter werden - sofern nicht in der Verfassung oder
+                                                in dem Gerichtsverfassungsgesetze anderes bestimmt
+                                                ist - auf Grund von Besetzungsvorschlägen der durch
+                                                die Gerichtsverfassung dazu bestimmten Senate auf
+                                                Antrag der Bundesregierung von Bundespräsidenten
+                                                oder auf Grund seiner Ermächtigung vom zuständigen
                                                 Bundesminister ernannt. </ns0:p>
-                                          <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Der dem
-                                                zuständigen Bundesminister vorzulegende und von ihm
-                                                an die Bundesregierung zu leitende
+                                          <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Der
+                                                dem zuständigen Bundesminister vorzulegende und von
+                                                ihm an die Bundesregierung zu leitende
                                                 Besetzungsvorschlag hat, wenn genügend Bewerber
                                                 vorhanden sind, mindestens drei Personen, wenn aber
                                                 mehr als eine Stelle zu besetzen ist, mindestens
@@ -1517,14 +1690,14 @@
                                     </ns0:div>
                                     <ns0:div type="article">
                                           <ns0:head>Artikel 77. </ns0:head>
-                                          <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Die Richter
-                                                sind in Ausübung ihres richterlichen Amtes
+                                          <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Die
+                                                Richter sind in Ausübung ihres richterlichen Amtes
                                                 unabhängig. </ns0:p>
-                                          <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> In Ausübung
-                                                seines richterlichen Amtes befindet sich ein Richter
-                                                bei Besorgung aller ihm nach dem Gesetze und der
-                                                Geschäftsverteilung zustehenden gerichtlichen
-                                                Geschäfte, mit Ausschluss der
+                                          <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> In
+                                                Ausübung seines richterlichen Amtes befindet sich
+                                                ein Richter bei Besorgung aller ihm nach dem Gesetze
+                                                und der Geschäftsverteilung zustehenden
+                                                gerichtlichen Geschäfte, mit Ausschluss der
                                                 Justizverwaltungssachen, die nicht nach Vorschrift
                                                 des Gesetzes durch Senate oder Kommissionen zu
                                                 erledigen sind. </ns0:p>
@@ -1534,10 +1707,12 @@
                                           <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Im
                                                 Gerichtsverfassungsgesetze wird eine Altersgrenze
                                                 bestimmt, mit deren Vollendung die Richter in den
-                                                dauernden Ruhe<ns0:pb facs="#facs_25" n="25" xml:id="img_0025" break="no" /><ns0:fw type="pageNum">-
-                                                  24 -</ns0:fw>stand zu versetzen sind. </ns0:p>
-                                          <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Im Übrigen
-                                                dürfen Richter nur in den vom Gesetze
+                                                dauernden Ruhe<ns0:pb facs="#facs_29" n="29"
+                                                  xml:id="img_0029" break="no"/><ns0:fw
+                                                  type="pageNum">- 24 -</ns0:fw>stand zu versetzen
+                                                sind. </ns0:p>
+                                          <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Im
+                                                Übrigen dürfen Richter nur in den vom Gesetze
                                                 vorgeschriebenen Fällen und Formen und auf Grund
                                                 eines förmlichen richterlichen Erkenntnisses ihres
                                                 Amtes entsetzt oder wider ihren Willen an eine
@@ -1551,25 +1726,25 @@
                                                 Förmlichkeiten übersetzt und in den Ruhestand
                                                 versetzt werden können. </ns0:p>
                                           <ns0:p type="legal_section"><ns0:label>(3)</ns0:label> Die
-                                                  zeit<ns0:del>weilige</ns0:del>weise Enthebung der Richter
-                                                von Amte darf nur ihres durch Verfügung des
+                                                  zeit<ns0:del>weilige</ns0:del>weise Enthebung der
+                                                Richter von Amte darf nur ihres durch Verfügung des
                                                 Gerichtsvorstandes oder der höheren Gerichtsbehörde
                                                 unter gleichzeitiger Verweisung der Sache an das
                                                 zuständige Gericht stattfinden. </ns0:p>
                                     </ns0:div>
                                     <ns0:div type="article">
                                           <ns0:head>Artikel 79. </ns0:head>
-                                          <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Die Prüfung der
-                                                Gültigkeit gehörig kundgemachter Gesetze steht den
-                                                Gerichten nicht zu. </ns0:p>
-                                          <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Hat aber ein
-                                                Gericht gegen die Anwendung eines Landesgesetzes aus
-                                                dem Grunde der Bundesgesetzwidrigkeit oder einer
-                                                Verordnung aus dem Grunde der Gesetzwidrigkeit
-                                                Bedenken, so hat es das Verfahren zu unterbrechen
-                                                und den Antrag auf Kassation dieses Gesetzes oder
-                                                dieser Verordnung beim Verfassungsgerichtshof zu
-                                                stellen. </ns0:p>
+                                          <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Die
+                                                Prüfung der Gültigkeit gehörig kundgemachter Gesetze
+                                                steht den Gerichten nicht zu. </ns0:p>
+                                          <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Hat
+                                                aber ein Gericht gegen die Anwendung eines
+                                                Landesgesetzes aus dem Grunde der
+                                                Bundesgesetzwidrigkeit oder einer Verordnung aus dem
+                                                Grunde der Gesetzwidrigkeit Bedenken, so hat es das
+                                                Verfahren zu unterbrechen und den Antrag auf
+                                                Kassation dieses Gesetzes oder dieser Verordnung
+                                                beim Verfassungsgerichtshof zu stellen. </ns0:p>
                                     </ns0:div>
                                     <ns0:div type="article">
                                           <ns0:head>Artikel 80. </ns0:head>
@@ -1590,12 +1765,12 @@
                                                 Angeklagten. </ns0:p>
                                     </ns0:div>
                                     <ns0:div type="article">
-                                          <ns0:pb facs="#facs_26" n="26" xml:id="img_0026" break="yes" />
-                                          <ns0:fw type="pageNum">- 25 -</ns0:fw>
-                                          <ns0:head>Artikel 82. </ns0:head>
-                                          <ns0:p type="legal_section">Als oberste Instanz in Zivil- und
-                                                Strafrechtssachen besteht der Oberste Gerichtshof in
-                                                Wien. </ns0:p>
+                                          <ns0:head><ns0:pb facs="#facs_30" n="30" xml:id="img_0030"
+                                                  break="no"/><ns0:fw type="pageNum">- 25
+                                                -</ns0:fw>Artikel 82. </ns0:head>
+                                          <ns0:p type="legal_section">Als oberste Instanz in Zivil-
+                                                und Strafrechtssachen besteht der Oberste
+                                                Gerichtshof in Wien. </ns0:p>
                                     </ns0:div>
                                     <ns0:div type="article">
                                           <ns0:head>Artikel 83. </ns0:head>
@@ -1605,10 +1780,11 @@
                                     </ns0:div>
                                     <ns0:div type="article">
                                           <ns0:head>Artikel 84.</ns0:head>
-                                          <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Die Justiz wird
-                                                von der Verwaltung in allen Instanzen getrennt. </ns0:p>
-                                          <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> In allen
-                                                Fällen, wo eine Verwaltungsbehörde über
+                                          <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Die
+                                                Justiz wird von der Verwaltung in allen Instanzen
+                                                getrennt. </ns0:p>
+                                          <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> In
+                                                allen Fällen, wo eine Verwaltungsbehörde über
                                                 Privatrechtsansprüche zu entscheiden hat, steht es
                                                 dem durch diese Entscheidung Benachteiligten frei,
                                                 wenn nicht im Gesetze etwas anderes bestimmt ist,
@@ -1646,14 +1822,14 @@
                                           Landtage und ihrer Ausschüsse. </ns0:p>
                               </ns0:div>
                               <ns0:div type="article">
-                                    <ns0:pb facs="#facs_27" n="27" xml:id="img_0027" break="yes" />
-                                    <ns0:fw type="pageNum">- 26 -</ns0:fw>
-                                    <ns0:head>Artikel 87. </ns0:head>
-                                    <ns0:p type="legal_section">Zu einem Landesgesetz ist erforderlich
-                                          der Beschluss des Landtages, die Beurkundung durch dessen
-                                          Präsidenten, die Gegenzeichnung durch den Landeshauptmann
-                                          und die Kundmachung duch die Landesregierung im
-                                          Landesgesetzblatte. </ns0:p>
+                                    <ns0:head><ns0:pb facs="#facs_31" n="31" xml:id="img_0031"
+                                                break="yes"/><ns0:fw type="pageNum">- 26 -
+                                          </ns0:fw>Artikel 87. </ns0:head>
+                                    <ns0:p type="legal_section">Zu einem Landesgesetz ist
+                                          erforderlich der Beschluss des Landtages, die Beurkundung
+                                          durch dessen Präsidenten, die Gegenzeichnung durch den
+                                          Landeshauptmann und die Kundmachung duch die
+                                          Landesregierung im Landesgesetzblatte. </ns0:p>
                               </ns0:div>
                               <ns0:div type="article">
                                     <ns0:head>Artikel 88. </ns0:head>
@@ -1699,9 +1875,11 @@
                                     <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Jeder Landtag kann
                                           auf Antrag der Bundesregierung mit Zustimmung des
                                           Bundesrates vom Bundespräsidenten aufgelöst werden.</ns0:p>
-                                    <ns0:p type="legal_section"><ns0:pb facs="#facs_28" n="28" xml:id="img_0028" break="yes" /><ns0:fw type="pageNum">-
-                                                27 -</ns0:fw><ns0:label>(2)</ns0:label> In diesem Falle hat der
-                                          Landeshauptmann binnen sechs Wochen Neuwahlen
+                                    <ns0:p type="legal_section"><ns0:pb facs="#facs_32" n="32"
+                                                xml:id="img_0032" break="yes"/><ns0:fw
+                                                type="pageNum">- 27
+                                                -</ns0:fw><ns0:label>(2)</ns0:label> In diesem Falle
+                                          hat der Landeshauptmann binnen sechs Wochen Neuwahlen
                                           auszuschreiben und binnen vier Wochen nach durchgeführter
                                           Wahl den neugewählten Landtag einzuberufen. </ns0:p>
                               </ns0:div>
@@ -1741,16 +1919,17 @@
                               </ns0:div>
                               <ns0:div type="article">
                                     <ns0:head>Artikel 94. </ns0:head>
-                                    <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Der Landeshauptmann
-                                          oder sein Stellvertreter vertritt das Land. Er trägt in
-                                          den Angelegenheiten des der Landesregierung<ns0:choice>
+                                    <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Der
+                                          Landeshauptmann oder sein Stellvertreter vertritt das
+                                          Land. Er trägt in den Angelegenheiten des der Landesregierung<ns0:choice>
                                                 <ns0:sic> Ü</ns0:sic>
                                                 <ns0:corr>ü</ns0:corr>
-                                          </ns0:choice>bertragenen Wirkungskreises der Bundesgewalt die
-                                          Verantwortung gegenüber der Bundesregierung gemäss Artikel
-                                          der Bundesverfassung.<ns0:pb facs="#facs_29" n="29" xml:id="img_0029" break="yes" /><ns0:fw type="pageNum">-
-                                                28 -</ns0:fw>Der Geltendmachung dieser Verantwortung
-                                          steht die Immunität nicht im Wege. </ns0:p>
+                                          </ns0:choice>bertragenen Wirkungskreises der Bundesgewalt
+                                          die Verantwortung gegenüber der Bundesregierung gemäss
+                                          Artikel der Bundesverfassung.<ns0:pb facs="#facs_33"
+                                                n="33" xml:id="img_0033" break="yes"/><ns0:fw
+                                                type="pageNum">- 28 -</ns0:fw>Der Geltendmachung
+                                          dieser Verantwortung steht die Immunität nicht im Wege. </ns0:p>
                                     <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Dem Landtage sind die
                                           Mitglieder der Landesregierung gemäss Artikel der
                                           Bundesverfassung verantwortlich. </ns0:p>
@@ -1800,11 +1979,12 @@
                               </ns0:div>
                               <ns0:div type="article">
                                     <ns0:head>Artikel 98. </ns0:head>
-                                    <ns0:p type="legal_section">Vereinbarungen der Länder untereinander
-                                          können nur über Angele<ns0:pb facs="#facs_30" n="30" xml:id="img_0030" break="no" /><ns0:fw type="pageNum">-
-                                                29 -</ns0:fw>genheiten ihres selbständigen
-                                          Wirkungskreises und nur durch Vermittlung der
-                                          Bundesregierung getroffen werden.</ns0:p>
+                                    <ns0:p type="legal_section">Vereinbarungen der Länder
+                                          untereinander können nur über Angele<ns0:pb
+                                                facs="#facs_34" n="34" xml:id="img_0034" break="no"
+                                                /><ns0:fw type="pageNum">- 33 -</ns0:fw>genheiten
+                                          ihres selbständigen Wirkungskreises und nur durch
+                                          Vermittlung der Bundesregierung getroffen werden.</ns0:p>
                               </ns0:div>
                         </ns0:div>
                         <ns0:div type="section">
@@ -1855,11 +2035,11 @@
                                           Stellvertreter die Bestimmungen des Artikels.</ns0:p>
                               </ns0:div>
                               <ns0:div type="article">
-                                    <ns0:pb facs="#facs_31" n="31" xml:id="img_0031" break="yes" />
-                                    <ns0:fw type="pageNum">- 30 - </ns0:fw>
-                                    <ns0:head>Artikel 103. </ns0:head>
-                                    <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Die Beamten des
-                                          Rechnungshofes ernennt auf Vorschlag und unter
+                                    <ns0:head><ns0:pb facs="#facs_35" n="35" xml:id="img_0035"
+                                                break="yes"/><ns0:fw type="pageNum">- 30
+                                          -</ns0:fw>Artikel 103. </ns0:head>
+                                    <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Die
+                                          Beamten des Rechnungshofes ernennt auf Vorschlag und unter
                                           Gegenzeichnung des Präsidenten des Rechnungshofes der
                                           Bundespräsident. Das Gleiche gilt für die Verleihung von
                                           Amtstiteln. Doch kann der Bundespräsident den Präsistenten
@@ -1867,9 +2047,9 @@
                                                 <ns0:sic>a</ns0:sic>
                                                 <ns0:corr>s</ns0:corr>
                                           </ns0:choice>sen nach Anhörung des Gremiums zu ernennen. </ns0:p>
-                                    <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Die Hilfskräfte
-                                          ernennt der Präsident des Rechnungshofes nach Anhörung des
-                                          Gremiums.</ns0:p>
+                                    <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Die
+                                          Hilfskräfte ernennt der Präsident des Rechnungshofes nach
+                                          Anhörung des Gremiums.</ns0:p>
                               </ns0:div>
                               <ns0:div type="article">
                                     <ns0:head>Artikel 104. </ns0:head>
@@ -1912,11 +2092,11 @@
                                           diesem die Landesrechnungsabschlüsse und legt
                                                 <ns0:del>dem</ns0:del> den ersteren dem Bundestag, die
                                           letzteren dem Bundesrate vor.</ns0:p>
-                                    <ns0:p type="legal_section"><ns0:pb facs="#facs_32" n="32" xml:id="img_0032" break="yes" /><ns0:fw type="pageNum">-
-                                                31 -</ns0:fw>
-                                          <ns0:label>(2)</ns0:label> Der Bundesrat übermittelt die
-                                          Landesrechnungsabschlüsse den zuständigen Landtagen zur
-                                          verfassungsmässigen Behandlung. </ns0:p>
+                                    <ns0:p type="legal_section"><ns0:pb facs="#facs_36" n="36"
+                                                xml:id="img_0036" break="yes"/><ns0:fw
+                                                type="pageNum">- 3177                                                -</ns0:fw><ns0:label>(2)</ns0:label> Der Bundesrat
+                                          übermittelt die Landesrechnungsabschlüsse den zuständigen
+                                          Landtagen zur verfassungsmässigen Behandlung. </ns0:p>
                               </ns0:div>
                               <ns0:div type="article">
                                     <ns0:head>Artikel 108. </ns0:head>
@@ -1966,11 +2146,12 @@
                                     <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Die
                                           Auswanderungsfreiheit ist nur aus dem Grunde der
                                           Landesverteidigung beschränkbar.</ns0:p>
-                                    <ns0:p type="legal_section"><ns0:pb facs="#facs_33" n="33" xml:id="img_0033" break="yes" /><ns0:fw type="pageNum">-
-                                                32 -</ns0:fw>
-                                          <ns0:label>(2)</ns0:label> Der Verlust der Staatsbürgerschaft
-                                          infolge Auswanderung wird durch Bundesgesetz geregelt.
-                                    </ns0:p>
+                                    <ns0:p type="legal_section"><ns0:pb facs="#facs_37" n="37"
+                                                xml:id="img_0037" break="yes"/><ns0:fw
+                                                type="pageNum">- 32
+                                                -</ns0:fw><ns0:label>(2)</ns0:label> Der Verlust der
+                                          Staatsbürgerschaft infolge Auswanderung wird durch
+                                          Bundesgesetz geregelt. </ns0:p>
                               </ns0:div>
                               <ns0:div type="article">
                                     <ns0:head>Artikel 114. </ns0:head>
@@ -2016,14 +2197,16 @@
                                     <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Die Freiheit der
                                           Meinungsäusserung ist nur durch das Strafgesetz
                                           beschränkt. </ns0:p>
-                                    <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Die Pressfreiheit ist
-                                          gewährleistet. Die Beschlagnahme von Druckwerken darf nur
-                                          aus den vom Strafgesetz, von der Strafprozessordnung und
-                                          vom Pressgesetz vorgesehenen Gründen stattfinden. Sie ist
-                                          ohne gleichzeitige Verfolgung des Täters ausgeschlossen.
-                                          Das Postverbot kann nur gegen aus<ns0:pb facs="#facs_34" n="34" xml:id="img_0034" break="no" /><ns0:fw type="pageNum">- 33 -</ns0:fw>ländische Druckschriften
-                                          in den durch Bundesgesetz vorgesehenen Fällen erlassen
-                                          werden. </ns0:p>
+                                    <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Die
+                                          Pressfreiheit ist gewährleistet. Die Beschlagnahme von
+                                          Druckwerken darf nur aus den vom Strafgesetz, von der
+                                          Strafprozessordnung und vom Pressgesetz vorgesehenen
+                                          Gründen stattfinden. Sie ist ohne gleichzeitige Verfolgung
+                                          des Täters ausgeschlossen. Das Postverbot kann nur gegen
+                                                aus<ns0:pb facs="#facs_38" n="38" xml:id="img_0038"
+                                                break="no"/><ns0:fw type="pageNum">- 37
+                                          -</ns0:fw>ländische Druckschriften in den durch
+                                          Bundesgesetz vorgesehenen Fällen erlassen werden. </ns0:p>
                                     <ns0:p type="legal_section"><ns0:label>(3)</ns0:label> Jede Zensur ist
                                           aufgehoben; doch können für Theater und Lichtspiele durch
                                           Gesetz abweichende Bestimmungen getroffen werden. Auch
@@ -2074,12 +2257,15 @@
                                                 <ns0:sic>a</ns0:sic>
                                                 <ns0:corr>e</ns0:corr>
                                           </ns0:choice>nntnis kein Abbruch geschehen. </ns0:p>
-                                    <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Niemand ist
-                                          verpflichtet, seine religiöse Ueberzeugung<ns0:pb facs="#facs_35" n="35" xml:id="img_0035" break="yes" /><ns0:fw type="pageNum">- 34 -</ns0:fw> zu offenbaren. Die
-                                          Behörden haben nur so weit das Recht, nach Zugehörigkeit
-                                          zu einer Religionsgesellschaft zu fragen, als davon Rechte
-                                          und Pflichten abhängen oder eine gesetzlich angeordnete
-                                          statistische Erhebung dies erfordert. </ns0:p>
+                                    <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Niemand
+                                          ist verpflichtet, seine religiöse Ueberzeugung <ns0:pb
+                                                facs="#facs_39" n="39" xml:id="img_0039" break="yes"
+                                                /><ns0:fw type="pageNum">- 34 -</ns0:fw>zu
+                                          offenbaren. Die Behörden haben nur so weit das Recht, nach
+                                          Zugehörigkeit zu einer Religionsgesellschaft zu fragen,
+                                          als davon Rechte und Pflichten abhängen oder eine
+                                          gesetzlich angeordnete statistische Erhebung dies
+                                          erfordert. </ns0:p>
                                     <ns0:p type="legal_section"><ns0:label>(3)</ns0:label> In diesem Sinne ist
                                           durch Bundesgesetz die Führung der Standesregister zu
                                           regeln. </ns0:p>
@@ -2128,13 +2314,14 @@
                                           Befriedigung ihrer religiösen Bedürfnisse zu gewähren.</ns0:p>
                               </ns0:div>
                               <ns0:div type="article">
-                                    <ns0:pb facs="#facs_36" n="36" xml:id="img_0036" break="yes" />
-                                    <ns0:fw type="pageNum">- 35 -</ns0:fw>
-                                    <ns0:head>Artikel 126. </ns0:head>
-                                    <ns0:p type="legal_section">Soweit das Bedürfnis nach Gottesdienst
-                                          und Seelsorge in öffentlichen Anstalten besteht, sind die
-                                          Religionsgesellschaften zur Vornahme religiöser Handlungen
-                                          zuzulassen, wobei jeder Zwang fernzuhalten ist. </ns0:p>
+                                    <ns0:head><ns0:pb facs="#facs_40" n="40" xml:id="img_0040"
+                                                break="yes"/><ns0:fw type="pageNum">- 35 -
+                                          </ns0:fw>Artikel 126. </ns0:head>
+                                    <ns0:p type="legal_section">Soweit das Bedürfnis nach
+                                          Gottesdienst und Seelsorge in öffentlichen Anstalten
+                                          besteht, sind die Religionsgesellschaften zur Vornahme
+                                          religiöser Handlungen zuzulassen, wobei jeder Zwang
+                                          fernzuhalten ist. </ns0:p>
                               </ns0:div>
                               <ns0:div type="article">
                                     <ns0:head>Artikel 127. </ns0:head>
@@ -2184,22 +2371,22 @@
                                           Abdruck der Verfassung.</ns0:p>
                               </ns0:div>
                               <ns0:div type="article">
-                                    <ns0:pb facs="#facs_37" n="37" xml:id="img_0037" break="yes" />
-                                    <ns0:fw type="pageNum">- 36 -</ns0:fw>
-                                    <ns0:head>Artikel 132. </ns0:head>
-                                    <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Von Staats wegen wird
-                                          weder Religionsunterricht erteilt, noch für die Ausbildung
-                                          von Seelsorgern irgend einer Religion gesorgt. Doch ist
-                                          den Religionsgesellschaften Gelegenheit zu geben, an den
-                                          öffentlichen Volksschulen im Rahmen des Unterrichtsplanes
-                                          für den Unterricht in ihrer Religion Sorge zu tragen. Dem
-                                          Aufsichtsrecht des Staates kann dadurch kein Abbruch
-                                          geschehen. </ns0:p>
-                                    <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Die Teilnahme der
-                                          Schüler an dem Religionsunterrichte und an kirchlichen
-                                          Feiern und Handlungen bleibt der Willenserklärung
-                                          desjenigen Überlassen, der über die religiose Erziehung
-                                          des Kindes zu bestimmen hat. </ns0:p>
+                                    <ns0:head><ns0:pb facs="#facs_41" n="41" xml:id="img_0041"
+                                                break="yes"/><ns0:fw type="pageNum">- 36
+                                          -</ns0:fw>Artikel 132. </ns0:head>
+                                    <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Von
+                                          Staats wegen wird weder Religionsunterricht erteilt, noch
+                                          für die Ausbildung von Seelsorgern irgend einer Religion
+                                          gesorgt. Doch ist den Religionsgesellschaften Gelegenheit
+                                          zu geben, an den öffentlichen Volksschulen im Rahmen des
+                                          Unterrichtsplanes für den Unterricht in ihrer Religion
+                                          Sorge zu tragen. Dem Aufsichtsrecht des Staates kann
+                                          dadurch kein Abbruch geschehen. </ns0:p>
+                                    <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Die
+                                          Teilnahme der Schüler an dem Religionsunterrichte und an
+                                          kirchlichen Feiern und Handlungen bleibt der
+                                          Willenserklärung desjenigen Überlassen, der über die
+                                          religiose Erziehung des Kindes zu bestimmen hat. </ns0:p>
                               </ns0:div>
                               <ns0:div type="article">
                                     <ns0:head>Artikel 133. </ns0:head>
@@ -2239,24 +2426,26 @@
                                           zu beteilen.</ns0:p>
                               </ns0:div>
                               <ns0:div type="article">
-                                    <ns0:pb facs="#facs_38" n="38" xml:id="img_0038" break="yes" />
-                                    <ns0:fw type="pageNum">- 37 -</ns0:fw>
-                                    <ns0:head>Artikel 136. </ns0:head>
-                                    <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Das Eigentum ist nur
-                                          insoweit gewährleistet, als nicht das Gesetz
-                                          Beschränkungen und Enteignungen vorsieht. </ns0:p>
-                                    <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Eine Enteignung gegen
-                                          den Willen des Eigentümers ist - soweit nicht durch Gesetz
-                                          anders bestimmt wird - nur gegen angemessene Entschädigung
-                                          zulässig. Ueber die Höhe der Entschädigung entscheiden im
-                                          Streitfalle die ordentlichen Gerichte. </ns0:p>
-                                    <ns0:p type="legal_section"><ns0:label>(3)</ns0:label> Die Zwecke, zu denen
-                                          enteignet werden kann, werden in besonderen Gesetzen, das
-                                          Enteignungsverfahren wird durch Bundesgesetz geregelt. </ns0:p>
-                                    <ns0:p type="legal_section"><ns0:label>(4)</ns0:label> In welchen Fällen auf
-                                          Verfall oder Einziehung von Gegenständen als Folge einer
-                                          rechtswidrigen Handlung zu erkennen ist, bestimmt das
-                                          Gesetz. </ns0:p>
+                                    <ns0:head><ns0:pb facs="#facs_42" n="42" xml:id="img_0042"
+                                                break="yes"/><ns0:fw type="pageNum">- 37
+                                          -</ns0:fw>Artikel 136. </ns0:head>
+                                    <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Das
+                                          Eigentum ist nur insoweit gewährleistet, als nicht das
+                                          Gesetz Beschränkungen und Enteignungen vorsieht. </ns0:p>
+                                    <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Eine
+                                          Enteignung gegen den Willen des Eigentümers ist - soweit
+                                          nicht durch Gesetz anders bestimmt wird - nur gegen
+                                          angemessene Entschädigung zulässig. Ueber die Höhe der
+                                          Entschädigung entscheiden im Streitfalle die ordentlichen
+                                          Gerichte. </ns0:p>
+                                    <ns0:p type="legal_section"><ns0:label>(3)</ns0:label> Die
+                                          Zwecke, zu denen enteignet werden kann, werden in
+                                          besonderen Gesetzen, das Enteignungsverfahren wird durch
+                                          Bundesgesetz geregelt. </ns0:p>
+                                    <ns0:p type="legal_section"><ns0:label>(4)</ns0:label> In
+                                          welchen Fällen auf Verfall oder Einziehung von
+                                          Gegenständen als Folge einer rechtswidrigen Handlung zu
+                                          erkennen ist, bestimmt das Gesetz. </ns0:p>
                               </ns0:div>
                               <ns0:div type="article">
                                     <ns0:head>Artikel 137. </ns0:head>
@@ -2287,12 +2476,14 @@
                                           Verwendung, Preisgestaltung sowie Ein- und Ausfuhr der
                                           Wirtschaftsgüter nach gemeinwirtschaftlichen Grundsätzen
                                           zu regeln.</ns0:p>
-                                    <ns0:p type="legal_section"><ns0:pb facs="#facs_39" n="39" xml:id="img_0039" break="yes" /><ns0:fw type="pageNum">-
-                                                38 -</ns0:fw>
-                                          <ns0:label>(3)</ns0:label> Die Erwerbs- und
-                                          Wirtschaftsgenossenschaften und deren Vereinigungen sind
-                                          auf ihr Verlangen unter Berücksichtigung ihrer Verfassung
-                                          und Eigenart in die Gemeinwirtschaft einzugliedern. </ns0:p>
+                                    <ns0:p type="legal_section"><ns0:pb facs="#facs_43" n="43"
+                                                xml:id="img_0043" break="yes"/><ns0:fw
+                                                type="pageNum">- 38
+                                                -</ns0:fw><ns0:label>(3)</ns0:label> Die Erwerbs-
+                                          und Wirtschaftsgenossenschaften und deren Vereinigungen
+                                          sind auf ihr Verlangen unter Berücksichtigung ihrer
+                                          Verfassung und Eigenart in die Gemeinwirtschaft
+                                          einzugliedern. </ns0:p>
                               </ns0:div>
                               <ns0:div type="article">
                                     <ns0:head>Artikel 139. </ns0:head>
@@ -2338,9 +2529,11 @@
                                     <ns0:p type="legal_section">Zur Erhaltung der Gesundheit und
                                           Arbeitsfähigkeit, zum Schutze der Mutterschaft und zur
                                           Vorsorge von wirtschaftlichen Folgen von Alter, Schwäche
-                                          und Wechselfällen des Lebens schafft<ns0:pb facs="#facs_40" n="40" xml:id="img_0040" break="yes" /><ns0:fw type="pageNum">- 39 - </ns0:fw>der Bund ein umfassendes
-                                          Versicherungswesen unter massgebender Mitwirkung der
-                                          Versicherten. </ns0:p>
+                                          und Wechselfällen des Lebens schafft<ns0:pb
+                                                facs="#facs_44" n="44" xml:id="img_0044" break="yes"
+                                                /><ns0:fw type="pageNum">- 39 -</ns0:fw>der Bund ein
+                                          umfassendes Versicherungswesen unter massgebender
+                                          Mitwirkung der Versicherten. </ns0:p>
                               </ns0:div>
                               <ns0:div type="article">
                                     <ns0:head>Artikel 144. </ns0:head>
@@ -2389,19 +2582,20 @@
                                                 Verwaltungsgerichtshof.</ns0:p>
                                     </ns0:div>
                                     <ns0:div type="article">
-                                          <ns0:pb facs="#facs_41" n="41" xml:id="img_0041" break="yes" />
-                                          <ns0:fw type="pageNum">- 40 -</ns0:fw>
-                                          <ns0:head>Artikel 148. </ns0:head>
+                                          <ns0:head><ns0:pb facs="#facs_45" n="45" xml:id="img_0045"
+                                                  break="yes"/>
+                                                <ns0:fw type="pageNum">- 40 -</ns0:fw>Artikel 148. </ns0:head>
                                           <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Der
                                                 Verwaltungsgerichtshof hat in der Regel nur über
                                                 Beschwerde der Parteien zu erkennen. </ns0:p>
-                                          <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Doch kann, wenn
-                                                die Entscheidung oder Verfügung einer Landesbehörde
-                                                die Interessen des Bundes verletzt, auch die
-                                                Bundesregierung, wenn die Entscheidung oder
-                                                Verfügung einer Bundesbehörde die Interessen eines
-                                                Landes verletzt, die zuständige Landesregierung den
-                                                Verwaltungsgerichtshof anrufen. </ns0:p>
+                                          <ns0:p type="legal_section"><ns0:label>(2)</ns0:label>
+                                                Doch kann, wenn die Entscheidung oder Verfügung
+                                                einer Landesbehörde die Interessen des Bundes
+                                                verletzt, auch die Bundesregierung, wenn die
+                                                Entscheidung oder Verfügung einer Bundesbehörde die
+                                                Interessen eines Landes verletzt, die zuständige
+                                                Landesregierung den Verwaltungsgerichtshof anrufen.
+                                          </ns0:p>
                                     </ns0:div>
                                     <ns0:div type="article">
                                           <ns0:head>Artikel 149.</ns0:head>
@@ -2456,8 +2650,12 @@
                                           <ns0:p type="legal_section">Jedem Senate des
                                                 Verwaltungsgerichtshofes, der über die angefochtene
                                                 Entscheidung oder Verfügung einer
-                                                  Landesverwaltungsbehörde<ns0:pb facs="#facs_42" n="42" xml:id="img_0042" break="yes" /><ns0:fw type="pageNum">- 41 -</ns0:fw>zu erkennen hat, soll wenigstens ein
-                                                Richter angehören, der aus dem Justiz- oder
+                                                Landesverwaltungsbehörde <ns0:pb facs="#facs_46"
+                                                  n="46" xml:id="img_0046" break="yes"
+                                                  xmlns="http://www.tei-c.org/ns/1.0"/><ns0:fw
+                                                  type="pageNum" xmlns="http://www.tei-c.org/ns/1.0"
+                                                  >- 41 -</ns0:fw>zu erkennen hat, soll wenigstens
+                                                ein Richter angehören, der aus dem Justiz- oder
                                                 Verwaltungsdienst in dem betreffenden Lande
                                                 hervorgegangen ist. :/</ns0:p>
                                     </ns0:div>
@@ -2515,13 +2713,17 @@
                                     <ns0:div type="article">
                                           <ns0:head>Artikel 158. </ns0:head>
                                           <ns0:p type="legal_section">Er entscheidet ferner
-                                                  Kompetenzkonflikte<ns0:pb facs="#facs_43" n="43" xml:id="img_0043" break="yes" /><ns0:fw type="pageNum">- 42 -</ns0:fw><ns0:list>
+                                                  Kompetenzkonflikte<ns0:pb facs="#facs_47" n="47"
+                                                  xml:id="img_0047" break="yes"
+                                                  xmlns="http://www.tei-c.org/ns/1.0"/><ns0:fw
+                                                  type="pageNum" xmlns="http://www.tei-c.org/ns/1.0"
+                                                  >- 42 -</ns0:fw><ns0:list>
                                                   <ns0:label>a) </ns0:label>
-                                                  <ns0:item>zwischen Berichten und Verwaltungsbehörden
-                                                  des Bundes oder der Länder, </ns0:item>
+                                                  <ns0:item>zwischen Berichten und
+                                                  Verwaltungsbehörden des Bundes oder der Länder, </ns0:item>
                                                   <ns0:label>b) </ns0:label>
-                                                  <ns0:item>zwischen dem Verwaltungsgerichtshof und den
-                                                  ordentlichen Gerichten, </ns0:item>
+                                                  <ns0:item>zwischen dem Verwaltungsgerichtshof und
+                                                  den ordentlichen Gerichten, </ns0:item>
                                                   <ns0:label>c) </ns0:label>
                                                   <ns0:item>zwischen Landesregierungen untereinander
                                                   sowie zwischen einer Landesrerierung und der
@@ -2572,9 +2774,11 @@
                                                 Schranken gebunden.</ns0:p>
                                     </ns0:div>
                                     <ns0:div type="article">
-                                          <ns0:pb facs="#facs_44" n="44" xml:id="img_0044" break="yes" />
-                                          <ns0:fw type="pageNum">- 43 -</ns0:fw>
-                                          <ns0:head>Artikel 161.</ns0:head>
+                                          <ns0:head><ns0:pb facs="#facs_48" n="48" xml:id="img_0048"
+                                                  break="yes" xmlns="http://www.tei-c.org/ns/1.0"
+                                                  /><ns0:fw type="pageNum"
+                                                  xmlns="http://www.tei-c.org/ns/1.0">- 43
+                                                  -</ns0:fw>Artikel 161.</ns0:head>
                                           <ns0:p type="legal_section">Der Verfassungsgerichtshof
                                                 entscheidet über Anfechtungen von Wahlen zum
                                                 Bundestag, zu den Landtagen und allen anderen
@@ -2625,11 +2829,14 @@
                                           <ns0:head>Artikel 163.</ns0:head>
                                           <ns0:p type="legal_section"><ns0:label>(1)</ns0:label> Der
                                                 Verfassungsgerichtshof entscheidet über Beschwerden
-                                                  wegen<ns0:pb facs="#facs_45" n="45" xml:id="img_0045" break="yes" />
-                                                <ns0:fw type="pageNum">- 44 -</ns0:fw>Verletzung eines der
-                                                in den Artikeln .... bis .... gewährleisteten Rechte
-                                                durch eine Behörde nach Erschöpfung des
-                                                administrativen Instanzenzuges. </ns0:p>
+                                                wegen <ns0:pb facs="#facs_49" n="49"
+                                                  xml:id="img_0049" break="yes"
+                                                  xmlns="http://www.tei-c.org/ns/1.0"/><ns0:fw
+                                                  type="pageNum" xmlns="http://www.tei-c.org/ns/1.0"
+                                                  >- 44 -</ns0:fw>Verletzung eines der in den
+                                                Artikeln .... bis .... gewährleisteten Rechte durch
+                                                eine Behörde nach Erschöpfung des administrativen
+                                                Instanzenzuges. </ns0:p>
                                           <ns0:p type="legal_section"><ns0:label>(2)</ns0:label> Das
                                                 stattgebende Erkenntnis des Verfassungsgerichtshofes
                                                 bewirkt die Aufhebung der Verfassungswidrigen
