@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__101">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__160">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Protokoll Sozialdemokratischer Parteivorstand 16. September 1920</title>
+                <title type="main">Stellungnahme des Staatsamtes für Land- und Forstwirtschaft zu Entwurf CS II</title>
                 <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
@@ -56,37 +56,36 @@
                         <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
                     </licence>
                 </availability>
-                <idno type="transkribus_doc">10582299</idno>
+                <idno type="transkribus_doc">None</idno>
                 <idno type="transkribus_collection">196429</idno>
-                <idno type="bv_data_set">Datenset B</idno>
-                <idno type="goobi">18775</idno>
+                <idno type="bv_data_set">Datenset C</idno>
+                <idno type="goobi">19234</idno>
             </publicationStmt>
             <seriesStmt>
-<title>Datenset B</title>
-<biblScope unit="part">3100</biblScope>
+<title>Datenset C</title>
+<biblScope unit="part">6500</biblScope>
 </seriesStmt>
 <sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
                         <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
-                        <idno type="archive">VGA-Archiv, Sitzungsprotokolle Parteivorstand, Mappe 2</idno>
+                        <idno type="archive">AdR, StA LuFw, Präs Zl. 2028 ex 1920</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <author role="acdh:hasAuthor">Sozialdemokratische Partei</author>
-                            <title>Protokoll Sozialdemokratischer Parteivorstand 16. September 1920</title>
-                            <note type="editor">Protokoll der Sitzung des Sozialdemokratischen Parteivorstandes, 16. September 1920, Beschlussprotokoll, offenbar nachträglich angefertigt. Zustand: gut, keine Anmerkungen</note>
+                            <title>Stellungnahme des Staatsamtes für Land- und Forstwirtschaft zu Entwurf CS II</title>
+                            <note type="editor"/>
                         </msItem>
                     </msContents>
                     <physDesc>
-                        <objectDesc form="Typoskript">
+                        <objectDesc form="">
                         </objectDesc>
                         <handDesc>
                         </handDesc>
                     </physDesc>
                     <history>
-                        <origin notBefore-iso="1920-09-16" notAfter-iso="1920-09-16">16. September 1920</origin>
+                        <origin notBefore-iso="None" notAfter-iso="None"/>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -96,8 +95,8 @@
                 <p/>
             </abstract>
             <creation>
-                <date notBefore-iso="1920-09-16" notAfter-iso="1920-09-16">
-                    16. September 1920
+                <date notBefore-iso="None" notAfter-iso="None">
+                    
                 </date>
             </creation>
         </profileDesc>
@@ -105,32 +104,8 @@
             <change when="2026-06-07" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
-    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
-      <surface ulx="0" uly="0" lrx="2468" lry="3510" xml:id="facs_1">
-         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__101/files/images/0001/full/full/0/default.jpg" width="2468px" height="3510px"/>
-         </surface>
-      <surface ulx="0" uly="0" lrx="2468" lry="3510" xml:id="facs_2">
-         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__101/files/images/0002/full/full/0/default.jpg" width="2468px" height="3510px"/>
-         </surface>
-   </facsimile>
-   
-    <text type="Sitzungsprotokoll">
-        <body>
-         <div type="main">
-            <pb facs="#facs_1" n="1" xml:id="img_0001" break="yes"/>
-            <p>Partel-ArchiV. VOI 1934.
-            </p>
-            <p>Mappe Nr. 2 Sitzungsprotokolle. Parteivorstand etc. maschinegeschr.)
-            <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
-            1 03
-            </p>
-            
-            <p>6325
-            </p>
-            <p>Protokoll der Sitzung des Partsivorstandes geweinsem mit dem Hlub der Abgeordneten am 16. September 1920. Beginn: 10 Uhr vormittags. Vorsitz: Eldersch. Verfessungsfrage. Bauer berichtet über den Stand der Beratungen. Lange Debatte. Beschluss: Es ist zu verlautbaren, dass wir bereit sind, die Verfassung noch vor den Neuwahlen fartig zu machen, aber auf bestimmten Forderunger bestehen müssen. Schluss der Sitzung 5 Uhr nachmittags. 129 E Protokoll der Sitzung des Parteizerstendes am 26. Septenber 1920. Beginn: 3 9 Uhr abends. Vorsitz: Seitz. Aowesend: Bauer, David, Ellenbogen, Glöckel, Porz, Skaret, Tonschik, Enmerling, Teutsch, Pölzer, Proft, Schlösinger, Danneberg. zindarbeiterkonferenz. Skeret schlägt vor, zur n. ö. Landarbei terkonferenz den Gen. David zu delegieren und für die Konferenz 300 Landvolk-Broschüren, eventuell auch mehr, zur Verfügung zu stellen. Beschluss: Angenommen. Torerlberg. Skaret beantragt, die monatliche Subvention von 1030 Fronen bis Ende Dezenber 1920 meiter zu zahlen. Beschluss: Angenomnen. Pension Sroboda. Skaret beantragt, die Pension für die ehenslige Bedienerin Srobode ab l. Septenber auf 100 Tronen monstlich zu erhöhen. geschluse: Angenomnen.
-            </p>
-         </div>
-      </body>
-   
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface xml:id="facs_1"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__160/files/images/20000/full/full/0/default.jpg"/></surface><surface xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__160/files/images/20001/full/full/0/default.jpg"/></surface><surface xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__160/files/images/20002/full/full/0/default.jpg"/></surface><surface xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__160/files/images/20003/full/full/0/default.jpg"/></surface><surface xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__160/files/images/20004/full/full/0/default.jpg"/></surface><surface xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__160/files/images/20005/full/full/0/default.jpg"/></surface><surface xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__160/files/images/20006/full/full/0/default.jpg"/></surface><surface xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__160/files/images/20007/full/full/0/default.jpg"/></surface><surface xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__160/files/images/20008/full/full/0/default.jpg"/></surface><surface xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__160/files/images/20009/full/full/0/default.jpg"/></surface><surface xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__160/files/images/20010/full/full/0/default.jpg"/></surface><surface xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__160/files/images/20011/full/full/0/default.jpg"/></surface><surface xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__160/files/images/20012/full/full/0/default.jpg"/></surface><surface xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__160/files/images/20013/full/full/0/default.jpg"/></surface></facsimile>
+    <text type="">
+        <body><div type="main"><pb facs="#facs_1" n="1" xml:id="img_0001" break="yes"/><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/></div></body>
     </text>
 </TEI>
