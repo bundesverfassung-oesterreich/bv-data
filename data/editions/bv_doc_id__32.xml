@@ -1033,9 +1033,23 @@
               das betreffende Land selbst.</p>
           </div>
           <div type="article">
+            <fw type="pageNum"><choice>
+                <sic/>
+                <corr>- 16 -</corr>
+              </choice></fw>
+            <head><choice>
+                <sic/>
+                <corr>Artikel 16</corr>
+              </choice></head>
+            <p type="legal_section"><choice>
+                <sic/>
+                <corr>Bundesrecht bricht Landesrecht.</corr>
+              </choice></p>
+          </div>
+          <div type="article">
             <pb facs="#facs_26" n="26" xml:id="img_0026" break="yes"/>
             <fw type="pageNum">- 17 -</fw>
-            <head>Artikel 17 </head>
+            <head>Artikel 17</head>
             <p type="legal_section">Die allgemein anerkannten Regeln des Völkerrechtes gelten als
               bindende Bestandteile des Bundesrechtes.</p>
           </div>
