@@ -329,8 +329,12 @@
                               <div type="article">
                                     <head>Art. 3.</head>
                                     <p type="legal_section">Das Bundesgebiet umfasst die Gebiete der Länder im folgendem Umfange: </p>
-                                    <p type="legal_section">Niederösterreich:…Oberösterreich:…etz.
-                                          Wien: </p>
+                                    <list>
+                                          <item>Niederösterreich: …</item>
+                                          <item>Oberösterreich: ...</item>
+                                          <item>etz.</item>
+                                          <item>Wien:</item>
+                                    </list>
                               </div>
                               <div type="article">
                                     <head>Art. 4. </head>
@@ -367,12 +371,12 @@
                                                 <add>selbständigen</add>
                                           </choice> Länder Niederösterreich etz. übertragen dem
                                           Bunde ihre Staatsgewalt in den folgenden Angelegenheiten:<list>
-                                                <label>1. </label>
+                                                <label>1.</label>
                                                 <item>Die auswärtigen Angelegenheiten, </item>
                                                 <label>2.</label>
                                                 <item>das Militärwesen, </item>
                                                 <label>3.</label>
-                                                <item>die Sicherheitspolizei in Gemeinden bis zu…
+                                                <item>die Sicherheitspolizei in Gemeinden bis zu …
                                                   Einwohnern; die Fremdenpolizei und das Passwesen, </item>
                                                 <label>4.</label>
                                                 <item>die Bundesfinanzen, das Monopolwesen und die
@@ -411,7 +415,7 @@
                                                 <item>Die Regelung des Staatsbürger- und
                                                   Heimatrechtes.</item>
                                                 <label>4.</label>
-                                                <item> die Regelung des Bevölkerungswesen,</item>
+                                                <item>die Regelung des Bevölkerungswesen,</item>
                                                 <label>5.</label>
                                                 <item>die Grundzüge der Verwaltungsorganisation der
                                                   Länder, die Regelung des Administrativverfahrens
@@ -493,13 +497,15 @@
                                                 Aufnahme und Konvertierung von Bundesanleihen und
                                                 die Erteilung des Absolutoriums an die
                                                 Bundesregierung auf Grund des geprüften und
-                                                gebilligten Bundesrechnungsabschlusses / Art.….<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><fw type="pageNum">- 5 -</fw>Diese Beschlüsse
+                                                gebilligten Bundesrechnungsabschlusses / Art. … .<pb
+                                                  facs="#facs_6" n="6" xml:id="img_0006" break="yes"
+                                                  /><fw type="pageNum">- 5 -</fw>Diese Beschlüsse
                                                 bedürfen der Genehmigung des Bundesrates. </p>
                                     </div>
                                     <div type="article">
                                           <head>Art. 16. </head>
                                           <p type="legal_section">Zum Bundestag werden in dem
-                                                gesamten Bundesgebiet… Abgeordnete auf Grund des
+                                                gesamten Bundesgebiet … Abgeordnete auf Grund des
                                                 gleichen, direkten persönlichen und geheimen
                                                 Wahlrechtes aller Bundesbürger ohne Unterschied des
                                                 Geschlechtes, die vor dem 1. Jänner d. J., in
@@ -512,7 +518,7 @@
                                                 zur Bundesversammlung stattfindet, das 29.
                                                 Lebensjahr überschritten hat. </p>
                                           <p type="legal_section">Vom Wahlrecht und der Wählbarkeit
-                                                sind ausgeschlossen:…</p>
+                                                sind ausgeschlossen: … .</p>
                                           <p type="legal_section">Die Wahlordnung für die Wahl zum
                                                 Bundestag wird in einem besonderen Gesetze erlassen.
                                                 Sie bildet einen Bestandteil der Bundesverfassung.
@@ -521,10 +527,10 @@
                                     <div type="article">
                                           <head>Art. 17. </head>
                                           <p type="legal_section">Die Legislaturperiode des
-                                                Bundestages beträgt…Jahre vom Tage seiner ersten
+                                                Bundestages beträgt … Jahre vom Tage seiner ersten
                                                 Einberufung an gerechnet. </p>
                                           <p type="legal_section">Der Bundestag ist alljährlich vom
-                                                Bundespräsidenten u. zw. im… einzuberufen. </p>
+                                                Bundespräsidenten u. zw. im … einzuberufen. </p>
                                           <p type="legal_section">Eine Sitzungsperiode des
                                                 Bundestages darf nicht länger als ein Jahr betragen.
                                           </p>
@@ -548,9 +554,9 @@
                                           <p type="legal_section">Auf Antrag der Bundesregierung
                                                 kann der Bundespräsident den Bundestag, jedoch nur
                                                 einmal aus demselben Anlass, auflösen. In diesem
-                                                Falle hat der Bundespräsident binnen… Wochen nach
+                                                Falle hat der Bundespräsident binnen … Wochen nach
                                                 erfolgter Auflösung Neuwahlen auszuschreiben und die
-                                                neugewählte Bundesversammlung binnen… Wochen nach
+                                                neugewählte Bundesversammlung binnen … Wochen nach
                                                 durchgeführter Wahl einzuberufen. </p>
                                     </div>
                                     <div type="article">
@@ -584,7 +590,7 @@
                                                 der in Art. <choice>
                                                   <del>14</del>
                                                   <add>17</add>
-                                                </choice>, Abs.2 und Art. <choice>
+                                                </choice>, Abs. 2 und Art. <choice>
                                                   <del>13</del>
                                                   <add>15</add>
                                                 </choice> erwähnten Beschlüsse erlangen
@@ -604,7 +610,7 @@
                                                   <add>28</add>
                                                 </choice>.</head>
                                           <p type="legal_section">Zu einem Beschluss des Bundestages
-                                                ist die Anwesenheit von mindestens… Mitgliedern und
+                                                ist die Anwesenheit von mindestens … Mitgliedern und
                                                 die absolute Mehrheit der abgegebenen Stimmen
                                                 erforderlich. </p>
                                           <p type="legal_section">Eine Abänderung der
@@ -620,13 +626,13 @@
                                                 </choice>.</head>
                                           <p type="legal_section">Jede Gesamtänderung der
                                                 Bundesverfassung, eine teilweise Aenderung aber nur,
-                                                wenn dies von… Mitgliedern der Bundesversammlung
-                                                oder… Mitgliedern des Bundesrates verlangt wird, ist
-                                                nach erfolgter Beschlussfassung durch den Bundestag
-                                                und Genehmigung durch den Bundesrat, jedoch vor der
-                                                Beurkundung durch den Bundespräsidenten einer
-                                                Abstimmung des gesamten Bundesvolkes zu unterziehen.
-                                          </p>
+                                                wenn dies von … Mitgliedern der Bundesversammlung
+                                                oder … Mitgliedern des Bundesrates verlangt wird,
+                                                ist nach erfolgter Beschlussfassung durch den
+                                                Bundestag und Genehmigung durch den Bundesrat,
+                                                jedoch vor der Beurkundung durch den
+                                                Bundespräsidenten einer Abstimmung des gesamten
+                                                Bundesvolkes zu unterziehen. </p>
                                     </div>
                                     <div type="article">
                                           <head>Art. <choice>
@@ -703,7 +709,7 @@
                                                   <corr>e</corr>
                                                 </choice>ht das Recht zu, ausnahmsweise die
                                                 Oeffentlichkeit auszuschliesen, wenn es vom
-                                                Präsidenten oder wenigstens… Mitgliedern verlangt
+                                                Präsidenten oder wenigstens … Mitgliedern verlangt
                                                 und vom Hause nach Entfernung der Zuhörer
                                                 beschlossen wird. </p>
                                     </div>
@@ -810,7 +816,7 @@
                                                 sofort dem Bundesrate zur Genehmigung vorzulegen
                                                 hat. </p>
                                           <p type="legal_section">Der Bundesrat hat den Beschlüssen
-                                                des Bundestages bis längstens… Wochen nach Schluss
+                                                des Bundestages bis längstens … Wochen nach Schluss
                                                 der Session die Genehmigung zu erteilen oder mit
                                                 Angabe von Gründen zu verweigern.</p>
                                           <p type="legal_section">Der genehmigte Beschluss ist im
@@ -851,7 +857,7 @@
                                                   Bestimmungen de<choice>
                                                   <del>s</del>
                                                   <add>r</add>
-                                                  </choice> Art.… Anwendung.</item>
+                                                  </choice> Art. … Anwendung.</item>
                                                   <label><add>(3)</add></label>
                                                   <item>Nimmt das Bundesvolk den Be<choice>
                                                   <sic/>
@@ -991,7 +997,7 @@
                                     </div>
                                     <div type="article">
                                           <head>Art. 46. </head>
-                                          <p type="legal_section">Auf Antrag von mindestens…
+                                          <p type="legal_section">Auf Antrag von mindestens …
                                                 Mitgliedern hat der Bundestag
                                                 Untersuchungsausschüsse einzusetzen. </p>
                                           <p type="legal_section">Alle Gerichte und Behörden sind
@@ -1025,7 +1031,7 @@
                                                   <add>seiner</add>
                                                   </choice> Funktionsperiode. </p>
                                                 <p type="legal_section">Wird der Bundestag vor
-                                                  Ablauf der… jährigen Legislaturperiode aufgelöst,
+                                                  Ablauf der … jährigen Legislaturperiode aufgelöst,
                                                   hat auch eine Neuwahl des Bundespräsidenten und
                                                   seines Stellvertreters zu erfolgen. </p>
                                                 <p type="legal_section">Eine Neuwahl des
@@ -1273,7 +1279,7 @@
                                                   Bundestages, mit welchem das Vertrauen versagt
                                                   wird, ist die Anwesenheit der Hälfte der
                                                   Mitglieder der Bundestages erforderlich. Doch ist,
-                                                  wenn… Mitglieder es verlangen, die Abstimmung auf
+                                                  wenn … Mitglieder es verlangen, die Abstimmung auf
                                                   dem zweitnächsten Werktag zu vertagen. Eine
                                                   neuerliche Vertagung der Abstimmung kann nur auf
                                                   Beschluß des Bundestages erfolgen. </p>
@@ -1308,7 +1314,7 @@
                                                   Bundesverwaltung sind die
                                                   Bundeskanzlei<del>en</del>
                                                   <add>und</add> folgende<del>r</del> Bundesämter
-                                                  berufen:…. Die Bundeskanzlei steht unter der
+                                                  berufen: … . Die Bundeskanzlei steht unter der
                                                   Leitung des Bundeskanzlers, jedes andere Bundesamt
                                                   unter der Leitung eines Staatssekretärs. </p>
                                                 <p type="legal_section">Aenderungen des
@@ -1639,8 +1645,8 @@
                                     <p type="legal_section">Jeder Landtag kann auf Antrag der
                                           Bundesregierung vom Bundespräsidenten aufgelöst werden. </p>
                                     <p type="legal_section">In diesem Falle hat der Bundeshauptmann
-                                          binnen… Wochen Neuwahlen auszuschreiben und binnen
-                                          weiteren… Wochen den neugewählten Landtag <choice>
+                                          binnen … Wochen Neuwahlen auszuschreiben und binnen
+                                          weiteren … Wochen den neugewählten Landtag <choice>
                                                 <sic>neu</sic>
                                                 <corr>ein</corr>
                                           </choice> zu<add>-</add> berufen.</p>
@@ -1653,7 +1659,7 @@
                                     <p type="legal_section">Die vollziehende Gewalt jedes Landes wird durch eine vom Landtag zu wählende
                                           Landesregierung ausgeübt. </p>
                                     <p type="legal_section">Die Landesregierung besteht aus dem
-                                          Landeshauptmann, seinem Stellvertreter und… bis…
+                                          Landeshauptmann, seinem Stellvertreter und … bis …
                                           Beisitzern.</p>
                                     <p type="legal_section">Die Mitglieder der Landesregierung müssen nicht dem Landtage angehören. </p>
                                     <p type="legal_section">Die Wahl des Landeshauptmannes und seiner Stellvertreter bedarf der
@@ -1806,7 +1812,9 @@
                                           Leitung. Er ist hinsichtlich der
                                           Verantwortlichkeit den Mitgliedern der
                                           Bundesregierung gleichgestellt. </p>
-                                    <p type="legal_section">Abgesehen von dem in Art.…,<pb facs="#facs_36" n="36" xml:id="img_0036" break="yes"/><fw type="pageNum">- 36 - </fw>der
+                                    <p type="legal_section">Abgesehen von dem in Art. …,<pb
+                                                facs="#facs_36" n="36" xml:id="img_0036" break="yes"
+                                                /><fw type="pageNum">- 36 - </fw>der
                                           Bundesverfassung analoge Anwendung. </p>
                               </div>
                               <div type="article">
@@ -1842,14 +1850,15 @@
                                           der Präsident durch den im Range nächsten Beamten des
                                           Bundesrechnungshofes vertreten. </p>
                                     <p type="legal_section">Für den Stellvertreter gelten die
-                                          Bestimmungen des Art.…</p>
+                                          Bestimmungen des Art. … .</p>
                                     <p type="legal_section">Ist die Stelle des Präsidenten dauernd
                                           erledigt, kann der Stellvertreter vom Bundespräsidenten,
                                           bis die Wahl des Präsidenten des Bundesrechnungshofes
-                                                erfolgt<pb facs="#facs_37" n="37" xml:id="img_0037" break="yes"/><fw type="pageNum">- 37 -</fw>ist, mit
+                                                erfolgt<pb facs="#facs_37" n="37" xml:id="img_0037"
+                                                break="yes"/><fw type="pageNum">- 37 -</fw>ist, mit
                                           der Leitung des Bundesrechnungshofes betraut werden. In
                                           diesem Falle finden auch auf den Stellvertreter die
-                                          Bestimmungen des Art.… Anwendung. </p>
+                                          Bestimmungen des Art. … Anwendung. </p>
                               </div>
                               <div type="article">
                                     <head>Art. 1<choice>
@@ -1917,19 +1926,19 @@
                                           </choice>. </head>
                                     <p type="legal_section">Der Bundesrechnungshof ist gegenüber den
                                           anweisenden Behörden und den diesen unterstehenden
-                                          Stellen, dann gegenüber den im Art.… bezeichneten
+                                          Stellen, dann gegenüber den im Art. … bezeichneten
                                           Vermögens- und Körperschaften berechtigt, zur Ueberprüfung
                                           der Gebarung.<list>
-                                                <label>a) </label>
+                                                <label>a)</label>
                                                 <item>die Einsendung von Rechnungsbelegen und
                                                   Behelfen (Geschäftsstücke, Verträge u.s.w.) zu
                                                   verlangen, </item>
-                                                <label>b) </label>
+                                                <label>b)</label>
                                                 <item>durch Beauftragte an Ort und Stelle in die mit
                                                   der Gebarung der betreffenden Stelle im
                                                   Zusammenhange stehenden Behelfe Einschau zu
                                                   nehmen. </item>
-                                                <label>c) </label>
+                                                <label>c)</label>
                                                 <item>die Vornahme von Lokalerhebungen durch die
                                                   Verwaltungsbehörden anzuordnen und an diesen
                                                   Amtshandlungen durch Beauftragte teilzunehmen.
@@ -2262,7 +2271,7 @@
                                     <p type="legal_section">Die auf Gesetz, Vertrag oder besondere
                                           Rechtstiteln beruhenden Staatsleistungen
                                                 <del>vo</del><add>a</add>n Religionsgesellschaften
-                                          sind durch… Gesetz abzulösen. </p>
+                                          sind durch … Gesetz abzulösen. </p>
                                     <p type="legal_section">Das Eigentum und andere Rechte der
                                           Religionsgesellschaften und religiösen Vereine<del>n</del>
                                           an ihren für Kultus und Unterricht und
@@ -2286,7 +2295,7 @@
                                                 <add>8</add>
                                           </choice>. </head>
                                     <p type="legal_section">Die nähere Durchführung der Bestimmungen
-                                          der Art.… erfolgt durch Bundesgesetz.</p>
+                                          der Art. … erfolgt durch Bundesgesetz.</p>
                               </div>
                               <div type="article">
                                     <pb facs="#facs_47" n="47" xml:id="img_0047" break="yes"/>
@@ -2308,9 +2317,9 @@
                                           Aufsicht des Staates. </p>
                                     <p type="legal_section">Es besteht eine allgemeine Schulpflicht.
                                                 Ihre<add>r</add> Erfüllung <add>dient</add>
-                                          grundsätzlich die Volksschule mit mindestens… Schuljahren.
-                                          Der Unterricht und die Lehrmittel in den Volksschulen sind
-                                          unentgeltlich.</p>
+                                          grundsätzlich die Volksschule mit mindestens …
+                                          Schuljahren. Der Unterricht und die Lehrmittel in den
+                                          Volksschulen sind unentgeltlich.</p>
                               </div>
                               <div type="article">
                                     <head>Art. 14<choice>
@@ -2498,7 +2507,7 @@
                                           </choice>.</head>
                                     <p type="legal_section">Wer durch rechtswidrige Ausübung der
                                           öffentlichen Gewalt Schaden erleidet, hat <add>– abgesehen
-                                                von dem in Art.… geregelten Fall – </add>einen im
+                                                von dem in Art. … geregelten Fall – </add>einen im
                                           Wege der ordentlichen Gerichte geltend zu machenden
                                           Anspruch auf Entschädigung gegen den Bund oder das Land,
                                           durch dessen Organ der<pb facs="#facs_51" n="51"
@@ -2725,7 +2734,7 @@
                                                 </choice>.</head>
                                           <p type="legal_section">Das Bundesverfassungsgericht
                                                 entscheidet über Bundesgesetzwidrigkeit von
-                                                Landesgesetzen außer dem im Art.… erwähnten Fall -
+                                                Landesgesetzen außer dem im Art. … erwähnten Fall -
                                                 auf Antrag der Bundesregierung. </p>
                                           <p type="legal_section">Der Antrag der Bundesregierung
                                                 kann jederzeit gestellt werden; er ist jedoch vier
@@ -2863,7 +2872,7 @@
                                                 </choice>.</head>
                                           <p type="legal_section">Die nähere Organisation des
                                                 Bundesverfassungsgerichtes sowie das Verfahren vor
-                                                ihm in den verschiedenen in den Art. angeführten
+                                                ihm in den verschiedenen in den Art. … angeführten
                                                 Fällen, wird in gesonderten Bundesgesetzen
                                                 geregelt.</p>
                                     </div>
